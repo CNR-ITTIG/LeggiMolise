@@ -1,0 +1,1549 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2003-04-16;15"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.Agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 9 del 30 aprile 2003 
+ 
+Oggetto 
+Territori montani - Tutela sviluppo e valorizzazione - Interventi misure e servizi - Disciplina. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20030416">16 aprile 2003</dataDoc>, n. <numDoc>15</numDoc>. 
+ 
+<titoloDoc>Interventi per la tutela, lo sviluppo e la valorizzazione del territorio montano. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <titolo id="tit1">
+                <num>TITOLO I </num>
+                <rubrica>
+ 
+DISPOSIZIONI GENERALI 
+ 
+</rubrica>
+                <articolo id="art1">
+                    <num>Art. 1 </num>
+                    <rubrica>
+ 
+(Campo di applicazione) 
+ </rubrica>
+                    <comma id="art1-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La presente legge si applica ai territori delle Comunità Montane delimitati dalla <rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12">legge regionale 8 luglio 2002, n. 12</rif>. </corpo>
+                    </comma>
+                    <comma id="art1-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Per il raggiungimento degli obiettivi di cui all'<rif xlink:href="#art2">articolo 2</rif>, la presente legge detta norme di diretta applicazione ovvero integra o modifica pregresse leggi regionali di disciplina di specifici settori di materie, indicandone misure e priorità di intervento a favore delle zone montane. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art2">
+                    <num>Art. 2 </num>
+                    <rubrica>
+ 
+(Finalità) 
+ </rubrica>
+                    <comma id="art2-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La Regione, ai sensi degli articoli 2, 3, 5 e 44 della Costituzione e del nuovo <rif
+                                xlink:href="urn:nir:stato:costituzione:1947-12-27#prt2-tit5">Titolo V della parte II della Costituzione</rif>, promuove ed attua una politica strutturale per la montagna, secondo indirizzi coerenti con le norme comunitarie ed i principi della <rif xlink:href="urn:nir:stato:legge:1994-01-31;97">legge 31 gennaio 1994, n. 97</rif> e successive modificazioni. 
+ 
+ La politica regionale per la montagna si fonda sui principi costituzionali di promozione delle autonomie locali, di eguaglianza, di sussidiarietà, adeguatezza e differenziazione, di solidarietà, di accessibilità ai servizi, di perequazione fiscale e di promozione dello sviluppo economico locale. </corpo>
+                    </comma>
+                    <comma id="art2-com2">
+                        <num>
+ 
+2.</num>
+                        <alinea> La politica strutturale per la montagna si attua attraverso atti normativi, programmi, intese e forme di concertazione, interventi ed azioni di integrazione intersettoriale che convergono nel perseguimento degli obiettivi di: 
+ 
+</alinea>
+                        <el id="art2-com2-leta">
+                            <num>a)</num>
+                            <corpo>  valorizzazione ed utilizzazione, integrale e compatibile, delle risorse umane, produttive, storico-culturali e naturali proprie della montagna;</corpo>
+                        </el>
+                        <el id="art2-com2-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo>  rafforzamento e qualificazione delle condizioni ottimali per l'insediamento umano;</corpo>
+                        </el>
+                        <el id="art2-com2-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo>  tutela e valorizzazione dell'ambiente e difesa del suolo;</corpo>
+                        </el>
+                        <el id="art2-com2-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo>  sviluppo produttivo, occupazionale e di promozione sociale imperniati sulla crescita civile, educativa e culturale;</corpo>
+                        </el>
+                        <el id="art2-com2-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> accessibilità, qualificazione e consolidamento dei servizi sociali e del sistema scolastico, educativo e formativo, nonché dei servizi pubblici anche ad elevato valore tecnologico;</corpo>
+                        </el>
+                        <el id="art2-com2-letf">
+                            <num> 
+ 
+f)</num>
+                            <corpo> creazione e diffusione di servizi reali, informativi ed informatici alle imprese;</corpo>
+                        </el>
+                        <el id="art2-com2-letg">
+                            <num> 
+ 
+g)</num>
+                            <corpo> diversificazione, integrazione ed incremento delle fonti di reddito mediante incentivazione coordinata delle attività agricole, turistiche, artigianali e commerciali, di protezione e conservazione dello spazio naturale e sviluppo di colture e allevamenti alternativi;</corpo>
+                        </el>
+                        <el id="art2-com2-leth">
+                            <num> 
+ 
+h)</num>
+
+                            <corpo> costruzione di un efficiente e coeso sistema legale di autogoverno e di partecipazione alla politica di sviluppo regionale delle comunità di montagna, in coerenza con le disposizioni generali della <rif xlink:href="urn:nir:regione.molise:legge:1999-09-29;34">legge regionale 29 settembre 1999, n. 34</rif> e con la legge regionale di ordinamento delle Comunità Montane. 
+ 
+</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit2">
+                <num>TITOLO II </num>
+                <rubrica>
+ 
+COMPETENZE REGIONALI E RUOLO DELLE AUTONOMIE LOCALI 
+ 
+</rubrica>
+                <articolo id="art3">
+                    <num>Art. 3 </num>
+                    <rubrica>
+ 
+(Competenze regionali) 
+ </rubrica>
+                    <comma id="art3-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La Regione, nell'ambito delle funzioni esercitate ai sensi dell'<rif xlink:href="urn:nir:regione.molise:legge:1999-09-29;34#art4">articolo 4 della legge regionale 29 settembre 1999 n. 34</rif>, predispone l'atto di indirizzo programmatico, denominato: "Programma di sviluppo delle aree montane", che definisce i criteri direttivi di attuazione della legislazione per la montagna, determinandone gli obiettivi specifici, i termini, le procedure e le modalità degli interventi, nonché i casi e le garanzie per gli atti sostitutivi. Le misure di sostegno sono subordinate alla verifica di ammissibilità ai sensi dell'articolo 87 e notificate alla Commissione europea in conformità alle disposizioni previste al paragrafo 3 dell'articolo 88 del Trattato. </corpo>
+                    </comma>
+                    <comma id="art3-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> L'atto di indirizzo è proposto dalla Giunta regionale, previo confronto in sede di Conferenza regionale delle Autonomie locali, di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1999-09-29;34#art9">articolo 9 della legge regionale 29 settembre 1999, n. 34</rif> ed è approvato dal Consiglio regionale entro novanta giorni; i pareri delle Commissioni consiliari sono espressi entro quarantacinque giorni, diversamente si intendono acquisiti. </corpo>
+                    </comma>
+                    <comma id="art3-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Entro sessanta giorni dall'approvazione del Programma di sviluppo delle aree montane, la Giunta regionale emana i regolamenti di attuazione. La Giunta regionale entro il 20 febbraio di ogni anno relaziona al Consiglio regionale sull'attuazione del Programma di sviluppo delle aree montane. Il Programma è soggetto a revisione ogni tre anni, al fine di assicurare il raggiungimento degli obiettivi ed il superamento delle eventuali criticità rilevate. </corpo>
+                    </comma>
+                    <comma id="art3-com4">
+                        <num>
+ 
+4.</num>
+
+                        <corpo> Le politiche specifiche per il territorio montano sono finanziate dal Fondo regionale per la montagna, di cui al <rif xlink:href="#art7">successivo articolo 7</rif>. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art4">
+                    <num>Art. 4 </num>
+                    <rubrica>
+ 
+(Ruolo dei Comuni e delle Comunità Montane) 
+ </rubrica>
+                    <comma id="art4-com1">
+                        <num>
+1.</num>
+                        <corpo> I Comuni montani e le Comunità Montane partecipano alle scelte della politica e della programmazione regionale per la montagna e ne sono i principali soggetti attuatori. </corpo>
+                    </comma>
+                    <comma id="art4-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> La Regione Molise garantisce negli istituti, nelle procedure di concertazione e di consultazione modalità puntuali di concorso dei Comuni montani e delle Comunità Montane. </corpo>
+                    </comma>
+                    <comma id="art4-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Ai Comuni montani spettano le funzioni fondamentali, di cui alla <rif
+                                xlink:href="urn:nir:stato:costituzione:1947-12-27#art117-com2-letp">lettera p), comma 2, art. 117 della Costituzione</rif>, e le funzioni amministrative, ai sensi dell'<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art118">art. 118 della Costituzione</rif>, salvo quelle che, per assicurarne l'esercizio unitario, siano conferite alle Province o alla Regione. In base ai principi di adeguatezza e differenziazione, le funzioni dei Comuni montani, qualora i Comuni stessi non dispongano diversamente, sono esercitate in forma associata dalle Comunità montane. </corpo>
+                    </comma>
+                    <comma id="art4-com4">
+                        <num>
+ 
+4.</num>
+
+                        <corpo> Per la ripartizione e la decorrenza dei compiti e delle funzioni, per le modalità del conferimento, per l'assegnazione delle risorse finanziarie, umane, organizzative e strumentali, per la regolazione dei rapporti tra le Comunità montane, i Comuni montani, le Province e la Regione, salvo le forme più ampie di poteri e di risorse previste dalla presente legge o da altre norme, si applica la <rif xlink:href="urn:nir:regione.molise:legge:1999-09-29;34">legge regionale 29 settembre 1999, n. 34</rif> e successive modifiche. </corpo>
+                    </comma>
+                    <comma id="art4-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> I piani di sviluppo socio-economico ed i relativi programmi operativi annuali delle Comunità Montane indicano le azioni specifiche territoriali di attuazione della politica regionale per la montagna così come contenuto nel Programma di sviluppo delle aree montane. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art5">
+                    <num>Art. 5 </num>
+                    <rubrica>
+ 
+(Funzioni e compiti amministrativi delle Comunità Montane in materia di agricoltura) 
+ </rubrica>
+                    <comma id="art5-com1">
+                        <num>
+1.</num>
+
+                        <alinea> Alle Comunità Montane, oltre quanto disposto dalla <rif xlink:href="urn:nir:regione.molise:legge:1999-09-29;34">legge regionale n. 34 del 29 settembre 1999</rif>, sono conferiti le seguenti funzioni e compiti amministrativi: 
+ 
+</alinea>
+                        <el id="art5-com1-leta">
+                            <num>a)</num>
+                            <corpo> gestione degli impianti irrigui, compresa la emissione dei ruoli per il pagamento delle utenze dell'acqua;</corpo>
+                        </el>
+                        <el id="art5-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> riconoscimento delle agevolazioni fiscali per gli imprenditori agricoli a titolo principale e attestazione all'ufficio del registro per il mantenimento dei benefici fiscali a favore degli stessi imprenditori agricoli a titolo principale;</corpo>
+                        </el>
+                        <el id="art5-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> rilevazioni statistiche in materia di attività agricole. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art5-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Le Comunità Montane sono i soggetti attuatori degli interventi di sostegno nel settore agricolo e zootecnico per le misure specificatamente previste dal Programma di sviluppo delle aree montane, di cui al <rif xlink:href="#art3-com1">comma 1 dell'articolo 3</rif>. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit3">
+                <num>TITOLO III </num>
+                <rubrica>
+ 
+MODALITÀ DI ATTUAZIONE 
+ 
+</rubrica>
+                <articolo id="art6">
+                    <num>Art. 6 </num>
+                    <rubrica>
+ 
+(Consulta permanente per la montagna) 
+ </rubrica>
+                    <comma id="art6-com1">
+                        <num>
+1.</num>
+
+                        <corpo> È istituita, all'interno della Conferenza regionale delle autonomie locali, di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1999-09-29;34#art9">articolo 9 della legge regionale 29 settembre 1999 n. 34</rif>, la Consulta permanente per la montagna. </corpo>
+                    </comma>
+                    <comma id="art6-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> La Consulta permanente per la montagna esprime il proprio parere sulla proposta del Programma di sviluppo delle aree montane così come previsto al <rif
+                                xlink:href="#art3-com2">comma 2 dell'articolo 3</rif> della presente legge. La Giunta regionale nella predisposizione della relazione annuale sull'attuazione del programma, di cui al <rif xlink:href="#art3-com3">comma 3 dell'articolo 3</rif> della presente legge, inserisce le osservazioni predisposte dalla Consulta. </corpo>
+                    </comma>
+                    <comma id="art6-com3">
+                        <num>
+ 
+3.</num>
+                        <alinea> Il regolamento stabilisce la composizione della Consulta, che deve comunque assicurare la partecipazione di: 
+ 
+</alinea>
+                        <el id="art6-com3-leta">
+                            <num>a)</num>
+                            <corpo> un RAPPRESENTANTE dell'U.N.C.E.M. regionale;</corpo>
+                        </el>
+                        <el id="art6-com3-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> un RAPPRESENTANTE dell'A.N.<rif xlink:href="#art6-com1">C.I</rif>. regionale;</corpo>
+                        </el>
+                        <el id="art6-com3-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> un RAPPRESENTANTE dell'U.P.I. regionale;</corpo>
+                        </el>
+                        <el id="art6-com3-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> un RAPPRESENTANTE del C.A.I;</corpo>
+                        </el>
+                        <el id="art6-com3-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> tre SINDACI di Comuni montani nominati dal Consiglio regionale con voto limitato a due;</corpo>
+                        </el>
+                        <el id="art6-com3-letf">
+                            <num> 
+ 
+f)</num>
+                            <corpo> tre PRESIDENTI delle Comunità montane nominati dal Consiglio regionale con voto limitato a due. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art6-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Il regolamento prevede garanzie per l'attivazione di momenti di concertazione, proposta e consultazione dei componenti della Consulta e di altri Sindaci e Presidenti di Comunità montane nonché delle organizzazioni professionali e delle forze sociali, anche su loro iniziativa. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art7">
+                    <num>Art. 7 </num>
+                    <rubrica>
+ 
+(Fondo regionale per la montagna) 
+ </rubrica>
+                    <comma id="art7-com1">
+                        <num>
+1.</num>
+                        <corpo> È istituito il "Fondo regionale per la montagna", di seguito denominato: "Fondo", per il finanziamento degli interventi previsti dalla presente legge. </corpo>
+                    </comma>
+                    <comma id="art7-com2">
+                        <num>
+ 
+2.</num>
+                        <alinea> Il Fondo è costituito da: 
+ 
+</alinea>
+                        <el id="art7-com2-leta">
+                            <num>a)</num>
+
+                            <corpo> la quota di competenza regionale assegnata, annualmente, ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1994-01-31;97#art2">articolo 2 della legge 31 gennaio 1994, n. 97</rif> e successive modifiche;</corpo>
+                        </el>
+                        <el id="art7-com2-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> le assegnazioni provenienti da altre leggi nazionali a destinazione vincolata;</corpo>
+                        </el>
+                        <el id="art7-com2-letc">
+                            <num> 
+ 
+c)</num>
+
+                            <corpo> gli stanziamenti a carico del bilancio regionale determinati annualmente con legge di bilancio per una quota comunque non inferiore a quella prevista alla <rif xlink:href="#art7-com2-leta">lettera a)</rif>;</corpo>
+                        </el>
+                        <el id="art7-com2-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> i finanziamenti destinati allo sviluppo dei territori di montagna derivanti da trasferimenti dello Stato, di enti pubblici e dell'Unione Europea;</corpo>
+                        </el>
+                        <el id="art7-com2-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> i fondi derivanti da trasferimenti per funzioni attribuite, conferite o delegate;</corpo>
+                        </el>
+                        <el id="art7-com2-letf">
+                            <num> 
+ 
+f)</num>
+                            <corpo> il 70% dei finanzia menti derivanti da trasferimenti annuali dell'Unione nazionale incremento razze equine (U.N.I.R.E.), da destinare esclusivamente ad interventi nel comparto ippico;</corpo>
+                        </el>
+                        <el id="art7-com2-letg">
+                            <num> 
+ 
+g)</num>
+                            <corpo> eventuali contributi regionali alle spese di gestione. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art7-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Il Fondo è ripartito dalla Giunta regionale, tra le Comunità montane, utilizzando i criteri delle fasce altimetriche e di marginalità socio-economica, ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12">legge regionale 8 luglio 2002, n. 12</rif>. </corpo>
+                    </comma>
+                    <comma id="art7-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Le leggi regionali che prevedono misure di sostegno devono assicurare priorità agli interventi nelle aree montane per una quota non inferiore al 50% delle risorse previste. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art8">
+                    <num>Art. 8 </num>
+
+                    <rubrica>
+ 
+(Sistema informativo regionale per la montagna 
+ 
+<rif xlink:href="urn:nir:stato:legge:1994;97#art24">Art. 24 della legge n. 97/1994</rif>) 
+ </rubrica><?error Marker Warning 103 (last articolo:8 next:24)?>
+                    <comma id="art8-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Nell'ambito del sistema informativo della Regione Molise, di cui alla <rif
+                                xlink:href="urn:nir:regione.molise:legge:1999;3">legge regionale n. 3/1999</rif> e dell'<rif xlink:href="urn:nir:regione.molise:legge:1999;34#art13">articolo 13 della legge regionale n. 34/1999</rif>, la Regione stessa promuove, entro tre mesi dalla entrata in vigore della presente legge, un accordo di programma con l'Autorità per l'informatica nella pubblica amministrazione e con il Ministero per le Politiche Agricole volto a realizzare forme di collaborazione e di collegamento, mediante una rete unitaria integrata regionale con il SIM (sistema informativo della montagna). </corpo>
+                    </comma>
+                    <comma id="art8-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Gli sportelli del SIM, attivati presso gli enti locali, nell'ambito dell'attuazione dei piani di sviluppo informatico delle pubbliche amministrazioni di cui all'<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000-12-28;445#art51">articolo 51 del D.P.R. 28 dicembre 2000 n. 445</rif>, potranno essere utilizzati per il rilascio di documenti e per ogni informazione ai singoli utenti. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit4">
+                <num>TITOLO IV </num>
+                <rubrica>
+ 
+TUTELA DEL TERRITORIO E DELL'AMBIENTE MONTANO 
+ 
+</rubrica>
+                <articolo id="art9">
+                    <num>Art. 9 </num>
+                    <rubrica>
+ 
+(Tutela ambientale) 
+ </rubrica>
+                    <comma id="art9-com1">
+                        <num>
+1.</num>
+                        <corpo> La Regione o le Comunità montane, nell'ambito delle rispettive competenze, possono contemplare, nei piani di bacino a rilevanza regionale ed interregionale, interventi speciali per la salvaguardia dello spazio naturale e dell'ambiente. </corpo>
+                    </comma>
+                    <comma id="art9-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> La Giunta regionale con proprio atto definisce i regimi di aiuto e le modalità applicative di quanto previsto all'<rif xlink:href="urn:nir:comunita.europee:regolamento:1999;1257#art51">articolo 51 del regolamento (CE) n. 1257/1999</rif> in esecuzione di quanto previsto al comma l, coerentemente con quanto contenuto nel Programma di sviluppo delle aree montane. </corpo>
+                    </comma>
+                    <comma id="art9-com3">
+                        <num>
+ 
+3.</num>
+                        <alinea> Gli interventi di cui al <rif xlink:href="#art9-com1">comma 1</rif> sono stabiliti rispettando le seguenti priorità: 
+ 
+</alinea>
+                        <el id="art9-com3-leta">
+                            <num>a)</num>
+                            <corpo> la sistemazione idrogeologica e forestale mediante la gestione di terreni demaniali, di uso civico o in gestione ad un ente pubblico, che rivestano interesse regionale;</corpo>
+                        </el>
+                        <el id="art9-com3-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> il rimboschimento dei terreni;</corpo>
+                        </el>
+                        <el id="art9-com3-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> la sistemazione dei pascoli e la riconversione dei seminativi in pascoli estensivi;</corpo>
+                        </el>
+                        <el id="art9-com3-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> lo sviluppo della biodiversità. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art9-com4">
+                        <num>
+ 
+4.</num>
+
+                        <corpo> La Regione Molise riconosce le organizzazioni montane che gestiscono beni agro-silvo-pastorali in forma della proprietà collettiva, comunque denominate e costituite, quali soggetti che concorrono allo sviluppo economico ed alla tutela sociale della montagna, ferme restando le disposizioni previste dalla <rif
+                                xlink:href="urn:nir:stato:legge:1927;1766">legge n. 1766/1927</rif>, dal <rif
+                                xlink:href="urn:nir:stato:regio.decreto:1928;332">Regio Decreto n. 332/1928</rif> e dalla <rif xlink:href="urn:nir:stato:legge:1957;278">legge n. 278/1957</rif> e successive modifiche ed integrazioni. </corpo>
+                    </comma>
+                    <comma id="art9-com5">
+                        <num>
+ 
+5.</num>
+
+                        <corpo> Alle organizzazioni di cui al precedente comma è attribuita, su loro richiesta, la personalità giuridica di diritto privato, previo accertamento dei presupposti riguardanti i nuclei familiari, le utenze aventi diritto ed i beni che riguardano la relativa gestione; esse sono regolate da uno <rif xlink:href="urn:nir:regione.molise:statuto:">statuto</rif> specifico e dalle consuetudini locali. </corpo>
+                    </comma>
+                    <comma id="art9-com6">
+                        <num>
+ 
+6.</num>
+                        <corpo> Il patrimonio comune delle organizzazioni è inalienabile, non divisibile e non usucapibile, con destinazione per usi esclusivamente agro-silvo-pastorali; le stesse organizzazioni possono modificare la destinazione dei beni per interventi che riguardino attività agricole ed impianti di trasformazione e di commercializzazione dei prodotti agro-silvo-pastorali, nonché per la realizzazione di impianti e di infrastrutture turistiche. Restano in ogni caso fermi gli obblighi di rispetto degli strumenti urbanistici vigenti. </corpo>
+                    </comma>
+                    <comma id="art9-com7">
+                        <num>
+ 
+7.</num>
+                        <corpo> La Giunta regionale, sentite le organizzazioni interessate, emana, entro 120 giorni dalla data di entrata in vigore della presente legge, norme regolamentari riguardanti l'individuazione, l'organizzazione e la gestione patrimoniale dei soggetti di cui al presente articolo, nonché le forme di coordinamento tra esse e gli enti locali. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art10">
+                    <num>Art. 10 </num>
+                    <rubrica>
+ 
+(Risorse idriche della montagna) 
+ </rubrica>
+                    <comma id="art10-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Nella determinazione della tariffa d'ambito per i servizi idrici integrati, di cui agli articoli 13 e 14 della <rif xlink:href="urn:nir:stato:legge:1994;36">legge n. 36/1994</rif>, l'Autorità d'ambito prevede una quota della tariffa non inferiore al 10%, per la difesa e la tutela del territorio montano. </corpo>
+                    </comma>
+                    <comma id="art10-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Le risorse finanziarie di cui al <rif xlink:href="#art10-com1">comma 1</rif> sono destinate per interventi finalizzati alla tutela ed alla sistemazione dell'assetto idrogeologico connesso con la salvaguardia delle risorse idriche e devono essere coerenti con le misure previste dal Programma di sviluppo delle aree montane. </corpo>
+                    </comma>
+                    <comma id="art10-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> L'Autorità d'ambito, in sede di determinazione della tariffa d'ambito per i servizi idrici integrati, prevede specifiche condizioni di riduzione degli oneri a carico delle utenze nelle zone montane, avuto riguardo delle fasce altimetriche previste dalla legislazione regionale. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art11">
+                    <num>Art. 11 </num>
+                    <rubrica>
+ 
+(Risorse energetiche, allacciamenti e tariffe) 
+ </rubrica>
+                    <comma id="art11-com1">
+                        <num>
+1.</num>
+                        <corpo> Le Comunità montane ed i Comuni montani concedono a favore delle prime case dei residenti contributi per il solo onere extra urbano dovuto per allacciamenti telefonici e per potenziamento di linee elettriche al fine di consentire collegamenti con piccoli agglomerati, nonché per reti di distribuzione del gas-metano e del G.P.L. e per piccoli interventi di captazione e di adduzione delle acque. </corpo>
+                    </comma>
+                    <comma id="art11-com2">
+                        <num>
+ 
+2.</num>
+                        <alinea> Ai Comuni montani ricadenti: 
+ 
+</alinea>
+                        <el id="art11-com2-leta">
+                            <num>a)</num>
+
+                            <corpo> nella zona climatica F, così come individuati dal <rif xlink:href="urn:nir:presidente.repubblica:decreto:1993;412">D.P.R. n. 412/1993</rif> e successive modificazioni, è riconosciuto l'esonero totale dalle imposte regionali sui combustibili da riscaldamento (gasolio, gas-metano e G.P.L.);</corpo>
+                        </el>
+                        <el id="art11-com2-letb">
+                            <num> 
+ 
+b)</num>
+
+                            <corpo> nelle zone climatiche E ed F, così come individuati dal <rif xlink:href="urn:nir:presidente.repubblica:decreto:1993;412">D.P.R. n. 412/1993</rif> e successive modificazioni, è riconosciuta, con apposito regolamento emanato entro 90 giorni dalla data di entrata in vigore della presente legge, una ulteriore riduzione delle accise per consumi dei combustibili da riscaldamento e per quelli destinati alle attività produttive. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art11-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> La concessione regionale per piccoli generatori aventi potenza non superiore ai 30 KW, per lo sfruttamento di piccoli salti d'acqua, è rilasciata prioritariamente ai residenti nei Comuni montani, nonché ad imprese che svolgono la loro attività negri stessi ambiti. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art12">
+                    <num>Art. 12 </num>
+                    <rubrica>
+ 
+(Interventi sulle  infrastrutture pubbliche e collettive) 
+ </rubrica>
+                    <comma id="art12-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Il Programma di sviluppo delle aree montane, di cui al <rif xlink:href="#art3-com1">comma 1 dell'articolo 3</rif>, promuove lo sviluppo infrastrutturale del territorio montano e la promozione delle risorse idriche ed ambientali quale obiettivo delle azioni da attivare attraverso le Comunità montane, anche per garantire condizioni di sviluppo alle popolazioni ivi residenti. </corpo>
+                    </comma>
+                    <comma id="art12-com2">
+                        <num>
+ 
+2.</num>
+                        <alinea> Tali finalità sono perseguite attraverso: 
+ 
+</alinea>
+                        <el id="art12-com2-leta">
+                            <num>a)</num>
+                            <corpo> azioni territoriali concernenti piccoli invasi ad uso irriguo, infrastrutture stradali ed acquedotti rurali. I contributi possono essere erogati anche a soggetti interessati e comunque associati per opere di particolare interesse collettivo o di particolare necessità di pubblico transito delle popolazioni rurali;</corpo>
+                        </el>
+                        <el id="art12-com2-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> azioni concernenti la realizzazione, il miglioramento e la manutenzione di opere pubbliche concernenti la difesa del suolo, le sistemazioni idrauliche, le opere di captazione, di adduzione e di distribuzione delle acque, a favore degli enti responsabili della gestione, che rispondano esclusivamente a fini di pubblica utilità;</corpo>
+                        </el>
+                        <el id="art12-com2-letc">
+                            <num> 
+ 
+c)</num>
+
+                            <corpo> il riconoscimento, il sostegno alla costituzione e l'avviamento dei consorzi di miglioramento fondiario, costituiti tra agricoltori allo scopo di realizzare opere infrastrutturali e di servizi collettivi in agricoltura, quali gli interventi di cui alla <rif xlink:href="#art12-com2-leta">lettera a)</rif>. Per la realizzazione di tali infrastrutture, se affidata a soggetti privati, i contributi in conto capitale non possono eccedere il 90% della spesa ammessa e l'affidamento dei lavori deve rispettare i principi di trasparenza e non discriminazione;</corpo>
+                        </el>
+                        <el id="art12-com2-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> azioni concernenti la realizzazione di investimenti collettivi per la sistemazione e il miglioramento dei pascoli;</corpo>
+                        </el>
+                        <el id="art12-com2-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> azioni concernenti la realizzazione di programmi di produzione di energia elettrica relativamente a infrastrutture di proprietà pubblica e privata, anche da fonti energetiche rinnovabili;</corpo>
+                        </el>
+                        <el id="art12-com2-letf">
+                            <num> 
+ 
+f)</num>
+                            <corpo> azioni concernenti interventi di recupero ambientale delle cave e dei siti di estrazione non più utilizzati;</corpo>
+                        </el>
+                        <el id="art12-com2-letg">
+                            <num> 
+ 
+g)</num>
+                            <corpo> azioni concernenti la realizzazione, il miglioramento e la manutenzione degli impianti sportivi e ricreativi, a favore degli Enti proprietari, che rispondano esclusivamente a fini di pubblica utilità. 
+ 
+</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit5">
+                <num>TITOLO V </num>
+                <rubrica>
+ 
+MISURE DI SOSTEGNO E SVILUPPO PER L'ECONOMIA LOCALE 
+ 
+</rubrica>
+                <articolo id="art13">
+                    <num>Art. 13 </num>
+                    <rubrica>
+ 
+(Aiuti per l'agricoltura nei territori montani) 
+ </rubrica>
+                    <comma id="art13-com1">
+                        <num>
+1.</num>
+
+                        <alinea> Il Programma di sviluppo delle aree montane, di cui al <rif
+                                xlink:href="#art3-com1">comma 1 dell'articolo 3</rif>, in linea con quanto stabilito nel P.O.<rif xlink:href="urn:nir:regione.molise:regolamento:2006;2000">R. Molise 2000/2006</rif> ed in conformità con gli orientamenti comunitari per gli aiuti di Stato nel settore agricolo GUCE C28 del 1° febbraio 2000, promuove lo sviluppo e l'efficienza delle aziende agricole ubicate nei territori di montagna e persegue i seguenti obiettivi attraverso le Comunità montane: 
+ 
+</alinea>
+                        <el id="art13-com1-leta">
+                            <num>a)</num>
+                            <corpo> interventi di miglioramento fondiario;</corpo>
+                        </el>
+                        <el id="art13-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> aiuti per ricomposizione e ampliamenti fondiari;</corpo>
+                        </el>
+                        <el id="art13-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> opere di adduzione, accumulo e distribuzione ad uso irriguo;</corpo>
+                        </el>
+                        <el id="art13-com1-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> adeguamento e costruzione di ricoveri per bestiame, modernizzazione del parco macchine trattrici, delle attrezzature per il lavoro nei campi, per lo stoccaggio, lavorazione, trasformazione e trasporto dei prodotti agricoli aziendali e per le attività di stalla;</corpo>
+                        </el>
+                        <el id="art13-com1-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> acquisto di apparecchiature e di programmi informatici per la gestione aziendale;</corpo>
+                        </el>
+                        <el id="art13-com1-letf">
+                            <num> 
+ 
+f)</num>
+                            <corpo> acquisto di riproduttori maschi e femmine di qualità pregiata, registrati nei libri genealogici o nei registri di razza;</corpo>
+                        </el>
+                        <el id="art13-com1-letg">
+                            <num> 
+ 
+g)</num>
+                            <corpo> primo acquisto animali;</corpo>
+                        </el>
+                        <el id="art13-com1-leth">
+                            <num> 
+ 
+h)</num>
+                            <corpo> promozione dei prodotti tradizionali delle aree montane. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art13-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> La Regione Molise riconosce e sostiene la costituzione e l'ampliamento delle associazioni dei produttori e dei consorzi di tutela che operano nel territorio montano che hanno come finalità la qualificazione delle produzioni montane. </corpo>
+                    </comma>
+                    <comma id="art13-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> La Regione Molise, in applicazione di quanto previsto dall'<rif xlink:href="urn:nir:stato:legge:1998-12-15;441#art4-com4">articolo 4, comma 4 della legge 15 dicembre 1998 n. 441</rif>, stipulerà con ISMEA (ex Cassa per la formazione della proprietà contadina) una convenzione allo scopo di cofinanziare progetti per l'acquisto terreni, con priorità alle imprese ubicate in territorio montano condotte da giovani che non hanno ancora compiuto i quaranta anni. </corpo>
+                    </comma>
+                    <comma id="art13-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> La Regione Molise interviene a sostegno degli interventi di trasferimento di fabbricati e/o attività aziendali agricole, in seguito ad ordinanze emesse per motivi di interesse pubblico. L'ordinanza di trasferimento diventa eseguibile contestualmente alla emanazione del provvedimento di aiuto. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art14">
+                    <num>Art. 14 </num>
+                    <rubrica>
+ 
+(Sviluppo di attività legate alla fruizione ed alla salvaguardia dell'ambiente montano) 
+ </rubrica>
+                    <comma id="art14-com1">
+                        <num>
+1.</num>
+                        <alinea> La Regione Molise, allo scopo di favorire la diversificazione dei redditi delle aziende agricole situate in territorio montano e di sostenere le attività finalizzate alla salvaguardia del paesaggio e del territorio rurale, promuove la conoscenza ed il consumo di prodotti tipici, la divulgazione dei metodi produttivi e della cultura rurale, riconosce ed incentiva le attività di diversificazione dell'attività agricola, le attività agrituristiche ed in particolare: 
+ 
+</alinea>
+                        <el id="art14-com1-leta">
+                            <num>a)</num>
+                            <corpo> l'adeguamento e la sistemazione di immobili da destinare ad attività agrituristiche;</corpo>
+                        </el>
+                        <el id="art14-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> l'adeguamento e la realizzazione di impianti per la lavorazione, la trasformazione e la commercializzazione diretta dei prodotti agricoli;</corpo>
+                        </el>
+                        <el id="art14-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> l'allestimento di impianti e di attrezzature per la preparazione, la conservazione e la vendita di prodotti che non rientrano nell'allegato 1 del trattato e di manufatti artigianali;</corpo>
+                        </el>
+                        <el id="art14-com1-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> l'allestimento e l'acquisto di attrezzature per attività agrituristiche, agri-camping, supporti ricreativi, compreso il restauro di fabbricati agricoli e siti tradizionali dell'azienda agricola;</corpo>
+                        </el>
+                        <el id="art14-com1-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo>  l'acquisto di piccole attrezzature e la realizzazione di piccoli interventi infrastrutturali per 1a coltivazione di orti di piccoli appezzamenti destinati all'autoconsumo;</corpo>
+                        </el>
+                        <el id="art14-com1-letf">
+                            <num> 
+ 
+f)</num>
+                            <corpo> la realizzazione di aree di sosta pic-nic e di piste e ricoveri per il maneggio di cavalli da escursione;</corpo>
+                        </el>
+                        <el id="art14-com1-letg">
+                            <num> 
+ 
+g)</num>
+                            <corpo> la realizzazione di centri di ippoterapia gestiti da soggetti con presenza di professionisti riconosciuti abilitati;</corpo>
+                        </el>
+                        <el id="art14-com1-leth">
+                            <num> 
+ 
+h)</num>
+                            <corpo> la realizzazione e la manutenzione di sentieri e di rifugi di montagna. 
+ 
+</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+                <articolo id="art15">
+                    <num>Art. 15 </num>
+                    <rubrica>
+ 
+(Interventi nel settore forestale) 
+ </rubrica>
+                    <comma id="art15-com1">
+                        <num>
+1.</num>
+
+                        <alinea> Al fine di contribuire alla preservazione ed alla fruibilità dei boschi nelle zone montane e di valorizzarne la funzione ecologica, economica e sociale, il Programma di sviluppo delle aree montane, di cui all'<rif xlink:href="#art3-com1">articolo 3, comma 1</rif>, riconosce ed incentiva in particolare le attività: 
+ 
+</alinea>
+                        <el id="art15-com1-leta">
+                            <num>a)</num>
+                            <corpo> di stoccaggio, prima trasformazione e commercializzazione dei prodotti della silvicoltura;</corpo>
+                        </el>
+                        <el id="art15-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> di prima trasformazione e commercializzazione dei prodotti non legnosi, quali piccoli frutti, piante officinali e spontanee;</corpo>
+                        </el>
+                        <el id="art15-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> di costituzione, avviamento e stabilizzazione di forme associative tra operatori forestali finalizzate ad aiutare i loro membri a realizzare una gestione più sostenibile ed efficiente delle foreste;</corpo>
+                        </el>
+                        <el id="art15-com1-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> di promozione di nuovi sbocchi per l'uso e la commercializzazione dei prodotti della silvicoltura;</corpo>
+                        </el>
+                        <el id="art15-com1-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> impianti produttivi da legno e coltivazione di abeti anche a fini ornamentali. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art15-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Possono beneficiare dei contributi di cui al presente articolo le imprese forestali, singole o associate, iscritte alla Camera di Commercio di Campobasso o di Isernia. </corpo>
+                    </comma>
+                    <comma id="art15-com3">
+                        <num>
+ 
+3.</num>
+
+                        <alinea> In aggiunta alle funzioni di forestazione protettiva, di cui all'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1999-09-29;34#art26">art. 26 della legge regionale 29 settembre 1999 n. 34</rif>, il Programma di sviluppo delle aree montane, di cui all'<rif xlink:href="#art3">articolo 3</rif>, comma l, affida alle Comunità Montane specifici compiti di tutela paesaggistica e di salvaguardia del territorio anche per favorirne l'utilizzazione ai fini produttivi, turistici e ricreativi. A tal fine svolgono le seguenti attività: 
+ 
+</alinea>
+                        <el id="art15-com3-leta">
+                            <num>a)</num>
+                            <corpo> manutenzione delle zone a destinazione agro-silvo-pastorale;</corpo>
+                        </el>
+                        <el id="art15-com3-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> mantenimento in efficienza delle infrastrutture e dei manufatti finalizzati alla sistemazione idraulica forestale;</corpo>
+                        </el>
+                        <el id="art15-com3-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> sostegno a piccole opere di manutenzione ambientale realizzate da imprenditori agricoli singoli od associati. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art15-com4">
+                        <num>
+ 
+4.</num>
+                        <alinea> Il Programma di sviluppo delle aree montane prevede misure di sostegno alla ricerca, in conformità con quanto previsto dalla disciplina comunitaria per gli aiuti di Stato alla ricerca e sviluppo C45 del 17 febbraio 1996 e la Decisione C48 del 13 febbraio 1998, in relazione all'applicazione del settore agricolo e alla redazione dei Piani di gestione forestale. Le Comunità Montane, in particolare, possono concedere contributi a proprietari singoli o associati di beni agricolo-forestali per i costi aziendali di consulenza tecnico-scientifica, di ricerca e sperimentazione, con priorità per: 
+ 
+</alinea>
+                        <el id="art15-com4-leta">
+                            <num>a)</num>
+                            <corpo> interventi eseguiti in applicazione di criteri di silvicoltura naturalistica sulla base delle indicazioni dei piani di riassetto forestale, predisposti dalla Regione;</corpo>
+                        </el>
+                        <el id="art15-com4-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> utilizzazioni previste nei piani di riassetto, non eseguite per mancato realizzo del prezzo di macchiatico;</corpo>
+                        </el>
+                        <el id="art15-com4-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> utilizzazioni che coinvolgono contemporaneamente più proprietari attivi per masse legnose non inferiori ai 500 metri cubi;</corpo>
+                        </el>
+                        <el id="art15-com4-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> utilizzazioni effettuate con sistemi di esbosco a basso impatto ambientale, ivi comprese le teleferiche;</corpo>
+                        </el>
+                        <el id="art15-com4-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> utilizzazioni previste da piani sommari di riassetto, redatti in forma associata;</corpo>
+                        </el>
+                        <el id="art15-com4-letf">
+                            <num> 
+ 
+f)</num>
+                            <corpo> utilizzazioni per l'avviamento all'alto fusto. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art15-com5">
+                        <num>
+ 
+5.</num>
+
+                        <corpo> La Regione promuove lo sviluppo dell'economia del legno attraverso l'adozione di uno specifico piano di settore, da approvarsi entro un anno dell'entrata in vigore della presente legge, con l'obiettivo di migliorare l'utilizzo delle risorse forestali e boschive in una prospettiva di filiera. Il piano di settore è parte integrante del Programma di sviluppo delle aree montane, di cui all'<rif
+                                xlink:href="#art3-com1">articolo 3, comma 1</rif> e può prevedere anche accordi interprofessionali tra imprese forestali, in forma singola o associata, operanti nel settore del legno per l'ottimale utilizzazione delle risorse forestali. Il piano è approvato dal Consiglio regionale secondo le modalità previste dai commi 2 e 3 dell'<rif xlink:href="#art3">articolo 3</rif>. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art16">
+                    <num>Art. 16 </num>
+                    <rubrica>
+ 
+(Interventi a favore del settore zootecnico) 
+ </rubrica>
+                    <comma id="art16-com1">
+                        <num>
+1.</num>
+
+                        <alinea> Al fine di valorizzare le risorse foraggere dei territori montani di cui all'<rif
+                                xlink:href="#art2">articolo 2</rif>, il Programma. di sviluppo delle aree montane, di cui all'<rif xlink:href="#art3-com1">articolo 3, comma 1</rif>, attraverso le Comunità Montane, sostiene gli interventi finalizzati a: 
+ 
+</alinea>
+                        <el id="art16-com1-leta">
+                            <num>a)</num>
+                            <corpo> realizzazione di programmi di miglioramento dei prati artificiali, dei prati naturali, dei prati-pascoli e dei pascoli naturali, allo scopo di migliorare la produzione e le caratteristiche nutrizionali del foraggio, mediante l'adozione di pratiche agronomiche compatibili, a basso impatto ambientale e con l'eventuale utilizzo, appropriato, dei reflui zootecnici o di altra natura;</corpo>
+                        </el>
+                        <el id="art16-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> acquisto di macchine ed attrezzature per la coltivazione, lo sfalcio, la raccolta, il trasporto e la distribuzione del foraggio, commisurate alle effettive esigenze aziendali;</corpo>
+                        </el>
+                        <el id="art16-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> acquisto ed installazione di impianti per l'insilamento, l'essiccazione, la disidratazione o altri sistemi di condizionamento e stoccaggio del foraggio e dei cereali per uso zootecnico. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art16-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Al fine di agevolare e consolidare la pratica dell'alpeggio per l'utilizzo diretto della flora pabulare naturale da parte del bestiame pascolante, favorendo, nel contempo, la tutela e la valorizzazione del paesaggio montano, così come previsto all'<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-05-18;228#art15">art. 15 del decreto legislativo n. 228 del 18 maggio 2001</rif>, il Programma di sviluppo delle aree montane, attraverso le Comunità Montane, sostiene gli interventi per la manutenzione e la conservazione ambientale delle superfici pascolive, compresi piccoli interventi infrastrutturali per la gestione collettiva dei pascoli, a favore di imprenditori agricoli singoli o associati. </corpo>
+                    </comma>
+                    <comma id="art16-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Gli aiuti ambientali a sostegno degli allevatori che praticano la transumanza possono comprendere il pagamento per la "fida pascolo"; in tal caso la Regione provvede annualmente attraverso le Comunità Montane al pagamento ai Comuni degli oneri dovuti dagli allevatori negli importi massimi fissati al 31 dicembre dell'anno precedente all'entrata in vigore della presente legge. </corpo>
+                    </comma>
+                    <comma id="art16-com4">
+                        <num>
+ 
+4.</num>
+                        <alinea> Il Programma di sviluppo delle aree montane prevede misure di sostegno ai progetti mirati alla valorizzazione delle produzioni zootecniche di qualità e dei prodotti derivati, realizzati in forma associata attraverso un progetto integrato in filiera. Le misure di sostegno ai progetti integrati di filiera prevedono investimenti per: 
+ 
+</alinea>
+                        <el id="art16-com4-leta">
+                            <num>a)</num>
+                            <corpo> l'insediamento di nuovi allevamenti ed il miglioramento di quelli esistenti;</corpo>
+                        </el>
+                        <el id="art16-com4-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> la realizzazione e l'ammodernamento di impianti di lavorazione e commercializzazione;</corpo>
+                        </el>
+                        <el id="art16-com4-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> l'introduzione di sistemi di controllo della qualità e dell'ambiente;</corpo>
+                        </el>
+                        <el id="art16-com4-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> la promozione delle produzioni di qualità. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art16-com5">
+                        <num>
+ 
+5.</num>
+
+                        <corpo> Sono finanziabili programmi di prevenzione o di eradicazione in conformità ai principi applicati in materia di lotta contro le malattie degli animali di cui alla <rif
+                                xlink:href="urn:nir:comunita.europee:decisione:1990;90-424-ce">decisione n. 90/424/CE del Consiglio</rif>, pubblicata nella Gazzetta Ufficiale delle Comunità Europee - serie <rif
+                                xlink:href="urn:nir:stato:legge:1990-08-18;224">L 224 del 18 agosto 1990</rif>, gli aiuti possono riguardare azioni di prevenzione e misure compensative, complementari agli interventi previsti dalla <rif xlink:href="urn:nir:stato:legge:1998-06-02;218">legge 2 giugno 1998, n. 218</rif> e 14 febbraio 1992, n. 185. </corpo>
+                    </comma>
+                    <comma id="art16-com6">
+                        <num>
+ 
+6.</num>
+                        <alinea> Al fine di agevolare il processo di ristrutturazione del comparto della produzione lattiera nelle zone montane e per consentire alle aziende di montagna di conseguire moduli tecnico-economici sufficienti a garantire un reddito adeguato, la Giunta regionale adotta azioni volte: 
+ 
+</alinea>
+                        <el id="art16-com6-leta">
+                            <num>a)</num>
+                            <corpo> a favorire il mantenimento dei riferimenti produttivi assegnati alla aree montane nell'ambito delle stesse;</corpo>
+                        </el>
+                        <el id="art16-com6-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> a disporre che i quantitativi confluiti, ai sensi della normativa vigente, nella disponibilità regionale siano assegnati, prioritariamente e per almeno il 75% della disponibilità, alle aziende ubicate nelle zone montane, dando precedenza ai giovani allevatori ed agli imprenditori agricoli, singoli e associati, che abbiano in corso di attuazione piani di investimento aziendali volti alla realizzazione ed al potenziamento delle attività zootecniche, nel rispetto della salvaguardia dell'ambiente e del benessere degli animali. 
+ 
+</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+                <articolo id="art17">
+                    <num>Art. 17 </num>
+                    <rubrica>
+ 
+(Altre attività produttive) 
+ </rubrica>
+                    <comma id="art17-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La Giunta regionale, al fine di agevolare la presenza delle piccole attività commerciali, a cadenza triennale individua, con apposito elenco, i Comuni con meno di 2.000 abitanti ricadenti nelle aree di cui all'<rif
+                                xlink:href="#art1">articolo 1</rif> nei quali operano le attività commerciali ed i pubblici esercizi ammissibili alle agevolazioni previste dal <rif xlink:href="urn:nir:stato:legge:1994;97#art16-com1">comma 1 dell'articolo 16 della legge n. 97/1994</rif> e successive modificazioni e integrazioni. </corpo>
+                    </comma>
+                    <comma id="art17-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> La Regione Molise finanzia i Comuni montani che prevedono apposite riduzioni delle imposte comunali per le attività commerciali legate alla fornitura dei beni di prima necessità, intese come servizio di pubblica utilità. </corpo>
+                    </comma>
+                    <comma id="art17-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Il Programma di sviluppo delle aree montane, mediante le Comunità Montane, valorizza le potenzialità ricreative, sportive e culturali nell'ambito montano attraverso il finanziamento di piccoli progetti, fino ad un massimo di 100.000 Euro, a favore del turismo montano, sia estivo che invernale, al fine di ampliare l'offerta turistica complessiva e di favorire il mantenimento e la creazione di nuove opportunità di lavoro. </corpo>
+                    </comma>
+                    <comma id="art17-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Il Programma di sviluppo delle aree montane sostiene lo sviluppo e la creazione di attività artigianali, di servizio alle PMI, che favoriscono la creazione di nuova occupazione. </corpo>
+                    </comma>
+                    <comma id="art17-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> La Regione Molise disciplina lo sfruttamento e l'utilizzazione delle risorse idriche di qualità presenti nelle zone montane, assegnando priorità nei diritti di sfruttamento a soggetti che assicurano il reinvestimento degli utili in progetti di sviluppo del territorio. La Giunta regionale, valutate le indicazioni e le proposte delle Comunità Montane e dei Comuni montani, dispone il censimento delle risorse idriche di qualità. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit6">
+                <num>TITOLO VI </num>
+                <rubrica>
+ 
+POLITICHE E SERVIZI A FAVORE DELLA POPOLAZIONE E DELL'ECONOMIA LOCALE 
+ 
+</rubrica>
+                <articolo id="art18">
+                    <num>Art. 18 </num>
+                    <rubrica>
+ 
+(Insediamento nei territori montani) 
+ </rubrica>
+                    <comma id="art18-com1">
+                        <num>
+1.</num>
+                        <alinea> I Comuni montani al fine di favorire il riequilibrio insediativo nelle zone di cui all'articolo 1, comma 3, dispongono incentivi finanziari e premi di insediamento a titolo di concorso nelle spese per: 
+ 
+</alinea>
+                        <el id="art18-com1-leta">
+                            <num>a)</num>
+                            <corpo> trasferimento congiunto di residenza e di attività economica;</corpo>
+                        </el>
+                        <el id="art18-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> acquisto, costruzione o ristrutturazione di immobili da destinare a prima abitazione ed a propria residenza, impegnandosi a non modificarla per almeno cinque anni;</corpo>
+                        </el>
+                        <el id="art18-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> ampliamento delle attività delle PMI e delle relative strutture produttive dei residenti, mediante progetti di incremento delle diverse forme di lavoro autonomo;</corpo>
+                        </el>
+                        <el id="art18-com1-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> integrazione del premio di primo insediamento, come titolare di azienda agricola, per i giovani che non hanno ancora compiuto i 40 anni. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art18-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> I Comuni montani prevedono, per gli interventi di cui alle lettere a) e b) del <rif xlink:href="#art18-com1">comma 1</rif>, premi di insediamento fino ad un massimo di 35.000 Euro e comunque non superiore ai costi ritenuti ammissibili. </corpo>
+                    </comma>
+                    <comma id="art18-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> I Comuni montani prevedono, per gli interventi di cui alla <rif
+                                xlink:href="#art18-com1-letc">lettera c) del comma 1</rif>, l'erogazione di aiuti "de minimis" nel rispetto di quanto previsto dal <rif xlink:href="urn:nir:comunita.europee:regolamento:2001;69">regolamento (CE) n. 69/2001</rif>. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art19">
+                    <num>Art. 19 </num>
+                    <rubrica>
+ 
+(Sostegno alle famiglie ed agli anziani) 
+ </rubrica>
+                    <comma id="art19-com1">
+                        <num>
+1.</num>
+                        <corpo> La Regione Molise, riconoscendo il ruolo fondamentale assolto dalla famiglia nella tutela socio-culturale e nella salvaguardia del territorio montano, favorisce e sostiene nei suoi programmi di intervento nel campo dei servizi sociali la presenza e l'ampliamento dei nuclei familiari nelle zone montane mediante specifici contributi ai Comuni con popolazione interiore ai 2.000 abitanti. </corpo>
+                    </comma>
+                    <comma id="art19-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> La  Regione assegna attraverso i Comuni la somma di 1.500,00 Euro per ogni bambino nato, adottato e residente nei territori montani. </corpo>
+                    </comma>
+                    <comma id="art19-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> La Regione favorisce lo sviluppo e la qualificazione di servizi sociali attraverso progetti promossi dai Comuni montani e riconosce contributi fino al 100% della spesa sostenuta e documentata per importi fino a 50.000,00 Euro per singolo progetto. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art20">
+                    <num>Art. 20 </num>
+                    <rubrica>
+ 
+(Servizi socio sanitari) 
+ </rubrica>
+                    <comma id="art20-com1">
+                        <num>
+1.</num>
+                        <corpo> Ai sensi della vigente legislazione nazionale sulla montagna, nelle leggi e nei piani sanitari regionali sono previsti parametri differenziati per le Aziende sanitarie locali operanti prevalentemente sul territorio classificato montano, sia per quanto riguarda l'estensione territoriale delle stesse aziende, sia per quanto riguarda la programmazione delle strutture ospedaliere e dei servizi territoriali, sia per quanto riguarda la determinazione della quota capitaria che valorizzi i trasferimenti finanziati dal Fondo sanitario regionale a fronte dell'obiettivo di razionalizzare e di rendere più efficace l'erogazione dei servizi sanitari, di rendere più efficiente ed integrato il sistema e di portare l'assistenza vicino agli utenti. </corpo>
+                    </comma>
+                    <comma id="art20-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Nell'ambito della propria programmazione socio-sanitaria è prevista l'adozione di criteri derogatori rispetto agli standard di dotazione media di posti-letto sia per acuti che per la riabilitazione e, allo stesso scopo, lo stanziamento di risorse aggiuntive rispetto alla spesa pro-capite, con particolare riferimento agli indici di invecchiamento della popolazione, di dispersione territoriale e di bassa intensità demografica. </corpo>
+                    </comma>
+                    <comma id="art20-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Allo scopo di rimuovere situazioni di svantaggio, sono previste risorse aggiuntive al fine di riconoscere ai cittadini residenti nei territori montani il diritto di accedere ai servizi sanitari in condizioni di equità e di pari opportunità, favorendo così l'effettivo esercizio dei diritti alla persona (poliambulatori, servizi per l'emergenza-urgenza), assistenza domiciliare integrata, residenze assistenziali geriatriche). </corpo>
+                    </comma>
+                    <comma id="art20-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> La Regione predispone un programma di sostegno a favore dei servizi alle persone anziane sole, residenti nei comuni montani, anche attraverso incentivi alle famiglie che se ne assumono l'onere della cura. Il programma è proposto dalla Giunta Regionale entro 180 giorni dall'approvazione della presente legge e approvato dal Consiglio Regionale. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art21">
+                    <num>Art. 21 </num>
+                    <rubrica>
+ 
+(Decentramento di attività e servizi) 
+ </rubrica>
+                    <comma id="art21-com1">
+                        <num>
+1.</num>
+                        <corpo> Ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1994-01-31;97#art14">articolo 14 della legge 31 gennaio 1994 n. 97</rif>, la Giunta regionale, entro sei mesi dall'entrata in vigore della presente legge, propone al Consiglio regionale direttive di indirizzo, volte a sollecitare ed a vincolare la Regione stessa e gli enti e le aziende da essa dipendenti, nonché ad orientare le altre pubbliche amministrazioni, in sede di localizzazione e di programmazione, al decentramento nei Comuni montani di attività e servizi, quali istituti di ricerca, laboratori, università, musei, strutture culturali, ricreative e sportive, ospedali specializzati, residenze sanitarie assistenziali e case di riposo, disponendo gli stanziamenti necessari. </corpo>
+                    </comma>
+                    <comma id="art21-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> La Giunta regionale negozia con le "Poste Italiane - S.p.A.",condizioni di localizzazione di servizi  e dei prodotti postali che assicurino l'effettiva  accessibilità agli stessi da parte degli utenti residenti nei Comuni montani. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art22">
+                    <num>Art. 22 </num>
+                    <rubrica>
+ 
+(Servizi scolastici) 
+ </rubrica>
+                    <comma id="art22-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Al fine di garantire alle aree montane un'adeguata e razionale offerta di scuola materna e dell'obbligo, nonché di opportunità formative medio-superiori e professionali, la Regione, in attuazione dell'<rif xlink:href="urn:nir:stato:legge:1994-01-31;97#art20">art. 20 della legge 31 gennaio 1994 n. 97</rif>, promuove specifici accordi di programma tra la competente Amministrazione statale e gli enti locali interessati. </corpo>
+                    </comma>
+                    <comma id="art22-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Gli accordi di cui al <rif xlink:href="#art22-com1">comma 1</rif> perseguono un'efficace ed efficiente offerta di sedi, di trasporti e di altri servizi per l'accesso e la frequenza al sistema scolastico. </corpo>
+                    </comma>
+                    <comma id="art22-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Le Comunità Montane promuovono il coordinamento tra i Comuni interessati per la predisposizione di proposte adeguate alle specifiche realtà territoriali e sociali dell'area al fine di garantire la presenza degli attuali plessi scolastici nei Comuni montani. </corpo>
+                    </comma>
+                    <comma id="art22-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Nei Comuni montani con popolazione fino a 5.000 abitanti possono essere costituiti istituti polivalenti, comprensivi di scuola materna, elementare e secondaria di primo grado, secondo le modalità stabilite dal Ministero della Pubblica Istruzione. I Comuni interessati provvedono agli adempimenti di competenza in ordine alle disponibilità delle strutture ed all'esercizio delle funzioni connesse al diritto allo studio. </corpo>
+                    </comma>
+                    <comma id="art22-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> Agli istituti di scuola materna, elementare e secondaria di 1° grado, ubicati nei Comuni montani e situati al di sopra dei 900 metri s.l.m., non si applicano le disposizioni relative al numero minimo di alunni per la formazione delle classi. </corpo>
+                    </comma>
+                    <comma id="art22-com6">
+                        <num>
+ 
+6.</num>
+                        <corpo> Nei Comuni montani la Regione finanzia, in via prioritaria, opere di edilizia scolastica minore per edifici adibiti a sedi di plessi comprensivi di più livelli scolastici. </corpo>
+                    </comma>
+                    <comma id="art22-com7">
+                        <num>
+ 
+7.</num>
+                        <corpo> La Regione attribuisce alle Comunità Montane ed ai Comuni montani risorse per l'acquisto di mezzi pubblici per il trasporto scolastico. Le risorse sono destinate prioritariamente ai Comuni sedi di plessi scolastici interessati da processi di razionalizzazione, con conseguente perdita dell'autonomia scolastica. </corpo>
+                    </comma>
+                    <comma id="art22-com8">
+                        <num>
+ 
+8.</num>
+                        <corpo> A decorrere dall'esercizio finanziario successivo all'entrata in vigore della presente legge, i finanziamenti regionali per il diritto allo studio sono incrementati del 20% per i Comuni montani. </corpo>
+                    </comma>
+                    <comma id="art22-com9">
+                        <num>
+ 
+9.</num>
+                        <corpo> I Comuni e le Comunità Montane possono concedere borse di studio ai giovani di età compresa fra i quattordici ed i ventisei anni, residenti nei Comuni montani, che frequentano corsi di scuola secondaria superiore o corsi universitari in località diverse da quelle di residenza. </corpo>
+                    </comma>
+                    <comma id="art22-com10">
+                        <num>
+ 
+10.</num>
+                        <corpo> I Comuni e le Comunità Montane possono concedere contributi, per l'abbattimento dei costi derivanti dall'utilizzo del trasporto pubblico, alle famiglie dei giovani che frequentano corsi di scuola secondaria di primo o di secondo grado ovvero corsi universitari in località diverse da quelle di residenza. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art23">
+                    <num>Art. 23 </num>
+                    <rubrica>
+ 
+(Mestieri tradizionali della montagna) 
+ </rubrica>
+                    <comma id="art23-com1">
+                        <num>
+1.</num>
+                        <corpo> La Regione Molise, nell'ottica di salvaguardia e di conservazione delle attività tipiche e tradizionali della montagna, individua, in collaborazione con le Comunità montane, le Associazioni di categoria e le Camere di commercio, i mestieri tradizionali da considerare come espressione della cultura sociale e professionale della montagna molisana ai fini dello sviluppo economico. </corpo>
+                    </comma>
+                    <comma id="art23-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Le Comunità Montane ed i Comuni montani programmano ed attuano interventi al fine di sostenere o riattivare i mestieri e le attività economiche proprie della montagna. </corpo>
+                    </comma>
+                    <comma id="art23-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Il Programma di sviluppo delle aree montane, di cui all'<rif
+                                xlink:href="#art3-com1">articolo 3, comma 1</rif>, regolamenta il sostegno di tali attività in conformità alle disposizioni di cui al <rif xlink:href="urn:nir:comunita.europee:regolamento:2001;68">regolamento (CE) n. 68/2001</rif>, relativo all'applicazione degli articoli 87 ed 88 del trattato CE per gli aiuti alla formazione. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art24">
+                    <num>Art. 24 </num>
+                    <rubrica>
+ 
+(Formazione professionale montana) 
+ </rubrica>
+                    <comma id="art24-com1">
+                        <num>
+1.</num>
+                        <corpo> La Regione promuove lo sviluppo della formazione professionale dei giovani residenti nelle zone montane sostenendo l'istituzione di corsi, attraverso le Comunità Montane, nei seguenti settori: 
+ 
+Ø agricoltura; 
+ 
+Ø artigianato; 
+ 
+Ø turismo; 
+ 
+Ø ambiente. </corpo>
+                    </comma>
+                    <comma id="art24-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> La Regione altresì promuove lo sviluppo della formazione professionale superiore, in raccordo con l'Università del Molise, sostenendo l'istituzione di corsi di specializzazione o diplomi universitari rivolti alla valorizzazione della montagna. </corpo>
+                    </comma>
+                    <comma id="art24-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Per il perseguimento degli obiettivi di cui al presente articolo, la Giunta regionale verifica preliminarmente con le categorie imprenditoriali, le forze sociali e gli Enti locali la domanda di professionalità esistente ed attesa. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art25">
+                    <num>Art. 25 </num>
+                    <rubrica>
+ 
+(Cooperazione sociale nelle zone montane) 
+ </rubrica>
+                    <comma id="art25-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Il fondo di rotazione per i finanziamenti a tasso agevolato per la costituzione e lo sviluppo delle cooperative sociali, di cui alla <rif xlink:href="urn:nir:regione.molise:legge:2000-03-22;17">legge regionale 22 marzo 2000, n. 17</rif> e successive modifiche, viene ripartito, attraverso le Comunità montane, sulla base di parametri predeterminati di priorità, a favore di cooperative sociali costituite ed effettivamente operanti nelle zone montane, formate da soci in maggioranza residenti nelle stesse, tenuto conto delle fasce altimetriche e di marginalità socio-economica. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit7">
+                <num>TITOLO VII </num>
+                <rubrica>
+ 
+INIZIATIVE E PROGETTI SPECIALI 
+ 
+</rubrica>
+                <articolo id="art26">
+                    <num>Art. 26 </num>
+                    <rubrica>
+ 
+(Giornata della montagna) 
+ </rubrica>
+                    <comma id="art26-com1">
+                        <num>
+1.</num>
+                        <corpo> La Regione Molise istituisce la "Giornata della montagna molisana" ai fini della conservazione del patrimonio culturale e della promozione delle attività della montagna. La Regione, sentita la Consulta regionale per la montagna, organizza annualmente detta manifestazione attraverso una Comunità montana, garantendo la turnazione tra i due ambiti provinciali. </corpo>
+                    </comma>
+                    <comma id="art26-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Il Programma di sviluppo delle aree montane ne regolamenta l'organizzazione e la dotazione finanziaria, stabilita annualmente. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art27">
+                    <num>Art. 27 </num>
+                    <rubrica>
+ 
+(Catalogazione dei beni storico-culturali e degli itinerari montani) 
+ </rubrica>
+                    <comma id="art27-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La Regione Molise, in collaborazione con le Province, le Comunità montane, i Comuni, il CAI, le Soprintendenze e l'Università del Molise, istituisce e realizza il catalogo dei beni storico-culturali della montagna molisana e della rete sentieristica. Il catalogo dovrà inoltre contenere i riferimenti agli itinerari enogastronomici relativi ai prodotti a denominazione protetta e delle produzioni tradizionali ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-04-30;173#art8">articolo 8 del decreto legislativo 30 aprile 1998, n. 173</rif>. </corpo>
+                    </comma>
+                    <comma id="art27-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> La Giunta regionale, sentita la competente Commissione consiliare, approva il regolamento per il catalogo, indicando i livelli di protezione e di valorizzazione dei beni storico-culturali montani, oltre alle modalità per l'aggiornamento dei dati e la tipologia di segnaletica da apporre lungo i sentieri e gli itinerari enogastronomici. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art28">
+                    <num>Art. 28 </num>
+                    <rubrica>
+ 
+(Fondo di rotazione) 
+ </rubrica>
+                    <comma id="art28-com1">
+                        <num>
+1.</num>
+                        <corpo> La Giunta regionale con proprio atto definisce le modalità per la costituzione e la gestione di un fondo di rotazione a favore della conduzione di attività agricole e zootecniche delle zone montane; tale fondo dovrà prevedere la concessione di prestiti da 1 a 5 anni a tasso di mercato, in base al tasso di riferimento per i singoli Stati pubblicato dalla Commissione Europea annualmente. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit8">
+                <num>TITOLO VIII </num>
+                <rubrica>
+ 
+DISPOSIZIONI TRANSITORIE E FINALI 
+ 
+</rubrica>
+                <articolo id="art29">
+                    <num>Art. 29 </num>
+                    <rubrica>
+ 
+(Norma finanziaria) 
+ </rubrica>
+                    <comma id="art29-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Per le finalità e gli oneri derivanti dall'attuazione della presente legge, si provvede con le risorse provenienti dallo Stato, ai sensi della <rif xlink:href="urn:nir:stato:legge:1994;97">legge n. 97/1994</rif> e successive modifiche e con risorse regionali che troveranno entrambe iscrizione nella specifica U.P.B. n. 280, denominata: "Forestazione e attività silvopastorale" del bilancio di previsione dell'esercizio finanziario 2003 e successivi. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art30">
+                    <num>Art. 30 </num>
+                    <rubrica>
+ 
+(Abrogazioni e disposizioni applicative) 
+ </rubrica>
+                    <comma id="art30-com1">
+                        <num>
+1.</num>
+                        <corpo> La presente legge abroga le leggi regionali n. 29 del 2 settembre 1999 e n. 12 del 3 marzo 2000. </corpo>
+                    </comma>
+                    <comma id="art30-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Ciascuna delle leggi regionali di riordino dei settori e delle materie, di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1999-09-29;34#art19">articolo 19 della legge regionale 29 settembre 1999 n. 34</rif>, indicherà misure e priorità specificamente finalizzate alla salvaguardia, allo sviluppo, alla tutela ed alla valorizzazione dei territori montani, in coerenza con la presente legge. </corpo>
+                    </comma>
+                    <comma id="art30-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Le modalità attuative dei regimi di aiuto previsti dal Programma di sviluppo delle aree montane, di cui all'<rif xlink:href="#art3-com1">articolo 3, comma 1</rif>, sono sottoposti al parere preventivo della Commissione Europea, così come previsto dall'articolo 88, paragrafo 3 del trattato CE. </corpo>
+                    </comma>
+                    <comma id="art30-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Nel caso di regimi di aiuto, già autorizzati alla Regione Molise in base alla regolamentazione comunitaria attualmente vigente, nell'ambito di regimi generali pluriennali, essi saranno applicati conformemente a quanto previsto dalla decisione della Commissione entro il 20% di aumento dell'importo complessivo ammesso dalla decisione stessa. </corpo>
+                    </comma>
+                    <comma id="art30-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> La Regione si impegna a presentare alla Commissione Europea, in applicazione del punto 23.2 degli orientamenti comunitari per gli aiuti di Stato nel settore agricolo, una relazione annuale. </corpo>
+                    </comma>
+                    <comma id="art30-com6">
+                        <num>
+ 
+6.</num>
+
+                        <corpo> La Giunta regionale darà esecuzione agli aiuti previsti dal Programma di sviluppo delle aree montane, riferiti alle disposizioni di cui al <rif xlink:href="urn:nir:comunita.europee:regolamento:1998;994">regolamento (CE) n. 994/1998</rif>, relativo all'applicazione degli articoli 87 e 88 del trattato CE a determinate categorie di aiuti di Stato orizzontali, attraverso l'adozione di regolamenti di attuazione delle disposizioni previste dai regolamenti (CE) n. 68, n. 69 e n. 70/2001. </corpo>
+                    </comma>
+                    <comma id="art30-com7">
+                        <num>
+ 
+7.</num>
+                        <corpo> La Regione si impegna a trasmettere alla Commissione Europea, almeno una volta all'anno, una relazione sull'applicazione delle esenzioni per categoria di aiuto. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art31">
+                    <num>Art. 31 </num>
+                    <rubrica>
+ 
+(Entrata in vigore) 
+ </rubrica>
+                    <comma id="art31-com1">
+                        <num>
+1.</num>
+                        <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. </corpo>
+                    </comma>
+                    <comma id="art31-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Le disposizioni applicative della presente legge concernenti aiuti alle imprese, sono definite dal Programma di sviluppo delle aree montane e conseguono efficacia a decorrere dalla pubblicazione sul Bollettino Ufficiale della Regione Molise del parere favorevole emesso dalla Commissione dell'Unione Europea in esito a procedimento di notifica in base alle disposizioni del <rif xlink:href="urn:nir:comunita.europee:regolamento:1999;659">regolamento (CE) n. 659/1999</rif>. </corpo>
+                    </comma>
+                    <comma id="art31-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> In attesa dell'adozione delle procedure di attuazione della <rif xlink:href="urn:nir:regione.molise:legge:1999-09-29;34">Legge Regionale n. 34 del 29 settembre 1999</rif>, la Regione provvede all'attuazione di quanto previsto dalla presente legge attraverso le proprie strutture o attraverso la sottoscrizione di apposite convenzioni con le Comunità Montane ed Enti Locali. 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

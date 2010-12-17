@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2003-12-30;36"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="23.Ordinamento sportivo e promozione dello sport"/>
+                </materie>
+            </descrittori>
+        </meta><?error 23.Ordinamento sportivo e promozione dello sport 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x96; N. 28 del 31 dicembre 2003 
+ 
+Oggetto 
+Interventi per la promozione della regione attraverso la sponsorizzazione di attivit&#xE0; sportive - Integrazioni - Modifiche. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20031230">30 dicembre 2003</dataDoc>, n. <numDoc>36</numDoc>. 
+ 
+<titoloDoc>Integrazioni e modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:2001-04-05;7">legge regionale 5 aprile 2001 n. 7</rif>, ad oggetto: "Interventi per la promozione della regione attraverso la sponsorizzazione di attività sportive" 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art1-com1-mod1">
+1. Al <rif
+                                xlink:href="urn:nir:regione.molise:legge:2001-04-05;7#art1-com1">comma 1 dell'articolo 1 della legge regionale 5 aprile 2001 n. 7</rif>, sono soppresse le parole "<virgolette id="art1-com1-mod1-vir1">nonché interregionali </virgolette>". </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art2-com1-mod2">
+1. Al <rif
+                                xlink:href="urn:nir:regione.molise:legge:2001-04-05;7#art2-com1">comma 1 dell'articolo 2 della legge regionale 5 aprile 2001 n. 7</rif>, in fine, dopo le parole "<virgolette
+                                id="art2-com1-mod2-vir2">a Campionati Nazionali</virgolette>" sono aggiunte le seguenti: "<virgolette
+                                id="art2-com1-mod2-vir3">nonché interregionali</virgolette>". 
+ 
+2. Il <rif xlink:href="urn:nir:regione.molise:legge:2001-04-05;7#art2-com2">comma 2 dell'articolo 2 della legge regionale 5 aprile 2001 n. 7</rif>, è sostituito dal seguente: 
+ 
+"2. Le istanze dei soggetti interessati devono pervenire all'assessorato regionale allo "sport":</mod>
+                    </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+                    <corpo>a)  entro il 31 gennaio di ogni anno se trattasi di richieste per sponsorizzazione di manifestazioni, rappresentative o campionati individuali; 
+ 
+b) entro il 30 giugno di ogni anno se trattasi di richieste per sponsorizzazione di campionati a squadre. </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num/>
+                    <corpo>Le istanze devono essere corredate da: 
+ 
+&gt; relazione sull'attività svolta nella stagione precedente e da svolgere, con specifica indicazione, per le attività di campionato a squadre, sull'attività del vivaio societario; 
+ 
+&gt; piano economico-finanziario delle attività oggetto della sponsorizzazione; 
+ 
+&gt; calendario degli incontri di campionato per le attività di squadra ed individuali; 
+ 
+&gt; periodo di svolgimento e durata dell'impegno per le manifestazioni e rappresentative. </corpo>
+                </comma>
+                <comma id="art2-com4">
+                    <num/>
+
+                    <corpo>Le istanze pervenute oltre i termini sopra indicati o carenti della documentazione richiesta sono respinte.". 
+ 
+Art. 3 
+ 
+1. Il <rif xlink:href="urn:nir:regione.molise:legge:2001-04-05;7#art6-com1">comma 1 dell'articolo 6 della legge regionale 5 aprile 2001 n. 7</rif>, è sostituito dal seguente: 
+ 
+"1.  La Giunta regionale, su proposta dell'Assessore competente in materia, approva entro il 31 marzo di ogni anno il programma preventivo delle sponsorizzazioni per le manifestazioni, rappresentative e campionati individuali, ed entro il 15 luglio quello per le attività di campionato a squadre, e ne autorizza l'attuazione per una quota pari al 60% dell'importo globale.". 
+ 
+Art. 4 
+ 
+1. Il termine per la presentazione delle domande per il solo anno 2003 e limitatamente alle attività di campionato a squadre è fissato al quindicesimo giorno successivo alla pubblicazione della presente legge. 
+ 
+La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo><?error Marker Warning 105?>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

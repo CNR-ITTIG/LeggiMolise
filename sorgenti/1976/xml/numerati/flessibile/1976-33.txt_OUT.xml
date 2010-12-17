@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <LeggeRegionale>
+    <meta>
+      <descrittori>
+<pubblicazione tipo="GU" num="" norm=""/>
+<entratainvigore norm=""/>
+<redazione nome="" id="red1" norm=""/>
+<urn valore=""/>
+</descrittori>
+    </meta>
+    <intestazione/>
+    <formulainiziale/>
+    <articolato>
+<articolo id="art1">
+<num>Art. 1.</num>
+<rubrica/>
+<comma id="art1-com1">
+<num>1.</num>
+<corpo/>
+</comma>
+<?error ===== IL TESTO DEL PROVVEDIMENTO NON E' ARTICOLATO =====
+
+
+ 
+24.Politiche per i migranti e rapporti con i molisani nel mondo 
+ 
+
+Bollettino 
+Bollettino Ufficiale n. 02 del 16/02/76 
+ 
+
+Oggetto 
+Emigrazione - Consulta e Fondo regionale dell'Emigrazione - Disciplina - Modifica 
+ 
+
+Abrogazioni 
+ 
+ 
+
+Modifiche 
+ 
+ 
+
+Legge Regionale 13 Febbraio 1976, n. 11 
+ 
+
+Utilizzo di fondi del bilancio 1975 per la consulta dell'emigrazione Legge Regionale 17 marzo 1975, n. 25 
+ 
+
+(.. omissis ...) 
+ 
+
+Pubblicata nel Bollettino Ufficiale della Regione Molise n. 3, del 16 febbraio 1976. 
+
+
+?></articolo>
+</articolato>
+    <formulafinale/>
+    <conclusione/>
+  </LeggeRegionale>
+</NIR>

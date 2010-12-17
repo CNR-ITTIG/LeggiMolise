@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2001-07-17;19"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea"/>
+                </materie>
+            </descrittori>
+        </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x96; N. 16 del 1 agosto 2001 
+ 
+Oggetto 
+Norme per la protezione della fauna selvatica omeoterme e per il prelievo venatorio - Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20010717">17 luglio 2001</dataDoc>, n. <numDoc>19</numDoc>
+            <titoloDoc>Modifica all'<rif xlink:href="urn:nir:regione.molise:legge:1993-08-10;19#art10-com5">articolo 10, comma quinto della legge regionale n. 19 del 10 agosto 1993</rif>, ad oggetto: "Norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art1-com1-mod1">
+1. L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1993-08-10;19#art10-com5">articolo 10, comma quinto della legge regionale n. 19 del 10 agosto 1993</rif> è così modificato: 
+ 
+"<virgolette
+                                id="art1-com1-mod1-vir1" tipo="parola">La deliberazione che determina il perimetro delle zone da vincolare come indicato al comma 3, lettere a), b) c) ed e) deve essere notificata ai proprietari o conduttori dei fondi interessati e/o pubblicata mediante affissione all'albo pretorio dei Comuni territorialmente interessati</virgolette>". </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+1. La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise. 
+ 
+2. E fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+                    <corpo>Data a Campobasso, addì 17 luglio 2001 
+ 
+Il Presidente 
+ 
+DI STASI 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

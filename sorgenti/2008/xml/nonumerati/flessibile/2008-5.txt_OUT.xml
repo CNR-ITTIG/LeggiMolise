@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2008-11-21;31"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="14.Governo del territorio, urbanistica, edilizia"/>
+                </materie>
+            </descrittori>
+        </meta><?error 14.Governo del territorio, urbanistica, edilizia 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 27 del 1 dicembre 2008 
+ 
+Oggetto 
+Riqualificazione degli spazi pubblici - Interventi di arredo urbano o di recupero e restauro - Contributi - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20081121">21 novembre 2008</dataDoc>, n. <numDoc>31</numDoc>.  
+ 
+<titoloDoc>Interventi a favore della riqualificazione urbana.  
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+Finalità 
+ 
+1. La Regione Molise, al fine di agevolare gli enti locali, le fondazioni, le associazioni e i comitati senza finalità di lucro che intendano provvedere, nell'ambito del territorio regionale, alla riqualificazione degli spazi pubblici attraverso interventi di arredo urbano o di recupero e restauro di quello presente, partecipa alla attuazione di detti obiettivi con risorse proprie.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+Concessione dei contributi 
+ 
+1. La Giunta regionale dispone la concessione di contributi ai soggetti di cui all'<rif
+                            xlink:href="#art1">articolo 1</rif> con le modalità previste dall'<rif xlink:href="#art3">articolo 3</rif>.  
+ 
+2. I contributi non sono cumulabili con finanziamenti erogati da altri enti pubblici per gli stessi fini.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+Modalità 
+ 
+1. Entro il 30 settembre di ogni anno i rappresentanti degli enti interessati presentano alla Giunta regionale domanda intesa ad ottenere i contributi previsti dalla presente legge. Alla domanda devono essere allegati copia del progetto e il piano di spesa per la realizzazione dello stesso.  
+ 
+2. Per le domande accolte il contributo viene erogato in unica soluzione previa presentazione della seguente documentazione:</corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <corpo>a) certificato di ultimazione dei lavori e collaudo;  
+ 
+b) rendiconto delle spese;  
+ 
+c) copia della documentazione di spesa;  
+ 
+d) atto costitutivo per le fondazioni e le associazioni accompagnato dall'autocertificazione del legale rappresentante in cui si dichiara la continuità operativa della propria organizzazione nell'anno successivo alla realizzazione delle opere.  </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo>
+Entità dei contributi  
+ 
+1. Il contributo di cui alla presente legge è pari al 50 per cento delle spese per gli enti pubblici e al totale delle spese per le altre organizzazioni e non può superare, comunque, la somma di euro 40.000,00 per ciascun intervento.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo>
+Norma transitoria 
+ 
+1. Agli oneri derivanti dall'attuazione della presente legge regionale, quantificati per l'anno 2008 in ? 150.000,00, si fa fronte mediante utilizzo di parte dello stanziamento iscritto alla U.P.B. n. 337 dello stato di previsione della spesa per il medesimo esercizio finanziario. La Giunta Regionale istituisce apposito capitolo di spesa nel Bilancio gestionale.  
+ 
+2. Agli oneri per gli esercizi 2009 e successivi si provvede con le rispettive leggi approvative di bilancio.</corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num/>
+                    <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.  
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

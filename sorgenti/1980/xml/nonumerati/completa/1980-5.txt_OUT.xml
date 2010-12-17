@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19801216" num="24" tipo="BURM"/>
+                <entratainvigore norm="19801231"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1980-12-11;39"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="04.Assistenza sociale, volontariato"/>
+                </materie>
+            </descrittori>
+        </meta><?error 04.Assistenza sociale, volontariato 
+ 
+Bollettino 
+Bollettino Ufficiale n. 24 del 16/12/80 
+ 
+Oggetto 
+Eventi sismici del 1980 - Danni - Contributi - Procedure 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19801211">11 Dicembre 1980</dataDoc>, n. <numDoc>39</numDoc>
+            <titoloDoc>Provvidenze a favore delle Regioni, degli Enti locali e dei cittadini colpiti delle Regioni meridionali interessate dal movimento tellurico del novembre 1980 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

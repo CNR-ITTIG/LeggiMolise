@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19950301" num="4" tipo="BURM"/>
+                <entratainvigore norm="19950316"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1995-02-28;7"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="11.Enti locali, comunit&amp;#xE0; montane"/>
+                </materie>
+            </descrittori>
+        </meta><?error 11.Enti locali, comunit&#xE0; montane 
+ 
+Bollettino 
+Bollettino Ufficiale n. 04 del 01/03/95 
+ 
+Oggetto 
+Assistenza tecnica in agricoltura 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19950228">28 Febbraio 1995</dataDoc>, n. <numDoc>7</numDoc>
+            <titoloDoc>Finanziamento alle Comunità Montane degli oneri pregressi per l'assistenza tecnica in agricoltura. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

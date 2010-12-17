@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1984-01-24;1"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.Agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 25 del  
+ 
+Oggetto 
+Produzioni agricole - Difesa da avversit&#xE0; atmosferiche a calamit&#xE0; naturali - Consorzi - Attivit&#xE0; - Provvidenze - Procedure 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19840124">24 Gennaio 1984</dataDoc>, n. <numDoc>1</numDoc>
+            <titoloDoc>Norme che regolano l'attività dei Consorzi di difesa delle produzioni agricole dalle avversità atmosferiche 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: FINALITÀ 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo> 
+ La presente legge ha lo scopo di regolamentare l'attività dei  Consorzi di produttori agricoli, delle associazioni dei produttori  agricoli, delle cooperative di primo e secondo grado e dei   consorzi di produttori, costituiti per l'attuazione della difesa,   sia attiva che passiva, delle  produzioni agricole intensive o  pregiate, dalle avversità atmosferiche o dalle calamità  naturali, di cui all'<rif xlink:href="urn:nir:stato:legge:1981-10-15;590#art10">art. 10 della legge 15 ottobre 1981,  n.590</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+                <rubrica>: RICONOSCIMENTO 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo> 
+Gli organismi di cui all'<rif xlink:href="#art1">art. 1</rif>, sono costituiti con atto pubblico  e devono essere riconosciuti con decreto del Presidente della Giunta, su conforme deliberazione della Giunta Regionale. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+                    <corpo>La domanda per il riconoscimento va inoltrata al Presidente della  Giunta, tramite l'Assessorato Regionale all'Agricoltura e deve contenere l'elenco dei soci, i quali devono rappresentare una   pluralità di associati, il cui raccolto medio non sia inferiore al 10% della produzione regionale anche per un solo prodotto. </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num/>
+                    <corpo>Avverso il mancato riconoscimento è possibile inoltrare ricorso  direttamente al Presidente della Giunta, entro 30 giorni dalla data di comunicazione del provvedimento. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3</num>
+
+                <rubrica>: REQUISITI PER IL RICONOSCIMENTO REGIONALE DEGLI ORGANISMI DI CUI ALL'<rif xlink:href="#art1">ART. 1</rif>
+                </rubrica>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo> 
+Gli organismi di cui all'<rif
+                            xlink:href="#art1">art. 1</rif> sono retti da  uno <rif xlink:href="urn:nir:regione.molise:statuto:">statuto</rif> proposto dall'assemblea dei soci. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <corpo>L'approvazione dello <rif xlink:href="urn:nir:regione.molise:statuto:">statuto</rif> e delle successive eventuali modifiche avvengono con delibera della Giunta Regionale, su proposta dell'Assessore Regionale all'Agricoltura. </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num/>
+                    <corpo>Lo <rif xlink:href="urn:nir:regione.molise:statuto:">statuto</rif> deve prevedere la denominazione, la sede, gli organi ed il patrimonio dell'Ente, la durata dell'Associazione che non può essere inferiore a 10 anni, gli scopi sociali, ed inoltre le   forme di ordinamento, l'amministrazione e la gestione della cassa sociale. </corpo>
+                </comma>
+                <comma id="art3-com4">
+                    <num/>
+                    <alinea>Lo <rif xlink:href="urn:nir:regione.molise:statuto:">statuto</rif> deve anche prevedere: 
+ 
+</alinea>
+                    <el id="art3-com4-leta">
+                        <num>a)</num>
+                        <corpo> il diritto di ammissione a socio, per tutti i produttori agricoli della zona aventi i requisiti prescritti, con esclusione di coloro che facciano parte di altri organismi similari, salvo il diritto di opzione;</corpo>
+                    </el>
+                    <el id="art3-com4-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> il diritto di ricorso al Presidente della Giunta Regionale, in caso di reiezione della domanda a socio;</corpo>
+                    </el>
+                    <el id="art3-com4-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> l'obbligo di versamento, da parte dei soci, del contributo annuo, in rapporto al valore della produzione denunciata e ratificata dalla Camera di Commercio I.A.A. di Campobasso, sulla scorta della media delle mercuriali dell'annata precedente;</corpo>
+                    </el>
+                    <el id="art3-com4-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> che i due terzi dei seggi del Consiglio di Amministrazione siano attribuiti alla lista che abbia riportato il maggior numero dei voti ed il restante terzo alla lista che segue nell'ordine dei voti   riportati;</corpo>
+                    </el>
+                    <el id="art3-com4-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> il termine, non superiore a 40 giorni, entro il quale il Consiglio di Amministrazione deve notificare all'aspirante socio la sua motivata decisione sulla domanda di ammissione, decorso il   quale senza alcuna pronunzia la domanda si ritiene accolta;</corpo>
+                    </el>
+                    <el id="art3-com4-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> la nomina del collegio sindacale, con la facoltà della Giunta Regionale, del Ministro per l'Agricoltura e Foreste e del Ministro per il Tesoro di designare propri rappresentanti. </corpo>
+                    </el>
+                </comma>
+                <comma id="art3-com5">
+                    <num/>
+                    <corpo>In caso di partecipazione al Collegio del funzionario designato dal Ministro per il Tesoro, al medesimo saranno attribuite le funzioni di Presidente. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+                <rubrica>: VIGILANZA 
+</rubrica>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo> 
+Gli Organismi sono sottoposti alla vigilanza della Giunta Regionale che ha la potestà di intervenire pure in via surrogatoria, per assicurare il buon funzionamento e la regolare attuazione dei fini istituzionali, anche mediante lo scioglimento dell'Amministrazione ordinaria e la nomina di un Commissario. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num/>
+                    <corpo>La vigilanza viene esercitata dalla Giunta Regionale, tramite l'Assessorato Regionale all'Agricoltura. </corpo>
+                </comma>
+                <comma id="art4-com3">
+                    <num/>
+                    <corpo>La Giunta Regionale, su proposta dell'Assessore Regionale all'Agricoltura, delibera la nomina di un funzionario regionale nel Consiglio di Amministrazione del Consorzio, con diritto di far  parte del Consiglio di gestione della cassa sociale. </corpo>
+                </comma>
+                <comma id="art4-com4">
+                    <num/>
+
+                    <corpo>Per le attività che formano oggetto del riconoscimento e delle provvidenze previste dalla <rif
+                            xlink:href="urn:nir:stato:legge:1981-10-15;590">legge 15 ottobre 1981, n. 590</rif>, i Consorzi dovranno costituire una cassa sociale in conformità di quanto   disposto dall'<rif
+                            xlink:href="urn:nir:stato:legge:1970-05-25;364#art19">art. 19 della legge 25 maggio 1970, n. 364</rif>, così come modificato dall'<rif
+                            xlink:href="urn:nir:stato:legge:1981-10-15;590#art10">art. 10 della legge 15 ottobre 1981, n. 590</rif>, e dall'<rif xlink:href="urn:nir:stato:legge:1970;364#art20">art.20 della medesima legge n. 364 del 1970</rif>. La dotazione   finanziaria della cassa non può essere destinata a scopi diversi da quelli indicati nelle predette leggi statali;  la cassa deve formare, altresì, oggetto di gestione separata da  parte dell'apposito Consiglio di gestione. </corpo>
+                </comma>
+                <comma id="art4-com5">
+                    <num/>
+                    <alinea>Gli organismi devono tenere le scritture, i libri ed i registri secondo istruzioni tecniche che saranno impartite dall'Assessorato Regionale all'Agricoltura. I consorzi che intendono beneficiare degli  interventi contributivi per la Cassa sociale o per altre attività,  sono soggetti ai controlli ed alle ispezioni disposte dall'Assessore Regionale all'Agricoltura al quale devono trasmettere: 
+ 
+</alinea>
+                    <en id="art4-com5-num1">
+                        <num>1)</num>
+                        <corpo> copia dei bilanci e relative relazioni del Collegio sindacale, entro 30 giorni dalla loro approvazione da parte dell'assemblea;</corpo>
+                    </en>
+                    <en id="art4-com5-num2">
+                        <num> 
+ 
+2)</num>
+                        <corpo> copia delle deliberazioni concernenti programmi di attività e convenzioni con società di assicurazione autorizzate all'esercizio del ramo grandine entro 30 giorni dalla loro assunzione;</corpo>
+                    </en>
+                    <en id="art4-com5-num3">
+                        <num> 
+ 
+3)</num>
+                        <corpo> tutte le informazioni e dati che potranno essere richiesti per l'esercizio della vigilanza. 
+ 
+</corpo>
+                    </en>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+                <rubrica>: ADEGUAMENTO DEGLI STATUTI PREESISTENTI 
+</rubrica>
+                <comma id="art5-com1">
+                    <num/>
+
+                    <corpo> 
+Gli organismi costituiti e riconosciuti con Decreto del Ministro per l'Agricoltura e le Foreste ai sensi della <rif
+                            xlink:href="urn:nir:stato:legge:1970-05-25;364">legge 25 maggio 1970, n.364</rif>, non sono assoggettati alla procedura di cui all'<rif
+                            xlink:href="#art2">art. 2</rif> della presente legge, ma sono tenuti all'adeguamento del loro <rif
+                            xlink:href="urn:nir:regione.molise:statuto:">statuto</rif> ai principi stabiliti dall'<rif xlink:href="#art3">art. 3</rif> della presente legge, entro 90 giorni dall'entrata in vigore della stessa. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6</num>
+                <rubrica>: PROVVIDENZE REGIONALI E ANTICIPAZIONI 
+</rubrica>
+                <comma id="art6-com1">
+                    <num/>
+
+                    <alinea> 
+La Giunta Regionale, fermo restando le provvidenze previste dalla <rif
+                            xlink:href="urn:nir:stato:legge:1970-05-25;364">legge 25 maggio 1970, n. 364</rif>, così come modificata ed integrata dalla <rif
+                            xlink:href="urn:nir:stato:legge:1981-10-15;590">legge 15 ottobre 1981, n. 590</rif>, concede ai Consorzi di cui   all'<rif xlink:href="#art1">art. 1</rif> della presente legge, nei limiti degli stanziamenti del bilancio regionale: 
+ 
+</alinea>
+                    <en id="art6-com1-num1">
+                        <num>1)</num>
+                        <corpo> contributi di funzionamento, al fine di favorire il funzionamento amministrativo dei Consorzi; detti contributi saranno proporzionati al valore della produzione annua denunziata e, comunque, non potranno superare il 70% delle spese ritenute ammissibili dalla Giunta Regionale;</corpo>
+                    </en>
+                    <en id="art6-com1-num2">
+                        <num> 
+ 
+2)</num>
+                        <corpo> contributi per programmi, a seguito di affidamenti, regolati da apposite convenzioni, per la realizzazione degli interventi e delle attività previste nei programmi regionali di difesa attiva delle   colture agrarie dalle avversità meteoriche o da altri parassiti;</corpo>
+                    </en>
+                    <en id="art6-com1-num3">
+                        <num> 
+ 
+3)</num>
+                        <corpo> contributi per la dotazione della cassa sociale, in materia di difesa passiva in riduzione dei contributi gravanti sugli associati, da concedere fino alla misura massima del 50% del contributo   complessivo posto a carico degli associati. </corpo>
+                    </en>
+                </comma>
+                <comma id="art6-com2">
+                    <num/>
+                    <corpo>Sui contributi di cui ai precedenti punti 1 ) e 3), la Giunta Regionale può erogare anticipazioni fino al 50% dell'importo concesso, al momento della presentazione dei bilanci di previsione,  a fronte della spesa preventivata; i conguagli saranno erogati al momento della presentazione dei bilanci consuntivi approvati dagli Organi statutari dei Consorzi, previo esame di merito da parte della Giunta regionale. </corpo>
+                </comma>
+                <comma id="art6-com3">
+                    <num/>
+
+                    <corpo>La Regione, altresì, estende agli Organi di cui all'<rif xlink:href="#art1">art. 1</rif> le provvidenze creditizie e fidejussorie, previste dalla legislazione regionale vigente nel tempo a favore delle cooperative e loro Consorzi operanti nel settore agricolo. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7</num>
+                <rubrica>: RINVIO ALLA LEGISLAZIONE STATALE PREESISTENTE 
+</rubrica>
+                <comma id="art7-com1">
+                    <num/>
+
+                    <corpo> 
+Per quanto non esplicitamente previsto dalla presente legge, si applicano le norme di cui alla <rif
+                            xlink:href="urn:nir:stato:legge:1970-05-25;364">legge 25 maggio 1970, n. 364</rif>, modificata ed integrata dalla <rif xlink:href="urn:nir:stato:legge:1981-10-15;590">legge 15 ottobre 1981, n. 590</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8</num>
+                <rubrica>: NORMA FINANZIARIA 
+</rubrica>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo> 
+Per l'anno 1984 e seguenti all'onere finanziario derivante dalla presente legge si provvederà con iscrizioni, nei limiti delle disponibilità di bilancio ed in relazione alle assegnazioni dello Stato, a carico di appositi capitoli del relativo bilancio di competenza. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9</num>
+                <rubrica>: PUBBLICAZIONE 
+</rubrica>
+                <comma id="art9-com1">
+                    <num/>
+
+                    <corpo> 
+La presente legge è dichiarata urgente ai sensi del <rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">2° comma dell'art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

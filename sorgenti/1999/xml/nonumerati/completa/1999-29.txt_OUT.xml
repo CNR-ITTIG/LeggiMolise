@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19990430" num="8" tipo="BURM"/>
+                <entratainvigore norm="19990515"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1999-04-26;16"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 08 del 30/04/99 
+ 
+Oggetto 
+Emergenza neonatale : istituzione del servizio di trasporto 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="19990426">26 aprile 1999</dataDoc>, n.<numDoc>16</numDoc>
+            <titoloDoc>Istituzione del servizio per il trasporto di emergenza neonatale 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1  </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <alinea>
+1. È istituito il servizio per il trasporto di emergenza neonatale (STEN) finalizzato ad assicurare:  
+ 
+</alinea>
+                    <el id="art1-com1-leta">
+                        <num>a)</num>
+                        <corpo> la migliore assistenza ad ogni neonato, nella struttura più idonea alle sue necessità;</corpo>
+                    </el>
+                    <el id="art1-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> l'ottimale utilizzo delle risorse professionali, strumentali ed assistenziali di neonatologia con concentrazione dei neonati a rischio che necessitano di cure intensive nel Centro di neonatologia dell'Ospedale &lt;&lt; A. Cardarelli &gt;&gt; di Campobasso;</corpo>
+                    </el>
+                    <el id="art1-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> un rapporto costi/benefici più favorevole nell'organizzazione assistenziale nell'ambito delle cure perinatali. </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2  </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+1. Lo STEN è integrato nel Sistema di Emergenza Territoriale (numero telefonico unico &lt;&lt; 118 &gt;&gt;.  </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3  </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+1. Lo STEN rappresenta la struttura di collegamento tra i punti nascita periferici ed il Centro di terapia intensiva neonatale (TIN) dell'Ospedale di Campobasso e deve consentire un rapido e sicuro trasporto dei neonati che necessitano di assistenza globalmente superiore a quella offerta dall'ospedale di nascita.  
+ 
+2. Il trasporto dovrà essere effettuato a cura del Centro di terapia intensiva neonatale di Campobasso che si attiverà su richiesta dei medici dell'ospedale di nascita.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4  </num>
+                <comma id="art4-com1">
+                    <num/>
+                    <alinea>
+1. Lo STEN avrà il compito di effettuare:  
+ 
+</alinea>
+                    <el id="art4-com1-leta">
+                        <num>a)</num>
+                        <corpo> trasporti primari: trasporti dei neonati da punto di nascita al Centro TIN di Campobasso qualora non sia stato possibile effettuare il trasferimento materno - fetale (trasporto in utero );</corpo>
+                    </el>
+                    <el id="art4-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> trasporti interterziari: trasporti di neonati ad altri centri (ad es. chirurgici, cardiochirurgici) non presenti nella sede del Centro TIN di Campobasso;</corpo>
+                    </el>
+                    <el id="art4-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> trasporti diagnostici: trasporti di neonati effettuati presso il Centro TIN per l'esecuzione di indagini complesse non realizzabili in loco con ritorno presso l'ospedale di origine;</corpo>
+                    </el>
+                    <el id="art4-com1-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo> back-trasport: trasporti di neonati dal centro TIN al punto nascita dopo la risoluzione della fase acuta della malattia. </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5  </num>
+                <comma id="art5-com1">
+                    <num/>
+                    <alinea>
+1. La Giunta Regionale istituirà apposita Commissione regionale con il compito di:  
+ 
+</alinea>
+                    <el id="art5-com1-leta">
+                        <num>a)</num>
+                        <corpo> definire precisi standard operativi;</corpo>
+                    </el>
+                    <el id="art5-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> redigere protocolli con precise indicazioni sulla patologia materna e neonatale che richiede il trasferimento della donna o del neonato presso altri centri;</corpo>
+                    </el>
+                    <el id="art5-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> redigere protocolli e regolamenti operativi di coordinamento dell'attività di trasporto, di comunicazione e di raccolta dati;</corpo>
+                    </el>
+                    <el id="art5-com1-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo> organizzare un programma di addestramento alla resuscitazione del neonato condotto dall'equipe del Centro TIN di Campobasso e rivolto a tutto il personale medico ed infermieristico anche non pediatrico coinvolto nell'evento parto negli ospedali periferici;</corpo>
+                    </el>
+                    <el id="art5-com1-lete">
+                        <num>  
+ 
+e)</num>
+                        <corpo> prevedere un programma di adeguamento delle strutture neonatologiche di rianimazione primaria esistenti nei punti nascita degli ospedali della Regione.  
+ 
+2. La Commissione regionale è composta da: 
+ 
+- n. 1 rappresentante dell'Osservatorio Epidemiologico presso l'Assessorato alla Sanità;  
+ 
+- n. 2 rappresentanti dello STEN;  
+ 
+- n. 1 rappresentante di ciascun ospedale trasferente.</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo>
+1. La copertura dei posti del personale medico sarà attuata prioritariamente ricorrendo all'istituto della mobilità interna utilizzando a domanda il personale medico provvisto di specializzazione in Pediatria anche se operante attualmente in disciplina o area diversa dalla Pediatria. Anche i posti di infermiere saranno coperti prioritariamente utilizzando la mobilità regionale o interregionale di personale specializzato.  </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7  </num>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo>
+1. Agli oneri derivanti dalla attuazione della presente legge si provvede con la quota del Fondo sanitario nazionale attribuita dalla Regione alla Azienda sanitaria locale Centro Molise per il finanziamento del sistema di emergenza territoriale.  </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8  </num>
+                <comma id="art8-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge è dichiarata urgente ai sensi dell' <rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione.  </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num/>
+                    <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.  
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

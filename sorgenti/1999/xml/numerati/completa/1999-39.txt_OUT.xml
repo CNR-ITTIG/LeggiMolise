@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19990216" num="3" tipo="BURM"/>
+                <entratainvigore norm="19990303"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1999-02-11;6"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 03 del 16/02/99 
+ 
+Oggetto 
+Commissioni mediche sanitarie - Finanziamento. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="19990211">11 Febbraio 1999</dataDoc>, n.<numDoc>6</numDoc>
+
+            <titoloDoc>Norme per il funzionamento delle Commissioni Sanitarie di cui alla legge 15 ottobre l990, n. 295 - dei Collegi Medici di cui all'<rif
+                    xlink:href="urn:nir:stato:legge:1968-04-02;482#art20">articolo 20 della legge 2 aprile 1968, n. 482</rif>, e della <rif
+                    xlink:href="urn:nir:stato:legge:1992-02-05;104">legge 5 febbraio 1992, n. 104</rif>, <rif xlink:href="#art4">articolo 4</rif>. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <titolo id="tit1">
+                <num>Titolo I  </num>
+                <articolo id="art1">
+                    <num>Art. 1  </num>
+                    <rubrica>
+ 
+OGGETTO DELLA LEGGE  
+ </rubrica>
+                    <comma id="art1-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La Regione Molise, con la presente legge, disciplina la nomina, la composizione ed il funzionamento delle Commissioni Medico Sanitarie e dei Collegi medici di cui alla <rif xlink:href="urn:nir:stato:legge:1990-10-15;295">legge n. 295 del 15 ottobre 1990</rif>; stabilisce altresì, l'entità, del compenso dei Presidenti, dei componenti e dei segretari degli organismi medesimi.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit2">
+                <num>Titolo II  </num>
+                <articolo id="art2">
+                    <num>Art. 2  </num>
+                    <rubrica>
+ 
+COMMISSIONI MEDICHE SANITARIE  
+ </rubrica>
+                    <comma id="art2-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Gli accertamenti sanitari relativi alle domande per ottenere la pensione, l'assegno o l'indennità di invalidità civile, di cui alle leggi:  
+ 
+- 26 maggio 1970, n. 381 e successive modifiche ed integrazioni, concernente i sordomuti;  
+ 
+- 27 maggio 1970, n. 382 e successive modifiche ed integrazioni, concernente disposizioni in materia di assistenza ai ciechi civili;  
+ 
+- 30 marzo 1971, n. 1l8 e successive modifiche ed integrazioni, concernente disposizioni in favore dei mutilati ed invalidi civili; 
+ 
+- 11 febbraio 1980, n. 18 concernente disposizioni in materia di indennità di accompagnamento;  
+ 
+- 5 febbraio 1992, n. l04, <rif xlink:href="#art4">art. 4</rif>, concernente l'accertamento dell'handicap; sono effettuati dalle Commissioni Mediche Sanitarie delle Aziende Sanitarie Locali.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art3">
+                    <num>Art. 3  </num>
+                    <rubrica>
+ 
+COMPOSIZIONE  
+ </rubrica>
+                    <comma id="art3-com1">
+                        <num>
+1.</num>
+
+                        <alinea> Le Commissioni Mediche Sanitarie, di cui all'<rif xlink:href="#art1">art. 1</rif>, sono composte ciascuna da:  
+ 
+- 1 medico specialista in Medicina Legale, con funzioni di Presidente;  
+ 
+- 2 medici, di cui uno scelto, prioritariamente, tra gli specialisti in Medicina del Lavoro.  
+ 
+2. Qualora non sia possibile pervenire alla designazione di Sanitari in possesso della specializzazione in Medicina Legale, la presidenza delle Commissioni può essere affidata a medici assegnati ad attività di Medicina Legale e/o ad essa assimilabili, alle seguenti condizioni:  
+ 
+</alinea>
+                        <el id="art3-com1-leta">
+                            <num>a)</num>
+                            <corpo> oggettiva impossibilità, comprovata dal Direttore Generale dell'Azienda Sanitaria Locale, nell'atto di designazione, di reperimento di specialisti in Medicina Legale;</corpo>
+                        </el>
+                        <el id="art3-com1-letb">
+                            <num>  
+ 
+b)</num>
+
+                            <corpo> anzianità di almeno cinque anni di servizio nelle predette attività di Medicina Legale e/o ad essa assimilabili, purché svolte nell'ambito del servizio di Igiene Pubblica della competente Azienda Sanitaria Locale.  
+ 
+3. Le Commissioni sono integrate:  
+ 
+- di volta in volta, con un sanitario designato, rispettivamente, dall'Associazione Nazionale dei mutilati ed invalidi civili, dall'Unione italiana ciechi, dall'Ente nazionale per la protezione e l'assistenza ai sordomuti e dall'Associazione nazionale delle famiglie dei fanciulli ed adulti subnormali ogni qualvolta devono pronunciarsi su invalidi appartenenti alle rispettive categorie;  
+ 
+- con un operatore sociale e con un medico esperto nei casi da esaminare ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1992-02-05;104#art4">art. 4 della legge 5 febbraio 1992, n. 104</rif>.  
+ 
+4. Non possono far parte delle Commissioni mediche sanitarie i sanitari che siano già membri della Commissione Medica Periferica per le Pensioni di Guerra e di Invalidità Civile.  
+ 
+5. Le funzioni di Segretario delle Commissioni mediche sanitarie sono svolte da un dipendente del ruolo amministrativo, in servizio presso l'Azienda Sanitaria Locale in cui opera la Commissione, su designazione del Direttore Generale dell'Azienda medesima.  
+ 
+6. Per il Presidente, per ciascuno dei componenti e per il Segretario effettivi delle Commissioni mediche sanitarie, vengono nominati, con le stesse modalità previste per gli effettivi, i relativi supplenti che partecipano alle riunioni solo in caso di assenza o impedimento dei componenti effettivi.  
+ 
+</corpo>
+                        </el><?error Marker Warning 101 (last comma:1 next:3)?>
+                    </comma>
+                </articolo>
+                <articolo id="art4">
+                    <num>Art. 4  </num>
+                    <rubrica>
+ 
+NOMINA  
+ </rubrica>
+                    <comma id="art4-com1">
+                        <num>
+1.</num>
+                        <alinea> La Giunta Regionale procede alla nomina delle Commissioni sulla base delle sottoelencate designazioni di terne indicate dal Direttore Generale di ciascuna ASL nonché dei sanitari designati dalle Associazioni di Categoria, di cui al comma 3 del precedente art. 3; le designazioni devono pervenire nel termine di 45 giorni dal recepimento della richiesta effettuata dall'Assessorato Regionale alla Sanità e Sicurezza - Sociale alla competente A.S.L.:  
+ 
+- una terna di Sanitari in possesso della specializzazione in Medicina Legale, dipendenti o convenzionati con l'</alinea>
+                        <el id="art4-com1-leta">
+                            <num>A.</num>
+                            <corpo>S.L.;  
+ 
+- due terne di Sanitari, di cui una composta da Sanitari specialisti in medicina del Lavoro, dipendenti o convenzionati con l'A.S.L.;  
+ 
+- una terna di operatori sociali, in servizio presso l'A.S.L.  </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art4-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Al Presidente della Commissione ­ demandata la designazione solo del medico esperto, dipendente o convenzionato con la A.S.L., nei casi da esaminare ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1992;104#art4">art. 4 della legge 104/92</rif>. </corpo>
+                    </comma>
+                    <comma id="art4-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> La Giunta Regionale, in caso di inottemperanza della ASL, trascorsi 45 giorni dalla richiesta di designazione di cui al <rif xlink:href="#art4-com1">comma 1</rif>, provvede direttamente alla nomina delle Commissioni.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art5">
+                    <num>Art. 5  </num>
+                    <rubrica>
+ 
+MODALITÀ DI FUNZIONAMENTO  
+ </rubrica>
+                    <comma id="art5-com1">
+                        <num>
+1.</num>
+                        <corpo> La Giunta Regionale, in relazione al numero delle domande giacenti presso i rispettivi Servizi di Igiene Pubblica dell'Azienda Sanitaria Locale, su richiesta di questa, nomina più Commissioni, stabilendone il numero la sede e l'ambito territoriale.  </corpo>
+                    </comma>
+                    <comma id="art5-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> L'invalido, in sede di accertamento sanitario, può farsi assistere dal proprio medico di fiducia.  </corpo>
+                    </comma>
+                    <comma id="art5-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Le Commissioni Mediche Sanitarie durano in carica tre anni e i componenti possono essere riconfermati.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit3">
+                <num>Titolo III  </num>
+                <rubrica>
+ 
+COLLEGIO MEDICO PER L'ACCERTAMENTO DELLA COMPATIBILITÀ DELLO STATO PSICO-FISICO DELL'INVALIDO RISPETTO ALLE MANSIONI LAVORATIVE  
+ 
+</rubrica>
+                <articolo id="art6">
+                    <num>Art. 6  </num>
+                    <rubrica>
+ 
+COMPOSIZIONE  
+ </rubrica>
+                    <comma id="art6-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Gli accertamenti sanitari, relativi alla compatibilità dello stato psico - fisico dell'invalido rispetto alle mansioni lavorative, sono effettuati dal Collegio Medico, di cui all'<rif xlink:href="urn:nir:stato:legge:1968-04-02;482#art20">art 20 della legge 2 aprile 1968, n. 482</rif> e successive modificazioni ed integrazioni. </corpo>
+                    </comma>
+                    <comma id="art6-com2">
+                        <num>
+ 
+2.</num>
+                        <alinea> Il Collegio Medico, di cui al precedente comma, composto da:  
+ 
+- un medico specialista in Medicina Legale, dipendente o convenzionato con l'</alinea>
+                        <el id="art6-com2-leta">
+                            <num>A.</num>
+
+                            <corpo>S.L., che lo presiede, designato dal Direttore Generale dell'A.S.L di competenza;  
+ 
+- un Ispettore Medico del Lavoro, ovvero da un Ispettore Medico dei Servizio Sanitario Nazionale, designato dal Direttore Generale della A.S.L. di competenza, ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1978;833#art21">art. 21 della legge 833/78</rif> di riforma sanitaria;  
+ 
+- un Medico in rappresentanza dell'Associazione dei datori di lavoro, designato dall'Associazione Industriali del Molise;  
+ 
+- un Medico designato dall'Associazione Nazionale Mutilati ed Invalidi Civili.  </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art6-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Qualora non sia possibile pervenire alla designazione dei Presidente del Collegio Medico, in possesso della specializzazione in Medicina Legale, per la suddetta nomina si applicano le procedure previste dall'art. 3, comma 3. </corpo>
+                    </comma>
+                    <comma id="art6-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Le funzioni di Segretario sono svolte da un dipendente del ruolo amministrativo dell'A.S.L. designato dal Direttore Generale dell'A.S.L.  </corpo>
+                    </comma>
+                    <comma id="art6-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> Per il Presidente, per ciascuno dei componenti e per il Segretario effettivi del Collegio Medico, vengono nominati, con le stesse modalità previste per gli effettivi, i relativi supplenti che partecipano alle riunioni solo in caso di assenza o impedimento dei componenti effettivi.  </corpo>
+                    </comma>
+                    <comma id="art6-com6">
+                        <num>
+ 
+6.</num>
+                        <corpo> Il Collegio Medico dura in carica tre anni ed i suoi componenti possono essere riconfermati.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art7">
+                    <num>Art. 7  </num>
+                    <comma id="art7-com1">
+                        <num>
+1.</num>
+                        <corpo> Il Collegio Medico, di cui al precedente articolo, ­ nominato dalla Giunta Regionale ed opera nell'ambito del Servizio di Igiene Pubblica dell'A.S.L. di competenza.  </corpo>
+                    </comma>
+                    <comma id="art7-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> La Giunta Regionale, trascorsi 45 giorni dalla richiesta di designazione, in caso di inottemperanza, provvede direttamente alla nomina del Collegio.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art8">
+                    <num>Art. 8  </num>
+                    <comma id="art8-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit4">
+                <num>Titolo IV  </num>
+
+                <rubrica>
+ 
+COMPENSI E SPESE DI FUNZIONAMENTO  
+ 
+1. Ai Presidenti, ai Componenti e ai Segretari delle Commissioni Mediche Sanitarie e dei Collegi Medici di cui agli artt. 3 e 6, ad esclusione dei medici designati dal datore di lavoro, viene corrisposto un gettone di presenza di L. 50.000 (cinquantamila) lorde per giorno/seduta, più un compenso aggiuntivo di L. 10.000 (diecimila) lorde, per ogni visita.  
+ 
+2. Spetta, altresì, il rimborso delle spese di viaggio, esclusivamente per le eventuali visite a domicilio, ai sensi della normativa vigente. Tali spese sono computate sulla base della distanza chilometrica, che intercorre dal luogo di lavoro delle Commissioni Mediche Sanitarie al domicilio del richiedente.  
+ 
+3. I compensi, di cui al <rif
+                        xlink:href="#art8-com1">comma 1</rif> del presente articolo, non competono qualora la prestazione del servizio venga effettuata durante l'orario di lavoro.  
+ 
+4. La Giunta Regionale, con proprio provvedimento procede, ogni due anni, all'adeguamento dei compensi di cui al <rif xlink:href="#art8-com1">comma 1</rif>, sulla base degli indici ISTAT relativi al tasso di inflazione.  
+ 
+5. Alla copertura degli oneri di cui ai precedenti commi 1 e 2, provvedono direttamente le Aziende Sanitarie Locali, mediante l'impiego delle somme assegnate, quale quota corrente, dal Fondo Sanitario Nazionale. 
+ 
+</rubrica>
+                <articolo id="art9">
+                    <num>Art. 9  </num>
+                    <rubrica>
+ 
+NORMA TRANSITORIA  
+ </rubrica><?error Marker Warning 109?>
+                    <comma id="art9-com1">
+                        <num>
+1.</num>
+                        <corpo> Le Commissioni Mediche e i Collegi Medici, attualmente operanti, proseguono la loro attività fino all'insediamento di quelli nominati ai sensi della presente legge. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit5">
+                <num>Titolo V  </num>
+                <rubrica>
+ 
+NORME FINALI  
+ 
+</rubrica>
+                <articolo id="art10">
+                    <num>Art. 10  </num>
+                    <rubrica>
+ 
+DISPOSIZIONI ATTUATIVE  
+ </rubrica>
+                    <comma id="art10-com1">
+                        <num>
+1.</num>
+                        <corpo> Entro 60 giorni dalla pubblicazione della presente legge, la Giunta Regionale provvede alla approvazione delle relative disposizioni attuative.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art11">
+                    <num>Art. 11  </num>
+                    <rubrica>
+ 
+ABROGAZIONI  
+ </rubrica>
+                    <comma id="art11-com1">
+                        <num>
+1.</num>
+                        <corpo>
+                            <mod id="art11-com1-mod1"> Le leggi regionali 16 giugno 1983, n. 15 e 12 agosto 1987, n. 11 sono abrogate.  
+ 
+</mod>
+                        </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art12">
+                    <num>Art. 12  </num>
+                    <rubrica>
+ 
+DICHIARAZIONE DI URGENZA  
+ </rubrica>
+                    <comma id="art12-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La presente legge è dichiarata urgente, ai sensi dell'<rif
+                                xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise.  </corpo>
+                    </comma>
+                    <comma id="art12-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

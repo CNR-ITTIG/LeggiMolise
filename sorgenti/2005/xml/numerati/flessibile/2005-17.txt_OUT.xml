@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2005-10-24;36"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="16.Iniziativa popolare e referendum, diritti dei cittadini, dei consumatori e degli utenti"/>
+                </materie>
+            </descrittori>
+        </meta><?error 16.Iniziativa popolare e referendum, diritti dei cittadini, dei consumatori e degli utenti 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 30 del 31 ottobre 2005 
+ 
+Oggetto 
+Statuto regionale - Leggi regionali di approvazione o di modificazione- Referendum - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20051024">24 ottobre 2005</dataDoc>, n. <numDoc>36</numDoc>. 
+ 
+<titoloDoc>Disciplina del referendum previsto dall'<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art123-com3">articolo 123, terzo comma, della Costituzione</rif>. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <capo id="cap1">
+                <num>CAPO I </num>
+                <rubrica>
+ 
+DISPOSIZIONI GENERALI 
+ 
+</rubrica>
+                <articolo id="art1">
+                    <num>Art. 1 </num>
+                    <rubrica>
+ 
+(Oggetto) 
+ </rubrica>
+                    <comma id="art1-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La presente legge disciplina le modalità di svolgimento del referendum sulle leggi regionali di approvazione o di modificazione dello <rif
+                                xlink:href="urn:nir:regione.molise:statuto:">Statuto regionale</rif>, previsto dall'<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art123-com3">articolo 123, terzo comma, della Costituzione</rif>. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art2">
+                    <num>Art. 2 </num>
+
+                    <rubrica>
+ 
+(Pubblicazione delle leggi di approvazione o di modificazione dello <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto regionale</rif> ai fini della richiesta di referendum) 
+ </rubrica>
+                    <comma id="art2-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Il Presidente del Consiglio regionale trasmette al Presidente della Giunta regionale il testo della legge di approvazione o di modificazione dello <rif
+                                xlink:href="urn:nir:regione.molise:statuto:">Statuto regionale</rif> approvato ai sensi dell'<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art123-com2">articolo 123, secondo comma, della Costituzione</rif>, entro cinque giorni dalla data dell'ultima deliberazione del Consiglio regionale. </corpo>
+                    </comma>
+                    <comma id="art2-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Il Presidente della Giunta regionale provvede all'immediata pubblicazione della legge nel Bollettino ufficiale della Regione, senza formula di promulgazione e senza numerazione, con l'intestazione: "Testo di legge di approvazione (o di modificazione) dello <rif
+                                xlink:href="urn:nir:regione.molise:statuto:">Statuto regionale</rif> approvato in seconda votazione a norma dell'<rif
+                                xlink:href="urn:nir:stato:costituzione:1947-12-27#art123-com2">articolo 123, secondo comma, della Costituzione</rif>", seguita dal titolo e dal testo della legge, con l'indicazione della data della seconda approvazione e con l'espresso avvertimento che, entro tre mesi dalla data di pubblicazione, almeno un cinquantesimo degli elettori della regione o un quinto dei componenti il Consiglio regionale possono chiedere che si proceda a referendum popolare, a norma dell'<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art123-com3">articolo 123, terzo comma, della Costituzione</rif> e della presente legge. </corpo>
+                    </comma>
+                    <comma id="art2-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Il termine di tre mesi per la presentazione della richiesta di referendum e per la raccolta e la presentazione delle sottoscrizioni richieste inizia a decorrere dal giorno successivo a quello della pubblicazione di cui al <rif xlink:href="#art2-com2">comma 2</rif>. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art3">
+                    <num>Art. 3 </num>
+
+                    <rubrica>
+ 
+(Promulgazione delle leggi di approvazione o di modificazione dello <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto regionale</rif> in caso di mancata richiesta di referendum) 
+ </rubrica>
+                    <comma id="art3-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Se nel termine di tre mesi dalla data di pubblicazione di cui all'<rif xlink:href="#art2-com3">articolo 2, comma 3</rif>, non vengono presentate richieste di referendum, e sempre che non risulti pendente il giudizio di legittimità costituzionale eventualmente promosso dal Governo, il Presidente della Giunta regionale promulga la legge con la formula seguente: "Il Consiglio regionale ha approvato; nessuna richiesta di referendum è stata presentata; il Presidente della Giunta regionale promulga la seguente legge: (testo della legge). La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise". 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art4">
+                    <num>Art. 4 </num>
+                    <rubrica>
+ 
+(Richiesta di referendum) 
+ </rubrica>
+                    <comma id="art4-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La richiesta di referendum di cui all'<rif
+                                xlink:href="#art1">articolo 1</rif> deve contenere l'indicazione della legge di approvazione o di modificazione dello <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto regionale</rif> che si intende sottoporre alla votazione popolare e deve, altresì, citare la data della sua approvazione finale da parte del Consiglio regionale e la data ed il numero del Bollettino ufficiale della Regione nel quale è stata pubblicata. </corpo>
+                    </comma>
+                    <comma id="art4-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Il quesito da sottoporre a referendum consiste nella formula seguente: "Approvate il testo della legge di approvazione (o di modificazione) dello <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto regionale</rif> concernente... (titolo della legge), approvato dal Consiglio regionale in seconda deliberazione il giorno.. . e pubblicato nel Bollettino ufficiale della Regione numero... del...?". </corpo>
+                    </comma>
+                    <comma id="art4-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Il quesito non è corredato di alcun altro elemento di illustrazione. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </capo>
+            <capo id="cap2">
+                <num>CAPO II </num>
+                <rubrica>
+ 
+RICHIESTA DI REFERENDUM PRESENTATA DA UN CINQUANTESIMO DEGLI ELETTORI DELLA REGIONE 
+ 
+</rubrica>
+                <articolo id="art5">
+                    <num>Art. 5 </num>
+                    <rubrica>
+ 
+(Iniziativa referendaria popolare) 
+ </rubrica>
+                    <comma id="art5-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Gli elettori molisani che intendono esercitare l'iniziativa referendaria di cui all'<rif
+                                xlink:href="#art4">articolo 4</rif>, per il tramite di almeno tre di essi, che assumono la qualità di promotori, muniti ciascuno del certificato di iscrizione nelle liste elettorali di un comune della regione, depositano, entro il termine di cui all'<rif
+                                xlink:href="#art2-com3">articolo 2, comma 3</rif>, presso il Consiglio regionale, la richiesta referendaria ed il testo del quesito referendario, corredati delle prescritte firme raccolte con le modalità di cui all'<rif
+                                xlink:href="#art7">articolo 7</rif>. Alla richiesta referendaria devono essere allegati i certificati di cui all'<rif xlink:href="#art7-com7">articolo 7, comma 7</rif>. </corpo>
+                    </comma>
+                    <comma id="art5-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Il testo del quesito referendario, predisposto secondo le modalità di cui all'<rif
+                                xlink:href="#art4">articolo 4</rif>, deve essere formulato su fogli recanti in calce le firme dei promotori e dei delegati di cui al <rif
+                                xlink:href="#art5-com3">comma 3</rif>, autenticate nei modi previsti dall'<rif xlink:href="urn:nir:stato:legge:1970-05-25;352#art8">articolo 8 della legge 25 maggio 1970, n. 352</rif>, e successive modificazioni ed integrazioni. </corpo>
+                    </comma>
+                    <comma id="art5-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> All'atto del deposito, i promotori indicano anche i nomi, il domicilio e gli eventuali ulteriori recapiti postali, telefonici, telematici e di telefax di tre persone, che possono essere anche i promotori stessi, alle quali viene attribuita la funzione di rappresentare i sottoscrittori della richiesta di referendum. Di tale indicazione è dato conto nel verbale di cui all'<rif xlink:href="#art8-com1">articolo 8, comma 1</rif>. </corpo>
+                    </comma>
+                    <comma id="art5-com4">
+                        <num>
+ 
+4.</num>
+                        <alinea> I delegati di cui al <rif xlink:href="#art5-com3">comma 3</rif>: 
+ 
+</alinea>
+                        <el id="art5-com4-leta">
+                            <num>a)</num>
+                            <corpo> ricevono tutte le comunicazioni riguardanti il procedimento;</corpo>
+                        </el>
+                        <el id="art5-com4-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> intervengono nelle fasi del procedimento medesimo;</corpo>
+                        </el>
+                        <el id="art5-com4-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> esercitano le azioni ed ogni altra iniziativa a tutela del referendum. 
+ 
+</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+                <articolo id="art6">
+                    <num>Art. 6 </num>
+                    <rubrica>
+ 
+(Determinazione del cinquantesimo degli elettori) 
+ </rubrica>
+                    <comma id="art6-com1">
+                        <num>
+1.</num>
+                        <corpo> Al fine di determinare l'ammontare del cinquantesimo degli elettori, necessario per l'iniziativa referendaria di cui al presente capo, si tiene conto del numero degli elettori, quale accertato nell'ultima revisione delle liste elettorali per l'elezione del Consiglio regionale in carica. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art7">
+                    <num>Art. 7 </num>
+                    <rubrica>
+ 
+(Raccolta e autenticazione delle firme) 
+ </rubrica>
+                    <comma id="art7-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Per la raccolta delle firme necessarie alla presentazione di richiesta di referendum devono essere usati appositi modelli forniti e vidimati dal Consiglio regionale. Ciascun foglio deve contenere all'inizio di ogni facciata, a stampa o con stampigliatura, la dichiarazione della richiesta del referendum, con le indicazioni prescritte dall'<rif xlink:href="#art4-com1">articolo 4, comma 1</rif>. </corpo>
+                    </comma>
+                    <comma id="art7-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> L'elettore appone sui fogli vidimati di cui al <rif xlink:href="#art7-com1">comma 1</rif> la propria firma. Accanto alla firma devono essere indicati per esteso nome e cognome, luogo e data di nascita ed il comune del Molise nelle cui liste elettorali l'elettore è iscritto. </corpo>
+                    </comma>
+                    <comma id="art7-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Le firme prive delle indicazioni di cui al <rif xlink:href="#art7-com2">comma 2</rif> sono considerate nulle. Sono altresì considerate nulle le firme raccolte su fogli non vidimati. </corpo>
+                    </comma>
+                    <comma id="art7-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Le firme di cui al <rif
+                                xlink:href="#art7-com2">comma 2</rif> devono essere autenticate a pena di nullità. Sono competenti per l'autenticazione i soggetti previsti al <rif xlink:href="urn:nir:stato:legge:1970-05-25;352#art8-com3">terzo comma dell'articolo 8 della legge 25 maggio 1970, n. 352</rif>, e successive modificazioni ed integrazioni. </corpo>
+                    </comma>
+                    <comma id="art7-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> L'autenticazione reca l'indicazione della data in cui è effettuata e può essere unica per tutte le firme contenute in ciascun foglio. In tal caso essa deve indicare il numero di firme complessivamente autenticate. </corpo>
+                    </comma>
+                    <comma id="art7-com6">
+                        <num>
+ 
+6.</num>
+                        <corpo> Il pubblico ufficiale che procede all'autenticazione delle firme dà atto della manifestazione di volontà dell'elettore analfabeta o comunque impedito ad apporre la propria firma. </corpo>
+                    </comma>
+                    <comma id="art7-com7">
+                        <num>
+ 
+7.</num>
+                        <corpo> L'iscrizione nelle liste elettorali di un comune del Molise è comprovata dai relativi certificati, anche collettivi, dei sottoscrittori. </corpo>
+                    </comma>
+                    <comma id="art7-com8">
+                        <num>
+ 
+8.</num>
+                        <corpo> Le spese per l'autenticazione delle firme sono a carico della Regione. </corpo>
+                    </comma>
+                    <comma id="art7-com9">
+                        <num>
+ 
+9.</num>
+
+                        <corpo> Per ottenere il rimborso delle spese di cui al <rif xlink:href="#art7-com8">comma 8</rif>, i promotori devono farne domanda scritta, indicando il nome del delegato a riscuotere le somme complessive con effetto liberatorio. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art8">
+                    <num>Art. 8 </num>
+                    <rubrica>
+ 
+(Verbale di deposito) 
+ </rubrica>
+                    <comma id="art8-com1">
+                        <num>
+1.</num>
+                        <corpo> Il Segretario generale del Consiglio regionale, quale responsabile del procedimento, o il dirigente designato a supplirlo in caso di assenza o impedimento, redige il verbale di deposito attestante il giorno e l'ora del deposito della richiesta referendaria. </corpo>
+                    </comma>
+                    <comma id="art8-com2">
+                        <num>
+ 
+2.</num>
+
+                        <alinea> I delegati, ai momento del deposito di cui al <rif xlink:href="#art8-com1">comma 1</rif>, devono attestare con un'apposita dichiarazione sottoscritta davanti al responsabile del procedimento: 
+ 
+</alinea>
+                        <el id="art8-com2-leta">
+                            <num>a)</num>
+                            <corpo> il numero delle firme depositate e regolarmente autenticate;</corpo>
+                        </el>
+                        <el id="art8-com2-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> il numero delle certificazioni allegate. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art8-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Il verbale è sottoscritto dai presentatori e dal responsabile del procedimento, che ne rilascia copia a prova dell'avvenuto deposito. </corpo>
+                    </comma>
+                    <comma id="art8-com4">
+                        <num>
+ 
+4.</num>
+
+                        <corpo> Il responsabile del procedimento, entro tre giorni feriali dal deposito, invia il verbale di cui al <rif xlink:href="#art8-com1">comma 1</rif> all'Ufficio di presidenza del Consiglio regionale ed al Presidente della Giunta regionale, che ne cura la pubblicazione nel Bollettino ufficiale della Regione. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art9">
+                    <num>Art. 9 </num>
+                    <rubrica>
+ 
+(Verifica della richiesta di referendum) 
+ </rubrica>
+                    <comma id="art9-com1">
+                        <num>
+1.</num>
+                        <corpo> Presso il Consiglio regionale, entro cinque giorni dal deposito, è costituita con deliberazione dell'Ufficio di presidenza la Commissione per la verifica della richiesta di referendum, composta dal Segretario generale dello stesso Consiglio regionale e da quattro dirigenti o funzionari regionali di formazione giuridica. Il Segretario generale del Consiglio regionale presiede la Commissione. La Commissione elegge nel suo seno due vice presidenti. </corpo>
+                    </comma>
+                    <comma id="art9-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> La Commissione verifica che la richiesta di referendum sia conforme alle norme dell'<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art123">articolo 123 della Costituzione</rif>, della presente legge e delle leggi cui la presente fa rinvio. </corpo>
+                    </comma>
+                    <comma id="art9-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> La Commissione decide, con apposita deliberazione, sulla legittimità della richiesta entro 40 giorni dalla sua presentazione. Essa contesta, entro lo stesso termine, ai delegati le eventuali irregolarità. Se, in base alle deduzioni dei delegati, da depositarsi entro 5 giorni, la Commissione ritiene legittima la richiesta, la ammette. Entro lo stesso termine di 5 giorni, i delegati possono dichiarare alla Commissione che intendono sanare le irregolarità contestate, ma debbono provvedervi entro il termine massimo di venti giorni dalla data della deliberazione. Entro le sucessive 48 ore la Commissione si pronuncia definitivamente sulla legittimità della richiesta. </corpo>
+                    </comma>
+                    <comma id="art9-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Per la validità delle operazioni della Commissione per la verifica della legittimità della richiesta di referendum è sufficiente la presenza del presidente o di un vice presidente e di due componenti. </corpo>
+                    </comma>
+                    <comma id="art9-com5">
+                        <num>
+ 
+5.</num>
+
+                        <corpo> La deliberazione della Commissione per la verifica della richiesta di referendum è immediatamente comunicata al Presidente del Consiglio regionale, al Presidente della Giunta regionale, che ne cura la pubblicazione nel Bollettino ufficiale della Regione, al Prefetto preposto all'Ufficio territoriale del Governo di Campobasso ed al Presidente della Corte d'Appello di Campobasso. Essa deve essere notificata a mezzo ufficiale giudiziario, entro cinque giorni, ai delegati di cui all'<rif xlink:href="#art5-com3">articolo 5, comma 3</rif>. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art10">
+                    <num>Art. 10 </num>
+                    <rubrica>
+ 
+(Esito negativo della verifica - Promulgazione della legge di revisione statutaria) 
+ </rubrica>
+                    <comma id="art10-com1">
+                        <num>
+1.</num>
+                        <corpo> Se la Commissione per la verifica della richiesta di referendum dichiara l'illegittimità della richiesta, il Presidente della Regione, sempre che sia trascorso il termine di tre mesi dalla pubblicazione del testo della legge nel Bollettino ufficiale della Regione ed il Governo non abbia promosso la questione di legittimità costituzionale, promulga la legge con la seguente formula: "Il Consiglio regionale ha approvato; la richiesta di referendum presentata in data ... è stata dichiarata illegittima dalla Commissione per la verifica della richiesta di referendum con atto pubblicato nel Bollettino ufficiale della Regione n.... del ...; sono decorsi tre mesi dalla pubblicazione del testo della legge nel Bollettino ufficiale della Regione; il Presidente della Giunta regionale promulga la seguente legge: (testo della legge. La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise". 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art11">
+                    <num>Art. 11 </num>
+                    <rubrica>
+ 
+(Esito positivo della verifica - Indizione del referendum) 
+ </rubrica>
+                    <comma id="art11-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Se la Commissione per la verifica della richiesta di referendum dichiara la legittimità della richiesta, il Presidente della Giunta regionale, entro trenta giorni dalla comunicazione di cui all'<rif xlink:href="#art9-com5">articolo 9, comma 5</rif>, provvede ad indire il referendum con decreto da pubblicarsi nel Bollettino ufficiale della Regione. </corpo>
+                    </comma>
+                    <comma id="art11-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> La data del referendum è fissata in una domenica compresa tra il cinquantesimo ed il settantesimo giorno successivo all'emanazione del decreto di indizione. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </capo>
+            <capo id="cap3">
+                <num>CAPO III </num>
+                <rubrica>
+ 
+RICHIESTA DI REFERENDUM PRESENTATA DA UN QUINTO DEI CONSIGLIERI REGIONALI 
+ 
+</rubrica>
+                <articolo id="art12">
+                    <num>Art. 12 </num>
+                    <rubrica>
+ 
+(Iniziativa referendaria da parte dei consiglieri regionali) 
+ </rubrica>
+                    <comma id="art12-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Qualora la richiesta di referendum formulata secondo le modalità di cui all'<rif xlink:href="#art4">articolo 4</rif> sia presentata da almeno un quinto dei componenti il Consiglio regionale, le sottoscrizioni dei richiedenti sono autenticate dal Presidente del Consiglio, il quale contestualmente attesta che i richiedenti sono consiglieri in carica. Non è richiesta alcuna altra documentazione. </corpo>
+                    </comma>
+                    <comma id="art12-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Alla richiesta, presentata secondo le modalità di cui al <rif xlink:href="#art12-com1">comma 1</rif>, deve accompagnarsi la designazione di tre incaricati come delegati, scelti tra i richiedenti, a cura dei quali la richiesta è depositata presso l'Ufficio di presidenza del Consiglio regionale. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art13">
+                    <num>Art. 13 </num>
+                    <rubrica>
+ 
+(Verbale di deposito) 
+ </rubrica>
+                    <comma id="art13-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Il Segretario generale del Consiglio regionale, quale responsabile del procedimento, o il dirigente designato a supplirlo in caso di assenza o impedimento, redige apposito verbale attestante il giorno e l'ora del deposito della richiesta referendaria. Il verbale è sottoscritto dai presentatori e dal responsabile del procedimento, che ne rilascia copia a prova dell'avvenuto deposito. I tre delegati eleggono domicilio presso i rispettivi gruppi consiliari in Consiglio regionale e sono investiti delle funzioni e dei poteri di cui all'<rif xlink:href="#art5">articolo 5</rif>, commi 3 e 4. Della designazione dei delegati, è dato conto nel verbale. </corpo>
+                    </comma>
+                    <comma id="art13-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Il responsabile del procedimento, entro tre giorni feriali dal deposito, invia il verbale di cui al <rif xlink:href="#art13-com1">comma 1</rif> all'Ufficio di presidenza del Consiglio regionale ed al Presidente della Giunta regionale, il quale provvede alla pubblicazione nel Bollettino ufficiale della Regione. </corpo>
+                    </comma>
+                    <comma id="art13-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Il Presidente della Giunta regionale, entro trenta giorni dalla pubblicazione di cui al <rif
+                                xlink:href="#art13-com2">comma 2</rif>, provvede ad indire il referendum ai sensi dell'<rif xlink:href="#art11">articolo 11</rif>. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </capo>
+            <capo id="cap4">
+                <num>CAPO IV </num>
+                <rubrica>
+ 
+SVOLGIMENTO DEL REFERENDUM 
+ 
+</rubrica>
+                <articolo id="art14">
+                    <num>Art. 14 </num>
+                    <rubrica>
+ 
+(Svolgimento del referendum ed operazioni di scrutinio) 
+ </rubrica>
+                    <comma id="art14-com1">
+                        <num>
+1.</num>
+                        <corpo> Hanno diritto di partecipare al referendum tutti i cittadini iscritti nelle liste elettorali dei comuni della regione. La votazione si svolge in una sola giornata. </corpo>
+                    </comma>
+                    <comma id="art14-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> La votazione per il referendum si svolge a suffragio universale con voto diretto, libero e segreto. </corpo>
+                    </comma>
+                    <comma id="art14-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> L'elettorato attivo, la tenuta e la revisione periodica delle liste elettorali, la ripartizione dei comuni in sezioni elettorali e la scelta dei luoghi di riunione sono disciplinati dalle disposizioni del testo unico 20 marzo 1967, n. 223, e successive modificazioni ed integrazioni. </corpo>
+                    </comma>
+                    <comma id="art14-com4">
+                        <num>
+ 
+4.</num>
+
+                        <corpo> Per la costituzione dei seggi, per lo svolgimento delle operazioni, nonché per quanto altro non previsto nella presente legge, si applicano le norme di cui alla <rif xlink:href="urn:nir:stato:legge:1968-02-17;108">legge 17 febbraio 1968, n. 108</rif>, sulle elezioni dei consigli regionali, con l'attribuzione alla Giunta regionale delle competenze e delle funzioni dalla legge stessa assegnate al Ministero dell'interno. </corpo>
+                    </comma>
+                    <comma id="art14-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> In ciascuna sezione è costituito un ufficio elettorale composto di un presidente, di tre scrutatori, di cui uno, a scelta del presidente, assume funzioni di vice-presidente, e di un segretario. </corpo>
+                    </comma>
+                    <comma id="art14-com6">
+                        <num>
+ 
+6.</num>
+                        <corpo> Alle operazioni di voto e di scrutinio presso i seggi, nonché alle operazioni degli uffici provinciali e dell'ufficio centrale per il referendum possono assistere, ove lo richiedano, un rappresentante effettivo ed un rappresentante supplente di ognuno dei partiti politici rappresentati in Consiglio regionale e dei promotori del referendum. </corpo>
+                    </comma>
+                    <comma id="art14-com7">
+                        <num>
+ 
+7.</num>
+                        <corpo> Alle designazioni dei rappresentanti provvede persona munita di mandato autenticato da notaio da parte del presidente o segretario provinciale del partito o gruppo politico, oppure da parte dei promotori del referendum. </corpo>
+                    </comma>
+                    <comma id="art14-com8">
+                        <num>
+ 
+8.</num>
+
+                        <corpo> L'ufficio provinciale per il referendum, costituito in conformità all'<rif xlink:href="urn:nir:stato:legge:1970-05-25;352#art21">articolo 21 della legge 25 maggio 1970, n. 352</rif>, sulla base dei verbali di scrutinio trasmessi dagli uffici di sezione per il referendum di tutti i comuni della provincia, dà atto del numero degli elettori che hanno votato e dei risultati del referendum, dopo aver provveduto al riesame dei voti contestati e provvisoriamente non assegnati. </corpo>
+                    </comma>
+                    <comma id="art14-com9">
+                        <num>
+ 
+9.</num>
+                        <corpo> Di tutte le operazioni è redatto verbale in tre esemplari, dei quali uno resta depositato presso la cancelleria del tribunale, unitamente ai verbali di votazione e di scrutinio degli uffici di sezione per il referendum e ai documenti annessi, uno viene inviato all'ufficio centrale per il referendum a mezzo di corriere speciale e uno viene trasmesso al Presidente della Giunta regionale. </corpo>
+                    </comma>
+                    <comma id="art14-com10">
+                        <num>
+ 
+10.</num>
+                        <corpo> I delegati o i promotori della richiesta di referendum hanno la facoltà di prendere cognizione e di fare copia dell'esemplare del verbale depositato presso la cancelleria del tribunale. </corpo>
+                    </comma>
+                    <comma id="art14-com11">
+                        <num>
+ 
+11.</num>
+
+                        <corpo> Presso la Corte d'Appello di Campobasso è costituito, entro trenta giorni dalla data del decreto che indice il referendum, l'ufficio centrale regionale per il referendum composto nei modi previsti dall'<rif xlink:href="urn:nir:stato:legge:1968-02-17;108#art8">articolo 8 della legge 17 febbraio 1968, n. 108</rif>, commi terzo e quarto. </corpo>
+                    </comma>
+                    <comma id="art14-com12">
+                        <num>
+ 
+12.</num>
+                        <corpo> Le schede per il referendum, di carta consistente, di tipo unico e di identico colore, sono fornite dalla presidenza della Giunta regionale e devono possedere le caratteristiche determinate, con proprio decreto, dal Presidente della Giunta regionale, su conforme delibera della Giunta stessa. </corpo>
+                    </comma>
+                    <comma id="art14-com13">
+                        <num>
+ 
+13.</num>
+
+                        <corpo> Le schede contengono il quesito formulato nella richiesta di referendum secondo le modalità di cui all'<rif xlink:href="#art4">articolo 4</rif>, letteralmente riprodotto a caratteri chiaramente leggibili, cui seguono, bene in evidenza, le due risposte proposte alla scelta dell'elettore: "SI" - "NO". </corpo>
+                    </comma>
+                    <comma id="art14-com14">
+                        <num>
+ 
+14.</num>
+                        <corpo> L'elettore vota tracciando sulla scheda un segno sulla risposta da lui prescelta o, comunque, nel rettangolo che la contiene. </corpo>
+                    </comma>
+                    <comma id="art14-com15">
+                        <num>
+ 
+15.</num>
+                        <corpo> Le operazioni di voto hanno inizio alle ore sette della domenica fissata con decreto di indizione del referendum e terminano alle ore ventidue del giorno medesimo. </corpo>
+                    </comma>
+                    <comma id="art14-com16">
+                        <num>
+ 
+16.</num>
+                        <corpo> Le operazioni di scrutinio si svolgono secondo gli orari, il calendario e le modalità indicate nel decreto di indizione del referendum. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art15">
+                    <num>Art. 15 </num>
+                    <rubrica>
+ 
+(Proclamazione dei risultati) 
+ </rubrica>
+                    <comma id="art15-com1">
+                        <num>
+1.</num>
+
+                        <corpo> L'Ufficio centrale regionale per il referendum, appena pervenuti i verbali di tutti gli uffici provinciali, procede, in pubblica adunanza, all'accertamento della somma dei voti validi favorevoli e dei voti validi contrari alla legge di approvazione o di modificazione dello <rif
+                                xlink:href="urn:nir:regione.molise:statuto:">Statuto regionale</rif> su cui si vota ed alla conseguente proclamazione dei risultati del referendum nei modi di cui all'<rif xlink:href="urn:nir:stato:legge:1970-05-25;352#art24">articolo 24 della legge 25 maggio 1970, n. 352</rif>. </corpo>
+                    </comma>
+                    <comma id="art15-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Il segretario dell'ufficio centrale regionale redige il verbale delle operazioni in quattro esemplari, uno dei quali è depositato presso la cancelleria della Corte di Appello, unitamente ai verbali trasmessi dagli uffici provinciali per il referendum. I rimanenti esemplari sono trasmessi rispettivamente al Presidente della Giunta regionale, al Presidente del Consiglio regionale ed al Prefetto preposto all'Ufficio territoriale del Governo di Campobasso. </corpo>
+                    </comma>
+                    <comma id="art15-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Se lo ritiene necessario ai fini delle operazioni e della proclamazione di cui al <rif xlink:href="#art15-com1">comma 1</rif>, l'Ufficio centrale regionale per il referendum richiede agli Uffici provinciali la trasmissione, per mezzo di corriere speciale, dei verbali e dei documenti depositati presso la cancelleria del tribunale. </corpo>
+                    </comma>
+                    <comma id="art15-com4">
+                        <num>
+ 
+4.</num>
+
+                        <corpo> Nel caso in cui le risposte "NO" costituiscano la maggioranza dei voti validamente espressi o siano in numero uguale ai voti contenenti la risposta "SI", la legge di revisione statutaria risulta non approvata dal referendum. Il Presidente della Giunta regionale, sulla base del verbale trasmessogli dall'Ufficio centrale regionale per il referendum, cura la pubblicazione del risultato nel Bollettino ufficiale della Regione e la legge di approvazione o di modificazione dello <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto regionale</rif> non approvata dal referendum decade. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art16">
+                    <num>Art. 16 </num>
+                    <rubrica>
+ 
+(Promulgazione della legge a seguito del referendum) 
+ </rubrica>
+                    <comma id="art16-com1">
+                        <num>
+1.</num>
+                        <corpo> Nel caso in cui le risposte "SI" costituiscano la maggioranza dei voti validamente espressi, il Presidente della Giunta regionale promulga la legge di revisione statutaria, entro cinque giorni dalla comunicazione del verbale, con la seguente formula: "Il Consiglio regionale ha approvato; il referendum svoltosi in data ... ha dato risultato favorevole; il Presidente della Giunta regionale promulga la seguente legge (testo della legge). La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise". 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </capo>
+            <capo id="cap5">
+                <num>CAPO V </num>
+                <rubrica>
+ 
+PROMOZIONE DELLA QUESTIONE DI LEGITTIMITÀ COSTITUZIONALE 
+ 
+</rubrica>
+                <articolo id="art17">
+                    <num>Art. 17 </num>
+                    <rubrica>
+ 
+(Promozione della questione di legittimità costituzionale - Sospensione dei termini) 
+ </rubrica>
+                    <comma id="art17-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Nel caso in cui il Governo promuova il giudizio di legittimità costituzionale della legge di revisione statutaria ai sensi dell'<rif
+                                xlink:href="urn:nir:stato:costituzione:1947-12-27#art123-com2">articolo 123, secondo comma, della Costituzione</rif>, il termine di tre mesi di cui all'<rif xlink:href="#art2-com3">articolo 2, comma 3</rif>, è sospeso sino alla data di pubblicazione nella Gazzetta ufficiale della sentenza della Corte Costituzionale. </corpo>
+                    </comma>
+                    <comma id="art17-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> È vietato compiere qualsiasi attività ed operazione referendaria, ivi compresa la presentazione di nuove richieste, sino alla data di pubblicazione nella Gazzetta ufficiale della sentenza della Corte Costituzionale. </corpo>
+                    </comma>
+                    <comma id="art17-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Nel caso in cui venga promosso il giudizio di legittimità costituzionale della legge di approvazione o di modificazione dello <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto regionale</rif> e sia stata precedentemente presentata richiesta di referendum, le attività e le operazioni eventualmente compiute prima della sospensione rimangono valide solo nel caso di rigetto del ricorso governativo da parte della Corte Costituzionale. </corpo>
+                    </comma>
+                    <comma id="art17-com4">
+                        <num>
+ 
+4.</num>
+
+                        <corpo> Il Presidente della Giunta regionale dà notizia dell'avvenuta presentazione del ricorso del Governo ai sensi dell'<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art123-com2">articolo 123, secondo comma, della Costituzione</rif> mediante pubblicazione di un avviso nel Bollettino ufficiale della Regione e comunicazione ai delegati dei promotori del referendum. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art18">
+                    <num>Art. 18 </num>
+                    <rubrica>
+ 
+(Sospensione delle operazioni referendarie) 
+ </rubrica>
+                    <comma id="art18-com1">
+                        <num>
+1.</num>
+                        <corpo> Tutte le operazioni e le attività relative allo svolgimento del referendum sono sospese in caso di scioglimento anticipato del Consiglio regionale, nel periodo intercorrente tra la pubblicazione del decreto di indizione dei comizi elettorali ed i sei mesi successivi all'elezione del nuovo Consiglio regionale. </corpo>
+                    </comma>
+                    <comma id="art18-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Il referendum già indetto per una domenica che cade nel periodo di cui al <rif xlink:href="#art18-com1">comma 1</rif> è differito con decreto del Presidente della Giunta regionale alla prima domenica utile. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </capo>
+            <capo id="cap6">
+                <num>CAPO VI </num>
+                <rubrica>
+ 
+DISPOSIZIONI FINANZIARIE E FINALI 
+ 
+</rubrica>
+                <articolo id="art19">
+                    <num>Art. 19 </num>
+                    <rubrica>
+ 
+(Copertura finanziaria) 
+ </rubrica>
+                    <comma id="art19-com1">
+                        <num>
+1.</num>
+                        <corpo> Per le finalità previste dalla presente legge l'entità della spesa è stabilita per l'anno di riferimento con la relativa manovra finanziaria. La spesa è dichiarata obbligatoria. </corpo>
+                    </comma>
+                    <comma id="art19-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Alla copertura delle spese di cui al <rif xlink:href="#art19-com1">comma 1</rif> si provvede con contestuale riduzione del fondo di riserva per le spese obbligatorie. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art20">
+                    <num>Art. 20 </num>
+                    <rubrica>
+ 
+(Entrata in vigore) 
+ </rubrica>
+                    <comma id="art20-com1">
+                        <num>
+1.</num>
+                        <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione. 
+</corpo>
+                    </comma>
+                </articolo>
+            </capo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

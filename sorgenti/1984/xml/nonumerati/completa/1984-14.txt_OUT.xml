@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <LeggeRegionale>
+    <meta>
+      <descrittori>
+<pubblicazione tipo="GU" num="" norm=""/>
+<entratainvigore norm=""/>
+<redazione nome="" id="red1" norm=""/>
+<urn valore=""/>
+</descrittori>
+    </meta>
+    <intestazione/>
+    <formulainiziale/>
+    <articolato>
+<articolo id="art1">
+<num>Art. 1.</num>
+<rubrica/>
+<comma id="art1-com1">
+<num>1.</num>
+<corpo/>
+</comma>
+<?error ===== IL TESTO DEL PROVVEDIMENTO NON E' ARTICOLATO =====
+
+
+ 
+07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+ 
+
+Bollettino 
+Bollettino Ufficiale n. 17 del 16/08/84 
+ 
+
+Oggetto 
+Bilancio 1984 della Regione - Variazioni 
+ 
+
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+
+Modifiche 
+ 
+ 
+
+Legge Regionale 31 Luglio 1984, n. 18 
+ 
+
+Variazioni al bilancio 1984 - Storno capitoli di previsione in seguito alle modificazioni apportate al piano di intervento delle OO.PP 
+ 
+
+(... omissis...) 
+ 
+
+La legge regionale n 18 del 31 luglio 1984 &#xE8; pubblicata nel   Bollettino Ufficiale n 17 del 16 agosto 1984. 
+
+
+?></articolo>
+</articolato>
+    <formulafinale/>
+    <conclusione/>
+  </LeggeRegionale>
+</NIR>

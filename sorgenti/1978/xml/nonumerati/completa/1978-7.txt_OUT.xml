@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <LeggeRegionale>
+    <meta>
+      <descrittori>
+<pubblicazione tipo="GU" num="" norm=""/>
+<entratainvigore norm=""/>
+<redazione nome="" id="red1" norm=""/>
+<urn valore=""/>
+</descrittori>
+    </meta>
+    <intestazione/>
+    <formulainiziale/>
+    <articolato>
+<articolo id="art1">
+<num>Art. 1.</num>
+<rubrica/>
+<comma id="art1-com1">
+<num>1.</num>
+<corpo/>
+</comma>
+<?error ===== IL TESTO DEL PROVVEDIMENTO NON E' ARTICOLATO =====
+
+
+ 
+07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+ 
+
+Bollettino 
+Bollettino Ufficiale n. 23 del 16/12/78 
+ 
+
+Oggetto 
+Bilancio 1978 della Regione - Variazioni 
+ 
+
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+
+Modifiche 
+ 
+ 
+
+Legge Regionale 7 Dicembre 1978, n. 29 
+ 
+
+Note di variazione di bilancio per l'esercizio finanziario 1978 per l'assistenza ospedaliera 
+ 
+
+omissis 
+ 
+
+La legge n. 29 del 7 dicembre 1978, &#xE8; pubblicata sul Bollettino  Ufficiale n. 23 del 18 dicembre 1978. 
+
+ 
+Tabelle &amp;lt;&amp;lt;A&amp;gt;&amp;gt; e &amp;lt;&amp;lt;B&amp;gt;&amp;gt;. 
+
+
+?></articolo>
+</articolato>
+    <formulafinale/>
+    <conclusione/>
+  </LeggeRegionale>
+</NIR>

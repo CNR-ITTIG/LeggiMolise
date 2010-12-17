@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-04-14;29"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="04.Assistenza sociale, volontariato"/>
+                </materie>
+            </descrittori>
+        </meta><?error 04.Assistenza sociale, volontariato 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x96; N. 29 del 31 dicembre 2004 
+ 
+Oggetto 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>L.R. </tipoDoc>
+            <dataDoc
+                    norm="20000414">14 aprile 2000</dataDoc>n. <numDoc>29</numDoc> - <titoloDoc>Modifiche ed integrazioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+<rif
+                    xlink:href="urn:nir:regione.molise:legge:2004-12-23;36">LEGGE REGIONALE 23 dicembre 2004, n. 36</rif>. 
+ 
+Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:2000-04-14;29">legge regionale 14 aprile 2000, n. 29</rif>, ad oggetto: "Tutela del diritto al gioco dei bambini e sviluppo delle ludoteche". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art1-com1-mod1">
+1. Al <rif
+                                xlink:href="urn:nir:regione.molise:legge:2000-04-14;29#art5-com2">comma 2 dell'art. 5 della legge regionale 14 aprile 2000, n. 29</rif>, ad oggetto: "<virgolette
+                                id="art1-com1-mod1-vir1"
+                                tipo="parola">Tutela del diritto al gioco dei bambini e sviluppo delle ludoteche</virgolette>", l'ultimo periodo è così sostituito: "<virgolette
+                                id="art1-com1-mod1-vir2" tipo="parola">Devono, altresì, rispettare tutte le norme vigenti in materia di sicurezza</virgolette>". </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art2-com1-mod2">
+1. Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:2000-04-14;29#art8-com1">comma 1 dell'art. 8 della legge regionale 14 aprile 2000, n. 29</rif>, ad oggetto: "<virgolette
+                                id="art2-com1-mod2-vir3"
+                                tipo="parola">Tutela del diritto al gioco dei bambini e sviluppo delle ludoteche</virgolette>" è così modificato: 
+ 
+&lt;&lt;<virgolette
+                                id="art2-com1-mod2-vir4" tipo="struttura">
+                                <comma id="art2-com1-mod2-vir4-com0">
+                                    <num>1.</num>
+                                    <corpo> La Regione concede contributi finanziari per la costruzione e la ristrutturazione dei locali da destinare a ludoteche nonché per la gestione dei servizi rispettivamente nella misura da stabilire con successivo regolamento, ai soggetti interessati di cui all'art. 1 con priorità per i Comuni montani</corpo>
+                                </comma>
+                            </virgolette>&gt;&gt;. 
+ 
+2. Al <rif xlink:href="urn:nir:regione.molise:legge:2000-04-14;29#art8-com2">comma 2 dell'art. 8 della legge regionale 14 aprile 2000, n. 29</rif>, in fine, è aggiunto il seguente periodo: "I soggetti beneficiari dei contributi sono obbligati a fornire regolare e formale rendicontazione delle spese sostenute".</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+1. La presente legge regionale entra in vigore il giorno della sua pubblicazione sul Bollettino Ufficiale della Regione Molise. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

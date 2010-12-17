@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2002-11-08;36"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="14.Governo del territorio, urbanistica, edilizia"/>
+                </materie>
+            </descrittori>
+        </meta><?error 14.Governo del territorio, urbanistica, edilizia 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 24 del 16 novembre 2002 
+ 
+Oggetto 
+Edilizia - Calcolo dei parametri urbanistico-edilizi - Modalit&#xE0;. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20021108">8 novembre 2002</dataDoc>, n. <numDoc>36</numDoc>. 
+ 
+<titoloDoc>Modalità di calcolo di parametri urbanistico-edilizi finalizzati a migliorare la qualità funzionale degli edifici ed a contenere il consumo energetico. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Articolo 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+Finalità 
+ 
+La presente legge detta nuove modalità di calcolo delle volumetrie edilizie, dei rapporti di copertura, delle altezze e delle distanze, limitatamente ai casi di aumento degli spessori dei tamponamenti perimetrali e delle strutture portanti verticali e orizzontali, finalizzati ad agevolare l'attuazione delle norme sul risparmio energetico e a migliorare la qualità funzionale degli edifici. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+                    <alinea>Essa si applica: 
+ 
+</alinea>
+                    <el id="art1-com2-leta">
+                        <num>a)</num>
+                        <corpo> alle nuove costruzioni;</corpo>
+                    </el>
+                    <el id="art1-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> agli interventi edilizi di qualsiasi tipo sulle costruzioni esistenti, comprese le manutenzioni straordinarie ed escluse quelle ordinarie. </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Articolo 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+Modalità di calcolo 
+ 
+Le modalità di calcolo degli spessori, dei rapporti di copertura, delle altezze massime e delle distanze si applicano,per le nuove costruzioni di qualsiasi genere soggette alle norme sul risparmio energetico e, indistintamente per tutti gli edifici, secondo le modalità di cui ai commi seguenti. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+
+                    <corpo>Gli spessori degli elementi edilizi strutturali e sovra strutturali eccedenti cm 30 non vengono computati nella determinazione dei volumi e nei rapporti di copertura: 
+ 
+&gt; fino ad un massimo di ulteriori cm. 25 nel caso di tamponamenti perimetrali, murature portanti esterne e coperture a falda o a terrazzo; 
+ 
+&gt; fino ad un massimo di ulteriori cm. 15 nel caso di solai piani intermedi. 
+ 
+3. I criteri di computo di cui al <rif xlink:href="#art2-com2">comma 2</rif> valgono anche per le altezze massime, per le distanze dai confini, fra gli edifici e dalle strade, fermo restando le prescrizioni minime dettate dalla legislazione statale. 
+ 
+4. Negli interventi edilizi sulle costruzioni esistenti le disposizioni di cui ai commi precedenti si applicano, con gli stessi scopi e limiti quantitativi, in relazione ai soli spessori da aggiungere a quelli esistenti, compatibilmente con la salvaguardia di facciate, falde, murature, elementi costruttivi e decorativi di pregio storico ed artistico. Per gli edifici esistenti in muratura, gli interventi tesi al miglioramento dei livelli di coibendazione termica e/o acustica, sono subordinati al parere preventivo di fattibilità da parte delle Amministrazioni Comunali competenti, cui spetta l'obbligo di verificare che gli interventi preposti non alterino i caratteri decorativi, architettonici, storici, culturali delle costruzioni. 
+ 
+5. I proprietari e gli altri soggetti aventi facoltà, nelle altre forme di legge consentite, di eseguire lavori interni ed esterni sugli edifici costruiti o modificati avvalendosi delle disposizioni della presente legge, non possono richiedere, nè effettuare successive riduzioni degli spessori complessivi indicati nei commi precedenti, salvo l'applicazione integrale delle norme sul computo dei volumi e dei rapporti di copertura e nel rispetto dei limiti massimi dettati da tali norme.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Articolo 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+Documentazione 
+ 
+Alle istanze per il rilascio dei provvedimenti autorizzativi e dei permessi di costruire di coloro che intendono avvalersi della presente legge deve essere allegata apposita relazione tecnica, corredata di calcoli e completa di grafici dimostrativi, consistenti in sezioni complessive dell'edificio e particolari costruttivi, in scala adeguata, che costituiscono parte integrante del progetto. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+
+                    <corpo>Per gli interventi edilizi sulle costruzioni esistenti in muratura, alle istanze per il rilascio del parere preventivo, di cui al comma 4 - art. 2, coloro che intendono avvalersi della presente legge devono allegare la documentazione fotografica o grafica minima ai fini della valutazione della fattibilità degli interventi. Acquisito il parere preventivo favorevole, il richiedente dovrà avviare la procedura di cui al <rif xlink:href="#art3-com1">comma 1</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Articolo 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo>
+Disposizione conclusiva 
+ 
+La presente legge è pubblicata sul Bollettino Ufficiale della Regione Molise. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num/>
+                    <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

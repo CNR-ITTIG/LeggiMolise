@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19760131" num="2" tipo="BURM"/>
+                <entratainvigore norm="19760215"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1976-01-23;5"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xE0;"/>
+                </materie>
+            </descrittori>
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+ 
+Bollettino 
+Bollettino Ufficiale n. 02 del 31/01/76 
+ 
+Oggetto 
+Asili-nido - Costruzione e riattamento - Destinatari - Contributi - Procedure 
+ 
+Abrogazioni 
+Abrogato art. 2 dalla legge n. 37/1976 art. 3 
+Abrogato art. 3 dalla legge n. 37/1976 art. 3 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19760123">23 Gennaio 1976</dataDoc>, n. <numDoc>5</numDoc>
+            <titoloDoc>Programma d'intervento per gli Asili nido 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+È approvato il piano quinquennale 1972-1976 per la costruzione o il riattamento di dodici asili nido e dieci micro-nidi, di cui alla relazione illustrativa della prese  legge. 
+ 
+A tal fine la Giunta Regionale è autorizzata a concedere ai Comuni o ai Consorzi di Comuni contributi &lt;&lt; una tantum &gt;&gt; in conto capitale e contributi integrativi annui per le relative spese di gestione, funzionamento e manutenzione. 
+ 
+La localizzazione dei primi dodici asili-nido è stabilita come segue: 
+ 
+- tre a Campobasso; 
+ 
+- uno a Boiano; 
+ 
+- due a Termoli; 
+ 
+- uno a Montenero di Bisaccia; 
+ 
+- uno a Larino; 
+ 
+- due a Isernia; 
+ 
+- uno a Venafro; 
+ 
+- uno a Agnone. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+I contributi di cui al precedente articolo sono concessi in misura corrispondente al 40% della spesa di costruzione o riattamento ritenuta ammissibile. Per la spesa di gestione i contributi sono   concessi nella misura del 60% per un importo minimo di venti e massimo di trenta milioni di lire annue. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+
+                <rubrica>
+ 
+Per la costruzione o il riattamento degli asili-nido, la Giunta Regionale può concedere, altresì, ai Comuni o ai Consorzi di Comuni di cui all'<rif xlink:href="#art1">articolo 1</rif> contributi costanti trentacinquennali in conto interessi nella misura fissa del 9%. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+Per l'impianto di micro-nidi la Giunta Regionale può concedere contributi &lt;&lt;una tantum&gt;&gt; in misura non superiore a venti milioni di lire e contributi integrativi sulle spese di gestione in misura   non superiore a dieci milioni di lire annue. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+
+                <rubrica>
+ 
+Il regolamento per la gestione e il funzionamento degli asili-nido e dei micro-nidi, di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1973-08-22;18#art10">art. 10 della legge regionale 22 agosto 1973, n.18</rif> è approvato dalla Giunta  Regionale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+
+                <rubrica>
+ 
+La formazione del personale addetto all'assistenza può essere assicurata anche mediante concessione di borse di studio da assegnarsi ad allievi delle scuole specializzate secondo i criteri fissati dal Consiglio Regionale a norma dell'<rif xlink:href="urn:nir:stato:legge:1973-08-22;18#art3">art. 3 lettera c) della legge 22 agosto 1973, n. 18</rif>. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+Le richieste di contributo per la istituzione di micro-nidi, da presentare alla Regione entro il 30 aprile di ogni anno, devono essere accompagnate da: 
+ 
+a) planimetria dei locali e dei servizi; 
+ 
+b) relazione illustrativa sulla consistenza dei servizi analoghi funzionanti nell'ambito territoriale dell'Ente richiedente; 
+ 
+c) preventivo sommario di spesa con la specificazione dei mezzi di copertura la spesa eventualmente eccedente il contributo richiesto. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+
+                <rubrica>
+ 
+Le richieste di contributo per la gestione dei micro-nidi, da presentare alla Regione entro il 30 aprile di ogni anno, dovranno essere accompagnate da: 
+ 
+a) copia del conto consuntivo dell'esercizio precedente e del bilancio preventivo dell'esercizio in corso; 
+ 
+b) documentazione circa la ricettività dei micro-nidi; 
+ 
+c) copia del regolamento di cui al <rif xlink:href="urn:nir:regione.molise:legge:1973-08-22;18#art10-com1">primo comma dell'art. 10 della legge regionale 22 agosto 1973, n. 18</rif>. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <rubrica>
+ 
+Il contributo sulla spesa di gestione deve essere preferibilmente erogato in favore degli asili-nido e micro-nidi per i quali sia stato erogato il contributo sulle spese di impianto. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+
+                <rubrica>
+ 
+All'onere finanziario derivante dalla presente legge, previsto per l'esercizio finanziario 1975 in L. 876.836.941, si provvede con i fondi assegnati alla Regione per gli anni 1972, 1973, 1974 e 1975   ai sensi della <rif
+                        xlink:href="urn:nir:stato:legge:1971-12-06;1044">legge statale 6 dicembre 1971, n. 1044</rif> ed accreditati nel corso dell'esercizio 1975, per cui al bilancio di previsione 1975 vanno introdotte le seguenti variazioni: 
+ 
+a) stato di previsione dell'entrata: titolo III - cat. I - Cap. 80: &lt;&lt;Assegnazione fondi speciali per  la concessione ai Comuni e Consorzi di Comuni del contributo nelle spese di costruzione e gestione degli aili-nido (<rif
+                        xlink:href="urn:nir:stato:legge:1971-12-06;1044">legge 6 dicembre 1971, n. 1044</rif>): da L. 178.000.000 a L. 876.836.941 - in più L.698.836.941; 
+ 
+b) stato di previsione dell'uscita: titolo II - Sez. 4 - rubrica I - Cap. 1300: &lt;&lt;Contributi una  tantum a favore di Comuni e dei Consorzi di Comuni per la costruzione, l'impianto e l'arredamento degli asili nido (<rif
+                        xlink:href="urn:nir:stato:legge:1971-12-06;1044">legge 6 dicembre 1971, n. 1044</rif>, <rif xlink:href="#art9">articolo 9</rif>)&gt;&gt;: da L. 178.000.000 a L. 876.836.941 in più  L. 698.836.941; 
+ 
+c) le spese relative ai contributi derivanti dall'applicazione della presente legge saranno poste a carico del Cap. 1300 del bilancio 1975 integrato con la variazione di cui al comma precedente. 
+ 
+Per gli anni successivi i fondi necessari, nei limiti delle disponibilità di bilancio faranno carico a corrispondenti capitoli dei bilanci di competenza. 
+ 
+Le somme non impegnate nel corso dell'esercizio 1975 potranno essere utilizzate nell'esercizio 1976. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art10-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+
+                <rubrica>
+ 
+La presente legge è dichiarata urgente ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art11-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

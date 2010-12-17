@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19990616" num="11" tipo="BURM"/>
+                <entratainvigore norm="19990701"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1999-06-11;19"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="11.Enti locali, comunit&amp;#xE0; montane"/>
+                </materie>
+            </descrittori>
+        </meta><?error 11.Enti locali, comunit&#xE0; montane 
+ 
+Bollettino 
+Bollettino Ufficiale n. 11 del 16/06/99 
+ 
+Oggetto 
+Modifica alla L.R. 8/1973 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 12/2002 art. 45 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="19990611">11 giugno 1999</dataDoc>, n.<numDoc>19</numDoc>
+            <titoloDoc>Modifica alla <rif
+                    xlink:href="urn:nir:regione.molise:legge:1973-05-22">Legge regionale 22 maggio 1973</rif>- n. 8 recante: "Delimitazione delle zone omogenee in applicazione dell'<rif xlink:href="urn:nir:stato:legge:1971-12-03#art3">articolo 3 - della Legge 3 dicembre 1971</rif> - n. 1102" - Inclusione del Comune di Montelongo nella 7a Zona Omogenea. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 12/2002 art. 45</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente Legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come Legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

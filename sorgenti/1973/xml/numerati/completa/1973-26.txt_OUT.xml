@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19730528" num="14" tipo="BURM"/>
+                <entratainvigore norm="19730612"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1973-05-22;7"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="22.Organizzazione delle funzioni amministrative a livello regionale e locale"/>
+                </materie>
+            </descrittori>
+        </meta><?error 22.Organizzazione delle funzioni amministrative a livello regionale e locale 
+ 
+Bollettino 
+Bollettino Ufficiale n. 14 del 28/05/73 
+ 
+Oggetto 
+Funzioni trasferite o delegate alla Regione - Tipologia - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 4 dalla legge n. 34/1999 art. 63 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19730522">22 Maggio 1973</dataDoc>, n. <numDoc>7</numDoc>
+            <titoloDoc>Norme provvisorie per l'esercizio delle funzioni amministrative trasferite o delegate alla Regione Molise con i decreti del Presidente della Repubblica 14 gennaio 1972, nn. 1-2-3-4-5 e 6 e 15 gennaio 1972, nn. 7-8-9-10 e 11. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+L'esercizio delle funzioni trasferite o delegate alla Regione Molise con i decreti del Presidente della Repubblica nn. 1-2-3-4-5 e 6 del 14 gennaio 1972 e nn. 7-8-9-10 e 11 del 15 gennaio 1972 e di quelle comunque ad essa spettanti ai sensi degli artt. 117 e 118 della Costituzione è provvisoriamente disciplinato dalla presente legge. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art.2 </num>
+
+                <rubrica>
+ 
+In relazione alle funzioni di cui al precedente articolo ed alle attribuzioni previste dagli artt. 6-34-49 e 55 dello <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto</rif>, spetta, tra l'altro, al Consiglio Regionale: 
+ 
+a) determinare gli indirizzi politici ed amministrativi; 
+ 
+b) emanare gli atti amministrativi che determinano criteri generali di intervento e prescrizioni di massima; 
+ 
+c) approvare i piani e i programmi di intervento settoriale e di valorizzazione e deliberare sulla assegnazione e sulla ripartizione dei relativi finanziamenti; 
+ 
+d) approvare i piani regolatori generali e le relative varianti, nonché i piani intercomunali; 
+ 
+e) esercitare le funzioni di indirizzo e di controllo su Enti, Aziende e Consorzi dipendenti o comunque sottoposti alla vigilanza e tutela della Regione, di regola mediante l'approvazione dei loro atti fondamentali, la designazione dei rappresentanti negli organi di Amministrazione ordinaria e la nomina degli Organi di Amministrazione straordinaria, l'approvazione dei bilanci   preventivi e consuntivi e dei loro programmi generali di attività, dei regolamenti organici di amministrazione e di contabilità, nonché delle convenzioni con Enti per l'assunzione di attività; 
+ 
+f) effettuare le designazioni spettanti alla Regione presso Enti, Consorzi, Commissioni, Comitati ed Organismi vari, quando disposizioni non ne attribuiscono la competenza ad altri organi; 
+ 
+g) provvedere alla costituzione o allo scioglimento di Enti, Aziende, Consorzi obbligatori in relazione alle materie di cui all'art.</rubrica>
+                <comma id="art2-com1">
+                    <num> 1.</num>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+
+                <rubrica>
+ 
+Il Presidente della Regione: 
+ 
+a) esercita le funzioni di rappresentanza istituzionale della Regione; 
+ 
+b) emana gli atti di esecuzione delle deliberazioni della Giunta e, allorché si tratti di atti dovuti, del Consiglio; 
+ 
+c) conferisce le nomine sulla base delle designazioni degli Organi competenti; 
+ 
+d) provvede, nei casi previsti dalle vigenti disposizioni e su conforme determinazione degli Organi competenti, alla costituzione ed allo scioglimento di Commissioni e comitati alle dipendenze dell'amministrazione regionale o comunque operanti nell'ambito delle materie di competenza regionale; 
+ 
+e) dirige le funzioni amministrative delegate dallo Stato alle Regioni secondo i criteri di cui all'<rif xlink:href="urn:nir:regione.molise:statuto:#art30">art. 30 dello Statuto</rif>; 
+ 
+f) cura l'esecuzione delle leggi e provvedimenti amministrativi della Regione. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+Le funzioni amministrative di cui all'<rif xlink:href="#art1">art. 1</rif>, non attribuite ad altri regionali, sono esercitate dalla Giunta Regionale. 
+ 
+È di competenza della Giunta di approvare, d'intesa con la competente commissione consiliare, i regolamenti edilizi, i programmi di fabbricazione, nonché le relative modifiche. 
+ 
+La Giunta Regionale provvede alla designazione delle amministrazioni straordinarie degli enti, aziende e consorzi di cui alla lettera d) del precedente art. 2, per un periodo non superiore a 90 giorni, dandone immediata comunicazione al Consiglio per la ratifica. 
+ 
+Restano ferme le competenze della Giunta previste da specifiche disposizioni di legge. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+Gli Uffici periferici dello Stato trasferiti alla Regione e gli organismi collegiali operanti presso di essi sono organi periferici dell'amministrazione regionale. 
+ 
+La Giunta regionale esercita le funzioni e i poteri connessi al rapporto di gerarchia, propria ed impropria, coi dipendenti organi periferici. 
+ 
+La Giunta può delegare agli uffici periferici funzioni di propria competenza. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+Fino all'emanazione della normativa per l'adeguamento della legislazione statale alla autonomia regionale, è assicurato il funzionamento degli organismi collegiali, costituiti presso gli uffici periferici trasferiti dallo Stato alla Regione, per l'esercizio delle funzioni statali, mediante la partecipazione e la utilizzazione del necessario personale regionale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+
+                <rubrica>
+ 
+Avverso gli atti degli organi periferici della Regione, degli Enti, aziende o consorzi trasferiti alla dipendenza della Regione, degli organismi collegiali comunque operanti nell'ambito delle   materie di competenza regionale è ammesso ricorso al Presidente della Regione nel termine di 30 giorni dalla data di pubblicazione, notificazione o comunicazione in via amministrativa o da quando l'interessato ne abbia comunque avuta piena conoscenza. 
+ 
+Il Presidente della Regione provvede su conforme deliberazione della Giunta. 
+ 
+Si applicano le norme di cui al <rif xlink:href="urn:nir:presidente.repubblica:decreto:1971-11-24;1199">D.P.R. 24 novembre 1971, n.1199</rif>, relativo al ricorso gerarchico. 
+ 
+Avverso gli atti degli enti e degli organismi non dipendenti dalla Regione, anche se operanti nell'ambito di materie di competenza regionale, sono fatte salve le norme vigenti di tutela   amministrativa e giurisdizionale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>
+ 
+Le funzioni di cui all'<rif xlink:href="#art1">art. 1</rif>, già di competenza di organi centrali e periferici dello Stato, i cui uffici non sono trasferiti alla Regione, e le cui competenze non siano state attribuite dalla presente legge al Consiglio o al Presidente della Regione, sono esercitate dalla Giunta Regionale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <rubrica>
+ 
+La Regione Molise, nei limiti delle funzioni trasferite, si sostituisce agli organi centrali e periferici dello Stato o agli Enti ed aziende da essi dipendenti nei consorzi di cui essi facevano parte. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <rubrica>
+ 
+Sono fatte salve, in quanto applicabili ed in quanto compatibili con la presente legge, fino all'entrata in vigore delle leggi regionali di riordinamento delle funzioni, le norme sostanziali e   procedurali vigenti. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art10-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+
+                <rubrica>
+ 
+Fino a quando la Regione non provveda ad una diversa disciplina della materia, gli enti provinciali per il turismo continueranno ad esercitare le funzioni loro decentrate dal <rif xlink:href="urn:nir:presidente.repubblica:decreto:1995-06-28;630">D.P.R. 28 giugno 1995, n. 630</rif>. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art11-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12 </num>
+
+                <rubrica>
+ 
+I controlli sugli atti e sugli organi degli enti trasferiti alle dipendenze della Regione sono esercitati, secondo la rispettiva competenza, dal Consiglio e dalla Giunta, con l'osservanza delle norme sostanziali e procedurali vigenti. 
+ 
+I predetti organi regionali sostituiscono gli organi centrali e periferici dello Stato, già titolari della predetta funzione. 
+ 
+Qualora le leggi vigenti non prevedano un termine entro il quale l'organo cui è demandato il controllo sia tenuto a pronunciarsi, esso è fissato in giorni 30 dal ricevimento degli atti. 
+ 
+Il decorso infruttuoso del termine comporta l'esecutività degli atti soggetti a controllo. 
+ 
+Si applicano, in quanto possibile, le norme di cui all'<rif xlink:href="urn:nir:stato:legge:1953-02-10;62#art60">art. 60  della legge 10 febbraio 1953, n.62</rif>. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art12-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13 </num>
+                <rubrica>
+ 
+Il controllo sugli atti degli enti sottoposti alla sola vigilanza e tutela della Regione è esercitato dall'organo regionale di controllo e sue sezioni con la osservanza delle leggi statali e regionali vigenti. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art13-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14 </num>
+
+                <rubrica>
+ 
+La presente legge è dichiarata urgente, ai sensi del <rif xlink:href="urn:nir:regione.molise:statuto:#art38-com2">secondo comma dell'art. 38 dello Statuto</rif>, ed entra in vigore il giorno successivo a  quello della sua pubblicazione sul Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art14-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2004-01-09;3"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="30.Promozione e organizzazione di attivit&amp;#xE0; culturali e delle tradizioni locali, associazionismo"/>
+                </materie>
+            </descrittori>
+        </meta><?error 30.Promozione e organizzazione di attivit&#xE0; culturali e delle tradizioni locali, associazionismo 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x96; N. 1 del 16 gennaio 2004 
+ 
+Oggetto 
+Istituzione della "Festa del Molise" 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20040109">9 gennaio 2004</dataDoc>, n. <numDoc>3</numDoc>. 
+ 
+<titoloDoc>Istituzione della "Festa del Molise" 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione, con la presente legge, istituisce la "Festa del Molise" la cui celebrazione si tiene il 27 dicembre di ogni anno nella ricorrenza della istituzione della Regione Molise. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> La "Festa del Molise" rappresenta una solenne occasione per sottolineare una data storica per la Regione, per una riflessione sul cammino percorso dopo il conseguimento dell'autonomia e per la riscoperta di valori storici e umani che appartengono al popolo molisano. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> La ''Festa del Molise" avrà anche una caratterizzazione culturale con la presentazione di iniziative e pubblicazioni varie. 
+ 
+Art. 4 
+ 
+1. Il Presidente della Regione, previa approvazione del Consiglio regionale, determina con propri provvedimenti i programmi e  stabilisce le modalità organizzative della "Festa del Molise". 
+ 
+Art. 5 
+ 
+1. Gli oneri derivanti dall'applicazione della presente legge, quantificati per l'esercizio finanziario 2003, in Euro 100.000,00 e iscritti nella U.P.B., denominata: "Giunta Regionale: spese generali operative" trovano copertura finanziaria con l'approvazione del Bilancio regionale riferito allo stesso esercizio finanziario. 
+ 
+La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+ 
+ 
+</corpo>
+                </comma>
+            </articolo><?error Marker Warning 105?>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

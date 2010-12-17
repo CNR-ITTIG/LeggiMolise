@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-04-13;22"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="22.Organizzazione delle funzioni amministrative a livello regionale e locale"/>
+                </materie>
+            </descrittori>
+        </meta><?error 22.Organizzazione delle funzioni amministrative a livello regionale e locale 
+ 
+Bollettino 
+Bollettino Ufficiale n. 8 del 15 aprile 2000 
+ 
+Oggetto 
+ 
+Norme sulla ripartizione delle funzioni tra Regione e gli Enti locali in attuazione del decreto legislativo n. 112/1998 - Settore dei lavori pubblici - Funzioni della Regione - Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20000413">13 aprile 2000</dataDoc>, n. <numDoc>22</numDoc>. 
+ 
+<titoloDoc>Abrogazione del <rif
+                    xlink:href="urn:nir:regione.molise:legge:1999-09-29;34#art83-com3">comma 3 dell'articolo 83 della Legge Regionale 29 settembre 1999, n. 34</rif>, recante "Norme sulla ripartizione delle funzioni e dei compiti amministrativi tra la Regione e gli Enti Locali, in attuazione dell'<rif
+                    xlink:href="urn:nir:stato:legge:1990-06-08;142#art3">articolo 3 della Legge 8 giugno 1990, n. 142</rif>, della <rif
+                    xlink:href="urn:nir:stato:legge:1997-03-15;59">Legge 15 marzo 1997, n. 59</rif> e del <rif xlink:href="urn:nir:stato:decreto.legislativo:1998-03-31;112">Decreto Legislativo 31 marzo 1998, n. 112</rif>". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+(Norma abrogativa)  
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art1-com1-mod1"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:1999-09-29;34#art83-com3">comma 3 dell'art. 83 della Legge Regionale 29 settembre 1999, n. 34</rif>, recante: "<virgolette
+                                id="art1-com1-mod1-vir1"
+                                    tipo="parola">Norme sulla ripartizione delle funzioni e dei compiti amministrativi tra la Regione e gli Enti Locali, in attuazione dell'<rif
+                                    xlink:href="urn:nir:stato:legge:1990-06-08;142#art3">art. 3 della Legge 8 giugno 1990, n. 142</rif>, della <rif
+                                    xlink:href="urn:nir:stato:legge:1997-03-15;59">Legge 15 marzo 1997, n. 59</rif> e del <rif xlink:href="urn:nir:stato:decreto.legislativo:1998-03-31;112">Decreto Legislativo 31 marzo 1998, n. 112</rif>
+                            </virgolette>" è abrogato.  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+(Dichiarazione d'urgenza) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38-com2">articolo 38, secondo comma, dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione.  
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

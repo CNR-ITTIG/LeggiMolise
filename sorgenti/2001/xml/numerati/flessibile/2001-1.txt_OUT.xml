@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <LeggeRegionale>
+    <meta>
+      <descrittori>
+<pubblicazione tipo="GU" num="" norm=""/>
+<entratainvigore norm=""/>
+<redazione nome="" id="red1" norm=""/>
+<urn valore=""/>
+</descrittori>
+    </meta>
+    <intestazione/>
+    <formulainiziale/>
+    <articolato>
+<articolo id="art1">
+<num>Art. 1.</num>
+<rubrica/>
+<comma id="art1-com1">
+<num>1.</num>
+<corpo/>
+</comma>
+<?error ===== IL TESTO DEL PROVVEDIMENTO NON E' ARTICOLATO =====
+
+
+ 
+04.Assistenza sociale, volontariato 
+ 
+
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 16 del 1 agosto 2001 
+ 
+
+Oggetto 
+Miglioramento delle condizioni di vita nei penitenziari - Istituzione del premio "Le ali" 
+ 
+
+Abrogazioni 
+ 
+ 
+
+Modifiche 
+ 
+ 
+
+LEGGE REGIONALE 17 luglio 2001, n. 20 
+ 
+
+Interventi volti al miglioramento delle condizioni di vita dei reclusi nei penitenziari del Molise -Istituzione del premio "Le Ali". 
+
+ 
+ 
+
+
+?></articolo>
+</articolato>
+    <formulafinale/>
+    <conclusione/>
+  </LeggeRegionale>
+</NIR>

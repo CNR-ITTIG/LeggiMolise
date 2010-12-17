@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2003-11-21;30"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea"/>
+                </materie>
+            </descrittori>
+        </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 24 del 1 dicembre 2003 
+ 
+Oggetto 
+Esercizio della pesca sportiva - Acque pubbliche - Concessioni - Disciplina - Ulteriori modificazioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20031121">21 novembre 2003</dataDoc>, n. <numDoc>30</numDoc>. 
+ 
+<titoloDoc>Modifiche ed integrazioni alla <rif
+                    xlink:href="urn:nir:regione.molise:legge:2003-05-07;16">legge regionale n. 16 del 7 maggio 2003</rif>, recante: «Modifiche ed integrazioni alla <rif
+                    xlink:href="urn:nir:regione.molise:legge:1998-07-30;7">legge regionale n. 7 del 30 luglio 1998</rif>, ad oggetto: "Norme per la protezione e l'incremento della fauna ittica e per l'esercizio della pesca nelle acque interne" ed alla <rif
+                    xlink:href="urn:nir:regione.molise:legge:2003-01-27;5">legge regionale n.5 del 27 gennaio 2003</rif>, ad oggetto: "Modifiche ed integrazioni alla <rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7">legge regionale n. 7 del 30 luglio 1998</rif>, concernente: "Norme per la protezione e l'incremento della fauna ittica e per l'esercizio della pesca nelle acque interne ". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art1-com1-mod1">
+1. Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:2003-05-07;16#art2-com1">comma 1 dell'articolo 2 della legge regionale n. 16 del 7 maggio 2003</rif>, è sostituito dal seguente: 
+ 
+&lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir1" tipo="struttura">
+                                <comma id="art1-com1-mod1-vir1-com0">
+                                    <num>1.</num>
+                                    <corpo> Il <rif xlink:href="urn:nir:regione.molise:legge:2003-01-27;5#art1-com14">comma 14 dell'articolo 1 della legge regionale 27 gennaio 2003 n. 5</rif>, è sostituito dal seguente: 
+ 
+"l. Per l'esercizio della pesca sportiva e per l'incremento della fauna ittica, tratti di acque pubbliche, sono dati in concessione dalla Provincia previa convenzione, alle Sezioni Provinciali delle Associazioni di pescatori sportivi dilettanti riconosciute a livello nazionale ovvero ad Associazioni operanti in ambito locale da almeno un quinquennio, secondo modalità e criteri esplicitati in apposito regolamento regionale. Al fine di consentire uniformità di indirizzo, la Giunta regionale, sentite le Province, entro sei mesi dalla data di entrata in vigore della presente legge, approva e divulga una convenzione tipo. </corpo>
+                                </comma>
+                                <comma id="art1-com1-mod1-vir1-com0">
+                                    <num>
+ 
+2.</num>
+                                    <corpo> L'ammontare delle autorizzazioni concesse per ciascuna Provincia, non può avere un 'estensione complessiva superiore al 25% della lunghezza di ciascun tratto di categoria A, B e C per corpo idrico, con il limite massimo di 8 km., per le Associazioni riconosciute a livello nazionale ed operanti nella regione e di 4 km. per le Associazioni locali organizzate nel Molise. La distanza minima tra due tratti di corpi idrici in concessione deve essere di almeno un chilometro, ad eccezione dei tratti già dati in concessione prima dell'entrata in vigore della presente legge. Nei tratti in concessione è vietato consentire lo svolgimento di gare di pesca da parte di altre Associazioni o organizzazioni. Le concessioni sui laghi, bacini naturali o artificiali non devono superare il 50% della loro lunghezza perimetrale complessiva. In caso di più autorizzazioni concesse deve essere garantita una distanza minima tra esse non inferiore al 10% della loro lunghezza perimetrale complessiva, destinata alla libera pesca". </corpo>
+                                </comma>
+                                <comma id="art1-com1-mod1-vir1-com1">
+                                    <num/>
+                                    <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                                </comma>
+                            </virgolette>
+                        </mod>
+                    </corpo>
+                </comma>
+            </articolo><?error Marker Warning 105?>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

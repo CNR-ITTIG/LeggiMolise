@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19900216" num="3" tipo="BURM"/>
+                <entratainvigore norm="19900303"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1990-02-07;6"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 03 del 16/02/90 
+ 
+Oggetto 
+Istituti Autonomi per le Case Popolari - Riforma - Disciplina - Controlli 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 6 dalla legge n. 8/1991 art. 1 
+Modificato art. 11 dalla legge n. 8/1991 art. 2 
+Modificato art. 14 dalla legge n. 8/1991 art. 3 
+Modificato art. 16 dalla legge n. 8/1991 art. 4 
+Modificato art. 22 dalla legge n. 8/1991 art. 5 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19900207">7 Febbraio 1990</dataDoc>, n. <numDoc>6</numDoc>
+            <titoloDoc>Disciplina regionale di riforma degli Istituti Autonomi per le Case Popolari. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ART. 1</num>
+
+                <rubrica>: OGGETTO 
+ 
+La Regione Molise, in attuazione di quanto previsto agli articoli 13 e 93 del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616">DPR 24 luglio 1977, n. 616</rif>, emana la presente disciplina regionale di riforma degli Istituti Autonomi per le Case Popolari (I.A.C.P) di Campobasso e di Isernia. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ART. 2</num>
+                <rubrica>: NATURA COMPITI 
+ 
+Ciascun IACP, strumento tecnico - operativo della Regione nel campo dell'edilizia residenziale, esercita nell'ambito di ciascuna provincia le funzioni e i compiti ad esso attribuiti dalla legislazione vigente ed è dotato di autonomia patrimoniale, organizzativa, amministrativa e contabile nei limiti stabiliti dalla presente legge. 
+ 
+L'Ente assume la personalità giuridica di diritto pubblico. 
+ 
+Lo I.A.C.P provvede: 
+ 
+a) ad attuare interventi di edilizia residenziale pubblica mediante la costruzione di abitazioni ed il recupero del patrimonio edilizio esistente, tramite l'impiego delle risorse finanziarie all'uopo destinate dalla Comunità Economica Europea, dello Stato e della Regione; 
+ 
+b) a realizzare e recuperare alloggi, utilizzando anche risorse finanziarie proprie; 
+ 
+c) ad assumere rapporti di convenzione con gli Enti locali per la manutenzione e l'amministrazione del patrimonio edilizio; 
+ 
+d) ad assumere rapporti di convenzione con gli Enti locali per la progettazione e l'esecuzione di opere e piani di edilizia residenziale pubblica; 
+ 
+e) a svolgere ogni altra attività di edilizia residenziale pubblica rientrante nei fini istituzionali e conforme alla normativa statale e regionale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>ART. 3</num>
+                <rubrica>: PATRIMONIO 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <alinea> Ciascun IACP ha patrimonio proprio, costituito: 
+ 
+</alinea>
+                    <el id="art3-com1-leta">
+                        <num>a)</num>
+                        <corpo> da i beni mobili ed immobili, attualmente in proprietà degli IACP e che in seguito perverranno. </corpo>
+                    </el>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> Alle spese per il funzionamento lo IACP. provvede: 
+ 
+</alinea>
+                    <el id="art3-com2-leta">
+                        <num>a)</num>
+                        <corpo> con le rendite patrimoniali;</corpo>
+                    </el>
+                    <el id="art3-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> con le entrate derivanti da finanziamenti per la realizzazione di opere e lo svolgimento di attività previste dalle leggi regionali, nazionali e comunitarie;</corpo>
+                    </el>
+                    <el id="art3-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> con assegnazioni della Regione;</corpo>
+                    </el>
+                    <el id="art3-com2-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> con i proventi rivenienti dallo svolgimento delle attività e da prestazioni di servizi;</corpo>
+                    </el>
+                    <el id="art3-com2-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> con eventuali liberalità disposte da Enti pubblici o da privati. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>ART. 4</num>
+                <rubrica>: REGOLAMENTO INTERNO 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <corpo> Gli istituti determinano con apposito regolamento l'organizzazione interna ed il funzionamento dei propri organi in conformità a quanto previsto dalla presente legge. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il regolamento è adottato dal Consiglio di Amministrazione dello IACP a maggioranza assoluta dei suoi componenti entro 60 giorni dal suo insediamento. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>ART. 5</num>
+                <rubrica>: ORGANI 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo> Gli organi dello I.A.C.P sono: 
+ 
+- Il Consiglio di Amministrazione; 
+ 
+- Il Presidente; 
+ 
+- Il Comitato Esecutivo; 
+ 
+- Il Collegio dei Revisori dei Conti. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>ART. 6</num>
+                <rubrica>: COMPOSIZIONE DEL CONSIGLIO DI AMMINISTRAZIONE 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <alinea> Il Consiglio di Amministrazione di ciascun IACP è composto dal Presidente e da 14 Consiglieri, di cui uno con funzioni di vice - presidente, cosi ripartiti: 
+ 
+</alinea>
+                    <el id="art6-com1-leta">
+                        <num>a)</num>
+                        <corpo> nove rappresentanti eletti dal Consiglio Regionale con voto limitato a sei;</corpo>
+                    </el>
+                    <el id="art6-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> un rappresentante dell'A.N.<rif xlink:href="#art6-com1">C.I</rif>. indicato dalla rispettiva sezione provinciale;</corpo>
+                    </el>
+                    <el id="art6-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> un rappresentante scelto tra i designati dalle organizzazioni sindacali maggiormente rappresentative a livello nazionale;</corpo>
+                    </el>
+                    <el id="art6-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> un rappresentante degli assegnatari scelti dal Consiglio Regionale tra i designati delle organizzazioni provinciali di categoria;</corpo>
+                    </el>
+                    <el id="art6-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> un rappresentante designato dalla rispettiva Amministrazione Provinciale. </corpo>
+                    </el>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il Consiglio di Amministrazione dura in carica cinque anni ed è nominato con decreto del Presidente della Giunta Regionale, previa deliberazione della stessa. </corpo>
+                </comma>
+                <comma id="art6-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> In caso di rinuncia o decadenza di uno o più componenti la sostituzione avviene con la medesima procedura prevista per la nomina. I componenti sostituiti durano nella carica fino alla scadenza del Consiglio di Amministrazione. </corpo>
+                </comma>
+                <comma id="art6-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Per la validità delle adunanze del Consiglio è necessaria la presenza di almeno la metà più uno dei Consiglieri in carica. </corpo>
+                </comma>
+                <comma id="art6-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> I consiglieri che senza giustificato motivo non partecipano per oltre tre adunanze consecutive decadono dalla carica. </corpo>
+                </comma>
+                <comma id="art6-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> Il Consiglio delibera a maggioranza dei voti dei componenti il Consiglio presenti, in caso di parità a maggioranza è determinata dal voto del presidente. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>ART. 7</num>
+                <rubrica>: DESIGNAZIONI 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <corpo> Il Presidente della Giunta Regionale, entro trenta giorni dalla entrata in vigore della presente legge, e tempestivamente in ragione della scadenza quinquennale, provvede a richiedere secondo la competenza le designazioni dei componenti il Consiglio di Amministrazione. </corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Qualora, decorsi sessanta giorni dalla richiesta, non siano pervenute tutte le designazioni, può validamente costituirsi il Consiglio di Amministrazione sulla base di designazioni che ricoprano almeno i due terzi dei componenti. </corpo>
+                </comma>
+                <comma id="art7-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Resta fermo l'obbligo d'integrazione in ragione delle successive designazioni per le quali si procede anche con singoli provvedimenti. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>ART. 8</num>
+                <rubrica>: IL PRESIDENTE E VICE PRESIDENTE 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Il Presidente è nominato con decreto del Presidente della Giunta Regionale, previa deliberazione della stessa, tra i componenti di cui al <rif xlink:href="#art6-com1-leta">comma 1 lettera a) art. 6</rif>. </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il Presidente ha la rappresentanza legale e sovrintende al funzionamento dello IACP, convoca, determinandone l'ordine dei lavori, e presiede il Consiglio di Amministrazione ed il Comitato Esecutivo e dà esecuzione alle deliberazioni. </corpo>
+                </comma>
+                <comma id="art8-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> In caso di assenze o impedimento del Presidente le sue funzioni sono esercitate dal Vice Presidente. </corpo>
+                </comma>
+                <comma id="art8-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> Il Vice Presidente è eletto dal Consiglio di Amministrazione tra i componenti di cui al <rif xlink:href="#art6-com1-leta">comma 1° lettera a) dell'art. 6</rif>, della prima seduta utile. </corpo>
+                </comma>
+                <comma id="art8-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> Il Presidente ed il Vice Presidente durano in carica cinque anni. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>ART. 9</num>
+                <rubrica>: COMITATO ESECUTIVO 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Il Comitato Esecutivo è costituito dal Presidente, dal Vice Presidente e da tre Consiglieri di Amministrazione nominati dal Consiglio nella sua prima riunione, tra i componenti di cui alle lettere a) b) c) e) del <rif xlink:href="#art6-com1">comma 1, art. 6</rif>. </corpo>
+                </comma>
+                <comma id="art9-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> In caso di rinunzie o decadenza di uno o più membri del Comitato Esecutivo la sostituzione avviene con le medesime modalità previste per la nomina. </corpo>
+                </comma>
+                <comma id="art9-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Il Comitato Esecutivo dura in carica cinque anni. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>ART. 10</num>
+                <rubrica>: COLLEGIO DEI REVIS0RI DEI CONTI 
+ </rubrica>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+                    <corpo> Il Collegio dei Revisori dei Conti è composto da tre membri eletti dal Consiglio Regionale con voto limitato a due. </corpo>
+                </comma>
+                <comma id="art10-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il Presidente del Collegio dei Revisori dei Conti è nominato, con decreto, dal Presidente della Giunta Regionale. </corpo>
+                </comma>
+                <comma id="art10-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Il Collegio dei Revisori dei Conti dura in carica cinque anni. </corpo>
+                </comma>
+                <comma id="art10-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> I membri del Collegio dei Revisori dei Conti debbono essere in possesso dei requisiti di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1989-09-18;19#art3">art. 3 della legge regionale 18 settembre 1989, n. 19</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>ART. 11</num>
+                <rubrica>: COMPITI E FUNZIONAMENTO DEL CONSIGLIO DI AMMINISTRAZIONE 
+ </rubrica>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+                    <corpo> Il Consiglio di Amministrazione è convocato dal Presidente e si riunisce in via ordinaria almeno ogni due mesi e, in via straordinaria, quando ne sia fatta domanda da almeno un terzo dei Consiglieri in carica o dal Collegio dei Revisori dei Conti. </corpo>
+                </comma>
+                <comma id="art11-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> Il Consiglio di Amministrazione cura la gestione dell'Istituto ed adotta le deliberazioni riguardanti: 
+ 
+</alinea>
+                    <el id="art11-com2-leta">
+                        <num>a)</num>
+                        <corpo> la nomina nella sua prima riunione del vice - presidente e del comitato esecutivo;</corpo>
+                    </el>
+                    <el id="art11-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> il bilancio di previsione e le variazioni che occorre apportare ad esso durante il corso dell'esercizio;</corpo>
+                    </el>
+                    <el id="art11-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> il bilancio consuntivo, previa relazione del Collegio dei Revisori dei Conti;</corpo>
+                    </el>
+                    <el id="art11-com2-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> le proposte delle iniziative da promuovere e dei provvedimenti da adottare per l'attuazione degli interventi demandati alla competenza dello IACP dalla normativa vigente;</corpo>
+                    </el>
+                    <el id="art11-com2-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> il regolamento di amministrazione e contabilità;</corpo>
+                    </el>
+                    <el id="art11-com2-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> il regolamento del personale;</corpo>
+                    </el>
+                    <el id="art11-com2-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> il regolamento sul funzionamento degli organi;</corpo>
+                    </el>
+                    <el id="art11-com2-leth">
+                        <num> 
+ 
+h)</num>
+                        <corpo> gli atti e contratti di acquisto ed alienazione dei beni immobili;</corpo>
+                    </el>
+                    <el id="art11-com2-leti">
+                        <num> 
+ 
+i)</num>
+                        <corpo> l'accensione e la cancellazione di ipoteche;</corpo>
+                    </el>
+                    <el id="art11-com2-letl">
+                        <num> 
+ 
+l)</num>
+                        <corpo> lo stare e resistere in giudizio e le relative transazioni;</corpo>
+                    </el>
+                    <el id="art11-com2-letm">
+                        <num> 
+ 
+m)</num>
+                        <corpo> le convenzioni con gli Istituti di credito, la stipula di contratti di mutuo;</corpo>
+                    </el>
+                    <el id="art11-com2-letn">
+                        <num> 
+ 
+n)</num>
+                        <corpo> le accettazioni di eredità, donazioni e di legali;</corpo>
+                    </el>
+                    <el id="art11-com2-leto">
+                        <num> 
+ 
+o)</num>
+                        <corpo> il funzionamento della Commissione Tecnica Consultiva;</corpo>
+                    </el>
+                    <el id="art11-com2-letp">
+                        <num> 
+ 
+p)</num>
+                        <corpo> gli atti o i contratti con cui si assumono spese per un importo superiore ai cento milioni. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>ART. 12</num>
+                <rubrica>: COMPITI DEL COMITATO ESECUTIVO 
+ </rubrica>
+                <comma id="art12-com1">
+                    <num>
+1.</num>
+                    <corpo> Il Comitato esecutivo adotta i provvedimenti necessari per l'attuazione dei programmi e lo svolgimento delle attività deliberate dal Consiglio di Amministrazione e delibera sugli atti e contratti che comportino spese di importo non superiore a cento milioni, predispone i bilanci dell'Istituto e provvede all'amministrazione del personale con l'osservanza delle norme regolamentari. </corpo>
+                </comma>
+                <comma id="art12-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Le deliberazioni adottate dal Comitato esecutivo sono comunicate dal Presidente al Consiglio di Amministrazione nella prima seduta. </corpo>
+                </comma>
+                <comma id="art12-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Le deliberazioni del Comitato Esecutivo sono approvate con un numero di voti che rappresenti la maggioranza dei componenti. </corpo>
+                </comma>
+                <comma id="art12-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> Il Comitato Esecutivo ha facoltà di adottare i provvedimenti di competenza del Consiglio di Amministrazione in caso di necessità ed urgenza, salvo quanto specificatamente attribuito a detto organo al <rif xlink:href="#art11-com2">comma 2 dell'art. 11</rif> ad eccezione delle lettere l) e o). </corpo>
+                </comma>
+                <comma id="art12-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> I provvedimenti adottati dal Comitato Esecutivo ai cui al precedente comma vanno sottoposti al Consiglio di Ammmistrazione per la ratifica nella sua prima riunione utile e non oltre 60 giorni dalla data della deliberazione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>ART. 13</num>
+                <rubrica>: COMPITI DEL COLLEGIO DEI REVISORI DEI CONTI 
+ </rubrica>
+                <comma id="art13-com1">
+                    <num>
+1.</num>
+                    <alinea> Il Collegio dei Revisori dei Conti: 
+ 
+</alinea>
+                    <el id="art13-com1-leta">
+                        <num>a)</num>
+                        <corpo> esamina i bilanci preventivi e consuntivi e predispone le relazioni che l'accompagnano;</corpo>
+                    </el>
+                    <el id="art13-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> controlla la gestione dell'Istituto;</corpo>
+                    </el>
+                    <el id="art13-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> elabora annualmente una relazione sull'andamento della gestione amministrativa e finanziaria dell'Istituto, da portare a conoscenza del Consiglio di Amministrazione, il quale provvede a trasmetterla, con eventuali osservazioni alla Giunta ed al Consiglio Regionale. </corpo>
+                    </el>
+                </comma>
+                <comma id="art13-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> I revisori dei conti assistono alle sedute del Consiglio di Amministrazione e del Comitato Esecutivo. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>ART. 14</num>
+                <rubrica>: COMITATO TECNICO CONSULTIVO 
+ </rubrica>
+                <comma id="art14-com1">
+                    <num>
+1.</num>
+                    <alinea> Presso lo IACP è costituito un Comitato Tecnico Consultivo composto da: 
+ 
+</alinea>
+                    <el id="art14-com1-leta">
+                        <num>a)</num>
+                        <corpo> Il Presidente dello IACP che lo presiede. Può delegare a ciò il funzionario tecnico di grado più alto dell'Istituto;</corpo>
+                    </el>
+                    <el id="art14-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> un funzionario regionale designato su proposta dell'Assessore Regionale delegato all'Edilizia Residenziale Pubblica, dalla Giunta Regionale;</corpo>
+                    </el>
+                    <el id="art14-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> un funzionario tecnico dell'Istituto, designato dal Comitato Esecutivo;</corpo>
+                    </el>
+                    <el id="art14-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> tre esperti in materie tecniche e giuridiche nel settore dell'edilizia residenziale pubblica, designati dal Consiglio Regionale con voto limitato a due. </corpo>
+                    </el>
+                </comma>
+                <comma id="art14-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il Comitato Tecnico è integrato di volta in volta dal rappresentante legale dell'Ente Locale interessato. </corpo>
+                </comma>
+                <comma id="art14-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Il Comitato esprime pareri su richiesta del Consiglio di Ammnistrazione o degli Enti interessati. 
+ 
+Il Comitato Tecnico Consultivo è insediato dal Presidente dell'Istituto. 
+ 
+Funge da Segretario un finanziario dell'Istituto, all'uopo incaricato. </corpo>
+                </comma>
+                <comma id="art14-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> I compensi dovuti ai componenti del Comitato Tecnico Consultivo, estranei all'Amministrazione regionale e a quella dello IACP, sono liquidati nella misura di cui alla <rif
+                            xlink:href="urn:nir:regione.molise:legge:1983-03-01;7">Legge Regionale 1 marzo 1983, n. 7</rif>, <rif xlink:href="#art1">art. 1</rif>. 
+ 
+I relativi oneri sono a carico dello IACP. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>ART. 15</num>
+                <rubrica>: INDENNITÀ DI CARICA E COMPENSI 
+ </rubrica>
+                <comma id="art15-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Al Presidente, al Vice Presidente, ai componenti il Comitato Esecutivo di ciascun IACP, spettano indennità di carica mensili pari al 75% di quelle stabilite per il Presidente, il Vice Presidente ed i componenti il Comitato Esecutivo dell'ERSAM dell'<rif xlink:href="urn:nir:regione.molise:legge:1987-05-04;4#art1">art. 1 della legge regionale 4 maggio 1987, n. 4</rif>; nonché il rimborso delle spese di viaggio previste in detta legge. </corpo>
+                </comma>
+                <comma id="art15-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Ai componenti dei Consigli di Amministrazione degli IACP è dovuta una indennità pari a quella fissata per i componenti degli Organi Regionali di Controllo, il rimborso delle spese di viaggio e l'indennità di trasferta se dovuta, a norma dell'<rif xlink:href="urn:nir:regione.molise:legge:1981-06-08;11#art1">art. 1 della legge regionale n. 11 dell'8 giugno 1981</rif>. </corpo>
+                </comma>
+                <comma id="art15-com3">
+                    <num>
+ 
+3.</num>
+                    <alinea> Ai componenti del Collegio dei Revisori dei Conti è dovuta un'indennità rapportata a quella prevista per i Presidenti degli IA.CP. nelle seguenti rispettive misure: 
+ 
+</alinea>
+                    <el id="art15-com3-leta">
+                        <num>a)</num>
+
+                        <corpo> Presidente del Collegio 50% 
+ 
+b) Componente 35% 
+ 
+Ai componenti il Collegio dei Revisori dei Conti compete inoltre il rimborso delle spese di viaggio e l'indennità di trasferta, se dovuta, a norma dell'<rif xlink:href="urn:nir:regione.molise:legge:1981-06-08;11#art1">art. 1 della legge regionale n. 11 dell'8 giugno 1981</rif>. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>ART. 16</num>
+                <rubrica>: CONTROLLI 
+ </rubrica>
+                <comma id="art16-com1">
+                    <num>
+1.</num>
+                    <corpo> Il controllo di legittimtià sugli atti degli IACP è esercitato dalla Giunta Regionale. </corpo>
+                </comma>
+                <comma id="art16-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Le deliberazioni sono trasmesse alla Giunta Regionale, tramite l'Assessore competente, entro cinque giorni dalla loro adozione. Le deliberazioni sono portate all'esame della Giunta dal suo Presidente. </corpo>
+                </comma>
+                <comma id="art16-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Qualora la Giunta Regionale non ne pronunci l'annullamento, nel termine di giorni venti dal ricevimento, con provvedimento motivato, o, entro tale termine, dia comunicazione di non riscontrare vizi di legittimità, la deliberazione diviene esecutiva. </corpo>
+                </comma>
+                <comma id="art16-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> L'esecutività del deliberato è sospesa se, nel termine di cui al precedente comma, il Presidente della Giunta Regionale chiede allo IACP chiarimenti ed elementi integrativi di giudizio. </corpo>
+                </comma>
+                <comma id="art16-com5">
+                    <num>
+ 
+5.</num>
+
+                    <alinea> Il Consiglio Regionale esercita sullo IACP poteri di indirizzo e controllo, ai sensi dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art49">articolo 49 dello Statuto</rif>, mediante approvazione dei seguenti atti fondamentali e delle relative modifiche: 
+ 
+</alinea>
+                    <el id="art16-com5-leta">
+                        <num>a)</num>
+                        <corpo> regolamento di amministrazione e contabilità;</corpo>
+                    </el>
+                    <el id="art16-com5-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> il regolamento del personale;</corpo>
+                    </el>
+                    <el id="art16-com5-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> il regolamento sul funzionamento degli organi;</corpo>
+                    </el>
+                    <el id="art16-com5-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> pianta organica del personale e variazioni;</corpo>
+                    </el>
+                    <el id="art16-com5-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> bilancio di previsione e variazioni;</corpo>
+                    </el>
+                    <el id="art16-com5-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> conto consuntivo;</corpo>
+                    </el>
+                    <el id="art16-com5-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> strutturazione degli uffici; 
+ 
+h ) acquisizione di immobili del valore superiore a due miliardi. </corpo>
+                    </el>
+                </comma>
+                <comma id="art16-com6">
+                    <num>
+ 
+6.</num>
+
+                    <corpo> I suddetti atti, tranne che il bilancio di previsione e il conto consuntivo per i quali si attua quanto disposto agli artt. 54 e 55 dello <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto</rif>, sono inviati alla Giunta Regionale che, previa istruttoria da parte del competente Assessorato, li trasmette, nel termine di giorni trenta dal ricevimento, al Consiglio regionale per i definitivi provvedimenti di competenza. </corpo>
+                </comma>
+                <comma id="art16-com7">
+                    <num>
+ 
+7.</num>
+                    <corpo> Tale termine resta sospeso qualora la Giunta Regionale richieda chiarimenti o elementi integrativi di giudizio. </corpo>
+                </comma>
+                <comma id="art16-com8">
+                    <num>
+ 
+8.</num>
+                    <corpo> Il Consiglio Regionale approva o annulla in via definitiva gli atti nel termine di sessanta giorni dal ricevimento. </corpo>
+                </comma>
+                <comma id="art16-com9">
+                    <num>
+ 
+9.</num>
+                    <corpo> Decorso quest'ultimo termine, qualora il Consiglio Regionale non si pronunzi o non comunichi l'annullamento, le deliberazioni dello IACP diventano, a tutti gli effetti, esecutive. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>ART. 17</num>
+                <rubrica>: CONTROLLO SOSTITUTIVO 
+ </rubrica>
+                <comma id="art17-com1">
+                    <num>
+1.</num>
+                    <corpo> In caso di inosservanza dei termini previsti da norme di legge o di regolamento, per l'assunzione di provvedimenti obbligatori da parte dello IACP, la Giunta Regionale può assegnare un congruo termine per l'adozione del provvedimento. </corpo>
+                </comma>
+                <comma id="art17-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il Presidente della Giunta, in caso di persistente inadempienza, nomina, un Commissario &lt;&lt;ad acta&gt;&gt;. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>ART. 18</num>
+                <rubrica>: SCIOGLIMENTO DEL CONSIGLIO DI AMMINISTRAZIONE 
+ </rubrica>
+                <comma id="art18-com1">
+                    <num>
+1.</num>
+                    <alinea> Il Consiglio di Amministrazione dello IACP e il Comitato Esecutivo possono essere sciolti con deliberazione del Consiglio Regionale su proposta della Giunta, nel caso di: 
+ 
+</alinea>
+                    <el id="art18-com1-leta">
+                        <num>a)</num>
+                        <corpo> persistente violazione di norme di legge, di direttive o indirizzi regionali o per altre gravi irregolarità, nonostante specifico richiamo;</corpo>
+                    </el>
+                    <el id="art18-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> mancata attuazione, senza giustificato motivo dei programmi di intervento o dei programmi di gestione del patrimonio;</corpo>
+                    </el>
+                    <el id="art18-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> per gravi motivi di pubblico interesse;</corpo>
+                    </el>
+                    <el id="art18-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> impossibilità di funzionamento del Consiglio. </corpo>
+                    </el>
+                </comma>
+                <comma id="art18-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Con lo stesso provvedimento è nominato un Commissario straordinario per la gestione provvisoria dello IACP per un periodo non superiore a 6 mesi. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art19">
+                <num>ART. 19</num>
+                <rubrica>: REVOCA DEL PRESIDENTE 
+ </rubrica>
+                <comma id="art19-com1">
+                    <num>
+1.</num>
+                    <corpo> Il Presidente dello IACP, con decreto del Presidente della Giunta Regionale su conforme deliberazione della stessa, è revocato dalla carica: per persistente violazione di norme di legge e per altri gravi irregolarità, nonostante specifico richiamo, e per gravi motivi di pubblico interesse. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art20">
+                <num>ART. 20</num>
+                <rubrica>: INDIRIZZO E COORDINAMENTO 
+ </rubrica>
+                <comma id="art20-com1">
+                    <num>
+1.</num>
+                    <corpo> La Giunta Regionale esercita i poteri di indirizzo e di coordinamento sull'attività degli Istituti, in conformità a quanto disposto dalla programmazione regionale. </corpo>
+                </comma>
+                <comma id="art20-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Gli Istituti presentano annualmente alla Giunta Regionale, nei termini da essa fissati, una relazione sull'andamento dei programmi di attività e dei programmi di gestione del patrimonio. </corpo>
+                </comma>
+                <comma id="art20-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La Giunta può disporre altre modalità di informazione relativamente allo stato di attuazione dei programmi, allo stato della cassa e alla tenuta della contabilltà, nonché ai modi di gestione del patrimonio. </corpo>
+                </comma>
+                <comma id="art20-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Entro il 30 settembre di ogni anno La Giunta Regionale presenta al Consiglio Regionale una relazione generale sull'attuazione dei programmi di intervento e dei programmi di gestione del patrimonio degli Istituti, nonché sulle esigenze manifestatesi nel corso dell'esercizio. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art21">
+                <num>ART. 21</num>
+                <rubrica>: DEL PERSONALE 
+ </rubrica>
+                <comma id="art21-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La struttura operativa dello IACP, informa ai principi della legislazione regionale in materia di organizzazione degli Uffici, è ordinata con il Regolamento del personale di cui all'<rif xlink:href="#art11-com2-letf">art. 11, secondo comma, lettera f)</rif>. </corpo>
+                </comma>
+                <comma id="art21-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Lo stato giuridico e il trattamento economico del personale sono coerenti alla legislazione regionale e conformi agli accordi nazionali concernenti il personale degli IACP. </corpo>
+                </comma>
+                <comma id="art21-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> L'assunzione del personale avviene mediante pubblico concorso, con le modalità e i criteri stabiliti con il regolamento del personale, nel rispetto comunque della normativa statale quando diversamente essa disponga. </corpo>
+                </comma>
+                <comma id="art21-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Entro sei mesi dal suo insediamento il Consiglio di Amministrazione delibera la pianta organica del personale. </corpo>
+                </comma>
+                <comma id="art21-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> In via transitoria il personale di ruolo presso i predetti enti all'entrata in vigore della legge continuerà a svolgere i compiti correlati alle qualifiche funzionali di appartenenza conservando le posizioni economiche e di carriera, l'anzianità maturata e la sede di lavoro. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art22">
+                <num>ART. 22</num>
+                <rubrica>: BILANCIO PREVENTIVO 
+ </rubrica>
+                <comma id="art22-com1">
+                    <num>
+1.</num>
+                    <corpo> L'esercizio finanziario dello IACP ha inizio il 13 gennaio e termina il 31 dicembre di ciascun anno. </corpo>
+                </comma>
+                <comma id="art22-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Secondo quanto disposto dall'<rif xlink:href="urn:nir:regione.molise:statuto:#art54">art. 54 dello Statuto della Regione</rif> e dall'art. 26 della legge di contabilità 3 dicembre 1977, n. 44 il bilancio preventivo, redatto in conformità ai principi della legislazione vigente, è trasmesso alla Giunta Regionale non oltre il 1 ottobre dell'anno precedente a quello cui si riferisce il preventivo ed è approvato dal Consiglio Regionale con la legge approvativa del Bilancio Regionale. </corpo>
+                </comma>
+                <comma id="art22-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Il bilancio preventivo dello IACP è accompagnato dalla relazione del Collegio dei Revisori dei Conti. </corpo>
+                </comma>
+                <comma id="art22-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Le deliberazioni riguardanti le variazioni di bilancio, munite del parere del Collegio dei Revisori del Conti, sono trasmesse entro giorni cinque dalla loro adozione alla Giunta Regionale. </corpo>
+                </comma>
+                <comma id="art22-com5">
+                    <num>
+ 
+5.</num>
+
+                    <corpo> La procedura relativa ai provvedimenti da adottare per le stesse sono quelle previste all'<rif xlink:href="#art16-com2">art. 16 comma 2</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art23">
+                <num>ART. 23</num>
+                <rubrica>: CONTO CONSUNTIVO 
+ </rubrica>
+                <comma id="art23-com1">
+                    <num>
+1.</num>
+                    <corpo> Secondo quanto disposto dall'<rif xlink:href="urn:nir:regione.molise:statuto:#art55">art. 55 dello Statuto della Regione</rif> e dell'art. 26 della legge di contabilità 3 dicembre 1977, n. 44, il rendiconto generale finanziario e patrimoniale, redatto nello schema del consuntivo della Regione, è trasmesso alla Giunta Regionale entro e non oltre il 31 marzo dell'anno successivo a quello cui si riferisce. </corpo>
+                </comma>
+                <comma id="art23-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il conto consuntivo è accompagnato dalla relazione del Collegio dei Revisori dei Conti. </corpo>
+                </comma>
+                <comma id="art23-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Il conto consuntivo è approvato dal Consiglio Regionale con la stessa legge approvativa del consuntivo della Regione di cui forma allegato. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art24">
+                <num>ART. 24</num>
+                <rubrica>: DISPOSIZIONI TRANSITORIE COMMISSARIO AD ACTA 
+ </rubrica>
+                <comma id="art24-com1">
+                    <num>
+1.</num>
+                    <corpo> Con la nomina di Presidente, del Consiglio di Amministrazione, del Collegio dei revisori dei conti di cui agli articoli 8), 9) e 10, decadono a tutti gli effetti i corrispondenti vecchi organi di ciascun IACP. </corpo>
+                </comma>
+                <comma id="art24-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> All'atto dell'entrata in vigore della presente legge il Presidente della Giunta Regionale, su conforme deliberazione della stessa, nomina apposito Commissario per ciascun Istituto nella persona di funzionario regionale di livello dirigenziale che provvede: 
+ 
+</alinea>
+                    <el id="art24-com2-leta">
+                        <num>a)</num>
+                        <corpo> alla formazione dello stato di consistenza dei beni di proprietà dello IACP ed alla ricognizione dei rapporti attivi e passivi;</corpo>
+                    </el>
+                    <el id="art24-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> alla compilazione dell'elenco del personale in servizio, con i dati sulla posizione giuridica e sul trattamento economico;</corpo>
+                    </el>
+                    <el id="art24-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> allo svolgimento di ogni altra attività necessaria all'adempimento dei predetti compiti. </corpo>
+                    </el>
+                </comma>
+                <comma id="art24-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Gli atti del Commissario sono sottoposti a controllo della Giunta Regionale. </corpo>
+                </comma>
+                <comma id="art24-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Il Commissario cessa dalla carica all'atto dell'espletamento del mandato e comunque non oltre sessanta giorni dall'assunzione delle funzioni assegnate. </corpo>
+                </comma>
+                <comma id="art24-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> I Commissari trasmettono al Consiglio ed alla Giunta Regionale una relazione sull'attività svolta. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art25">
+                <num>ART. 25</num>
+
+                <rubrica>: NORMA FINANZIARIA 
+ 
+l. Agli oneri derivanti dalla presente legge si farà fronte con quota parte dei fondi attribuiti alla regione ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1970-05-16;281#art9">art. 9 della legge 16 maggio 1970, n. 281</rif>. 
+ 
+2. La quantificazione della spesa annuale sarà determinata con la stessa legge approvativa dei bilanci regionali. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art25-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art26">
+                <num>ART. 26</num>
+                <rubrica>: NORMA FINALE 
+ </rubrica>
+                <comma id="art26-com1">
+                    <num>
+1.</num>
+                    <corpo> Per quanto non previsto dalla presente legge, resta ferma la normativa statale e regionale vigente. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art27">
+                <num>ART. 27</num>
+                <rubrica>: NORMA D'URGENZA 
+ </rubrica>
+                <comma id="art27-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. </corpo>
+                </comma>
+                <comma id="art27-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

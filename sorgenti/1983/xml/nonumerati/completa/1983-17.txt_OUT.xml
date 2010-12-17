@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19830216" num="3" tipo="BURM"/>
+                <entratainvigore norm="19830303"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1983-02-01;6"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea"/>
+                </materie>
+            </descrittori>
+        </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
+ 
+Bollettino 
+Bollettino Ufficiale n. 03 del 16/02/83 
+ 
+Oggetto 
+Specie animali di notevole interesse scientifico - Danni arrecati a colture agrarie e patrimonio zootecnico - Risarcimento - Procedure 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 23/1995 art. 1 
+Modificato art. 1 dalla legge n. 25/1999 art. 1 
+Modificato art. 2 dalla legge n. 23/1995 art. 2 
+Modificato art. 3 dalla legge n. 25/1999 art. 2 
+Modificato art. 4 dalla legge n. 23/1995 art. 3 
+Modificato art. 5 dalla legge n. 23/1995 art. 4 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19830201">1 Febbraio 1983</dataDoc>, n. <numDoc>6</numDoc>
+            <titoloDoc>Salvaguardia delle specie animali di notevole interesse scientifico e contributi per i danni causati dai medesimi. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+La Regione provvede al risarcimento dei danni arrecati alle colture agrarie ed al patrimonio zootecnico delle aziende agricole della Regione dal cinghiale e dalle seguenti specie di animali in via di estinzione, di eccezionale interesse scientifico anche a livello internazionale: 
+ 
+- Orso Bruno Marsicano (ursus arctos marsicanus); 
+ 
+- Lupo Appenninico (canis lupus italicus); 
+ 
+- Cervo (cervus elaphus); 
+ 
+- Aquila Reale (aquila chrjsaetos). 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+L'accertamento e la valutazione dei danni sono demandati ai Comandi di Stazione Forestale per quanto riguarda il patrimonio zootecnico ed i soprassuoli boschivi e dagli Uffici Agricoli di Zona per quanto riguarda le colture in atto. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+I danni causati al patrimonio zootecnico, alle colture ed ai soprassuoli boschivi sono liquidati nella misura del 100% del valore del mercato, secondo il prezziario approvato dalla Giunta Regionale. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo>
+Non si fa luogo al risarcimento dei danni nei seguenti casi: 
+ 
+- per i capi dispersi; 
+ 
+- qualora l'animale che li ha determinati venga ucciso dal proprietario del bene danneggiato; 
+ 
+- nel caso in cui vengano violate le norme che regolano il pascolo contenute nelle prescrizioni di massima e di polizia forestale vigenti nelle due province. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <comma id="art5-com1">
+                    <num/>
+
+                    <corpo>
+La domanda intesa ad ottenere il risarcimento del danno, con firma dell'interessato autenticata dal Sindaco o dal Segretario Comunale o da un Notaio, deve essere indirizzata alla Giunta Regionale del Molise tramite i Comandi di Stazione Forestale o gli Uffici Agricoli di Zona secondo le competenze di cui al <rif xlink:href="#art2">precedente articolo 2</rif>, entro tre giorni dalla data in cui si è verificato l'evento. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num/>
+                    <corpo>I Comandi di Stazione Forestale e gli Uffici Agricoli di Zona effettueranno immediatamente il sopralluogo e la stima dei danni, secondo il prezziario stabilito dalla Giunta Regionale e provvederanno a rimettere all'Assessorato Regionale competente gli appositi moduli di accertamento e stima opportunamente compilati. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num/>
+                    <corpo>Il Corpo Forestale trasmetterà detti moduli alla Regione tramite gli Ispettorati Ripartimentali competenti per territorio; gli Uffici Agricoli di Zona trasmetteranno detti moduli alla Regione tramite gli Uffici di Coordinamento Provinciale dell'Assessorato all'Agricoltura. </corpo>
+                </comma>
+                <comma id="art5-com4">
+                    <num/>
+                    <corpo>L'Assessore regionale provvederà a trasmettere gli atti alla Giunta regionale per la successiva liquidazione. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo>
+L'onere derivante dall'applicazione della presente legge sarà quantificato con la legge approvativa del bilancio regionale 1983. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art7-com1-mod1">
+Le leggi regionali 21 gennaio 1975, n. 9 e 20 gennaio 1977, n. 3 sono abrogate e sostituite dalla presente legge. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <comma id="art8-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge è dichiarata urgente, ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

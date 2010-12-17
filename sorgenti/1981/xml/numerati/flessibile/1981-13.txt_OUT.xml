@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19810814" num="16" tipo="BURM"/>
+                <entratainvigore norm="19810829"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1981-08-03;15"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 16 del 14/08/81 
+ 
+Oggetto 
+Regione - Personale - Stato giuridico e trattamento economico - Disciplina - Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19810803">3 Agosto 1981</dataDoc>, n. <numDoc>15</numDoc>
+            <titoloDoc>Modifiche ed integrazioni della <rif xlink:href="urn:nir:regione.molise:legge:1981-01-12;2">legge regionale 12 gennaio 1981, n. 2</rif>
+            </titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+All'<rif xlink:href="urn:nir:regione.molise:legge:1981-01-12;2#art2">art. 2 della legge regionale 12 gennaio 1981, n. 2</rif> è aggiunto il seguente comma: 
+ 
+&lt;&lt; Sono ammessi a domanda ,altresì, a sostenere l'esame di idoneità, gli impiegati di ruolo della Regione, dei Comuni, delle Comunità Montane e dell'Ente Regionale di Sviluppo appartenenti al livello immediatamente inferiore a quello per il quale è indetto l'esame, sempre che siano in possesso del titolo di studio richiesto per l'ammissione all'esame stesso &gt;&gt;. 
+ 
+All'art. 9 è aggiunto il seguente comma: 
+ 
+&lt;&lt; Il personale di ruolo degli Enti interessati ai progetti è inquadrato, se ha superato la prova, nel livello immediatamente superiore con preferenza rispetto agli altri iscritti a parità di punteggio &gt;&gt;. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+
+                <rubrica>
+ 
+La presente legge è dichiarata urgente ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione   nel Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

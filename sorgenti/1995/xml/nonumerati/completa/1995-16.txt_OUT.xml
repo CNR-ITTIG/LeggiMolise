@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19950421" num="9" tipo="BURM"/>
+                <entratainvigore norm="19950506"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1995-04-21;15"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="06.Consiglieri regionali e gruppi consiliari"/>
+                </materie>
+            </descrittori>
+        </meta><?error 06.Consiglieri regionali e gruppi consiliari 
+ 
+Bollettino 
+Bollettino Ufficiale n. 09 del 21/04/95 
+ 
+Oggetto 
+Trattamento previdenziale dei Consiglieri regionali 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19950421">21 Aprile 1995</dataDoc>, n. <numDoc>15</numDoc>
+
+            <titoloDoc>Regime degli assegni vitalizi dei Consiglieri Regionali - Modifiche ed integrazioni alla <rif xlink:href="urn:nir:regione.molise:legge:1988-04-13;10">legge regionale 13 aprile 1988, n. 10</rif>. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art1-com1-mod1">
+1. A decorrere dal 1° maggio 1995 il Fondo di previdenza dei Consiglieri regionali di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1988-04-13;10#art1">art. 1 della legge regionale 13 aprile 1988, n. 10</rif>, è soppresso. Tutte le attività, le passività e le funzioni del Fondo sono trasferite al bilancio regionale. 
+ 
+2. Entro il 1ø maggio 1995 l'Ufficio di Presidenza provvede con propri atti in ordine alla cessazione dell'attività ed alla definizione dello stato patrimoniale del Fondo di previdenza dei Consiglieri.</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+1. Nel testo della <rif xlink:href="urn:nir:regione.molise:legge:1988-04-13;10">legge regionale 13 aprile 1988, n. 10</rif>, ogni riferimento al &lt;&lt;Fondo di previdenza dei Consiglieri&gt;&gt; deve intendersi alla &lt;&lt;Regione&gt;&gt;. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+1. L'<rif xlink:href="urn:nir:regione.molise:legge:1988-04-13;10#art1">art. 1 della legge regionale 13 aprile 1988, n. 10</rif>, è così sostituito: 
+ </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <corpo>
+                        <rif xlink:href="#art1">Articolo 1</rif>: ASSEGNO VITALIZIO 
+ 
+Ai Consiglieri regionali cessati dal mandato nonché agli altri aventi diritto compete un assegno vitalizio mensile, secondo le norme della presente legge. </corpo>
+                </comma><?error Marker Warning 103 (last articolo:3 next:1)?>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo>
+1. L'<rif xlink:href="urn:nir:regione.molise:legge:1988-04-13;10#art2">art. 2 della legge regionale 13 aprile 1988, n. 10</rif>, è così sostituito: 
+ </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num/>
+                    <corpo>
+                        <rif
+                            xlink:href="#art2">Articolo 2</rif>: VERSAMENTO DEI CONTRIBUTI NEL BILANCIO 
+ 
+I contributi obbligatori di cui all'<rif xlink:href="#art3">art. 3</rif> sono versati in conto entrate nel bilancio della Regione, cui sono imputate le spese relative all'applicazione della presente legge. </corpo>
+                </comma><?error Marker Warning 103 (last articolo:4 next:2)?>
+                <comma id="art4-com3">
+                    <num/>
+                    <corpo>Alla gestione degli assegni vitalizi provvede l'Ufficio di Presidenza. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo>
+1. All'<rif xlink:href="urn:nir:regione.molise:legge:1988-04-13;10#art5">art. 5 della legge regionale 13 aprile 1988, n. 10</rif>, sono aggiunti i seguenti commi: 
+ 
+L'erogazione dell'assegno mensile per inabilità resta sospesa se il Consigliere esercita un'attività lavorativa dipendente, professionale o autonoma. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num/>
+                    <corpo>L'assegno per inabilità è inoltre sospeso se il Consigliere percepisce a qualsiasi titolo emolumenti per incarichi pubblici o di nomina pubblica il cui ammontare sia pari o superiore alla misura dell'assegno stesso. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num/>
+                    <corpo>La corresponsione dell'assegno di inabilità è subordinata a verifiche quinquennali sul permanere delle condizioni che ne hanno determinato la concessione. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo>
+1. L'<rif xlink:href="urn:nir:regione.molise:legge:1988-04-13;10#art14">art. 14 della legge regionale 13 aprile 1988, n. 10</rif>, è così sostituito: 
+ </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num/>
+
+                    <corpo>Articolo 14: ASSEGNI DI REVERSIBILITÀ 
+ 
+Il Consigliere, previo versamento di apposita quota contributiva aggiuntiva pari al 25 per cento del contributo obbligatorio di cui all'<rif xlink:href="#art3">articolo 3</rif>, ha diritto di determinare, previa apposita comunicazione all'Ufficio di Presidenza, che, successivamente al proprio decesso, sia attribuita al coniuge ovvero ai figli una quota pari al 50 per cento dell'importo lordo dell'assegno vitalizio a lui spettante. Condizione necessaria perché si determini tale attribuzione è che il Consigliere, al momento del decesso, abbia conseguito i requisiti di contribuzione prescritti per la maturazione del diritto all'assegno vitalizio. </corpo>
+                </comma><?error Marker Warning 103 (last articolo:6 next:14)?>
+                <comma id="art6-com3">
+                    <num/>
+                    <corpo>Nel caso in cui la quota dell'assegno sia attribuita ai figli, essa è suddivisa in parti uguali. I figli hanno diritto alla quota loro attribuita fino al compimento della maggiore età ovvero fino al compimento del 26° anno di età se studenti, salvo il caso di totale invalidità a proficuo lavoro nel quale la quota spettante dell'assegno è corrisposta per la durata della totale invalidità. </corpo>
+                </comma>
+                <comma id="art6-com4">
+                    <num/>
+                    <corpo>L'ottenimento del beneficio di cui al <rif xlink:href="#art6-com1">comma 1</rif> è subordinato alla comunicazione all'Ufficio di Presidenza di volersene avvalere. Il Consigliere può in ogni momento modificare l'indicazione nominativa della persona beneficiaria. </corpo>
+                </comma>
+                <comma id="art6-com5">
+                    <num/>
+                    <corpo>Sia la comunicazione di cui al <rif
+                            xlink:href="#art6-com3">comma 3</rif> sia l'inizio della contribuzione di cui al <rif xlink:href="#art6-com1">comma 1</rif> devono aver luogo entro sessanta giorni dall'assunzione del mandato consiliare, pena la decadenza del beneficio. Tale causa di decadenza non opera in caso di matrimonio o di nascita di figli  successivamente all'inizio del mandato consiliare; in tal caso il termine per la comunicazione decorre rispettivamente dalla data del matrimonio ovvero dalla nascita dei figli e l'obbligo del pagamento della quota aggiuntiva retroagisce dalla data di assunzione della carica di Consigliere. </corpo>
+                </comma>
+                <comma id="art6-com6">
+                    <num/>
+                    <corpo>Qualora uno dei beneficiari dell'assegno di reversibilità entri a far parte del Consiglio regionale, il pagamento dell'assegno resta sospeso per tutta la durata dell'esercizio del mandato ed è ripristinato alla cessazione di questo. Il diritto all'assegno vitalizio di reversibilità si estingue con la morte della persona che ne ha beneficiato. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo>
+1. L'<rif xlink:href="urn:nir:regione.molise:legge:1988-04-13;10#art15">art. 15 della legge regionale 13 aprile 1988, n. 10</rif>, è così sostituito: 
+ </corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num/>
+                    <corpo>Articolo 15: ASSEGNO DI REVERSIBILITÀ IN CASO DI MORTE PER CAUSE DI SERVIZIO 
+ 
+Qualora il decesso del Consigliere avvenga per causa di servizio, l'attribuzione della quota di assegno di reversibilità compete ai beneficiari anche se il Consigliere deceduto non sia in possesso dei requisiti richiesti per il conseguimento dell'assegno vitalizio. </corpo>
+                </comma><?error Marker Warning 103 (last articolo:7 next:15)?>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art8-com1-mod2">
+1. La rubrica dell'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1988-04-13;10#art18">articolo 18 della legge regionale 13 aprile 1988, n. 10</rif>, è così sostituita: 
+ 
+&lt;&lt;<virgolette id="art8-com1-mod2-vir3">DECORRENZA DELL'ASSEGNO DI REVERSIBILITÀ</virgolette>&gt;&gt;. 
+ 
+2. Il comma 1 dell'art. 18 della legge di cui al precedente comma è soppresso.</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <comma id="art9-com1">
+                    <num/>
+
+                    <corpo>
+1. I contributi obbligatori stabiliti dall'<rif
+                            xlink:href="urn:nir:regione.molise:legge:1988-04-13;10#art3">art. 3 della legge regionale 13 aprile 1988, n. 10</rif>, sono versati in conto entrate nel bilancio della Regione, ai sensi dell'art.2 della predetta legge regionale n. 10, come sostituito dall'<rif xlink:href="#art4">art. 4</rif> della presente legge, con decorrenza dal 1 maggio 1995. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <comma id="art10-com1">
+                    <num/>
+
+                    <corpo>
+1. Le disposizioni della presente legge in tema di assegno vitalizio di reversibilità non trovano applicazione nei confronti dei titolari di assegno vitalizio di reversibilità nonché nei confronti dei Consiglieri il cui mandato sia già iniziato al momento dell'entrata in vigore della legge stessa. 
+ 
+2. Per i soggetti di cui al precedente comma continuano ad applicarsi le previgenti disposizioni in materia di assegno vitalizio di reversibilità contenute negli articoli 10, 11, 12, 13, 14, 15, 16, 17, 18 e 19 della <rif xlink:href="urn:nir:regione.molise:legge:1988-04-13;10">legge regionale 13 aprile 1988, n. 10</rif>.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+                <comma id="art11-com1">
+                    <num/>
+                    <corpo>
+1. La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error 2. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

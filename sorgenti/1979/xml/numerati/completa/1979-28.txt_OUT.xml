@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19790414" num="7" tipo="BURM"/>
+                <entratainvigore norm="19790429"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1979-04-06;13"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="22.Organizzazione delle funzioni amministrative a livello regionale e locale"/>
+                </materie>
+            </descrittori>
+        </meta><?error 22.Organizzazione delle funzioni amministrative a livello regionale e locale 
+13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+ 
+Bollettino 
+Bollettino Ufficiale n. 07 del 14/04/79 
+ 
+Oggetto 
+Assistenza scolastica - Patronati e consorzi dei patronati - Scioglimento - Trasferimento delle funzioni ai Comuni - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19790406">6 Aprile 1979</dataDoc>, n. <numDoc>13</numDoc>
+
+            <titoloDoc>Norme sullo scioglimento dei patronati scolastici e dei consorzi dei patronati scolastici e sul passaggio delle attribuzioni degli stessi ai Comuni ai sensi dell'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616#art45">art. 45 del D.P.R. 24 luglio 1977, n. 616</rif>
+            </titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+
+                <rubrica>
+ 
+Le funzioni di Assistenza Scolastica dei Patronati Scolastici e dei Consorzi di Patronato ed ogni altra attribuzione da essi esercitata ai sensi della <rif
+                        xlink:href="urn:nir:stato:legge:1958-03-04;261">legge 4 marzo 1958, n. 261</rif> e del relativo   regolamento di esecuzione emanato con <rif xlink:href="urn:nir:presidente.repubblica:decreto:1961-05-16;636">D.P.R. 16 maggio 1961, n. 636</rif>, sono trasferite al Comune nel cui territorio ciascun patronato ha sede. 
+ 
+Dalla data di entrata in vigore della presente legge gli Enti suindicati ed i rispettivi Consigli di Amministrazione e di Presidenza sono sciolti. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+
+                <rubrica>
+ 
+Ai fini del trasferimento, ai sensi dell'art. 45, 2° e 3° comma, del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616">D.P.R. 24 luglio 1977, n. 616</rif>, dei beni dei disciolti Patronati ai Comuni, il Presidente o il Commissario di ciascuno degli Enti, in carica all'entrata in vigore della presente legge, nel termine di trenta giorni dall'entrata in vigore della stessa procede: 
+ 
+a) alla rilevazione della consistenza patrimoniale dei Patronati; 
+ 
+b) alla ricognizione e definizione dei rapporti giuridici pendenti. 
+ 
+Il Presidente o il Commissario di ciascun Patronato o Consorzio di Patronato provvederà a trasmettere al Comune competente per territorio ed alla Giunta Regionale una relazione contenente gli elementi dettagliati di cui ai punti a) e b) del presente articolo. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+
+                <rubrica>
+ 
+I beni mobili ed immobili dei disciolti Patronati e Consorzi di Patronato sono attribuiti provvisoriamente al patrimonio dei Comuni ove hanno sede nello stato di fatto e di diritto in cui il bene si trova con gli oneri ed i pesi inerenti, con le pertinenze e le dotazioni di beni ed arredi al servizio degli stessi. 
+ 
+Il Presidente o il Commissario di ciascun Patronato o Consorzio di Patronato, concluse le operazioni di rilevazione ed identificazione di cui all'<rif xlink:href="#art2">art. 2</rif> della presente legge, effettua la   consegna dei beni da attribuire al Comune mediante apposito verbale da redigersi con l'intervento, in contraddittorio, del rappresentante del Comune destinatario dichiarando formalmente chiuse le operazioni stesse. 
+ 
+I beni di cui sopra sono attribuiti ai Comuni territorialmente competenti in linea provvisoria fino all'emanazione della legge regionale sulla delimitazione degli ambiti territoriali per la gestione associata delle funzioni di Assistenza Scolastica. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+
+                <rubrica>: Fino all'approvazione della legge regionale, ai sensi dell'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616#art42">articolo 
+ 
+42 del D.P.R. 24 luglio 1977, n. 616</rif>, i Comuni provvedono ad assolvere ai compiti di Assistenza Scolastica sulla base delle disposizioni vigenti. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+                <rubrica>: Ove il Presidente o il Commissario del Patronato e dei Consorzi di Patronato non abbia provveduto agli adempimenti di cui ai precedenti articoli 2 e 3 nel termine di trenta giorni dall'entrata in vigore della presente legge, a detti adempimenti provvederà direttamente il Comune sede del Patronato o del Consorzio. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19780201" num="2" tipo="BURM"/>
+                <entratainvigore norm="19780216"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1978-01-27;2"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="35.Tributi"/>
+                </materie>
+            </descrittori>
+        </meta><?error 35.Tributi 
+ 
+Bollettino 
+Bollettino Ufficiale n. 02 del 01/02/78 
+ 
+Oggetto 
+Leggi tributarie - Violazioni - Crediti da esigere - Procedure - Abbandono 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 5/2004 art. 3 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19780127">27 Gennaio 1978</dataDoc>, n. <numDoc>2</numDoc>
+            <titoloDoc>Crediti regionali di lievi entità  Abbandono delle procedure di esazione. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 5/2004 art. 3</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19850430" num="9" tipo="BURM"/>
+                <entratainvigore norm="19850515"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1985-04-29;14"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 09 del 30/04/85 
+ 
+Oggetto 
+Regione - Strutture organizzative - Ordinamento 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 7/1997 art. art. 47, comma 1, lettera d) 
+ 
+Modifiche 
+Modificato art. 6 dalla legge n. 12/1998 art. 1 
+Modificato art. 7 dalla legge n. 12/1988 art. 2 
+Modificato art. 7 dalla legge n. 15/1991 art. 8-bis 
+Modificato art. allegato A-bis dalla legge n. 12/1988 art. 3 
+Modificato art. allegato B dalla legge n. 7/1993 art. 1 
+Modificato art. allegato B dalla legge n. 15/1992 art. 34 
+Modificato art. allegato B dalla legge n. 10/1995 art. 4 e 32 
+Modificato art. allegato B parte II dalla legge n. 14/1992 art. 14 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19850429">29 Aprile 1985</dataDoc>, n. <numDoc>14</numDoc>
+            <titoloDoc>Ordinamento della struttura organizzativa della Regione 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 7/1997 art. art. 47, comma 1, lettera d)</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

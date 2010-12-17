@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2006-07-07;17"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="14.Governo del territorio, urbanistica, edilizia"/>
+                </materie>
+            </descrittori>
+        </meta><?error 14.Governo del territorio, urbanistica, edilizia 
+03.Assistenza abitativa 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 20 del 15 luglio 2006 
+ 
+Oggetto 
+Edilizia residenziale pubblica - Disciplina di riordino 
+ 
+Abrogazioni 
+Abrogato art. 26 dalla legge n. 9/2007 art. 3 
+ 
+Modifiche 
+Modificato art. 21 dalla legge n. 9/2007 art. 3 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20060707">7 luglio 2006</dataDoc>, n. <numDoc>17</numDoc>. 
+ 
+<titoloDoc>Norme di riordino in materia di edilizia residenziale pubblica. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <titolo id="tit1">
+                <num>TITOLO I </num>
+                <rubrica>
+ 
+DISPOSIZIONI GENERALI 
+ 
+</rubrica>
+                <articolo id="art1">
+                    <num>Art. 1 </num>
+                    <comma id="art1-com1">
+                        <num/>
+                        <corpo>
+Finalità 
+ 
+1. In attuazione dell'<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art117">articolo 117 della Costituzione</rif> la Regione promuove politiche abitative tese ad assicurare il diritto all'abitazione ed il soddisfacimento del fabbisogno abitativo primario di famiglie e persone meno abbienti e di particolari categorie sociali. 
+ 
+2. Le politiche abitative si integrano con quelle di riqualificazione urbana promosse dai Comuni e concorrono al recupero del patrimonio edilizio esistente, anche non occupato, in particolare nei centri storici. 
+ 
+3. Le politiche abitative sono indirizzate:</corpo>
+                    </comma>
+                    <comma id="art1-com2">
+                        <num/>
+                        <corpo>a) ad incrementare ed a riqualificare il patrimonio di edilizia residenziale pubblica; 
+ 
+b) a favorire l'ampliamento dell'offerta di alloggi in locazione a canone contenuto; 
+ 
+c) a favorire l'acquisto della prima abitazione, eventualmente da recuperare; 
+ 
+d) a consentire, d'intesa con i Comuni interessati, l'acquisizione di aree a costi contenuti dove realizzare interventi organici di abitazioni, infrastrutture e servizi; 
+ 
+e) a sostenere finanziariamente famiglie e persone meno abbienti che abitano in locazione in alloggi di proprietà privata con canoni onerosi in relazione al reddito; 
+ 
+f) a risolvere emergenze abitative; 
+ 
+g) a favorire il recupero, l'acquisto o la costruzione di immobili da destinare ad abitazione principale; 
+ 
+h) ad attivare iniziative di informazione, di studio sui fenomeni abitativi nella Regione e di monitoraggio del patrimonio edilizio. 
+ 
+4. Coerentemente con le finalità di contenimento dei costi di costruzione, gli interventi edilizi perseguono obiettivi di qualità e di vivibilità dell'ambiente interno ed esterno all'abitazione, favoriscono la diffusione di soluzioni architettoniche ecocompatibili ed il risparmio energetico, assicurano, nel caso di recupero, il raggiungimento dei necessari livelli di sicurezza statica ed antisismica di cui alle leggi vigenti in materia. 
+ 
+5. Al conseguimento degli obiettivi della presente legge concorrono gli Istituti autonomi case popolari, i Comuni, le cooperative di abitazioni, le imprese di costruzione, i privati singoli o associati, gli Enti pubblici.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art2">
+                    <num>Art. 2 </num>
+                    <comma id="art2-com1">
+                        <num/>
+
+                        <corpo>
+Programmazione regionale 
+ 
+1. Gli indirizzi ed i criteri finalizzati alla realizzazione delle politiche abitative sono contenuti in programmi per l'edilizia residenziale pubblica. 
+ 
+2. Con il programma viene utilizzata la dotazione del fondo di cui all'<rif
+                                xlink:href="#art4">articolo 4</rif>. Le leggi annuali di bilancio rendono disponibili le necessarie risorse. 
+ 
+3. Il programma tiene conto delle finalità di cui all'<rif xlink:href="#art1">articolo 1</rif> e dei fabbisogni primari, in particolare:</corpo>
+                    </comma>
+                    <comma id="art2-com2">
+                        <num/>
+                        <corpo>a) stabilisce gli obiettivi e indica le azioni in cui si articola la politica abitativa regionale in relazione alle disponibilità delle risorse finanziarie; 
+ 
+b) ripartisce i finanziamenti per tipologie di intervento, in relazione anche alla disponibilità di aree edificabili, di edifici da recuperare e di programmi organici di intervento dei Comuni; 
+ 
+c) tiene conto della necessità di recuperare, a fini abitativi, il patrimonio edilizio esistente nei centri urbani per limitare ulteriori fenomeni di espansione delle città; promuove politiche integrate finalizzate alla riqualificazione urbana, al miglioramento del sistema delle infrastrutture, dei servizi e della accessibilità ai centri storici; 
+ 
+d) indica i finanziamenti da destinare a specifiche categorie di utenti, come i disabili, gli anziani, i giovani, gli studenti universitari, i cittadini extracomunitari, ecc.; 
+ 
+e) fissa l'entità dei contributi che possono essere assegnati per ciascuna categoria d'intervento; 
+ 
+f) indica i requisiti generali di ammissibilità al finanziamento delle proposte, con riferimento alla qualità dei progetti ed alla capacità degli operatori pubblici e privati di realizzare e gestire, ove richiesto, gli immobili; 
+ 
+g) può riservare una quota di risorse per gli interventi a carattere sperimentale di cui agli artt. 15 
+ 
+e 16; 
+ 
+h) attiva un sistema di premialità rivolto alle Amministrazioni locali che maggiormente si impegnano, con proprie risorse o con riduzione delle imposte locali sugli immobili, per raggiungere gli obiettivi fissati dalla presente legge. 
+ 
+4. il programma è approvato dal Consiglio regionale su proposta della Giunta regionale. 
+ 
+5. Il programma può essere aggiornato dalla Giunta regionale qualora in sede di attuazione se ne ravvisi la necessità.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art3">
+                    <num>Art. 3 </num>
+                    <comma id="art3-com1">
+                        <num/>
+
+                        <corpo>
+Programmi operativi regionali 
+ 
+1. Gli obiettivi generali del piano sono attuati, sulla base delle informazioni rese disponibili dall'Osservatorio sulla condizione abitativa di cui all'<rif xlink:href="#art5">art. 5</rif>, mediante programmi operativi, di seguito denominati P.O.R., approvati dalla Giunta regionale. 
+ 
+2. La Giunta regionale, in relazione alle risorse, fissa i tempi e le procedure per la raccolta delle proposte, la localizzazione degli interventi, l'individuazione degli operatori pubblici e privati e le modalità per la loro ammissione al P.O.R.. 
+ 
+3. Il P.O.R. indica per ciascuna categoria di intervento:</corpo>
+                    </comma>
+                    <comma id="art3-com2">
+                        <num/>
+
+                        <corpo>a) l'operatore, pubblico o privato, scelto per la realizzazione; 
+ 
+b) la fonte di finanziamento; 
+ 
+c) il contributo regionale assegnato e le modalità di erogazione; 
+ 
+d) le procedure e le modalità di controllo dell'attuazione del piano e di rendicontazione delle spese sostenute, nel caso di interventi pubblici; 
+ 
+e) le prescrizioni tecniche ed i tempi per la realizzazione degli interventi; 
+ 
+f) i requisiti che devono possedere i richiedenti dei contributi e degli alloggi. 
+ 
+4. Il P.O.R. tiene conto, compatibilmente con il contenuto della presente legge, degli indirizzi per lo sviluppo sostenibile e la promozione dell'ecoqualità architettonica nell'edilizia residenziale pubblica e privata. 
+ 
+5. La struttura regionale competente per materia assicura il costante monitoraggio dell'avanzamento degli interventi. La stessa propone alla Giunta regionale la revoca dei finanziamenti per quegli interventi che non rispettano le scadenze prefissate dal P.O.R. con la procedura di cui ai successivi commi. 
+ 
+6. Gli interventi di edilizia residenziale pubblica devono pervenire all'inizio dei lavori entro il termine massimo di tredici mesi dalla data di comunicazione del provvedimento di individuazione dei soggetti attuatori. 
+ 
+7. Se gli interventi di edilizia residenziale pubblica sovvenzionata e agevolata-convenzionata non pervengono all'inizio dei lavori entro i termini di cui al precedente comma, l'Assessore regionale competente nomina, nei trenta giorni successivi, un Commissario ad acta che provvede entro novanta giorni. Il Commissario è competente a compiere tutti gli atti necessari per pervenire all'inizio dei lavori ed ha il potere di utilizzare, ove ne ricorrano i presupposti, le strutture competenti del soggetto attuatore. 
+ 
+8. Le spese del commissariamento, determinate dalla Giunta regionale con apposito atto deliberativo, sono a carico del soggetto attuatore per l'edilizia sovvenzionata, della Regione per l'edilizia agevolata-convenzionata. Con la legge di bilancio, annualmente, sono stanziati i necessari fondi in base alle esigenze. 
+ 
+9. Decorso il termine dei novanta giorni di cui al comma 7, la Giunta regionale riassegna o revoca i finanziamenti, ridetermina la localizzazione degli interventi e l'individuazione dei soggetti attuatori. Con la rilocalizzazione la Giunta regionale assegna un nuovo termine per l'inizio dei lavori che per Io stesso soggetto attuatore non può superare dieci mesi, trascorsi i quali la struttura regionale competente può promuovere un accordo di programma o proporre la revoca alla Giunta regionale. Nell'accordo è stabilito anche il nuovo termine per l'inizio dei lavori. I fondi non destinati agli interventi a seguito dell'accordo di programma sono revocati dalla Giunta regionale e riutilizzati dalla stessa. 
+ 
+10. In deroga a quanto previsto dall'<rif xlink:href="#art2">articolo 2</rif> e dal presente articolo, la Giunta regionale può dare attuazione ad interventi straordinari o sperimentali promossi a livello nazionale o comunitario che richiedono una programmazione delle risorse incompatibile, nei tempi, con le procedure ordinarie previste dalla presente legge. 
+ 
+11. Gli IACP, o altro organismo indicato dalla legge, quando ne ricorrono le condizioni, possono essere indicati quali titolari degli interventi previsti nei successivi articoli 7 e 10.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art4">
+                    <num>Art. 4 </num>
+                    <comma id="art4-com1">
+                        <num/>
+                        <corpo>
+Fondo regionale per le politiche abitative 
+ 
+1. Per finanziare gli interventi previsti dalla programmazione regionale è istituito il fondo regionale per le politiche abitative. 
+ 
+2. Nel fondo confluiscono:</corpo>
+                    </comma>
+                    <comma id="art4-com2">
+                        <num/>
+
+                        <corpo>a) le risorse dell'Unione Europea finalizzate o connesse agli obiettivi di cui alla presente legge; 
+ 
+b) le risorse statali attribuite a qualunque titolo alla Regione per le politiche abitative e per il sostegno alla locazione; 
+ 
+c) i rientri derivanti dall'applicazione dell'<rif xlink:href="urn:nir:stato:legge:1992-02-17;179#art5">articolo 5 della legge 17 febbraio 1992, n. 179</rif>; 
+ 
+d) le risorse proprie regionali appositamente previste con legge finanziaria annuale; 
+ 
+e) altre risorse attinenti l'edilizia residenziale pubblica. 
+ 
+3. Il fondo è utilizzato, con le modalità individuate nei successivi articoli, per investimenti nel settore dell'edilizia residenziale pubblica. 
+ 
+4. Il fondo è utilizzato anche come sostegno al reddito per favorire l'accesso all'abitazione privata in locazione da parte di nuclei familiari meno abbienti, e può, a tal fine, essere integrato dai Comuni con proprie risorse finanziarie. 
+ 
+5. Concorrono alla programmazione regionale anche le risorse derivanti dai</corpo>
+                    </comma>
+                    <comma id="art4-com3">
+                        <num/>
+
+                        <corpo>a) residui fondi disponibili presso la Cassa depositi e prestiti ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-03-31;112#art63">articolo 63 del decreto legislativo 31 marzo 1998, n. 112</rif>; 
+ 
+b) canoni di locazione del patrimonio di edilizia residenziale pubblica di cui all'articolo 20, comma 4; 
+ 
+c) rientri derivanti dalle alienazioni di alloggi conseguenti a provvedimenti di razionalizzazione della gestione del patrimonio pubblico. </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art5">
+                    <num>Art. 5 </num>
+                    <comma id="art5-com1">
+                        <num/>
+
+                        <corpo>
+Osservatorio regionale della condizione abitativa 
+ 
+1. In attuazione dell'<rif xlink:href="urn:nir:stato:legge:1998-12-09;431#art12">articolo 12 della legge 9 dicembre 1998, n. 431</rif>, è istituito l'Osservatorio regionale della condizione abitativa con il compito di monitorare in modo permanente:</corpo>
+                    </comma>
+                    <comma id="art5-com2">
+                        <num/>
+                        <corpo>a) la condizione abitativa e il fabbisogno abitativo, con particolare riferimento a quello espresso dalle categorie sociali più deboli, quali anziani, disabili, immigrati, coppie giovani, ecc.; 
+ 
+b) lo studio dei fenomeni abitativi al fine di orientare le scelte di politica abitativa e urbana sulla base di conoscenze acquisite; 
+ 
+c) l'utenza del patrimonio abitativo pubblico o assistito da contributi pubblici; 
+ 
+d) l'analisi finalizzata all'individuazione di problematiche e linee di intervento; 
+ 
+e) la consistenza del patrimonio abitativo pubblico; 
+ 
+f)  l'acquisizione dei dati presso Comuni, Istituti Autonomi Case Popolari e altri Enti, attraverso un'adeguata infrastruttura di rete compatibile; 
+ 
+g) la formazione e gestione di apposita anagrafe degli utenti e del patrimonio abitativo; 
+ 
+h) la rappresentazione cartografica dei dati raccolti; 
+ 
+i) l'andamento del mercato immobiliare; 
+ 
+j) ogni altra funzione scaturente dalle modalità operative e forme di coordinamento tra Amministrazioni statale e regionale. 
+ 
+2. L'Osservatorio regionale, le cui funzioni sono svolte da una struttura complessa denominata Ufficio, facente parte del Servizio Edilizia Residenziale, si raccorda con l'Osservatorio nazionale fornendo i dati di sintesi. Il referente dell'Osservatorio nazionale è individuato nel dirigente responsabile del Servizio Edilizia Residenziale che si avvale di personale regionale di supporto. Con propria determinazione il dirigente stesso disciplina le funzioni dell'Osservatorio regionale e designa il rappresentante facente parte del Comitato Tecnico Scientifico delle regioni. 
+ 
+3. Gli Istituti Autonomi Case Popolari concorrono, secondo le direttive adottate dalla Giunta regionale, alla formazione e implementazione dell'Osservatorio della condizione abitativa, fornendo i dati riguardanti il patrimonio immobiliare e l'utenza. 
+ 
+4. Gli Istituti Autonomi Case Popolari possono accedere alla banca dati dell'Osservatorio al fine di acquisire informazioni di carattere generale. 
+ 
+5. Con apposito regolamento la Giunta regionale emanerà norme in materia di formazione dell'anagrafe dell'utenza e degli alloggi di edilizia residenziale pubblica. 
+ 
+6. Gli enti proprietari o gestori degli alloggi, gli enti locali, gli operatori privati, le organizzazioni sindacali, le associazioni di categoria forniscono le informazioni e la documentazione in loro possesso utili alla realizzazione e gestione dell'anagrafe. I dati forniti costituiscono il supporto informativo anche per la rilevazione dei fabbisogni. 
+ 
+7. Le norme regolamentari disciplinano la costituzione di un apposito Comitato Tecnico Scientifico regionale per la formazione dell'anagrafe di cui al comma 5.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art6">
+                    <num>Art. 6 </num>
+                    <comma id="art6-com1">
+                        <num/>
+                        <corpo>
+Fabbisogno abitativo 
+ 
+1. I Comuni trasmettono alla Regione informazioni contenenti: 
+ 
+- gli indicatori del fabbisogno nel breve e medio termine espresso dalle domande presentate per  l'assegnazione di alloggi in locazione; 
+ 
+- la disponibilità di aree o immobili sui quali è possibile localizzare le tipologie di intervento; 
+ 
+- l'indicazione delle risorse necessarie per ciascuna tipologia di intervento; 
+ 
+- l'entità del cofinanziamento comunale per ciascuna tipologia di intervento. 
+ 
+2. La Giunta regionale può emanare direttive sulle modalità e i tempi per la trasmissione delle informazioni.</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit2">
+                <num>TITOLO II </num>
+                <rubrica>
+ 
+TIPOLOGIE DI INTERVENTO 
+ 
+</rubrica>
+                <articolo id="art7">
+                    <num>Art. 7 </num>
+                    <comma id="art7-com1">
+                        <num/>
+
+                        <corpo>
+Nuove costruzioni e recupero del patrimonio edilizio esistente 
+ 
+1. Il programma regionale di cui all'<rif xlink:href="#art2">art. 2</rif> può attivare risorse per l'incremento di alloggi pubblici da destinare alla locazione mediante interventi di nuove costruzioni, di recupero o di acquisto e recupero. 
+ 
+2. Gli interventi di recupero del patrimonio abitativo sono finalizzati al reinserimento dei nuclei familiari nei centri urbani, alla eliminazione del degrado edilizio ed alla integrazione tra diverse categorie sociali. 
+ 
+3. Il recupero deve garantire:</corpo>
+                    </comma>
+                    <comma id="art7-com2">
+                        <num/>
+                        <corpo>a) la tutela degli aspetti architettonici, storici ed ambientali; 
+ 
+b) la riduzione della vulnerabilità sismica; 
+ 
+c) il conseguimento della sicurezza statica ed il miglioramento della qualità degli spazi. 
+ 
+4. Sono incentivati gli interventi di recupero del patrimonio abitativo compresi in programmi organici di intervento. 
+ 
+5. Sono considerati prioritari gli interventi che prevedono il recupero di interi isolati nei centri storici, intendendosi per isolato uno o più edifici contigui inseriti in un contesto urbano degradato ma con esistenza di strade e di spazi liberi.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art8">
+                    <num>Art. 8 </num>
+                    <comma id="art8-com1">
+                        <num/>
+                        <corpo>
+Proprietà dell'abitazione primaria 
+ 
+1. Per favorire l'incremento della proprietà dell'abitazione primaria sono concessi contributi agli operatori privati per l'acquisto e recupero, il recupero e la costruzione di abitazione da destinare a residenza. Per le stesse finalità sono concessi contributi agli Istituti Autonomi Case Popolari regionali. 
+ 
+2. Il contributo è determinato in percentuale al costo di costruzione e graduato in base a fasce di reddito. 
+ 
+3. La determinazione del contributo avviene con il programma regionale e comunque non può superare il 40% per il recupero e l'acquisto e recupero, il 35% per le nuove costruzioni.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art9">
+                    <num>Art. 9 </num>
+                    <comma id="art9-com1">
+                        <num/>
+                        <corpo>
+Acquisto aree edificabili ad uso residenziale e urbanizzazione primaria 
+ 
+1. Il programma regionale stabilisce le modalità di acquisto e/o urbanizzazione primaria e secondaria di aree edificabili da destinare all'edilizia residenziale pubblica e l'entità del contributo pubblico.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art10">
+                    <num>Art. 10 </num>
+                    <comma id="art10-com1">
+                        <num/>
+                        <corpo>
+Programmi di recupero urbano 
+ 
+1. Per favorire la riqualificazione urbana il programma regionale prevede interventi destinati alla realizzazione di opere al servizio prevalente del patrimonio di edilizia residenziale pubblica secondo la normativa vigente e in conformità con gli strumenti urbanistici vigenti o adottati. 
+ 
+2. Nell'ambito dei programmi di recupero urbano sono previste opere per la realizzazione, la manutenzione e l'ammodernamento delle urbanizzazioni primarie e secondarie. Particolare attenzione deve essere data all'edificazione di completamento di complessi urbanistici esistenti e alla ristrutturazione degli edifici. 
+ 
+3. Il programma regionale determina modalità e criteri generali per la concessione di contributi. 
+ 
+4. Al programma di recupero urbano possono concorrere anche risorse private secondo modalità, criteri e requisiti dei soggetti privati previsti dal programma regionale.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art11">
+                    <num>Art. 11 </num>
+                    <comma id="art11-com1">
+                        <num/>
+                        <corpo>
+Eliminazione baracche 
+ 
+1. Il programma regionale prevede l'eliminazione di baracche o altri locali adibiti ad abitazione comunque occupati o occupati in via provvisoria a seguito di eventi calamitosi o straordinari. Contemporaneamente all'assegnazione dei nuovi alloggi deve essere garantita la rimozione delle abitazioni provvisorie.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art12">
+                    <num>Art. 12 </num>
+                    <comma id="art12-com1">
+                        <num/>
+                        <corpo>
+Eliminazione barriere architettoniche e adeguamento impianti 
+ 
+1. Il programma regionale assicura l'eliminazione delle barriere architettoniche e l'adeguamento degli impianti negli insediamenti di edilizia residenziale pubblica di proprietà pubblica nel rispetto delle normative vigenti.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art13">
+                    <num>Art. 13 </num>
+                    <comma id="art13-com1">
+                        <num/>
+
+                        <corpo>
+Edilizia per particolari categorie sociali 
+ 
+1. Il programma regionale individua le categorie sociali sulla base dei dati forniti dall'Osservatorio di cui all'<rif xlink:href="#art5">art. 5</rif> e stabilisce per ognuna di esse i requisiti di accesso ai contributi, le priorità e le prescrizioni per la realizzazione degli interventi. 
+ 
+2. Sono garantiti interventi che consentano all'interno delle abitazioni la presenza stabile di persone o famiglie che assistano gli anziani o altre persone in condizione di disagio. 
+ 
+3. Le norme regolamentari possono stabilire le prescrizioni tecniche per l'adeguamento degli alloggi abitati da anziani o da altre persone in condizioni di disagio.</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit3">
+                <num>TITOLO III </num>
+                <rubrica>
+ 
+METODOLOGIE E SOLUZIONI INNOVATIVE 
+ 
+</rubrica>
+                <articolo id="art14">
+                    <num>Art. 14 </num>
+                    <comma id="art14-com1">
+                        <num/>
+
+                        <corpo>
+Sostegno al reddito 
+ 
+1. Nel rispetto della normativa vigente i conduttori di alloggi in locazione con contratto registrato possono beneficiare di contributi per concorrere al pagamento dei canoni che incidano sul reddito del nucleo familiare in modo rilevante. 
+ 
+2. Le norme regolamentari stabiliscono i requisiti ed il rapporto tra canone di locazione e reddito familiare. 
+ 
+3. I contributi sono erogati in base alle disponibilità finanziarie derivanti dal fondo nazionale di cui all'<rif xlink:href="urn:nir:stato:legge:1998-12-09;431#art11">art. 11 della legge 9 dicembre 1998, n. 431</rif>, e successive modifiche, e da risorse regionali. 
+ 
+4. I Comuni provvedono ad individuare i beneficiari, a quantificare i contributi e ad erogare gli stessi secondo le modalità stabilite dalle norme regolamentari. 
+ 
+5. Le risorse sono ripartite tra i Comuni dalla Giunta regionale secondo il fabbisogno e con criteri di premialità per quelli che concorrono al finanziamento.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art15">
+                    <num>Art. 15 </num>
+                    <comma id="art15-com1">
+                        <num/>
+                        <corpo>
+Sperimentazione 
+ 
+1. Il programma regionale promuove la realizzazione di interventi innovativi anche a carattere sperimentale che riguardino in particolare: 
+ 
+- nuovi prodotti e componenti per l'automazione di funzione negli impianti e nelle apparecchiature tecnologiche degli edifici; 
+ 
+- nuove tecnologie dell'informazione; 
+ 
+- nuovi componenti e sistemi di comunicazione che consentano di realizzare sistemi tecnologici complessi per migliorare la fruizione e la gestione degli spazi; 
+ 
+- valorizzazione e qualificazione delle relazioni, forme di abitare; 
+ 
+- miglioramento delle qualità ambientali e del risparmio energetico; 
+ 
+- impiego di materie prime rinnovabili o di derivazione naturale; 
+ 
+- isolamento acustico verso l'esterno e tra gli alloggi; 
+ 
+- soluzioni innovative per garantire l'accessibilità, la visitabilità e l'adattabilità; 
+ 
+- diversificazione della risposta alloggiativa in rapporto all'eterogeneità dei bisogni; 
+ 
+- funzionalità indipendente di parti degli alloggi al fine di garantire la privacy di anziani, coabitanti o figli adulti.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art16">
+                    <num>Art. 16 </num>
+                    <comma id="art16-com1">
+                        <num/>
+
+                        <corpo>
+Sperimentazione finalizzata 
+ 
+1. Al fine di avviare a soluzione le più manifeste condizioni di disagio abitativo il programma regionale promuove programmi sperimentali di edilizia residenziale pubblica da realizzare con risorse attivate da Comuni e Istituti Autonomi Case Popolari e con il concorso finanziario della Regione finalizzati ad incrementare l'offerta di alloggi da destinare permanentemente o temporaneamente alla locazione a canone convenzionato di cui all'<rif
+                                xlink:href="urn:nir:stato:legge:1998-12-09;431#art2">art. 2 della legge 9 dicembre 1998, n. 431</rif>, e successive modifiche. 
+ 
+2. Il programma definisce i limiti di reddito per l'accesso e le priorità per particolari categorie sociali deboli. La superficie massima degli alloggi è quella prevista dall'<rif xlink:href="urn:nir:stato:legge:1978-08-05;457#art16">art. 16 della legge 5 agosto 1978, n. 457</rif>.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art17">
+                    <num>Art. 17 </num>
+                    <comma id="art17-com1">
+                        <num/>
+                        <corpo>
+Costi di costruzione 
+ 
+1. La Giunta regionale, coerentemente con le determinazioni già assunte, stabilisce i costi massimi ammissibili per gli interventi di recupero e nuova costruzione con riferimento alle tipologie ricorrenti e al livello qualitativo che si vuole perseguire.</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit4">
+                <num>TITOLO IV </num>
+                <rubrica>
+ 
+BENEFICIARI E GESTIONE DEL  PATRIMONIO 
+ 
+</rubrica>
+                <articolo id="art18">
+                    <num>Art. 18 </num>
+                    <comma id="art18-com1">
+                        <num/>
+                        <corpo>
+Beneficiari 
+ 
+1. Con norme regolamentari sono stabiliti i requisiti dei beneficiari per l'accesso ai contributi, alla proprietà della prima abitazione, alla locazione permanente ed a termine. 
+ 
+2. Con le stesse norme sono previsti anche i requisiti aggiuntivi per l'accesso ai contributi per le categorie speciali.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art19">
+                    <num>Art. 19 </num>
+                    <comma id="art19-com1">
+                        <num/>
+
+                        <corpo>
+Gestione del patrimonio di edilizia residenziale pubblica 
+ 
+1. Gli Istituti Autonomi Case Popolari possono stipulare con gli Enti proprietari convenzioni per la gestione del patrimonio di edilizia residenziale pubblica. Con la convenzione sono disciplinati i compiti di amministrazione e di manutenzione degli alloggi, di contabilizzazione e di riscossione dei canoni di locazione. 
+ 
+2. Le convenzioni di cui al <rif
+                                xlink:href="#art19-com1">comma 1</rif>, per tutta la durata dell'emergenza, possono essere stipulate anche per la gestione degli alloggi acquistati ai sensi della <rif
+                                xlink:href="urn:nir:regione.molise:legge:2003-11-21;34">legge regionale 21 novembre 2003, n. 34</rif>, e destinati alle popolazioni colpite dall'evento sismico del 31 ottobre 2002. 
+ 
+3. Le norme di cui alla <rif
+                                xlink:href="urn:nir:stato:legge:1998-08-04;12">legge 4 agosto 1998, n. 12</rif>, e successive modificazioni, terminata la situazione di emergenza, si applicano anche agli alloggi di cui alla <rif
+                                xlink:href="urn:nir:regione.molise:legge:2003-11-21;34">legge regionale 21 novembre 2003, n. 34</rif>. 
+ 
+4. Al comma 2, secondo rigo, dell'<rif xlink:href="urn:nir:regione.molise:legge:1998-08-04;12#art1">art. 1 della legge regionale 4 agosto 1998, n. 12</rif>, e successive modificazioni, sono cancellate le parole "e al Segretario generale del C.E.R.".</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art20">
+                    <num>Art. 20 </num>
+                    <comma id="art20-com1">
+                        <num/>
+                        <corpo>
+Canoni di locazione del patrimonio di edilizia residenziale pubblica 
+ 
+1. Il canone di locazione, che non può comunque essere inferiore ad un canone minimo calcolato per assicurare la copertura dei costi di gestione degli immobili, è disciplinato con norme regolamentari. 
+ 
+2. Il canone di locazione è diretto a compensare i costi di gestione, compresi gli oneri fiscali, a garantire la manutenzione e l'adeguamento del patrimonio gestito, nonché a contribuire, per la parte eccedente, allo sviluppo di politiche abitative. 
+ 
+3. Le norme regolamentari disciplinano le modalità di calcolo secondo fasce di utenza:</corpo>
+                    </comma>
+                    <comma id="art20-com2">
+                        <num/>
+
+                        <corpo>I) fascia protetta socialmente alla quale si applica un canone commisurato al solo reddito del nucleo familiare; 
+ 
+II) fascia amministrativa alla quale si applica un canone commisurato al reddito per la permanenza e sulla base del valore dell'immobile; 
+ 
+III) fascia di decadenza alla quale si applica un canone maggiorato rispetto a quello di cui al n. III. 
+ 
+4. Gli Istituti Autonomi Case Popolari, i Comuni e gli altri soggetti proprietari o gestori del patrimonio di edilizia residenziale pubblica versano annualmente, a far data dall'entrata in vigore della presente legge, alla Regione il venti per cento dei proventi derivanti da canoni di locazione nonché le parti eccedenti i costi di cui al <rif xlink:href="#art20-com2">comma 2</rif>. La Giunta regionale con proprio atto ne disciplina la riscossione. 
+ 
+5. La Regione provvede al reinvestimento dei proventi nel settore dell'edilizia residenziale pubblica con appositi programmi.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art21">
+                    <num>Art. 21 </num>
+                    <comma id="art21-com1">
+                        <num/>
+
+                        <corpo>
+Realizzazione interventi di edilizia residenziale pubblica 
+ 
+1. Gli interventi previsti dalla programmazione regionale e dai P.O.R. possono essere realizzati da operatori pubblici o privati nonché dai singoli cittadini. Gli Istituti Autonomi Case Popolari possono, previa convenzione, svolgere il ruolo di operatori per conto degli Enti pubblici. 
+ 
+2. I soggetti attuatori presentano annualmente alla Giunta regionale una relazione sullo stato di attuazione dei programmi costruttivi. 
+ 
+3. La struttura regionale competente attua controlli periodici sullo stato di attuazione dei programmi e dà impulso alle procedure di cui all'<rif xlink:href="#art3">art. 3</rif>.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art22">
+                    <num>Art. 22 </num>
+                    <comma id="art22-com1">
+                        <num/>
+
+                        <corpo>
+Bando di concorso per l'assegnazione degli alloggi di edilizia residenziale pubblica e norme di snellimento delle procedure 
+ 
+1. La Giunta regionale adotta, nel rispetto della normativa vigente, un bando tipo per l'assegnazione degli alloggi di edilizia residenziale pubblica. 
+ 
+2. All'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1998-08-04;12#art5-com1">art. 5, comma 1, della legge regionale 4 agosto 1998, n. 12</rif>, e successive modificazioni, è aggiunta la lettera: "g) l'anno fiscale di riferimento che le Commissioni di cui all'<rif
+                                xlink:href="#art9">art. 9</rif> prenderanno in considerazione per la determinazione del reddito fiscalmente imponibile dell'intero nucleo familiare inteso quale requisito per l'assegnazione degli alloggi". 
+ 
+3. L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1998-08-04;12#art9">art. 9 della legge regionale 4 agosto 1998, n. 12</rif>, e successive modificazioni, è sostituito dal seguente: 
+ 
+"1. La graduatoria è predisposta da commissioni nominate con decreto dell'Assessore regionale competente per materia. 
+ 
+2. Le Commissioni con competenza territoriale provinciale hanno sede presso gli Istituti Autonomi Case Popolari, quelle con competenza territoriale comunale presso i Comuni con popolazione superiore a ventimila abitanti. Le segreterie operative delle Commissioni sono formate da due dipendenti degli Istituti Autonomi Case Popolari o del Comune, designati, rispettivamente, dal Presidente o dal Sindaco. 
+ 
+3. Le Commissioni sono così composte: 
+ 
+- dal dirigente regionale responsabile della struttura competente in materia di edilizia residenziale pubblica sovvenzionata o da un dirigente che ha diretto tale struttura per almeno cinque anni, con funzioni di Presidente; 
+ 
+- da un dipendente regionale appartenente alla struttura competente per materia, con funzioni di vice Presidente, designato dal dirigente del Servizio Edilizia Residenziale; 
+ 
+- da un rappresentante delle organizzazioni sindacali dei lavoratori dipendenti più rappresentative a livello nazionale, scelto tra quelli designati dalle medesime; 
+ 
+- da un dipendente dell'Istituto Autonomo Case Popolari nel cui ambito territoriale sorgono gli alloggi da assegnare, designato dal relativo Presidente; 
+ 
+- per i Comuni inferiori a ventimila abitanti da un dipendente ove ricadono gli alloggi da assegnare, designato di volta in volta dal Sindaco; 
+ 
+- per i Comuni superiori a ventimila abitanti da un dipendente designato dal Sindaco. 
+ 
+4. Il Presidente e gli altri componenti durano in carica cinque anni dalla nomina. Quarantacinque giorni prima della scadenza il dirigente del Servizio Edilizia Residenziale provvede a richiedere le designazioni che devono essere effettuate entro venti giorni. In mancanza di designazioni l'Assessore regionale competente per materia provvede alla nomina, sentito il dirigente responsabile del Servizio Edilizia Residenziale, entro e non oltre quarantacinque giorni successivi alla scadenza. Durante il periodo della prorogatio possono essere adottati esclusivamente gli atti di cui all'<rif
+                                xlink:href="urn:nir:stato:legge:1994-07-15;444#art3">art. 3 della legge 15 luglio 1994, n. 444</rif>. 
+ 
+5. Ai componenti delle Commissioni viene attribuito un compenso pari a quello determinato ai sensi dell'<rif xlink:href="urn:nir:regione.molise:legge:1992-05-26;15#art37">art. 37 della legge regionale 26 maggio 1992, n. 15</rif>. Al segretario della Commissione viene attribuito un compenso pari al 75% di quello dei componenti. L'onere finanziario per il funzionamento della Commissione è a carico dei Comuni ed è calcolato a cura della Segreteria".</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art23">
+                    <num>Art. 23 </num>
+                    <comma id="art23-com1">
+                        <num/>
+
+                        <corpo>
+Punteggi per l'inclusione nelle graduatorie 
+ 
+1. Ai richiedenti l'alloggio di edilizia residenziale pubblica che occupino un'abitazione impropria da almeno un anno, con attestazione dell'Ufficio tecnico comunale e dell'autorità sanitaria competente, è attribuito un punteggio pari a 1. Per abitazione impropria si intende qualsiasi costruzione non in regola con le norme sull'edificazione per civile abitazione e comunque prive di abitabilità o di agibilità. 
+ 
+2. Il punto b-3) della lettera B) condizioni oggettive dell'allegato "A" alla <rif
+                                xlink:href="urn:nir:regione.molise:legge:1998-08-04;12">legge regionale 4 agosto 1998, n. 12</rif>, e successive modificazioni, è sostituito dal seguente: "b-3) ai richiedenti che abitino in alloggio privo di servizi igienici propri regolamentari come da Decreto del Ministero della Sanità 5 luglio 1975 e successive modifiche, dietro presentazione di attestato rilasciato da parte delle autorità sanitarie competenti, è attribuito un punteggio non superiore a 2 se manca del tutto il servizio o se mancano tre elementi essenziali, non superiore a 1 se mancano meno di tre elementi". 
+ 
+3. Il punto b-4) della lettera B) condizioni oggettive della tabella "A" allegata alla <rif
+                                xlink:href="urn:nir:regione.molise:legge:1998-08-04;12">legge regionale 4 agosto 1998, n. 12</rif>, e successive modificazioni, tra le parole 'provvedimento esecutivo di sfratto" e "che non sia stato intimato" sono inserite le parole: "che abbia ancora efficacia esecutiva qualunque sia il momento in cui è stato adottato". 
+ 
+4. Il punto c-2) della lettera C) condizioni aggiuntive della tabella "A" allegata alla <rif
+                                xlink:href="urn:nir:regione.molise:legge:1998-08-04;12">legge regionale 4 agosto 1998, n. 12</rif>, e successive modificazioni, è sostituito con il seguente: "richiedenti che abitino in un alloggio il cui canone di locazione incida sul reddito imponibile annuo complessivo di tutti i componenti il nucleo familiare, in presenza comunque di un reddito sufficiente a coprire il canone, determinato secondo il dettato dell'art. 2, comma 1, lettera e), con esclusione del calcolo ai sensi dell'<rif
+                                xlink:href="urn:nir:stato:legge:1978-08-05;457#art21">art. 21 della legge 5 agosto 1978, n. 457</rif>, e successive sostituzioni e modificazioni, in misura del 25% al 35%, punti 1, oltre il 35%, punti 2. Il punteggio non va attribuito qualora il richiedente abbia usufruito nell'anno precedente quello del bando di concorso della concessione di un contributo per il pagamento del canone di locazione ai sensi dell'<rif
+                                xlink:href="urn:nir:stato:legge:1998-12-09;431#art11">art. 11 della legge 9 dicembre 1998, n. 431</rif>, e successive modificazioni". 
+ 
+5. I termini previsti dall'<rif xlink:href="urn:nir:regione.molise:legge:1998-08-04;12#art10">art. 10 della legge regionale 4 agosto 1998, n. 12</rif>, e successive modificazioni, per la formazione delle graduatorie devono intendersi ordinatori.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art24">
+                    <num>Art. 24 </num>
+                    <comma id="art24-com1">
+                        <num/>
+
+                        <corpo>
+Requisiti per l'assegnazione degli alloggi di edilizia residenziale pubblica 
+ 
+1. Il titolare di diritti di proprietà colpiti da eventi calamitosi o il cui stato di conservazione sia considerato scadente e privo dei servizi essenziali, purché sussistano gli altri requisiti previsti dall'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1998-08-04;12#art2">art. 2 della legge regionale 4 agosto 1998, n. 12</rif>, e successive modificazioni, può conseguire l'assegnazione di un alloggio di edilizia residenziale pubblica in presenza di ordinanza di sgombero e comunque solo per la durata della validità di quest'ultima. 
+ 
+2. I Comuni all'atto della formazione del bando di concorso per accedere agli alloggi di edilizia residenziale pubblica prevedono un limite minimo vitale di reddito annuo complessivo imponibile del nucleo familiare, rapportato al numero dei componenti, purché tale limite non sia superiore alla terza classe di reddito di cui alle condizioni soggettive punto a-1) della Tabella "A" allegata alla <rif
+                                xlink:href="urn:nir:regione.molise:legge:1998-08-04;12">legge regionale 4 agosto 1998, n. 12</rif>, e successive modificazioni, moltiplicata per il numero dei componenti il nucleo familiare medesimo. 
+ 
+3. Il limite di cui al comma 2 non costituisce motivo di esclusione dalla partecipazione al bando di concorso, purché il richiedente dimostri i mezzi di sostentamento del proprio nucleo familiare. La Commissione competente alla formazione della graduatoria può assumere informazioni al riguardo presso gli Uffici comunali di residenza e presso qualsiasi altro organismo ritenuto idoneo ai fini dell'accertamento. 
+ 
+4. Tra i requisiti per l'assegnazione sono annoverati quello dell'assenza di precedenti assegnazioni di alloggio adeguato al proprio nucleo familiare e quello di non aver rinunciato ad un alloggio precedentemente assegnato. 
+ 
+5. Ai fini della <rif xlink:href="urn:nir:regione.molise:legge:1998-08-04;12">legge regionale 4 agosto 1998, n. 12</rif>, e successive modificazioni, per nucleo familiare si intende la famiglia costituita dalla persona singola, dai coniugi e dai figli legittimi, naturali, riconosciuti ed adottivi, dagli affiliati con loro conviventi e dai minori in affido. Fanno altresì parte del nucleo familiare, purché conviventi, gli ascendenti, i discendenti, i collaterali fino al 3° grado e gli affini fino al 2° grado. Le persone non legate da vincoli di parentela o affinità, ancorché conviventi, sono incluse nel nucleo solo qualora la convivenza sia finalizzata alla reciproca assistenza morale e materiale e sia instaurata da almeno due anni alla data del bando di concorso.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art25">
+                    <num>Art. 25 </num>
+                    <comma id="art25-com1">
+                        <num/>
+                        <corpo>
+Limiti di reddito per l'accesso 
+ 
+1. Il limite di reddito per l'accesso agli alloggi di edilizia residenziale pubblica è aggiornato biennalmente con determinazione del dirigente responsabile del Servizio regionale competente sulla base della variazione assoluta dell'indice ISTAT dei prezzi al consumo per le famiglie degli operai e degli impiegati. 
+ 
+2. Con le medesime modalità sono aggiornate le classi di reddito del nucleo familiare che attribuiscono un punteggio per la formazione delle graduatorie nonché i limiti di reddito per la permanenza nell'edilizia residenziale pubblica.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art26">
+                    <num>Art. 26 </num>
+                    <comma id="art26-com1">
+                        <num/>
+
+                        <corpo>
+Riserve di alloggi 
+ 
+1. Sia la percentuale che la/e situazione/i di emergenza abitativa previste dall'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1998-08-04;12#art16">art. 16 della legge regionale 4 agosto 1998, n. 12</rif>, e successive modificazioni, devono trovare collocazione nel bando di concorso. I riservatari sono inseriti nella graduatoria generale secondo il proprio punteggio assegnato dalla Commissione. 
+ 
+2. In mancanza di domande da parte di coloro che si trovino nella/e situazione/i di emergenza gli alloggi riservati vanno assegnati a favore di coloro che sono collocati utilmente nella graduatoria generale. 
+ 
+3. L'assegnazione provvisoria può essere fatta dal Sindaco nell'ambito della riserva solo dopo la pubblicazione del bando di concorso. 
+ 
+4. L'assegnazione provvisoria a favore delle categorie di cui alla lettera c) del comma 1 della <rif
+                                xlink:href="urn:nir:regione.molise:legge:1998-08-04;12">legge regionale 4 agosto 1998, n. 12</rif>, e successive modificazioni, può essere fatta solo dopo la formulazione della graduatoria generale e nel rispetto della stessa. 
+ 
+5. Ai fini della partecipazione alla riserva delle categorie di cui alla lettera c) del comma 1 della <rif
+                                xlink:href="urn:nir:regione.molise:legge:1998-08-04;12">legge regionale 4 agosto 1998, n. 12</rif>, e successive modificazioni, si prescinde dal requisito del reddito inteso quale limite di accesso. 
+ 
+6. La lettera c) dell'art. 16, <rif
+                                xlink:href="#art26-com1">comma 1</rif>, della <rif xlink:href="urn:nir:regione.molise:legge:1998-08-04;12">legge regionale 4 agosto 1998, n. 12</rif>, e successive modificazioni, è sostituita dalla seguente: "c) appartenenti alle forze dell'ordine, alle forze armate, al corpo degli agenti di custodia, al corpo dei vigili del fuoco e al corpo forestale dello Stato".</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art27">
+                    <num>Art. 27 </num>
+                    <comma id="art27-com1">
+                        <num/>
+
+                        <corpo>
+Alloggi per studenti universitari 
+ 
+1. All'<rif xlink:href="urn:nir:regione.molise:legge:1998-08-04;12#art4">art. 4 della legge regionale 4 agosto 1998, n. 12</rif>, e successive modificazioni, è aggiunto il seguente comma 6: "La Giunta regionale è autorizzata ad emanare apposito regolamento contenente norme per l'assegnazione di alloggi a studenti universitari realizzati con programmi di Edilizia residenziale pubblica. Con lo stesso regolamento sono determinati i requisiti ed i relativi canoni di locazione".</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art28">
+                    <num>Art. 28 </num>
+                    <comma id="art28-com1">
+                        <num/>
+                        <corpo>
+Accertamento dei requisiti 
+ 
+1.Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:1998-08-04;12#art27-com1">primo comma dell'art. 27 della legge regionale 4 agosto 1998, n. 12</rif>, e successive modificazioni, è sostituito dal seguente: "La situazione reddituale e la permanenza dei requisiti sono accertati annualmente dal soggetto gestore degli alloggi anche attraverso la richiesta all'assegnatario di informazioni e di documentazione. L'accertamento opera sulla base della situazione degli assegnatari relativa all'anno precedente. In caso di perdita dei requisiti per due anni consecutivi il soggetto gestore, tramite il Comune ove sono ubicati gli alloggi, trasmette la documentazione alla Commissione competente di cui all'<rif xlink:href="#art9">art. 9</rif> per la verifica della perdita dei requisiti".</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit5">
+                <num>TITOLO V </num>
+                <rubrica>
+ 
+NORME FINALI E TRANSITORIE 
+ 
+</rubrica>
+                <articolo id="art29">
+                    <num>Art. 29 </num>
+                    <comma id="art29-com1">
+                        <num/>
+                        <corpo>
+                            <mod
+                                    id="art29-com1-mod1">
+Abrogazioni 
+ 
+1. Sono abrogate tutte le norme contenute nelle leggi regionali in materia di edilizia residenziale pubblica incompatibili con la presente legge. 
+ 
+2. È abrogata la <rif xlink:href="urn:nir:regione.molise:legge:1982-01-20;8">legge regionale 20 gennaio 1982, n. 8</rif>.</mod>
+                        </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art30">
+                    <num>Art. 30 </num>
+                    <comma id="art30-com1">
+                        <num/>
+
+                        <corpo>
+Norma transitoria 
+ 
+1. Le graduatorie in corso di formazione alla data di entrata in vigore della presente legge seguono la normativa in vigore al momento dell'emanazione del bando di concorso. 
+ 
+2. La composizione delle Commissioni per la formazione delle graduatorie, è revisionata entro trenta giorni dall'entrata in vigore della presente legge. 
+ 
+3. Fino all'adozione delle norme regolamentari, delle direttive e degli atti previsti dalla presente legge si applica la normativa vigente. 
+ 
+4. I soggetti proprietari o gestori degli alloggi di edilizia residenziale pubblica, dall'entrata in vigore della presente legge, accantonano la percentuale dei canoni nonché le parti eccedenti di cui all'art. 20, comma 4. fino a quando la Giunta regionale non ne disciplina la riscossione. 
+ 
+5. L'<rif xlink:href="#art22">art. 22</rif> si applica anche alle Commissioni in carica al momento dell'entrata in vigore della presente legge.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art31">
+                    <num>Art. 31 </num>
+                    <comma id="art31-com1">
+                        <num/>
+
+                        <corpo>
+Regolarizzazioni 
+ 
+1.  Gli Enti gestori possono disporre la regolarizzazione dell'assegnazione nei confronti di coloro che alla data di entrata in vigore della presente legge occupano senza titolo alloggi, abitabili e ultimati, di edilizia residenziale pubblica a condizione che entro centoventi giorni le Commissioni di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1998-08-04;12#art9">art. 9 della legge regionale 4 agosto 1998, n. 12</rif>, e successive modificazioni, verifichino il possesso dei requisiti degli occupanti.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art32">
+                    <num>Art. 32 </num>
+                    <comma id="art32-com1">
+                        <num/>
+
+                        <corpo>
+Norme finanziarie 
+ 
+1. Al finanziamento degli oneri di natura corrente per l'attuazione degli articoli <rif
+                                xlink:href="#art32-com1">1, comma</rif> 3, lett. h) e 5, comma 7, si fa fronte inizialmente mediante l'utilizzo di quota parte delle risorse disponibili provenienti dagli accordi di programma in materia di edilizia residenziale pubblica di cui al <rif
+                                xlink:href="urn:nir:stato:decreto.legislativo:1998-03-31;112">decreto legislativo 31 marzo 1998, n. 112</rif>, successivamente con fondi appositamente stanziati dalla legge annuale di bilancio. 
+ 
+2. Al finanziamento degli interventi dalla presente legge si fa fronte con le risorse di cui all'unità revisionale di base 310 del bilancio regionale, con i fondi residui in materia di edilizia residenziale pubblica, con quelli reperibili attraverso l'attuazione dell'<rif xlink:href="#art20">art. 20</rif> della presente legge e l'alienazione degli alloggi, nonché con ogni altra risorsa reperibile finalizzata all'edilizia residenziale pubblica.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art33">
+                    <num>Art. 33 </num>
+                    <comma id="art33-com1">
+                        <num/>
+                        <corpo>
+Entrata in vigore 
+ 
+1. La presente legge entra in vigore il giorno successivo  a quello della sua pubblicazione.</corpo>
+                    </comma>
+                    <comma id="art33-com2">
+                        <num/>
+                        <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

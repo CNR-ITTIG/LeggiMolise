@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19950421" num="9" tipo="BURM"/>
+                <entratainvigore norm="19950506"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1995-04-21;16"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="06.Consiglieri regionali e gruppi consiliari"/>
+                </materie>
+            </descrittori>
+        </meta><?error 06.Consiglieri regionali e gruppi consiliari 
+ 
+Bollettino 
+Bollettino Ufficiale n. 09 del 21/04/95 
+ 
+Oggetto 
+Trattamento previdenziale dei Consiglieri regionali 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19950421">21 Aprile 1995</dataDoc>, n. <numDoc>16</numDoc>
+            <titoloDoc>Regime degli assegni vitalizi dei Consiglieri Regionali - Integrazioni. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art1-com1-mod1"> All'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1988-04-13;10#art10">art. 10 della legge regionale 13 aprile 1988, n. 10</rif>, come sostituito dall'art. 6 della legge regionale approvata dal Consiglio Regionale il 1° marzo 1995, concernente &lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir1" tipo="struttura"><?error Regime degli assegni vitalizi dei Consiglieri regionali. 
+ 
+Modifiche ed integrazioni alla legge regionale 13 aprile 1988, n. 10 , sono aggiunti i seguenti commi: 
+ 
+3. Per i soggetti di cui al comma 1 qualora il decesso si verifichi prima che sia stata raggiunta l'et&#xE0; richiesta per l'attribuzione dell'assegno vitalizio, ma tuttavia sia stata completata la corresponsione dei contributi previdenziali obbligatori, l'assegno di reversibilit&#xE0; &#xE8; corrisposto con decorrenza dal primo giorno del mese successivo a quello del decesso. 
+ 
+4. Per i soggetti di cui al comma 1 qualora il decesso si verifichi prima che sia stata completata la   corresponsione dei contributi previdenziali obbligatori, ma la contribuzione sia stata effettuata per almeno trenta mesi, i beneficiari, ai fini dell'attribuzione dell'assegno di reversibilit&#xE0;, comunque decorrente dal primo giorno del mese successivo a quello del decesso, hanno facolt&#xE0; di versare in un'unica soluzione la somma corrispondente alle mensilit&#xE0; mancanti per il completamento del quinquennio contributivo. 
+ 
+?>
+                                <articolo id="art0">
+                                    <num>Art. 2 </num>
+                                    <rubrica/>
+                                    <comma id="art0-com1">
+                                    <num>
+1.</num>
+                                    <corpo> La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. </corpo>
+                                    </comma>
+                                    <comma id="art0-com2">
+                                    <num>
+ 
+2.</num>
+                                    <corpo> È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette><?error Marker Warning 106?>
+                        </mod>
+                    </corpo>
+                </comma>
+            </articolo><?error Marker Warning 105?>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

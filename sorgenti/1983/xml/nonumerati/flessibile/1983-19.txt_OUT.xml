@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19830201" num="2" tipo="BURM"/>
+                <entratainvigore norm="19830216"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1983-01-17;4"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="23.Ordinamento sportivo e promozione dello sport"/>
+                </materie>
+            </descrittori>
+        </meta><?error 23.Ordinamento sportivo e promozione dello sport 
+ 
+Bollettino 
+Bollettino Ufficiale n. 02 del 01/02/83 
+ 
+Oggetto 
+Impianti e attrezzature sportive - Contributi - Modifiche 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 26/1990 art. 17 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19830117">17 Gennaio 1983</dataDoc>, n. <numDoc>4</numDoc>
+            <titoloDoc>Modifica all'<rif xlink:href="urn:nir:regione.molise:legge:1977-11-09;39#art9">art. 9 della legge regionale 9 novembre 1977, n. 39</rif>: &lt;&lt; Interventi regionali per manifestazioni ed attività sportive e per la costruzione, ampliamento e miglioramento di impianti ed attrezzature sportive &gt;&gt; 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 26/1990 art. 17</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2004-11-11;26"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="35.Tributi"/>
+                </materie>
+            </descrittori>
+        </meta><?error 35.Tributi 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x96; N. 23 dell' 11 novembre  2004 
+ 
+Oggetto 
+Tassa automobilistica regionale e sovrattassa annale regionale su taluni autoveicoli azionati con motore diesel- Aumento per l'anno 2005 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20041111">11 novembre 2004</dataDoc>, n. <numDoc>26</numDoc>
+            <titoloDoc>Aumento per l'anno 2005 degli importi della tassa automobilistica regionale e della sovrattassa annuale su taluni autoveicoli azionati con motore diesel. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Gli importi della tassa automobilistica regionale e della soprattassa annuale regionale su taluni autoveicoli azionati con motore diesel, di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1992-12-30;504#art23">articolo 23 del decreto legislativo 30 dicembre 1992, n. 504</rif>, dovuti dal 1° gennaio 2005 e relativi a periodi fissi posteriori a tale data, sono determinati con l'aumento del 7 per cento dei corrispondenti importi in vigore nell'anno 2004. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

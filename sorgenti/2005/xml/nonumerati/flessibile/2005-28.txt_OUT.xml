@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2005-05-27;25"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="18.Lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa"/>
+                </materie>
+            </descrittori>
+        </meta><?error 18.Lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 12 del 1 giugno 2005 
+ 
+Oggetto 
+Lavoratori disoccupati in et&#xE0; matura - Maturazione diritti pensionistici - Interventi 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20050527">27 maggio 2005</dataDoc>, n. <numDoc>25</numDoc>. 
+ 
+<titoloDoc>Interventi a sostegno della posizione pensionistica degli ex lavoratori disoccupati in età matura. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+(Finalità) 
+ 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>1. La Regione Molise promuove e favorisce l'attuazione di interventi volti a sostenere la maturazione dei diritti pensionistici di tutti i soggetti beneficiari della presente legge. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+(Soggetti beneficiari) 
+ 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+                    <alinea>1. Sono destinatari degli interventi di cui alla presente legge i cittadini italiani e le cittadine italiane residenti sul territorio del Molise che: 
+ 
+</alinea>
+                    <el id="art2-com1-leta">
+                        <num>a)</num>
+                        <corpo> hanno età superiore ai 45 anni;</corpo>
+                    </el>
+                    <el id="art2-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> sono ex lavoratori privi di qualsiasi rapporto di lavoro o attività lavorativa, dipendente o autonoma;</corpo>
+                    </el>
+                    <el id="art2-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> hanno maturato un periodo di contribuzione previdenziale superiore ai 25 anni, ma non hanno ancora maturato i requisiti necessari per acquisire il diritto alla pensione;</corpo>
+                    </el>
+                    <el id="art2-com1-letd">
+                        <num> 
+ 
+d)</num>
+
+                        <corpo> fanno parte di una famiglia anagrafica la cui situazione complessiva, calcolata secondo ISEE di cui al <rif xlink:href="urn:nir:stato:decreto.legislativo:1998;109">Decreto Legislativo n. 109/1998</rif> e successive modifiche e integrazioni, è inferiore a 40.000 euro all'anno. </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+(Interventi) 
+ 
+</rubrica>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>1. La Regione Molise, a fine di sostenere la maturazione dei diritti pensionistici dei soggetti beneficiari, costituisce un apposito Fondo per il versamento agli Enti Previdenziali dei contributi di quei soggetti che facciano richiesta di accedere ai benefici della presente legge. 
+ 
+2. L'importo del contributo versato dal Fondo per ciascun soggetto beneficiario è pari al valore contributivo versato nell'ultimo anno di lavoro, aggiornato in base alla dinamica salariale e calcolato sulla base dell'intero anno lavorativo, e non può essere superiore al valore corrispondente ad un reddito pari a 30.000 euro annui.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+(Procedure) 
+ 
+</rubrica>
+                <comma id="art4-com1">
+                    <num/>
+                    <alinea>1. L'accesso al Fondo di cui alla presente legge è regolato da una graduatoria che viene compilata in base ai seguenti criteri, elencati in ordine di priorità applicativa: 
+ 
+</alinea>
+                    <el id="art4-com1-leta">
+                        <num>a)</num>
+                        <corpo> Prossimità alla pensione;</corpo>
+                    </el>
+                    <el id="art4-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> Situazione economica complessiva;</corpo>
+                    </el>
+                    <el id="art4-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> Appartenenza alle fasce deboli della popolazione. </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+(Commissione) 
+ 
+</rubrica>
+                <comma id="art5-com1">
+                    <num/>
+                    <alinea>1. La Regione Molise costituisce un'apposita Commissione a cui viene assegnato il compito di: 
+ 
+</alinea>
+                    <el id="art5-com1-leta">
+                        <num>a)</num>
+                        <corpo> compilare annualmente, sulla base del complesso delle richieste di accesso ai benefici della presente legge, la graduatoria di cui all'articolo precedente e verificare i requisiti necessari ad essere ammessi ai benefici della presente legge;</corpo>
+                    </el>
+                    <el id="art5-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> elaborare proposte di intervento al fine di agevolare il reinserimento nel mondo del lavoro dei soggetti beneficiari della presente legge;</corpo>
+                    </el>
+                    <el id="art5-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> nello svolgimento delle sue attività, la Commissione lavorerà anche in contatto con le Associazioni di settore che a vario titolo raggruppano i soggetti di cui alla presente legge. </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+(Osservatorio regionale) 
+ 
+</rubrica>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo>1. Al fine di attivare il costante monitoraggio del fenomeno dell'espulsione dal lavoro dei soggetti in età matura, la Regione provvede alla raccolta, aggiornamento e analisi dei dati, alle conseguenti elaborazioni statistiche e allo studio delle problematiche connesse al fenomeno in questione. 
+ 
+2. Compito dell'Osservatorio è anche quello di operare affinché venga data la più ampia informazione ai cittadini e cittadine molisane sulla possibilità di accedere ai benefici della presente legge.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+(Norma finanziaria) 
+ 
+</rubrica>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo>1. Gli interventi previsti dalla presente legge sono finanziati mediante apposito stanziamento dell'ambito della misura POR 2000/2006 A.3 (3.3) "inserimento e reinserimento nel mondo del lavoro di uomini e donne fuori dal mercato del lavoro" da più di sei o di dodici mesi, con l'istituzione di un apposito capitolo di bilancio denominato: "interventi a sostegno della posizione pensionistica degli ex lavoratori in età matura" all'interno dell'U.P.B. 305 capitolo 39771. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>
+ 
+(Pubblicazione) 
+ 
+</rubrica>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo>1. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error 2. &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

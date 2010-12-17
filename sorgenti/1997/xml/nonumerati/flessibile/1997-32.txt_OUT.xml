@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19970301" num="5" tipo="BURM"/>
+                <entratainvigore norm="19970316"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1997-02-21;2"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 05 del 01/03/97 
+ 
+Oggetto 
+Aziende sanitarie locali - Organizzazione 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale  </tipoDoc>
+            <dataDoc norm="19970221">21 Febbraio 1997</dataDoc>, n. <numDoc>2</numDoc>
+            <titoloDoc>Organizzazione generale delle Aziende Sanitarie Locali (ASL) 
+ 
+Titolo I: ORGANIZZAZIONE GENERALE DELLA ASL 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: PRINCIPI GENERALI 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo> 
+1. L'Azienda Unità Sanitaria Locale (ASL) assicura l'erogazione dei livelli uniformi di assistenza, in coerenza con l'entità del finanziamento erogato dal Servizio sanitario nazionale. A tale scopo ciascuna ASL definisce la propria organizzazione con il Regolamento generale, nel rispetto del   profilo organizzativo stabilito dalla presente legge, tenuto conto del fabbisogno complessivo dei servizi espresso dal territorio. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+                <rubrica>: PROFILO ORGANIZZATIVO 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo> 
+1. Per il conseguimento della finalità di cui al <rif xlink:href="urn:nir:stato:decreto.legislativo:1992;502">D. Lgs.502/92</rif> e successive modificazioni, la ASL si organizza in strutture operative, unità operative. 
+ 
+2. La struttura operativa è dotata di funzioni autonome e può comprendere più unità operative.   L'unità operativa è dotata di funzioni sanitarie, amministrative e sociali, in presenza di delega, e costituisce   l'unità base dell'organizzazione dell'Azienda USL, nonché centro di responsabilità ai fini del controllo di gestione economico-finanziario quando ricorrano gli estremi di cui all'art 30, 3° comma della L.R. (contabilità). 
+ 
+3. Ciascuna struttura e unità operativa ha un unico responsabile dal quale dipendono tutti gli operatori ad essa assegnati e costituisce un centro di responsabilità, con un proprio budget. I responsabili delle strutture e delle unità operative rispondono del raggiungimento degli obiettivi nel rispetto del budget assegnato attuando procedure coordinate. I responsabili delle sezioni e degli uffici esercitano autonomia nell'ambito delle direttive impartite dal responsabile dell'unità operativa di riferimento.</corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+                    <corpo>Le sezioni, per le funzioni sanitarie, e gli uffici, per le altre funzioni, costituiscono la successiva articolazione dell'unità operativa e non sono titolate ad assumere direttamente funzioni operative.4. Il responsabile di struttura o unità operative è nominato dal direttore generale con provvedimento motivato, su proposta del direttore sanitario e del direttore ammmistrativo ciascuno per la propria competenza, scelto fra il personale della ASL con qualifica dirigenziale. </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num/>
+
+                    <corpo>Il regolamento della ASL potrà prevedere articolazioni delle unità operative in sezioni, per le funzioni sanitarie, e uffici per le altre funzioni. L'incarico di capo sezione o ufficio è conferito dal dirigente responsabile della unità operativa ad un dipendente individuato tra il personale assegnato alla stessa. 
+ 
+5. Gli incarichi di cui al comma 4 vengono attribuiti tenuto conto dei criteri di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#art19">art. 19 del Decreto Legislativo 3 febbraio 1993, n. 29</rif> e successive modificazioni e nel rispetto di quanto disposto dall'art. 26 comma 2 quinques del medesimo decreto.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3</num>
+                <rubrica>: STRUTTURAZIONE FUNZIONALE 
+</rubrica>
+                <comma id="art3-com1">
+                    <num/>
+
+                    <corpo> 
+1. Al fine di conseguire modalità operative omogenee sul territorio delle ASL e di metterle in relazione tra di loro e con la direzione aziendale, vengono individuate aree funzionali di attività corrispondenti ai livelli assistenziali previsti nel Piano sanitario nazionale. Le attività riferite a tali aree vengono individuate nelle strutture e unità operative, che costituiscono centro di responsabilità. 
+ 
+2. Il Dipartimento è la struttura funzionale tecnico-operativa che comprende le strutture e/o unità operative secondo principi di omogeneità delle funzioni svolte e può essere composto da strutture e unità operative della stessa area funzionale o di aree diverse. Una stessa struttura o unità operativa può partecipare a più di un Dipartimento. 
+ 
+3. Le modalità di utilizzazione delle risorse attribuite a ciascun dipartimento sono disciplinate dal documento di direttiva di cui all'art. 9 della legge regionale concernente: 
+ 
+"Norme sull'assetto programmatorio, contabile, gestionale e di controllo delle Aziende Sanitarie Locali (A.S.L.) in attuazione del <rif xlink:href="urn:nir:stato:decreto.legislativo:1992-12-30;502">decreto legislativo 30 dicembre 1992, n. 502</rif> &lt;&lt;Riordino della disciplina in materia sanitaria e successive integrazioni e modificazioni&gt;&gt;" tenuto conto delle funzioni di pertinenza del Dipartimento, nonché di quelle attribuite ai Distretti socio sanitari.</corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <corpo>Titolo II: STRUTTURE OPERATIVE SANITARIE 
+ </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+                <rubrica>: AREE E DIPARTIMENTI 
+</rubrica>
+                <comma id="art4-com1">
+                    <num/>
+                    <alinea> 
+1. Al fine di regolamentare l'organizzazione della ASL, le attività corrispondenti ai livelli assistenziali di cui al Piano sanitario nazionale vengono distinte nelle seguenti aree e   dipartimenti: 
+ 
+</alinea>
+                    <el id="art4-com1-leta">
+                        <num>a)</num>
+                        <corpo> area di prevenzione, che comprende le attività riferite al dipartimento di prevenzione e all'assistenza sanitaria collettiva;</corpo>
+                    </el>
+                    <el id="art4-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> area territoriale, che comprende le attività riferite a: assistenza sanitaria di base, assistenza specialistica territoriale e semiresidenziale, e assistenza sanitaria residenziale;</corpo>
+                    </el>
+                    <el id="art4-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> area ospedaliera;</corpo>
+                    </el>
+                    <el id="art4-com1-letd">
+                        <num> 
+ 
+d)</num>
+
+                        <corpo> area assistenza sociale, che assicura le prestazioni di assistenza sociale, nell'ambito del distretto sanitario di base e in presenza di delega, ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1992;502#art3-com3">art. 3, comma 3, D. Lgs. 502/92</rif>;</corpo>
+                    </el>
+                    <el id="art4-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> area gestionale e amministrativa, cui fanno riferimento le attività di supporto. 
+ 
+2. Le attività amministrative dei dipartimenti sono assicurate dall'area gestionale-amministrativa.</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+                <rubrica>: DIPARTIMENTO DI PREVENZIONE 
+</rubrica>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo> 
+1. Il dipartimento di prevenzione è la struttura tecnico-funzionale della ASL preposta alla promozione della salute della popolazione nel suo complesso. 
+ 
+2. Il dipartimento di prevenzione è articolato, di norma, nei seguenti servizi, costituenti unità operative:</corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num/>
+
+                    <corpo>a) Igiene e sanità pubblica; 
+ 
+b) Prevenzione e sicurezza degli ambienti di lavoro; 
+ 
+c) Igiene degli alimenti e della nutrizione; 
+ 
+d) Veterinaria, articolata distintamente nelle tre aree funzionali della sanità animale, dell'igiene delle produzioni, trasformazione, commercializzazione, conservazione e trasporto degli alimenti di origine animale e loro derivati, e dell'igiene degli allevamenti e delle produzioni zootecniche. 
+ 
+3. Al dipartimento di prevenzione è preposto un responsabile, nominato dal direttore generale, su proposta del direttore sanitario e scelto tra i  responsabili di unità operativa di cui al <rif xlink:href="#art5-com2">comma 2</rif>. Il responsabile del dipartimento di prevenzione conserva di norma la direzione della propria unità operativa. 
+ 
+4. Il responsabile del dipartimento di prevenzione sovrintende all'assetto organizzativo complessivo della struttura, integrando obiettivi, azioni, risorse, professionalità e strategie attuative delle diverse unità operative con azione di pianificazione, coordinamento e controllo. In particolare, il responsabile del dipartimento di prevenzione:</corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num/>
+
+                    <corpo>a) gestisce il budget e l'assegnazione delle quote alle unità operative secondo modalità definite dal documento di direttive del direttore generale (art. 9 legge regionale . . .(contabilità) ); 
+ 
+b) coordina l'assegnazione di specifiche attività a livello distrettuale con l'individuazione del budget corrispondente, di intesa con il responsabile del distretto territorialmente competente; 
+ 
+c) supervisiona le attività inerenti i flussi informativi del dipartimento e delle unità operative e il loro controllo; 
+ 
+d) assicura il coordinamento tra il dipartimento di prevenzione e l'Agenzia regionale di cui alla <rif xlink:href="urn:nir:stato:legge:1994;61">legge 61/94</rif>. 
+ 
+5. Il responsabile del Dipartimento di Prevenzione risponde al Direttore Generale per i risultati di gestione e per i risultati sanitari al Direttore Sanitario.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6</num>
+                <rubrica>: AREA TERRITORIALE 
+</rubrica>
+                <comma id="art6-com1">
+                    <num/>
+                    <alinea> 
+1. L'area delle attività territoriali è preposta: 
+ 
+</alinea>
+                    <el id="art6-com1-leta">
+                        <num>a)</num>
+                        <corpo> alla promozione della salute mediante attività di educazione sanitaria, medicina preventiva individuale, diagnosi, cura e riabilatazione di primo livello e di pronto intervento;</corpo>
+                    </el>
+                    <el id="art6-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> ad accertare e trattare in sede ambulatoriale, domiciliare e semiresidenziale le condizioni morbose e le inabilità nei confronti dei cittadini, ivi compresi quelli diretti alla tutela della salute materno-infantile e della prevenzione, diagnosi e terapia del disagio psichico e degli stati di tossicodipendenza e ad attività indirizzate al recupero dei soggetti non autosufficienti, al recupero e reinserimento sociale dei soggetti dipendenti da sostanze stupefacenti e la prevenzione dell'aggravamento del danno funzionale. </corpo>
+                    </el>
+                </comma>
+                <comma id="art6-com2">
+                    <num/>
+                    <corpo>Le relative attività vengono svolte dal distretto sanitario per il territorio di propria competenza. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7</num>
+                <rubrica>: AREA OSPEDALIERA 
+</rubrica>
+                <comma id="art7-com1">
+                    <num/>
+
+                    <corpo> 
+1. L'ospedale è la struttura tecnico - funzionale mediante la quale la ASL assicura l'assistenza ospedaliera in modo da garantire a tutta la popolazione assistita dal Servizo sanitario nazionale l'accesso ai ricoveri ospedalieri in tutti quei casi in cui non sia possibile intervenire in ambito ambulatoriale e/o domiciliare. Nelle ASL in cui sussistono più ospedali, essi sono integrati funzionalmente in un unico presidio. 
+ 
+2. Le attività connesse al presidio ospedaliero sono svolte attraverso unità operative di diagnosi e cura, corrispondenti a quanto individuato nel Piano sanitario regionale. 
+ 
+3. I presidi ospedalieri sono dotati di autonomia economico finanziaria e gestionale, mediante l'attribuzione, da parte del direttore generale dell' ASL, di uno specifico budget, che è determinato tenendo conto dell'attività svolta. I presidi ospedalieri hanno una contabilità separata all'interno del bilancio dell'ASL. 
+ 
+4. Fermo restando le competenze attribuite al dirigente medico e al dirigente amministrativo dall'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1992;502#art4-com9">art. 4, comma 9 del D. Lgs. 502/92</rif> e successive modificazioni, il direttore generale affida al dirigente medico, la responsabilità gestionale del presidio ospedaliero e del relativo budget e al dirigente amministrativo l'esercizio delle funzioni di coordinamento amministrativo. Gli incarichi vengono attribuiti tenuto conto dei criteri di cui agli artt.19 e 26 comma 2 - quinques <rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29">Decreto   Legislativo 3 febbraio 1993, n. 29</rif> e successive modificazioni. 
+ 
+5. Il dirigente medico del presidio ospedaliero risponde per i risultati di gestione al Direttore Generale, per quelli sanitari al Direttore Sanitario; il dirigente amministrativo risponde   direttamente al Direttore Amministrativo, per le funzioni attribuite.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8</num>
+                <rubrica>: AREA ASSISTENZA SOCIALE 
+</rubrica>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo> 
+1. Le funzioni di pertinenza dell'area di assistenza sociale, ove delegate dagli Enti Locali alle Aziende USL, vengono esercitate dalle strutture e unità operative nell' ambito dei distretti. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9</num>
+                <rubrica>: DISTRETTO 
+</rubrica>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo> 
+1. Il distretto è la struttura tecnico - funzionale mediante la quale la ASL assicura una risposta coordinata e continuativa ai bisogni della popolazione. 
+ 
+2. Il distretto, attraverso i medici di medicina generale tutti i servizi della ASL, nonché polo unificante dei servizi sanitari, socio - assistenziali sia in presenza di delega sia attraverso   accordi di programma, previo trasferimento delle risorse finalizzate. 
+ 
+3. Il disrtetto, attraverso i medici di medicina generale e i pediatri di libera scelta, garantisce la continuità dell'assistenza, indipendentemente dalle diverse sedi di trattamento. Il distretto svolge tutte quelle attività sanitarie relative all'assistenza sanitaria collettiva, all'assistenza   specialistica semiresidenziale e territoriale attribuite dai dipartimenti di competenza. Orienta il ricorso all'assistenza ospedaliera, specialistica, protesica e termale e all'assistenza sanitaria residenziale a non autosufficienti e lungodegenti stabilizzati, in base agli indirizzi programmatori e alle direttive impartite dal corrispondente dipartimento. 
+ 
+4. Le attività connesse al distretto vengono svolte, di norma, attraverso le seguenti unità operative:</corpo>
+                </comma>
+                <comma id="art9-com2">
+                    <num/>
+
+                    <corpo>a) assistenza sanitaria di base; 
+ 
+b) assistenza sanitaria specialistica residenziale e semiresidenziale; 
+ 
+c) assistenza sociale, in presenza di delega dagli enti locali.5. Al distretto è preposto un responsabile, nominato dal direttore generale della ASL, su proposta dei direttori sanitario e amministrativo individuato tra il personale dirigente della ASL stessa. Gli incarichi vengono attribuiti tenuto conto dei criteri di cui agli artt. 19 e 26, comma 2, quinques del <rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29">Decreto Legislativo n. 29 del 3 febbraio 1993</rif> e successive modificazioni. 
+ 
+6. Il responsabile del distretto sovraintende all'assetto organizzativo complessivo della struttura, integrando obiettivi, azioni, risorse, professionalità e strategie attuative delle diverse unità operative con azione di pianificazione, coordinamento e controllo. In particolare il responsabile di   distretto:</corpo>
+                </comma>
+                <comma id="art9-com3">
+                    <num/>
+
+                    <corpo>a) gestisce il budget e l'assegnazione delle quote alle unità operative secondo modalità definite dal documento di direttive del direttore generale previsto dall'articolo 9 della legge regionale ad oggetto: " Norme sull'assetto programmatorio, contabile, gestionale e di controllo delle Aziende Sanitarie Locali (A.S.L.) in attuazione del <rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1992-12-30;502">decreto legislativo 30 dicembre 1992, n. 502</rif> &lt;&lt; Riordino della disciplina in materia sanitaria, e successive integrazioni e modificazioni&gt;&gt;"; 
+ 
+b) supervisiona le attività inerenti i flussi informativi delle unità operative e il loro controllo. 
+ 
+7. Al responsabile del distretto viene assegnato un budget in base ai criteri stabiliti dall'art. 9 della legge regionale concernente: " Norme sull'assetto programmatorio, contabile, gestionale e di controllo delle Aziende Sanitarie Locali (A.S.L.) in attuazione del <rif xlink:href="urn:nir:stato:decreto.legislativo:1992-12-30;502">decreto legislativo 30 dicembre 1992, n. 502</rif> &lt;&lt;Riordino della disciplina in materia sanitaria, e successive integrazioni e modificazioni&gt;&gt;" di cui risponde al Direttore Amministrativo della ASL. 
+ 
+8. Il responsabile del distretto risponde per i risultati complessivi di gestione al Direttore Generale, per quelli sanitari al Direttore Sanitario e, ove presente, al Coordinatore dei servizi sociali.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10</num>
+                <rubrica>: DIPARTIMENTI INTERAREA 
+</rubrica>
+                <comma id="art10-com1">
+                    <num/>
+                    <alinea> 
+1. Le ASL, al fine di erogare le prestazioni sanitarie con modalità efficienti e di soddisfare le esigenze di omogenea realizzazione della programmazione sanitaria regionale e locale, possono istituire i seguenti Dipartimenti interarea: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> Dipartimento di salute mentale e delle dipendenze, che assicura attività di prevenzione, diagnosi, terapia, riabilitazione e reinserimento sociale per i portatori di disagio psichico e soggetti alcool e tossico dipendenti allo scopo di assicurare la continuità terapeutica nei presidi territoriali e nelle strutture della ASL: 
+ 
+</corpo>
+                    </ep>
+                    <ep>
+                        <num>-</num>
+
+                        <corpo> Dipartimento materno - infantile, che assicura tutti gli interventi finalizzati alla salvaguardia della salute della donna, alla tutela della maternità, dell'infanzia e dell'età evolutiva; 
+ 
+- Altri dipartimenti previsti nella programmazione sanitaria regionale. 
+ 
+2. Ai Dipartimenti interarea sono preposti responsabili medici nominati dal Direttore Generale, su proposta del Direttore Sanitario e scelti tra i responsabili delle unità operative di cui all'<rif xlink:href="#art2">Art. 2</rif>.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art10-com2">
+                    <num/>
+                    <corpo>I responsabili, di norma, conservano la responsabilità della propria unità operativa. 
+ 
+3. I responsabili dei Dipartimenti sovrintendono al relativo assetto organizzativo, integrando obiettivi azioni, risorse, professionalità e strategie attuative delle diverse unità operative, con azione di pianificazione coordinamento e controllo. In particolare i responsabili dei Dipartimenti   interarea: 
+ 
+- verificano e controllano budget e quote assegnate alle unità operative secondo modalità definite dal documento di direttive di cui all'Art. 9 L.R. (contabilità); 
+ 
+- coordinano l'assegnazione di specifiche attività a livello distrettuale con la individuazione dei budget corrispondenti; 
+ 
+- assicurano la supervisione delle attività inerenti i flussi informativi del Dipartimento e delle unità operative ed il loro controllo. 
+ 
+6. I responsabili dei Dipartimenti rispondono al Direttore Generale per i risultati di gestione.</corpo>
+                </comma>
+                <comma id="art10-com3">
+                    <num/>
+                    <corpo>Titolo III: STRUTTURE OPERATIVE AMMINISTRATIVE 
+ </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11</num>
+                <rubrica>: AREA GESTIONALE E AMMINISTRATIVA 
+</rubrica>
+                <comma id="art11-com1">
+                    <num/>
+                    <corpo> 
+1. L'area gestionale e amministrativa comprende l'attività volta all'organizzazione dei servizi generali amministrativi, tecnici e professionali per l'acquisizione, l'organizzazione e la gestione delle risorse umane, informative, finanziarie, patrimoniali e materiali. 
+ 
+2. L'area gestionale e amministrativa è articolata in struttura organizzativa della direzione generale e struttura amministrativa centrale. La struttura della direzione generale è organizzata in unità operative, collocate in posizione di staff alle dirette dipendenze del direttore generale, di cui si avvalgono anche il direttore sanitario e il direttore amministrativo, per lo svolgimento delle attività di:, controllo di gestione, sistema informativo sanitario, formazione del personale, ricerca e sperimentazione dello sviluppo organizzativo aziendale e rapporti e relazioni con l'utenza,   affari legali.</corpo>
+                </comma>
+                <comma id="art11-com2">
+                    <num/>
+
+                    <corpo>I relativi responsabili delle unità operative vengono nominati direttamente dal Direttore Generale tenuto conto dei criteri di cui all'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#art19">art. 19 Decreto Legislativo 3 febbraio 1993, n.29</rif> e successive modificazioni. 
+ 
+3. A livello centrale vengono individuate le funzioni amministrative relative agli Affari Generali, al Personale, alla Gestione delle risorse finanziarie e del patrimonio, al Bilancio e rilevazioni contabili. In relazione alle dimensioni della ASL e alle soglie operative individuate dal PSR tali funzioni possono essere svolte da unità operative o da uffici gerarchicamente sottoposti a unità operative centrali. Alla costituzione di tali unità operative e all'attribuzione delle relative responsabilità provvede, per regolamento, il direttore generale utilizzando il personale dirigente in servizio con nomina motivata su proposta del Direttore Amministrativo tenuto conto dei criteri   di cui agli artt. 19 e 26 comma 2 - quinques <rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29">Decreto Legislativo 3 febbraio 1993, n. 29</rif> e successive modificazioni.</corpo>
+                </comma>
+                <comma id="art11-com3">
+                    <num/>
+
+                    <corpo>Il Direttore generale per le funzioni relative a competenze professionali, ancorché previste nel <rif
+                            xlink:href="#art11-com2">2[ comma</rif>, conferisce incarichi di consulenza a personale, dipendente ove possibile, con la professionalità richiesta, così come previsto dal <rif xlink:href="urn:nir:stato:decreto.legislativo:1993;29">D. Lgs. 29/1993</rif>. </corpo>
+                </comma>
+                <comma id="art11-com4">
+                    <num/>
+                    <corpo>Titolo IV: NORME FINALI E DI RINVIO 
+ </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12</num>
+                <rubrica>: SOGLIE OPERATIVE 
+</rubrica>
+                <comma id="art12-com1">
+                    <num/>
+                    <corpo> 
+1. Il PSR stabilisce le soglie operative che costituiscono il requisito di riferimento per l'istituzione dell'unità operativa. 
+ 
+2. Il Regolamento della ASL potrà in ogni caso sempre prevedere per il conseguimento della migliore efficacia gestionale: 
+ 
+- l'accorpamento in una unica unità operativa di funzioni afferenti a diverse unità o strutture operative che non raggiungano i requisiti minimi previsti dalle soglie operative per la loro attivazione: 
+ 
+- forme di collaborazione fra più ASL per lo svolgimento di attività riferite a unità operative al disotto delle soglie minime di attivazione previste dal PSR, tramite accordo di programma. 
+ 
+3. La Giunta Regionale può attribuire a specifiche A.S.L. attività multizonali, con particolare riferimento alla Sanità pubblica veterinaria, tenendo conto che il dimensionamento delle A.S.L. non può essere assunto come vincolante per alcuni servizi che richiedono ambiti territoriali più ampi.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13</num>
+                <rubrica>: DOTAZIONI ORGANICHE 
+</rubrica>
+                <comma id="art13-com1">
+                    <num/>
+
+                    <corpo> 
+1. La Giunta Regionale fissa i criteri per la definizione delle dotazioni organiche e degli uffici dirigenziali delle ASL e delle Aziende Ospedaliere, nonché i criteri per l'attuazione della   mobilità del personale che risulti in esubero a seguito della determinazione definitiva della dotazione organica. 
+ 
+2. In attesa della determinazione delle dotazioni organiche ai sensi del <rif
+                            xlink:href="#art13-com1">1° comma</rif> il Direttore Generale della ASL garantisce le attività d'istituto assegnando il personale in dotazione alle varie strutture previste dalla presente legge, sulla base di criteri e modalità definiti nel rispetto dei   principi di cui al <rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29">Decreto Legislativo 3 febbraio 1993, n.29</rif> e successive modificazioni.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14</num>
+                <rubrica>: CONSULENZE ESTERNE 
+</rubrica>
+                <comma id="art14-com1">
+                    <num/>
+
+                    <corpo> 
+1. Il Direttore Generale, ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1993;29#art7-com6">art. 7, comma 6 del D.Lgs. 29/1993</rif>, ove determinate professionalità non siano reperibili all'interno della ASL, può avvalersi di prestazioni di esperti esterni di provata competenza determinando in linea  preventiva la durata, il luogo, l'oggetto, i risultati attesi e il compenso della collaborazione. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>Art.15</num>
+                <rubrica>: REGOLAMENTO GENERALE DI FUNZIONAMENTO 
+</rubrica>
+                <comma id="art15-com1">
+                    <num/>
+
+                    <corpo> 
+1. Il regolamento generale della ASL individua compiti e responsabilità dei dirigenti preposti alle varie unità operative in relazione a quanto previsto dall'<rif xlink:href="urn:nir:stato:decreto.legislativo:1993;29#art3">art. 3 del D. Lgs. 29/1993</rif> nonché gli atti delegabili in relazione alle funzioni previste attribuite al Direttore Generale dalla legge. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>Art. 16</num>
+                <rubrica>: ISTITUTO DELLA DELEGA 
+</rubrica>
+                <comma id="art16-com1">
+                    <num/>
+                    <alinea> 
+1. Il Direttore Generale adotta provvedimenti amministrativi, in quanto atti di alta amministrazione, assunti nell'esercizio di potestà pubblica, nelle seguenti materie: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+
+                        <corpo> Bilancio di previsione pluriennale e sue variazioni; 
+ 
+- bilancio economico e di previsione; 
+ 
+- bilancio di esercizio; 
+ 
+- copertura perdite di esercizio; 
+ 
+- riequilibrio situazione economica; 
+ 
+- determinazione della consistenza quantitativa e qualitativa complessiva del personale e sue variazioni; 
+ 
+- disciplina rapporti con l'Università e IRCCS; 
+ 
+- utilizzo risultato positivo di gestione; 
+ 
+- regolamento di funzionamento; 
+ 
+- nomina del collegio dei revisori; 
+ 
+- nomina del consiglio dei sanitari; 
+ 
+- nomina del Direttore Amministrativo; 
+ 
+- nomina del Direttore Sanitario; 
+ 
+- ogni altro atto attribuito alla esclusiva competenza del Direttore Generale da leggi o regolamenti. 
+ 
+2. Al di fuori delle materie di cui al <rif xlink:href="#art16-com1">comma 1</rif> si rinvia ad atti di organizzazione posti in essere sia dal Direttore Generale, dal Direttore Sanitario e dal Direttore Amministrativo, sia dai dirigenti in rapporto a specifiche deleghe formalmente espresse o previste dal regolamento di funzionamento dell'ASL. 
+ 
+3. Tutti gli atti che rientrano obbligatoriamente nella responsabilità dei dirigenti, in quanto previsti da norme o da disposizioni del Direttore Generale, sono soggetti alle stesse forme di pubblicità previste per gli atti del Direttore Generale, e vanno comunicati ai destinatari specifici dell'atto.</corpo>
+                    </ep>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>Art. 17</num>
+                <rubrica>: NORME FINALI 
+</rubrica>
+                <comma id="art17-com1">
+                    <num/>
+                    <corpo> 
+1. Ai fini dell'attuazione delle disposizioni di cui alla presente legge, la Giunta Regionale può emanare direttive vincolanti nei confronti delle ASL della Regione. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>Art. 18</num>
+                <rubrica>: ABROGAZIONI 
+</rubrica>
+                <comma id="art18-com1">
+                    <num/>
+
+                    <corpo> 
+1. La presente legge abroga le disposizioni contenute negli articoli 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 e 31 della <rif
+                            xlink:href="urn:nir:regione.molise:legge:1980;15">legge regionale 15/1980</rif> e negli articoli 14, 15, 16, 17, 18, 20, 21, 23 e 24 della <rif xlink:href="urn:nir:regione.molise:legge:1979-12-07;35">legge regionale 7 dicembre 1979, n.35</rif>. </corpo>
+                </comma>
+                <comma id="art18-com2">
+                    <num/>
+                    <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

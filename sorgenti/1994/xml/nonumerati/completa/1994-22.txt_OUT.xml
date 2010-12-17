@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19940201" num="3" tipo="BURM"/>
+                <entratainvigore norm="19940216"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1994-01-25;2"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.Agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+36.Turismo e industria alberghiera 
+ 
+Bollettino 
+Bollettino Ufficiale n. 03 del 01/02/94 
+ 
+Oggetto 
+Agriturismo: Attivit&#xE0; incentivi disciplina amministrativa. 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1  
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>del <dataDoc norm="19940125">25 Gennaio 1994</dataDoc>, n. <numDoc>2</numDoc>
+            <titoloDoc>Provvedimenti a favore dell'agriturismo. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error 2. La Regione sostiene, affidandone la realizzazione alle associazioni agrituristiche operanti nella stessa, anche progetti - pilota per iniziative aziendali ed interaziendali a carattere sperimentale. 
+ 
+3. Per le iniziative di cui ai commi 1 e 2, previste nel programma regionale, sono concessi incentivi fino ad un massimo dell'80% della spesa ammissibile. 
+ 
+4. Per le iniziative di cui al comma 1 il contributo non pu&#xF2; essere superiore a L. 8.000.000 per  ciascun soggetto richiedente. Per le iniziative di cui al comma 2 il contributo non pu&#xF2; essere   superiore a L. 80.000.000 per ciascun progetto. 
+
+?>
+    </LeggeRegionale>
+</NIR>

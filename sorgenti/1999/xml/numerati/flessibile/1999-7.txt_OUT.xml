@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19991216" num="23" tipo="BURM"/>
+                <entratainvigore norm="19991231"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1999-12-13;38"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 23 del 16/12/99 
+ 
+Oggetto 
+Agenzia regionale per la protezione ambientale del Molise (ARPAM). Istituzione. Funzioni. Organi. Disciplina. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 3 dalla legge n. 11/2006 art. 3 
+Modificato art. 10 dalla legge n. 11/2006 art. 4 
+Modificato art. 15 dalla legge n. 12/2006 art. 3 
+Modificato art. 20 dalla legge n. 11/2006 art. 5 
+Modificato art. 20 dalla legge n. 14/2007 art. art.1, comma 10 
+Modificato art. 24 dalla legge n. 11/2006 art. 2 
+Modificato art. allegato 1 dalla legge n. 11/2006 art. 1 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="19991213">13 dicembre 1999</dataDoc>, n. <numDoc>38</numDoc>. 
+ 
+<titoloDoc>Istituzione dell'agenzia regionale per la protezione ambientale del Molise (ARPAM) 
+ 
+Il Commissario di Governo ha apposto il visto ed ha annotato quanto segue: 
+ 
+"Al riguardo, il Governo ha preso atto della nota n. 5162 del 9 dicembre 1999 con la quale il Presidente del Consiglio Regionale ha comunicato la rilevazione di un errore materiale ai commi 8 e 13 dell'<rif xlink:href="#art24">art. 24</rif>, in quanto in entrambi la parola "disciplina" non è anticipata dalla preposizione "di" così come doveva essere". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <titolo id="tit1">
+                <num>TITOLO I </num>
+                <rubrica>
+ 
+PRINCIPI GENERALI E COORDINAMENTO CON GLI ENTI LOCALI 
+ 
+</rubrica>
+                <articolo id="art1">
+                    <num>Art.1 </num>
+                    <rubrica>
+ 
+(Oggetto e finalità) 
+ </rubrica>
+                    <comma id="art1-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La Regione, con la presente legge, in attuazione delle disposizioni dell'<rif
+                                xlink:href="urn:nir:stato:decreto.legislativo:1992-12-30;502#art7">art. 7 del decreto legislativo 30 dicembre 1992, n. 502</rif>, e successive modificazioni, del <rif
+                                xlink:href="urn:nir:stato:decreto.legge:1993-12-04;496">decreto legge 4 dicembre 1993, n. 496</rif>, convertito con modificazioni in <rif xlink:href="urn:nir:stato:legge:1994-01-21;61">legge 21 gennaio 1994, n. 61</rif>, riorganizza le strutture preposte ai controlli ambientali e alla prevenzione collettiva, nonché istituisce l'Agenzia Regionale per la Protezione Ambientale del Molise, di seguito denominata ARPAM, e ne disciplina l'organizzazione ed il funzionamento.  </corpo>
+                    </comma>
+                    <comma id="art1-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> La presente legge disciplina altresì le modalità di coordinamento dell'ARPAM con il sistema delle autonomie locali e con il Servizio Sanitario del Molise perseguendo l'obiettivo della massima integrazione sul piano sia programmatico sia tecnico-operativo.  </corpo>
+                    </comma>
+                    <comma id="art1-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> L'ARPAM persegue, tra gli altri, l'obiettivo dell'utilizzo integrato e coordinato delle risorse al fine di conseguire la massima efficacia nell'individuazione e nella rimozione dei fattori di rischio per l'uomo e per l'ambiente. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art2">
+                    <num>Art.2 </num>
+                    <rubrica>
+ 
+(Funzioni della Regione) 
+ </rubrica>
+                    <comma id="art2-com1">
+                        <num>
+1.</num>
+                        <alinea> La Regione, nell'ambito delle proprie funzioni in materia sanitaria e ambientale, provvede in particolare a: 
+ 
+</alinea>
+                        <el id="art2-com1-leta">
+                            <num>a)</num>
+                            <corpo> definire gli obiettivi generali delle attività di prevenzione e di controllo ambientale;</corpo>
+                        </el>
+                        <el id="art2-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> promuovere il più ampio concorso degli Enti locali alla definizione degli obiettivi ed alla programmazione delle attività di prevenzione e di controllo ambientale;</corpo>
+                        </el>
+                        <el id="art2-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> assumere atti di indirizzo e coordinamento;</corpo>
+                        </el>
+                        <el id="art2-com1-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> promuovere la collaborazione con i soggetti operanti nel settore della prevenzione e dei controlli ambientali. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art2-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> L'ARPAM persegue gli obiettivi previsti dalla programmazione nazionale e regionale nel settore della prevenzione collettiva e dei controlli ambientali. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art3">
+                    <num>Art.3 </num>
+                    <rubrica>
+ 
+(Rapponti con gli Enti istituzionali) 
+ </rubrica>
+                    <comma id="art3-com1">
+                        <num>
+1.</num>
+                        <corpo> L'ARPAM assicura agli Enti Locali ed ai Dipartimenti di prevenzione delle Aziende UU.SS.LL. della Regione attività di consulenza e supporto tecnico-scientifico ed analitico.  </corpo>
+                    </comma>
+                    <comma id="art3-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Nelle materie di cui alla presente legge gli Enti locali e le Aziende UU.SS.LL., per l'esercizio delle funzioni di rispettiva competenza, si avvalgono dell'ARPAM. </corpo>
+                    </comma>
+                    <comma id="art3-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Le prestazioni erogate dall'ARPAM di cui ai precedenti commi 1 e 2 sono disciplinate da appositi accordi di programma e convenzioni.  </corpo>
+                    </comma>
+                    <comma id="art3-com4">
+                        <num>
+ 
+4.</num>
+
+                        <corpo> Per l'espletamento delle funzioni amministrative in materia ambientale attribuite e delegate alle Province, ed in particolare delle funzioni autorizzative e di controllo, la Regione stipula apposite convenzioni con le Province stesse nelle quali vengono stabilite le attività assicurate dall'ARPAM, i criteri di cui all'<rif
+                                xlink:href="urn:nir:stato:decreto.legge:1993-12-04;496#art02-com2">art. 02, comma 2, del Decreto Legge 4 dicembre 1993 n. 496</rif> convertito con modificazioni in <rif xlink:href="urn:nir:stato:legge:1994-01-21;61">Legge 21 gennaio 1994 n. 61</rif>, e le modalità di utilizzo delle strutture provinciali dell'ARPAM.  </corpo>
+                    </comma>
+                    <comma id="art3-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> Per la definizione delle attività tecniche a supporto degli Enti Locali e dei Dipartimenti di prevenzione delle Aziende UU.SS.LL., nonché per la individuazione dei livelli qualitativi e quantitativi, dei tempi e dei costi delle prestazioni erogate dall'ARPAM, il Presidente della Giunta Regionale promuove la conclusione di un apposito accordo di programma, di norma triennale, con le Province, le Aziende UU.SS.LL. e l'ARPAM. A tal fine il Presidente della Giunta Regionale o suo delegato convoca una apposita conferenza tra i rappresentanti delle amministrazioni interessate per la valutazione degli elementi e delle condizioni dell'accordo. </corpo>
+                    </comma>
+                    <comma id="art3-com6">
+                        <num>
+ 
+6.</num>
+                        <corpo> L'ARPAM e i soggetti pubblici interessati possono stipulare apposite convenzioni ed accordi per la definizione di attività ulteriori rispetto a quelle di cui ai commi 4 e 5 purché non in contrasto con le stesse, anche circoscritte per ambiti territoriali, funzionali e temporali. </corpo>
+                    </comma>
+                    <comma id="art3-com7">
+                        <num>
+ 
+7.</num>
+
+                        <corpo> L'ARPAM ed i Dipartimenti di prevenzione delle Aziende UU.SS.LL., nelle materie di competenza, propongono secondo le modalità definite al <rif xlink:href="#art17">successivo art. 17</rif>, alle Amministrazioni competenti le misure cautelari e di emergenza che si rendano necessarie alla tutela dell'ambiente e della salute. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit2">
+                <num>TITOLO II </num>
+                <rubrica>
+ 
+ARPAM: FUNZIONI E ASSETTO ORGANIZZATIVO 
+ 
+</rubrica>
+                <capo id="tit2-cap1">
+                    <num>Capo I </num>
+                    <rubrica>
+ 
+ISTITUZIONE DELL'ARPAM 
+ 
+</rubrica>
+                    <articolo id="art4">
+                        <num>Art.4 </num>
+                        <rubrica>
+ 
+(Costituzione, natura giuridica e finalità dell'ARPAM) 
+ </rubrica>
+                        <comma id="art4-com1">
+                            <num>
+1.</num>
+                            <corpo> Entro 120 giorni dall'entrata in vigore della presente legge, il Presidente della Giunta regionale provvede, con proprio decreto, a costituire l'ARPAM, nominandone contestualmente il Direttore Generale nel rispetto delle linee guida per la definizione dei contratti individuali della dirigenza, di cui alla direttiva del Presidente del Consiglio dei Ministri pubblicata sulla G.U. n. 172 del 24 luglio 1999. </corpo>
+                        </comma>
+                        <comma id="art4-com2">
+                            <num>
+ 
+2.</num>
+                            <corpo> L'ARPAM è ente strumentale della Regione Molise preposto all'esercizio delle funzioni tecniche per la prevenzione collettiva e per i controlli ambientali, nonché all'erogazione di prestazioni analitiche di rilievo sia ambientale sia sanitario, caratterizzato dalla multireferenzialità e multidisciplinarietà. </corpo>
+                        </comma>
+                        <comma id="art4-com3">
+                            <num>
+ 
+3.</num>
+                            <corpo> L'ARPAM è dotata di personalità giuridica pubblica, nonché di autonomia amministrativa, contabile, tecnica, patrimoniale e gestionale, nel rispeno dei principi stabiliti dalla presente legge, fermo restando che spettano alla Regione le attività di indirizzo tecnico, di promozione e supporto nei confronti dell'ARPAM. </corpo>
+                        </comma>
+                        <comma id="art4-com4">
+                            <num>
+ 
+4.</num>
+                            <corpo> L'ARPAM ha sede a Campobasso. </corpo>
+                        </comma>
+                        <comma id="art4-com5">
+                            <num>
+ 
+5.</num>
+                            <corpo> L'ARPAM e i Dipartimenti di prevenzione delle Aziende UU.SS.LL. svolgono le proprie attività in maniera coordinata e integrata. Le strutture laboratoristiche ed operative dell'Agenzia svolgono funzioni di supporto tecnico specialistico nei confronti sia degli Enti locali sia delle Aziende UU.SS.LL.. </corpo>
+                        </comma>
+                        <comma id="art4-com6">
+                            <num>
+ 
+6.</num>
+                            <corpo> Gli Enti e le Aziende di cui al comma precedente non possono mantenere o istituire servizi, uffici, unità operative e strutture tecniche e di laboratorio con compiti analoghi a quelli dell'Agenzia. 
+ 
+</corpo>
+                        </comma>
+                    </articolo>
+                    <articolo id="art5">
+                        <num>Art.5 </num>
+                        <rubrica>
+ 
+(Funzioni, attività e compiti) 
+ </rubrica>
+                        <comma id="art5-com1">
+                            <num>
+1.</num>
+
+                            <alinea> L'ARPAM svolge le attività e i compiti di interesse regionale di cui all'<rif
+                                    xlink:href="urn:nir:stato:decreto.legge:1993-12-04;496#art1">art. 1 del decreto legge 4 dicembre 1993, n. 496</rif>, convertito con modificazioni in <rif xlink:href="urn:nir:stato:legge:1994-01-21;61">legge 21 gennaio 1994, n. 61</rif>, ed in particolare provvede a: 
+ 
+</alinea>
+                            <el id="art5-com1-leta">
+                                <num>a)</num>
+                                <corpo> realizzare, anche in collaborazione con altri organismi ed Istituti operanti nel settore, iniziative di ricerca applicata sui fenomeni dell'inquinamento e della meteo climatologia, sulle condizioni generali dell'ambiente e di rischio per l'ambiente e per i cittadini, sulle forme di tutela degli ecosistemi;</corpo>
+                            </el>
+                            <el id="art5-com1-letb">
+                                <num> 
+ 
+b)</num>
+                                <corpo> elaborare dati ed informazioni di interesse ambientale finalizzati alla prevenzione, anche mediante programmi di divulgazione e formazione tecnico-scientifica;</corpo>
+                            </el>
+                            <el id="art5-com1-letc">
+                                <num> 
+ 
+c)</num>
+                                <corpo> fornire il necessario supporto tecnico scientifico alla Regione ai fini della elaborazione dei programmi regionali di intervento per la prevenzione e il controllo ambientale e la verifica della salubrità degli ambienti di vita;</corpo>
+                            </el>
+                            <el id="art5-com1-letd">
+                                <num> 
+ 
+d)</num>
+                                <corpo> garantire, attraverso le proprie strutture, l'esecuzione delle attività analitiche e l'erogazione di ogni altra prestazione in materia di prevenzione e di controllo ambientale richiesta dai Comuni, dalle Province, dalle Aziende UU.SS.LL. e da altre amministrazioni pubbliche per lo svolgimento dei rispettivi compiti di istituto;</corpo>
+                            </el>
+                            <el id="art5-com1-lete">
+                                <num> 
+ 
+e)</num>
+                                <corpo> gestire gli archivi, i flussi, le procedure informatizzate, i sistemi e le reti costituenti il Sistema Informativo Regionale Ambientale (SIRA);</corpo>
+                            </el>
+                            <el id="art5-com1-letf">
+                                <num> 
+ 
+f)</num>
+                                <corpo> formulare agli Enti ed organi competenti i pareri tecnici concernenti interventi per la tutela e il recupero ambientale;</corpo>
+                            </el>
+                            <el id="art5-com1-letg">
+                                <num> 
+ 
+g)</num>
+                                <corpo> realizzare campagne di controllo ambientale ed elaborare proposte di bonifica;</corpo>
+                            </el>
+                            <el id="art5-com1-leth">
+                                <num> 
+ 
+h)</num>
+                                <corpo> effettuare il controllo dei fattori fisici, chimici e biologici, di inquinamento acustico, dell'aria, delle acque e del suolo;</corpo>
+                            </el>
+                            <el id="art5-com1-leti">
+                                <num> 
+ 
+i)</num>
+                                <corpo> svolgere funzioni tecniche di vigilanza e di controllo sul rispetto delle norme vigenti in campo ambientale e delle disposizioni e prescrizioni contenute nei provvedimenti emanati dalle autorità competenti;</corpo>
+                            </el>
+                            <el id="art5-com1-letl">
+                                <num> 
+ 
+l)</num>
+                                <corpo> effettuare l'attività di supporto tecnico-scientifico agli organi preposti alla valutazione ed alla prevenzione dei rischi da incidenti rilevanti connessi ad attività produttive;</corpo>
+                            </el>
+                            <el id="art5-com1-letm">
+                                <num> 
+ 
+m)</num>
+                                <corpo> effettuare i controlli ambientali delle attività connesse all'uso pacifico dell'energia nucleare e in materia di protezione dalle radiazioni, nonché le attività di vigilanza e di controllo dell'inquinamento elettromagnetico;</corpo>
+                            </el>
+                            <el id="art5-com1-letn">
+                                <num> 
+ 
+n)</num>
+                                <corpo> fornire attività di supporto alla Regione e agli Enti locali per la predisposizione di piani e progetti ambientali;</corpo>
+                            </el>
+                            <el id="art5-com1-leto">
+                                <num> 
+ 
+o)</num>
+                                <corpo> fornire il supporto tecnico alle attività istruttorie connesse all'approvazione di progetti e al rilascio di autorizzazioni in materia ambientale;</corpo>
+                            </el>
+                            <el id="art5-com1-letp">
+                                <num> 
+ 
+p)</num>
+                                <corpo> svolgere attività di consulenza tecnico-scientifica e ricerca applicata nell'ambito degli indirizzi regionali e delle intese Stato-Regioni in materia;</corpo>
+                            </el>
+                            <el id="art5-com1-letq">
+                                <num> 
+ 
+q)</num>
+                                <corpo> svolgere attività finalizzate a fomire previsioni, informazioni ed elaborazioni meteoclimatiche e radarmeteorologiche;</corpo>
+                            </el>
+                            <el id="art5-com1-letr">
+                                <num> 
+ 
+r)</num>
+                                <corpo> svolgere attività di studio, ricerca e controllo dell'ambiente marino e costiero;</corpo>
+                            </el>
+                            <el id="art5-com1-lets">
+                                <num> 
+ 
+s)</num>
+                                <corpo> collaborare con gli organi competenti per gli interventi di protezione civile e ambientale nei casi di emergenza. </corpo>
+                            </el>
+                        </comma>
+                        <comma id="art5-com2">
+                            <num>
+ 
+2.</num>
+                            <corpo> L'ARPAM fonisce prestazioni a favore di privati purché trattasi di attività compatibili con l'esigenza di imparzialità nell'esercizio delle funzioni e delle attività istituzionali. La Giunta Regionale, anche su proposta del direttore generale dell'Agenzia, adotta un apposito tariffario per la remunerazione di tali prestazioni. </corpo>
+                        </comma>
+                        <comma id="art5-com3">
+                            <num>
+ 
+3.</num>
+                            <corpo> Nell'esercizio di tali funzioni dovrà essere garantita un'attività continuativa, almeno in reperibilità, nell'arco dell'intera giornata, anche festiva. 
+ 
+</corpo>
+                        </comma>
+                    </articolo>
+                    <articolo id="art6">
+                        <num>Art.6 </num>
+                        <comma id="art6-com1">
+                            <num>
+1.</num>
+                            <corpo> L'ARPAM è sottoposta alla vigilanza della Giunta Regionale, che può disporre ispezioni e verifiche con provvedimento motivato. </corpo>
+                        </comma>
+                        <comma id="art6-com2">
+                            <num>
+ 
+2.</num>
+                            <alinea> In particolare sono sottoposti al controllo preventivo della Giunta Regionale i seguenti atti: 
+ 
+</alinea>
+                            <el id="art6-com2-leta">
+                                <num>a)</num>
+                                <corpo> il bilancio di previsione annuale e pluriennale;</corpo>
+                            </el>
+                            <el id="art6-com2-letb">
+                                <num>  
+ 
+b)</num>
+                                <corpo> gli impegni di spesa pluriennali;</corpo>
+                            </el>
+                            <el id="art6-com2-letc">
+                                <num> 
+ 
+c)</num>
+                                <corpo> il conto consuntivo;</corpo>
+                            </el>
+                            <el id="art6-com2-letd">
+                                <num> 
+ 
+d)</num>
+                                <corpo> il programma annuale di attività;</corpo>
+                            </el>
+                            <el id="art6-com2-lete">
+                                <num> 
+ 
+e)</num>
+                                <corpo> il regolamento e le sue modifiche;</corpo>
+                            </el>
+                            <el id="art6-com2-letf">
+                                <num> 
+ 
+f)</num>
+                                <corpo> le variazioni della pianta organica;</corpo>
+                            </el>
+                            <el id="art6-com2-letg">
+                                <num> 
+ 
+g)</num>
+                                <corpo> l'attuazione dei contratti di lavoro.  </corpo>
+                            </el>
+                        </comma>
+                        <comma id="art6-com3">
+                            <num>
+ 
+3.</num>
+                            <corpo> Gli atti entro dieci giorni dalla loro adozione devono essere inviati alla Giunta Regionale, che ai fini dell'istruttoria può avvalersi degli Assessorati competenti.  </corpo>
+                        </comma>
+                        <comma id="art6-com4">
+                            <num>
+ 
+4.</num>
+                            <corpo> La Giunta Regionale può annullare gli atti entro quaranta giorni dal ricevimento, ridotti a trenta per gli atti di cui alle lettere b) ed f). Gli atti diventano esecutivi alla scadenza dei predetti termini qualora nel frattempo non sia intervenuta la pronuncia di annullamento. Diventano altresì esecutivi dal momento in cui la Giunta Regionale, entro i medesimi termini, comunica di non aver riscontrato vizi. </corpo>
+                        </comma>
+                        <comma id="art6-com5">
+                            <num>
+ 
+5.</num>
+                            <corpo> I termini di cui al comma precedente sono interrotti per una sola volta se prima della loro scadenza vengono richiesti chiarimenti od elementi integrativi di giudizio. In tal caso i termini decorrono dalla data della ricezione della risposta. Il Direttore Generale dell'Agenzia può chiedere di essere ascoltato in sede di esame degli elementi di risposta forniti. 
+ 
+</corpo>
+                        </comma>
+                    </articolo>
+                </capo>
+                <capo id="tit2-cap2">
+                    <num>Capo II </num>
+                    <rubrica>
+ 
+ORGANI 
+ 
+</rubrica>
+                    <articolo id="art7">
+                        <num>Art.7 </num>
+                        <rubrica>
+ 
+(Gli organi) 
+ </rubrica>
+                        <comma id="art7-com1">
+                            <num>
+1.</num>
+                            <alinea> Sono organi dell'ARPAM: 
+ 
+</alinea>
+                            <el id="art7-com1-leta">
+                                <num>a)</num>
+                                <corpo> il Comitato di Indirizzo;</corpo>
+                            </el>
+                            <el id="art7-com1-letb">
+                                <num> 
+ 
+b)</num>
+                                <corpo> il Direttore Generale;</corpo>
+                            </el>
+                            <el id="art7-com1-letc">
+                                <num> 
+ 
+c)</num>
+                                <corpo> il Collegio dei Revisori. 
+ 
+</corpo>
+                            </el>
+                        </comma>
+                    </articolo>
+                    <articolo id="art8">
+                        <num>Art. 8 </num>
+                        <rubrica>
+ 
+(Comitato Regionale di Indirizzo) 
+ </rubrica>
+                        <comma id="art8-com1">
+                            <num>
+1.</num>
+                            <alinea> Il Comitato Regionale di Indirizzo è un organo di programmazione e di verifica dei risultati dell'attività dell'ARPAM. In particolare il Comitato Regionale di Indirizzo:  
+ 
+</alinea>
+                            <el id="art8-com1-leta">
+                                <num>a)</num>
+                                <corpo> esprime parere sui bilanci preventivi e consuntivi e sul regolarnento, sottoponendo alla Giunta Regionale le eventuali osservazioni;</corpo>
+                            </el>
+                            <el id="art8-com1-letb">
+                                <num> 
+ 
+b)</num>
+                                <corpo> esprime parere sul programma annuale di attività;</corpo>
+                            </el>
+                            <el id="art8-com1-letc">
+                                <num>  
+ 
+c)</num>
+                                <corpo> verifica l'andamento generale dell'attività ed esprime alla Giunta Regionale le proprie valutazioni e proposte. </corpo>
+                            </el>
+                        </comma>
+                        <comma id="art8-com2">
+                            <num>
+ 
+2.</num>
+                            <alinea> Il Comitato Regionale di Indirizzo è composto da: 
+ 
+</alinea>
+                            <el id="art8-com2-leta">
+                                <num>a)</num>
+                                <corpo> l'Assessore regionale all'Ambiente, con funzioni di presidente;</corpo>
+                            </el>
+                            <el id="art8-com2-letb">
+                                <num> 
+ 
+b)</num>
+                                <corpo> l'Assessore regionale alla Sanità;</corpo>
+                            </el>
+                            <el id="art8-com2-letc">
+                                <num> 
+ 
+c)</num>
+                                <corpo> l'Assessore regionale all'Agricoltura;</corpo>
+                            </el>
+                            <el id="art8-com2-letd">
+                                <num> 
+ 
+d)</num>
+                                <corpo> l'Assessore regionale all'Industria;</corpo>
+                            </el>
+                            <el id="art8-com2-lete">
+                                <num> 
+ 
+e)</num>
+                                <corpo> l'Assessore regionale al Turismo;</corpo>
+                            </el>
+                            <el id="art8-com2-letf">
+                                <num> 
+ 
+f)</num>
+                                <corpo> due Consiglieri regionali designati dal Consiglio Regionale, di cui uno eletto dalla minoranza;</corpo>
+                            </el>
+                            <el id="art8-com2-letg">
+                                <num>  
+ 
+g)</num>
+                                <corpo> i Presidenti delie Province o gli Assessori Provinciali da essi delegati;</corpo>
+                            </el>
+                            <el id="art8-com2-leth">
+                                <num>  
+ 
+h)</num>
+                                <corpo> tre Sindaci, o loro delegati, designati dall'ANCI, di cui uno in rappresentanza dei Comuni al di sotto dei cinquemila abitanti;</corpo>
+                            </el>
+                            <el id="art8-com2-leti">
+                                <num> 
+ 
+i)</num>
+                                <corpo> un rappresentante delle Comunità Montane designato dall'UNCEM. </corpo>
+                            </el>
+                        </comma>
+                        <comma id="art8-com3">
+                            <num>
+ 
+3.</num>
+                            <corpo> I membri del Comitato Regionale di Indirizzo sono nominati dal Presidente della Giunta Regionale e restano in carica 5 anni. </corpo>
+                        </comma>
+                        <comma id="art8-com4">
+                            <num>
+ 
+4.</num>
+                            <corpo> Il Comitato Regionale si dota di un proprio regolamento per la disciplina dello svolgimento delle sedute e per la partecipazione alle stesse dei rappresentanti degli Enti e delle Associazioni operanti in materia, nonché di esperti e tecnici. 
+ 
+</corpo>
+                        </comma>
+                    </articolo>
+                    <articolo id="art9">
+                        <num>Art.9 </num>
+                        <rubrica>
+ 
+(Direttore generale) 
+ </rubrica>
+                        <comma id="art9-com1">
+                            <num>
+1.</num>
+                            <alinea> Il Direttore Generale provvede in particolare: 
+ 
+</alinea>
+                            <el id="art9-com1-leta">
+                                <num>a)</num>
+                                <corpo> alla direzione, all'indirizzo ed al coordinamento della struttura centrale e dei dipartimenti provinciali dell'ARPAM;</corpo>
+                            </el>
+                            <el id="art9-com1-letb">
+                                <num> 
+ 
+b)</num>
+                                <corpo> alla verifica ed all'assicurazione dei livelli di qualità dei servizi;</corpo>
+                            </el>
+                            <el id="art9-com1-letc">
+                                <num> 
+ 
+c)</num>
+                                <corpo> alla predisposizione dei piani annuali e pluriennali delle attività;</corpo>
+                            </el>
+                            <el id="art9-com1-letd">
+                                <num> 
+ 
+d)</num>
+                                <corpo> alla predisposizione del regolamento, del bilancio di previsione e del conto consuntivo;</corpo>
+                            </el>
+                            <el id="art9-com1-lete">
+                                <num> 
+ 
+e)</num>
+                                <corpo> all'approvazione del programma annuale delle attività, delle convenzioni e degli accordi di programma;</corpo>
+                            </el>
+                            <el id="art9-com1-letf">
+                                <num> 
+ 
+f)</num>
+                                <corpo> alla predisposizione ed all'invio alla Giunta regionale di una relazione annuale sull'attività svolta e sui risultati conseguiti;</corpo>
+                            </el>
+                            <el id="art9-com1-letg">
+                                <num> 
+ 
+g)</num>
+                                <corpo> alla stipula di contratti e convenzioni;</corpo>
+                            </el>
+                            <el id="art9-com1-leth">
+                                <num> 
+ 
+h)</num>
+                                <corpo> alla nomina dei direttori tecnico-scientifico ed amministrativo ed a quella dei direttori dei dipartimenti provinciali. 
+ 
+Il Direttore Generale è nominato con proprio decreto, dal Presidente della Giunta regionale, su delibera della stessa, previo avviso da pubblicarsi almeno trenta giorni prima sul Bollettino Ufficiale della Regione Molise. 
+ 
+Esso è scelto tra persone in possesso di diploma di laurea e di specifici e documentati requisiti coerenti rispetto alle funzioni da svolgere ed attestanti qualificate attività di direzione di Enti o strutture, pubbliche o private conseguiti per almeno 2 anni consecutivi e non oltre i tre anni precedenti l'entrata in vigore della presente legge. 
+ 
+La durata dell'incarico è quinquennale e rinnovabile per una sola volta. 
+ 
+Il Direttore Generale, se è scelto tra il personale assegnato all'Agenzia è collocato fuori dal ruolo organico nel quale rientra alla cessazione dell'incarico.  </corpo>
+                            </el>
+                        </comma>
+                        <comma id="art9-com2">
+                            <num>
+ 
+2.</num>
+                            <corpo> Tutti i poteri di gestione, nonché la rappresentanza dell'ARPAM, sono riservati al Direttore Generale. </corpo>
+                        </comma>
+                        <comma id="art9-com3">
+                            <num>
+ 
+3.</num>
+                            <corpo> Il Direttore Generale garantisce il controllo di gestione e la verifica della qualità dei servizi prestati dall'ARPAM. </corpo>
+                        </comma>
+                        <comma id="art9-com4">
+                            <num>
+ 
+4.</num>
+                            <corpo> Il Direttore Generale predispone ed invia alla regione una relazione annuale sull'attività svolta e sui risultati conseguiti. </corpo>
+                        </comma>
+                        <comma id="art9-com5">
+                            <num>
+ 
+5.</num>
+                            <corpo> Il Direttore Generale è coadiuvato da un Direttore tecnico-scientifico e da un Direttore Arnministrativo, che dirigono ai fini organizzativi e tecnici i rispettivi settori di attività ed esprimono parere obbligatorio sui provvedimenti da adottare. Il Direttore Generale può adottare provvedimenti in difformità al parere reso dal Direttore tecnico-scientifico e dal Direttore Amministrativo, purché ne dia adeguata motivazione.  
+ 
+Il Direttore tecnico-scientifico e il Direttore Amministrativo sono assunti con provvedimento motivato del Direttòre Generale e sono responsabili nei confronti dello stesso. 
+ 
+Il Direttore tecnico-scientifico è un laureato in discipline tecnico-scientifiche, che abbia svolto per almeno due anni consecutivi qualificata attività di direzione e di responsabilità in enti o strutture pubbliche o private, di media o grande dimensione, deputate allo svolgimento di attività di prevalente interesse per la prevenzione e l'ambiente. 
+ 
+Il Direttore Amministrativo è un laureato in discipline giuridiche o economiche che abbia svolto per almeno due anni una qualificata attività di direzione amministrativa in enti o strutture pubbliche o private di media o di grande dimensione. </corpo>
+                        </comma>
+                        <comma id="art9-com6">
+                            <num>
+ 
+6.</num>
+
+                            <corpo> Il trattamento economico del Direttore generale è determinato dalla Giunta Regionale e non può risultare superiore a quello dei Direttori generali delle aziende sanitarie della regione e deve essere comprensivo delle spese sostenute per lo spostamento dal luogo di residenza al luogo di svolgimento delle funzioni.  
+ 
+Al Direttore Generale, per lo svolgimento delle attività inerenti le sue funzioni, spetta il rimborso delle spese di viaggio, vitto e alloggio effettivamente sostenute e documentate, nei limiti e con le modalità stabiliti per i dirigenti dello Stato. Al Direttore tecnico-scientifico e al Direttore amministrativo è attribuito il trattamento economico previsto rispettivamente per il Direttore sanitario e quello amministrativo delle Aziende Sanitarie Locali di cui al <rif xlink:href="urn:nir:stato:decreto.legislativo:1992;502">Decreto legislativo n. 502/1992</rif> e successive modificazioni ed integrazioni. 
+ 
+Ai Direttori tecnico-scientifico ed amministrativo per lo svolgimento delle attività inerenti le loro funzioni spetta il rimborso delle spese di viaggio, vitto e alloggio effettivamente sostenute e documentate nei limiti e con le modalità stabilite per i dirigenti apicali del Servizio Sanitario Nazionale. </corpo>
+                        </comma>
+                        <comma id="art9-com7">
+                            <num>
+ 
+7.</num>
+                            <corpo> Al Direttore Generale, al Direttore tecnico-scientifico e al Direttore amministrativo si applica il trattamento normativo previsto rispettivamente per il Direttore Generale e i Direttore Sanitario e Amministrativo delle aziende sanitarie, salvo quanto diversamente previsto in questa legge, incluso il regime della decadenza, della revoca, della cessazione dal servizio e le norme sulla incompatibilità salvo quanto diversamente previsto in questa legge. 
+ 
+</corpo>
+                        </comma>
+                    </articolo>
+                    <articolo id="art10">
+                        <num>Art.10 </num>
+                        <rubrica>
+ 
+(Collegio dei Revisori) 
+ </rubrica>
+                        <comma id="art10-com1">
+                            <num>
+1.</num>
+
+                            <corpo> Il Collegio dei Revisori è composto da tre membri, di cui uno svolge le funzioni di Presidente. Il Collegio è costituito con proprio atto dal Presidente della Giunta Regionale e dura in carica 5 anni. I revisori sono scelti tra i revisori contabili iscritti nel registro previsto dall'<rif xlink:href="urn:nir:stato:decreto.legislativo:1992-01-27;81#art1">art. 1 del decreto legislativo 27 gennaio 1992 n. 81</rif>.  </corpo>
+                        </comma>
+                        <comma id="art10-com2">
+                            <num>
+ 
+2.</num>
+                            <corpo> Il Collegio dei Revisori esercita funzioni di controllo e di verifica contabile, con i poteri e secondo le modalità previste per i Revisori dei conti delle Aziende UU.SS.LL. </corpo>
+                        </comma>
+                        <comma id="art10-com3">
+                            <num>
+ 
+3.</num>
+                            <corpo> Ai componenti del Collegio spetta un'indennità annua lorda onnicomprensiva pari al 10% degli emolumenti spettanti al Direttore Generale. 
+ 
+</corpo>
+                        </comma>
+                    </articolo>
+                </capo>
+                <capo id="tit2-cap3">
+                    <num>Capo III </num>
+                    <rubrica>
+ 
+FUNZIONAMENTO 
+ 
+</rubrica>
+                    <articolo id="art11">
+                        <num>Art.11 </num>
+                        <rubrica>
+ 
+(Regolamento) 
+ </rubrica>
+                        <comma id="art11-com1">
+                            <num>
+1.</num>
+                            <corpo> Il Direttore generale adotta il regolamento dell'ARPAM, entro 120 giorni dalla sua costituzione. </corpo>
+                        </comma>
+                        <comma id="art11-com2">
+                            <num>
+ 
+2.</num>
+                            <alinea> Il regolamento disciplina il funzionamento dell'ARPAM e in particolare definisce: 
+ 
+</alinea>
+                            <el id="art11-com2-leta">
+                                <num>a)</num>
+
+                                <corpo> la dotazione organica, l'assetto organizzativo di cui all'<rif xlink:href="#art15">art. 15</rif>, nonché le disposizioni concernenti il personale;</corpo>
+                            </el>
+                            <el id="art11-com2-letb">
+                                <num> 
+ 
+b)</num>
+
+                                <corpo> le forme di consultazione di cui all'<rif xlink:href="#art19">art. 19</rif>;</corpo>
+                            </el>
+                            <el id="art11-com2-letc">
+                                <num> 
+ 
+c)</num>
+
+                                <corpo> la contabilità dell'ARPAM di cui all'<rif xlink:href="#art21">art. 21</rif>. 
+ 
+</corpo>
+                            </el>
+                        </comma>
+                    </articolo>
+                    <articolo id="art12">
+                        <num>Art. 12 </num>
+
+                        <rubrica>
+ 
+(Programma annuale) 
+ 
+Nell'ambito dei criteri e degli indirizzi stabiliti mediante le convenzioni e gli accordi di programma di cui al <rif
+                                xlink:href="#art3">precedente art. 3</rif>, il Direttore generale dell'ARPAM predispone il programma annuale di attività, sulla base delle proposte dei Comitati provinciali di cui al <rif xlink:href="#art16">successivo art. 16</rif>. 
+ 
+</rubrica><?error Marker Warning 109?>
+                        <comma id="art12-com1">
+                            <num/>
+                            <corpo/>
+                        </comma>
+                    </articolo>
+                    <articolo id="art13">
+                        <num>Art.13 </num>
+                        <rubrica>
+ 
+(Dotazioni per il funzionamento dell'ARPAM) 
+ </rubrica>
+                        <comma id="art13-com1">
+                            <num>
+1.</num>
+
+                            <corpo> Il Presidente della Giunta Regionale, con propri decreti, su conforme delibera della Giunta Regionale, provvede, anche in base alla ricognizione di cui al <rif xlink:href="#art24">successivo art. 24</rif>, all'assegnazione ed al successivo trasferimento all'ARPAM del personale, dei beni, del patrimonio, delle attrezzature, e della relativa dotazione finanziaria del Presidio Multizonale di Igiene e Prevenzione del Molise (P.M.I.P.) e dei Servizi delle Aziende UU.SS.LL. adibiti alle attività e compiti assegnati all'ARPAM anche sulla base del riparto di competenze di cui all'allegato 1). </corpo>
+                        </comma>
+                        <comma id="art13-com2">
+                            <num>
+ 
+2.</num>
+                            <corpo> Il Presidente della Giunta Regionale, su conforme delibera della Giunta Regionale, provvede altresì al trasferimento all'ARPAM di personale, beni, patrimonio, attrezzature, relative dotazioni finanziarie della Regione o di Enti Locali o di Enti strumentali finanziati con risorse regionali, destinati all'esercizio delle funzioni assegnate all'ARPAM. Tale trasferimento riguarda in primo luogo le funzioni relative all'analisi, al rilevamento e al monitoraggio dei dati ambientali e meteoclimatici, alla prevenzione e controllo dei grandi rischi industriali, nonché alla gestione dei sistemi informativi ambientali. </corpo>
+                        </comma>
+                        <comma id="art13-com3">
+                            <num>
+ 
+3.</num>
+                            <corpo> Gli Enti locali individuano il personale, i beni, il patrimonio, le attrezzature, le relative dotazioni finanziarie, adibite all'espletamento delle funzioni assegnate all'ARPAM dalla presente legge, e ne propongono l'assegnazione all'ARPAM. Per la loro assegnazione e definitivo trasferirnento all'ARPAM si provvede con decreto del Presidente della Giunta Regionale, su conforme delibera della Giunta Regionale.  </corpo>
+                        </comma>
+                        <comma id="art13-com4">
+                            <num>
+ 
+4.</num>
+                            <corpo>
+                                <mod id="art13-com4-mod1"> All'atto del trasferimento all'ARPAM del personale di cui ai precedenti commi 2 e 3 i rispettivi enti di provenienza provvedono alla soppressione nei propri organici di un eguale numero di posti nelle qualifiche e profili corrispondenti. 
+ 
+</mod>
+                            </corpo>
+                        </comma>
+                    </articolo>
+                    <articolo id="art14">
+                        <num>Art.14 </num>
+                        <rubrica>
+ 
+(Disposizioni concernenti il personale dell'ARPAM) 
+ </rubrica>
+                        <comma id="art14-com1">
+                            <num>
+1.</num>
+                            <corpo> Ai sensi dell'<rif
+                                    xlink:href="urn:nir:stato:decreto.legge:1993-12-04;496#art3-com5">art. 3, comma 5, del decreto legge 4 dicembre 1993, n. 496</rif>, convertito con modificazioni in <rif
+                                    xlink:href="urn:nir:stato:legge:1994-01-21;61">legge 21 gennaio 1994, n. 61</rif>, in attesa dell'attuazione. delle disposizioni di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#art45-com3">art. 45, comma 3, del decreto legislativo 3 febbraio 1993, n. 29</rif>, al personale assegnato all'ARPAM è confermato il trattamento giuridico ed economico in godimento all'atto dell'assegnazione e del trasferimento, compresa l'anzianità maturata, nonché il salario accessorio secondo la contrattazione decentrata degli Enti di provenienza. </corpo>
+                        </comma>
+                        <comma id="art14-com2">
+                            <num>
+ 
+2.</num>
+
+                            <corpo> Al personale dell'ARPAM incaricato dell'espletamento delle funzioni di vigilanza e controllo si applicano le disposizioni sul personale ispettivo di cui all'<rif
+                                    xlink:href="#art2">art. 2</rif>/bis del <rif
+                                    xlink:href="urn:nir:stato:decreto.legge:1993-12-04;496">decreto legge 4 dicembre 1993, n. 496</rif>, convertito con modificazioni in <rif xlink:href="urn:nir:stato:legge:1994-01-21;61">legge 21 gennaio 1994, n. 61</rif>. 
+ 
+Nell'esercizio delle funzioni di vigilanza tale personale riveste anche la qualifica di ufficiale di polizia giudiziaria. Tale personale è munito di documento di riconoscimento rilasciato dall'ARPAM. 
+ 
+La Giunta Regionale, su indicazione del Direttore Generale dell'ARPAM, con proprio atto individua il personale che, ai fini dell'espletamento delle attività di istituto, deve ricoprire la qualifica di U.P.G. e ne fa proposta al Prefetto. 
+ 
+</corpo>
+                        </comma>
+                    </articolo>
+                </capo>
+                <capo id="tit2-cap4">
+                    <num>Capo IV </num>
+                    <rubrica>
+ 
+ORGANIZZAZIONE 
+ 
+</rubrica>
+                    <articolo id="art15">
+                        <num>Art.15 </num>
+                        <rubrica>
+ 
+(articolazione organizzativa dell'ARPAM) 
+ </rubrica>
+                        <comma id="art15-com1">
+                            <num>
+1.</num>
+                            <corpo> Per l'esercizio delle funzioni e delle attività di cui alla presente legge, l'ARPAM si articola territorialmente, in struttura centrale e dipartimenti provinciali. </corpo>
+                        </comma>
+                        <comma id="art15-com2">
+                            <num>
+ 
+2.</num>
+                            <corpo> La struttura centrale dell'ARPAM svolge le attività connesse alla gestione del personale, del bilancio e del patrimonio, alla formazione ed aggiornamento del personale, al coordinamento tecnico delle attività, nonché ogni altra attività di carattere unitario. </corpo>
+                        </comma>
+                        <comma id="art15-com3">
+                            <num>
+ 
+3.</num>
+                            <corpo>
+                                <mod id="art15-com3-mod2"> Ogni dipartimento provinciale, ferme restando le strutture territoriali del soppresso PMIP, con annessa possibile Sezione territoriale è una struttura unitaria diretta da un Direttore di dipartimento, nominato dal Direttore generale dell'ARPAM su proposta del Direttore tecnico-scientifico e responsabile nei confronti dello stesso.  </mod>
+                            </corpo>
+                        </comma>
+                        <comma id="art15-com4">
+                            <num>
+ 
+4.</num>
+                            <corpo> In ogni dipartimento provinciale è istituito il Servizio ispettivo di controllo ambientale coordinato dal Dirigente del dipartimento. Il suddetto servizio si articola in unità operative territoriali. </corpo>
+                        </comma>
+                        <comma id="art15-com5">
+                            <num>
+ 
+5.</num>
+                            <corpo> Singoli dipartimenti provinciali possono essere incaricati di svolgere determinati compiti a livello interprovinciale regionale. </corpo>
+                        </comma>
+                        <comma id="art15-com6">
+                            <num>
+ 
+6.</num>
+
+                            <corpo> L'assetto organizzativo dell'ARPAM, i compiti, le dimensioni e le forme di direzione e di coordinamento delle sue strutture sono definiti nel regolamento dell'ARPAM stesso predisposto sulla base della distribuzione di competenze di cui all'allegato 1, nonché dei parametri fissati all'<rif
+                                    xlink:href="urn:nir:stato:decreto.legge:1993-12-04;496#art03-com2">art. 03, comma 2, del Decreto Legge 4 dicembre 1993, n. 496</rif> convertito con modificazioni in <rif xlink:href="urn:nir:stato:legge:1994-01-21;61">Legge 21 gennaio 1994, n. 61</rif>. Devono essere, comunque, assicurate, a livello decentrato, tra l'altro, le attività analitiche necessarie allo svolgimento delle funzioni di controllo e vigilanza degli Enti locali e delle Aziende UU.SS.LL. 
+ 
+</corpo>
+                        </comma>
+                    </articolo>
+                    <articolo id="art16">
+                        <num>Art.16 </num>
+                        <rubrica>
+ 
+(Comitati provinciali di coordinamento) 
+ </rubrica>
+                        <comma id="art16-com1">
+                            <num>
+1.</num>
+
+                            <alinea> Per l'ottimale realizzazione degli obiettivi, delle prestazioni, delle attività e delle condizioni stabilite nelle convenzioni e negli accordi di programma di cui al <rif xlink:href="#art3">precedente art. 3</rif>, e per garantire il necessario coordinamento tecnico delle attività dei dipartimenti provinciali dell'ARPAM con i servizi delle rispettive amministrazioni provinciali e comunali e soprattutto con i dipartimenti di prevenzione delle Aziende UU.SS.LL., presso ciascuna Provincia è costituito un Comitato Tecnico Provinciale di coordinamento con il compito di: 
+ 
+</alinea>
+                            <el id="art16-com1-leta">
+                                <num>a)</num>
+                                <corpo> elaborare proposte relative al programma annuale di attività del dipartimento provinciale ed alla sua migliore attuazione;</corpo>
+                            </el>
+                            <el id="art16-com1-letb">
+                                <num> 
+ 
+b)</num>
+
+                                <corpo> formulare proposte in ordine ai contenuti degli accordi di programma, di cui all'<rif xlink:href="#art3">art. 3</rif>, ed al loro aggiornamento;</corpo>
+                            </el>
+                            <el id="art16-com1-letc">
+                                <num> 
+ 
+c)</num>
+                                <corpo> effettuare periodiche verifiche sullo svolgimento delle attività programmate e sui risultati conseguiti dal dipartimento provinciale e sulla integrazione e sul coordinamento con i dipartimenti di prevenzione delle UU.SS.LL. </corpo>
+                            </el>
+                        </comma>
+                        <comma id="art16-com2">
+                            <num>
+ 
+2.</num>
+                            <alinea> Sono componenti del Comitato provinciale di coordinamento: 
+ 
+</alinea>
+                            <el id="art16-com2-leta">
+                                <num>a)</num>
+                                <corpo> l'Assessore all'ambiente della Provincia, che lo presiede;</corpo>
+                            </el>
+                            <el id="art16-com2-letb">
+                                <num> 
+ 
+b)</num>
+                                <corpo> il dirigente responsabile del settore ambientale del Comune di capoluogo;</corpo>
+                            </el>
+                            <el id="art16-com2-letc">
+                                <num> 
+ 
+c)</num>
+                                <corpo> il direttore scientifico ed il direttore del dipartimento provinciale dell'ARPAM;</corpo>
+                            </el>
+                            <el id="art16-com2-letd">
+                                <num> 
+ 
+d)</num>
+                                <corpo> i responsabili dei dipartimenti di prevenzione delle Aziende UU.SS.LL. della provincia. </corpo>
+                            </el>
+                        </comma>
+                        <comma id="art16-com3">
+                            <num>
+ 
+3.</num>
+                            <corpo> Il Comitato provinciale di coordinamento è convocato dal Presidente almeno tre volte all'anno; esso può essere convocato su motivata richiesta dell'Amministrazione provinciale o del Direttore generale dell'ARPAM. 
+ 
+</corpo>
+                        </comma>
+                    </articolo>
+                    <articolo id="art17">
+                        <num>Art.17 </num>
+                        <rubrica>
+ 
+(Esercizio coordinato ed integrato delle funzioni tra ARPAM e Dipartimenti di prevenzione delle Aziende UU.SS.LL.) 
+ </rubrica>
+                        <comma id="art17-com1">
+                            <num>
+1.</num>
+                            <corpo> L'ARPAM ed i Dipartimenti di prevenzione delle Aziende UU.SS.LL. esercitano in modo integrato e coordinato le funzioni e le attività di controllo ambientale e di prevenzione collettiva che rivestono valenza sia ambientale sia sanitaria. 
+ 
+I Dipartimenti di prevenzione delle UU.SS.LL. utilizzano le strutture laboratoristiche dell'ARPAM. </corpo>
+                        </comma>
+                        <comma id="art17-com2">
+                            <num>
+ 
+2.</num>
+                            <corpo> Il riparto di competenze di cui all'Allegato 1 individua la responsabilità primaria ed il soggetto referente per l'esercizio delle stesse. </corpo>
+                        </comma>
+                        <comma id="art17-com3">
+                            <num>
+ 
+3.</num>
+                            <corpo> Al soggetto cui è assegnata la competenza primaria spetta la responsabilità del procedimento, che di norma, è svolto con il concorso esplicito dell'altro soggetto per quanto di propria competenza. </corpo>
+                        </comma>
+                        <comma id="art17-com4">
+                            <num>
+ 
+4.</num>
+                            <corpo> Per un esercizio coordinato ed integrato finalizzato ad ottimizzare le prestazioni erogate ed evitare sovrapposizioni e disfunzioni i Dipartimenti provinciali dell'ARPAM e i Dipartimenti di prevenzione delle Aziende UU.SS.LL., istituiscono forme, sedi, strumenti e gruppi di lavoro permanenti sulle principali attività di comune interesse. </corpo>
+                        </comma>
+                        <comma id="art17-com5">
+                            <num>
+ 
+5.</num>
+
+                            <corpo> I risultati conseguiti da tali forme e strumenti permanenti di lavoro formano oggetto delle periodiche verifiche svolte dai Comitati provinciali di cui all'<rif xlink:href="#art16">art. 16</rif>. </corpo>
+                        </comma>
+                        <comma id="art17-com6">
+                            <num>
+ 
+6.</num>
+
+                            <corpo> La Giunta Regionale, con apposito atto di indirizzo e coordinamento, può specificare, integrare ed aggiornare il riparto di competenze di cui all'Allegato 1 e la correlata individuazione della responsabilità primaria e del soggetto referente di cui al <rif xlink:href="#art17-com2">comma 2</rif>. 
+ 
+</corpo>
+                        </comma>
+                    </articolo>
+                    <articolo id="art18">
+                        <num>Art.18 </num>
+                        <rubrica>
+ 
+(Coordinamento con l'Agenzia Europea per l'ambiente, l'ANPA, l'Università del Molise e gli altri Istituti operanti nel settore) 
+ </rubrica>
+                        <comma id="art18-com1">
+                            <num>
+1.</num>
+
+                            <corpo> La Regione stipula con l'Agenzia Europea per l'Ambiente, di cui al <rif
+                                    xlink:href="urn:nir:comunita.europee:regolamento:1990;1210">Regolamento CEE n. 1210/1990</rif>, con l'Agenzia Nazionale per la Protezione dell'Ambiente (ANPA), di cui al <rif
+                                    xlink:href="urn:nir:stato:decreto.legge:1993-12-04;496">Decreto Legge 4 dicembre 1993, n. 496</rif> convertito con modificazioni in <rif xlink:href="urn:nir:stato:legge:1994-01-21;61">Legge 21 gennaio 1994, n. 61</rif>, con l'Università del Molise, e con altri enti ed istituti di ricerca, internazionali, nazionali e regionali, pubblici e privati, apposite convenzioni, finalizzate all'espletamento dei compiti e delle attività dell'ARPAM. 
+ 
+</corpo>
+                        </comma>
+                    </articolo>
+                    <articolo id="art19">
+                        <num>Art.19 </num>
+                        <rubrica>
+ 
+(Consultazione e diritto di accesso) 
+ </rubrica>
+                        <comma id="art19-com1">
+                            <num>
+1.</num>
+                            <corpo> Il regolamento dell'ARPAM prevede le forme di consultazioni delle associazioni imprenditoriali di categoria, delle organizzazioni sindacali e delle associazioni ambientalistiche e di tutela degli interessi diffusi, sul programma annuale di attività. 
+ 
+</corpo>
+                        </comma>
+                    </articolo>
+                </capo>
+            </titolo>
+            <titolo id="tit3">
+                <num>TITOLO III </num>
+                <rubrica>
+ 
+NORME FINANZIARIE 
+ 
+</rubrica>
+                <articolo id="art20">
+                    <num>Art.20 </num>
+                    <rubrica>
+ 
+(Dotazione finanziaria dell'ARPAM) 
+ </rubrica>
+                    <comma id="art20-com1">
+                        <num>
+1.</num>
+                        <alinea> Le entrate dell'ARPAM sono costituite da: 
+ 
+</alinea>
+                        <el id="art20-com1-leta">
+                            <num>a)</num>
+                            <corpo> una quota del Fondo sanitario determinata secondo parametri fissati dalla Giunta Regionale in relazione al numero dei posti delle Dotazioni organiche del P.M.I.P. del Molise e dei Servizi di Igiene Pubblica trasferiti all'ARPAM, alle relative spese per beni e servizi, nonché ai livelli delle prestazioni tecnico-laboratoristiche erogate e da erogare ed alla particolare complessità delle attività sul territorio;</corpo>
+                        </el>
+                        <el id="art20-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> introiti derivanti dall'effettuazione delle prestazioni erogate a favore di terzi secondo le tariffe stabilite dalla Regione;</corpo>
+                        </el>
+                        <el id="art20-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> finanziamenti per la realizzazione di programmi regionali ed eventuali altre risorse per contratti e convenzioni con enti pubblici e privati;</corpo>
+                        </el>
+                        <el id="art20-com1-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> somme stanziate nei bilanci di Regione, Province e Comuni per l'esercizio delle attività assegnate all'ARPAM;</corpo>
+                        </el>
+                        <el id="art20-com1-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> eventuali finanziamenti dell'Unione Europea per progetti specifici;</corpo>
+                        </el>
+                        <el id="art20-com1-letf">
+                            <num> 
+ 
+f)</num>
+                            <corpo> finanziamenti finalizzati dallo Stato per le attività dell'ARPAM. 
+ 
+</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+                <articolo id="art21">
+                    <num>Art. 21 </num>
+                    <rubrica>
+ 
+(Gestione economico-finanziaria) 
+ </rubrica>
+                    <comma id="art21-com1">
+                        <num>
+1.</num>
+                        <corpo> Per la gestione economico-finanziaria si applicano, in quanto compatibili, le norrne in materia di patrimonio e contabilità in vigore per le Aziende UU.SS.LL. </corpo>
+                    </comma>
+                    <comma id="art21-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Il regolamento di cui al <rif xlink:href="#art11">precedente art. 11</rif> disciplina anche la contabilità dell'ARPAM, definendo i centri di costo per la tenuta di una contabilità di tipo economico. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art22">
+                    <num>Art.22 </num>
+                    <rubrica>
+ 
+(Disposizioni finanziarie) 
+ </rubrica>
+                    <comma id="art22-com1">
+                        <num>
+1.</num>
+                        <corpo> La Regione fa fronte agli oneri derivanti dall'attuazione della presente legge mediante istituzione di appositi capitoli nella parte spesa del bilancio regionale che dovrà essere dotato della necessaria disponibilità in sede di approvazione della legge annuale di bilancio. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit4">
+                <num>TITOLO IV </num>
+                <rubrica>
+ 
+NORME TRANSITORIE E FINALI 
+ 
+</rubrica>
+                <articolo id="art23">
+                    <num>Art.23 </num>
+                    <rubrica>
+ 
+(Soppressione del Presidio Multizonale di Igiene e Prevenzione) 
+ </rubrica>
+                    <comma id="art23-com1">
+                        <num>
+1.</num>
+                        <corpo>
+                            <mod
+                                    id="art23-com1-mod3"> Alla data di costituzione dell'ARPAM è soppresso il Presidio Multizonale di Igiene e Prevenzione del Molise (P.M.I.P.) di cui alla <rif
+                                    xlink:href="urn:nir:regione.molise:legge:1985-05-20;18">legge regionale 20 maggio 1985, n. 18</rif>, ad oggetto: "<virgolette
+                                    id="art23-com1-mod3-vir1" tipo="parola">Istituzione, organizzazione e gestione del Presidio Multizonale di Igiene e Prevenzione della Regione Molise</virgolette>". </mod>
+                        </corpo>
+                    </comma>
+                    <comma id="art23-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Le Commissioni per la protezione dalle radiazioni ionizzanti, operano presso i Dipartimenti provinciali dell'ARPAM. La Giunta Regionale con apposita direttiva disciplina i criteri per la composizione ed il funzionamento di tali Commissioni. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art24">
+                    <num>Art. 24 </num>
+                    <rubrica>
+ 
+(Assegnazione all'ARPAM delle dotazioni organiche e del personale dal Servizio Sanitario Regionale) 
+ </rubrica>
+                    <comma id="art24-com1">
+                        <num>
+1.</num>
+                        <corpo> Sono assegnate all'ARPAM, fin dalla sua costituzione le dotazioni organiche dei settori chimico-ambientale, fisico-ambientale, medico-biotossicologico, degli uffici amministrativi, nonché il personale ispettivo e quello comunque già assegnato del Presidio Multizonale di Igiene e Prevenzione della Regione Molise. </corpo>
+                    </comma>
+                    <comma id="art24-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Il personale del Presidio Multizonale di Igiene e Prevenzione indicato al <rif xlink:href="#art24-com1">precedente comma 1</rif> è assegnato e trasferito all'ARPAM fin dalla sua costituzione. </corpo>
+                    </comma>
+                    <comma id="art24-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Viene assegnato, inoltre, all'ARPAM il personale operante ai sensi della <rif xlink:href="urn:nir:stato:legge:1997;468">legge n. 468/1997</rif> ed in servizio al 31 dicembre 1999 presso il Presidio Multizonale di Igiene e Prevenzione del Molise, in possesso di qualifiche e profili professionali attinenti ai compiti attribuiti dalla presente legge all'ARPAM. 
+ 
+I requisiti richiesti dovranno essere individuati dal Direttore Generale dell'ARPAM, che opererà la selezione sulla base delle specificità tecniche e delle esigenze funzionali dell'ARPAM. </corpo>
+                    </comma>
+                    <comma id="art24-com4">
+                        <num>
+ 
+4.</num>
+
+                        <corpo> Sono assegnati, altresì, all'ARPAM i posti delle dotazioni organiche dei Servizi di Igiene Pubblica delle Aziende UU.SS.LL., individuati in base alla ricognizione effettuata sul personale adibito, alla data del 31 dicembre 1997, alle attività di cui al <rif xlink:href="#art6">precedente art. 6</rif> già di competenza delle Aziende UU.SS.LL., comprese le attività laboratoristiche, trasferite all'ARPAM ai sensi della presente legge. Tale assegnazione ricomprende anche i posti, con arrotondamento della somma all'unità, delle frazioni di personale comunque utilizzato per le attività trasferite. </corpo>
+                    </comma>
+                    <comma id="art24-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo>
+                            <mod id="art24-com5-mod4"> I posti individuati ed assegnati all'ARPAM secondo i precedenti commi 1 e 3 sono soppressi dalle dotazioni organiche delle Aziende UU.SS.LL.. </mod>
+                        </corpo>
+                    </comma>
+                    <comma id="art24-com6">
+                        <num>
+ 
+6.</num>
+
+                        <corpo> Il personale delle Aziende UU.SS.LL. adibito in modo esclusivo alle attività di cui all'<rif xlink:href="#art5">art. 5</rif> è assegnato e trasferito all'ARPAM sin dalla sua costituzione.  </corpo>
+                    </comma>
+                    <comma id="art24-com7">
+                        <num>
+ 
+7.</num>
+
+                        <corpo> Il personale dei Servizi di Igiene Pubblica delle Aziende UU.SS.LL. adibito in prevalenza alle attività di cui all'<rif xlink:href="#art5">art. 5</rif> è assegnato all'ARPAM fin dalla sua costituzione. </corpo>
+                    </comma>
+                    <comma id="art24-com8">
+                        <num>
+ 
+8.</num>
+                        <corpo> Il personale dei Servizi di Igiene Pubblica delle Aziende UU.SS.LL. addetto in modo non esclusivo alle attività trasferite all'ARPAM può esercitare opzione per l'assegnazione definitiva nei posti delle dotazioni organiche di pari profilo professionale, posizione funzionale e settore di attività o, ove previsto, di disciplina, copribili presso l'ARPAM. </corpo>
+                    </comma>
+                    <comma id="art24-com9">
+                        <num>
+ 
+9.</num>
+
+                        <corpo> La Giunta Regionale provvede ad assegnare e trasferire, secondo specifiche graduatorie, predisposte sulla base di criteri previsti dalle normative vigenti in materia, il personale di cui al <rif xlink:href="#art24-com6">precedente comma 6</rif> all'ARPAM o alle Aziende UU.SS.LL.. </corpo>
+                    </comma>
+                    <comma id="art24-com10">
+                        <num>
+ 
+10.</num>
+                        <alinea> All'ARPAM può essere trasferito, a domanda da presentare entro 60 giorni dalla sua istituzione: 
+ 
+</alinea>
+                        <el id="art24-com10-leta">
+                            <num>a)</num>
+                            <corpo> il personale tecnico di ruolo delle Amministrazioni provinciali adibito specificatamente a compiti attribuiti all'ARPAM dalla presente legge;</corpo>
+                        </el>
+                        <el id="art24-com10-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> il personale regionale o degli enti sub-regionali che dimostri, attraverso certificazioni ed attestazioni dei rispettivi dirigenti, di aver prestato, per almeno un quinquennio, la propria attività nell'ambito delle competenze dell'ARPAM. 
+ 
+Qualora il numero delle domande risulti superiore alle disponibilità di organico, il Direttore Generale opera la scelta, fermi restando i requisiti della qualifica e del profilo professionale in rapporto alle specificità ed alle esigenze dell'ARPAM, sulla base dei seguenti requisiti: 
+ 
+- titolo di studio; 
+ 
+- titolo di servizio; 
+ 
+- attività svolte; 
+ 
+- conoscenza dell'uso di strumenti informatici; 
+ 
+- eventuale conoscenza della lingua straniera. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art24-com11">
+                        <num>
+ 
+11.</num>
+                        <corpo> Per un periodo di 6 mesi dalla data di costituzione dell'ARPAM e comunque fino alla organizzazione delle strutture amministrative dell'ARPAM stessa, il trattamento economico del personale trasferito e assegnato all'ARPAM è assicurato, in anticipazione, dagli Enti di provenienza. </corpo>
+                    </comma>
+                    <comma id="art24-com12">
+                        <num>
+ 
+12.</num>
+                        <corpo> Per la copertura di posti vacanti e disponibili nelle dotazioni organiche dell'ARPAM può essere utilizzato l'istituto della mobilità tra le Pubbliche Amministrazioni secondo le norme vigenti. </corpo>
+                    </comma>
+                    <comma id="art24-com13">
+                        <num>
+ 
+13.</num>
+                        <corpo>
+                            <mod id="art24-com13-mod5"> Il personale del soppresso PMIP, entro 120 giorni dalla costituzione dell'ARPAM, può, a domanda, essere trasferito, con priorità, presso i Dipartimenti di prevenzione delle Aziende UU.SS.LL. della Regione, in relazione alle competenze trasferite alle stesse, nei posti delle dotazioni organiche di pari profilo professionale, posizione funzionale e settore di attività o, ove previsto, di disciplina, copribili presso le Aziende UU.SS.LL.. 
+ 
+</mod>
+                        </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art25">
+                    <num>Art.25 </num>
+                    <rubrica>
+ 
+(Dichiarazione d'urgenza) 
+ </rubrica>
+                    <comma id="art25-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La presente legge è dichiarata urgente ai sensi dell'<rif
+                                xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto regionale</rif>. Essa entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione. 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo, a chiunque spetti, di osservarla e farla osservare come legge della Regione Molise. 
+ 
+
+?>
+        <annessi>
+            <annesso id="ann1">
+                <testata>
+                    <denAnnesso>
+                        <h:p>Allegato 1</h:p>
+                    </denAnnesso>
+                    <titAnnesso>
+                        <h:p/>
+                    </titAnnesso>
+                    <preAnnesso>
+                        <h:p/>
+                    </preAnnesso>
+                </testata>
+                <DocumentoNIR nome="">
+                    <meta>
+                        <descrittori>
+                            <pubblicazione norm="" num="" tipo="GU"/>
+                            <entratainvigore norm=""/>
+                            <redazione id="ann1-red1" nome="" norm=""/>
+                            <urn valore=""/>
+                        </descrittori>
+                    </meta>
+                    <intestazione/>
+                    <formulainiziale/>
+                    <contenitore id="ann1-" nome="">
+                        <h:p/>
+                        <h:p>RIPARTO DELLE COMPETENZE IN MATERIA DI PREVENZIONE COLLETTIVA E CONTROLLI AMBIENTALI TRA AZIENDE UU.SS.LL E ARPAM 
+ 
+</h:p>
+                        <h:p>DIPARTIMENTO DI PREVENZIONE DELLE AZIENDE UU.SS.LL. AGENZIA REGIONALE PER LA PREVENZIONE E L'AMBIENTE 
+ 
+  
+ 
+</h:p>
+                        <h:p>- igiene e sanità pubblica: 
+</h:p>
+                        <h:p> 
+malattie infettive e diffusive, 
+ 
+</h:p>
+                        <h:p>igiene edilizia, 
+ 
+</h:p>
+                        <h:p>medicina legale, 
+ 
+</h:p>
+                        <h:p>igiene delle strutture ad uso collettivo, 
+ 
+</h:p>
+                        <h:p>coordinamento di programmi di prevenzione secondaria; - prevenzione e controllo arnbientale con riferimento a: 
+</h:p>
+                        <h:p> 
+ acqua, 
+ 
+ </h:p>
+                        <h:p>aria, 
+ 
+ </h:p>
+                        <h:p>suolo, 
+ 
+ </h:p>
+                        <h:p>rifiuti; 
+</h:p>
+                        <h:p> 
+ - radioattività ambientale o OEM; 
+</h:p>
+                        <h:p> 
+- rete laboratoristica per accertamenti su malattie infettive e diffusive 
+ 
+</h:p>
+                        <h:p>(coproculture, tamponi faringei, VDRL, ecc.);  
+</h:p>
+                        <h:p/>
+                        <h:p>- rete laboratoristica per la tutela dell'ambiente e per l'esercizio delle funzioni di sanità pubblica  
+ 
+ </h:p>
+                        <h:p>(acque per il consumo umano, alimenti,  
+ 
+ </h:p>
+                        <h:p>acque di balneazione, igiene del lavoro,  
+ 
+ </h:p>
+                        <h:p>tossicologia industriale, ecc.) 
+ 
+  
+ 
+</h:p>
+                        <h:p>- igiene degli alimenti, della nutrizione e delle acque per il consumo umano  
+ 
+ </h:p>
+                        <h:p>- grandi rischi industriali; 
+</h:p>
+                        <h:p> 
+- sanità animale  
+ 
+  
+ 
+</h:p>
+                        <h:p>- igiene degli alimenti di origine animale e loro derivati;  
+</h:p>
+                        <h:p/>
+                        <h:p>- igiene degli alimenti e delle produzioni zootecniche;  
+</h:p>
+                        <h:p> 
+ - controlli impiantistici preventivi e periodici in campo ambientale 
+ 
+</h:p>
+                        <h:p>- tutela della salute dei lavoratori;  
+</h:p>
+                        <h:p/>
+                        <h:p>- controlli impiantistici preventivi e periodici;  
+</h:p>
+                        <h:p/>
+                        <h:p>- inquinamento acustico negli ambienti di lavoro;  
+</h:p>
+                        <h:p> 
+ - inquinamento acustico negli ambienti di vita. 
+</h:p>
+                        <h:p/>
+                    </contenitore>
+                    <formulafinale/>
+                    <conclusione/>
+                </DocumentoNIR>
+            </annesso>
+            <annesso id="ann2">
+                <testata>
+                    <denAnnesso>
+                        <h:p>Allegato 2</h:p>
+                    </denAnnesso>
+                    <titAnnesso>
+                        <h:p/>
+                    </titAnnesso>
+                    <preAnnesso>
+                        <h:p/>
+                    </preAnnesso>
+                </testata>
+                <DocumentoNIR nome="">
+                    <meta>
+                        <descrittori>
+                            <pubblicazione norm="" num="" tipo="GU"/>
+                            <entratainvigore norm=""/>
+                            <redazione id="ann2-red1" nome="" norm=""/>
+                            <urn valore=""/>
+                        </descrittori>
+                    </meta>
+                    <intestazione/>
+                    <formulainiziale/>
+                    <contenitore id="ann2-" nome="">
+                        <h:p/>
+                        <h:p>REGIONE MOLISE 
+ 
+</h:p>
+                        <h:p>AGENZIA REGIONAI,E PER LA PREVENZIONE E L'AMBIENTE 
+ 
+</h:p>
+                        <h:p>(A R P A) 
+ 
+</h:p>
+                        <h:p>Omissis 
+</h:p>
+                    </contenitore>
+                    <formulafinale/>
+                    <conclusione/>
+                </DocumentoNIR>
+            </annesso>
+        </annessi>
+    </LeggeRegionale>
+</NIR>

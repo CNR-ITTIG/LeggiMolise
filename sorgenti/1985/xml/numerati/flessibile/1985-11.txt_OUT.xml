@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19850430" num="9" tipo="BURM"/>
+                <entratainvigore norm="19850515"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1985-04-19;9"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="36.Turismo e industria alberghiera"/>
+                </materie>
+            </descrittori>
+        </meta><?error 36.Turismo e industria alberghiera 
+ 
+Bollettino 
+Bollettino Ufficiale n. 09 del 30/04/85 
+ 
+Oggetto 
+Associazioni turistiche - Albo regionale - Istituzione 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19850419">19 Aprile 1985</dataDoc>, n. <numDoc>9</numDoc>
+            <titoloDoc>Istituzione dell'Albo Regionale delle Associazioni Turistiche 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: FINALITÀ 
+ 
+La Regione Molise, in riconoscimento dell'attività promozionale e di supporto, ai fini dell'incentivazione e della commercializzazione dell'offerta nel settore turistico, svolta dalle Associazioni costituite con tali finalità, assume l'impegno di intervenire con contributi annuali che la Giunta Regionale è autorizzata ad erogare con le procedure e le modalità previste dalla presente legge. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+
+                <rubrica>: BENEFICIARI 
+ 
+Hanno titolo ai contributi previsti dal <rif xlink:href="#art1">precedente art. 1</rif> le Associazioni che risultino iscritte nell'apposito Albo che verrà istituito presso l'Assessorato Regionale al Turismo entro 30 giorni   dalla data di entrata in vigore della presente legge. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3</num>
+                <rubrica>: ALBO REGIONALE 
+ 
+Ai fini dell'iscrizione nell'Albo delle Associazioni Turistiche è richiesto il concorso delle seguenti condizioni: 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1)</num>
+                    <corpo> che si tratti di Associazioni che assumano nei loro fini istituzionali il perseguimento di attività promozionali e di incentivazione turistica senza fini di lucro e con riferimento all'intera area regionale, escluso l'interesse turistico localmente limitato; 
+ </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+2)</num>
+                    <corpo> che sia dimostrata una disponibilità finanziaria, per quote sociali o per il valore del patrimonio formalmente acquisito, idonea ad assicurare il perseguimento dei fini sociali indipendentemente dall'intervento regionale; 
+ </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+3)</num>
+                    <corpo> che l'Associazione non rappresenti interessi di categoria ma costituisca una struttura operativa, nell'area dell'interesse turistico regionale; che soddisfi le generali esigenze di tutte le   categorie comunque interessate allo sviluppo economico del turismo molisano. 
+ 
+L'accertamento in ordine al possesso dei requisiti sopra elencati è  riservato alla competente Commissione Consiliare previa istruttoria da parte dell'Assessorato Regionale al Turismo che a   tali fini dovrà formulare concrete proposte. 
+ 
+Successivamente, la Giunta Regionale, con motivata deliberazione disporrà l'iscrizione all'Albo dell'Associazione richiedente ovvero la reiezione della  domanda di iscrizione. 
+ 
+La revisione dell'Albo è disposta annualmente entro il mese di febbraio. 
+ 
+Le cancellazioni dall'Albo sono disposte dalla Giunta Regionale su proposta motivata dell'Assessorato al Turismo, qualora venga a mancare uno o più requisiti previsti dalla presente legge. Le relative deliberazioni sono pubblicate, per estratto nel Bollettino Ufficiale della Regione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+                <rubrica>: PROVVIDENZE 
+ 
+Ogni anno la Giunta Regionale, d'intesa con la competente Commissione Consiliare, eroga contributi alle Associazioni iscritte all'Albo nei limiti dello stanziamento di bilancio e sulla base di una analitica valutazione degli elementi di giudizio che le Associazioni dovranno precisare nella domanda di contributo, con riferimento all'attività effettivamente svolta ed al programma   annuale o pluriennale di attività. 
+ 
+L'ammontare del contributo è commisurato al programma da realizzare e al valore del patrimonio sociale. 
+ 
+Alla domanda, da presentare entro il 28 febbraio di ogni anno, dovrà essere allegato un consuntivo della spesa sostenuta nell'anno precedente ed un preventivo della spesa cui si riferisce il contributo. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+
+                <rubrica>: NORMA TRANSITORIA 
+ 
+Nella prima applicazione della presente legge la domanda di iscrizione all'Albo va proposta nel termine perentorio di 60 giorni dalla data di entrata in vigore della legge stessa e la domanda di   contributo, da valere per l'anno 1985, entro 30 giorni dalla pubblicazione dell'Albo nel Bollettino Ufficiale della Regione Molise. 
+ 
+All'Albo delle Associazioni Turistiche di cui all'<rif xlink:href="#art3">art. 3</rif>, è iscritto, di ufficio, il Consorzio Molisano Turistico (COMOLTUR) con sede in Campobasso, in possesso già dei requisiti previsti dalla presente legge. 
+ 
+Per l'anno 1985 il contributo al Consorzio Molisano Turistico (COMOLTUR) è determinato in L. 120.000.000. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6</num>
+
+                <rubrica>: NORMA FINANZIARIA 
+ 
+All'onere derivante dall'applicazione della presente legge si farà fronte con quota parte dei fondi attribuiti alla Regione ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1970-05-16;281#art8">art. 8 della legge 16 maggio 1970, n. 281</rif>. 
+ 
+La spesa presunta di L. 120.000.000 per l'anno 1985 è posta a carico del capitolo di uscita n. 53150. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7</num>
+                <rubrica>: Pubblicazione 
+ 
+La presente legge regionale sarà pubblicata nel Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

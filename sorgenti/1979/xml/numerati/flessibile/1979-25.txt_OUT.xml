@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19790516" num="9" tipo="BURM"/>
+                <entratainvigore norm="19790531"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1979-05-02;16"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="30.Promozione e organizzazione di attivit&amp;#xE0; culturali e delle tradizioni locali, associazionismo"/>
+                </materie>
+            </descrittori>
+        </meta><?error 30.Promozione e organizzazione di attivit&#xE0; culturali e delle tradizioni locali, associazionismo 
+22.Organizzazione delle funzioni amministrative a livello regionale e locale 
+ 
+Bollettino 
+Bollettino Ufficiale n. 09 del 16/05/79 
+ 
+Oggetto 
+Centri di lettura stabili e mobili Centri Sociali di Educazione Permanente Biblioteche popolari e altri servizi culturali - Trasferimento ai Comuni - Procedure - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19790502">2 Maggio 1979</dataDoc>, n. <numDoc>16</numDoc>
+
+            <titoloDoc>Norme per l'attuazione degli articoli 47 e 49 del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616">D.P.R. 24 luglio 1977, n. 616</rif>
+            </titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+La presente legge disciplina il trasferimento ai Comuni dei Centri di Lettura stabili e mobili, dei Centri Sociali di Educazione Permanente, delle Biblioteche popolari ed altri servizi culturali, già di competenza dell'amministrazione scolastica statale, al fine di assicurare la continuità di detti servizi per il corrente anno e comunque fino all'emanazione di una legge di riforma del settore e di delimitazione degli ambiti territoriali per la gestione dei servizi bibliotecari. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+
+                <rubrica>
+ 
+I beni in dotazione delle biblioteche popolari, dei Centri Sociali di Educazione Permanente, dei Centri di Lettura stabili e mobili nonché degli altri servizi e uffici di cui al <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616#art47-com2">2° comma dell'art.47 del D.P.R. 24 luglio 1977, n. 616</rif>, sono trasferiti ai Comuni nel cui territorio detti servizi hanno sede. 
+ 
+La consistenza dei beni e delle attrezzature dei servizi bibliotecari sopra elencati sarà accertata, in contraddittorio, da un funzionario dell'amministrazione statale competente e   dall'Amministrazione comunale interessata, alla presenza di un funzionario designato dal Presidente della Giunta Regionale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+
+                <rubrica>
+ 
+Il personale di ruolo e a tempo indeterminato dei suddetti centri è trasferito, a domanda, al Comune già sede di uno dei servizi di cui al <rif xlink:href="#art1">precedente articolo 1</rif> e sarà utilizzato nello   svolgimento delle attività trasferite. 
+ 
+Il personale non di ruolo, a tempo determinato, in servizio all'anno scolastico 1977-1978 con diritto alla riconferma è assegnato ai Comuni sedi del servizio ed è utilizzato per lo svolgimento delle suddette attività con le stesse modalità e nei limiti del rapporto di lavoro precedente. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+I beni e le attrezzature dei Centri dei servizi culturali di Campobasso e Isernia, previ opportuni accordi con le locali amministrazioni comunali, sono trasferiti ai Comuni nei quali si trovano. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+Il personale regionale in servizio presso i Centri di cui all'articolo precedente ha facoltà di optare, previo assenso della Regione e del Comune, per il trasferimento al Comune entro e non oltre il 31 dicembre 1979. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+Per lo svolgimento delle attività di educazione permanente per mezzo delle strutture indicate negli articoli 2 e 4, i Comuni terranno conto delle indicazioni e delle proposte dei Distretti   Scolastici. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+
+                <rubrica>
+ 
+Per assicurare la continuità nella gestione dell'attività e dei servizi del sistema bibliotecario dell'Alto Sangro, il Presidente della Regione, su proposta della Giunta Regionale, potrà procedere ai sensi dell'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616#art8">art. 8 del D.P.R. 24 luglio 1977, n. 616</rif>. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>
+ 
+La Regione Molise concede per l'anno 1979 contributi straordinari per la riorganizzazione e la gestione dei servizi di cui alla presente legge, già di competenza dell'amministrazione scolastica   statale. 
+ 
+Il piano degli interventi è approvato dal Consiglio Regionale, su proposta della Giunta Regionale e sulla base di elementi raccolti dal competente settore dell'Assessorato alla Pubblica Istruzione. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+
+                <rubrica>
+ 
+Al finanziamento degli interventi previsti dalla presente legge, si farà fronte per l'anno 1979 con l'iscrizione in bilancio, al Tit. I, Sez. 2, Rub. 4. Sett. 2, del nuovo Capitolo di spesa n. 15910 &lt;&lt; Fondi da trasferire agli Enti Locali per l'attuazione delle funzioni amministrative previste dagli articoli 47 e 49 del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616">D.P.R. n. 616 del 24 luglio 1977</rif> &gt;&gt;, con stanziamento di competenza ed una dotazione di cassa di L. 250.000.000 (duecentocinquantamilioni), previe analoghe riduzioni del   Capitolo di spesa n. 55200. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+
+                <rubrica>
+ 
+La presente legge è dichiarata urgente ai sensi del <rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">secondo comma dell'art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto Regionale</rif>, ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art10-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

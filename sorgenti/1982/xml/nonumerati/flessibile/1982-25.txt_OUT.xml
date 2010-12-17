@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19820116" num="1" tipo="BURM"/>
+                <entratainvigore norm="19820131"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1982-01-04;1"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="06.Consiglieri regionali e gruppi consiliari"/>
+                </materie>
+            </descrittori>
+        </meta><?error 06.Consiglieri regionali e gruppi consiliari 
+ 
+Bollettino 
+Bollettino Ufficiale n. 01 del 16/01/82 
+ 
+Oggetto 
+Consiglieri regionali - Indennit&#xE0; - Rimborsi - Modifiche 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 16/1997 art. 9 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19820104">4 Gennaio 1982</dataDoc>, n. <numDoc>1</numDoc>
+            <titoloDoc>Modifiche alle leggi regionali 5 marzo 1975, n. 23 e 15 luglio 1976, n. 22 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 16/1997 art. 9</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

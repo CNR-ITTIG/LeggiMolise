@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-02-17;10"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="31.Protezione civile, rischio sismico, regime delle acque e rischio idrogeologico"/>
+                </materie>
+            </descrittori>
+        </meta><?error 31.Protezione civile, rischio sismico, regime delle acque e rischio idrogeologico 
+ 
+Bollettino 
+Bollettino Ufficiale n. 04 del 22 febbraio 2000 
+ 
+Oggetto 
+Servizio nazionale di Protezione civile: disciplina del sistema regionale di protezione civile. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20000217">17 febbraio 2000</dataDoc>, n. <numDoc>10</numDoc>. 
+ 
+<titoloDoc>Disciplina del sistema regionale di protezione civile. 
+ 
+Il Commissario di Governo ha apposto il visto ed ha annotato quanto segue:  
+ 
+"Si comunica che il Governo, preso atto della nota n. 643 del 10 febbraio 2000 con la quale il Presidente del Consiglio Regionale del Molise ha rettificato il testo dell'<rif
+                    xlink:href="#art11">art. 11</rif> nella seduta del Consiglio dei Ministri in data 11 febbraio 2000, ha deliberato di non opporsi all'ulteriore corso consentendo l'urgenza della legge regionale. 
+ 
+Con l'occasione si segnala che il riferimento all'<rif
+                    xlink:href="#art2">art. 2</rif>, contenuto nell'art. 14, comma 2, lettera c) e nell'art. 22, comma 3, andrebbe integrato dall'indicazione dei corrispondente comma; inoltre si evidenzia all'<rif
+                    xlink:href="#art38">art. 38</rif> il riferimento alla lettera g) dell'art. 3, comma 2 ora soppressa, e l'errato richiamo del medesimo <rif xlink:href="#art38">art. 38</rif> agli articoli 25, 26 e 27 anziché agli articoli 24, 25 e 26". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <titolo id="tit1">
+                <num>TITOLO I </num>
+                <rubrica>
+ 
+DISPOSIZIONI GENERALI 
+ 
+</rubrica>
+                <articolo id="art1">
+                    <num>Art. 1 </num>
+                    <comma id="art1-com1">
+                        <num/>
+
+                        <corpo>
+Finalità  
+ 
+1. La Regione Molise partecipa al Servizio Nazionale di Protezione Civile, istituito dalla <rif
+                                xlink:href="urn:nir:stato:legge:1992-02-24;225">legge 24 febbraio 1992, n. 225</rif>, assicurando, nei limiti delle competenze proprie o delegate, in armonia con i principi contenuti nella <rif
+                                xlink:href="urn:nir:stato:legge:1990;142">legge n. 142/1990</rif>, nella <rif
+                                xlink:href="urn:nir:stato:legge:1997;59">legge n. 59/1997</rif> e nel <rif
+                                xlink:href="urn:nir:stato:decreto.legislativo:1998;112">Decreto Legislativo n. 112/1998</rif>, lo svolgimento delle attività di protezione civile indicate nel <rif xlink:href="#art3">successivo articolo 3</rif>, al fine di tutelare la integrità della vita, i beni, insediamenti e l'ambiente dai danni e/o dal pericolo di danni derivanti da calamità naturali, da catastrofi e da altri eventi calamitosi.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art2">
+                    <num>Art. 2 </num>
+                    <comma id="art2-com1">
+                        <num/>
+                        <corpo>
+Tipologia degli eventi calamitosi e dei rischi 
+ 
+1. Ai fini dell'attività di protezione civile gli eventi si distinguono in:</corpo>
+                    </comma>
+                    <comma id="art2-com2">
+                        <num/>
+                        <corpo>a. eventi naturali o connessi con l'attività dell'uomo che possono essere fronteggiati mediante interventi attuabili in via ordinaria dal Comune utilizzando le risorse disponibili nell'ambito delle competenze proprie o delegate; 
+ 
+b. eventi naturali o connessi con l'attività dell'uomo che, per loro natura ed estensione, comportano, in via ordinaria, l'intervento di più enti o amministrazioni competenti; 
+ 
+c. calamità naturali, catastrofi o altri eventi che, per intensità ; ed estensione, debbono essere fronteggiati con mezzi e poteri straordinari dallo Stato d'intesa con la Regione Molise, altre Regioni ed Enti locali interessati. 
+ 
+2. Gli interventi di protezione civile della regione riguardano i rischi:</corpo>
+                    </comma>
+                    <comma id="art2-com3">
+                        <num/>
+
+                        <corpo>a. idrogeologici, con frane e alluvioni; 
+ 
+b. sismici, 
+ 
+c. industriali da sostanze pericolose; 
+ 
+d. da incendi boschivi e incendi, quando, per natura ed estensione, si configurano come eventi di protezione civile, fatto salvo quanto previsto dall'<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art107">art. 107 del decreto legislativo n. 112/1998</rif>; 
+ 
+e. da altre calamità che si verificano sul territorio regionale. </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art3">
+                    <num>Art.3 </num>
+                    <comma id="art3-com1">
+                        <num/>
+
+                        <corpo>
+Funzioni e attività regionali di protezione civile 
+ 
+1. La Regione Molise predispone programmi di previsione e prevenzione dei rischi, di cui al <rif xlink:href="#art7">successivo articolo 7</rif>, sulla base degli indirizzi nazionali. 
+ 
+2. La Regione esercita altresì le seguenti funzioni di carattere unitario a livello regionale:</corpo>
+                    </comma>
+                    <comma id="art3-com2">
+                        <num/>
+
+                        <corpo>a. il soccorso alle popolazioni sinistrate, attuando interventi diretti ad assicurare alle popolazioni colpite dagli eventi, in ambito regionale, una forma di prima assistenza; 
+ 
+b. l'attuazione di interventi urgenti in caso di crisi determinata dal verificarsi o dall'imminenza di eventi di cui all'<rif
+                                xlink:href="urn:nir:stato:legge:1992-02-24;225#art2-com1-letb">art. 2, comma 1, lett. b), della legge 24 febbraio 1992, n. 225</rif>, avvalendosi anche del Corpo Nazionale dei Vigili del Fuoco; 
+ 
+c. gli indirizzi per la predisposizione dei piani provinciali di emergenza in caso di eventi calamitosi di cui all'<rif
+                                xlink:href="urn:nir:stato:legge:1992-02-24;225#art2-com1-letb">art. 2, comma 1, lett. b), della legge 24 febbraio 1992, n. 225</rif>; 
+ 
+d. l'attuazione, coordinata con gli organi istituzionali competenti, degli interventi necessari ed indilazionabili volti a rimuovere gli ostacoli per favorire il ritorno alle normali condizioni di vita delle aree colpite da eventi calamitosi; 
+ 
+e. lo spegnimento degli incendi boschivi, con esclusione del soccorso tecnico urgente con mezzi aerei, la cui funzione è mantenuta allo Stato;  
+ 
+f. gli interventi per l'organizzazione e l'utilizzo del volontariato. 
+ 
+3. La Regione realizza le intese con lo Stato in ordine ai compiti di cui all'articolo 107, comma 1, lettere b), c), f), del <rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112">decreto legislativo n. 112/1998</rif>.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art4">
+                    <num>Art.4 </num>
+                    <comma id="art4-com1">
+                        <num/>
+                        <corpo>
+Collaborazione e solidarietà interregionale 
+ 
+1. La Regione, su richiesta e previa intesa con i competenti organi statali e con le regioni interessate, può partecipare alle iniziative di protezione civile nel territorio di altre regioni, coordinando il proprio intervento con quello attuato dai predetti organi ed enti. 
+ 
+2. La Regione favorisce, d'intesa con i competenti organi statali e regionali di protezione civile, il coordinamento nel proprio territorio degli interventi e delle iniziative di solidarietà promosse dalle altre regioni.  
+ 
+3. La Regione può addivenire ad intese preventive con le altre regioni ai fini dell'espletamento di attività di comune interesse attinenti alle fasi di previsione, prevenzione e dell'emergenza in materia di protezione civile per ciascuna ipotesi di rischio, in armonia con i programmi nazionali.  
+ 
+4. La Giunta regionale adotta i provvedimenti attuativi delle disposizioni del presente articolo, formulando le opportune direttive e definendo le attribuzioni del Presidente della Giunta Regionale e del Dirigente del Servizio per la protezione civile, secondo i principi fissati dalla presente legge.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art5">
+                    <num>Art.5 </num>
+                    <comma id="art5-com1">
+                        <num/>
+
+                        <corpo>
+Volontariato e protezione civile 
+ 
+1. Conformemente ai principi stabiliti dalla <rif xlink:href="urn:nir:stato:legge:1991-08-11;266">legge n. 266 dell'11 agosto 1991</rif> (legge quadro sul volontariato), la Regione Molise riconosce la funzione del volontariato come espressione di solidarietà sociale, quale forma spontanea di partecipazione dei cittadini all'attività di protezione civile a tutti i livelli, assicurandone l'autonoma formazione, l'impegno e lo sviluppo. 
+ 
+2. L'attività di volontariato di protezione civile, ai fini della presente legge, è gratuita e si svolge in forma di collaborazione, integrandosi con l'attività degli enti, servizi ed uffici competenti a cui spetta fornire le direttive in ordine agli interventi. 
+ 
+3. L'attività di volontariato di protezione civile può essere svolta:</corpo>
+                    </comma>
+                    <comma id="art5-com2">
+                        <num/>
+
+                        <corpo>a. da singoli cittadini, attraverso la partecipazione all'attività dei gruppi comunali, istituiti presso il comune di residenza; 
+ 
+b. dalle associazioni di volontariato ("organizzazioni di volontariato") costituite ai sensi del <rif
+                                xlink:href="urn:nir:presidente.repubblica:decreto:1994-09-21;613">D.P.R. 21 settembre 1994 n. 613</rif> e dalle organizzazioni di volontariato iscritte all'Albo regionale del Volontariato di protezione civile, come previsto dall'<rif
+                                xlink:href="#art7">articolo 7</rif>; 
+ 
+c. dai gruppi comunali o intercomunali, istituiti dai comuni e dalle comunità montane. 
+ 
+4. La Regione può concorrere con il proprio contributo alle iniziative intraprese dalle organizzazioni di volontariato per la prevenzione dei fenomeni calamitosi e per la tutela delle popolazioni, nonché a quelle di formazione ed informazione nei confronti del volontariato ovvero ad altre attività promosse dalle organizzazioni di volontariato. Il contributo regionale può essere esteso alle assicurazioni per responsabilità civile o per infortunio che le organizzazioni di volontariato devono per legge stipulare per la loro attività, nonché alle spese per i controlli sanitari periodici e a quelli obbligatori ai sensi del <rif xlink:href="urn:nir:stato:decreto.legislativo:1994-09-19;626">Decreto Legislativo 19 settembre 1994, n. 626</rif>, e successive modificazioni ed integrazioni. 
+ 
+5. Nell'assegnazione di contributi a qualsiasi titolo alle, organizzazioni di volontariato è data priorità alle iniziative gestite in collaborazione tra più associazioni o gruppi comunali o intercomunali di volontari di protezione civile. 
+ 
+6. La Regione promuove e disciplina lo svolgimento di attività formative e addestrative dei volontari e può altresì fornire loro in comodato gratuito mezzi ed attrezzature. 
+ 
+7. La Regione promuove, sentita la Conferenza regionale delle Autonomie locali, presso la Presidenza del Consiglio - Ufficio nazionale servizio civile, convenzioni per l'utilizzazione degli obiettori di coscienza da parte delle organizzazioni del volontariato e dei comuni nelle zone colpite da eventi calamitosi.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art6">
+                    <num>Art.6 </num>
+                    <comma id="art6-com1">
+                        <num/>
+
+                        <corpo>
+Albo regionale del Volontariato di protezione civile 
+ 
+1. Per le finalità di cui alla presente legge, è istituito presso la struttura regionale competente alla protezione civile, sulla base del censimento della presenza territoriale delle strutture di volontariato, l'Albo regionale del Volontariato di protezione civile, relativamente alle organizzazioni di volontariato e ai gruppi, suddiviso per competenze professionali e specialità ed articolato a livello regionale e comunale. 
+ 
+2. Le modalità relative all'iscrizione nell'Albo regionale, ai rapporti fra Amministrazione regionale e i soggetti volontari, gli obblighi derivanti dall'iscrizione nonché le forme di partecipazione alle attività di protezione civile, anche fuori dalla Regione, sono disciplinati con apposita deliberazione di Giunta Regionale entro tre mesi dall'entrata in vigore della presente legge, nel rispetto delle disposizioni in essa contenute e, in quanto compatibili e applicabili, delle disposizioni di cui alla <rif
+                                xlink:href="urn:nir:regione.molise:legge:1995-01-27;3">Legge Regionale 27 gennaio 1995, n. 3</rif>. 
+ 
+3. La Regione favorisce la partecipazione alle attività di protezione civile delle associazioni od organizzazioni senza scopo di lucro che, pur non essendo iscritte all'Albo regionale, sono inserite negli elenchi nazionali, previsti dalla <rif xlink:href="urn:nir:stato:legge:1991-08-11;266">legge 11 agosto 1991, n. 266</rif>, e dalla vigente normativa sulla protezione civile.</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit2">
+                <num>TITOLO II </num>
+                <rubrica>
+ 
+PROGRAMMAZIONE DELL'ATTIVITÀ REGIONALE 
+ 
+</rubrica>
+                <articolo id="art7">
+                    <num>Art.7 </num>
+                    <comma id="art7-com1">
+                        <num/>
+                        <corpo>
+Programma regionale di previsione e prevenzione 
+ 
+1. I programmi regionali di previsione disciplinano in particolare:</corpo>
+                    </comma>
+                    <comma id="art7-com2">
+                        <num/>
+                        <corpo>a. l'installazione, la rilevazione, la raccolta, la memorizzazione e l'elaborazione dei dati riguardanti il territorio regionale rilevanti ai fini della individuazione dei rischi e della previsione degli eventi calamitosi; si tiene conto, a tale fine, dei dati conoscitivi del territorio, di quelli probabilistici di accadimento per mezzo delle banche dati e degli eventi storici; 
+ 
+b. la preordinazione di studi e ricerche sui fenomeni potenzialmente produttivi di eventi calamitosi e sulle relative cause, con l'individuazione delle situazioni di rischio e di pericolo esistenti; 
+ 
+c. l'analisi e la valutazione delle condizioni sociali, culturali e strutturali della realtà regionale che possono essere rilevanti ai fini dell'individuazione delle possibili ipotesi di rischio; 
+ 
+d. la definizione delle mappe dei rischi presenti nel territorio regionale in base alle caratteristiche di pericolosità, di esposizione e di vulnerabilità delle singole zone. 
+ 
+2. I programmi regionali di prevenzione disciplinano in paracolare:</corpo>
+                    </comma>
+                    <comma id="art7-com3">
+                        <num/>
+                        <corpo>a. il fabbisogno di opere e di interventi pubblici di prevenzione determinandone le relative priorità; 
+ 
+b. le azioni e gli eventuali interventi normativi, amministrativi e tecnici ai fini della attuazione del programma; 
+ 
+c. l'individuazione di procedure e metodi per gli interventi rivolti all'adeguamento alle esigenze della protezione civile del patrimonio edilizio pubblico e privato; 
+ 
+d. l'organizzazione di periodiche esercitazioni con le strutture delle autonomie locali, degli enti e delle aziende dipendenti, delle Aziende Sanitarie Locali, del Corpo Forestale dello Stato e delle associazioni di volontariato, per sperimentare i sistemi di allertamento e di intervento nonché per affinare le forme di reciproca collaborazione; 
+ 
+e. la realizzazione di attività informative e di sensibilizzazione, in favore delle popolazioni interessate alle diverse ipotesi di rischio, sui comportamenti da tenere per prevenire gli eventi calamitosi o per ridurre gli effetti dannosi nonché per l'immediata organizzazione del soccorso basata sulla capacità della comunità di sfruttare le proprie risorse; 
+ 
+f. la realizzazione di corsi di formazione professionale e di aggiornamento del personale adibito istituzionalmente ad attività di protezione civile, nonché per il personale proveniente dal volontariato; 
+ 
+g. la formulazione di proposte e di suggerimenti per la elaborazione di normative e di disposizioni tecniche finalizzate alla eliminazione e alla riduzione del rischio rispetto ai possibili eventi catastrofici di origine naturale o tecnologica; 
+ 
+h. la predisposizione di studi rivolti a ricercare le soluzioni tecniche più idonee per le messa in sicurezza degli impianti e del territorio; 
+ 
+i. gli indirizzi per l'acquisizione di mezzi, materiali, attrezzature e scorte non deperibili da conferire in comodato o in uso agli enti locali, alle aziende sanitarie locali, agli enti e aziende regionali, al Corpo Forestale dello Stato e alle associazioni di volontariato con l'obbligo di immediata disponibilità per impieghi di protezione civile. 
+ 
+3. I programmi regionali di previsione e prevenzione disciplinano le forme di partecipazione alle attività di protezione civile delle competenti strutture della Regione, degli enti e delle aziende da essa dipendenti, delle aziende sanitarie locali, nonché degli enti locali e delle strutture dello Stato operanti nella Regione Molise. 
+ 
+4. La Giunta Regionale stabilisce, altresì, le priorità nell'espletamento delle diverse iniziative in relazione anche alle risorse finanziarie disponibili; a tal fine è anche consentita l'adozione di programmi parziali di previsione e prevenzione, ovvero limitati a singole aree del territorio regionale. In attesa dell'adozione dei programmi, la stessa Giunta autorizza il Servizio regionale per la protezione civile ad avviare le attività più urgenti, acquisito il parere o su proposta del Comitato tecnico-scientifico.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art8">
+                    <num>Art.8 </num>
+                    <comma id="art8-com1">
+                        <num/>
+                        <corpo>
+Prescrizioni per la pianificazione territoriale 
+ 
+1. I programmi di previsione e prevenzione, anche se limitati a singole zone del territorio regionale, possono contenere prescrizioni e limiti in ordine all'espletamento dell'attività di pianificazione territoriale da parte dei comuni attraverso l'espressa individuazione dei vincoli di destinazione o di interventi preventivi per eliminare o mitigare gli effetti negativi dei possibili eventi calamitosi. 
+ 
+2. I comuni interessati conformano i propri strumenti urbanistici alle previsioni dei programmi regionali entro cinque mesi dalla pubblicazione del relativo provvedimento di approvazione nel Bollettino Ufficiale della Regione. 
+ 
+3. Qualora il comune non provveda entro il termine di cui al comma 2, salvo il caso di proroga concessa dalla Giunta Regionale su richiesta motivata del comune medesimo, la Giunta regionale adotta i provvedimenti sostitutivi previsti dalla vigente legislazione in materia urbanistica.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art9">
+                    <num>Art.9 </num>
+                    <comma id="art9-com1">
+                        <num/>
+
+                        <corpo>
+Interventi pubblici prioritari 
+ 
+1. I risultati degli studi e delle indagini rivolti alla elaborazione delle mappe dei rischi in base all'accertamento del grado di pericolosità, di vulnerabilità e di esposizione dei siti e delle edificazioni, nonché alla individuazione del fabbisogno di opere e di interventi pubblici di prevenzione, con la indicazione delle relative scale di priorità, formano oggetto di espressa ed autonoma approvazione da parte della Giunta Regionale. 
+ 
+2. Il relativo provvedimento - che può essere riferito anche a singole aree del territorio regionale - è notificato ai servizi della Regione, agli enti non economici da essa dipendenti, alle amministrazioni comunali e provinciali, alle comunità montane, alle aziende sanitarie locali. 
+ 
+3. Le strutture, gli enti e le amministrazioni indicate nel comma 2, in sede di elaborazione dei programmi di finanziamento delle opere pubbliche di rispettiva competenza, devono attribuire un valore prioritario alle determinazioni assunte dalla Giunta Regionale ai sensi del <rif xlink:href="#art9-com1">comma 1</rif>, dando atto di tali adempimento nell'ambito del provvedimento formale prescritto dai singoli ordinamenti.</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit3">
+                <num>TITOLO III </num>
+                <rubrica>
+ 
+ORGANISMI REGIONALI DI PROTEZIONE CIVILE 
+ 
+</rubrica>
+                <articolo id="art10">
+                    <num>Art.10 </num>
+                    <comma id="art10-com1">
+                        <num/>
+                        <corpo>
+Organismi di consulenza e di coordinamento 
+ 
+1. Per assicurare il più efficace esercizio delle funzioni regionali di protezione civile, la Regione si avvale dei seguenti organismi istituiti secondo le norme della presente legge:</corpo>
+                    </comma>
+                    <comma id="art10-com2">
+                        <num/>
+                        <corpo>a. Comitato regionale di protezione civile; 
+ 
+b. Comitato operativo regionale per le emergenze; 
+ 
+c. Sala operativa regionale. </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art11">
+                    <num>Art.11 </num>
+                    <comma id="art11-com1">
+                        <num/>
+                        <corpo>
+Comitato regionale di protezione civile 
+ 
+1. Il Comitato regionale di protezione civile è organo consultivo permanente della Regione per assicurare la compatibilità e il coordinamento delle iniziative regionali in materia di protezione civile con quelle di competenza degli altri enti, amministrazioni e organismi operanti nella specifica materia. Il Comitato è composto come segue:</corpo>
+                    </comma>
+                    <comma id="art11-com2">
+                        <num/>
+                        <corpo>a. Presidente della Giunta Regionale, o Assessore delegato che lo presiede;  
+ 
+b. Dirigente responsabile del Servizio Regionale di protezione civile;  
+ 
+c. Presidenti delle Amministrazioni provinciali o Assessori provinciali delegati; 
+ 
+d. I rappresentanti delle strutture periferiche dello Stato indicate dagli organi o dalle norme statali; 
+ 
+e. Sindaci o Assessori delegati dei Comuni capoluogo di Provincia; 
+ 
+f. Tre Sindaci, o Assessori delegati, di Comuni particolarmente coinvolti in problemi ad alto rischio di protezione civile, designati dall'ANCI regionale;  
+ 
+g. Un Presidente o Assessore delegato di Comunità Montana, designato dalla delegazione regionale dell'UNCEM; 
+ 
+h. Presidente del Comitato regionale della Croce Rossa Italiana, o suo delegato ; 
+ 
+i. Delegato regionale Soccorso Alpino del CAI, o suo rappresentante; 
+ 
+l. Un rappresentante delle associazioni di volontariato iscritte nell'Albo regionale della protezione civile designato dal Presidente della Giunta Regionale secondo criteri di maggiore rappresentatività; 
+ 
+m. Un rappresentante della Lega per le autonomie locali; 
+ 
+n. Un rappresentante designato dall'Ordine regionale dei geologi; 
+ 
+o. Un rappresentante designato dagli Ordini degli ingegneri, degli architetti e degli agronomi; 
+ 
+p. Il comandante della Capitaneria di porto o suo delegato. 
+ 
+2. Il Comitato Regionale esprime pareri e formula proposte anche su richiesta della Giunta Regionale su programmi e attività regionali di Protezione Civile. 
+ 
+3. Ai lavori del Comitato possono essere chiamati a partecipare con funzioni consultive, rappresentanti di altri enti o istituti che svolgano attività rilevanti ai fini di protezione civile nonché i rappresentanti degli organi regionali delle organizzazioni sindacali e professionali maggiormente rappresentative a livello regionale. 
+ 
+4. Ai componenti il Comitato spettano i compensi e i rimborsi previsti dalla vigente normativa regionale. 
+ 
+5. Le funzioni di Segretario del Comitato sono esercitate da un funzionario del Servizio protezione civile. 
+ 
+6. Il Comitato è nominato con Decreto del Presidente della Giunta Regionale. o Assessore delegato, entro sessanta giorni dalla data di entrata in vigore della presente legge e dura in carica tre anni. 
+ 
+7. Il funzionamento del Comitato è regolato dal Decreto di cui al comma 6.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art12">
+                    <num>Art.12  </num>
+                    <comma id="art12-com1">
+                        <num/>
+                        <corpo>
+Comitato operativo regionale per gli interventi urgenti e per le emergenze  
+ 
+1. Il Presidente della Giunta Regionale o Assessore delegato, per assicurare la direzione unitaria e il coordinamento delle attività regionali di protezione civile di emergenza, si avvale del Comitato operativo regionale per gli interventi urgenti e per le emergenze. 
+ 
+2. Il Comitato è presieduto dal Presidente della Giunta Regionale, o Assessore delegato, ed è così composto:</corpo>
+                    </comma>
+                    <comma id="art12-com2">
+                        <num/>
+                        <corpo>a. Il dirigente del Servizio Protezione Civile, con funzioni di Vicepresidente;  
+ 
+b. I dirigenti dei Servizi Tutela e difesa del suolo, dei Lavori Pubblici e della Politica della casa; 
+ 
+c. Un dirigente dell'Assessorato all'Agricoltura; 
+ 
+d. Un dirigente dell'Assessorato alla Sanità; 
+ 
+e. I dirigenti dei Servizi Urbanistica, Beni Ambientali e Trasporti; 
+ 
+f. Un dirigente dell'Assessorato all'Ambiente; 
+ 
+g. Il direttore dell'Autorità di bacino; 
+ 
+h. Il direttore dell'Agenzia regionale per la protezione ambientale (ARPAM).  
+ 
+3. Il Comitato:</corpo>
+                    </comma>
+                    <comma id="art12-com3">
+                        <num/>
+
+                        <corpo>a. esamina gli interventi urgenti di cui all'<rif
+                                xlink:href="#art3">articolo 3</rif>; 
+ 
+b. valuta le notizie, i dati e le richieste provenienti dalle zone interessate all'emergenza e raccolti a cura della Sala operativa prevista dall'<rif
+                                xlink:href="#art13">articolo 13</rif>;  
+ 
+c. coordina, in un quadro unitario, gli interventi dei settori interessati al soccorso; 
+ 
+d. elabora programmi esecutivi e formula proposte per la adozione delle iniziative e degli interventi di competenza regionale ritenuti più opportuni ed efficaci in relazione alle esigenze prioritarie delle zone interessate dall'emergenza. 
+ 
+4. I componenti del Comitato riassumono ed esplicano, con determinazione definitiva, tutte le facoltà e le competenze dei servizi rispettivamente rappresentati in ordine all'azione da svolgere ai fini di protezione civile. 
+ 
+5. Il Comitato esercita le proprie attribuzioni in attuazione e nel rispetto della disciplina prevista dall'<rif xlink:href="urn:nir:stato:legge:1990-08-07;241#art14">art. 14 della Legge 7 agosto 1990, n. 241</rif> e successive modifiche. 
+ 
+6. Le attività di segreteria del Comitato regionale per le emergenze sono assicurate da un Funzionario del Servizio protezione civile. 
+ 
+7. Alle riunioni del Comitato possono essere rappresentate o interessate all'evento altre autorità Statali o locali. 
+ 
+8. Il Comitato è attivato di volta in volta, e con ogni mezzo utile, al verificarsi di un evento calamitoso, dal Dirigente del Servizio Protezione Civile su espressa autorizzazione del Presidente della Giunta Regionale o Assessore delegato.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art13">
+                    <num>Art.13 </num>
+                    <comma id="art13-com1">
+                        <num/>
+
+                        <corpo>
+Sala operativa regionale  
+ 
+1. È istituita, presso il Servizio regionale di protezione civile, la " Sala operativa regionale" quale sede tecnica di raccolta notizie, comando, coordinamento, comunicazione e controllo al fine dell'attività di protezione civile di competenza della regione. La Sala operativa è posta alle dirette dipendenze del Dirigente del Servizio di Protezione Civile ed è presidiata, nell'arco delle 24 ore da personale regionale. 
+ 
+2. Per la istituzione della sala operativa regionale e delle conseguenti attività di gestione la Regione si avvale del soggetto di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1999-01-27;3">Legge Regionale 27 gennaio 1999, n. 3</rif>.</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit4">
+                <num>TITOLO IV </num>
+                <rubrica>
+ 
+ORGANIZZAZIONE DELLE STRUTTURE OPERATIVE 
+ 
+</rubrica>
+                <articolo id="art14">
+                    <num>Art.14 </num>
+                    <comma id="art14-com1">
+                        <num/>
+                        <corpo>
+Il Presidente della Giunta Regionale 
+ 
+1. Il Presidente della Giunta Regionale assicura, nel rispetto delle prescrizioni contenute nella presente legge, la direzione unitaria delle attività di protezione civile di competenza regionale e l'armonizzazione delle stesse con le attività delle Amministrazioni dello Stato, delle Province, dei Comuni, delle Comunità Montane e delle altre componenti di protezione civile operanti nel territorio regionale. 
+ 
+2. A tali fini:</corpo>
+                    </comma>
+                    <comma id="art14-com2">
+                        <num/>
+
+                        <corpo>a. provvede all'attivazione degli studi e delle ricerche necessarie per l'individuazione delle situazioni di rischio nel territorio regionale;  
+ 
+b. cura la predisposizione e l'attuazione di programmi di previsione e prevenzione esercitando poteri di indirizzo in materia; 
+ 
+c. attua per gli eventi di cui alla lettera b. dell'<rif
+                                xlink:href="#art2">articolo 2</rif> gli interventi necessari per ripristinare la situazione di normalità; 
+ 
+d. provvede, per gli interventi di cui alle lettere b. e c. dell'<rif
+                                xlink:href="#art2">articolo 2</rif>, ad assicurare il concorso delle strutture e dei mezzi della Regione alle attività di soccorso di competenza degli organi statali; 
+ 
+e. richiede al Presidente del Consiglio dei Ministri la dichiarazione dello stato di emergenza al verificarsi degli eventi di cui alla lettera c. dell'<rif
+                                xlink:href="#art2">articolo 2</rif>; 
+ 
+f. assicura l'attuazione degli interventi urgenti di competenza regionale conseguenti alla dichiarazione dello stato di emergenza, di cui al <rif
+                                xlink:href="urn:nir:stato:legge:1992;225#art5-com1">comma 1 dell'articolo 5 della legge n. 225/1992</rif>, a mezzo di decreti immediatamente eseguibili anche in più soluzioni. 
+ 
+3. In caso di catastrofe o grave calamità, il Presidente della Giunta Regionale, ove delegato dal Presidente del Consiglio, esercita le funzioni di commissario con i poteri delegati all'atto di nomina. Mantenendo la titolarità della funzione delegata, può subdelegare alcuni compiti delegati, ove previsto espressamente nel provvedimento di delega di cui al <rif xlink:href="urn:nir:stato:legge:1992;225#art5-com4">comma 4 dell'art. 5 della legge n. 225/1992</rif>.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art15">
+                    <num>Art.15 </num>
+                    <comma id="art15-com1">
+                        <num/>
+
+                        <corpo>
+Servizio per la protezione civile 
+ 
+1. La Regione, per lo svolgimento dei compiti in materia di protezione civile previsti dalla presente legge, si avvale del "Servizio per la protezione civile" e potrà procedere all'assunzione, mediante corso-concorso, di operatori già impegnati in progetti di lavori socialmente utili, promossi dallo stesso Ente, inerenti la previsione e prevenzione dei rischi.  
+ 
+2. Il Servizio è posto alle dirette dipendenze del Presidente della Giunta Regionale, o Assessore delegato, ed è dotato di piena autonomia organizzativa in modo da assicurare la massima efficienza degli adempimenti in tutte le situazioni sia ordinarie che di emergenza. 
+ 
+3. Il Servizio costituisce struttura speciale della Presidenza della Giunta Regionale ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7">legge regionale 8 aprile 1997, n. 7</rif>. La relativa organizzazione è determinata nei modi di cui alla predetta legge tenendo conto delle funzioni e competenze previste dalla presente legge.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art16">
+                    <num>Art. 16 </num>
+                    <comma id="art16-com1">
+                        <num/>
+
+                        <corpo>
+Partecipazione delle altre strutture organizzative regionali alle attività di protezione civile 
+ 
+1. Le strutture organizzative regionali che svolgono competenze attinenti alle attività di protezione civile e, in particolare, quelle specificate al <rif xlink:href="#art24-com1">comma 1 dell'art. 24</rif> della presente legge, operano in stretto collegamento con il Servizio regionale per la protezione civile e sono tenute a trasmettere sistematicamente le notizie relative alle attività di propria competenza. 
+ 
+2. Il Servizio protezione civile si avvale, ove necessario, per le esigenze tecniche e di vigilanza sul territorio delle altre strutture regionali e di quelle degli enti e aziende dipendenti dalla Regione.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art17">
+                    <num>Art. 17 </num>
+                    <comma id="art17-com1">
+                        <num/>
+
+                        <corpo>
+Convenzioni 
+ 
+1. La Regione, nell'ambito di quanto disposto dall'<rif
+                                xlink:href="urn:nir:stato:legge:1992;225#art4">art. 4 della legge n. 225/1992</rif>, per far fronte ai più complessi problemi di carattere tecnico-scientifico attinenti a ricerche, indagini e studi interessanti le attività ricomprese nei programmi regionali di previsione, prevenzione e nei piani di emergenza, deve avvalersi prioritariamente, mediante apposite convenzioni o conferimento di incarichi di consulenza, degli operatori già impegnati in progetti di lavori socialmente utili promossi dallo stesso Ente ed inerenti la previsione e prevenzione dei rischi; può, inoltre, avvalersi di istituti universitari e di ricerca, di organi tecnici dello Stato, di aziende o imprese pubbliche e private specializzate, di istituzioni scientifiche sia nazionali che internazionali. 
+ 
+2. Possono essere, altresì, stipulate convenzioni con aziende e imprese pubbliche e private al fine di assicurare, su richiesta del Presidente della Giunta Regionale o, se delegato, del Dirigente del Servizio per la protezione civile, la tempestiva esecuzione dei lavori indicati nell'<rif xlink:href="#art9">articolo 9</rif> nonché la pronta disponibilità di particolari attrezzature, veicoli, macchinari e personale specializzato da utilizzare nelle fasi operative di emergenza a supporto delle strutture regionali di protezione civile. 
+ 
+3. Ai fini di cui ai precedenti commi 1 e 2 sono considerate aziende o imprese specializzate le società cooperative che impiegano effettivamente forza-lavoro costituita per almeno due terzi da operatori dotati di comprovata esperienza nei servizi connessi con la protezione civile, maturata nel corso di pregressi rapporti con l'Amministrazione regionale o di rapporti, collaborazioni o incarichi con l'Amministrazione Statale della protezione civile. 
+ 
+4. Le convenzioni e gli incarichi sono approvati dalla Giunta Regionale previo parere del Comitato regionale di protezione civile.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art18">
+                    <num>Art.18 </num>
+                    <comma id="art18-com1">
+                        <num/>
+                        <corpo>
+Piccoli interventi a carattere preventivo 
+ 
+1. Al fine di evitare il concretizzarsi di condizioni riconosciute di pericolo incombente e imminente, in connessione a situazioni di dissesto idrogeologico o ad altre cause naturali, sono realizzati piccoli interventi a carattere preventivo mediante conferimento di apposito incarico ad impresa specializzata e nel limite di spesa annuo pari a ce. 200.000.000. 
+ 
+2. Il riconoscimento della condizione di pericolosità è effettuato con apposito sopralluogo da parte dei tecnici del servizio di protezione civile. 
+ 
+3. Il Dirigente del Servizio di protezione civile adotta, di volta in volta, gli atti particolari necessari alla realizzazione degli interventi occorrenti purché ricompresi nell'ambito del contratto generale stipulato con l'impresa aggiudicataria.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art19">
+                    <num>Art.19 </num>
+                    <comma id="art19-com1">
+                        <num/>
+                        <corpo>
+Attività di formazione, esercitazione ed informazione 
+ 
+1. La Regione e gli Enti locali nell'ambito delle rispettive competenze e in forme concertate promuovono e organizzano attività di formazione, informazione, sensibilizzazione ed educazione civica relativamente alle principali problematiche degli eventi calamitosi. 
+ 
+2. Gli oneri relativi sono assunti dalla Regione.</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit5">
+                <num>TITOLO V </num>
+                <rubrica>
+ 
+COORDINAMENTO DELLE EMERGENZE 
+ 
+STATO DI CRISI 
+ 
+</rubrica>
+                <articolo id="art20">
+                    <num>Art.20 </num>
+                    <comma id="art20-com1">
+                        <num/>
+
+                        <corpo>
+Attività regionali per le emergenze 
+ 
+1. Per consentire la tempestiva ed efficace attivazione degli interventi di propria competenza, in presenza di situazioni di emergenza accertate ai sensi dell'<rif xlink:href="#art21">articolo 21</rif>, la Regione provvede ad assicurare il costante allertamento nonché il coordinamento e la messa a disposizione delle funzioni regionali riguardanti l'assistenza generica, sanitaria e ospedaliera, il rapido ripristino delle viabilità, degli acquedotti e delle altre opere pubbliche di interesse regionale e provvede, altresì, ad assicurare l'assistenza operativa tecnica e professionale delle proprie strutture e in particolare dei servizi competenti in materia di: Edilizia pubblica, Lavori pubblici, Schemi idrici, Viabilità, Sicurezza sociale, Sanità, Ecologia, Agricoltura, Foreste, Trasporti, Edilizia residenziale. 
+ 
+2. In relazione alle specifiche ipotesi di rischio, la Regione assicura la pronta utilizzazione dei mezzi e delle attrezzature di cui ha acquisito la disponibilità secondo le indicazioni della presente legge. 
+ 
+3. Nei casi di pericoli, di calamità, di emergenza dichiarata e di ripristino, il Presidente della Giunta, o il Dirigente Responsabile del Servizio di Protezione Civile, al fine di attuare interventi tempestivi ed efficaci è autorizzato ad adottare procedure contrattuali d'urgenza per l'affidamento di lavori, per le forniture di beni e di servizi e per l'utilizzo dei mezzi idonei al soccorso.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art21">
+                    <num>Art.21 </num>
+                    <comma id="art21-com1">
+                        <num/>
+
+                        <corpo>
+Accertamento situazioni di emergenza 
+ 
+1. Al verificarsi di una emergenza nell'ambito del territorio comunale, il Sindaco ne informa immediatamente il Presidente della Giunta Regionale, per il tramite del servizio per la protezione civile, a norma del <rif xlink:href="urn:nir:stato:legge:1992;225#art15-com3">comma 3 dell'art. 15 della Legge n. 225/1992</rif>; il predetto Servizio provvede ad acquisire, con ogni mezzo idoneo e con la massima tempestività, ogni informazione utile per una prima valutazione della natura e dell'entità dell'evento calamitoso.  
+ 
+2. Il Servizio di protezione civile assicura, in ogni caso, l'effettuazione degli opportuni accertamenti o sopralluoghi quando venga comunque a conoscenza di situazioni suscettibili di essere qualificate come emergenze in atto o potenziali. 
+ 
+3. Per le attività di cui ai commi 1 e 2 il Servizio per la protezione civile è autorizzato ad avvalersi della collaborazione degli altri Servizi regionali in ragione delle competenze di volta in volta interessate.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art22">
+                    <num>Art.22 </num>
+                    <comma id="art22-com1">
+                        <num/>
+
+                        <corpo>
+Attivazione delle procedure di emergenza 
+ 
+1. Sulla base delle risultanze degli accertamenti e dei sopralluoghi di cui all'<rif
+                                xlink:href="#art21">articolo 21</rif>, il Dirigente del Servizio per la protezione civile provvede ad informare immediatamente il Presidente della Giunta Regionale, o Assessore delegato fornendo le valutazioni tecniche del Servizio in ordine all'evento segnalato e suggerendo le più idonee iniziative da intraprendere nell'ambito delle competenze regionali. 
+ 
+2. Quando l'intervento calamitoso sia riconducibile al caso previsto dalla lettera a) dell'articolo 2, il Presidente della Giunta Regionale, o Assessore delegato, provvede ad attivare il Servizio per la protezione civile ed eventuali altri servizi regionali per il monitoraggio degli interventi e, ove necessario, autorizza il Dirigente del Servizio per la protezione civile ad attivare il Comitato operativo regionale di emergenza e la Sala operativa.  
+ 
+3. Il Presidente della Giunta Regionale, o Assessore delegato, qualora ravvisi che l'evento calamitoso, per intensità ed estensione, debba essere fronteggiato con mezzi e poteri straordinari ai sensi della lettera c) del citato articolo 2, assume le iniziative intese a promuovere la dichiarazione dello stato di emergenza di cui al <rif
+                                xlink:href="urn:nir:stato:legge:1992;225#art5-com1">comma 1 dell'articolo 5 della legge n. 225/1992</rif>. 
+ 
+4. Il Presidente della Giunta Regionale, o Assessore delegato, quando l'evento calamitoso sia riconducibile alle ipotesi individuate dalla lettera b) del ripetuto <rif xlink:href="#art2">art. 2</rif> e sia richiesto il concorso della Regione alle attività di protezione civile, assicura l'immediata disponibilità delle strutture organizzative e dei mezzi regionali, assumendo la direzione unitaria degli interventi di competenza regionale secondo le disposizioni delle autorità ; statali competenti. 
+ 
+5. Nei casi previsti dai precedenti commi 3 e 4, il Responsabile del Servizio per la Protezione Civile è autorizzato all'immediata attivazione del Comitato operativo regionale per le emergenze e della Sala operativa.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art23">
+                    <num>Art.23 </num>
+                    <comma id="art23-com1">
+                        <num/>
+                        <corpo>
+Rilevazione sistematica dei danni 
+ 
+1. Nei casi di eventi calamitosi di notevole vastità e intensità, il Servizio per la Protezione Civile assicura il coordinamento e la direzione tecnica unitaria delle iniziative volte alla rilevazione e alla valutazione sistematica dei danni intervenuti a livello comunale. 
+ 
+2. Alle attività di accertamento e valutazione partecipano i servizi tecnici delle amministrazioni provinciali e delle comunità montane secondo modalità preventivamente concordate.</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit6">
+                <num>TITOLO VI </num>
+                <rubrica>
+ 
+FUNZIONI DELLE AUTONOMIE LOCALI E COLLABORAZIONE 
+ 
+DELLE ALTRE STRUTTURE OPERANTI NELLA REGIONE 
+ 
+</rubrica>
+                <articolo id="art24">
+                    <num>Art.24  </num>
+                    <comma id="art24-com1">
+                        <num/>
+
+                        <corpo>
+Funzioni delle Province 
+ 
+1. Le Province, i Comuni e le Comunità Montane, esercitano, in materia di protezione civile, le seguenti funzioni, nel rispetto della disciplina stabilita dall'<rif
+                                xlink:href="urn:nir:stato:legge:1992-02-24;225#art13">articolo 13 della legge 24 febbraio 1992, n. 225</rif> e dall'<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-03-31;112#art108">articolo 108 del decreto legislativo 31 marzo 1998, n. 112</rif> e della legge regionale di attuazione dello stesso. 
+ 
+2. Alle Province spettano i seguenti compiti e funzioni:</corpo>
+                    </comma>
+                    <comma id="art24-com2">
+                        <num/>
+
+                        <corpo>a. attuazione, in ambito provinciale, delle attività di revisione e degli interventi di prevenzione dei rischi, stabilite dai programmi e piani regionali, con l'adozione dei connessi provvedimenti amministrativi; 
+ 
+b. predisposizione di piani provinciali di emergenza sulla base degli indirizzi regionali; 
+ 
+c. realizzazione delle iniziative e degli adempimenti previsti nel piano provinciale di cui alla precedente lettera b, sulla base di preventive intese con la Regione per il coordinamento delle attività di rispettiva competenza; 
+ 
+d. rilevazione, raccolta, elaborazione e aggiornamento dei dati relativi a ciascuna ipotesi di rischio presente nel territorio provinciale; i dati disponibili vengono messi tempestivamente a disposizione del Presidente della Giunta Regionale in vista della elaborazione e dell'aggiornamento dei programmi regionali di previsione e prevenzione e dei piani di emergenza; 
+ 
+e. vigilanza sulla predisposizione, da parte delle strutture provinciali di protezione civile, dei servizi urgenti, anche di natura tecnica, da attivare in caso di eventi calamitosi di cui all'<rif
+                                xlink:href="urn:nir:stato:legge:1992-02-24;225#art2-com1-letb">articolo 2, comma 1, lettera b, della legge 24 febbraio 1992, n. 225</rif>. 
+ 
+3. La Regione favorisce il più efficace coordinamento delle iniziative in materia di protezione civile anche attraverso la stipula di specifiche convenzioni con le Province, da aggiornarsi periodicamente, per definire i contenuti dei reciproci impegni e per standardizzare la partecipazione e la collaborazione delle rispettive strutture, avuto riguardo alle disposizioni di cui agli articoli 3 e 14 della <rif
+                                xlink:href="urn:nir:stato:legge:1990-06-08;142">legge 8 giugno 1990, n. 142</rif>. 
+ 
+4. Le province concorrono alle attività di programmazione della Regione, di cui all'<rif
+                                xlink:href="#art3">articolo 3</rif> della presente legge, ai sensi dell'<rif
+                                xlink:href="urn:nir:stato:legge:1990;142#art15">articolo 15 della legge n. 142/1990</rif>, della presente legge regionale, nonché della legge regionale di attuazione del <rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112">decreto legislativo n. 112/1998</rif>.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art25">
+                    <num>Art.25 </num>
+                    <comma id="art25-com1">
+                        <num/>
+                        <corpo>
+Funzioni dei Comuni  
+ 
+1. I comuni, singoli o associati, esercitano le seguenti funzioni:</corpo>
+                    </comma>
+                    <comma id="art25-com2">
+                        <num/>
+
+                        <corpo>a. raccolta dei dati utili per la predisposizione e l'aggiornamento dei programmi regionali di revisione e prevenzione e dei piani regionali e provinciali di emergenza; 
+ 
+b. attuazione, in ambito comunale, delle attività di previsione e degli interventi di prevenzione dei rischi, stabilite dai programmi e piani regionali ; 
+ 
+c. adozione di tutti i provvedimenti, compresi quelli relativi alla preparazione all'emergenza, necessari ad assicurare i primi soccorsi in caso di eventi calamitosi in ambito comunale; 
+ 
+d. predisposizione dei piani comunali e/o intercomunali di emergenza, anche nelle forme associative e di cooperazione previste dalla <rif
+                                xlink:href="urn:nir:stato:legge:1990-06-08;142">legge 8 giugno 1990, n. 142</rif>, e, in ambito montano, tramite le Comunità Montane, e cura della loro attuazione, sulla base degli indirizzi regionali; 
+ 
+e. attivazione dei primi soccorsi alla popolazione e degli interventi urgenti necessari a fronteggiare l'emergenza; 
+ 
+f. vigilanza sull'attuazione da parte delle strutture locali di protezione civile, dei servizi urgenti; 
+ 
+g. utilizzo del volontariato di protezione civile a livello comunale e/o intercomunale, sulla base degli indirizzi nazionali e regionali. 
+ 
+2. La Regione assicura la necessaria collaborazione tecnica e organizzativa ai comuni rivolta a favorire l'istituzione e la disciplina degli uffici comunali di protezione civile. 
+ 
+3. I Comuni concorrono alle attività di programmazione della Regione e della Provincia, di cui ai precedenti articoli 3 e 27 della presente legge, ai sensi degli articoli 3 e 15 della <rif
+                                xlink:href="urn:nir:stato:legge:1990;142">legge n. 142/1990</rif>, della presente legge regionale nonché della legge regionale di attuazione del <rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112">decreto legislativo n. 112/1998</rif>.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art26">
+                    <num>Art.26 </num>
+                    <comma id="art26-com1">
+                        <num/>
+
+                        <corpo>
+Funzioni delle Comunità Montane 
+ 
+1. Le Comunità Montane esercitano le funzioni comunali associate di protezione civile, secondo le modalità e nei casi previsti dall'articolo 6 della legge regionale di attuazione del <rif
+                                xlink:href="urn:nir:stato:decreto.legislativo:1998;112">decreto legislativo n. 112/1998</rif>, nonché coordinano il loro piano pluriennale di sviluppo con le attività di programmazione, previste dalla presente legge, concorrendovi ai sensi degli articoli 3, 15, 28 e 29 della <rif xlink:href="urn:nir:stato:legge:1990;142">legge n. 142/1990</rif> e successive modifiche. 
+ 
+2. Le Comunità Montane concorrono alla organizzazione e realizzazione delle attività di protezione civile di competenza della Regione secondo le indicazioni contenute nei programmi regionali di previsione e prevenzione.  
+ 
+3. Per la finalità di cui al precedente comma deve essere valorizzato, in particolare, il contributo anche tecnico e organizzativo delle Comunità Montane rivolto alle attività di indagine, di vigilanza e di allertamento correlate al rischio idrogeologico ed al rischio di incendi boschivi.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art27">
+                    <num>Art.27 </num>
+                    <comma id="art27-com1">
+                        <num/>
+                        <corpo>
+Concorso delle Aziende Sanitarie Locali 
+ 
+1. Le strutture del Servizio Sanitario regionale concorrono alla realizzazione delle attività di protezione civile della Regione - nel rispetto degli indirizzi contenuti nel Piano sanitario regionale - mediante la predisposizione di servizi di pronto soccorso e di trasporto d'urgenza, la organizzazione di emergenza di servizi di assistenza generica e specialistica, la partecipazione alle attività di soccorso delle popolazioni colpite da calamità con propri nuclei operativi, la partecipazione alle iniziative rivolte ad una corretta informazione delle popolazioni in tema di rischi ambientali e sanitari. 
+ 
+2. Il concorso delle Aziende sanitarie locali viene coordinato attraverso la elaborazione di un piano regionale per le maxi emergenze sanitarie e di specifici piani per le emergenze interospedaliere, nel rispetto degli indirizzi formulati a livello nazionale nella specifica materia.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art28">
+                    <num>Art.28 </num>
+                    <comma id="art28-com1">
+                        <num/>
+                        <corpo>
+Concorso degli Enti Regionali 
+ 
+1. Le strutture degli Enti e delle Aziende dipendenti dalla Regione concorrono alla realizzazione delle attività regionali di protezione civile assicurando, in via prioritaria, la partecipazione di propri tecnici e la disponibilità di adeguate attrezzature e mezzi, nel rispetto degli impegni assunti in base ad una specifica convenzione e nel rispetto delle direttive impartite, di volta in volta, dal Presidente della Giunta Regionale o Assessore delegato.</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit7">
+                <num>TITOLO VII </num>
+                <rubrica>
+ 
+FINANZIAMENTO E GESTIONE DELLE RISORSE 
+ 
+</rubrica>
+                <articolo id="art29">
+                    <num>Art.29 </num>
+                    <comma id="art29-com1">
+                        <num/>
+                        <corpo>
+Fondo di solidarietà per la protezione civile 
+ 
+1. Agli oneri derivanti dalla attuazione degli interventi e delle iniziative in materia di protezione civile, secondo le disposizioni della presente legge, si provvede con gli stanziamenti iscritti al capitolo di spesa 39490 del bilancio regionale denominato "Fondo regionale per la Protezione Civile", che nei successivi articoli viene denominato sinteticamente "Fondo". 
+ 
+2. Le leggi di bilancio determinano le quote di spesa destinate a gravare su ciascun esercizio finanziario. 
+ 
+3. Le medesime leggi di bilancio determinano, altresì, le entrate derivanti da apporti di altri soggetti o enti pubblici o privati, destinate a finalità di solidarietà. 
+ 
+4. Qualora nel corso di un esercizio finanziario dovesse essere dichiarato lo stato di emergenza per una grave calamità verificatasi nel territorio regionale, è consentito procedere all'integrazione della dotazione originariamente iscritta sul competente capitolo di spesa.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art30">
+                    <num>Art.30 </num>
+                    <comma id="art30-com1">
+                        <num/>
+                        <corpo>
+Partecipazione al fondo e alle altre iniziative di protezione civile 
+ 
+1. Alla alimentazione ordinaria del Fondo possono contribuire le somme derivanti da eventuali partecipazioni di enti locali e di altri enti pubblici.  
+ 
+2. Qualora a seguito di un evento particolarmente calamitoso, dovessero esservi le condizioni per una spontanea partecipazione popolare all'opera di soccorso mediante raccolta di denaro, il Presidente della Giunta Regionale, o Assessore delegato, è autorizzato a provvedere con proprio decreto, sentito il Comitato regionale per la protezione civile, alla apertura di un apposito conto corrente bancario o postale al quale potranno affluire le offerte di enti e soggetti pubblici e privati. 
+ 
+3. Le risorse disponibili vengono utilizzate secondo gli indirizzi e le determinazioni assunte dal Comitato regionale per la protezione civile le quali sono attuate dal Dirigente del Servizio regionale per la protezione civile.  
+ 
+4. Il Presidente della Giunta Regionale o Assessore delegato autorizza, altresì, lo stesso Dirigente ad adottare i necessari provvedimenti e le più opportune iniziative per favorire l'ordinata raccolta, catalogazione e custodia dei beni eventualmente offerti da Enti e soggetti pubblici e privati. I relativi oneri fanno carico alle disponibilità del Fondo.  
+ 
+5. Il Dirigente del Servizio per la protezione civile dispone l'utilizzo e la destinazione dei beni disponibili per soddisfare le esigenze che presentano carattere di priorità nel rispetto degli indirizzi formulati dal Comitato regionale di protezione civile.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art31">
+                    <num>Art.31 </num>
+                    <comma id="art31-com1">
+                        <num/>
+                        <corpo>
+Gestione Ordinaria 
+ 
+1. La Giunta Regionale adotta, in via ordinaria, gli atti di gestione del Fondo nel rispetto delle prescrizioni stabilite nella presente legge. 
+ 
+2. La Giunta regionale può delegare una o più competenze al Dirigente del Servizio per la protezione civile, definendo, di volta in volta, l'esatto contenuto della delega, i tempi e le modalità di attuazione, le eventuali risorse da utilizzare e gli obiettivi da conseguire.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art32">
+                    <num>Art.32 </num>
+                    <comma id="art32-com1">
+                        <num/>
+
+                        <corpo>
+Gestione straordinaria  
+ 
+1. In caso di intervento urgente, al verificarsi di calamità naturali o di incombenti situazioni di pericolo, ove non si tratti di emergenza di particolare rilevanza, il Presidente della Giunta Regionale, o Assessore delegato, in accordo o su richiesta delle amministrazioni locali interessate, con proprio decreto immediatamente eseguibile, dispone, anche in più soluzioni l'erogazione, a carico del Fondo, delle somme necessarie a provvedere alla pronta azione di soccorso nell'ambito delle materie di competenza o delegate. Le somme stesse possono essere destinate alla acquisizione di beni e servizi ovvero al parziale ristoro dei disagi delle popolazioni più direttamente colpite dall'evento calamitoso. 
+ 
+2. Ove venga deliberato lo stato di emergenza, ai sensi del <rif xlink:href="urn:nir:stato:legge:1992-02-24;225#art5-com1">comma 1 dell'art. 5 della legge 24 febbraio 1992, n. 225</rif>, il Presidente della Giunta Regionale, o Assessore delegato, provvede all'attuazione degli interventi di competenza della Regione nel rispetto delle direttive e delle richieste formulate dai competenti organi statali di coordinamento, anche ponendo a disposizione di questi i mezzi, le strutture e l'organizzazione espressamente previsti nei piani regionali di emergenza. 
+ 
+3. I provvedimenti del Presidente della Giunta Regionale, o Assessore delegato, sono adottati in conformità alle proposte formulate dal Comitato operativo regionale per le emergenze. 
+ 
+4. Il Presidente della Giunta Regionale, o Assessore delegato, valutate le esigenze organizzative connesse all'emergenza, può delegare il Dirigente del Servizio di protezione civile all'adozione degli atti di gestione del Fondo, nel rispetto delle prescrizioni previste nel comma 2 dell'art. 35.  
+ 
+5. Delle spese sostenute i esecuzione dei provvedimenti adottati ai sensi dei precedenti commi viene data immediata comunicazione alla Giunta Regionale.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art33">
+                    <num>Art.33 </num>
+                    <comma id="art33-com1">
+                        <num/>
+                        <corpo>
+Cessioni di beni a titolo gratuito 
+ 
+1. La Giunta Regionale, con proprio provvedimento motivato, su proposta del Comitato regionale per la protezione civile, è autorizzata a cedere in proprietà, a titolo gratuito, agli enti locali colpiti da catastrofi o da calamità naturali, i beni mobili registrati, gli elementi prefabbricati, i ricoveri di fortuna di ogni tipo, i mezzi e le attrezzature, gli arredi, i materiali e quanto altro acquistato con le somme affluite al Fondo, e comunque già di sua proprietà, che sarà ritenuto necessario all'opera di soccorso.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art34">
+                    <num>Art.34 </num>
+                    <comma id="art34-com1">
+                        <num/>
+
+                        <corpo>
+Contratti urgenti  
+ 
+1. Sono considerati urgenti, agli effetti delle modalità di acquisizione dei beni e servizi ai sensi dell'art. 41, punti 5 e 6, del <rif xlink:href="urn:nir:stato:regio.decreto:1924-05-23;827">regio decreto 23 maggio 1924, n. 827</rif>, i contratti da stipularsi per situazioni di emergenza dichiarata secondo le norme dello Stato vigenti in materia. 
+ 
+2. Le procedure per il perfezionamento degli atti di cui al precedente comma sono poste in essere dal Servizio per la protezione civile. 
+ 
+3. Il contratto è stipulato dal Presidente della Giunta Regionale ovvero dal Dirigente dl servizio per la protezione civile, se delegato, e diviene perfetto ed esecutivo, a tutti gli effetti di legge, con la sottoscrizione delle parti.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art35">
+                    <num>Art.35 </num>
+                    <comma id="art35-com1">
+                        <num/>
+
+                        <corpo>
+Apertura di credito 
+ 
+1. Al fine di consentire l'adozione immediata degli interventi più urgenti sulla base della diretta constatazione delle reali condizioni di disagio delle popolazioni presenti nelle aree disastrate, la Giunta Regionale, a seguito della deliberazione dello stato di emergenza ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1992;225#art5">art. 5 della legge n. 225/1992</rif>, può disporre, nel limite del cinquanta per cento della disponibilità del Fondo, aperture di credito, senza altri limiti di importo e di oggetto, su cui è data formale autorizzazione ad operare, ad uno o più dirigenti o funzionari appositamente individuati tra quelli del Servizio regionale di protezione civile. 
+ 
+2. Il dipendente o i dipendenti autorizzati alla spesa ai sensi del presedente comma rendono conto al Presidente della Giunta delle spese sostenute con scadenza non superiore al semestre e comunque informano periodicamente il medesimo circa le iniziative assunte. 
+ 
+3. Per la valutazione del rendiconto di cui al precedente comma, si deve avere riguardo all'eccezionalità della situazione in cui i dipendenti hanno operato anche per ciò che attiene le modalità di spesa e i relativi documenti giustificativi. Apposita relazione è preordinata a chiarire il tipo di spese sostenute in rapporto alla situazione di eccezionalità.</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit8">
+                <num>TITOLO VIII </num>
+                <rubrica>
+ 
+NORME FINALI E FINANZIARIE 
+ 
+</rubrica>
+                <articolo id="art36">
+                    <num>Art.36 </num>
+                    <comma id="art36-com1">
+                        <num/>
+                        <corpo>
+                            <mod id="art36-com1-mod1">
+Abrogazioni di norme 
+ 
+1. Sono abrogate le disposizioni di leggi regionali in contrasto o incompatibili con quanto stabilito con la presente legge.</mod>
+                        </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art37">
+                    <num>Art.37 </num>
+                    <comma id="art37-com1">
+                        <num/>
+                        <corpo>
+Oneri finanziari 
+ 
+1. Gli oneri derivanti dall'applicazione della presente legge, relativamente all'esercizio finanziario 2000 troveranno copertura finanziaria con la legge di approvazione del bilancio regionale per l'esercizio finanziario 2000 o con successiva legge di variazione al bilancio medesimo. 
+ 
+2. Per gli esercizi successivi si provvederà con le apposite leggi di approvazione del bilancio regionale.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art38">
+                    <num>Art.38 </num>
+                    <comma id="art38-com1">
+                        <num/>
+
+                        <corpo>
+Decorrenza dell'esercizio delle funzioni della Regione e degli Enti locali  
+ 
+1. Le funzioni e i compiti regionali, di cui all'<rif
+                                xlink:href="#art3-com2">art. 3, comma 2</rif>, lettere c, d, e, f, g, nonché quelli di competenza delle Province, di cui all'<rif
+                                xlink:href="#art25">art. 25</rif>, dei Comuni, di cui all'<rif
+                                xlink:href="#art26">art. 26</rif>, e delle Comunità Montane, di cui all'<rif
+                                xlink:href="#art27">art. 27</rif>, saranno effettivamente esercitati con decorrenza dalla puntuale individuazione dei beni e delle risorse e dalla ripartizione delle spese alla Regione Molise e tra questa e gli Enti Locali Molisani e dai conseguenti trasferimenti operati con D.P.C.M., di cui all'<rif
+                                xlink:href="urn:nir:stato:legge:1997;59#art7">art. 7 della Legge n. 59/1997</rif> e all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art7">art. 7 del Decreto Legislativo n. 112/1998</rif>.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art39">
+                    <num>Art.39 </num>
+                    <comma id="art39-com1">
+                        <num/>
+
+                        <corpo>
+Costituzione dell'Agenzia Molisana per la Protezione Civile 
+ 
+1. Al fine di assicurare al sistema regionale di protezione civile la migliore efficacia, tempestività ed efficienza sarà costituita con successiva legge di riordino della materia apposita Agenzia Regionale, dotata di personalità giuridica e di autonomia organizzativa, regolamentare, finanziaria, patrimoniale e contabile. 
+ 
+2. All'Agenzia, disciplinata dal <rif
+                                xlink:href="urn:nir:stato:codice.civile:1942-03-16;262">Codice Civile</rif>, salvo quanto previsto dalla legge regionale, saranno attribuite le funzioni amministrative e i compiti tecnico-operativi conferiti in materia di protezione civile alla Regione Molise, tranne quelli riservati agli organi regionali. 
+ 
+3 La Giunta Regionale realizzerà, entro tre mesi dall'entrata in vigore della presente legge, uno studio ed un progetto finalizzato alla istituzione dell'Agenzia, anche tenendo conto delle disposizioni in materia di organizzazione della protezione civile del Governo, di cui al <rif xlink:href="urn:nir:stato:decreto.legislativo:1999;300">decreto legislativo n. 300/1999</rif> ed alle eventua1i norme correttive dello stesso.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art40">
+                    <num>Art.40 </num>
+                    <comma id="art40-com1">
+                        <num/>
+                        <corpo>
+Urgenza 
+ 
+1. La presente legge è dichiarata urgente ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione. 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error 2. &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

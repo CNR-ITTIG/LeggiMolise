@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2002-07-23;15"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="34.Trasporti e viabilit&amp;#xE0;, navigazione nelle acque interne"/>
+                </materie>
+            </descrittori>
+        </meta><?error 34.Trasporti e viabilit&#xE0;, navigazione nelle acque interne 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 17 del 1 agosto 2002 
+ 
+Oggetto 
+Aziende di trasporto pubblico locale - Copertura dei disavanzi di esercizio - Disposizioni. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 34/2002 art. 1 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20020723">23 luglio 2002</dataDoc>, n. <numDoc>15</numDoc>. 
+ 
+<titoloDoc>Copertura dei disavanzi di esercizio delle aziende di trasporto pubblico locale. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ART. 1 </num>
+                <rubrica>
+ 
+(Finalità) 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> È autorizzata la contrazione di un mutuo con rate di ammortamento pari ai contributi annuali erogati dallo Stato ai sensi delle leggi 18 giugno 1998, n. 194, e 7 dicembre 1999, n. 472. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Entro il limite della somma ricavata dalla contrazione del mutuo di cui al <rif xlink:href="#art1-com1">comma 1</rif>, i disavanzi di esercizio delle aziende di trasporto pubblico locale, ancora da ripianare, relativi agli anni 1994, 1996 e 1998 possono essere coperti fino alla loro totale estinzione. </corpo>
+                </comma>
+                <comma id="art1-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Eventuali eccedenze rispetto alla somma ricavata dal mutuo potranno essere utilizzate solamente per il ripianamento dei disavanzi degli esercizi successivi. </corpo>
+                </comma>
+                <comma id="art1-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> È autorizzata la contrazione di mutui con rate di ammortamento pari ai contributi erogati dallo Stato per il ripiano di disavanzi di esercizio di anni successivi a quelli già coperti. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ART. 2 </num>
+                <rubrica>
+ 
+(Norma finanziaria) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> Nello stato di previsione delle entrate del bilancio regionale relativo all'esercizio finanziario 2002, nella U.P.B. n. 230, è istituito ai fini della gestione il capitolo n. 11.350 con la seguente denominazione: 
+ 
+"Mutuo per la copertura dei disavanzi delle aziende di trasporto pubblico locale" 
+ 
+con una previsione di competenza e di cassa pari a euro 1.810.000,00. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Nello stato di previsione della spesa del bilancio regionale relativo all'esercizio finanziario 2002, nella U.P.B. n. 400 è istituito ai fini della gestione il seguente nuovo capitolo n. 19.416 così denominato: 
+ 
+"Oneri per la copertura dei disavanzi di esercizio delle aziende di trasporto pubblico locale" 
+ 
+con uno stanziamento di competenza e di cassa pari a euro 1.810.000,00 
+ </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num>
+3.</num>
+
+                    <corpo> I capitoli di spesa 19.432 e 19.440 assumono la denominazione: 
+ 
+"Oneri per l'ammortamento del mutuo contratto ai sensi dell'<rif xlink:href="#art1">art. 1</rif> della presente legge. 
+ 
+ART. 3 
+ 
+(Pubblicazione) 
+ 
+1. La presente legge entra in vigore il giorno successivo alla sua pubblicazione sul Bollettino ufficiale della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo><?error Marker Warning 105?>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

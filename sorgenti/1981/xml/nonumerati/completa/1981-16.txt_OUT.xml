@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19810701" num="13" tipo="BURM"/>
+                <entratainvigore norm="19810716"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1981-06-20;12"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="02.Artigianato"/>
+                </materie>
+            </descrittori>
+        </meta><?error 02.Artigianato 
+ 
+Bollettino 
+Bollettino Ufficiale n. 13 del 01/07/81 
+ 
+Oggetto 
+Artigianato - Provvidenze - Destinatari - Procedure 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 31/2000 art. art. 1, primo comma, lettera aa) 
+ 
+Modifiche 
+Modificato art. 6 dalla legge n. 33/1996 art. 2 
+Modificato art. 13 dalla legge n. 33/1996 art. 2 
+Modificato art. 18 dalla legge n. 2/1985 art. 1 
+Modificato art. 18 dalla legge n. 33/1996 art. 2 
+Modificato art. 19 dalla legge n. 2/1985 art. 2 
+Modificato art. 19 dalla legge n. 33/1996 art. 3 
+Modificato art. 20 dalla legge n. 2/1985 art. 3 
+Modificato art. 20 dalla legge n. 33/1996 art. 4 
+Modificato art. 21 dalla legge n. 2/1985 art. 4 
+Modificato art. 27 dalla legge n. 33/1996 art. 2 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19810620">20 Giugno 1981</dataDoc>, n. <numDoc>12</numDoc>
+            <titoloDoc>Ulteriori provvidenze a favore dell'Artigianato 
+ 
+Titolo I: FINALITÀ E BENEFICIARI 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 31/2000 art. art. 1, primo comma, lettera aa)</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

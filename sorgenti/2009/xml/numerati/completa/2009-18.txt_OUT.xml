@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2009-04-06;14"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="06.Consiglieri regionali e gruppi consiliari"/>
+                </materie>
+            </descrittori>
+        </meta><?error 06.Consiglieri regionali e gruppi consiliari 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 8 del 16 aprile 2009 
+ 
+Oggetto 
+Gruppi consiliari - Funzionamento - Assegnazione di personale - Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20090406">6 aprile 2009</dataDoc>, n. <numDoc>14</numDoc>. 
+ 
+<titoloDoc>Ulteriori modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1991-11-04;20">legge regionale 4 novembre 1991, n. 20</rif>, ad oggetto: "Testo unico in materia di funzionamento e di assegnazione di personale ai Gruppi consiliari".  
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art1-com1-mod1">  L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1991-11-04;20#art3">articolo 3 della legge regionale 4 novembre 1991, n.20</rif> (Testo unico delle norme in materia di funzionamento e di assegnazione di personale ai Gruppi consiliari), e successive modificazioni, è sostituito dal seguente:  
+ 
+"<virgolette
+                                id="art1-com1-mod1-vir1" tipo="struttura">
+                                <articolo id="art0">
+                                    <num>Art. 3 </num>
+                                    <rubrica/>
+                                    <comma id="art0-com1">
+                                    <num>
+1.</num>
+                                    <corpo> Per il funzionamento di ciascun gruppo consiliare, costituito a norma del regolamento interno del Consiglio, è previsto un contributo mensile consistente in una quota fissa di euro 800,00 ed una quota variabile pari al prodotto tra euro 2.500,00 ed il numero dei consiglieri iscritti al gruppo.  </corpo>
+                                    </comma>
+                                    <comma id="art0-com2">
+                                    <num>
+ 
+2.</num>
+                                    <corpo> Ove sia presente, tra i gruppi, il gruppo misto, i componenti del medesimo promuovono accordi tra loro per la gestione dei contributi. Se non si raggiunge l'accordo, l'Ufficio di presidenza suddivide, con propria deliberazione, i contributi tra i componenti del gruppo. In tale ultimo caso ogni componente del gruppo misto ha poteri, doveri e responsabilità autonomi limitatamente alla gestione dei contributi ed alla relativa rendicontazione.  </corpo>
+                                    </comma>
+                                    <comma id="art0-com3">
+                                    <num>
+ 
+3.</num>
+                                    <corpo> Il contributo di cui al comma 1 è aggiornato, a decorrere dal mese di gennaio di ogni anno, mediante l'applicazione delle variazioni dei prezzi al consumo accertate dall'ISTAT.  </corpo>
+                                    </comma>
+                                    <comma id="art0-com4">
+                                    <num>
+ 
+4.</num>
+                                    <corpo> Nei limiti dei contributi di cui al comma 1 i gruppi possono costituire propri uffici territoriali. L'eventuale assegnazione di locali ed attrezzature è deliberata dall'Ufficio di presidenza del Consiglio regionale.  </corpo>
+                                    </comma>
+                                    <comma id="art0-com5">
+                                    <num>
+ 
+5.</num>
+                                    <corpo> Eventuali economie sulla competenza dell'anno precedente sono riassegnate alla competenza dell'anno successivo.</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art2-com1-mod2">  L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1991;20#art5">articolo 5 della legge regionale n. 20/1991</rif>, e successive modificazioni, e la relativa Tabella "<virgolette
+                                id="art2-com1-mod2-vir2">A</virgolette>" allegata sono sostituiti dal seguente articolo:  
+ 
+"<virgolette
+                                id="art2-com1-mod2-vir3" tipo="struttura">
+                                <articolo id="art0">
+                                    <num>Art. 5 </num>
+                                    <rubrica/>
+                                    <comma id="art0-com1">
+                                    <num>
+1.</num>
+                                    <corpo>  È messo a disposizione di ciascun gruppo consiliare, quale personale occorrente per il suo funzionamento, una unità di categoria D3 per ciascun consigliere iscritto al gruppo.</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo>  Le modifiche apportate dalla presente legge alla disciplina relativa all'attribuzione ai gruppi consiliari delle risorse per il loro funzionamento sono applicate a decorrere dal trentesimo giorno successivo a quello di entrata in vigore della legge stessa.  </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>  Entro trenta giorni dall'entrata in vigore della presente legge i presidenti dei gruppi consiliari provvedono ad adeguare alle nuove disposizioni gli incarichi ed i rapporti di lavoro in essere, mediante conferma, risoluzione, modifica o rinnovazione dei relativi contratti individuali.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-02-21;11"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea"/>
+                </materie>
+            </descrittori>
+        </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
+ 
+Bollettino 
+Bollettino Ufficiale n. 05 del 1 marzo 2000 
+ 
+Oggetto 
+Raccolta e commercializzazione dei funghi epigei -  Disciplina  
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 4/2008 art. 24 
+ 
+Modifiche 
+Modificato art. 2 dalla legge n. 20/2004 art. 1 
+Modificato art. 2 dalla legge n. 35/2005 art. 1 
+Modificato art. 3 dalla legge n. 20/2004 art. 2 
+Modificato art. 3 dalla legge n. 35/2005 art. 2 
+Modificato art. 6 dalla legge n. 20/2004 art. 3 
+Modificato art. 7 dalla legge n. 20/2004 art. 4 
+Modificato art. 10 dalla legge n. 20/2004 art. 5 
+Modificato art. 11 dalla legge n. 20/2004 art. 6 
+Modificato art. 12 dalla legge n. 20/2004 art. 7 
+Modificato art. 13 dalla legge n. 20/2004 art. 15 
+Modificato art. 14 dalla legge n. 20/2004 art. 8 
+Modificato art. 17 dalla legge n. 20/2004 art. 9 
+Modificato art. 18 dalla legge n. 20/2004 art. 10 
+Modificato art. 20 dalla legge n. 20/2004 art. 15 
+Modificato art. 21 dalla legge n. 20/2004 art. 11 
+Modificato art. 22 dalla legge n. 20/2004 art. 12 
+Modificato art. 23 dalla legge n. 20/2004 art. 15 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20000221">21 febbraio 2000</dataDoc>, n. <numDoc>11</numDoc>. 
+ 
+<titoloDoc>Norme sulla raccolta e sulla commercializzazione dei funghi epigei, secondo i principi stabiliti dalla <rif
+                    xlink:href="urn:nir:stato:legge:1993;352">Legge n. 352/1993</rif>. 
+ 
+Il Commissario di Governo ha apposto il visto ed ha annotato quanto segue:  
+ 
+"Con l'occasione il Governo ha precisato che: 
+ 
+1) la disposizione dell'<rif
+                    xlink:href="#art5-com1">articolo 5, comma 1</rif>, non può che essere che interpretata nel senso di rispettare la quantità di cui all'<rif
+                    xlink:href="urn:nir:stato:legge:1993;352#art4-com1">art. 4 comma 1 della legge n. 352/1993</rif>, pur nell'ottica del principio dl giusto peso; 
+ 
+2) l'<rif
+                    xlink:href="#art13">art. 13</rif> non può non tener conto, nella sua fase attuativa, delle disposizioni contenute nel D.M. n. 686/1996 in particolare per ciò che riguarda le Commissioni esaminatrici (<rif
+                    xlink:href="#art5">art. 5</rif>) e la previsione dei corsi sia per gli Enti Pubblici che privati (<rif xlink:href="#art3">art. 3</rif>). 
+ 
+Il Governo ha altresì preso atto dell'errore materiale comunicato con fax della Regione Molise datato 9 febbraio 2000" 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 4/2008 art. 24</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19840901" num="18" tipo="BURM"/>
+                <entratainvigore norm="19840916"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1984-08-20;21"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 18 del 01/09/84 
+ 
+Oggetto 
+Rgione - Commissioni e comitati - Gettoni di presenza rimborso spese di viaggio ed indennit&#xE0; - Disciplina - Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>del <dataDoc norm="19840820">20 Agosto 1984</dataDoc>, n. <numDoc>21</numDoc>
+            <titoloDoc>Disposizione integrativa della <rif
+                    xlink:href="urn:nir:regione.molise:legge:1983-03-01;7">legge regionale n. 7 del 1ø marzo 1983</rif>, modificata dalla successiva <rif xlink:href="urn:nir:stato:legge:1984-04-20;9">legge n. 9 del 20 aprile 1984</rif>
+            </titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art1-com1-mod1">
+All'allegato &lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir1">A</virgolette>&gt;&gt; della <rif
+                                xlink:href="urn:nir:regione.molise:legge:1983-03-01;7">legge regionale 1ø marzo 1983, n. 7</rif> modificata dalla successiva <rif
+                                xlink:href="urn:nir:stato:legge:1984-04-20;9">legge n. 9 del 20 aprile 1984</rif> - che detta disposizioni in ordine a: &lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir2"
+                                tipo="parola">Gettoni di presenza, rimborso spese di viaggio e indennità di trasferta alle Commissioni, Comitati e Consulte regionali operanti nel territorio regionale,</virgolette>&gt;&gt; è aggiunto, dopo il n. 14, il seguente: 
+ 
+15) Commissione per la disciplina dell'attività sementiera. - <rif xlink:href="urn:nir:stato:legge:1976-04-20;195">Legge 20 aprile 1976, n. 195</rif> art. 20.</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge è dichiarata urgente ai sensi del <rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com1">primo comma dell'art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2007-06-20;17"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 15 del 30 giugno 2007 
+ 
+Oggetto 
+Cittadini molisani affetti da rare o che necessitano di trapianti - Contributi per le spese sostenute in Italia o all'estero 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 23/2008 art. 1 
+Modificato art. 2 dalla legge n. 23/2008 art. 2 
+Modificato art. 3 dalla legge n. 23/2008 art. 3 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20070620">20 giugno 2007</dataDoc>, n. <numDoc>17</numDoc>. 
+ 
+<titoloDoc>Interventi a favore di soggetti sottoposti a trapianto di organi o affetti da patologie rare. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+(Finalità) 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione tutela il diritto alla salute dei cittadini molisani affetti da patologie che necessitano di trapianto d'organo o di tessuti o affetti da patologie rare, se riconosciute tali dal Ministero della Salute. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+(Contributi) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <alinea> Per le finalità di cui all'<rif
+                            xlink:href="#art1">articolo 1</rif>, l'Azienda sanitaria regionale del Molise (A.S.Re.M.) rimborsa al cittadino in attesa di trapianto, o che ha già subìto trapianto, e al cittadino affetto da patologia rara, se riconosciuta tale dal Ministero della Salute, le spese di cui al <rif xlink:href="#art2-com2">comma 2</rif> sostenute in conseguenza di ricoveri presso strutture sanitarie pubbliche in Italia o all'estero dovuti a: 
+ 
+</alinea>
+                    <el id="art2-com1-leta">
+                        <num>a)</num>
+                        <corpo> esami preliminari ed esami per la tipizzazione tissutale;</corpo>
+                    </el>
+                    <el id="art2-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> intervento di trapianto;</corpo>
+                    </el>
+                    <el id="art2-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> tutti i controlli successivi nonché quelli derivanti dalle complicanze dell'intervento stesso se non effettuabili in Regione;</corpo>
+                    </el>
+                    <el id="art2-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> trattamenti sanitari nel caso di patologie rare;</corpo>
+                    </el>
+                    <el id="art2-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> eventuale espianto da donatore. </corpo>
+                    </el>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> La A.S.Re.M. rimborsa all'assistito ed all'eventuale accompagnatore nonché al donatore ed al suo eventuale accompagnatore, purché adeguatamente documentate: 
+ 
+</alinea>
+                    <el id="art2-com2-leta">
+                        <num>a)</num>
+                        <corpo> le spese sostenute per il viaggio, compreso il mezzo aereo. In caso di utilizzazione di autovettura privata è corrisposto un rimborso pari ad 1/5 del costo, vigente nel tempo, della benzina super per ogni chilometro percorso, nonché il rimborso delle spese sostenute per il pagamento dei documentati pedaggi autostradali. Il rimborso chilometrico è calcolato sulla più breve distanza viaria possibile tra il luogo di residenza dell'assistito e quello dove è ubicata la struttura sanitaria di ricovero;</corpo>
+                    </el>
+                    <el id="art2-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <alinea> le spese di soggiorno, sostenute nella località sede della struttura sanitaria, nelle seguenti misure: 
+ 
+</alinea>
+                        <en id="art2-com2-letb-num1">
+                            <num>1)</num>
+                            <corpo> per i pazienti che si recano presso strutture sanitarie italiane fino ad un massimo di euro 120 al giorno;</corpo>
+                        </en>
+                        <en id="art2-com2-letb-num2">
+                            <num> 
+ 
+2)</num>
+                            <corpo> per i pazienti che si recano presso strutture sanitarie estere fino ad un massimo di euro 200 al giorno, comprese anche le spese di interprete, trasporto per gli spostamenti nelle città estere di soggiorno e le spese telefoniche;</corpo>
+                        </en>
+                    </el>
+                    <el id="art2-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> le spese, in caso di decesso del paziente nel luogo di cura estero, per la traslazione delle spoglie nella misura massima di euro 3.000,00. </corpo>
+                    </el>
+                </comma>
+                <comma id="art2-com3">
+                    <num>
+ 
+3.</num>
+                    <alinea> Al fine dell'ottenimento del rimborso, l'accompagnatore è consentito: 
+ 
+</alinea>
+                    <el id="art2-com3-leta">
+                        <num>a)</num>
+                        <corpo> per tutti i pazienti minorenni;</corpo>
+                    </el>
+                    <el id="art2-com3-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> in tutti i casi di legge in cui è previsto l'accompagnamento. </corpo>
+                    </el>
+                </comma>
+                <comma id="art2-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> In tutti gli altri casi il rimborso per l'eventuale accompagnatore è subordinato a comprovate esigenze cliniche che devono essere certificate dalla struttura sanitaria di ricovero per chi si reca in Italia, mentre per chi si reca all'estero la necessità di un accompagnatore deve risultare dal modello E112. </corpo>
+                </comma>
+                <comma id="art2-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> Possono presentare richiesta di anticipazione, nella misura massima dell'80% sul prevedibile contributo loro spettante, i cittadini trapiantati cui la competente struttura sanitaria abbia prescritto un ciclo di cura di durata predeterminata. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+(Modalità di erogazione dei contributi) 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Al fine di ottenere il rimborso ai sensi dell'<rif xlink:href="#art2">art. 2</rif> della presente legge, l'interessato deve farne richiesta alla A.- S.Re.M., allegando la relativa documentazione giustificativa delle spese sostenute e delle certificazioni mediche attestanti i ricoveri anche in regime di day hospital e la non autosufficienza del malato. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> La A.S.Re.M. provvede a rimborsare le spese sostenute dai soggetti di cui all'<rif
+                            xlink:href="#art2-com2">articolo 2, comma 2</rif>, della presente legge, entro 60 giorni dalla presentazione della richiesta ed entro 30 giorni dalla presentazione della richiesta di anticipazione di cui all'<rif xlink:href="#art2-com5">articolo 2, comma 5</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+
+                    <alinea> I contributi sono corrisposti ai cittadini il cui nucleo familiare evidenzi un indicatore di situazione economica equivalente (ISEE), calcolato ai sensi del <rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1998-03-31;109">decreto legislativo 31 marzo 1998, n. 109</rif>, come modificato dal <rif xlink:href="urn:nir:stato:decreto.legislativo:2000-05-03;130">decreto legislativo 3 maggio 2000, n. 130</rif>, non superiore ad Euro 35.000,00, nei limiti dei seguenti importi: 
+ 
+</alinea>
+                    <el id="art4-com1-leta">
+                        <num>a)</num>
+                        <corpo> 100% della spesa ritenuta ammissibile per ISEE non superiore ad Euro 24.000,00;</corpo>
+                    </el>
+                    <el id="art4-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> 50% della spesa ritenuta ammissibile per ISEE ricompreso tra Euro 24.000,01 ed Euro 35.000,00. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+(Modalità di erogazione dei fondi e di rendicontazione) 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo> Per le finalità di cui alla presente legge, la Giunta regionale dispone semestralmente l'erogazione dei fondi necessari sulla base di apposita rappresentazione dei fabbisogni presentata dall'A.S.Re.M.. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> L'A.S.Re.M. invia semestralmente alla Giunta regionale una dettagliata rendicontazione dei contributi assegnati ed una relazione sulle modalità di erogazione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+(Norme finanziarie) 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod
+                                id="art6-com1-mod1"> Gli oneri derivanti dall'applicazione della presente legge sono quantificati, per l'esercizio finanziario 2007, in Euro 1.700.000,00. Ai medesimi si provvede mediante l'utilizzo dello stanziamento, iscritto nella U.P.B. n. 300, capitolo n. 38300, dello stato di previsione della spesa del bilancio regionale relativo al predetto esercizio, destinato al finanziamento degli oneri di cui alla <rif xlink:href="urn:nir:regione.molise:legge:2001-07-17;18">legge regionale 17 luglio 2001, n. 18</rif>, e sue successive modificazioni, abrogata dalla presente legge. </mod>
+                    </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Per gli esercizi finanziari 2008 ed i successivi si provvede con le rispettive leggi approvative di bilancio. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+(Disposizioni transitorie) 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <corpo> I procedimenti in corso alla data di entrata in vigore della presente legge sono definiti ai sensi della normativa previgente. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>
+ 
+(Abrogazione) 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+                    <alinea>
+                        <mod id="art8-com1-mod2"> Sono abrogate le seguenti leggi regionali: 
+ 
+</mod>
+                    </alinea>
+                    <el id="art8-com1-leta">
+                        <num>a)</num>
+                        <corpo>
+                            <rif xlink:href="urn:nir:regione.molise:legge:2001-07-17;18">legge regionale 17 luglio 2001, n. 18</rif>, recante: "Rimborso spese speciali in favore dei soggetti da sottoporsi a trapianto di organi, dei trapiantati e dei cittadini affetti da gravi patologie non trattabili nelle strutture sanitarie della Regione Molise";</corpo>
+                    </el>
+                    <el id="art8-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo>
+                            <rif
+                                xlink:href="urn:nir:regione.molise:legge:2005-05-20;20">legge regionale 20 maggio 2005, n. 20</rif>, recante: «Modifiche ed integrazioni alla <rif xlink:href="urn:nir:regione.molise:legge:2001-07-17;18">legge regionale 17 luglio 2001, n. 18</rif>, concernente: "Rimborso spese speciali in favore dei soggetti da sottoporsi a trapianto di organi, dei trapiantati e dei cittadini affetti da gravi patologie non trattabili nelle strutture sanitarie della Regione Molise"». 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

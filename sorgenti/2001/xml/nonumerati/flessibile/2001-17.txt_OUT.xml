@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20010331" num="8" tipo="BURM"/>
+                <entratainvigore norm="20010415"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2001-03-21;3"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 08 del 31/03/2001 
+ 
+Oggetto 
+Enti regionali - Riforma - Disposizioni urgenti 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20010321">21 marzo 2001</dataDoc>, n.<numDoc>3</numDoc>
+
+            <titoloDoc>Disposizioni urgenti per la riforma degli Enti regionali 
+ 
+<rif xlink:href="urn:nir:regione.molise:legge:2001-03-21;3">LEGGE REGIONALE 21 marzo 2001, n.3</rif>. 
+ 
+Disposizioni urgenti per la riforma degli Enti regionali. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale>
+            <h:p>Il Consiglio Regionale ha approvato; </h:p>
+            <h:p>Il Commissario di Governo ha apposto il </h:p>
+            <preambolo>
+                <h:p>visto: 
+IL PRESIDENTE 
+della 
+GIUNTA REGIONALE</h:p>
+            </preambolo>
+            <h:p>Promulga </h:p>
+            <h:p>la seguente legge: </h:p>
+        </formulainiziale>
+        <articolato>
+            <articolo id="art1">
+                <num>Art.1 </num>
+                <rubrica>
+ 
+(Finalità) 
+ 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+                    <alinea>1. Allo scopo di determinare le condizioni per la predisposizione dei necessari provvedimenti di riforma dei rispettivi ordinamenti, saranno sciolti, secondo le modalità ed i tempi di cui al comma 2, gli organi di amministrazione attiva degli Enti di seguito indicati, la cui amministrazione è conseguentemente affidata a distinte gestioni commissariali: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+
+                        <corpo> Ente regionale di sviluppo agricolo del Molise (E.R.S.A.M.); 
+ 
+- Istituto regionale per gli studi storici del Molise (I.R.E.S.M.O.); 
+ 
+- Istituti autonomi per le case popolari di Campobasso e di Isernia (I.A.<rif
+                                xlink:href="urn:nir:stato:codice.penale:1930-10-19;1398">C.P.</rif>); 
+ 
+- Enti provinciali del turismo di Campobasso e di Isernia (E.P.T.); 
+ 
+- Azienda autonoma di soggiorno e turismo di Termoli (A.A.S.T.). 
+ 
+2. Entro il 30 giugno 2001 si dovrà provvedere alla riforma degli Enti. In caso contrario, il Consiglio regionale procederà alla nomina dei commissari, i quali resteranno in carica per la durata massima di mesi 4 (quattro) e, comunque, non oltre la naturale scadenza degli organi di amministrazione. 
+ 
+3. Ove ricorra l'ipotesi di cui al comma 2, il Consiglio regionale nomina i commissari attingendo dagli elenchi formati del Comitato dei Garanti di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1993;11#art3">articolo 3 della legge regionale n.11/1993</rif> o tra i dirigenti regionali, in deroga alle leggi regionali 23 maggio 1973, n.7 e 22 aprile 1993, n.11. 
+ 
+4. In ogni caso, allo scadere del mandato dei commissari di cui al comma 2, gli Enti se non riformati, si intendono sciolti e le funzioni amministrative saranno assunte dalla Giunta regionale. 
+ 
+5. A ciascun commissario sono corrisposti, con onere a carico dell'Ente commissariato, i compensi ed i rimborsi, comunque denominati, spettanti al presidente dell'Ente stesso, a meno che si tratti di dirigenti regionali.</corpo>
+                    </ep>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art.2 </num>
+                <rubrica>
+ 
+ (Dichiarazione d'urgenza) 
+ 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>1. La presente legge è dichiarata urgente, ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+                    <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo, a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num/>
+                    <corpo>Data a Campobasso, addì 21 marzo 2001 
+ 
+Il Presidente 
+ 
+DI STASI 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

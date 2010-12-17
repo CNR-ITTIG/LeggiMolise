@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19890715" num="13" tipo="BURM"/>
+                <entratainvigore norm="19890730"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1989-07-04;7"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="05.Commercio, fiere e mercati, camere di commercio"/>
+                </materie>
+            </descrittori>
+        </meta><?error 05.Commercio, fiere e mercati, camere di commercio 
+ 
+Bollettino 
+Bollettino Ufficiale n. 13 del 15/07/89 
+ 
+Oggetto 
+Commercio - Interventi finanziari - Disciplina - Modifiche 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19890704">4 Luglio 1989</dataDoc>, n. <numDoc>7</numDoc>
+            <titoloDoc>Modifica <rif xlink:href="urn:nir:regione.molise:legge:1988-11-21;23#art1-com3">3 comma dell'art. 1, della legge regionale 21 novembre 1988, n. 23</rif>. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error 2. &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione   Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19810116" num="1" tipo="BURM"/>
+                <entratainvigore norm="19810131"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1981-01-12;4"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 01 del 16/01/81 
+ 
+Oggetto 
+Unit&#xE0; locali - Servizi veterinari - Organizzazione - Funzionamento Disciplina 
+ 
+Abrogazioni 
+Abrogato art. 2 dalla legge n. 11/1997 art. 27 
+Abrogato art. 7 dalla legge n. 24/1984 art. 3 
+ 
+Modifiche 
+Modificato art. 3 dalla legge n. 24/1984 art. 1 
+Modificato art. 3 dalla legge n. 11/1997 art. 27 
+Modificato art. 6 dalla legge n. 24/1984 art. 2 
+Modificato art. 8 dalla legge n. 24/1984 art. 4 
+Modificato art. 11 dalla legge n. 24/1984 art. 6 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19810112">12 Gennaio 1981</dataDoc>, n. <numDoc>4</numDoc>
+
+            <titoloDoc>Riordino dei Servizi Veterinari nelle Unità Locali a norma dell'<rif xlink:href="urn:nir:stato:legge:1978-12-23;833#art16">art. 16 della legge 23 dicembre 1978, n. 833</rif>
+            </titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: Principi e finalità 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo> 
+La presente legge disciplina l'organizzazione e il funzionamento del Servizio Veterinario nell'ambito delle Unità Locali a norma del <rif
+                            xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616">Decreto Presidente della Repubblica 24 luglio 1977, n. 616</rif> e della <rif
+                            xlink:href="urn:nir:stato:legge:1978-12-23;833">legge 23 dicembre 1978, n. 833</rif>, e stabilisce norme per l'esercizio delle funzioni in materia di igiene e sanità pubblica veterinari a e di polizia veterinaria, ivi comprese quelle già   esercitate dagli uffici dei veterinari provinciali e dagli uffici veterinari comunali e consorziali di cui all'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1961-02-11;264#art3">art. 3 del Decreto Presidente della Repubblica 11 febbraio 1961, n. 264</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+                <rubrica>: Ambiti territoriali 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo> 
+L'ambito territoriale organizzativo e gestionale del Servizio Veterinario coincide con il territorio della Unità Locale. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+                    <corpo>Le attività del Servizio Veterinario sono esplicate, di norma, nell'ambito territoriale del distretto; in relazione alla particolarità del territorio ed alla dislocazione del patrimonio zootecnico con le attività connesse alla produzione, possono essere esplicate in aree comprendenti ambiti territoriali di più distretti. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3</num>
+                <rubrica>: Attribuzioni del servizio e sua articolazione 
+</rubrica>
+                <comma id="art3-com1">
+                    <num/>
+
+                    <corpo> 
+Le attribuzioni del Servizio Veterinario dell'Unità Locale sono disciplinate dall'<rif xlink:href="urn:nir:regione.molise:legge:1980-05-16;15#art8">art. 8 della legge regionale 16 maggio 1980, n. 15</rif>. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <alinea>Il Servizio Veterinario dell'Unità Locale si articola, in genere, nei seguenti tre settori funzionali: 
+ 
+</alinea>
+                    <el id="art3-com2-leta">
+                        <num>a)</num>
+                        <corpo> settore funzionale di sanità animale: 
+ 
+- per la profilassi delle zoonosi e delle altre malattie infettive e diffusive degli animali soggetti a misure di polizia veterinaria; 
+ 
+- per i programmi di bonifica sanitaria e di eradicazione delle malattie di interesse antropozoonosico e zoosanitario e relativi servizi diagnostici, accertamenti e certificazioni; 
+ 
+- per la vigilanza sulla fecondazione artificiale e sulla riproduzione degli animali; 
+ 
+- per l'organizzazione e la vigilanza dell'assistenza zooiatrica; 
+ 
+- per l'osservanza epidemiologica; 
+ 
+- per la propaganda igienico-sanitaria e l'informazione scientifica.</corpo>
+                    </el>
+                </comma>
+                <comma id="art3-com3">
+                    <num/>
+                    <alinea>b) settore funzionale di controllo igienico-sanitario sulla produzione e commercializzazione degli alimenti di origine animale: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> per l'ispezione e la vigilanza veterinaria delle carni, del latte, delle uova, dei prodotti ittici e del miele e rispettivi derivati, nelle fasi di produzione, trasformazione, deposito, trasporto,  distribuzione, somministrazione e relativi accertamenti e certificazioni; 
+ 
+- per la vigilanza sulla produzione, distribuzione e sull'impiego dei mangimi e degli integratori; 
+ 
+- per la vigilanza ed il controllo sull'impiego dei farmaci di uso veterinario; 
+ 
+- per l'osservanza epidemiologica; 
+ 
+- per l'educazione sanitaria.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art3-com4">
+                    <num/>
+                    <alinea>c) settore funzionale di igiene dell'allevamento e delle produzioni animali e di ecologia veterinaria: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> per la vigilanza preventiva permanente sugli impianti e concentramenti animali; sugli impianti di raccolta, trasformazione, distribuzione e risanamento dei sottoprodotti, avanzi e rifiuti di origine animale; 
+ 
+- per l'igiene dei ricoveri animali anche in rapporto all'ambiente; 
+ 
+- per la riproduzione degli animali; 
+ 
+- per la vigilanza sull'utilizzazione degli animali da esperimento; 
+ 
+- per l'educazione e la propaganda veterinaria; 
+ 
+- per l'osservanza epidemiologica.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art3-com5">
+                    <num/>
+
+                    <corpo>Per il conseguimento delle proprie finalità in rapporto alle esigenze di ciascuna Unità Locale, gli organi a quest'ultima preposti, possono procedere ad accorpare i settori funzionali di cui alle lettere a) e c), <rif xlink:href="#art3-com2">secondo comma</rif>, del presente articolo. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+                <rubrica>: Competenze del distretto in materia di attività veterinaria 
+</rubrica>
+                <comma id="art4-com1">
+                    <num/>
+
+                    <alinea> 
+In ogni distretto sono assicurate, anche attraverso modalità organizzative interdistrettuali di cui al <rif xlink:href="#art2">precedente art. 2</rif>, le prestazioni inerenti: 
+ 
+</alinea>
+                    <en id="art4-com1-num1">
+                        <num>1)</num>
+                        <corpo> la profilassi delle malattie infettive, parassitarie e diffusive degli animali;</corpo>
+                    </en>
+                    <en id="art4-com1-num2">
+                        <num> 
+ 
+2)</num>
+                        <corpo> la polizia veterinaria;</corpo>
+                    </en>
+                    <en id="art4-com1-num3">
+                        <num> 
+ 
+3)</num>
+                        <corpo> la vigilanza sull'alimentazione e sull'impiego di farmaci per la zootecnica;</corpo>
+                    </en>
+                    <en id="art4-com1-num4">
+                        <num> 
+ 
+4)</num>
+                        <corpo> l'ispezione e la vigilanza sugli allevamenti, sui macelli e sui mercati ittici;</corpo>
+                    </en>
+                    <en id="art4-com1-num5">
+                        <num> 
+ 
+5)</num>
+                        <corpo> il controllo e la vigilanza sull'igiene della produzione, trasformazione, conservazione e vendita di prodotti di origine animale, sulle mense e cucine collettive, sulla ristorazione commerciale e sulle refezioni che utilizzano alimenti di origine animale o composti prevalentemente da prodotti di origine animale;</corpo>
+                    </en>
+                    <en id="art4-com1-num6">
+                        <num> 
+ 
+6)</num>
+                        <corpo> l'assistenza zooiatrica e la vigilanza sull'assistenza stessa, quando svolta da strutture ed operatori privati;</corpo>
+                    </en>
+                    <en id="art4-com1-num7">
+                        <num> 
+ 
+7)</num>
+                        <corpo> la vigilanza sulla fecondazione artificiale e sulla riproduzione animale;</corpo>
+                    </en>
+                    <en id="art4-com1-num8">
+                        <num> 
+ 
+8)</num>
+                        <corpo> gli accertamenti e le certificazioni di competenza veterinaria. 
+ 
+</corpo>
+                    </en>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+                <rubrica>: Presidi e servizi multizonali 
+</rubrica>
+                <comma id="art5-com1">
+                    <num/>
+                    <alinea> 
+Nella istituzione dei presidi e servizi multizonali si deve avere riguardo, in particolare, alle seguenti attività del Servizio Veterinario: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> la profilassi antirabbica e dell'idatidosi; 
+ 
+- disinfezione, disinfestazione e derattizzazione dei ricoveri animali, dei pascoli e degli ambienti soggetti a vigilanza veterinaria, in esecuzione di piani a carattere nazionale e regionale di risanamento; 
+ 
+- prevenzione e lotta contro le malattie esotiche: campi quarantenari, impianti per la raccolta e la distruzione di animali infetti o sospetti di infezione; 
+ 
+- impianti di raccolta e risanamento di rifiuti destinati alla alimentazione degli animali; 
+ 
+- servizi di assistenza specialistica nei settori di competenza veterinaria con particolare riferimento alla prevenzione ed alla cura della sterilità ed alla fecondazione artificiale; 
+ 
+- il controllo della radioattività ambientale e degli alimenti.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art5-com2">
+                    <num/>
+
+                    <corpo>Il Servizio Veterinario si avvale dei laboratori multizonali delle Unità Locali e dell'Istituto Zooprofilattico di cui al <rif xlink:href="#art6">successivo art. 6</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6</num>
+                <rubrica>: Rapporti con istituti zooprofilattici 
+</rubrica>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo> 
+L'Istituto Zooprofilattico Sperimentale dell'Abruzzo e Molise &lt;&lt; G. Caporale &gt;&gt; è struttura pluriregionale al servizio anche del Molise e delle sue Unità Locali. </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num/>
+                    <corpo>Detto Istituto conserva la propria natura giuridica in conformità a quanto disposto con leggi regionali n. 1 e n. 2 del 4 gennaio 1979. </corpo>
+                </comma>
+                <comma id="art6-com3">
+                    <num/>
+                    <corpo>L'Istituto Zooprofilattico, ivi comprese le sue sezioni diagnostiche provinciali, presta la propria collaborazione al Servizio Veterinario dell'Unità Locale e ai servizi e presidi multizonali per quanto concerne la prevenzione e la diagnosi delle malattie infettive e infestive degli animali, con particolare riferimento alle zoonosi, nonché per l'igiene degli alimenti di origine animale e dei mangimi per l'alimentazione del bestiame. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7</num>
+                <rubrica>: Personale 
+</rubrica>
+                <comma id="art7-com1">
+                    <num/>
+                    <alinea> 
+Le qualifiche funzionali dei veterinari dipendenti dalle Unità Locali si dividono in: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> Veterinario dirigente; 
+ 
+- Veterinario coadiuvatore; 
+ 
+- Veterinario collaboratore.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art7-com2">
+                    <num/>
+
+                    <corpo>Nell'ambito del Servizio opera inoltre personale amministrativo, diretto, ove occorra, da un funzionario con qualifica non superiore a quelle corrispondenti al quadro 2 della tabella A, ruolo   amministrativo, allegato 1 al <rif xlink:href="urn:nir:presidente.repubblica:decreto:1979-12-20;761">Decreto Presidente Repubblica 20 dicembre 1979, n. 761</rif>- nonché personale tecnico e vigili sanitari addetti alla polizia veterinaria. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8</num>
+                <rubrica>: Responsabile del Servizio - Veterinario Dirigente 
+</rubrica>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo> 
+Il responsabile del Servizio Veterinario della Unità Locale è preposto al coordinamento dei settori e delle attività dei presidi e servizi multizonali nelle materie di competenza. </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num/>
+                    <alinea>Il responsabile del Servizio, in particolare: 
+ 
+</alinea>
+                    <el id="art8-com2-leta">
+                        <num>a)</num>
+
+                        <corpo> propone, nei casi di urgenza, al sindaco competente per territorio l'adozione dei provvedimenti di cui al <rif xlink:href="#art12">successivo articolo 12</rif> ed eventualmente procede ad interventi temporanei di ordine tecnico-professionale;</corpo>
+                    </el>
+                    <el id="art8-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> emana gli atti di ordinaria amministrazione all'interno del Servizio;</corpo>
+                    </el>
+                    <el id="art8-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> predispone, di concerto con i responsabili dei settori, i piani di lavoro dei settori stessi e ne verifica lo stato di attuazione;</corpo>
+                    </el>
+                    <el id="art8-com2-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> dispone per il migliore impiego del personale e delle risorse strumentali assegnate al Servizio;</corpo>
+                    </el>
+                    <el id="art8-com2-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> concorre con gli altri responsabili dei Servizi all'elaborazione e verifica dei programmi di attività dell'Unità Locale;</corpo>
+                    </el>
+                    <el id="art8-com2-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> informa il responsabile del Servizio igiene pubblica ed è da questi informato dei casi di malattia degli animali trasmissibili all'uomo e viceversa. </corpo>
+                    </el>
+                </comma>
+                <comma id="art8-com3">
+                    <num/>
+                    <corpo>Il veterinario provinciale ed il veterinario comunale o consorziale, presidenti o componenti di commissioni, comitati o collegi, sono sostituiti dal responsabile del Servizio veterinario dell'Unità   Locale competente per materia e per territorio o, per sua delega, da altro veterinario dello stesso servizio. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9</num>
+                <rubrica>: Compiti e funzioni dei veterinari coadiutori 
+</rubrica>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo> 
+I veterinari coadiutori sono responsabili dei settori funzionali, riferiscono periodicamente al responsabile del Servizio sui risultati conseguiti e formulano proposte per l'adeguamento dei   piani di lavoro. </corpo>
+                </comma>
+                <comma id="art9-com2">
+                    <num/>
+                    <corpo>In particolare essi svolgono l'attività inerente agli accertamenti tecnico-sanitari richiesti dalle vigenti disposizioni per il rilascio di pareri, nulla osta, certificazioni, attestazioni e proposte di contenuto tecnico sull'adozione di provvedimenti amministrativi, e rispondono dell'attività dei veterinari collaboratori. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10</num>
+                <rubrica>: Compiti dei veterinari collaboratori 
+</rubrica>
+                <comma id="art10-com1">
+                    <num/>
+                    <corpo> 
+I veterinari collaboratori assicurano le prestazioni veterinarie di base, svolgendo la parte operativa del Servizio nell'ambito delle zone distrettuali o inter distrettuali e nelle rispettive   competenze. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11</num>
+                <rubrica>: Attività ispettiva di vigilanza e controllo 
+</rubrica>
+                <comma id="art11-com1">
+                    <num/>
+                    <corpo> 
+L'attività ispettiva di vigilanza e controllo è diretta dal responsabile del Servizio, che può avvalersi di personale posto alle sue dipendenze o chiedere di avvalersi di altro personale con   qualifica di pubblico ufficiale o incaricato di pubblico servizio. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12</num>
+                <rubrica>: Attribuzioni del Sindaco quale autorità sanitaria locale in materia veterinaria 
+</rubrica>
+                <comma id="art12-com1">
+                    <num/>
+
+                    <corpo> 
+I sindaci esercitano tutte le funzioni in materia veterinaria che loro competono quali autorità sanitarie locali, in qualità di ufficiali governativi, ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1978-12-23;833#art13-com2">art. 13, 2° comma, della legge 23 dicembre 1978, n. 833</rif>. </corpo>
+                </comma>
+                <comma id="art12-com2">
+                    <num/>
+                    <corpo>Per l'esercizio di tali funzioni i sindaci si avvalgono dei Servizi e presidi della competente Unità Locale e provvedono, inoltre, all'emanazione, limitatamente al territorio di competenza, di   ordinanze di carattere contingibile ed urgente in materia di igiene e sanità pubblica veterinaria e di polizia veterinaria. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13</num>
+                <rubrica>: Competenze della Regione 
+</rubrica>
+                <comma id="art13-com1">
+                    <num/>
+                    <alinea> 
+Restano di competenza della Regione: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> la programmazione, il coordinamento e la verifica delle funzioni di competenza veterinaria sulla base delle leggi nazionali e regionali e delle direttive programmatiche impartite; 
+ 
+- i necessari collegamenti con tutte le amministrazioni sanitarie nazionali ed internazionali; 
+ 
+- la raccolta e l'elaborazione dei dati statistici relativi alla materia; 
+ 
+- l'emanazione di ordinanze contingibili ed urgenti in materia veterinaria quando sono richieste da situazioni interessanti più Comuni; 
+ 
+- la fissazione delle tariffe, stabilite dalla Giunta Regionale all'inizio di ogni anno, per gli accertamenti e le indagini in materia di igiene e sanità pubblica veterinaria e di polizia veterinaria espletati a favore di privati dai Servizi, presidi e uffici dell'Unità Locale.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art13-com2">
+                    <num/>
+                    <corpo>L'attività istruttoria, tecnica e amministrativa nelle materie indicate nel presente articolo è espletata dagli uffici dei competenti Assessorati Regionali, i quali si avvalgono dei Servizi e dei presidi delle Unità Locali, di concerto con i Comuni interessati. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14</num>
+                <rubrica>: Norma transitoria 
+</rubrica>
+                <comma id="art14-com1">
+                    <num/>
+
+                    <corpo> 
+Sino a quando non entreranno in funzione le strutture veterinarie delle Unità Locali previste dalla <rif xlink:href="urn:nir:regione.molise:legge:1980-05-16;15">legge regionale 16 maggio 1980, n. 15</rif>, e comunque non oltre 30 giorni dall'entrata in vigore della   presente legge, le funzioni dalla stessa regolamentate continueranno ad essere svolte dagli uffici e Servizi che attualmente le esercitano. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>Art.15</num>
+                <rubrica>: Dichiarazione d'urgenza 
+</rubrica>
+                <comma id="art15-com1">
+                    <num/>
+
+                    <corpo> 
+La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel   Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla   osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

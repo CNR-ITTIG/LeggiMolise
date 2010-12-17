@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19890901" num="16" tipo="BURM"/>
+                <entratainvigore norm="19890916"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1989-08-25;12"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="24.Politiche per i migranti e rapporti con i molisani nel mondo"/>
+                </materie>
+            </descrittori>
+        </meta><?error 24.Politiche per i migranti e rapporti con i molisani nel mondo 
+ 
+Bollettino 
+Bollettino Ufficiale n. 16 del 01/09/89 
+ 
+Oggetto 
+Emigrazione - Destinatari - Interventi - Disciplina 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 31/2006 art. 16 
+ 
+Modifiche 
+Modificato art. Titolo modificato dalla legge n. 8/1993 art. 1 
+Modificato art. 3 dalla legge n. 8/1993 art. 2 
+Modificato art. 4 dalla legge n. 8/1993 art. 3 
+Modificato art. 5 dalla legge n. 8/1993 art. 4 
+Modificato art. 11 dalla legge n. 8/1993 art. 5 
+Modificato art. 16 dalla legge n. 8/1993 art. 6 
+Modificato art. 18 dalla legge n. 8/1993 art. 7 
+Modificato art. 19 dalla legge n. 8/1993 art. 8 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19890825">25 Agosto 1989</dataDoc>, n. <numDoc>12</numDoc>
+            <titoloDoc>Interventi della Regione per l'Emigrazione. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 31/2006 art. 16</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error 2. &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

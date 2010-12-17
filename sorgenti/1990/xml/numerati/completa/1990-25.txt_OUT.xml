@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19900316" num="5" tipo="BURM"/>
+                <entratainvigore norm="19900331"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1990-03-05;12"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="25.Polizia amministrativa"/>
+                </materie>
+            </descrittori>
+        </meta><?error 25.Polizia amministrativa 
+ 
+Bollettino 
+Bollettino Ufficiale n. 05 del 16/03/90 
+ 
+Oggetto 
+Polizia municipale - Servizio - Istituzione - Funzioni - Ordinamento - Mezzi e strumenti operativi 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 14-bis dalla legge n. 11/2004 art. 1 
+Modificato art. 14-ter dalla legge n. 11/2004 art. 2 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19900305">5 Marzo 1990</dataDoc>, n. <numDoc>12</numDoc>
+            <titoloDoc>Norme in materia di polizia locale. 
+ 
+Titolo I: NORME GENERALI PER L'ISTITUZIONE DEL SERVIZIO DI POLIZIA MUNICIPALE 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ART. 1</num>
+                <rubrica>: ISTITUZIONE DEL SERVIZIO DI POLIZIA MUNICIPALE 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La Regione, nel rispetto delle norme e dei principi stabiliti dalla <rif xlink:href="urn:nir:stato:legge:1986-03-07;65">legge 7 marzo 1986, n. 65</rif>, detta norme sull'ordinamento della polizia municipale, al fine di assicurare su tutto il territorio regionale un uniforme ed efficiente esercizio da parte dei Comuni delle funzioni di polizia locale, urbana e rurale, di polizia amministrativa e di ogni altra attività di polizia nelle materie di propria competenza nonché in quelle ad essi delegate. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> I Comuni possono procedere all'istituzione del &lt;&lt;Corpo di polizia municipale&gt;&gt; quando le funzioni di cui al precedente comma sono espletate da almeno sette addetti, disciplinando lo stato giuridico del personale con apposito regolamento, in conformità ai principi contenuti nella <rif xlink:href="urn:nir:stato:legge:1983-03-29;93">legge 29 marzo 1983, n. 93</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ART. 2</num>
+                <rubrica>: FUNZIONI DI POLIZIA MUNICIPALE 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+
+                    <alinea> Il personale che svolge il servizio di polizia municipale, nell'ambito territoriale dell'ente di appartenenza e nei limiti delle proprie attribuzioni, provvede, oltre all'esercizio delle funzioni previste dagli articoli 3 e 5 della <rif xlink:href="urn:nir:stato:legge:1986;65">legge n. 65/1986</rif>, a: 
+ 
+</alinea>
+                    <el id="art2-com1-leta">
+                        <num>a)</num>
+
+                        <corpo> vigilare sull'osservanza delle leggi, dei regolamenti e dei provvedimenti emanati dallo Stato, dalla Regione e dagli enti locali, nelle materie di cui al <rif xlink:href="#art1-com1">precedente articolo 1 - comma 1</rif>°;</corpo>
+                    </el>
+                    <el id="art2-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> tutelare il patrimonio, provvedendo a tutte le funzioni che non siano attribuite ad altri enti ed istituzioni;</corpo>
+                    </el>
+                    <el id="art2-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> assolvere gli incarichi di raccolta notizie, accertamento e di rilevazione, nei casi previsti dalle leggi o da regolamenti;</corpo>
+                    </el>
+                    <el id="art2-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> prestare servizi d'ordine, di vigilanza e di scorta, necessari per l'espletamento delle attività e compiti istituzionali degli enti di appartenenza;</corpo>
+                    </el>
+                    <el id="art2-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> collaborare, nei limiti e nelle forme di legge e nell'ambito delle proprie attribuzioni, con le forze di polizia dello Stato e della protezione Civile;</corpo>
+                    </el>
+                    <el id="art2-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> in caso di calamità il personale preposto ai servizi di polizia locale assicurano l'immediato intervento ed i collegamenti con gli altri servizi. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>ART. 3</num>
+                <rubrica>: DIPENDENZA DEI SERVIZI DI POLIZIA MUNICIPALE 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> La polizia municipale è alle dirette dipendenze del sindaco o dell'assessore da lui delegato, che vi sovrintende impartendo le direttive di carattere generale e vigilando sullo svolgimendo del servizio. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il responsabile del servizio di polizia municipale risponde direttamente al sindaco dell'addestramento, della disciplina e dell'impiego tecnico - operativo degli addetti. </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Nel caso di gestione associata, il relativo atto costitutivo disciplina l'adozione del regolamento per lo svolgimento del servizio, fissandone i contenuti essenziali. Il responsabile del servizio di polizia municipale gestito in forma comune ha il compito di coordinare l'impiego tecnico-operativo degli addetti, sulla base delle richieste e delle esigenze delle amministrazioni associate. 
+ 
+Egli è altresì responsabile della disciplina e dell'addestramento del personale. </corpo>
+                </comma>
+                <comma id="art3-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Gli addetti ai servizi di polizia municipale esercitati in forma associata sono in ogni caso sottoposti all'autorità del sindaco del comune nel cui territorio si trovano ad operare. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>ART. 4</num>
+                <rubrica>: ORDINAMENTO DEL CORPO DI POLIZIA MUNICIPALE 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+
+                    <corpo> L'ordinamento del Corpo di Polizia municipale, fatte salve le diverse previsioni degli accordi stipulati a norma della <rif
+                            xlink:href="urn:nir:stato:legge:1983-03-29;93">legge 29 marzo 1983, n. 93</rif> e tenendo conto della classificazione dei Comuni di cui al <rif xlink:href="#art5">successivo art. 5</rif>, si articola sulla base dei seguenti criteri: Comuni di classe I, II e III: responsabile del corpo (comandante); addetti al coordinamento e controllo, operatori (vigili); Comuni di classe IV: addetto al coordinamento e controllo (comandante) e operatori (vigili). 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>ART. 5</num>
+                <rubrica>: CLASSIFICAZIONE DEI COMUNI 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Ai fini della istituzione del servizio di polizia municipale, i Comuni sono individuati sulla base delle classi previste per l'assegnazione ai Comuni del segretario comunale di cui alla Tabella A annessa alla <rif xlink:href="urn:nir:stato:legge:1962-06-08;604">legge 8 giugno 1962, n. 604</rif> e successive modificazioni. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> I Comuni assegnati alle classi III e IV organizzano l'attività di polizia municipale prevedendo l'area unica della polizia municipale. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> I Comuni assegnati alla classe II organizzano l'attività di polizia prevedendo che l'area della Polizia municipale sia articolata in due nuclei, il primo per la viabilità ed il secondo per le altre attribuzioni. </corpo>
+                </comma>
+                <comma id="art5-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> I Comuni assegnati alla classe I organizzano l'attività articolando l'area della polizia municipale in piu nuclei operativi, caratterizzati dalla specializzazione delle attribuzioni. 
+ 
+I comuni assegnati alla classe 1B organizzano la propria attività di polizia locale in modo articolato sul territorio secondo il principio del decentramento, in circoscrizione e/o quartieri. 
+ 
+Nel caso in cui il servizio di polizia municipale sia gestito in forma associata o consorziata, la classe è determinata in base alla popolazione complessiva residente nei Comuni associati o consorziati. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>ART. 6</num>
+                <rubrica>: DETERMINAZIONE DEL CONTINGENTE NUMERICO DEGLI ADDETTI AI SERVIZI DI POLIZIA MUNICIPALE 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <alinea> I comuni o loro Consorzi, per la determinazione del contingente numerico degli addetti al servizio di polizia municipale, terranno conto dei seguenti elementi: 
+ 
+</alinea>
+                    <el id="art6-com1-leta">
+                        <num>a)</num>
+                        <corpo> numero degli abitanti del Comune e flussi della popolazione;</corpo>
+                    </el>
+                    <el id="art6-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> superficie territoriale e suddivisioni in circoscrizioni e frazioni, collegamenti logistici e caratteri urbanistici;</corpo>
+                    </el>
+                    <el id="art6-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> sviluppo chilometrico della rete viaria, densità e complessità del traffico;</corpo>
+                    </el>
+                    <el id="art6-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> sviluppo dell'edilizia, insediamenti industriali e commerciali e sviluppo turistico;</corpo>
+                    </el>
+                    <el id="art6-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> quantità dei servizi;</corpo>
+                    </el>
+                    <el id="art6-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> ogni altro criterio oggettivo di carattere socio- economico di particolare significato per la specificità del territorio stesso;</corpo>
+                    </el>
+                    <el id="art6-com1-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> complessità del servizio. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>ART. 7</num>
+                <rubrica>: REGOLAMENTO COMUNALE 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <corpo> I Comuni che, a norma del <rif
+                            xlink:href="#art1">precedente art. 1</rif> provvedono a istituire il Corpo di polizia municipale, adottano, ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1986;65#art4">art. 4 della legge n. 65/86</rif>, il regolamento comunale del servizio di polizia municipale entro 90 giorni dalla data di entrata in vigore della presente legge. 
+ 
+Titolo II: ASSOCIAZIONE E COLLABORAZIONE FRA COMUNI 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>ART. 8</num>
+                <rubrica>: FORMA ASSOCIATIVA DI COMUNI 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione promuove e incentiva la costituzione in associazioni e consorzi da parte dei Comuni per l'esercizio delle funzioni di polizia municipale secondo criteri di economicità e di efficienza, negli ambiti territoriali ritenuti ottimali dagli stessi. </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Le norme di funzionamento delle strutture organizzative di cui al comma precedente saranno stabilite nello <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto</rif>, approvato dai Consigli dei Comuni interessati e pubblicato sul Bollettino Ufficiale della Regione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>ART. 9</num>
+                <rubrica>: COLLABORAZIONE FRA COMUNI 
+ 
+l. La Regione incentiva le intese fra i Comuni dirette a conseguire la gestione dei servizi a carattere ricorrente, stagionale e occasionale relativi allo svolgimento delle funzioni di Polizia Municipale sul territorio. 
+ 
+2. A tal fine i Comuni possono costituire apposite strutture organizzative e strumenti operativi per l'impiego del personale su tutto il territorio interessato. 
+ 
+3. Quando il personale di polizia municipale viene impiegato nell'ambito di un Comune diverso da quello di appartenenza, è collocato alle dipendenze funzionali del Sindaco di quest'ultimo Comune, fermo restando che l'impiego tecnico operativo è affidato al comandante del Corpo o al responsabile del servizio di polizia municipale di quel Comune. 
+ 
+4. Le missioni esterne per soccorso in caso di calamità e disastri, o per rinforzare altri Corpi e servizi in particolari occasioni stagionali o eccezionali, sono ammesse sulla base di appositi piani concordati tra le amministrazioni interessate. Delle missioni va data preventiva comunicazione al prefetto. 
+ 
+Titolo III 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>ART. 10</num>
+                <rubrica>: FORMAZIONE E AGGIORNAMENTO PROFESSIONALE 
+ </rubrica>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+                    <alinea> In attesa della istituzione di una struttura regionale permanente per la formazione degli addetti alla Polizia Municipale, la Regione promuove ed attua annualmente: 
+ 
+</alinea>
+                    <el id="art10-com1-leta">
+                        <num>a)</num>
+                        <corpo> Corsi di formazione riservati ai vincitori di pubblico concorso per addetti alla Polizia municipale;</corpo>
+                    </el>
+                    <el id="art10-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> Corsi di aggiornamento professionale per addetti alla Polizia municipale in servizio presso i Comuni della Regione;</corpo>
+                    </el>
+                    <el id="art10-com1-letc">
+                        <num> 
+ 
+c)</num>
+
+                        <corpo> Corsi di specializzazione nei settori di competenza della Polizia municipale nonché nelle materie le cui funzioni sono state trasferite o delegate ai Comuni dal <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977;616">D.P.R 616/77</rif>, da leggi dello Stato o della Regione. 
+ 
+Tali corsi si concludono con misure di accertamento dell'avvenuto conseguimento di un significativo accrescimento della professionalità del partecipante, che costituiscono, ad ogni effetto, titolo di servizio;</corpo>
+                    </el>
+                    <el id="art10-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> ogni altra iniziativa finalizzata a migliorare i servizi di Polizia municipale. </corpo>
+                    </el>
+                </comma>
+                <comma id="art10-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Le iniziative di cui ai commi precedenti sono organizzate ed attuate dal settore di Formazione Professionale della Giunta Regionale. </corpo>
+                </comma>
+                <comma id="art10-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La frequenza ai corsi di preparazione e di aggiornamento è obbligatoria per tutti gli addetti ai servizi di polizia locale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>ART. 11</num>
+                <rubrica>: CONFERENZA DI SERVIZIO 
+ </rubrica>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+                    <corpo> La Giunta Regionale, d'intesa con l'Associazione regionale dell'ANCI e della Lega delle autonomie locali, indice e organizza annualmente una Conferenza di servizio tra gli appartenenti alla Polizia municipale per favorire il confronto e l'interscambio di esperienze. 
+ 
+Titolo IV: UNIFORMI E DISTINTIVI DI GRADO 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>ART. 12</num>
+                <rubrica>: DIVISE 
+ </rubrica>
+                <comma id="art12-com1">
+                    <num>
+1.</num>
+                    <corpo> La divisa degli appartenenti a servizi di polizia municipale costituita da un insieme organico di oggetti di vestiario, o equipaggiamento, di accessori aventi specifica denominazione e realizzati in modo da soddisfare le esigenze di funzionalità e di identificazione. </corpo>
+                </comma>
+                <comma id="art12-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Le divise sono ordinarie, di servizio e, per servizi di onore e di rappresentanza, con le caratteristiche previste per ciascun capo dell'allegato A della presente legge. </corpo>
+                </comma>
+                <comma id="art12-com3">
+                    <num>
+ 
+3 .</num>
+                    <corpo> Salvo quanto sarà disposto dai regolamenti comunali, di norma il personale indossa l'uniforme ordinaria per tutta la durata del servizio. </corpo>
+                </comma>
+                <comma id="art12-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> L'uso di divisa diversa dall'ordinaria è disposta dal responsabile del servizio o dal Comandante del Corpo. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>ART. 13</num>
+                <rubrica>: PLACCA E TESSERINO DI RICONOSCIMENTO 
+ </rubrica>
+                <comma id="art13-com1">
+                    <num>
+1.</num>
+                    <alinea> Gli adetti alla Polizia municipale devono essere dotati di: 
+ 
+</alinea>
+                    <el id="art13-com1-leta">
+                        <num>a)</num>
+                        <corpo> placca di riconoscimento costituita da uno scudetto di metallo inseribile in un rettangolo a sfondo dorato delle dimensioni di mm. 40 di base e mm. 55 di altezza rappresentante lo stemma del Comune con la scritta &lt;&lt;Polizia Municipale&gt;&gt; (segue il nome del Comune) e il numero di matricola del personale. 
+ 
+La placca è applicata al petto, all'altezza del taschino sinistro dell'uniforme. 
+ 
+b) Tesserino di riconoscimento plastificato con foto, di cm. 8 per cm. 6 contenente i seguenti dati: denominazione e stemma del Comune, scritta &lt;&lt;Polizia Municipale&gt;&gt;, numero di matricola, grado e dati anagrafici. 
+ 
+Sul retro del tesserino debbono essere indicati: 
+ 
+a) il decreto prefettizio di riconoscimento della qualifica di agente di P.S.;</corpo>
+                    </el>
+                    <el id="art13-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> la qualifica di agente o di ufficiale di PG;</corpo>
+                    </el>
+                    <el id="art13-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> gli estremi dell'autorizzazione al porto d'armi;</corpo>
+                    </el>
+                    <el id="art13-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> il gruppo sanguigno. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>ART. 14</num>
+                <rubrica>: GRADI E DISTINTIVI DI GRADO 
+ </rubrica>
+                <comma id="art14-com1">
+                    <num>
+1.</num>
+                    <corpo> Gli addetti alla Polizia municipale sono distinti per gradi in comandante, ufficiali, sottufficiali, operatori di Polizia municipale. </corpo>
+                </comma>
+                <comma id="art14-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> I gradi hanno una mera funzione simbolica e non incidono sullo stato giuridico: sono determinati per il Comandante, il Vice Comandante e gli ufficiali dalla classe cui sono assegnati i comuni ai sensi dell'<rif
+                            xlink:href="#art5">art. 5</rif> della presente legge; per i sottufficiali dall'anzianità di servizio avendo come riferimento analogico la <rif xlink:href="urn:nir:stato:legge:1973-11-22;872">legge 22 novembre 1973, n. 872</rif>. </corpo>
+                </comma>
+                <comma id="art14-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Nei Comuni di classe I/A il Comandante della Polizia municipale riveste il grado di Colonnello; nei Comuni di classe I/B, capoluoghi di Provincia, il Comandante riveste il grado di Tenente Colonnello; nei Comuni I/B non Capoluoghi di Provincia; il Comandante della Polizia municipale riveste il grado di Maggiore; nei Comuni di classe II il Comandante della Polizia municipale riveste il grado di Capitano; nei Comuni di classe III il Comandante della Polizia municipale riveste il grado di Tenente; nei Comuni di classe IY il Comandante riveste il grado di Maresciallo. </corpo>
+                </comma>
+                <comma id="art14-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> Il Vice Comandante, ove previsto, riveste il grado immediatamente inferiore a quello del Comandante. 
+ 
+Gli Ufficiali, ove previsti, rivestono i gradi che saranno determinati dal regolamento comunale ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1986-03-07;65#art7">art. 7 della legge 7 marzo 1986, n. 65</rif>. </corpo>
+                </comma>
+                <comma id="art14-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> I singoli distintivi di grado degli ufficiali sono costituiti da stelle dorate con sei punte a torre per le spalline, soggolo a cordone intrecciato o piatto dorato con galloni dorati per il berretto. </corpo>
+                </comma>
+                <comma id="art14-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> Il Comandante indossa i gradi con filetto rosso intorno ai singoli distintivi di grado. </corpo>
+                </comma>
+                <comma id="art14-com7">
+                    <num>
+ 
+7.</num>
+                    <corpo> Ai Sottufficiali vengono attribuiti i gradi e i relativi distintivi che saranno determinati dal regolamento comunale, così come anche per gli appuntati e i vigili scelti. </corpo>
+                </comma>
+                <comma id="art14-com8">
+                    <num>
+ 
+8.</num>
+                    <corpo> I simboli distintivi di grado sono costituiti da barrette zigrinate, una per ogni grado per le spalline, e barrette verticali equivalenti ai gradi per il berretto. 
+ 
+Titolo V: MEZZI E STRUMENTI OPERATIVI 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>ART. 15</num>
+                <rubrica>: MEZZI OPERATIVI 
+ </rubrica>
+                <comma id="art15-com1">
+                    <num>
+1.</num>
+                    <corpo> Le attività di Polizia Municipale vengono disimpegnate con autovetture, motocicli, ciclomotori, velocipedi e automezzi per impieghi speciali. </corpo>
+                </comma>
+                <comma id="art15-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> I servizi o i Corpi di polizia municipale potranno essere dotati di un proprio natante a motore per i servizi marittimi, lacuali o comunque per le acque interne, quando svolgono attività di vigilanza o di polizia locale in zone marittime; portuali o lacustri. </corpo>
+                </comma>
+                <comma id="art15-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> I mezzi nautici saranno in tal caso dotati di sistema di allarme, collegamento radio ed attrezzatura necessaria atta ad assicurare una efficiente operatività. </corpo>
+                </comma>
+                <comma id="art15-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> I mezzi di cui al <rif xlink:href="#art15-com1">primo comma</rif> del presente art., acquistati con i contributi della Regione, devono essere adibiti esclusivamente per compiti di istituto. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>ART. 16</num>
+                <rubrica>: APPARECCHI RICE-TRASMITTENTI 
+ 
+l. Di norma gli automezzi debbono essere dotati di apparecchio rice-trasmittente collegati con la centrale operativa o il centralino di Comando. 
+ 
+2. Il personale in servizio di vigilanza deve essere dotato di apparecchio rice-trasmittente portatile. 
+ 
+3. Per le trasmissioni di servizio attraverso il ponte radio, ogni Comune farà uso di una sigla propria di individuazione alla quale fara poi seguito un numero di chiamata per singolo equipaggio o posto di servizio. 
+ 
+4. La Regione con proprio provvedimento potrà stabilite norme per eventuale collegamento dei comandi di polizia municipale con il sistema radio - trasmittente regionale ai fini del collegamento per ragioni di soccorso o per servizio di protezione civile. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art16-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>ART. 17</num>
+                <rubrica>: AMBITO DI APPLICAZIONE 
+ </rubrica>
+                <comma id="art17-com1">
+                    <num>
+1.</num>
+                    <corpo> Gli enti locali diversi dai Comuni svolgono le funzioni di polizia locale di cui sono titolari, anche a mezzo di appositi servizi; ad essi sono estesi, in quanto applicablli, le disposizioni della presente legge sostituendo al Comune ed ai suoi organi l'ente locale e gli organi corrispondenti. 
+ 
+Titolo VI: FUNZIONI DI STUDIO IN MATERIA DI POLIZIA LOCALE 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>ART. 18</num>
+                <rubrica>: COMITATO TECNICO REGIONALE 
+ </rubrica>
+                <comma id="art18-com1">
+                    <num>
+1.</num>
+                    <alinea> È istituito il Comitato tecnico regionale in materia di Polizia locale, il quale dura in carica quanto il Consiglio Regionale, svolge le sue funzioni fino al suo rinnovo ed è composto: 
+ 
+</alinea>
+                    <el id="art18-com1-leta">
+                        <num>a)</num>
+                        <corpo> dall'Assessore regionale agli Enti Locali o da un suo delegato che lo presiede;</corpo>
+                    </el>
+                    <el id="art18-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> da un esperto in materia di polizia locale designato dalla Giunta Regionale;</corpo>
+                    </el>
+                    <el id="art18-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> da 4 rappresentanti degli Enti Locali designati rispettivamente dalle sezioni regionali ANCI, UPI, UNCEM, e Lega delle Autonomie;</corpo>
+                    </el>
+                    <el id="art18-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> da un rappresentante sindacale appartenente alla Polizia Municipale designato unitariamente dalle Organizzazioni Sindacali maggiormente rappresentative a livello regionale;</corpo>
+                    </el>
+                    <el id="art18-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> da due rappresentanti dell'associazione di categoria più rappresentativa in ambito regionale dei Vigili Urbani;</corpo>
+                    </el>
+                    <el id="art18-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> da due rappresentanti dell'associazione di categoria più rappresentativa in ambito regionale dei Comandanti e Ufficiali di Polizia Municipale. </corpo>
+                    </el>
+                </comma>
+                <comma id="art18-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> I componenti sono nominati con decreto del Presidente della Giunta Regionale il quale, in caso di omessa designazione di alcuni dei membri, assegna un termine non superiore a trenta giorni per provvedervi. Qualora l'omissione si protragga, provvede ugualmente alla nomina dei soggetti già designati. In tal caso il Comitato risulta composto, a tutti gli effetti, da un numero di componenti corrispondente a quello dei membri nominati. </corpo>
+                </comma>
+                <comma id="art18-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Ai componenti del Comitato spetta il rimborso delle spese di trasporto effettivamente sostenute e documentate. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art19">
+                <num>ART. 19</num>
+                <rubrica>: COMPITI DEL COMITATO 
+ </rubrica>
+                <comma id="art19-com1">
+                    <num>
+1.</num>
+                    <corpo> Il Comitato tecnico regionale ha funzioni di studio, di informazione e consulenza tecnica e giuridica in materia di Polizia Locale. </corpo>
+                </comma>
+                <comma id="art19-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> In particolare, esso formula alla Giunta regionale proposte relative: 
+ 
+</alinea>
+                    <el id="art19-com2-leta">
+                        <num>a)</num>
+                        <corpo> alle caratteristiche dei servizi di Polizia;</corpo>
+                    </el>
+                    <el id="art19-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> alle caratteristiche delle uniformi e de idistintivi del personale addetto ai servizi di Polizia locale;</corpo>
+                    </el>
+                    <el id="art19-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> alle caratteristiche dei mezzi e degli strumenti operativi in dotazione ai corpi e ai servizi di Polizia locale: a tale fine esprime pareri sulle richieste di contributi previste dalla presente legge;</corpo>
+                    </el>
+                    <el id="art19-com2-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> ai corsi di formazione professionale con particolare riferimento alle materie di insegnamento che dovranno essere omogenei quanto ai contenuti tecnico culturali;</corpo>
+                    </el>
+                    <el id="art19-com2-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> a eventuali comunicati e note esplicative, nelle materie di cui alle lettere a), b), c) e d) del presente comma, ai corpi ed ai servizi di Polizia Locale. </corpo>
+                    </el>
+                </comma>
+                <comma id="art19-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Una struttura organizzativa regionale alle dipendenze funzionali della Giunta, svolge i compiti di supporto tecnico e amministrativo all'attività del Comitato. 
+ 
+Titolo VII 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art20">
+                <num>ART. 20</num>
+                <rubrica>: PROGRAMMA DI FINANZIAMENTO DEI MEZZI E STRUMENTI OPERATIVI 
+ </rubrica>
+                <comma id="art20-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione concede ai Comuni ed agli altri Enti Locali contributi per l'acquisto di attrezzature e mezzi necessari all'espletamento delle funzioni e dei compiti di polizia locale, nei limiti delle risorse stanziate in bilancio. </corpo>
+                </comma>
+                <comma id="art20-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> I contributi sono concessi sulla base di un programma annuale di finanziamento delle attrezzature e mezzi, approvato dal Consiglio Regionale previo parere del Comitato Tecnico di cui all'<rif
+                            xlink:href="#art19">art. 19</rif> ed elaborato sulla base di parametri e standards individuati tenendo prevalentemente conto degli elementi di cui all'<rif xlink:href="#art6">art. 6</rif> della presente legge. Va data precedenza alle richieste di contributi presentate da associazioni o consorzi ai Comuni per il servizio di Polizia Municipale. </corpo>
+                </comma>
+                <comma id="art20-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La misura del contributo per ciascuna categoria di attrezzature è determinata dal programma di cui al precedente comma e non può, comunque, superare il 50% della spesa necessaria. Tale percentuale è elevata al 70% della spesa nel caso di Associazione o Consorzi di Comuni. </corpo>
+                </comma>
+                <comma id="art20-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Il contributo verrà erogato dalla Giunta Regionale previa presentazione della delibera di liquidazione delle spese adottata dal competente Organo del Comune o degli altri Enti Locali. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art21">
+                <num>ART. 21</num>
+                <rubrica>: PRESENTAZIONE DOMANDE 
+ </rubrica>
+                <comma id="art21-com1">
+                    <num>
+1.</num>
+
+                    <corpo> I Comuni e gli altri Enti Locali che intendono fruire dei benefici di cui al <rif xlink:href="#art21">precedente articolo 21</rif>, devono inoltrare, entro e non oltre il 31 marzo di ogni anno, apposita domanda, sottoscritta dal Sindaco, indirizzata alla Regione Molise _ Assessorato agli Enti Locali _, indicante la classe di appartenenza del Comune, l'attrezzatura che si intende acquistare, l'uso cui sarà adibita, il costo, la sua utilizzazione ai fini del potenziamento di strutture preesistenti, nonché la somma richiesta e i mezzi per far fronte alla copertura finanziaria della spesa eccedente la misura del contrbuto ammissibile. </corpo>
+                </comma>
+                <comma id="art21-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Alla domanda deve essere allegata una copia della delibera del competente Organo del Comune o degli altri Enti Locali che autorizza l'acquisto delle attrezzature con la contestuale assunzione del relativo impegno di spesa. 
+ 
+Titolo VIII: NORME FINALI E TRANSITORIE 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art22">
+                <num>ART. 22</num>
+                <rubrica>: NORMA TRANSITORIA 
+ </rubrica>
+                <comma id="art22-com1">
+                    <num>
+1.</num>
+                    <corpo> Entro 6 mesi dalla data di entrata in vigore della presente legge i Comuni e gli altri Enti Locali adeguano i propri vigenti regolamenti alle disposizioni in essa contenute. </corpo>
+                </comma>
+                <comma id="art22-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> I Comuni adeguano, altresì, la foggia delle uniformi e le caratteristiche dei mezzi e strumenti operativi ai modelli stabiliti nella presente legge, entro due anni dalla sua entrata in vigore. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art23">
+                <num>ART. 23</num>
+
+                <rubrica>: NORMA FINANZIARIA 
+ 
+l. Agli oneri derivanti dall'applicazione della presente legge si fa fronte con quota parte dei fondi attribuiti alla Regione ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1970-05-16;281#art8">art. 8 della legge 16 maggio 1970, n. 281</rif>. 
+ 
+2. Alla quantificazione della spesa annuale sarà provveduto con la stessa legge approvativa del bilancio. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art23-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art24">
+                <num>ART. 24 </num>
+                <rubrica>
+ 
+La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+ 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art24-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+        <annessi>
+            <annesso id="ann1">
+                <testata>
+                    <denAnnesso>
+                        <h:p>Allegato A</h:p>
+                    </denAnnesso>
+                    <titAnnesso>
+                        <h:p/>
+                    </titAnnesso>
+                    <preAnnesso>
+                        <h:p/>
+                    </preAnnesso>
+                </testata>
+                <DocumentoNIR nome="">
+                    <meta>
+                        <descrittori>
+                            <pubblicazione norm="" num="" tipo="GU"/>
+                            <entratainvigore norm=""/>
+                            <redazione id="ann1-red1" nome="" norm=""/>
+                            <urn valore=""/>
+                        </descrittori>
+                    </meta>
+                    <intestazione/>
+                    <formulainiziale/>
+                    <contenitore id="ann1-" nome="">
+                        <h:p/>
+                        <h:p>CARATTERISTICHE DELLE UNIFORMI 
+ 
+ </h:p>
+                        <h:p>Divisa maschile invernale. 
+</h:p>
+                        <h:p> 
+ - Copricapo: berretto rigido di colore bianco con visiera, con fregio del Comune, con foderina bianca intercambiabile; per gli Ufficiali, sottufficiali berretto come sopra colore blu notte. 
+</h:p>
+                        <h:p> 
+ - Giacca: tessuto pesante colore blu notte quattro bottoni tipo oro zigrinati, quattro tasche sovrapposte con piegone a pattina, di cui due piccole sul petto due grandi alle falde laterali - spacco posteriore - spalline con bordo colore da stabilirsi comune per comune fermate da bottone metallico distintivi di grado sulle spalline; 
+</h:p>
+                        <h:p> 
+ In sostituzione degli alamari stemma del Comune colore argento per vigili e sottufficiali, color oro per gli Ufficiali; 
+</h:p>
+                        <h:p> 
+ - Pantaloni: colore blu notte stesso tessuto della giacca; 
+</h:p>
+                        <h:p> 
+ - Camicia: celeste- manica lunga-modello classico; 
+</h:p>
+                        <h:p> 
+ - Cravatta: blu notte; 
+</h:p>
+                        <h:p> 
+ - Calze: blu notte; 
+</h:p>
+                        <h:p> 
+ -Impermeabile: Gore Tex blu notte lungo con cappuccio interscambiabile - con spalline, distintivi di grado sulle spalline; stemma sul bavero come per la giacca; 
+</h:p>
+                        <h:p> 
+ - Fischietto: con catena di metallo; 
+</h:p>
+                        <h:p> 
+ - Borsello: bianco; 
+</h:p>
+                        <h:p> 
+ - Cinturone: bianco; 
+</h:p>
+                        <h:p> 
+ - Fondina portapistola con portacaricatore: bianca; 
+</h:p>
+                        <h:p> 
+ - Guanti di pelle: bianchi per l'operatore (vigile): di pelle color nero per Sottufficiali e Ufficiali; 
+</h:p>
+                        <h:p> 
+ - Giubbotto: nero in pelle con spalline distintivi di grado sulle spalline e stemma come per la giacca; 
+</h:p>
+                        <h:p> 
+ - Cappotto: blu scuro con spalline - modello classico-sei bottoni con piegone posteriore e bottoncini color oro doppio petto: distintivi di grado sulle spalline; 
+</h:p>
+                        <h:p> 
+ - Maglione: grigio in lana collo alto; 
+</h:p>
+                        <h:p> 
+ - Giacca a vento: piumino d'oca in Gore -Tex con cappuccio. 
+</h:p>
+                        <h:p> 
+ Divisa femminile. 
+</h:p>
+                        <h:p> 
+ Varianti rispetto a divisa maschile- 
+ 
+ </h:p>
+                        <h:p>- Gonna: blu notte tipo classico; 
+</h:p>
+                        <h:p> 
+ - Calze: blue; 
+</h:p>
+                        <h:p> 
+ - Copricapo: basco blue notte; 
+</h:p>
+                        <h:p> 
+ - Cappotto: mantella blue notte; 
+</h:p>
+                        <h:p> 
+ &lt;&lt;MOTOCICLISTI (uomo - donna) Varianti rispetto a divisa appiedati: 
+</h:p>
+                        <h:p> 
+ - Pantaloni: cavallerizza colore blue notte dello stesso tessuto della giacca; 
+</h:p>
+                        <h:p> 
+ - Guantoni: pelle nere con riporti bianchi rifrangenti; 
+</h:p>
+                        <h:p> 
+ - Stivaloni: tipo polstrada; 
+</h:p>
+                        <h:p> 
+ - Casco: bianco e celeste omologato; 
+</h:p>
+                        <h:p> 
+ - Manicotti: rifrangenti; 
+</h:p>
+                        <h:p> 
+ - Spallaccio: con cinturone e borsello; 
+</h:p>
+                        <h:p> 
+ - Impermeabile: nero completo da motociclista con busta custodia; 
+</h:p>
+                        <h:p> 
+ - Maglione: grigio (solo periodo invernale). 
+</h:p>
+                        <h:p> 
+ DIVISA ESTIVA (uomo - donna) 
+ 
+ </h:p>
+                        <h:p>È costituita da: Giacca, giubbino e pantalone o gonna in tessuto leggero di colore blue notte e può essere indossata: 
+</h:p>
+                        <h:p> 
+ - senza giacca con camicia celeste a maniche lunghe e fregi sulla camicia; 
+</h:p>
+                        <h:p> 
+ - senza giacca con camicia celeste a maniche corte e fregi sulla camicia; 
+</h:p>
+                        <h:p> 
+ - con giubbino in Gore-Tex in giornate di pioggia. 
+</h:p>
+                        <h:p> 
+ DIVISA PER SERVIZI RURALI 
+ 
+</h:p>
+                        <h:p>Tuta spezzata tipo militare antistrappo di colore blue-notte con fregi sul bavero, scarponi anfibi e basco blue notte con stemma del Comune. 
+</h:p>
+                        <h:p> 
+ DIVISA DI RAPPRESENTANZA 
+ 
+</h:p>
+                        <h:p>Casco bianco con stemma, guanti bianchi, cinturone bianco, controspalline e cordellino intrecciato dei colori del Comune, sciabola per i vigili, per i sottufficiali stessa divisa con la variante per il cordellino che avrà oltre ai colori del Comune anche il colore argento; per gli Ufficiali fascia azzurra con inseriti i colori del Comune e sciabola con cordellino color oro. 
+</h:p>
+                        <h:p> 
+ CALZATURE INVERNALI 
+ 
+ </h:p>
+                        <h:p>- scarpe basse nere in cuoio con para; 
+</h:p>
+                        <h:p> 
+ - stivaletto nero in cuoio; 
+</h:p>
+                        <h:p> 
+ CALZATURE ESTIVE 
+ 
+ </h:p>
+                        <h:p>- scarpe basse nere in cuoio; 
+</h:p>
+                        <h:p> 
+ CALZATURE AUTUNNALI 
+ 
+ </h:p>
+                        <h:p>- scarpe basse nere in cuoio; 
+</h:p>
+                        <h:p> 
+ CALZATURE SERVIZI DI SOCCORSO 
+ 
+ </h:p>
+                        <h:p>- scarponi anfibi. 
+</h:p>
+                        <h:p/>
+                    </contenitore>
+                    <formulafinale/>
+                    <conclusione/>
+                </DocumentoNIR>
+            </annesso>
+        </annessi>
+    </LeggeRegionale>
+</NIR>

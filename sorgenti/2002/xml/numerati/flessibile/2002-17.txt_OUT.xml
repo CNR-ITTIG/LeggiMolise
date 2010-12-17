@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2002-10-28;29"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="31.Protezione civile, rischio sismico, regime delle acque e rischio idrogeologico"/>
+                </materie>
+            </descrittori>
+        </meta><?error 31.Protezione civile, rischio sismico, regime delle acque e rischio idrogeologico 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 23 del 31 ottobre 2002 
+ 
+Oggetto 
+Istituzione dell'Autorit&#xE0; di Bacino interregionale del fiume Sangro - Disposizioni. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20021028">28 ottobre 2002</dataDoc>, n. <numDoc>29</numDoc>. 
+ 
+<titoloDoc>Istituzione dell'Autorità di Bacino interregionale del fiume Sangro 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge di attuazione della <rif xlink:href="urn:nir:stato:legge:1989-05-18;183">legge 18 maggio 1989 n. 183</rif>, in osservanza dell'intesa raggiunta tra le Regioni Abruzzo e Molise, detta norme per la istituzione dell'Autorità di bacino interregionale del fiume Sangro, secondo l'allegato protocollo che forma parte integrante della presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> Agli oneri di partecipazione a carico della Regione Molise per il funzionamento dell'Autorità di bacino, quantificati forfettariamente in euro 15.493,71 annui, si provvede con fondi già iscritti nello stato di previsione della spesa del bilancio annuale di competenza e cassa per l'esercizio finanziario 2002 all'U.P.B. 370 ? Studi e piani risorse idriche. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La prevista quota di partecipazione può essere motivatamente aggiornata ogni cinque anni su proposta del Comitato Istituzionale e quantificata con legge di approvazione di bilancio. </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo>Per le attività di studio e di ricerca finalizzate alla redazione del piano di bacino, la Regione Molise provvede con gli stanziamenti già iscritti nei relativi capitoli dello stato di previsione delle entrate e delle spese. Gli stanziamenti possono essere variati a seguito di ulteriori assegnazioni da parte dello Stato o di eventuali integrazioni della Regione Molise da quantificarsi con le successive leggi di approvazione del bilancio. </corpo>
+                </comma>
+                <comma id="art2-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> I fondi destinati alle spese di funzionamento ed alle attività di studio e di ricerca affluiscono in appositi capitoli di entrata del bilancio annuale della Regione Abruzzo. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+
+                <rubrica>
+ 
+L'efficacia delle disposizioni della presente legge è subordinata all'entrata in vigore del provvedimento legislativo di identico contenuto approvato dalla Regione Abruzzo. 
+ 
+Della data di entrata in vigore della legge della Regione Abruzzo e della conseguente data di efficacia delle disposizioni della presente legge viene data comunicazione nel Bollettino Ufficiale della Regione Molise. 
+ 
+Della avvenuta pubblicazione della presente legge viene data informazione alla Regione Abruzzo. 
+ 
+PROTOCOLLO DI INTESA 
+ 
+ISTITUZIONE DELL'AUTORITÀ DI BACINO INTERREGIONALE DEL FIUME SANGRO  
+ 
+<rif
+                        xlink:href="#art1">ART. 1</rif> ? Oggetto e finalità 
+ 
+<rif
+                        xlink:href="#art2">ART. 2</rif> ? Delimitazione del bacino idrografico  
+ 
+<rif xlink:href="#art3">ART. 3</rif> ? Organi dell'Autorità di bacino  
+ 
+</rubrica><?error Marker Warning 103 (last articolo:3 next:1)?><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>ART. 4 </num>
+                <rubrica>? Comitato istituzionale 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>ART. 5 </num>
+                <rubrica>? Compiti del comitato istituzionale 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>ART. 6 </num>
+                <rubrica>? Comitato tecnico  
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>ART. 7 </num>
+                <rubrica>? Compiti del comitato tecnico 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>ART. 8 </num>
+                <rubrica>? Segretario generale 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>ART. 9 </num>
+                <rubrica>? Compiti del Segretario generale 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>ART. 10 </num>
+                <rubrica>? Segreteria tecnico-operativa  
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art10-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>ART. 11 </num>
+                <rubrica>? Funzioni della segreteria tecnico-operativa 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art11-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>ART. 12 </num>
+                <rubrica>? Spese di funzionamento 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art12-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>ART. 13 </num>
+                <rubrica>? Attività di studio e ricerca  
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art13-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>ART. 14 </num>
+                <rubrica>? Disposizioni finanziarie  
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art14-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>ART. 15 </num>
+                <rubrica>? Piano di bacino 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art15-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>ART. 16 </num>
+                <rubrica>? Programmi triennali  
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art16-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>ART. 17 </num>
+                <rubrica>? Schemi  previsionali e programmatici  
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art17-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>ART. 18 </num>
+                <rubrica>? Misure di salvaguardia 
+ 
+<rif
+                        xlink:href="#art1">Art. 1</rif> 
+ 
+(Oggetto e finalità) 
+ 
+Per l'attuazione della <rif
+                        xlink:href="urn:nir:stato:legge:1989-05-18;183">legge 18 maggio 1989 n. 183</rif>, le Regioni Abruzzo e Molise raggiungono l'intesa di istituire l'Autorità di bacino interregionale del fiume Sangro, in seguito denominata : Autorità di bacino. 
+ 
+L'Autorità di bacino opera in conformità agli obiettivi della <rif
+                        xlink:href="urn:nir:stato:legge:1989-05-18;183">legge 18 maggio 1989 n. 183</rif>, ed in particolare indirizza, coordina e controlla le attività conoscitive di pianificazione, di programmazione e di attuazione inerenti il bacino idrografico del fiume Sangro. 
+ 
+L'Autorità di bacino ispira la propria azione ai principi della collaborazione con gli Enti pubblici e di diritto pubblico operanti nel bacino idrografico. 
+ 
+Al fine di ridurre gli oneri finanziari, gestionali ed organizzativi l'Autorità di bacino ha sede a L'Aquila ed opera, come in seguito specificato, presso l'Autorità dei bacini di rilievo regionale abruzzesi, istituita con <rif
+                        xlink:href="urn:nir:regione.molise:legge:1998-09-16;81">legge regionale 16 settembre 1998, n. 81</rif> della Regione Abruzzo. 
+ 
+<rif
+                        xlink:href="#art2">Art. 2</rif>  
+ 
+(Delimitazione del bacino idrografico) 
+ 
+Il bacino idrografico interregionale del fiume Sangro è delimitato provvisoriamente nella cartografia già allegata agli schemi previsionali e programmatici, di cui all'<rif
+                        xlink:href="urn:nir:stato:legge:1989-05-18;183#art31">art. 31 della legge 18 maggio 1989, n. 183</rif>. 
+ 
+L'Autorità di bacino elabora, secondo i criteri tecnici allegati al <rif
+                        xlink:href="urn:nir:presidente.repubblica:decreto:1994-04-14">D.P.R. 14 aprile 1994</rif>, pubblicato nella Gazzetta Ufficiale n. 152 del 1° luglio 1994, il progetto di delimitazione del bacino idrografico di rilievo interregionale. La stessa Autorità adotta il progetto di delimitazione per la successiva approvazione da parte del Presidente del Consiglio dei Ministri, secondo le procedure previste nel citato <rif
+                        xlink:href="urn:nir:presidente.repubblica:decreto:1994-04-14">D.P.R. 14 aprile 1994</rif>. Analoga procedura viene seguita per le eventuali variazioni del progetto di delimitazione. 
+ 
+<rif
+                        xlink:href="#art3">Art. 3</rif> 
+ 
+(Organi dell'Autorità di bacino) 
+ 
+Sono organi dell'Autorità di bacino: 
+ 
+ a) il comitato istituzionale; 
+ 
+b) il comitato tecnico; 
+ 
+c) il segretario generale e la segreteria tecnico-operativa. 
+ 
+<rif
+                        xlink:href="#art4">Art. 4</rif> 
+ 
+(Comitato istituzionale) 
+ 
+Il Comitato istituzionale è composto: 
+ 
+a) dal Presidente della Giunta Regionale dell'Abruzzo che lo presiede o, su sua delega, dal componente la Giunta preposto alla <rif
+                        xlink:href="urn:nir:stato:legge:1989;183">legge n. 183 del 1989</rif>; 
+ 
+b)dal Presidente della Giunta Regionale del Molise ovvero da Assessore delegato; 
+ 
+c) da un Assessore per ciascuna delle Regioni designato dalle rispettive Giunte; 
+ 
+d) dai Presidenti delle Province di Chieti, Isernia e L'Aquila, ovvero da Assessori delegati, senza diritto di voto; 
+ 
+e) dal Segretario Generale, che partecipa con voto consultivo. 
+ 
+2.    Ogni eventuale delega dovrà essere comunicata all'atto del primo insediamento del comitato. 
+ 
+3.     Le funzioni di Vice Presidente vengono assegnate dallo stesso comitato ad altro componente rappresentante le regioni. 
+ 
+4.    Il Presidente o, in caso di assenza o impedimento, il Vice Presidente convoca il comitato istituzionale, fissandone l'ordine del giorno. 
+ 
+5.     Le adunanze del comitato istituzionale sono valide con la presenza della metà più uno dei componenti, aventi diritto di voto. Le decisioni sono adottate a maggioranza dei presenti; a parità di voti prevale quello del Presidente. 
+ 
+<rif xlink:href="#art5">Art. 5</rif> 
+ 
+(Compiti del comitato istituzionale) 
+ </rubrica><?error Marker Warning 103 (last articolo:18 next:1)?>
+                <comma id="art18-com1">
+                    <num>
+1.</num>
+                    <alinea>     Il comitato istituzionale dell'Autorità di bacino ha i seguenti compiti: 
+ 
+</alinea>
+                    <el id="art18-com1-leta">
+                        <num>a)</num>
+                        <corpo> adozione del progetto di delimitazione del bacino idrografico;</corpo>
+                    </el>
+                    <el id="art18-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> adozione dei criteri e metodi per la elaborazione del piano del bacino;</corpo>
+                    </el>
+                    <el id="art18-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> determinazione delle componenti del piano di bacino che costituiscono interesse esclusivo delle singole regioni;</corpo>
+                    </el>
+                    <el id="art18-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> adozione delle misure di salvaguardia;</corpo>
+                    </el>
+                    <el id="art18-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> adozione del piano di bacino;</corpo>
+                    </el>
+                    <el id="art18-com1-letf">
+                        <num> 
+ 
+f)</num>
+
+                        <corpo> predisposizione dei singoli programmi di intervento attuativi del piano di bacino, nonché degli schemi revisionali e programmatici, di cui all'<rif xlink:href="urn:nir:stato:legge:1989-05-18;183#art31">art. 31 della legge 18 maggio 1989, n. 183</rif> e di ogni altro programma di intervento demandato all'Autorità di bacino da disposizioni comunitarie, nazionali e regionali;</corpo>
+                    </el>
+                    <el id="art18-com1-letg">
+                        <num> 
+ 
+g)</num>
+
+                        <corpo> proposizione di normative omogenee relative a standards, limiti e divieti nei settori inerenti le finalità di cui all'<rif xlink:href="#art1">articolo 1</rif>;</corpo>
+                    </el>
+                    <el id="art18-com1-leth">
+                        <num> 
+ 
+h)</num>
+                        <corpo> Proposizione di indirizzi, direttive e criteri per la valutazione degli effetti sull'ambiente, degli interventi e delle attività con particolare riferimento alle tecnologie agricole, zootecniche ed industriali;</corpo>
+                    </el>
+                    <el id="art18-com1-leti">
+                        <num> 
+ 
+i)</num>
+                        <corpo> controllo sulla attuazione del piano di bacino e dei relativi programmi d'intervento;</corpo>
+                    </el>
+                    <el id="art18-com1-letl">
+                        <num> 
+ 
+l)</num>
+                        <corpo> predisposizione della relazione annuale sull'uso del suolo, sulle condizioni dell'assetto idrogeologico del territorio e sullo stato di attuazione del programma triennale di intervento in corso;</corpo>
+                    </el>
+                    <el id="art18-com1-letm">
+                        <num> 
+ 
+m)</num>
+                        <corpo> nomina del Vice Presidente del comitato istituzionale;</corpo>
+                    </el>
+                    <el id="art18-com1-letn">
+                        <num> 
+ 
+n)</num>
+                        <corpo> nomina del comitato tecnico;</corpo>
+                    </el>
+                    <el id="art18-com1-leto">
+                        <num> 
+ 
+o)</num>
+                        <corpo> adozione del programma finanziario annuale delle attività di studio e ricerca. </corpo>
+                    </el>
+                </comma>
+                <comma id="art18-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Il comitato istituzionale dell'Autorità di bacino può promuovere accordi di programmi con Enti pubblici e di diritto pubblico che definiscono i rispettivi impegni coordinati, anche in settori connessi con gli obiettivi di cui all'<rif
+                            xlink:href="#art1">art. 1</rif>. 
+ 
+<rif
+                            xlink:href="#art6">Art. 6</rif> 
+ 
+(Comitato tecnico) 
+ 
+1. Il comitato tecnico è presieduto dal segretario generale dell'Autorità di bacino ed è composto da: 
+ 
+a) nove dirigenti regionali in servizio, con qualificata esperienza nella materia regolata dalla <rif xlink:href="urn:nir:stato:legge:1989-05-18;183">legge 18 maggio 1989, n. 183</rif> di cui sei designati dalla Regione Abruzzo e tre dalla Regione Molise; per la Regione Abruzzo cinque componenti sono gli stessi già designati in seno al comitato tecnico dell'Autorità dei bacini regionali; 
+ 
+b) un funzionario designato da ciascuna delle Province rappresentate nel comitato istituzionale, tra il personale in servizio; per le Province di Chieti e L'Aquila sono gli stessi funzionari designati per l'Autorità dei bacini regionali; 
+ 
+c) un funzionario designato da ciascuno dei Ministeri dei lavori pubblici, dell'ambiente e delle risorse agricole, alimentari e forestali; 
+ 
+d) un rappresentante del Ministro dell'Economia e delle Finanze; 
+ 
+e) cinque esperti, di cui quattro già designati in seno al comitato tecnico dell'Autorità dei bacini regionali; detti esperti hanno diritto di voto e durano in carica cinque anni, salvo loro riconferma per una sola volta. 
+ 
+2. Il Comitato tecnico può essere integrato, su richiesta del segretario generale che ne indica l'area di competenza e con atto del comitato istituzionale, da esperti, senza diritto di voto, di elevato livello scientifico fino ad un massimo di tre anche per periodi determinati. 
+</corpo><?error Marker Warning 101 (last comma:2 next:1)?>
+                </comma>
+                <comma id="art18-com3">
+                    <num> 
+3.</num>
+                    <corpo> Il comitato tecnico è nominato, con atto del comitato istituzionale, sulla base delle designazioni che le singole Amministrazioni dovranno far pervenire entro trenta giorni dalla richiesta. Trascorso tale termine ed acquisiti almeno i due terzi delle designazioni previste, il comitato istituzionale provvede ugualmente alla costituzione del comitato tecnico, che esercita le proprie funzioni con i membri designati. Con successivi atti il comitato istituzionale provvede alle necessarie integrazioni . </corpo>
+                </comma>
+                <comma id="art18-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Per la validità delle adunanze del comitato tecnico è richiesta la presenza della metà più uno dei componenti insediati. Le decisioni sono adottate a maggioranza dei presenti, a parità di voti  prevale quello del Presidente. </corpo>
+                </comma>
+                <comma id="art18-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> Il comitato tecnico, nell'ambito dei componenti, può istituire sottocommissioni specializzate per materia e con funzioni istruttorie. </corpo>
+                </comma>
+                <comma id="art18-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> Ai componenti del comitato tecnico compete un gettone di presenza per la partecipazione alle sedute, da stabilirsi dal comitato istituzionale. Ai componenti spettano altresì il trattamento di missione ed il rimborso delle spese di viaggio nella misura stabilita dalle singole Amministrazioni di appartenenza; per gli esperti si applicano le disposizioni previste per i Dirigenti della Regione Abruzzo. </corpo>
+                </comma>
+                <comma id="art18-com7">
+                    <num>
+ 
+7.</num>
+
+                    <corpo> Al pagamento del trattamento di missione e delle spese di viaggio spettanti ai dipendenti delle Regioni e delle Province provvedono direttamente le Amministrazioni di appartenenza, mentre per i componenti designati dalle Amministrazioni statali provvede direttamente il Ministero dei lavori pubblici, ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1990-08-07;253#art14">art. 14 della legge 7 agosto 1990, n. 253</rif>. </corpo>
+                </comma>
+                <comma id="art18-com8">
+                    <num>
+ 
+8.</num>
+                    <corpo> In relazione agli argomenti trattati, il Presidente ha la facoltà di invitare alle riunioni del comitato, a titolo consultivo e senza diritto ad alcun compenso, i rappresentanti degli enti locali territoriali, degli altri enti pubblici e di diritto pubblico, delle categorie sociali, economiche e professionali operanti nel bacino idrografico. </corpo>
+                </comma>
+                <comma id="art18-com9">
+                    <num>
+ 
+9.</num>
+
+                    <corpo> Gli atti, relativi alla nomina degli esperti ed alla determinazione della misura del gettone di presenza spettante ai componenti del comitato tecnico, sono trasmessi dal comitato istituzionale alle Giunte delle Regioni Abruzzo e Molise. 
+ 
+<rif
+                            xlink:href="#art7">Art. 7</rif> 
+ 
+(Compiti del Comitato tecnico) 
+ 
+1. Il Comitato tecnico è organo di consulenza del comitato istituzionale ed in particolare svolge i seguenti compiti: 
+ 
+a) esprime parere sugli atti di competenza del comitato istituzionale; 
+ 
+b) formula proposte al comitato istituzionale per l'adozione di atti determinati; 
+ 
+c) formula indirizzi tecnici ed esprime pareri: 
+ 
+- preliminari all'elaborazione del piano di bacino e dei relativi programmi di intervento; 
+ 
+- sulle attività propedeutiche alla definizione del piano o suoi stralci; 
+ 
+- sul piano o suo stralcio da adottarsi; 
+ 
+- su tutti gli argomenti che il segretario generale ritiene di dover sottoporre; 
+ 
+- sulle osservazioni al piano; 
+ 
+- sulle misure di salvaguardia. 
+ 
+<rif
+                            xlink:href="#art8">Art. 8</rif> 
+ 
+(Segretario generale) 
+ 
+Il segretario generale delle Autorità di bacino è il segretario generale dell'Autorità dei bacini di rilievo regionale abruzzesi. 
+ 
+Il trattamento economico aggiuntivo relativo all'incarico viene stabilito dal comitato istituzionale dell'Autorità di bacino. 
+ 
+<rif
+                            xlink:href="#art9">Art. 9</rif> 
+ 
+(Compiti del segretario generale) 
+ 
+Il segretario generale: 
+ 
+a) provvede agli adempimenti necessari al funzionamento dell'Autorità di bacino; 
+ 
+b) cura l'istruttoria degli atti di competenza del comitato istituzionale, cui formula proposte; 
+ 
+c) cura rapporti con gli enti pubblici e privati e promuove gli accordi organizzativi, ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:legge:1990-07-07;241#art15">art. 15 della legge 7 luglio 1990, n. 241</rif> e di programma ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:legge:1990-06-08;142#art27">art. 27 della legge 8 giugno 1990, n. 142</rif>; 
+ 
+d) cura l'attuazione delle direttive del comitato istituzionale agendo per conto del comitato medesimo nei limiti dei poteri delegatigli; 
+ 
+e) riferisce al comitato istituzionale sullo stato di attuazione del piano di bacino per l'esercizio del potere di vigilanza ed in tale materia esercita i poteri che gli vengono delegati dal comitato medesimo; 
+ 
+f) presiede il comitato tecnico; 
+ 
+g) partecipa alle riunioni del comitato istituzionale con voto consultivo e con funzione di segretario; 
+ 
+h)svolge ogni altro compito che gli verrà attribuito da successive disposizioni di legge e di regolamento; 
+ 
+i) determina la dotazione minima delle disponibilità umane, strumentali e finanziarie necessarie al corretto funzionamento dell'Autorità di bacino; 
+ 
+l) coordina la segreteria tecnico-operativa e fissa, nei limiti delle disponibilità umane, strumentali e finanziarie, le attività da svolgersi da parte della stessa segreteria per dare seguito alle direttive del comitato istituzionale. 
+ 
+Il segretario generale può affidare, in caso di assenza o di impedimento, le funzioni vicarie ad uno dei componenti del comitato tecnico. 
+ 
+<rif
+                            xlink:href="#art10">Art. 10</rif> 
+ 
+(Segreteria tecnico-operativa) 
+ 
+La segreteria tecnico-operativa dell'Autorità dei bacini di rilievo regionale abruzzesi svolge anche le funzioni di competenza dell'Autorità di bacino. Le spese relative al personale restano interamente a carico della Regione Abruzzo. 
+ 
+La Regione Molise e gli enti locali molisani interessati per territorio possono assegnare, di intesa con la Regione Abruzzo e previo nulla-osta del comitato istituzionale, proprio personale alla segreteria tecnico-operativa. 
+ 
+Tutte le spese relative al personale assegnato, ai sensi del comma precedente, restano a carico delle singole Amministrazioni di appartenenza. 
+ 
+<rif
+                            xlink:href="#art11">Art. 11</rif> 
+ 
+(Funzioni della segreteria tecnico-operativa) 
+ 
+La Segreteria tecnico-operativa svolge con continuità le seguenti funzioni: 
+ 
+a) funzioni di segreteria tecnico-amministrativa degli organi dell'Autorità; 
+ 
+b) funzioni relative alla necessaria attività di acquisizione e gestione delle conoscenze relative al bacino idrografico, attraverso lo sviluppo di studi specifici, la ricerca di documentazione in genere realizzata a supporto delle attività di pianificazione e di programma degli interventi, la raccolta dei dati per il monitoraggio ed il controllo dell'attuazione degli interventi; 
+ 
+c) funzioni relative all'attività di pianificazione e di programmazione di competenza dell'Autorità di bacino;  
+ 
+d) funzioni relative agli aspetti logistico-funzionali della struttura dell'Autorità di bacino. 
+ 
+2      Le funzioni di studio e di progettazione possono essere esercitate mediante l'affidamento di incarichi, anche di consulenza, ad Istituti universitari e di ricerca, ad organizzazioni tecnico-professionali, ad esperti di comprovata esperienza e qualificazione della materia. Gli incarichi vengono deliberati dal comitato istituzionale, su proposta del segretario generale e previo parere del comitato tecnico. 
+ 
+<rif
+                            xlink:href="#art12">Art. 12</rif> 
+ 
+(Spese di funzionamento) 
+ 
+Le spese di funzionamento sono così individuate: 
+ 
+a) spese relative al trattamento economico aggiuntivo, di cui al 2° comma dell'art. 8 spettante al segretario generale; 
+ 
+b) spese relative al pagamento dei gettoni di presenze dei componenti del comitato tecnico, nonché del trattamento di missione e del rimborso delle spese di viaggio spettanti ai componenti nominati in qualità di esperti; 
+ 
+c) spese relative alla dotazione dei mezzi, delle attrezzature e dei materiali. 
+ 
+2.    Alle predette spese di funzionamento provvede la Regione Abruzzo. 
+ 
+3.    La Regione Molise partecipa a dette spese, forfettariamente; detto importo forfettario, pari a euro 15.493,71, può essere motivatamente aggiornato ogni cinque anni su proposta del comitato istituzionale. 
+ 
+4.     Le spese relative alla dotazione dei locali restano a carico della sola Regione Abruzzo. 
+ 
+<rif
+                            xlink:href="#art13">Art. 13</rif> 
+ 
+(Attività di studio e ricerca) 
+ 
+Le attività di studio e ricerca finalizzate alla redazione del piano di bacino sono finanziate con le somme erogate, pqe quota studi, dallo Stato alle singole Regioni per l'attuazione degli schemi revisionali e programmatici, nonché con i fondi successivamente assegnati a tale titolo o eventualmente stanziati direttamente dalle singole Regioni. 
+ 
+Per le suddette attività sono utilizzati i fondi erogati a tale titolo e non ancora impegnati, nonché le somme già individuate per il corrente esercizio finanziario. Per i successivi esercizi finanziari sarà destinata dalle singole Regioni, previo coordinamento dell'Autorità di bacino, l'aliquota massima delle risorse complessivamente individuate per il bacino, come prevista dall'<rif
+                            xlink:href="urn:nir:presidente.consiglio.ministri:decreto:1991-03-01#art3">art. 3 del D.P.C.M.  1° marzo 1991</rif>, pubblicato nella Gazzetta Ufficiale n. 96 del 24 aprile 1991, e successive modifiche ed integrazioni. 
+ 
+<rif
+                            xlink:href="#art14">Art. 14</rif>  
+ 
+(Disposizioni finanziarie) 
+ 
+Le spese di funzionamento, come individuate all'<rif
+                            xlink:href="#art12-com1">articolo 12, comma 1</rif>. ed i fondi per le attività di studio e ricerca, affluiscono in appositi capitoli di entrata del bilancio della Regione Abruzzo, che provvede contestualmente alla istituzione dei relativi capitoli di spesa. 
+ 
+L'Autorità di bacino, entro il mese di settembre di ogni anno, predispone il programma tecnico-economico per le attività di studio e ricerca, da svolgersi nell'esercizio successivo . 
+ 
+Le Giunte regionali, ciascuna per la parte di competenza, prendono atto del programma tecnico-economico per le attività  ed approvano gli stanziamenti aggiuntivi, di cui all'<rif
+                            xlink:href="#art13-com1">art. 13, comma 1</rif>. 
+ 
+Per le procedure di spesa si applica la <rif
+                            xlink:href="urn:nir:regione.abruzzo:legge:1977-12-29;81">legge della Regione Abruzzo 29 dicembre 1977, n. 81</rif> e successive modifiche ed integrazioni, e fanno capo al segretario generale dell'Autorità di bacino le competenze e le responsabilità proprie dei dirigenti delle strutture della Regione Abruzzo. 
+ 
+<rif
+                            xlink:href="#art15">Art. 15</rif> 
+ 
+(Piano di bacino) 
+ 
+Il piano di bacino ha valore di piano territoriale di settore e costituisce lo strumento conoscitivo, normativo e tecnico-operativo mediante il quale sono pianificate e programmate le azioni e le norme d'uso finalizzate alla conservazione, alla difesa ed alla valorizzazione del suolo e la corretta utilizzazione delle acque, sulla base delle caratteristiche fisiche ed ambientali del territorio interessato. È pertanto il quadro di riferimento cui devono adeguarsi e riferirsi tutti i provvedimenti autorizzativi e concessori concernenti gli interventi comunque riguardanti ciascun bacino idrografico. 
+ 
+Il piano di bacino è coordinato con i programmi nazionali, regionali e  sub-regionali di sviluppo economico e di uso del suolo ed hanno i contenuti previsti dall'<rif
+                            xlink:href="urn:nir:stato:legge:1989-05-18;183#art17-com3">art. 17, comma 3 della legge 18 maggio 1989, n. 183</rif>. Esso è elaborato secondo i criteri e metodi fissati negli atti di indirizzo e coordinamento. 
+ 
+Il piano di bacino può essere redatto, adottato ed approvato anche per sottobacini o per stralci relativi a settori funzionali, che in ogni caso devono costituire fasi sequenziali e interrelati rispetto ai contenuti in precedenza richiamati. Deve comunque essere garantita la considerazione sistemica del territorio e devono essere disposte le opportune misure inibitorie e cautelative in relazione agli aspetti non ancora compiutamente disciplinati. 
+ 
+Il piano di bacino è adottato dal comitato istituzionale ed approvato, per le parti di rispettiva competenza territoriale, dalle Regioni ai sensi degli artt. 18 e 19 della <rif
+                            xlink:href="urn:nir:stato:legge:1989-05-18;183">legge 18 maggio 1989, n. 183</rif>. 
+ 
+Il piano di bacino ha l'efficacia e produce gli effetti previsti dall'<rif
+                            xlink:href="#art17">art. 17</rif>, commi 3, 4 e 5 della <rif
+                            xlink:href="urn:nir:stato:legge:1989-05-19;183">legge 19 maggio 1989, n. 183</rif>. 
+ 
+<rif
+                            xlink:href="#art16">Art. 16</rif> 
+ 
+(Programmi triennali) 
+ 
+Il piano di bacino è attuato attraverso programmi triennali di intervento, redatti tenendo conto degli indirizzi e delle finalità dei piani medesimi, ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:legge:1989-05-18;183#art20">art. 20 della legge 18 maggio 1989, n. 183</rif> e successive modifiche. 
+ 
+I programmi triennali di intervento sono predisposti dall'Autorità di bacino ed approvati dalle Regioni, per le finalità previste agli artt. 21 e 22 della <rif
+                            xlink:href="urn:nir:stato:legge:1989-05-18;183">legge 18 maggio 1989, n. 183</rif> e successive modifiche. 
+ 
+<rif
+                            xlink:href="#art17">Art. 17</rif> 
+ 
+(Schemi previsionali e programmatici) 
+ 
+Gli schemi previsionali e programmatici, di cui all'<rif
+                            xlink:href="urn:nir:stato:legge:1989-05-18;183#art31">art. 31 della legge 18 maggio 1989 n. 183</rif>, sono predisposti dall'Autorità di bacino ed approvati dalle Regioni. 
+ 
+<rif
+                            xlink:href="#art18">Art. 18</rif> 
+ 
+(Misure di salvaguardia) 
+ 
+In attesa dell'approvazione del piano di bacino, l'Autorità di bacino del Sangro può impartire alle amministrazioni competenti, direttive per la fissazione di vincoli e prescrizioni, e per l'adozione di misura di salvaguardia ai sensi e per gli effetti dell'art. 17, comma 6/bis della <rif
+                            xlink:href="urn:nir:stato:legge:1989-05-19;183">legge 19 maggio 1989 n. 183</rif>, come integrata dall'<rif
+                            xlink:href="urn:nir:stato:decreto.legge:1993-10-05;398#art12-com3">art. 12, comma 3 del decreto-legge 5 ottobre 1993 n. 398</rif>, convertito, con le modificazioni, dalla <rif xlink:href="urn:nir:stato:legge:1993-12-04;493">legge 4 dicembre 1993, n. 493</rif>. Essa può, inoltre, proporre alle autorità competenti l'adozione di provvedimenti, ivi comprese le ordinanze di sospensione di attività e di lavori, quanto ciò sia necessario per l'attuazione delle misure di salvaguardia o qualora possa derivare un danno alla salute ed alla sicurezza dei cittadini, o all'ambiente ed al territorio. 
+ 
+La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+</corpo><?error Marker Warning 101 (last comma:9 next:1)?>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

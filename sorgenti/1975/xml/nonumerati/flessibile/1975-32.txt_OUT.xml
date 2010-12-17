@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19750215" num="6" tipo="BURM"/>
+                <entratainvigore norm="19750302"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1975-02-04;17"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="17.Lavori pubblici e acquedotti"/>
+                </materie>
+            </descrittori>
+        </meta><?error 17.Lavori pubblici e acquedotti 
+ 
+Bollettino 
+Bollettino Ufficiale n. 06 del 15/02/75 
+ 
+Oggetto 
+Opere pubbliche di competenza degli enti locali - Disciplina - Modifica 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19750204">4 Febbraio 1975</dataDoc>, n. <numDoc>17</numDoc>
+            <titoloDoc>Modifica legge regionale su norme per agevolare l'esecuzione di opere pubbliche di competenza degli Enti Locali. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art1-com1-mod1">
+L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1975-01-21;10#art8">articolo 8 della legge regionale 21 gennaio 1975, n.10</rif>, avente per oggetto: &lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir1" tipo="parola"> Norme per agevolare la esecuzione di opere pubbliche di competenza degli Enti Locali </virgolette>&gt;&gt;, è soppresso. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art2-com1-mod2">
+All'articolo 10, primo comma, della stessa legge, dopo &lt;&lt;<virgolette
+                                id="art2-com1-mod2-vir2"> l'esercizio finanziario 1974 </virgolette>&gt;&gt;, è aggiunta l'espressione &lt;&lt;<virgolette
+                                    id="art2-com1-mod2-vir3"> a norma della <rif xlink:href="urn:nir:stato:legge:1955-02-27;64">legge 27 febbraio 1955, n. 64</rif>
+                            </virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto Regionale</rif> Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-05-22;37"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.Agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+18.Lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE n. 11 del 1 giugno 2000 
+ 
+Oggetto 
+Promozione e valorizzazione della cooperazione agricola e agroalimentare 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 10/2005 art. 10 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20000522">22 maggio 2000</dataDoc>, n. <numDoc>37</numDoc>
+            <titoloDoc>Interventi a favore della cooperazione agricola ed agroalimentare nella Regione Molise. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 10/2005 art. 10</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error 2. &#xC8; fatto obbligo, a chiunque spetti, di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

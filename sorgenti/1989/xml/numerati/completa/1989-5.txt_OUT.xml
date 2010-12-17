@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19891116" num="21" tipo="BURM"/>
+                <entratainvigore norm="19891201"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1989-11-09;21"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea"/>
+                </materie>
+            </descrittori>
+        </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
+ 
+Bollettino 
+Bollettino Ufficiale n. 21 del 16/11/89 
+ 
+Oggetto 
+Tartufi freschi o conservati - Raccolta coltivazione e commercio - Disciplina 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 24/2005 art. 2 
+Abrogato art. 10 dalla legge n. 31/2000 art. 1, primo comma, lettera uu) 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19891109">9 Novembre 1989</dataDoc>, n. <numDoc>21</numDoc>
+
+            <titoloDoc>Norme per la raccolta, coltivazione e commercio di tartufi freschi o conservati destinati al consumo nella Regione Molise - Disciplina attuativa della <rif
+                    xlink:href="urn:nir:stato:legge:1985-12-16;752">legge 16 dicembre 1985, n. 752</rif> - Delega di funzioni amministrative alle Amministrazioni Provinciali di Campobasso e Isernia ai sensi dell'<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art118">art. 118, ultimo comma, della Costituzione</rif> della Repubblica 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 24/2005 art. 2</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

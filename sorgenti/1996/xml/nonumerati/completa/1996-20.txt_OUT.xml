@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19960712" num="13" tipo="BURM"/>
+                <entratainvigore norm="19960727"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1996-07-12;24"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 13 del 12/07/96 
+ 
+Oggetto 
+Nomine e designazioni di competenza regionale - Procedure - Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19960712">12 Luglio 1996</dataDoc>, n. <numDoc>24</numDoc>
+
+            <titoloDoc>Ulteriori norme integrative e modificative della <rif xlink:href="urn:nir:regione.molise:legge:1993-04-22;11">legge regionale 22 aprile 1993, n.11</rif>
+            </titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo>
+1. A coloro che siano dichiarati non idonei per carenze documentali o per vizi formali in esito all'istruttoria di cui all'<rif
+                            xlink:href="urn:nir:regione.molise:legge:1993-04-22;11#art6">articolo 6 della legge regionale 22 aprile 1993, n.11</rif>, è concesso, a pena di decadenza, termine di dieci giorni per effettuare regolarizzazioni o integrazioni  della documentazione elencata all'articolo 4, comma 1, della stessa legge regionale. 
+ 
+2. Il termine di cui al <rif
+                            xlink:href="#art1-com1">comma 1</rif> inizia a decorrere dal ricevimento della comunicazione della dichiarazione di non idoneità all'incarico. 
+ 
+3. Entro quindici giorni dall'effettuazione delle regolarizzazioni o integrazioni di cui al <rif
+                            xlink:href="#art1-com1">comma 1</rif>, il Comitato dei Garanti procede al riesame della posizione del candidato e, ove accerti l'idoneità   all'incarico, ne emette attestazione che trasmette al Presidente del Consiglio Regionale. 
+ 
+4. L'esito sfavorevole del riesame viene comunicato agli interessati. 
+ 
+5. Le regolarizzazioni o integrazioni di cui al <rif
+                            xlink:href="#art1-com1">comma 1</rif> non possono comportare allegazione di requisiti non posseduti dal candidato alla scadenza del termine di cui al <rif xlink:href="urn:nir:regione.molise:legge:1993;11#art4-com1">comma 1 dell'articolo 4 della legge regionale n.11 del 1993</rif>. 
+ 
+6. In sede di prima applicazione delle disposizioni di cui al presente articolo, la comunicazione della dichiarazione di non idoneità viene rinnovata ed inviata entro cinque giorni dall'entrata in vigore della presente legge.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art2-com1-mod1">
+1. Ai <rif
+                                xlink:href="urn:nir:regione.molise:legge:1993;11#art8-com1">comma 1 dell'articolo 8 della legge regionale n.11 del 1993</rif>, come modificato dal <rif
+                                xlink:href="urn:nir:regione.molise:legge:1993-12-10;24#art2-com1">comma 1 dell'articolo 2 della legge regionale 10 dicembre 1993, n.24</rif>, e dal <rif
+                                xlink:href="urn:nir:regione.molise:legge:1996-03-13;18#art1-com1">comma 1 dell'articolo 1 della legge regionale 13 marzo 1996, n.18</rif>, sono soppresse le parole &lt;&lt;<virgolette
+                                id="art2-com1-mod1-vir1">al 5° mese</virgolette>&gt;&gt; e sostituite con le parole &lt;&lt;<virgolette
+                                id="art2-com1-mod1-vir2">all'8° mese</virgolette>&gt;&gt;. 
+ 
+2. Al <rif
+                                xlink:href="urn:nir:regione.molise:legge:1993;11#art8-com6">comma 6 dell'articolo 8 della legge regionale n.11 del 1993</rif>, come modificato dal <rif
+                                xlink:href="urn:nir:regione.molise:legge:1993;24#art2-com2">comma 2 dell'articolo 2 della legge regionale n. 24 del 1993</rif> e dal <rif xlink:href="urn:nir:regione.molise:legge:1996;18#art1-com2">comma 2 dell'articolo 1 della legge regionale n. 18 del 1996</rif>, sono soppresse le parole &lt;&lt;alla fine del 5° mese&gt;&gt;  e sostituite con le parole &lt;&lt;alla fine dell'8° mese&gt;&gt;.</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+
+                    <corpo>
+1. Il differimento dei termini di cui all'<rif xlink:href="#art2">articolo 2</rif> opera per tutte le nomine e le designazioni ricadenti nella legislatura in corso alla data di entrata in vigore della presente legge. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+
+                    <corpo>Tuttavia restano ferme le nomine e le designazioni già effettuate alla stessa data. 
+ 
+2. Restano ferme tutte le disposizioni di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1993;11">legge regionale n.11 del 1993</rif> che non sono modificate dalla presente legge.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+
+                    <corpo>
+1. La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">articolo 127, secondo comma, della Costituzione</rif> e dall'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto regionale</rif> ed entra in vigore lo stesso giorno della sua pubblicazione nel Bollettino Ufficiale della Regione. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num/>
+                    <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

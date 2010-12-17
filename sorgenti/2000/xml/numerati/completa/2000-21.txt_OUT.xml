@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-04-14;28"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="06.Consiglieri regionali e gruppi consiliari"/>
+                </materie>
+            </descrittori>
+        </meta><?error 06.Consiglieri regionali e gruppi consiliari 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE n.8 del 15 aprile 2000 
+ 
+Oggetto 
+Assessori non Consiglieri regionali - Incompatibilit&#xE0; e indennit&#xE0; 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20000414">14 aprile 2000</dataDoc>, n.<numDoc>28</numDoc>
+            <titoloDoc>Prime disposizioni in materia di incompatibilità e di indennità degli Assessori non Consiglieri Regionali 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art.1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> Possono essere nominati Assessori Regionali, anche se non Consiglieri Regionali, i cittadini che hanno i requisiti per essere candidati al Consiglio Regionale e che non versano in situazioni di ineleggibilità e di incompatibilità previste per gli stessi Consiglieri Regionali. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art.2 </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> Agli Assessori Regionali di cui all'<rif xlink:href="#art1">art. 1</rif>, è corrisposta, dalla data di nomina e per tutto il periodo in cui fanno parte della Giunta Regionale, una indennità pari alla indennità di carica spettante ai Consiglieri Regionali. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> A detti soggetti sono altresì estese, per tutto il tempo in cui svolgono l'attività di Assessore, i rimborsi spese, i trattamenti indennitari, i trattamenti di missione, le disposizioni per il collocamento in aspettativa, e la normativa in genere, in quanto compatibile, prevista per i Consiglieri Regionali e per gli Assessori Consiglieri. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art.3 </num>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> Agli oneri derivanti dall'attuazione della presente legge si fa fronte, per l'esercizio finanziario 2000, mediante l'istituzione di appositi capitoli di spesa con successiva legge di variazione del bilancio. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Per gli esercizi finanziari 2001 e successivi si provvederà con le rispettive leggi approvative del bilancio. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art.4 </num>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello di pubblicazione nel Bollettino Ufficiale della Regione. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

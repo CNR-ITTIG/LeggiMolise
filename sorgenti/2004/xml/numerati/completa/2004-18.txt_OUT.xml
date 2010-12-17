@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2004-10-18;22"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="14.Governo del territorio, urbanistica, edilizia"/>
+                </materie>
+            </descrittori>
+        </meta><?error 14.Governo del territorio, urbanistica, edilizia 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x96; N. 22  del 30 ottobre  2004 
+ 
+Oggetto 
+Comune di San Giuliano di Puglia - Varianti al Piano regolatore generale e relativi  piani di attuazione -Approvazione - Semplificazione del procedimento - Disposizioni temporanee 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20041018">18 ottobre 2004</dataDoc>, n. <numDoc>22</numDoc>. 
+ 
+<titoloDoc>Disposizioni temporanee per la semplificazione del procedimento di approvazione delle varianti al Piano regolatore generale del comune di SAN GIULIANO DI PUGLIA e dei relativi piani di attuazione. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ARTICOLO 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La pianificazione territoriale inserita nel Piano di ricostruzione del comune di San Giuliano di Puglia, predisposto ai sensi dell'<rif xlink:href="urn:nir:presidente.consiglio.ministri:ordinanza:2003-04-10;3279#art4">articolo 4 dell'ordinanza del Presidente del Consiglio dei Ministri n. 3279 del 10 aprile 2003</rif>, approvato dal Consiglio regionale con deliberazione n. 171 del 30 luglio 2004, ha valore anche di piano particolareggiato di esecuzione ed è diretto ad attuare rapidamente le opere necessarie per la ricostruzione degli aggregati edilizi danneggiati dagli eventi sismici, al fine di conseguire il ritorno a condizioni di vita normale. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Fino al 31 dicembre 2010, le varianti parziali al Piano regolatore generale sono approvate ai sensi del <rif xlink:href="#art1-com1">comma 1</rif> secondo le procedure di cui ai successivi commi, a condizione che siano conformi alla microzonazione sismica del territorio comunale che risulta approvata alla data di entrata in vigore della presente legge. </corpo>
+                </comma>
+                <comma id="art1-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Le deliberazioni con le quali il Consiglio comunale adotta le revisioni sono depositate per trenta giorni consecutivi nella segreteria comunale, unitamente a tutti gli elaborati.  
+ 
+ Dell'avvenuto deposito viene data comunicazione al pubblico mediante avviso affisso all'albo pretorio. </corpo>
+                </comma>
+                <comma id="art1-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Durante il periodo di pubblicazione delle deliberazioni chiunque ha facoltà di prendere visione degli atti depositati e, entro i dieci giorni consecutivi decorrenti dalla scadenza del termine per il deposito, può altresì presentare osservazioni e/o opposizioni. </corpo>
+                </comma>
+                <comma id="art1-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> Entro i venti giorni successivi alla scadenza del termine utile per la presentazione delle osservazioni le revisioni sono sottoposte all'approvazione del Consiglio comunale. </corpo>
+                </comma>
+                <comma id="art1-com6">
+                    <num>
+ 
+6.</num>
+                    <alinea> Con la deliberazione di approvazione, il Consiglio comunale: 
+ 
+</alinea>
+                    <el id="art1-com6-leta">
+                        <num>a)</num>
+                        <corpo> prende in esame tutte le osservazioni pervenute nei termini previsti;</corpo>
+                    </el>
+                    <el id="art1-com6-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> motiva, per ognuna delle osservazioni pervenute, le determinazioni assunte;</corpo>
+                    </el>
+                    <el id="art1-com6-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> approva espressamente gli elaborati. </corpo>
+                    </el>
+                </comma>
+                <comma id="art1-com7">
+                    <num>
+ 
+7.</num>
+                    <corpo> È fatto obbligo all'Amministrazione comunale di trasmettere alla Regione copia dell'atto deliberativo di approvazione ed i relativi atti tecnici ed amministrativi. </corpo>
+                </comma>
+                <comma id="art1-com8">
+                    <num>
+ 
+8.</num>
+                    <corpo> Le revisioni assumono efficacia dalla data di pubblicazione, per estratto, delle deliberazioni comunali di approvazione nel Bollettino Ufficiale della Regione che avverrà dal 10° giorno successivo a partire dalla ricezione da parte della Regione delle revisioni. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ARTICOLO 2 </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2006-09-27;28"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="09.Energia"/>
+                </materie>
+            </descrittori>
+        </meta><?error 09.Energia 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N.27 del 30 settembre 2006 
+ 
+Oggetto 
+Opere relative a linee  ed impianti elettrici fino a 150.000 volt - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20060927">27 settembre 2006</dataDoc>, n. <numDoc>28</numDoc>. 
+ 
+<titoloDoc>Norme in materia di opere relative a linee ed impianti elettrici fino a 150.000 volt. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+(Oggetto e finalità) 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge detta norme per l'esercizio di funzioni amministrative di competenza regionale in materia di linee e impianti per il trasporto, la trasformazione e la distribuzione di energia elettrica, comunque prodotta, avente tensione non superiore a 150.000 volt e non facenti parte della rete di trasmissione nazionale. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> L'esercizio delle suddette funzioni è esercitato dalla Regione. </corpo>
+                </comma>
+                <comma id="art1-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Per quanto non disciplinato dalla presente legge si osservano le norme statali vigenti in materia. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+(Accesso ai fondi per lo studio del tracciato) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Per l'accesso ai fondi ai fini di studi ed indagini necessarie per la redazione progettuale degli impianti elettrici ed opere accessorie, ove non si ottenga il consenso dei proprietari e sempre che il numero di questi sia superiore a 10, si applica la procedura dettata dall'<rif xlink:href="urn:nir:presidente.repubblica:decreto:2001-06-08;327#art52septies">articolo 52-septies del decreto del Presidente della Repubblica 8 giugno 2001, n. 327</rif>, e successive modificazioni. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+(Autorizzazione alla costruzione ed all'esercizio di linee ed impianti elettrici) 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> La costruzione e l'esercizio di linee ed impianti elettrici per il trasporto, la trasformazione e la distribuzione di energia elettrica, non facenti parte della rete di trasmissione nazionale, con tensione nominale fino a 150.000 volt, nonché di opere accessorie ai predetti, salvo quanto previsto dai commi successivi, è soggetta ad autorizzazione. Sono soggette ad autorizzazione anche le varianti delle linee e degli impianti esistenti che implicano aumento della tensione di esercizio indicata nell'originaria autorizzazione. L'autorizzazione può imporre obblighi speciali o particolari prescrizioni, purché adeguatamente motivati. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> Sono soggette a denuncia di inizio lavori la costruzione e l'esercizio delle linee e degli impianti elettrici per il trasporto, la trasformazione e la distribuzione di energia elettrica: 
+ 
+</alinea>
+                    <el id="art3-com2-leta">
+                        <num>a)</num>
+                        <corpo> con tensione nominale superiore a 1.000 volt e fino a 20.000 volt la cui lunghezza non sia superiore a 2.000 metri;</corpo>
+                    </el>
+                    <el id="art3-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> gli elettrodotti sotterranei con tensione nominale superiore a 1.000 volt e fino a 20.000 volt, di qualunque lunghezza, da realizzarsi su sedi stradali, suoli pubblici o privati asserviti in via bonaria;</corpo>
+                    </el>
+                    <el id="art3-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> le opere accessorie, le varianti, i rifacimenti degli elettrodotti di tensione nominale superiore a 1.000 volt e fino a 20.000 volt, a condizione che gli stessi interventi non modifichino lo stato dei luoghi in maniera significativa, ivi comprese le modifiche dei componenti degli impianti e le variazioni di tracciato che non comportino un maggiore impatto ambientale sulle aree gravate dalla costruzione degli impianti medesimi. </corpo>
+                    </el>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La denuncia, a firma di un legale rappresentante dell'esercente, è presentata presso l'ufficio regionale competente corredata di una relazione tecnica illustrante le caratteristiche dell'impianto, di una corografia con l'indicazione delle opere da realizzare e di una dichiarazione dell'esercente che le opere saranno realizzate conformemente a quanto prescritto dalla normativa tecnica vigente e che non vi sono opposizioni alla realizzazione da parte dei proprietari e delle Amministrazioni interessate all'impianto. </corpo>
+                </comma>
+                <comma id="art3-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Decorsi trenta giorni dalla presentazione della denuncia di cui al comma precedente, se la Regione non ha comunicato un motivato provvedimento di divieto di inizio dei lavori, l'esercente può procedere alla realizzazione dell'opera. </corpo>
+                </comma>
+                <comma id="art3-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> In assenza di opposizioni da parte dei privati e delle amministrazioni interessate, è consentito all'esercente di costruire ed esercire impianti elettrici con tensione nominale fino a 1.000 volt, che si diramino da un impianto preesistente realizzato in base a provvedimento di autorizzazione o a seguito di denuncia di inizio lavori. </corpo>
+                </comma>
+                <comma id="art3-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> Non sono soggetti ad autorizzazioni né a denuncia gli interventi di manutenzione ordinaria degli impianti esistenti, ivi compresi la sostituzione di parte dei componenti impiegati. </corpo>
+                </comma>
+                <comma id="art3-com7">
+                    <num>
+ 
+7.</num>
+                    <corpo> Il procedimento, di competenza regionale, per l'autorizzazione alla costruzione ed esercizio di impianti di produzione di energia elettrica ricomprende l'autorizzazione alla costruzione ed esercizio degli elettrodotti di raccordo alla rete di trasmissione o di distribuzione, ferme restando le disposizioni della presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+(Domanda di autorizzazione) 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <corpo> L'autorizzazione alla costruzione e all'esercizio di linee ed impianti elettrici viene richiesta sulla base del progetto definitivo o di un progetto preliminare, comunque denominato. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La domanda di autorizzazione, corredata del piano tecnico delle opere da costruire, costituito da corografia su scala non inferiore a 1:25.000 e da una relazione tecnica illustrativa delle caratteristiche degli impianti, è presentata alla Regione. </corpo>
+                </comma>
+                <comma id="art4-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Il richiedente è tenuto a trasmettere, per il rilascio del parere di competenza, copia della domanda di autorizzazione, corredata del piano tecnico e degli ulteriori elaborati necessari, al Ministero delle comunicazioni (Ispettorato territoriale competente), ai Comuni interessati per gli aspetti urbanistici, alle altre Amministrazioni ed Enti competenti nelle ipotesi di cui all'<rif xlink:href="urn:nir:stato:regio.decreto:1933-12-11;1775#art120">articolo 120 del regio decreto 11 dicembre 1933, n. 1775</rif> (Testo unico delle disposizioni di legge sulle acque e impianti elettrici) ed all'autorità competente ad esprimere la valutazione di compatibilità elettromagnetica. </corpo>
+                </comma>
+                <comma id="art4-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> i pareri ed i nulla-osta devono essere rilasciati dalle Amministrazioni interessate entro 60 giorni dalla data di ricezione dell'istanza, fatto salvo quanto previsto dalle normative vigenti in materia di silenzio assenso. </corpo>
+                </comma>
+                <comma id="art4-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> Il richiedente deve effettuare, a sua cura e spese, la pubblicazione nel Bollettino Ufficiale della Regione dell'avviso di avvenuto deposito della domanda di autorizzazione, nonché l'affissione dell'avviso stesso nell'albo pretorio dei Comuni interessati. Detto avviso deve contenere l'indicazione che il piano tecnico dell'opera resta depositato, presso il competente ufficio regionale e presso gli albi pretori dei Comuni interessati per il periodo di quindici giorni, nonché l'indicazione dell'ufficio dove devono essere presentate le osservazioni e le opposizioni da parte di titolari di interessi pubblici o privati, e i portatori di interessi diffusi costituiti in associazioni o comitati. </corpo>
+                </comma>
+                <comma id="art4-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> Le osservazioni e le opposizioni di cui al comma precedente devono essere presentate entro 30 giorni dall'avvenuta pubblicazione sul Bollettino e negli albi pretori dei Comuni. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+(Procedimento autorizzatorio) 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione, ai fini del rilascio del provvedimento di autorizzazione, sentito il richiedente, tiene conto delle osservazioni presentate ed è tenuta all'esame puntuale delle osservazioni presentate dai proprietari degli immobili su cui deve essere realizzata l'opera. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Il termine per la conclusione del procedimento autorizzatorio è di centottanta giorni, decorrenti dalla pubblicazione nel Bollettino Ufficiale della Regione dell'avviso dell'avvenuto deposito di cui al <rif xlink:href="#art4-com5">comma 5 dell'articolo 4</rif>. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> La Regione, anche su istanza del richiedente, convoca una conferenza di servizi ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1990-08-07;241#art14">articolo 14 della legge 7 agosto 1990, n. 241</rif>, al fine di acquisire i pareri, i nulla-osta, le autorizzazioni e le valutazioni necessarie ovvero per acquisire quelli mancanti. </corpo>
+                </comma>
+                <comma id="art5-com4">
+                    <num>
+ 
+4.</num>
+                    <alinea> Nel caso in cui il procedimento di autorizzazione debba essere integrato con almeno uno dei seguenti procedimenti: 
+ 
+</alinea>
+                    <el id="art5-com4-leta">
+                        <num>a)</num>
+
+                        <corpo> valutazione di impatto ambientale (VIA) o di screening di cui alla <rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;21">legge regionale 24 marzo 2000, n. 21</rif>;</corpo>
+                    </el>
+                    <el id="art5-com4-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> valutazione di incidenza di cui al <rif xlink:href="urn:nir:presidente.repubblica:decreto:1997-09-08;357">decreto del Presidente della Repubblica 8 settembre 1997, n. 357</rif>;</corpo>
+                    </el>
+                    <el id="art5-com4-letc">
+                        <num> 
+ 
+c)</num>
+
+                        <corpo> procedura di salvaguardia dei beni ambientali prevista dagli articoli 131 e seguenti del <rif xlink:href="urn:nir:stato:decreto.legislativo:2004-01-22;42">decreto legislativo 22 gennaio 2004, n. 42</rif>;</corpo>
+                    </el>
+                    <el id="art5-com4-letd">
+                        <num> 
+ 
+d)</num>
+
+                        <corpo> procedura di salvaguardia di aree protette ai sensi della <rif xlink:href="urn:nir:stato:legge:1991-12-06;394">legge 6 dicembre 1991, n. 394</rif>; 
+ 
+alla conferenza dei servizi partecipa un rappresentante del Comitato tecnico VIA che, al termine dei lavori del Comitato, ne riporta gli esiti in conferenza. </corpo>
+                    </el>
+                </comma>
+                <comma id="art5-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> Con deliberazione della Giunta, da adottarsi entro 30 giorni dall'entrata in vigore della presente legge, saranno individuate le modalità con le quali si dovranno svolgere i lavori del Comitato tecnico VIA, i criteri per l'individuazione del componente che parteciperà alla conferenza dei servizi ed i termini entro cui dovranno svolgersi i lavori del Comitato. </corpo>
+                </comma>
+                <comma id="art5-com6">
+                    <num>
+ 
+6.</num>
+
+                    <corpo> Qualora il richiedente intenda ottenere l'apposizione del vincolo preordinato all'esproprio, la dichiarazione di pubblica utilità, urgenza ed indifferibilità dei lavori e delle opere, l'elaborato, unito alla domanda di autorizzazione completata con gli allegati di cui al <rif
+                            xlink:href="#art4-com2">comma 2 dell'articolo 4</rif>, dovrà contenere l'indicazione delle aree da espropriare ed i nominativi di coloro che risultano proprietari secondo le risultanze dei registri catastali. Per l'acquisizione degli eventuali nulla-osta, autorizzazioni o atti di assenso necessari potrà essere indetta, anche su istanza del richiedente, la conferenza di servizi di cui all'<rif xlink:href="urn:nir:stato:legge:1990-08-07;241#art14">articolo 14 della legge 7 agosto 1990 n. 241</rif>. </corpo>
+                </comma>
+                <comma id="art5-com7">
+                    <num>
+ 
+7.</num>
+
+                    <corpo> È sempre possibile al richiedente, prima della presentazione della domanda di cui all'<rif
+                            xlink:href="#art4-com5">articolo 4, comma 5</rif>, chiedere la convocazione di una conferenza di servizi preliminare, così come disciplinata dall'<rif xlink:href="urn:nir:stato:legge:1990-08-07;241#art14bis">articolo 14 bis della legge 7 agosto 1990 n. 241</rif>. </corpo>
+                </comma>
+                <comma id="art5-com8">
+                    <num>
+ 
+8.</num>
+
+                    <corpo> Qualora sia stata presentata la domanda di cui al <rif
+                            xlink:href="#art5-com6">precedente comma 6</rif> e qualora il numero delle ditte interessate sia superiore a dieci, si può procedere a comunicare l'avvio del procedimento con le modalità stabilite dall'<rif xlink:href="urn:nir:presidente.repubblica:decreto:2001-06-08;327#art52ter">articolo 52 ter del decreto del Presidente della Repubblica 8 giugno 2001, n. 327</rif>, e successive modificazioni, ai proprietari risultanti dai registri catastali delle aree indicate nell'elaborato depositato dal richiedente l'avvio del procedimento. </corpo>
+                </comma>
+                <comma id="art5-com9">
+                    <num>
+ 
+9.</num>
+
+                    <corpo> Il provvedimento, emanato a conclusione del procedimento di cui al <rif
+                            xlink:href="#art5-com6">comma 6</rif>, comprende la valutazione di impatto ambientale, ove prevista dalla normativa vigente, ovvero la valutazione di incidenza naturalistico ambientale di cui al <rif xlink:href="urn:nir:presidente.repubblica:decreto:1997-09-08;357">decreto del Presidente della Repubblica 8 settembre 1997, n. 357</rif>, e sostituisce, anche ai fini urbanistici ed edilizi, ogni altra autorizzazione, concessione, approvazione, parere e nulla-osta comunque denominati necessari alla realizzazione ed all'esercizio degli elettrodotti di cui alla presente legge e costituisce variazione agli strumenti urbanistici vigenti. </corpo>
+                </comma>
+                <comma id="art5-com10">
+                    <num>
+ 
+10.</num>
+                    <corpo> Il provvedimento di cui al <rif
+                            xlink:href="#art5-com9">comma 9</rif>, che dovrà essere comunicato ai sensi dell'<rif
+                            xlink:href="urn:nir:presidente.repubblica:decreto:2001-06-08;327#art17">articolo 17 del decreto del Presidente della Repubblica 8 giugno 2001, n. 327</rif>, determina l'inizio del procedimento espropriativo di cui al <rif xlink:href="urn:nir:presidente.repubblica:decreto:2001-06-08;327#tit2-cap4">capo IV del titolo II del decreto del Presidente della Repubblica 8 giugno 2001, n. 327</rif>, e successive modificazioni. </corpo>
+                </comma>
+                <comma id="art5-com11">
+                    <num>
+ 
+11.</num>
+
+                    <corpo> L'apposizione del vincolo preordinato all'espropriazione e la dichiarazione di pubblica utilità, urgenza ed indifferibilità degli impianti e delle linee elettriche possono essere chieste alla Regione anche successivamente all'acquisizione dell'autorizzazione di cui al <rif xlink:href="#art4-com1">comma 1 dell'articolo 4</rif>. In tale ipotesi il richiedente dovrà presentare apposita istanza corredata da una relazione sommaria che indichi la natura e lo scopo delle opere da eseguire, e completata con gli eventuali nulla-osta, autorizzazioni ed atti di assenso già acquisiti. Al procedimento si applicano i precedenti commi 6, 8 e 10. </corpo>
+                </comma>
+                <comma id="art5-com12">
+                    <num>
+ 
+12.</num>
+
+                    <corpo> Per gli impianti elettrici e per le linee di cui al <rif xlink:href="#art3-com2">comma 2 dell'articolo 3</rif>, qualora in sede di realizzazione dell'opera venga meno il consenso del proprietario o in caso di opposizione del proprietario, l'istante potrà chiedere che la Regione autorizzi gli impianti medesimi, dichiarandone la pubblica utilità, previa presentazione di apposita istanza corredata da una relazione sommaria, che indichi la natura e lo scopo delle opere da eseguire, dall'attestazione circa l'assenza di opposizioni delle Amministrazioni interessate e da un elaborato riportante la descrizione delle aree da espropriare e il nominativo dei proprietari secondo le risultanze catastali. Al procedimento si applicano i commi 8 e 10 che precedono. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+(Inamovibilità delle linee elettriche) 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <corpo> Le linee elettriche con tensione inferiore a 130.000 volt si considerano amovibili, salvo che non ne sia dichiarata l'inamovibilità con il provvedimento di autorizzazione. </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Le linee elettriche con tensione uguale o superiore a 130.000 volt sono inamovibili per legge. </corpo>
+                </comma>
+                <comma id="art6-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> È fatto salvo quanto disposto all'<rif xlink:href="#art11-com1">articolo 11, comma 1</rif>.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+(Occupazione anticipata e determinazione urgente delle indennità di esproprio) 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Qualora l'avvio dei lavori rivesta carattere di urgenza, oltre ai casi previsti dagli articoli 22, comma 2, e 22-bis, <rif
+                            xlink:href="#art7-com2">comma 2</rif>, del <rif
+                            xlink:href="urn:nir:presidente.repubblica:decreto:2001-06-08;327">decreto del Presidente della Repubblica 8 giugno 2001, n. 327</rif>, il decreto di esproprio o di occupazione anticipata può altresì essere emanato ed eseguito, in base alla determinazione urgente delle indennità di espropriazione, senza particolari indagini o formalità, con le modalità di cui all'articolo 52-nonies del <rif xlink:href="urn:nir:presidente.repubblica:decreto:2001-06-08;327">decreto del Presidente della Repubblica 8 giugno 2001, n. 327</rif>, e successive modificazioni. </corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Gli stessi decreti sono emanati nel termine di sessanta giorni dalla data di ricevimento dell'istanza del beneficiario dell'espropriazione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>
+ 
+(Permesso a costruire) 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La realizzazione di linee ed impianti elettrici non è soggetta a permesso a costruire o a denunia di inizio attività, ai sensi del <rif xlink:href="urn:nir:presidente.repubblica:decreto:2001-06-06;380">decreto del Presidente della Repubblica 6 giugno 2001, n. 380</rif>, e successive modificazioni. </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Fatto salvo quanto previsto dall'<rif
+                            xlink:href="#art5">articolo 5</rif>, commi 3 e 9, la costruzione di opere edilizie adibite a cabine primarie e secondarie con strutture di fondazione è soggetta a permesso a costruire; in ogni caso, con esonero dal pagamento del contributo di costruzione, ai sensi dell'<rif xlink:href="urn:nir:presidente.repubblica:decreto:2001-06-06;380#art17">articolo 17 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <rubrica>
+ 
+(Decadenza, revoca e sospensione) 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+                    <alinea> L'autorizzazione è revocata qualora il titolare non adempia alle prescrizioni ed agli obblighi contenuti nella stessa e persista in tale inosservanza anche dopo la notifica di una specifica diffida. Il provvedimento di diffida: 
+ 
+</alinea>
+                    <el id="art9-com1-leta">
+                        <num>a)</num>
+                        <corpo> intima la sospensione della costruzione e/o dell'esercizio dell'opera elettrica;</corpo>
+                    </el>
+                    <el id="art9-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> concede il termine, comunque non superiore a centoventi giorni, per l'adempimento degli obblighi e delle prescrizioni;</corpo>
+                    </el>
+                    <el id="art9-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> avverte il titolare dell'autorizzazione che, in caso di inottemperanza, l'autorizzazione si intenderà decaduta e sarà intimata la demolizione. </corpo>
+                    </el>
+                </comma>
+                <comma id="art9-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> L'autorizzazione può essere sospesa per sopravvenute condizioni di pericolo per l'incolumità e la salute pubblica, ostative alla prosecuzione dell'esercizio della linea ed impianto elettrico. </corpo>
+                </comma>
+                <comma id="art9-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Il provvedimento di sospensione dispone l'esecuzione degli eventuali interventi necessari. </corpo>
+                </comma>
+                <comma id="art9-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> Nel caso di non temporaneità delle condizioni indicate al <rif xlink:href="#art9-com2">comma 2</rif>, l'autorizzazione può essere revocata in via definitiva. All'esercente l'impianto è riconosciuto un equo indennizzo a carico della Regione, salvo che le condizioni di pericolo per l'incolumità e la salute pubblica non siano a lui imputabili. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <rubrica>
+ 
+(Collaudo) 
+ </rubrica>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Le linee e gli impianti elettrici autorizzati sono sottoposti a collaudo su richiesta del titolare dell'autorizzazione, entro quattro anni dalla messa in esercizio, qualora entro tre anni non siano state presentate opposizioni dal Ministero competente, ai sensi del punto 3.1.03 del cap. 3 "Disposizioni finali e transitorie" del decreto ministeriale 21 marzo 1988, con il quale sono state approvate, in esecuzione della <rif xlink:href="urn:nir:stato:legge:1986-06-28;339">legge 28 giugno 1986, n. 339</rif>, le norme tecniche per la progettazione, l'esecuzione e l'esercizio delle linee elettriche esterne. </corpo>
+                </comma>
+                <comma id="art10-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il collaudatore è nominato dalla Regione e deve essere scelto tra tecnici qualificati esperti in materia di costruzione di impianti elettrici, non collegati professionalmente, né economicamente in modo diretto o indiretto al titolare dell'autorizzazione. </corpo>
+                </comma>
+                <comma id="art10-com3">
+                    <num>
+ 
+3.</num>
+                    <alinea> In sede di collaudo devono accertarsi: 
+ 
+</alinea>
+                    <el id="art10-com3-leta">
+                        <num>a)</num>
+                        <corpo> l'avvenuta ultimazione dei lavori;</corpo>
+                    </el>
+                    <el id="art10-com3-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> la funzionalità delle opere, anche in base alle caratteristiche tecniche dei materiali e dei complessi costruttivi;</corpo>
+                    </el>
+                    <el id="art10-com3-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> la conformità delle opere al progetto e la loro rispondenza alle prescrizioni tecniche stabilite dall'autorizzazione;</corpo>
+                    </el>
+                    <el id="art10-com3-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> l'adempimento di ogni altro obbligo particolare imposto dall'autorizzazione stessa. </corpo>
+                    </el>
+                </comma>
+                <comma id="art10-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Il collaudo di linee fino a 20.000 volt sottoposte ad autorizzazione può essere effettuato singolarmente o per un insieme di impianti che siano entrati a far parte della locale rete elettrica collegata ad una medesima unità di produzione o di trasformazione; in ogni caso viene redatto un unico certificato di collaudo. </corpo>
+                </comma>
+                <comma id="art10-com5">
+                    <num>
+ 
+5.</num>
+
+                    <corpo> Qualora le linee elettriche e le relative opere accessorie siano state costruite con l'impiego di materiali, strutture ed opere conformi a modelli unificati già sottoposti a verifica e collaudi tipo, secondo quanto previsto dalla <rif
+                            xlink:href="urn:nir:stato:legge:1986-06-28;339">legge 28 giugno 1986, n. 339</rif>, e dai relativi decreti attuativi, gli accertamenti di cui alla <rif xlink:href="#art10-com3-letb">lettera b) del comma 3</rif> sono sostituiti da un attestato dell'esercente che tiene luogo del certificato di collaudo. </corpo>
+                </comma>
+                <comma id="art10-com6">
+                    <num>
+ 
+6.</num>
+
+                    <corpo> Il certificato di collaudo è trasmesso alla Regione che, in caso di esito negativo, procede ai sensi del <rif xlink:href="#art9-com1">comma 1 dell'articolo 9</rif>. </corpo>
+                </comma>
+                <comma id="art10-com7">
+                    <num>
+ 
+7.</num>
+                    <corpo> Le linee ed impianti elettrici non soggetti ad autorizzazione si intendono collaudati dietro presentazione da parte delle imprese esercenti attività elettriche di dichiarazione di conformità dell'opera alle vigenti disposizioni. </corpo>
+                </comma>
+                <comma id="art10-com8">
+                    <num>
+ 
+8.</num>
+                    <corpo> Sono esclusi dalla procedura di collaudo le linee con tensione inferiore a 1.000 volt. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+                <rubrica>
+ 
+(Spostamenti per ragioni di pubblico interesse) 
+ </rubrica>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione può, per ragioni di prevalente pubblico interesse, ordinare lo spostamento o la modifica di linee ed impianti elettrici autorizzati, definendo contestualmente l'equo indennizzo da corrispondere al titolare dell'impianto da spostare o da modificare e su chi gravi l'onere del pagamento. </corpo>
+                </comma>
+                <comma id="art11-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Salvo quanto disposto dagli articoli 4 e 5, il provvedimento di cui al <rif xlink:href="#art11-com1">comma 1</rif> costituisce autorizzazione della variante da eseguire, ha efficacia di dichiarazione di pubblica utilità, urgenza ed indifferibilità e deve essere preceduto dalla comunicazione di avvio del procedimento a termini degli articoli 4 e 5 della presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12 </num>
+                <rubrica>
+ 
+(Norme transitorie) 
+ </rubrica>
+                <comma id="art12-com1">
+                    <num>
+1.</num>
+                    <alinea> Per gli elettrodotti aventi tensione fino a 150.000 volt, già in esercizio prima della data di entrata in vigore della presente legge e per i quali non sia già stata rilasciata l'autorizzazione alla costruzione ed all'esercizio, entro due anni dall'entrata in vigore della presente legge l'esercente potrà chiedere l'autorizzazione alla Regione presentando un'apposita istanza, corredata da: 
+ 
+</alinea>
+                    <el id="art12-com1-leta">
+                        <num>a)</num>
+                        <corpo> un elenco degli impianti ed una corografia con riportati i loro tracciati in scala 1:25.000;</corpo>
+                    </el>
+                    <el id="art12-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> una relazione, sottoscritta sotto la responsabilità da un proprio legale rappresentante o da un tecnico qualificato iscritto nel competente albo professionale, con la quale questi descrive le principali caratteristiche tecniche degli impianti ed attesta la loro rispondenza alle norme vigente in materia. </corpo>
+                    </el>
+                </comma>
+                <comma id="art12-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La Regione, entro 60 giorni dal ricevimento dell'istanza, verificata la sussistenza delle condizioni previste dal comma precedente e la conformità della documentazione allegata all'istanza, con provvedimento dirigenziale autorizza in via definitiva gli impianti e dispone la pubblicazione dell'atto e dell'elenco degli impianti nel Bollettino Ufficiale della Regione, fermi restando gli obblighi già assunti o da assumere da parte del richiedente verso le amministrazioni pubbliche interessate e facendo salvi i diritti dei terzi. </corpo>
+                </comma>
+                <comma id="art12-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Fatto salvo quanto previsto dalle altre disposizioni contenute nel presente articolo, la presente legge si applica a partire dai procedimenti per i quali non sia scaduto il termine per la formulazione delle osservazioni da parte dei soggetti interessati, a meno che il soggetto istante abbia optato espressamente per l'applicazione della presente legge ai procedimenti in corso, relativamente alle fasi procedimentali non ancora concluse. </corpo>
+                </comma>
+                <comma id="art12-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> Gli impianti autorizzati prima del 31 dicembre 2004 per i quali a tale data non sia stato ancora redatto il certificato di collaudo, nonché per quelli autorizzati ai sensi del <rif xlink:href="#art12-com2">comma 2</rif>, si intendono collaudati dietro presentazione da parte dell'impresa elettrica di dichiarazione di conformità dell'opera al progetto ed alle prescrizioni dettate dagli enti interessati. </corpo>
+                </comma>
+                <comma id="art12-com5">
+                    <num>
+ 
+5.</num>
+
+                    <corpo> La disciplina della sanatoria si applica anche nel caso in cui gli impianti insistono nelle aree di cui alla <rif xlink:href="urn:nir:regione.molise:legge:2006-05-05;5">legge regionale n. 5 del 5 maggio 2006</rif>. </corpo>
+                </comma>
+                <comma id="art12-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> Le disposizioni di cui al <rif
+                            xlink:href="urn:nir:regione.molise:legge:2006-05-05;5#art3-com1">comma 1 dell'articolo 3 della legge regionale 5 maggio 2006, n. 5</rif>, si interpretano nel senso di determinare quali sono nella Regione Molise le zone di cui agli articoli 822 del <rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262">codice civile</rif> e 28 del codice di navigazione.* 
+ 
+*La Corte Costituzionale, con sentenza 5-14 novembre 2008, n. 370, ha dichiarato l'illegittimità del presente comma. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13 </num>
+                <rubrica>
+ 
+(Abrogazioni) 
+ </rubrica>
+                <comma id="art13-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art13-com1-mod1"> La <rif xlink:href="urn:nir:regione.molise:legge:1999-09-29;34#art84">lettera e) dell'articolo 84 della legge regionale 29 settembre 1999, n. 34</rif>, è abrogata. 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14 </num>
+                <rubrica>
+ 
+(Entrata in vigore) 
+ </rubrica>
+                <comma id="art14-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge è pubblicata nel Bollettino Ufficiale della Regione. </corpo>
+                </comma>
+                <comma id="art14-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> È fatto obbligo, a chiunque spetti, di osservarla e di farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

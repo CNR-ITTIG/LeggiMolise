@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2003-01-27;7"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="07.Contabilit&amp;#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
+                </materie>
+            </descrittori>
+        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 2 del 1 febbraio 2003 
+ 
+Oggetto 
+Esercizio provvisorio del Bilancio regionale per l'esercizio finanziario 2003 - Autorizzazione 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20030127">27 gennaio 2003</dataDoc>, n. <numDoc>7</numDoc>. 
+ 
+<titoloDoc>Autorizzazione all'esercizio provvisorio del Bilancio regionale per l'esercizio finanziario 2003. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art.1 </num>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo>
+La Giunta Regionale è autorizzata ad esercitare provvisoriamente, fino a quando non sia approvato con legge, e non oltre il 28 febbraio 2003, il bilancio preventivo della Regione per l'esercizio finanziario 2003, con le modalità e le disposizioni previste dall'<rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art10">articolo 10 della legge regionale 7 maggio 2002, n. 4</rif> e secondo lo stato di previsione del relativo disegno di legge presentato al  Consiglio Regionale. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art.2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge è dichiarata urgente ai sensi dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto Regionale</rif> ed entra in vigore lo stesso giorno della sua pubblicazione sul Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

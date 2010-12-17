@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19770416" num="7" tipo="BURM"/>
+                <entratainvigore norm="19770501"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1977-04-20;11"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 07 del 16/04/77 
+ 
+Oggetto 
+Assistenza sanitaria - Destinatari - Estensione - Criteri 
+ 
+Abrogazioni 
+Abrogato art. 7 dalla legge n. 35/1977 art. 1 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato uno 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 35/1977 art. 1 
+Modificato art. 8 dalla legge n. 35/1977 art. 1 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19770420">20 Aprile 1977</dataDoc>, n. <numDoc>11</numDoc>
+
+            <titoloDoc>Erogazione in forma diretta e gratuita dell'assistenza sanitaria ai cittadini residenti nel territorio regionale, non protetti da forme di assicurazione obbligatoria di malattia e, comunque, non compresi fra i soggetti assistiti dai Comuni ai sensi dell'art. 55 del T.U. LL.SS. approvato con <rif xlink:href="urn:nir:stato:regio.decreto:1934-07-27;1265">R.D. 27 luglio 1934, n.1265</rif> e concessione da contributi straordinari alle Casse Mutue provinciali di malattia per i lavoratori autonomi 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 13/2010 art. allegato uno</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

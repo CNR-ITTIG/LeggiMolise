@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19960816" num="16" tipo="BURM"/>
+                <entratainvigore norm="19960831"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1996-08-09;27"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="30.Promozione e organizzazione di attivit&amp;#xE0; culturali e delle tradizioni locali, associazionismo"/>
+                </materie>
+            </descrittori>
+        </meta><?error 30.Promozione e organizzazione di attivit&#xE0; culturali e delle tradizioni locali, associazionismo 
+ 
+Bollettino 
+Bollettino Ufficiale n. 16 del 16/08/96 
+ 
+Oggetto 
+Iniziative di rilievo sociale - Procedure - Modifiche 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale  </tipoDoc>
+            <dataDoc norm="19960809">9 Agosto 1996</dataDoc>, n. <numDoc>27</numDoc>
+            <titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1987-05-19;7">legge regionale 19 maggio 1987, n. 7</rif> &lt;&lt; Disciplina per la promozione di iniziative di pubblico interesse&gt;&gt;. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti, di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

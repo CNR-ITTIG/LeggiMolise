@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19770216" num="3" tipo="BURM"/>
+                <entratainvigore norm="19770303"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1977-02-03;8"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 03 del 16/02/77 
+ 
+Oggetto 
+Servizi veterinari comunali e consorziali - Adeguamento - Contributi - Concessione - Procedure 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19770203">3 Febbraio 1977</dataDoc>, n. <numDoc>8</numDoc>
+            <titoloDoc>Adeguamento dei servizi veterinari. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+La Regione è autorizzata a concedere contributi fino al 90% della spesa prevista per l'adeguamento dei servizi veterinari comunali e consorziali e, in particolare, per: 
+ 
+a) l'acquisto di attrezzature e di materiale igienico sanitario necessario ad assicurare l'idoneo svolgimento dei servizi di profilassi zooiatrica e di lotta contro le zoonosi; 
+ 
+b) l'acquisto di impianti mobili destinati alla disinfezione e disinfestazione dei ricoveri animali, nonché l'acquisto dei materiali disinfettanti e disinfestanti; 
+ 
+c) l'acquisto, il potenziamento e l'ammodernamento delle attrezzature e dei servizi igienico-sanitari dei macelli pubblici, compresi gli impianti per l'incenerimento e la denaturazione di materiali patologici o di carni o di prodotti di origine animale, non idonei al consumo alimentare; 
+ 
+d) l'impianto e l'attrezzatura dei laboratori per la ricerca microbiologica ed istologica presso i mattatoi dei Comuni capoluoghi di provincia e dei mattatoi pubblici più importanti per numero di macellazioni; 
+ 
+e) l'acquisto dello strumentario e del materiale necessario per il prelevamento e l'invio dei campioni ai laboratori specializzati; 
+ 
+f) il miglioramento ed il potenziamento dei servizi dei canili comunali e consorziali; 
+ 
+g) l'attuazione delle campagne profilattiche; 
+ 
+h) l'assunzione di personale ausiliario a disposizione del servizio veterinario; 
+ 
+i) l'assicurazione dei veterinari operatori e del personale coadiutore contro il rischio degli infortuni professionali ed il rischio di contrarre malattie trasmissibili dagli animali; 
+ 
+l) corsi di aggiornamento per i veterinari e di istruzione professionale e qualificazione per il personale para veterinario. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+
+                <rubrica>
+ 
+Le domande per la concessione dei contributi previsti dall'<rif xlink:href="#art1">art. 1</rif> devono essere presentate, con il programma annuale o poliennale degli interventi, dai Comuni, dai Consorzi di Comuni o dalle   Comunità Montane entro il mese di marzo di ogni anno. 
+ 
+Il Consiglio Regionale, entro il successivo mese di aprile, approva il piano regionale di intervento predisposto dalla Giunta Regionale. 
+ 
+Per l'anno 1976, gli Enti interessati potranno presentare la domanda di finanziamento entro 60 giorni dall'entrata in vigore della presente legge, prescindendo dal programma di cui al primo   comma del presente articolo e previa dettagliata relazione sulla destinazione dei fondi. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+L'attuazione del piano di interventi previsto dall'articolo precedente è demandata all'Assessorato Regionale alla Sanità, che esercita il controllo sulle attività previste dalla presente legge tramite gli uffici dei Veterinari Provinciali, le Sezioni dell'Istituto Zooprofilattico Sperimentale dell'Abruzzo e Molise e altri organi tecnici periferici della Regione. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+
+                <rubrica>
+ 
+L'onere derivante dalla presente legge, valutato per l'anno 1976 in lire cento milioni, farà carico al nuovo capitolo di bilancio n. 1371 &lt;&lt; Spese per il potenziamento dei servizi veterinari &gt;&gt;, previa riduzione di pari importo del cap. 1370 del bilancio 1976. 
+ 
+Per gli esercizi successivi, con legge di bilancio, si provvederà ad istituire apposito capitolo di spesa. 
+ 
+Al finanziamento degli oneri derivanti dall'applicazione della presente legge sarà destinata quota parte dei proventi dell'<rif xlink:href="urn:nir:stato:legge:1970-05-16;281#art8">art. 8 della legge 16 maggio 1970, n. 281</rif>. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+
+                <rubrica>
+ 
+La presente legge è dichiarata urgente ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

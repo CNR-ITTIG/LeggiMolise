@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19960816" num="16" tipo="BURM"/>
+                <entratainvigore norm="19960831"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1996-08-09;26"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="15.Industria"/>
+                </materie>
+            </descrittori>
+        </meta><?error 15.Industria 
+ 
+Bollettino 
+Bollettino Ufficiale n. 16 del 16/08/96 
+ 
+Oggetto 
+Piccole e medie imprese- Beneficiari - Agevolazioni - Procedure 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 31/2000 art. art.1, primo comma, lettera aaa) 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale  </tipoDoc>
+            <dataDoc norm="19960809">9 Agosto 1996</dataDoc>, n. <numDoc>26</numDoc>
+            <titoloDoc>Interventi per lo sviluppo e l'occupazione nelle Piccole e Medie Imprese. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 31/2000 art. art.1, primo comma, lettera aaa)</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

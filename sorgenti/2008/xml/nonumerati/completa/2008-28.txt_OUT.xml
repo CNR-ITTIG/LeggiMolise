@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2007-09-12;24"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="07.Contabilit&amp;#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
+                </materie>
+            </descrittori>
+        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N.7  del 1 aprile 2008 
+ 
+Oggetto 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge regionale </tipoDoc>
+            <dataDoc
+                    norm="20070912">12 settembre 2007</dataDoc>n. <numDoc>24</numDoc> - <titoloDoc>Articolo 12 - Modifica 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+<rif
+                    xlink:href="urn:nir:regione.molise:legge:2008-03-27;8">LEGGE REGIONALE 27 marzo 2008, n. 8</rif>. 
+ 
+Modifica dell'<rif
+                    xlink:href="urn:nir:regione.molise:legge:2007-09-12;24#art12-com5">articolo 12, comma 5, della legge regionale 12 settembre 2007, n. 24</rif>, avente ad oggetto: "Primo intervento per l'attuazione del programma di razionalizzazione della spesa previsto dalla <rif xlink:href="urn:nir:regione.molise:legge:2007-03-22;8">legge regionale 22 marzo 2007, n. 8</rif>". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1  </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art1-com1-mod1">
+1. All'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2007-09-12;24#art12-com5">articolo 12, comma 5, della legge regionale 12 settembre 2007, n. 24</rif>, recante: "<virgolette
+                                id="art1-com1-mod1-vir1"
+                                    tipo="parola">Primo intervento per l'attuazione del programma di razionalizzazione della spesa previsto dalla <rif xlink:href="urn:nir:regione.molise:legge:2007-03-22;8">legge regionale 22 marzo 2007, n. 8</rif>
+                            </virgolette>", come modificato dall'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2007-12-31;31#art1-com1">articolo 1, comma 1, della legge regionale 31 dicembre 2007, n. 31</rif>, le parole "<virgolette
+                                id="art1-com1-mod1-vir2">31 marzo 2008</virgolette>" sono sostituite dalle parole "<virgolette id="art1-com1-mod1-vir3">31 luglio 2008</virgolette>".  </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2  </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+Entrata in vigore  
+ 
+1. La presente legge entra in vigore il giorno della sua pubblicazione sul Bollettino Ufficiale della Regione Molise.  
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error 2. &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

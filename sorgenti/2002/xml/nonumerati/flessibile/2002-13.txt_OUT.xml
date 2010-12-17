@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2002-11-08;33"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x96; N. 24 del 16 novembre 2002 
+ 
+Oggetto 
+Amministrazione regionale - Dirigenza - Retribuzione - Disposizioni. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20021108">8 novembre 2002</dataDoc>, n. <numDoc>33</numDoc>. 
+ 
+<titoloDoc>Integrazione dell'<rif
+                    xlink:href="urn:nir:regione.molise:legge:2002-05-28;6#art18">art. 18 della legge regionale 28 maggio 2002 n. 6</rif>, ad oggetto: Modifiche ed integrazioni alle leggi regionali 8 agosto 1997 n. 7, concernente: "Norme sulla riorganizzazione dell'amministrazione regionale secondo i principi stabiliti dal <rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29">decreto legislativo 3 febbraio 1993, n. 29</rif>" e 27 gennaio 1999 n. 2, concernente: "Norme sull'autonomia organizzativa, funzionale e contabile del Consiglio regionale". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Articolo 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art1-com1-mod1">
+All'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2002-05-28;6#art18">art. 18 della legge regionale 28 maggio 2002 n. 6</rif>, dopo il comma 5 sono aggiunti i seguenti: 
+ 
+ "<virgolette
+                                id="art1-com1-mod1-vir1" tipo="struttura">
+                                <comma id="art1-com1-mod1-vir1-com0">
+                                    <num> 5 bis.</num>
+                                    <corpo> Limitatamente agli anni 2001 e 2002, la Giunta regionale è autorizzata ad erogare la retribuzione di risultato ai      dirigenti regionali, utilizzando interamente le relative risorse finanziarie già determinate, rispettivamente per le singole annualità, in base alle norme contrattuali vigenti nel tempo. </corpo>
+                                </comma>
+                                <comma id="art1-com1-mod1-vir1-com0">
+                                    <num>
+ 
+ 5 ter.</num>
+
+                                    <corpo> L'erogazione del beneficio di cui al comma precedente è rapportato al coefficiente  100 per tutti i dirigenti e, per il personale collocato a riposo durante gli anni di riferimento, è calcolato in dodicesimi rispetto ai mesi di permanenza in servizio , tenuto conto, ai fini del calcolo, dell'intera mensilità, dei periodi pari o superiori a giorni 16. Per i dirigenti beneficiari degli incentivi di cui all'<rif
+                                    xlink:href="urn:nir:stato:legge:1994;109#art18">art. 18 della legge n. 109 del 1994</rif>, i relativi importi sono ridotti del valore economico pari al 30% del compenso percepito in base alla sopra citata <rif xlink:href="urn:nir:stato:legge:1994;109">legge n. 109 del 1994</rif>. </corpo>
+                                </comma>
+                                <comma id="art1-com1-mod1-vir1-com0">
+                                    <num>
+ 
+ 5 quater.</num>
+
+                                    <corpo> L'utilizzo del fondo , concernente la retribuzione di risultato dei dirigenti, è consentito, a decorrere dall'anno 2003, previa costituzione del Nucleo di valutazione previsto dall'<rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7#art18">art. 18 della legge regionale 8 aprile 1997, n. 7</rif> e successive modificazioni ed integrazioni, ed a seguito di conferimento degli obiettivi ai dirigenti e di verifica dei risultati conseguiti</corpo>
+                                </comma>
+                            </virgolette>". </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Articolo 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+                    <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

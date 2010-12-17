@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19730511" num="12" tipo="BURM"/>
+                <entratainvigore norm="19730526"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1973-04-03;2"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="07.Contabilit&amp;#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
+                </materie>
+            </descrittori>
+        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+ 
+Bollettino 
+Bollettino Ufficiale n. 12 del 11/05/73 
+ 
+Oggetto 
+Variazioni al bilancio 1972 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19730403">3 Aprile 1973</dataDoc>, n. <numDoc>2</numDoc>
+            <titoloDoc>Variazioni al Bilancio preventivo per l'esercizio 1972. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione>
+            <dataeluogo codice="00100"
+                    norm="">Cap. 354 - Art.4 - Denominazione della spesa: Spese relative ai 
+ 
+   compensi ai veterinari operatori e coadiutori per l'attuazione dei 
+ 
+   piani di profilassi per il risanamento degli allevamenti dalla 
+ 
+   tubercolosi e dalla brucellosi; Previsione iniziale zero; 
+ 
+   Variazioni in aumento 10.500.000; Previsione definitiva 10.500.000. 
+ 
+     Cap. 354 - Art.5 - Denominazione della spesa: Spese relative al 
+ 
+   noleggio, acquisto, gestione di autoveicoli speciali e stazioni 
+ 
+   mobili di disinfezione; Previsione iniziale zero; Variazione in 
+ 
+   aumento 2.750.000; Previsione definitiva 2.750.000. 
+ 
+     Cap. 354 - Art.6 - Denominazione della spesa: Spese per la 
+ 
+     raccolta dei dati statistici, per tatuaggi, aghi, siringhe ed 
+ 
+     altro materia le riguardanti i piani profilattici; Previsione 
+ 
+     iniziale zero; 
+ 
+   Variazioni in aumento 410.000; Previsione definitiva 410.000. 
+ 
+     Cap. 354 - Art.7 - Denominazione della spesa: Spese per la 
+ 
+   propaganda veterinaria agli allevatori (<rif xlink:href="urn:nir:stato:legge:1968-01-23">legge 23 gennaio 1968</rif>, 
+ 
+   </dataeluogo>
+        </conclusione><?error n.34) Previsione iniziale zero; Variazioni in aumento 5.000.000; 
+ 
+   Previsione definitiva 5.000.000. 
+ 
+   Totale variazioni in aumento 42.560.000. 
+ 
+ 
+
+?>
+    </LeggeRegionale>
+</NIR>

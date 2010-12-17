@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19930716" num="16" tipo="BURM"/>
+                <entratainvigore norm="19930731"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1993-07-07;16"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 16 del 16/07/93 
+ 
+Oggetto 
+Calcolo del periodo di servizio ai fini del punteggio di anzianit&#xE0; 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19930707">7 Luglio 1993</dataDoc>, n. <numDoc>16</numDoc>
+            <titoloDoc>Interpretazione autentica dell'<rif xlink:href="urn:nir:regione.molise:legge:1989-05-10;5#art3">articolo 3 della legge regionale 10 maggio 1989, n. 5</rif>. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+Il periodo massimo di cui al <rif xlink:href="urn:nir:regione.molise:legge:1989-03-10;5#art3-com2">2° comma dell'articolo 3 della legge regionale 10 marzo 1989, n. 5</rif> deve essere inteso quale ammontare massimo del servizio di cui al comma 1, sul quale applicare le riduzioni di cui ai commi 4 e 5 dello stesso articolo. Pertanto, per calcolare il punteggio di anzianità, in primo luogo vanno moltiplicati punti 1,50 per un massimo di 32 trimestri e sul punteggio risultante, non superiore nel massimo di 48 punti, vanno applicate le riduzioni, di cui ai citati commi 4 e 5, nei limiti del servizio per la cui tipologia sia prevista riduzione. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+
+                <rubrica>: PUBBLICAZIONE 
+ 
+La presente legge è dichiarata urgente ai sensi del <rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">2° comma dell'articolo 127 della Costituzione</rif>   e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art36">articolo 36 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della   sua pubblicazione sul Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

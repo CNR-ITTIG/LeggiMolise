@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-12-29;48"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="07.Contabilit&amp;#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
+                </materie>
+            </descrittori>
+        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 25 del 29 dicembre 2000 
+ 
+Oggetto 
+ 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20001229">29 dicembre 2000</dataDoc>n. <numDoc>48</numDoc>
+            <titoloDoc>Assestamento del Bilancio di competenza e di cassa dell'esercizio finanziario 2000. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+(Assestamento) 
+ 
+Ai sensi e per gli effetti dell'art. 36 della legge di contabilità regionale 3 dicembre 1977, n. 44, al bilancio preventivo per l'esercizio finanziario 2000 sono introdotte le variazioni di competenza e di cassa di cui ai successivi articoli.  
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+(Accertamento dei residui attivi e passivi)  
+ 
+I residui attivi e passivi da iscriversi nel Bilancio 2000 sono determinati negli importi accertati con il Rendiconto Generale per l'esercizio finanziario 1999.  
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+
+                <rubrica>
+ 
+(Variazioni alle previsioni delle entrate di competenza)  
+ 
+Nello stato di previsione delle entrate di competenza dell'esercizio finanziario 2000 sono introdotte le variazioni di cui alla tabella "A" annessa alla presente legge.  
+ 
+Ari.4  
+ 
+(Variazioni alle previsioni delle uscite di competenza)  
+ 
+Nello stato di previsione delle uscite di competenza dell'esercizio finanziario 2000 sono introdotte le variazioni di cui alla tabella "B" annessa alla presente legge. 
+ 
+Art. 5 
+ 
+(Variazioni alle previsione di cassa)  
+ 
+In conseguenza delle variazioni di cui agli artt. 2, 3 e 4 della presente legge, le iscrizioni degli stanziamenti di cassa dei singoli capitoli di entrata e di uscita del bilancio per l'esercizio finanziario 2000 sono modificate secondo le indicazioni riportate nelle tabelle "A" e "B" annesse alla presente legge.  
+ 
+Art.6  
+ 
+(Avanzo di amministrazione)  
+ 
+Ai sensi della lettera "B" dell'art. 36 della legge di contabilità regionale 3 dicembre 1977, n. 44, all'avanzo presunto di amministrazione già iscritto all'attivo del bilancio di previsione per l'esercizio finanziario 2000 in Lire 523.653.642.603, viene iscritta la maggiore somma di £. 66.642.308, restando determinato in £. 523.720.284.911 l'avanzo accertato al 31 dicembre 1999. -  
+ 
+Art.7  
+ 
+(Variazione alla tabella n. 13 allegata al bilancio 2000)  
+ 
+Per effetto delle variazioni di cui agli articoli precedenti, la tabella n. 13 "elenco dei capitoli di spesa del bilancio 2000 finanziati con il mutuo passivo di £. 46.371.517.143 iscritto al capitolo n. 11456 delle entrate" allegata al bilancio di previsione 2000, parzialmente modificata dalla <rif xlink:href="urn:nir:regione.molise:legge:2000-09-07;39">legge regionale 7 settembre 2000, n. 39</rif>, risulta variata come di seguito riportato:  
+ 
+CAPITOLO      IMPORTO 
+ 
+9227   Lire  9.030.992.828  
+ 
+11500   Lire  2.000.000.000  
+ 
+11520   Lire  3.500.000.000  
+ 
+12308   Lire     150.000.000  
+ 
+12525   Lire  4.033.250.410  
+ 
+12540   Lire  2.558.780.805  
+ 
+12570   Lire  5.000.000.000  
+ 
+13722   Lire 1 00.0 000.000  
+ 
+14131   Lire  2.962.493.100  
+ 
+15800   Lire     150.000.000  
+ 
+18216   Lire     200.000.000 
+ 
+18233  Lire     300.000.000 
+ 
+18720  Lire       50.000.000 
+ 
+18722  Lire  4.400.000.000 
+ 
+20702  Lire       50.000.000 
+ 
+22910  Lire       50.000.000 
+ 
+*23605  Lire     350.000.000 
+ 
+23610  Lire     100.000.000 
+ 
+*23615  Lire</rubrica><?error Marker Warning 103 (last articolo:3 next:5)?>
+                <comma id="art3-com1">
+                    <num>  1.</num>
+                    <corpo>000.000.000 
+ 
+23625  Lire  4.000.000.000 
+ 
+23711  Lire     400.000.000 
+ 
+36407  Lire  3.047.000.000 
+ 
+*36680  Lire  1.300.000.000 
+ 
+49788  Lire     839.000.000 
+ 
+53170  Lire     100.000.000 
+ 
+50850  Lire     700.000.000 
+ 
+TOTALE           Lire 46.371.517.143 
+ 
+*Differenza A.F. e E.P. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error Art. 8 
+ 
+(Pubblicazione)  
+ 
+La presente legge &#xE8; dichiarata urgente ed entra in vigore nello stesso giorno della sua pubblicazione nel Bollettino Ufficiale della Regione.  
+ 
+&#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise.  
+ 
+All. Tabella "A" omissis 
+ 
+All. Tabella "B" omissis 
+
+?>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19840816" num="17" tipo="BURM"/>
+                <entratainvigore norm="19840831"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1984-07-30;17"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.Agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 17 del 16/08/84 
+ 
+Oggetto 
+Agricoltura - Coltivazione - Attrazzature e macchine - Interventi Destinatari - Procedure 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. / art. art. 1, primo comma, lettera ff) 
+ 
+Modifiche 
+Modificato art. 2 dalla legge n. 9/1986 art. 1 
+Modificato art. 3 dalla legge n. 9/1986 art. 2 
+Modificato art. 4 dalla legge n. 9/1986 art. 3 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19840730">30 Luglio 1984</dataDoc>, n. <numDoc>17</numDoc>
+            <titoloDoc>Interventi a favore degli imprenditori agricoli per l'acquisto di mezzi ed attrezzature tecniche o secondarie per l'attività agricola 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. / art. art. 1, primo comma, lettera ff)</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+ 
+ 
+
+?>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19840216" num="3" tipo="BURM"/>
+                <entratainvigore norm="19840302"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1984-01-31;2"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="06.Consiglieri regionali e gruppi consiliari"/>
+                </materie>
+            </descrittori>
+        </meta><?error 06.Consiglieri regionali e gruppi consiliari 
+ 
+Bollettino 
+Bollettino Ufficiale n. 03 del 16/02/84 
+ 
+Oggetto 
+Consiglieri regionali - Previdenza - Indennit&#xE0; - Disciplina - Integrazioni - Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19840131">31 Gennaio 1984</dataDoc>, n. <numDoc>2</numDoc>
+            <titoloDoc>Modifiche alla <rif
+                    xlink:href="urn:nir:regione.molise:legge:1974-09-05;16">legge regionale 5 settembre 1974, n. 16</rif>: &lt;&lt;Norme sulla previdenza dei Consiglieri Regionali - Integrazioni e modificazioni della <rif xlink:href="urn:nir:regione.molise:legge:1972-03-31;3">legge regionale 31 marzo 1972, n. 3</rif>&gt;&gt; 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art1-com1-mod1">
+A decorrere dal 1° gennaio 1983 il <rif
+                                xlink:href="urn:nir:regione.molise:legge:1974-09-05;16#art4-com2">secondo comma dell'articolo 4 della legge regionale 5 settembre 1974, n. 16</rif>, è sostituito dal  seguente: 
+ 
+&lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir1" tipo="parola">I consiglieri che entrano in carica in tempo successivo alla proclamazione degli eletti possono riscattare per i fini di pensione il periodo di legislatura antecedente la loro proclamazione   versando le quote contributive relative al periodo stesso. In tali casi il contributo commisurato alla misura dell'indennità in godimento all'atto della domanda</virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art2-com1-mod2">
+A decorrere dal 1° gennaio 1983, alla fine dell'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1974-09-05;16#art27-com1">articolo 27, primo comma, della legge regionale 5 settembre 1974, n. 16</rif> è inserito il comma seguente: 
+ 
+&lt;&lt;<virgolette
+                                id="art2-com1-mod2-vir2" tipo="parola">Una somma pari al premio previsto dalla lettera a) del comma precedente è altresì attribuita agli aventi causa del Consigliere Regionale deceduto nel corso della legislatura</virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art3-com1-mod3">
+A decorrere dal 1° gennaio 1983 il primo e <rif
+                                xlink:href="urn:nir:regione.molise:legge:1974-09-05;16#art28-com2">secondo comma dell'articolo 28 della legge regionale 5 settembre 1974, n.16</rif> sono  sostituiti dai seguenti: 
+ 
+&lt;&lt;<virgolette
+                                id="art3-com1-mod3-vir3" tipo="parola">La misura dell'indennità è stabilita, per ogni anno di mandato  esercitato, in una mensilità dell'indennità lorda prevista per la carica di Consigliere Regionale, in godimento nel corso del mese in cui si verifica la cessazione dalla carica, fino ad un massimo di 10 mensilità. <h:br/>
+                                <h:br/>
+Ai fini del computo del periodo di mandato, la frazione di anno si considera come anno intero, purché sia di durata non inferiore a sei mesi e un giorno</virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto</rif>, ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

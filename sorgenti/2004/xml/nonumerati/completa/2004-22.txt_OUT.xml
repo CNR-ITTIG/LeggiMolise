@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2004-08-31;18"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="35.Tributi"/>
+                </materie>
+            </descrittori>
+        </meta><?error 35.Tributi 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 18 del 16 settembre 2004 
+ 
+Oggetto 
+Tributo speciale per il deposito in discarica dei rifiuti solidi - Disciplina - Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20040831">31 agosto 2004</dataDoc>, n. <numDoc>18</numDoc>. 
+ 
+<titoloDoc>Modifiche ed integrazioni alla <rif xlink:href="urn:nir:regione.molise:legge:2003-01-13;1">legge regionale 13 gennaio 2003, n. 1</rif>, concernente: "Disposizioni per l'applicazione del tributo speciale per il deposito in discarica dei rifiuti solidi". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art1-com1-mod1">
+1. L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2003-01-13;1#art6">articolo 6 della legge regionale 13 gennaio 2003, n. 1</rif> (Disposizioni per l'applicazione del tributo speciale per il deposito in discarica dei rifiuti solidi, di cui all'<rif
+                                xlink:href="urn:nir:stato:legge:1995-12-28;549#art3">articolo 3 della legge 28 dicembre 1995, n. 549</rif>) è sostituito dal seguente: 
+ 
+"<virgolette
+                                id="art1-com1-mod1-vir1" tipo="struttura">
+                                <articolo id="art0">
+                                    <num>Art. 6</num>
+                                    <rubrica>(Determinazione dell'imposta) 
+ 
+</rubrica>
+                                    <comma id="art0-com1">
+                                    <num/>
+                                    <alinea>1. L'ammontare del tributo speciale è determinato, a decorrere dal 1 ° gennaio 2003, come segue: 
+ 
+</alinea>
+                                    <el id="art0-com1-leta">
+                                    <num>a)</num>
+                                    <alinea> per le categorie di rifiuti dei settori minerario, estrattivo, edilizio, lapideo e metallurgico: 
+ 
+</alinea>
+                                    <en id="art0-com1-leta-num1">
+                                    <num>1)</num>
+                                    <corpo> Euro 0,0053 per chilogrammo conferito in discarica per i rifiuti elencati nell'allegato 3 al decreto ministeriale 18 luglio 1996;</corpo>
+                                    </en>
+                                    <en id="art0-com1-leta-num2">
+                                    <num> 
+ 
+2)</num>
+                                    <corpo> Euro 0,0042 per chilogrammo conferito in discarica per i rifiuti elencati nell'allegato 4 al decreto ministeriale 18 luglio 1996 che presentano le caratteristiche di cui all'allegato 3 del decreto ministeriale 5 settembre 1994;</corpo>
+                                    </en>
+                                    <en id="art0-com1-leta-num3">
+                                    <num> 
+ 
+3)</num>
+                                    <corpo> Euro 0,0031 per chilogrammo conferito in discarica per tutti gli altri rifiuti;</corpo>
+                                    </en>
+                                    </el>
+                                    <el id="art0-com1-letb">
+                                    <num> 
+ 
+b)</num>
+                                    <alinea> per gli altri rifiuti speciali: 
+ 
+</alinea>
+                                    <en id="art0-com1-letb-num1">
+                                    <num>1)</num>
+                                    <corpo> Euro 0,008 per ogni chilogrammo di rifiuto conferito in discarica;</corpo>
+                                    </en>
+                                    </el>
+                                    <el id="art0-com1-letc">
+                                    <num> 
+ 
+c)</num>
+                                    <alinea> per i restanti tipi di rifiuti: 
+ 
+</alinea>
+                                    <en id="art0-com1-letc-num1">
+                                    <num>1)</num>
+                                    <corpo> Euro 0,0105 per ogni chilogrammo di rifiuto conferito in discarica. </corpo>
+                                    </en>
+                                    </el>
+                                    </comma>
+                                    <comma id="art0-com1">
+                                    <num>
+ 
+2.</num>
+                                    <alinea>*  L'ammontare del tributo speciale è determinato, a decorrere dal 1° gennaio 2005, come segue: 
+ 
+</alinea>
+                                    <el id="art0-com1-leta">
+                                    <num>a)</num>
+                                    <alinea> per le categorie di rifiuti dei settori minerario, estrattivo, edilizio, lapideo e metallurgico: 
+ 
+</alinea>
+                                    <en id="art0-com1-leta-num1">
+                                    <num>1)</num>
+                                    <corpo> Euro 0,0106 per chilogrammo conferito in discarica per i rifiuti elencati nell'allegato 3 al decreto ministeriale 18 luglio 1996;</corpo>
+                                    </en>
+                                    <en id="art0-com1-leta-num2">
+                                    <num> 
+ 
+2)</num>
+                                    <corpo> Euro 0,0084 per chilogrammo conferito in discarica per i rifiuti elencati nell'allegato 4 al decreto ministeriale 18 luglio 1996 che presentano le caratteristiche di cui all'allegato 3 del decreto ministeriale 5 settembre 1994;</corpo>
+                                    </en>
+                                    <en id="art0-com1-leta-num3">
+                                    <num> 
+ 
+3)</num>
+                                    <corpo> Euro 0,0062 per chilogrammo conferito in discarica per tutti gli altri rifiuti;</corpo>
+                                    </en>
+                                    </el>
+                                    <el id="art0-com1-letb">
+                                    <num> 
+ 
+b)</num>
+                                    <alinea> per gli altri rifiuti speciali: 
+ 
+</alinea>
+                                    <en id="art0-com1-letb-num1">
+                                    <num>1)</num>
+                                    <corpo> Euro 0,0103 per ogni chilogrammo di rifiuti conferito in discarica;</corpo>
+                                    </en>
+                                    </el>
+                                    <el id="art0-com1-letc">
+                                    <num> 
+ 
+c)</num>
+                                    <alinea> per i restanti tipi di rifiuti: 
+ 
+</alinea>
+                                    <en id="art0-com1-letc-num1">
+                                    <num>1)</num>
+                                    <corpo> Euro 0,021 per ogni chilogrammo di rifiuto conferito in discarica. 
+ 
+* La Corte Costituzionale ha dichiarato la illegittimità costituzionale del presente comma con la sentenza n. 397/2005, per la parte in cui prevede l'aumento del tributo speciale con decorrenza dal 1° gennaio</corpo>
+                                    </en>
+                                    </el>
+                                    </comma>
+                                    <comma id="art0-com1">
+                                    <num> 2005.</num>
+                                    <corpo> Per cui l'aumento del tributo speciale, previsto dal presente comma, acquista efficacia dal 1° gennaio 2006. </corpo>
+                                    </comma>
+                                    <comma id="art0-com1">
+                                    <num>
+ 
+3.</num>
+                                    <corpo> L'ammontare del tributo speciale è fissato con legge regionale entro il 31 luglio di ogni anno, con effetto per l'anno successivo. In caso contrario si intende prorogata, per l'anno successivo, la misura vigente. </corpo>
+                                    </comma>
+                                    <comma id="art0-com1">
+                                    <num>
+ 
+4.</num>
+
+                                    <corpo> Il tributo speciale si determina moltiplicando l'ammontare del tributo stesso per il quantitativo, espresso in chilogrammi, dei rifiuti conferiti in discarica, nonché con il coefficiente di correzione, se stabilito, di cui al comma 29, ultima parte, dell'<rif xlink:href="urn:nir:stato:legge:1995-12-28;549#art3">articolo 3 della legge 28 dicembre 1995, n. 549</rif>. </corpo>
+                                    </comma>
+                                    <comma id="art0-com1">
+                                    <num>
+ 
+5.</num>
+                                    <corpo> Il fondo regionale, di cui all'articolo 4, comma 3, sarà incrementato, per l'anno 2005, per importo pari a quello dell'intero maggior gettito previsto per lo stesso anno rispetto all'anno 2004, nonché per importo pari alle economie di spesa realizzate sino a tutto l'anno 2004. L'utilizzo del predetto fondo, per le finalità previste dallo stesso articolo 4, comma 3, avrà luogo secondo i criteri, le priorità e le tipologie di intervento che saranno stabiliti con un apposito piano che la Giunta regionale sottoporrà all'approvazione dei Consiglio regionale entro il 30 giugno 2005</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette>". </mod>
+                    </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+                    <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

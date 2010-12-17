@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19770816" num="15" tipo="BURM"/>
+                <entratainvigore norm="19770831"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1977-08-01;22"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="11.Enti locali, comunit&amp;#xE0; montane"/>
+                </materie>
+            </descrittori>
+        </meta><?error 11.Enti locali, comunit&#xE0; montane 
+21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 15 del 16/08/77 
+ 
+Oggetto 
+Consorzi di bonifica montana - Personale - Inquadramento 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19770801">1 Agosto 1977</dataDoc>, n. <numDoc>22</numDoc>
+            <titoloDoc>Modificazioni all'<rif xlink:href="urn:nir:regione.molise:legge:1976-06-25;19#art4">art.4 della legge regionale 25 giugno 1976, n.19</rif>
+            </titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+L'<rif
+                        xlink:href="urn:nir:regione.molise:legge:1976-06-25;19#art4">articolo 4 della legge regionale 25 giugno 1976, n.19</rif> è così modificato: 
+ 
+&lt;&lt; Il personale di ruolo e quello assunto a tempo indeterminato, in servizio presso i soppressi Enti alla data del 31 dicembre 1974, sarà collocato a domanda, da presentarsi entro il termine   perentorio di trenta giorni dall'entrata in vigore della presente legge, nel ruolo unico regionale ed inquadrato nei livelli funzionali di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1974-08-31;11#art3">art. 3 della legge regionale 31 agosto 1974, n. 11</rif> e 12 e sulla base della seguente tabella di equiparazione: 
+ 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+        <annessi>
+            <annesso id="ann1">
+                <testata>
+                    <denAnnesso>
+                        <h:p>                             TABELLA A</h:p>
+                    </denAnnesso>
+                    <titAnnesso>
+                        <h:p/>
+                    </titAnnesso>
+                    <preAnnesso>
+                        <h:p/>
+                    </preAnnesso>
+                </testata>
+                <DocumentoNIR nome="">
+                    <meta>
+                        <descrittori>
+                            <pubblicazione norm="" num="" tipo="GU"/>
+                            <entratainvigore norm=""/>
+                            <redazione id="ann1-red1" nome="" norm=""/>
+                            <urn valore=""/>
+                        </descrittori>
+                    </meta>
+                    <intestazione/>
+                    <formulainiziale/>
+                    <contenitore id="ann1-" nome="">
+                        <h:p/>
+                        <h:p>- Categorie e classi dei vigenti contratti collettivi nazionali di lavoro per i dipendenti dei Consorzi di Bonifica Montana 
+ 
+                                                           </h:p>
+                        <h:p>Livelli funzionali 
+ 
+   </h:p>
+                        <h:p>- Categoria 2ø Classe 1ø, 2ø, 3ø, 4ø, 5ø       Concetto 
+ 
+   </h:p>
+                        <h:p>- Categoria 3ø Classe 1ø, 2ø, 3ø, 4ø, 5ø       Esecutivo 
+ 
+   </h:p>
+                        <h:p>- Categoria 4ø A Classe 3ø                     Ausiliario 
+ 
+</h:p>
+                        <h:p>Il personale di cui al <rif xlink:href="#art1-com1">primo comma</rif> del presente articolo è costituito da venti dipendenti e ripartito in categorie e classi come risulta dalla seguente Tabella B: 
+</h:p>
+                        <h:p/>
+                    </contenitore>
+                    <formulafinale/>
+                    <conclusione/>
+                </DocumentoNIR>
+            </annesso>
+            <annesso id="ann2">
+                <testata>
+                    <denAnnesso>
+                        <h:p>                             TABELLA B</h:p>
+                    </denAnnesso>
+                    <titAnnesso>
+                        <h:p/>
+                    </titAnnesso>
+                    <preAnnesso>
+                        <h:p/>
+                    </preAnnesso>
+                </testata>
+                <DocumentoNIR nome="">
+                    <meta>
+                        <descrittori>
+                            <pubblicazione norm="" num="" tipo="GU"/>
+                            <entratainvigore norm=""/>
+                            <redazione id="ann2-red1" nome="" norm=""/>
+                            <urn valore=""/>
+                        </descrittori>
+                    </meta>
+                    <intestazione/>
+                    <formulainiziale/>
+                    <contenitore id="ann2-" nome="">
+                        <h:p/>
+                        <h:p>Categorie e classi dei vigenti contratti collettivi nazionali di lavoro per i dipendenti dei Consorzi di Bonifica Montana 
+ 
+                                                      </h:p>
+                        <h:p>Numero dipendenti 
+ 
+   </h:p>
+                        <h:p>- Categoria 2ø Classe 1ø, 2ø, 3ø, 4ø, 5ø           12 
+ 
+   </h:p>
+                        <h:p>- Categoria 3ø Classe 1ø, 2ø, 3ø, 4ø, 5ø           7 
+ 
+   </h:p>
+                        <h:p>- Categoria 4ø A Classe 3ø                            1 
+ 
+                                                                </h:p>
+                        <h:p>____ 
+ 
+                                                                  </h:p>
+                        <h:p>20 
+ 
+</h:p>
+                        <h:p>Il collocamento nel ruolo regionale decorre dalla data di entrata   in vigore della presente legge. 
+</h:p>
+                        <h:p> 
+ Art. 2 
+ 
+</h:p>
+                        <h:p>La presente legge sarà pubblicata nel Bollettino Ufficiale della   Regione. 
+</h:p>
+                        <h:p> 
+È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</h:p>
+                        <h:p/>
+                    </contenitore>
+                    <formulafinale/>
+                    <conclusione/>
+                </DocumentoNIR>
+            </annesso>
+        </annessi>
+    </LeggeRegionale>
+</NIR>

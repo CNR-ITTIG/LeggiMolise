@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19780616" num="11" tipo="BURM"/>
+                <entratainvigore norm="19780701"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1978-06-03;11"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.Agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 11 del 16/06/78 
+ 
+Oggetto 
+Agricoltura - Sementi selezionate - Contributi - Procedure - Modifiche 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 31/2000 art. 1, primo comma, lettera s) 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19780603">3 Giugno 1978</dataDoc>, n. <numDoc>11</numDoc>
+            <titoloDoc>Modifica all'<rif xlink:href="urn:nir:regione.molise:legge:1975-12-19;47#art3">art. 3 della legge regionale 19 dicembre 1975, n. 47</rif>, avente ad oggetto: &lt;&lt; Provvidenze per l'acquisto di sementi selezionate &gt;&gt; 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 31/2000 art. 1, primo comma, lettera s)</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo, a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

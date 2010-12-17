@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19900301" num="4" tipo="BURM"/>
+                <entratainvigore norm="19900316"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1990-02-21;9"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 04 del 01/03/90 
+ 
+Oggetto 
+Programmazione - Soggetti - Contenuti - Procedure 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19900221">21 Febbraio 1990</dataDoc>, n. <numDoc>9</numDoc>
+            <titoloDoc>Norme sulle procedure della programmazione regionale. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ART. 1</num>
+                <rubrica>: FINALITÀ DELLA PROGRAMMAZIONE 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo> 
+1. La Regione adempie ai compiti di programmazione previsti dallo <rif
+                            xlink:href="urn:nir:regione.molise:statuto:">Statuto</rif>, dalle leggi dello Stato e dalle leggi della Regione, mediante gli atti e con le procedure di cui alle presenti norme; essa pertanto, impronta la propria azione legislativa, regolamentare ed amministrativa al metodo della programmazione. 
+ 
+2. Per il conseguimento delle finalità della Programmazione indicate all'<rif xlink:href="urn:nir:regione.molise:statuto:#art4">art. 4 dello Statuto</rif>, la Regione adotta il Piano regionale di sviluppo (PRS), il quale stabilisce gli indirizzi e gli obiettivi cui deve tendere il processo programmatorio; indica gli istituti normativi e i mezzi finanziari per attuare gli obiettivi stessi, individua gli interventi necessari e detta norme sul ruolo della Regione nella formazione ed attuazione della politica economica nazionale.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ART. 2</num>
+                <rubrica>: SOGGETTO DELLA PROGRAMMAZIONE REGIONALE 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo> 
+1. Soggetto della programmazione regionale è l'Ente Regione. 
+ 
+2. La programmazione regionale è attuata, nell'ambito delle rispettive competenze, dagli organi regionali. 
+ 
+3. La Giunta Regionale assicura la coerenza dei singoli interventi agli indirizzi ed obiettivi del   PRS, proponendo i provvedimenti necessari a garantire l'organica attuazione del metodo   programmatorio.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>ART. 3</num>
+                <rubrica>: PARTECIPAZIONE ALLA PROGRAMMAZIONE 
+</rubrica>
+                <comma id="art3-com1">
+                    <num/>
+
+                    <corpo> 
+1. Per la definizione degli indirizzi e delle scelte programmatiche del PRS, la Regione si avvale del concorso degli enti locali e della partecipazione dei sindacati dei lavoratori, delle organizzazioni di categoria, degli organismi economici e delle altre forze sociali. 
+ 
+2. La partecipazione al processo di programmazione si attua nella fase di formazione del PRS e nella sua attuazione e gestione. 
+ 
+3. La Giunta Regionale, al fine di consentire l'effettiva partecipazione al processo   programmatico, promuove la consultazione dei soggetti di cui al <rif xlink:href="#art3-com1">comma I</rif> già nella fase di   elaborazione del PRS, predisponendo eventualmente anche un documento preliminare di sintesi sulle scelte programmatiche per la consultazione. 
+ 
+4. La Giunta Regionale organizza periodicamente seminari, convegni, dibattiti per   l'approfondimento di temi specifici del PRS e dei piani di settore. 
+ 
+5. Tali enti locali concorrono alla formazione del piano anche attraverso proposte formulate dai   rispettivi organi consiliari, che la Regione deve valutare.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>ART. 4</num>
+                <rubrica>: CONTENUTO DEL PRS 
+</rubrica>
+                <comma id="art4-com1">
+                    <num/>
+                    <alinea> 
+1. Il Piano Regionale di Sviluppo: 
+ 
+</alinea>
+                    <el id="art4-com1-leta">
+                        <num>a)</num>
+                        <corpo> definisce, sulla base delle linee della programmazione nazionale contenute nella &lt;&lt;Relazione Generale sulla situazione economica del Paese&gt;&gt; e di un quadro di riferimento fondato sull'analisi della situazione economica e sociale della Regione, gli obiettivi di sviluppo economico e di assetto del territorio e formula le politiche per il loro conseguimento;</corpo>
+                    </el>
+                    <el id="art4-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> valuta la disponibilità delle risorse finanziarie per l'attuazione del PRS, definisce i criteri e le   modalità d'impiego delle risorse stesse in relazione agli obiettivi, determina le priorità   d'intervento, fornisce i termini di riferimento al bilancio pluriennale;</corpo>
+                    </el>
+                    <el id="art4-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> coordina gli interventi di propria competenza con quelli predisposti dallo Stato e con quelli   promossi dagli Enti locali territoriali, nell'ambito delle rispettive competenze. </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>ART. 5</num>
+                <rubrica>: DOCUMENTO COSTITUTIVO DEL PRS 
+</rubrica>
+                <comma id="art5-com1">
+                    <num/>
+                    <alinea> 
+1. Il PRS si articola nei seguenti documenti: 
+ 
+</alinea>
+                    <el id="art5-com1-leta">
+                        <num>a)</num>
+                        <corpo> relazione sulla situazione socio-economica della Regione, in cui vengono posti in evidenza la   situazione economica e le tendenze nell'assetto territoriale della Regione, lo stato d'attuazione   della programmazione regionale, l'efficacia degli strumenti normativi e finanziari utilizzati,   l'efficacia amministrativa degli apparati preposti all'attuazione;</corpo>
+                    </el>
+                    <el id="art5-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> documento di programma, in cui viene delineato il quadro economico di riferimento ed in particolare vengono indicati gli obiettivi di sviluppo economico e di assetto del territorio e le conseguenti azioni programmatiche;</corpo>
+                    </el>
+                    <el id="art5-com1-letc">
+                        <num> 
+ 
+c)</num>
+
+                        <corpo> documento programmatico - finanziario, in cui vengono individuati i progetti organici in cui il   PRS si articola ed i relativi stanziamenti da includere nelle previsioni del bilancio pluriennale di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1977-12-03;44">legge regionale 3 dicembre 1977, n. 44</rif>. </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>ART. 6</num>
+                <rubrica>: EFFICACIA DEL PRS 
+</rubrica>
+                <comma id="art6-com1">
+                    <num/>
+
+                    <corpo> 
+1. Il PRS costituisce il quadro di riferimento per tutte le attività che si svolgono sul territorio   regionale. 
+ 
+2. Esso ha efficacia di indirizzo, di coordinamento e di vincolo per le attività proprie della Regione, degli enti locali per le materie delegate dalla Regione, degli enti ed aziende dipendenti, o comunque collegati alla Regione e, nei limiti entro i quali le leggi statali e regionali lo consentono, di ogni altro soggetto operante nel territorio regionale. 
+ 
+3. Il PRS ha validità pluriennale e carattere scorrevole. 
+ 
+4. Il PRS costituisce sede di coordinamento degli interventi di competenza regionale con i  programmi delle Amministrazioni dello Stato e delle aziende pubbliche nazionali aventi riflessi   sul territorio regionale, secondo quanto previsto dall'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616#art11">articolo 11 del decreto del Presidente della   Repubblica 24 luglio 1977, n. 616</rif>.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>ART. 7</num>
+                <rubrica>: PRESENTAZIONE ED APPROVAZIONE DEL PRS 
+</rubrica>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo> 
+1. La Giunta Regionale delibera la proposta di Piano e lo trasmette al Consiglio Regionale per   l'approvazione. 
+ 
+2. Il PRS è approvato dal Consiglio Regionale contestualmente al bilancio pluriennale ed al   bilancio annuale di previsione. 
+ 
+3. Il PRS viene aggiornato annualmente con le stesse procedure e modalità previste dai commi 1   e 2.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>ART. 8</num>
+                <rubrica>: ATTUAZIONE DEI PROGETTI REGIONALI 
+</rubrica>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo> 
+1. I progetti, attraverso i quali si attua il PRS, individuano le attività e gli interventi di competenza regionale in relazione ad obiettivi specificatamente indicati e verificabili. 
+ 
+2. Tali progetti costituiscono il mezzo prioritario per il conseguimento dei fondamentali obiettivi   di sviluppo economico e di riequilibrio territoriale. 
+ 
+3. I progetti di cui ai commi 1 e 2, con diretto riferimento alle risorse finanziarie da impegnare, analizzano gli effetti che si prevede di conseguire (in termini finanziari, economici, sociali ed ambientali), stabiliscono i tempi e le modalità di realizzazione degli interventi ed individuano l'assetto organizzativo ed i compiti specifici delle strutture operative e dei soggetti interessati all'attuazione. 
+ 
+4. Gli interventi non compresi in specifici progetti sono inquadrati in programmi di attività che definiscono le finalità, le risorse necessarie, le modalità di utilizzazione dei mezzi finanziari ed i corrispondenti strumenti operativi.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>ART. 9</num>
+                <rubrica>: SEGRETERIA DEL PIANO 
+</rubrica>
+                <comma id="art9-com1">
+                    <num/>
+
+                    <corpo><?error Marker Warning 108?> 
+1. È costituita la Segreteria del Piano che coadiuva la Giunta Regionale nei seguenti   adempimenti tecnici: 
+ 
+- analisi delle informazioni relative alla programmazione regionale; 
+ 
+- elaborazione, aggiornamento e verifica del PRS e dei progetti regionali di cui al <rif
+                            xlink:href="#art8">precedente art.8</rif>; individuazione ed attuazione delle linee di programmazione di bilancio e di pianificazione   territoriale; 
+ 
+- indirizzo e verifica di compatibilità e di coerenza degli strumenti di piano e dei programmi d'intervento degli Enti locali con il PRS; 
+ 
+- coordinamento dell'azione regionale con quella straordinaria e comunitaria. 
+ 
+2. È istituito presso la Segreteria del Piano un Comitato tecnico consultivo presieduto dal   componente della Giunta incaricato della Programmazione, di cui fanno parte tutti i Coordinatori degli Assessorati, i responsabili dei settori bilancio e controllo gestione e pianificazione territoriale e urbanistica, amministrazione locale nonché i direttori generali dell'ERSAM., E.R.I.M. e Finmolise, che coadiuva la Segreteria del Piano regionale sull'attività di programmazione di cui al comma precedente. 
+ 
+3. La Segreteria del Piano svolge anche compiti di segreteria del Comitato tecnico di cui al comma precedente e di quello scientifico di cui all'<rif xlink:href="#art10">art.10</rif>. 
+ 
+4. Della Segreteria del Piano fanno parte i seguenti settori: 
+ 
+- programmazione economica; 
+ 
+- statistiche; 
+ 
+- informatica ed organizzazione. 
+ 
+5. Il dirigente della Segreteria del Piano assume la denominazione di Segretario del Piano ed, oltre a svolgere le funzioni proprie di coordinatore, cui alla normativa sull'ordinamento degli Uffici, è anche responsabile del settore programmazione economica. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>ART. 10</num>
+                <rubrica>: COMITATO TECNICO - SCIENTIFICO PER IL PRS 
+</rubrica>
+                <comma id="art10-com1">
+                    <num/>
+
+                    <corpo> 
+1. È istituito presso la Segreteria del Piano di cui all'<rif
+                            xlink:href="#art9">art. 9</rif> il Comitato tecnico scientifico per il   PRS. 
+ 
+2. Il Comitato è costituito ai sensi e con le modalità di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1977-12-09;47#art18">art. 18 della legge regionale 9 dicembre 1977 n. 47</rif> ed è composto da professori universitari di ruolo e, comunque, da esperti di   chiara fama a livello nazionale. 
+ 
+3. Il Comitato è organo consultivo della Giunta Regionale per l'attività di programmazione. In   particolare collabora con la Segreteria del Piano e formula pareri, su richiesta della Giunta   regionale, in relazione: 
+ 
+- alla elaborazione di indirizzi programmatici del P.R.S e dei suoi documenti consultivi; 
+ 
+- alla specificazione degli obiettivi e delle procedure da determinarsi con leggi di spesa; 
+ 
+- alla definizione delle metodologie per il controllo dei risultati conseguiti per effetto degli interventi realizzati; 
+ 
+- alla formulazione di studi e ricerche di interesse regionale; 
+ 
+- ad ogni altra questione ritenuta di grande interesse.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>ART. 11</num>
+                <rubrica>: NUCLEO PER LA VALUTAZIONE TECNICO-AMMINISTRATIVA DEI PROGETTI E DEI PROGRAMMI DI INVESTIMENTO DI CARATTERE STRAORDINARIO 
+</rubrica>
+                <comma id="art11-com1">
+                    <num/>
+
+                    <corpo> 
+1. È istituito presso la Segreteria del Piano di cui all'<rif xlink:href="#art9">art. 9</rif> il Nucleo per la valutazione tecnico-amministrativa dei progetti e dei programmi di investimenti di carattere straordinario. 
+ 
+2. Il Nucleo esprime parere sui progetti da inserire in programmi con finanziamento, anche   parziale, a carico dell'intervento straordinario per il Mezzogiorno. Il Nucleo, in particolare, valuta e verifica: 
+ 
+- il progetto dal punto di vista ingegneristico; 
+ 
+- la coerenza della valutazione economico-finanziaria del progetto (così come inviata dal   settore Programmazione) con le soluzioni tecnico-ingegneristiche adottate; 
+ 
+- l'iter, le procedure e quindi i tempi di realizzabilità dell'intervento proposto. 
+ 
+3. Il Nucleo presieduto dal componente della Giunta titolare della Programmazione, o da suo   delegato è composto da: 
+ 
+- funzionari tecnici di livello dirigenziale della Regione e degli enti strumentali regionali; 
+ 
+- funzionari dell'Agenzia per lo sviluppo del Mezzogiorno; 
+ 
+- esperti tecnici e amministrativi nominati dalla Giunta.</corpo>
+                </comma>
+                <comma id="art11-com2">
+                    <num/>
+
+                    <corpo>Alla costituzione del Nucleo provvede la Giunta Regionale che ne determina la durata, le modalità di lavoro nonché l'entità degli eventuali compensi e rimborsi spese da corrispondere agli esperti esterni secondo le modalità ed i criteri di cui alla <rif
+                            xlink:href="urn:nir:regione.molise:legge:1972-10-13;13">legge regionale 13 ottobre 1972, n. 13</rif>. 
+ 
+4. Il parere del Nucleo di valutazione sostituisce a tutti gli effetti il parere del Comitato tecnico-amministrativo di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1979-07-14;19#art10">articolo 10 della legge regionale 14 luglio 1979 n. 19</rif> e viene espresso successivamente all'approvazione del progetto da parte dell'ente proponente.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>ART. 12</num>
+                <rubrica>: NORMA FINALE 
+</rubrica>
+                <comma id="art12-com1">
+                    <num/>
+                    <corpo> 
+1. In applicazione dell'<rif
+                            xlink:href="urn:nir:presidente.repubblica:decreto:1987-05-13;268#art43">art. 43 del Decreto del Presidente della Repubblica del 13 maggio 1987   n.268</rif>, la Giunta regionale può procedere fino alla copertura di non più di sette posti previsti nelle   dotazioni organiche della prima e seconda qualifica dirigenziale dei settori, Programmazione economica, Statistiche, Bilancio e Controllo di gestione, Pianificazione territoriale e urbanistica, mediante assunzione con contratto di lavoro a tempo determinato di durata non superiore a cinque anni, fermo restando il possesso dei requisiti richiesti per l'accesso dall'esterno di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1985-04-29;13">legge regionale 29 aprile 1985 n. 13</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>ART. 13</num>
+                <rubrica>: NORMA TRANSITORIA 
+</rubrica>
+                <comma id="art13-com1">
+                    <num/>
+
+                    <corpo> 
+1. Nelle more della costituzione del Nucleo di valutazione di cui all'<rif
+                            xlink:href="#art11">art. 11</rif>, le funzioni attribuite allo stesso, sono esercitate dal Comitato Tecnico Amministrativo Regionale (C.T.A.R.) di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1979-07-14;19">legge regionale n. 19 del 14 luglio 1979</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>ART. 14</num>
+                <rubrica>: DICHIARAZIONE D'URGENZA 
+</rubrica>
+                <comma id="art14-com1">
+                    <num/>
+
+                    <corpo> 
+1. La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38   dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

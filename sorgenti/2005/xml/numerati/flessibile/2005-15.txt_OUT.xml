@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2005-11-11;38"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.Agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 33 del 16 novembre 2005 
+ 
+Oggetto 
+Agricoltura biologica -Regolamentazione - Prodotti - Controlli e vigilanza - Incentivi  
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20051111">11 novembre 2005</dataDoc>, n. <numDoc>38</numDoc>
+            <titoloDoc>Norme per l'agricoltura biologica. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ARTICOLO 1 </num>
+                <rubrica>
+ 
+Finalità 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>  La Regione Molise, allo scopo di tutelare la salute dei produttori e dei consumatori e di consentire un'adeguata remunerazione dell'attività agricola compatibile con la protezione dell'ambiente naturale e con le tradizioni della civiltà rurale molisana, promuove e sostiene la produzione, la trasformazione, la conservazione e la commercializzazione dei prodotti ottenuti con metodi di agricoltura biologica. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ARTICOLO 2 </num>
+                <rubrica>
+ 
+Definizione 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+
+                    <corpo>  Per "agricoltura biologica" si intende l'attività di produzione agricola e zootecnica condotta secondo le norme dettate dai Regolamenti CE n. 2092/1991, n. 1804/ 1999 e successive modifiche ed integrazioni, dal <rif xlink:href="urn:nir:stato:decreto.legislativo:1995;220">decreto legislativo n. 220/1995</rif>, nonché dalla relativa normativa nazionale di attuazione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>ARTICOLO 3 </num>
+                <rubrica>
+ 
+Elenco regionale degli operatori dell'agricoltura biologica 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+
+                    <corpo>  È istituito l'elenco regionale degli operatori singoli o associati dell'agricoltura biologica nei modi previsti dagli articoli 6 e 8 del <rif xlink:href="urn:nir:stato:decreto.legislativo:1995-03-17;220">decreto legislativo n. 220 del 17 marzo 1995</rif>. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo>  La composizione e l'aggiornamento dell'elenco di cui al <rif xlink:href="#art3-com1">comma 1</rif> è curata dall'Assessorato regionale alle Politiche Agricole, sulla base degli elenchi dei produttori singoli o associati che hanno effettuato la notifica e che sono stati riconosciuti idonei dagli organismi di controllo autorizzati. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>ARTICOLO 4 </num>
+                <rubrica>
+ 
+Obblighi delle aziende iscritte nell'elenco regionale degli operatori biologici 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <alinea> I titolari delle aziende iscritte nell'elenco regionale degli operatori biologici sono obbligati a: 
+ 
+</alinea>
+                    <el id="art4-com1-leta">
+                        <num>a)</num>
+                        <corpo>  rispettare le disposizioni del <rif
+                                xlink:href="urn:nir:comunita.europee:regolamento:1991;2092">Regolamento CEE n. 2092/1991</rif> e successive modifiche ed integrazioni, del <rif xlink:href="urn:nir:stato:decreto.legislativo:1995-03-17;220">decreto legislativo n. 220 del 17 marzo 1995</rif>, nonché di quelle contenute nei provvedimenti di attuazione emanati a livello nazionale e regionale;</corpo>
+                    </el>
+                    <el id="art4-com1-letb">
+                        <num> 
+ 
+b)</num>
+
+                        <corpo>  sottoporsi ai controlli previsti all'<rif xlink:href="#art5">articolo 5</rif>;</corpo>
+                    </el>
+                    <el id="art4-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo>  utilizzare i mezzi tecnici ammessi dalla regolamentazione comunitaria;</corpo>
+                    </el>
+                    <el id="art4-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <alinea>  operare un'adeguata attività di tutela del territorio attraverso: 
+ 
+</alinea>
+                        <en id="art4-com1-letd-num1">
+                            <num>1.</num>
+                            <corpo> l'adozione delle tradizionali rotazioni colturali;</corpo>
+                        </en>
+                        <en id="art4-com1-letd-num2">
+                            <num> 
+ 
+2.</num>
+                            <corpo> la realizzazione di sistemazioni idraulicoagrarie nelle aree collinari e montane;</corpo>
+                        </en>
+                        <en id="art4-com1-letd-num3">
+                            <num> 
+ 
+3.</num>
+                            <corpo> l'interramento od il recupero dei residui colturali con l'espresso divieto della loro bruciatura in qualsiasi periodo dell'anno;</corpo>
+                        </en>
+                    </el>
+                    <el id="art4-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <alinea> notificare tempestivamente, mediante raccomandata con avviso di ricevimento da inoltrare alla Regione e all'organismo di controllo prescelto: 
+ 
+</alinea>
+                        <en id="art4-com1-lete-num1">
+                            <num>1.</num>
+                            <corpo> ogni variazione dei dati aziendali eventualmente intervenuta;</corpo>
+                        </en>
+                        <en id="art4-com1-lete-num2">
+                            <num> 
+ 
+2.</num>
+                            <corpo> la volontà di recedere dal sistema di controllo. 
+ 
+</corpo>
+                        </en>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>ARTICOLO 5 </num>
+                <rubrica>
+ 
+Controlli 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+
+                    <corpo>  Le attività di controllo nelle aziende iscritte nell'elenco regionale di cui all'<rif
+                            xlink:href="#art3">art. 3</rif> sono svolte dagli organismi autorizzati ai sensi del <rif xlink:href="urn:nir:stato:decreto.legislativo:1995-03-17;220">decreto legislativo n. 220 del 17 marzo 1995</rif>, e successive modifiche ed integrazioni. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo>  Qualora l'organismo di controllo accerti la perdita dei requisiti di idoneità dell'operatore biologico è tenuto a darne tempestiva comunicazione alla struttura di cui all'<rif
+                            xlink:href="#art6">articolo 6</rif>, che provvede alla comminazione delle sanzioni previste all'<rif xlink:href="#art2">art. 2</rif>. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo>  La vigilanza sugli organismi di controllo autorizzati viene esercitata, ai sensi del <rif xlink:href="urn:nir:stato:decreto.legislativo:1995-03-17;220">decreto legislativo n. 220 del 17 marzo 1995</rif>, oltre che dal Ministero delle Politi-che agricole e forestali, anche dalla Regione Molise. </corpo>
+                </comma>
+                <comma id="art5-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo>  L'Assessorato regionale alle Politiche agricole, per mezzo della struttura di cui all'<rif
+                            xlink:href="#art6">art. 6</rif>, è incaricato della vigilanza sull'attività di controllo svolta dagli organismi di cui al <rif
+                            xlink:href="#art5-com1">comma 1</rif> secondo criteri e procedure approvati con provvedimento della Giunta regionale. Lo stesso Assessorato è altresì incaricato di svolgere ispezioni e controlli annuali a campione su tutte le aziende iscritte nell'elenco regionale degli operatori dell'agricoltura biologica in numero non inferiore al cinque per cento degli operatori; tali controlli sono riferiti alla verifica del rispetto della normativa comunitaria in materia di produzione, trasformazione, commercializzazione ed etichettatura dei prodotti di cui all'<rif
+                            xlink:href="urn:nir:comunita.europee:regolamento:1991;2092#art1">art. 1 del Regolamento CEE n. 2092/1991</rif>, e successive modifiche ed integrazioni, ed in particolare il <rif xlink:href="urn:nir:comunita.europee:regolamento:1999;1804">Regolamento CE n. 1804/1999</rif>, potendosi aggiungere a quelli previsti per l'erogazione di specifici premi comunitari o nazionali. </corpo>
+                </comma>
+                <comma id="art5-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo>  Gli incaricati regionali prelevano e trasmettono campioni di prodotti da analizzare nei laboratori riconosciuti dalla Regione Molise in conformità alle disposizioni di legge. </corpo>
+                </comma>
+                <comma id="art5-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo>  I titolari delle aziende iscritte nell'elenco regionale de-gli operatori biologici singoli o associati devono consentire ai funzionari regionali incaricati od ai soggetti incaricati delle ispezioni dall'Assessorato alle Politiche agricole il libero accesso agli uffici, agli impianti e ad ogni parte dell'azienda; devono fornire, altresì, tutte le informazioni richieste e collaborare per l'adempimento degli obblighi previsti dalla vigente normativa in materia. </corpo>
+                </comma>
+                <comma id="art5-com7">
+                    <num>
+ 
+7.</num>
+                    <corpo>  È fatto salvo l'esercizio di specifici poteri di accerta-mento degli organismi di vigilanza statali previsti dalle leggi vigenti. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>ARTICOLO 6 </num>
+                <rubrica>
+ 
+Nucleo di vigilanza sistemi qualità 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+
+                    <alinea>  È istituito presso l'Assessorato alle Politiche agricole il "Nucleo di vigilanza sistemi qualità" per l'espletamento dei compiti previsti dall'<rif xlink:href="#art5">art. 5</rif> e dalla normativa comunitaria riferita all'agricoltura biologica ed alla zootecnia biologica, ed in particolare per: 
+ 
+</alinea>
+                    <el id="art6-com1-leta">
+                        <num>a)</num>
+                        <corpo>  la valorizzazione delle produzioni ecocompatibili;</corpo>
+                    </el>
+                    <el id="art6-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo>  l'elaborazione e l'applicazione delle misure agro-ambientali;</corpo>
+                    </el>
+                    <el id="art6-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo>  la vigilanza ed il controllo della corretta applicazione del metodo di produzione biologico nelle aziende agricole e zootecniche, nonché sulla trasformazione, preparazione ed etichettatura dei prodotti derivanti da agricoltura biologica;</corpo>
+                    </el>
+                    <el id="art6-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo>  l'applicazione delle sanzioni in caso di accertata infrazione da parte degli operatori;</corpo>
+                    </el>
+                    <el id="art6-com1-lete">
+                        <num> 
+ 
+e)</num>
+
+                        <corpo>  la predisposizione dell'elenco annuale degli operatori dell'agricoltura biologica di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1995;220#art8">art. 8 del decreto legislativo n. 220/1995</rif>, anche ai fini della liquidazione degli incentivi comunitari;</corpo>
+                    </el>
+                    <el id="art6-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo>  la vigilanza, il coordinamento e la collaborazione con gli organismi di controllo riconosciuti dal Ministero delle Politiche agricole e forestali ed operanti sul territorio regionale;</corpo>
+                    </el>
+                    <el id="art6-com1-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo>  la gestione informatica degli archivi relativi agli operatori biologici ed all'attività degli organismi di controllo per mezzo di software ministeriali;</corpo>
+                    </el>
+                    <el id="art6-com1-leth">
+                        <num> 
+ 
+h)</num>
+                        <corpo>  la collaborazione con le competenti strutture del Ministero delle Politiche agricole e forestali per lo svolgimento dei compiti istituzionali e per l'attivazione di procedure uniformi, a livello nazionale, per l'erogazione di benefici e per l'applicazione di provvedimenti sanzionatori;</corpo>
+                    </el>
+                    <el id="art6-com1-leti">
+                        <num> 
+ 
+i)</num>
+                        <corpo>  l'attivazione ed il coordinamento di corsi di formazione gestiti direttamente dalla struttura periferica regionale o affidati a soggetti terzi. </corpo>
+                    </el>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>  Il Nucleo di vigilanza è dotato di personale qualificato con comprovata conoscenza ed esperienza nel campo delle normative vigenti sull'agricoltura biologica, che abbia conseguito il titolo di "Valutatore certificato di sistemi qualità" in almeno un corso realizzato ai sensi delle norme UNI EN ISO 9000. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>ARTICOLO 7 </num>
+                <rubrica>
+ 
+Vigilanza sugli organismi di controllo autorizzati 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+
+                    <alinea>  La vigilanza nei confronti degli organismi autorizzati al controllo in agricoltura biologica è esercitata dal per-sonale del Nucleo di vigilanza sistemi qualità sulla base del <rif xlink:href="urn:nir:stato:decreto.legislativo:1995;220">decreto legislativo n. 220/1995</rif>, della normativa comunitaria e nazionale relativa, ovvero in base a procedure contenute in manuali operativi approvati dal-la Giunta regionale. La Giunta regionale, tuttavia, in caso di infrazioni di particolari gravità commesse dagli organismi di controllo operanti sul territorio regionale ed al fine di tutelare l'immagine dei prodotti molisani "da agricoltura biologica" può adottare, anche congiuntamente, i seguenti provvedimenti: 
+ 
+</alinea>
+                    <el id="art7-com1-leta">
+                        <num>a)</num>
+                        <corpo>  proposta di revoca dell'autorizzazione concessa all'organismo di controllo inadempiente da parte del Ministero delle politiche agricole e forestali;</corpo>
+                    </el>
+                    <el id="art7-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo>  esclusione degli aiuti comunitari previsti, per l'annata agraria corrente e per quelle successive, agli operatori controllati dall'organismo interessato che non si adegui alle azioni correttive proposte dall'autorità regionale competente. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>ARTICOLO 8 </num>
+                <rubrica>
+ 
+Norme per l'immissione sul mercato dei prodotti ottenuti da agricoltura biologica 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+                    <corpo>  I prodotti ottenuti secondo le norme di produzione previste dalla presente legge possono essere commercializzati apponendo sulle etichette delle confezioni dei contenitori usati per la vendita la seguente dicitura: "Agricoltura biologica - Regime di controllo CEE- Regione Molise" per quei prodotti provenienti da aziende i-scritte nell'elenco regionale dei operatori biologici. </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo>  L'etichettatura dovrà comunque risultare conforme alle disposizioni dettate dall'<rif xlink:href="urn:nir:comunita.europee:regolamento:1991;2092#art5">art. 5 del Regolamento CEE n. 2092/1991</rif>, e successive modifiche ed integrazioni. </corpo>
+                </comma>
+                <comma id="art8-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo>  Sulle etichette dei prodotti alimentari ottenuti secondo le norme di produzione previste dalla presente legge si potranno apporre marchi regionali di riconoscimento. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>ARTICOLO 9 </num>
+                <rubrica>
+ 
+Commissione regionale per l'agricoltura biologica 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+                    <alinea>  Il Presidente della Giunta regionale nomina, con proprio decreto, la Commissione regionale per l'agricoltura biologica con i seguenti compiti: 
+ 
+</alinea>
+                    <el id="art9-com1-leta">
+                        <num>a)</num>
+                        <corpo>  proporre norme per agevolare l'applicazione della presente legge e dei regolamenti comunitari sull'agricoltura biologica;</corpo>
+                    </el>
+                    <el id="art9-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <alinea>  esprimere pareri consultivi: 
+ 
+</alinea>
+                        <en id="art9-com1-letb-num1">
+                            <num>1.</num>
+                            <corpo> sulle richieste di deroghe e di aggiornamenti previsti dai regolamenti comunitari sull'agricoltura biologica;</corpo>
+                        </en>
+                        <en id="art9-com1-letb-num2">
+                            <num> 
+ 
+2.</num>
+                            <corpo> sulle modalità per la redazione del piano di conversione delle aziende agricole in conversione biologica;</corpo>
+                        </en>
+                        <en id="art9-com1-letb-num3">
+                            <num> 
+ 
+3.</num>
+                            <corpo> sulla conformità alle normative comunitarie dei disciplinari di produzione, trasformazione, confezionamento e conservazione dei prodotti biologici;</corpo>
+                        </en>
+                        <en id="art9-com1-letb-num4">
+                            <num> 
+ 
+4.</num>
+
+                            <corpo> sulle richieste di riconoscimento presentate dalle associazioni di produttori biologici di cui all'<rif xlink:href="#art10">art. 10</rif>;</corpo>
+                        </en>
+                        <en id="art9-com1-letb-num5">
+                            <num> 
+ 
+5.</num>
+                            <corpo> sull'idoneità dei laboratori incaricati di eseguire analisi, verifiche e controlli. </corpo>
+                        </en>
+                    </el>
+                </comma>
+                <comma id="art9-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea>  La Commissione è così composta: 
+ 
+</alinea>
+                    <el id="art9-com2-leta">
+                        <num>a)</num>
+
+                        <corpo> un dirigente o un funzionario dell'Assessorato alle Politiche agricole aventi incarichi di responsabilità nell'ambito della struttura regionale competente, con funzioni di presidente; 
+ 
+h) un dirigente o un funzionario dell'Assessorato alle Politiche agricole, esperto in produzioni animali; 
+ 
+c) un docente designato dall'Università degli Studi del Molise esperto in agricoltura biologica; 
+ 
+d) un rappresentante di ciascuna delle associazioni di produttori biologici riconosciute ai sensi della presente legge; 
+ 
+e) un rappresentante per ciascuno dei due organismi di controllo maggiormente rappresentati sul territorio regionale in base al numero di operatori controllati, desunti dall'elenco regionale dell'anno precedente redatto ai sensi dell'<rif xlink:href="#art3">art. 3</rif>, e con almeno una sede operativa sul territorio molisano; 
+ 
+f) un rappresentante designato da ciascuna delle tre organizzazioni professionali di categoria maggiormente rappresentate in campo agricolo; 
+ 
+g) un esperto designato da ciascuna delle due organizzazioni cooperative più rappresentate in ambito regionale; 
+ 
+h) un agronomo designato dall'ordine di appartenenza; 
+ 
+i ) un rappresentante designato d'intesa dalle associazioni dei consumatori; 
+ 
+j) un dipendente regionale, componente del Nucleo di vigilanza sistemi qualità, con funzioni di segretario; 
+ 
+k) un tecnologo alimentare designato dall'ordine di appartenenza; 
+ 
+l) un tecnico esperto in fotopatologia dipendente del Consorzio regionale molisano di difesa. 
+ 
+Le designazioni devono pervenire all'Assessorato alle Politiche agricole entro il termine di trenta giorni dal ricevimento della richiesta. Trascorso il tempo stabilito, qualora non venissero designati tutti i membri da parte dei vari organismi, la Commissione si riterrà, in ogni caso, validamente costituita. 
+ 
+3.  In caso di rinuncia o di mancata partecipazione, senza giustificato motivo, di un membro a due sedute consecutive della Commissione, si provvede, con le stesse modalità di nomina, alla sua sostituzione. 
+ 
+4.  Le sedute della Commissione risultano valide in prima convocazione con la presenza della maggioranza dei componenti e, in seconda convocazione, da tenersi un'ora dopo, con la presenza di un terzo dei componenti. 
+ 
+5.  La Commissione resta in carica tre anni; si riunisce due volte all'anno e, comunque, qualora lo richieda almeno un terzo dei componenti in carica. 
+ 
+</corpo><?error Marker Warning 102 (last lettera:1 next:8)?>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>ARTICOLO 10 </num>
+                <rubrica>
+ 
+Associazioni dei produttori biologici 
+ </rubrica>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+                    <alinea>  Il Presidente della Giunta regionale, sentito il parere della Commissione regionale per l'agricoltura biologica, riconosce con proprio decreto, le associazioni regionali dei produttori biologici singoli o associati che soddisfino le seguenti condizioni: 
+ 
+</alinea>
+                    <el id="art10-com1-leta">
+                        <num>a)</num>
+                        <corpo>  numero delle aziende agricole biologiche molisane associate non inferiore a 50 (CINQUANTA) con una superficie agricola utilizzata (SAU) di ognuna non inferiore ad ha. 1,5;</corpo>
+                    </el>
+                    <el id="art10-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo>  sede operativa nell'ambito del territorio regionale;</corpo>
+                    </el>
+                    <el id="art10-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo>  struttura tecnica coordinata da un dottore agronomo e composta da tecnici laureati o diplomati in campo agricolo ed opportunamente formati nel settore dell'agricoltura biologica. </corpo>
+                    </el>
+                </comma>
+                <comma id="art10-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea>  Le associazioni dei produttori biologici singoli od associati hanno le seguenti finalità: 
+ 
+</alinea>
+                    <el id="art10-com2-leta">
+                        <num>a)</num>
+                        <corpo>  possibilità di disporre delle produzioni biologiche delle aziende associate;</corpo>
+                    </el>
+                    <el id="art10-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo>  stipulare contratti interprofessionali;</corpo>
+                    </el>
+                    <el id="art10-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> orientare la produzione e promuovere la valorizzazione dei prodotti degli associati;</corpo>
+                    </el>
+                    <el id="art10-com2-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo>  svolgere l'attività di assistenza tecnica, di formazione professionale e di divulgazione in funzione delle esigenze del settore;</corpo>
+                    </el>
+                    <el id="art10-com2-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo>  agevolare l'acquisto, da parte degli associati, dei mezzi tecnici necessari per la produzione e per la preparazione biologica;</corpo>
+                    </el>
+                    <el id="art10-com2-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo>  assistere i propri associati nell'adempimento degli obblighi tecnici, burocratici ed amministrativi;</corpo>
+                    </el>
+                    <el id="art10-com2-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo>  diffondere notizie e comunicati ai propri soci ed ai consumatori attraverso bollettini, riviste, mezzi radio-televisivi. </corpo>
+                    </el>
+                </comma>
+                <comma id="art10-com3">
+                    <num>
+ 
+3.</num>
+                    <alinea>  Gli statuti delle associazioni dei produttori biologici singoli o associati, per la concessione del riconoscimento, devono prevedere: 
+ 
+</alinea>
+                    <el id="art10-com3-leta">
+                        <num>a)</num>
+                        <corpo> la definizione delle modalità di iscrizione, di recesso e di esclusione delle aziende dall'Associazione;</corpo>
+                    </el>
+                    <el id="art10-com3-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> l'impegno a recepire le norme della legislazione in materia di agricoltura biologica;</corpo>
+                    </el>
+                    <el id="art10-com3-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> l'impegno ad esercitare la verifica tecnica nei confronti delle aziende associate;</corpo>
+                    </el>
+                    <el id="art10-com3-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> le misure sanzionatorie e le loro modalità di applicazione nel caso di mancato rispetto degli obblighi tecnici e statutari;</corpo>
+                    </el>
+                    <el id="art10-com3-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> l'obbligo di informare l'autorità regionale e l'organismo di controllo competente. </corpo>
+                    </el>
+                </comma>
+                <comma id="art10-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo>  Le Associazioni sono tenute ad allegare alla domanda di riconoscimento una relazione contenente l'elencazione del personale qualificato impegnato e delle attrezzature disponibili per l'attività tecnico-amministrativa. </corpo>
+                </comma>
+                <comma id="art10-com5">
+                    <num>
+ 
+5.</num>
+                    <alinea>  Per ottenere il riconoscimento regionale, le Associazioni dei produttori biologici, singoli o associati, devono presentare Ia domanda all'Assessorato alle Politiche agricole corredata da: 
+ 
+</alinea>
+                    <el id="art10-com5-leta">
+                        <num>a)</num>
+                        <corpo> copia dell'atto costitutivo;</corpo>
+                    </el>
+                    <el id="art10-com5-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> copia dello <rif xlink:href="urn:nir:regione.molise:statuto:">statuto</rif>;</corpo>
+                    </el>
+                    <el id="art10-com5-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> i disciplinari adottati in conformità della normativa comunitaria, nazionale e regionale; cl) l'elenco delle aziende associate; 
+ 
+e) la pianificazione annuale delle attività che intendono svolgere; 
+ 
+f) le schede aziendali dei soggetti associati dalle quali risulti la natura e la qualità dei prodotti freschi e/o trasformati commercializzati annualmente. 
+ 
+6.  Il riconoscimento è revocato qualora vengano a mancare i requisiti previsti o in caso di mancato rispetto degli obblighi indicati ai punti precedenti. 
+ 
+</corpo><?error Marker Warning 102 (last lettera:3 next:38)?>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>ARTICOLO 11 </num>
+                <rubrica>
+ 
+Incentivi 
+ </rubrica>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+
+                    <alinea>  Agli operatori dell'agricoltura biologica iscritti nell'elenco regionale si applicano, in base alle procedure previste, i benefici di cui al <rif xlink:href="urn:nir:comunita.europee:regolamento:1999;1257">Regolamento CE n. 1257/ 1999</rif>, e successive modificazioni, nonché di specifici programmi regionali finanziati con fondi nazionali e comunitari. In caso di fondi insufficienti si procede secondo il seguente ordine di preferenza: 
+ 
+</alinea>
+                    <el id="art11-com1-leta">
+                        <num>a)</num>
+                        <corpo> aziende che si impegnano, congiuntamente all'adozione del metodo di produzione biologico, a condurre prove sperimentali con specie, varietà e razze locali;</corpo>
+                    </el>
+                    <el id="art11-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> aziende zootecniche;</corpo>
+                    </el>
+                    <el id="art11-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> aziende ortofrutticole;</corpo>
+                    </el>
+                    <el id="art11-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> aziende olivicole;</corpo>
+                    </el>
+                    <el id="art11-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> aziende cerealicole. 
+ 
+Le aziende sopra elencate, per essere incluse nella specifica categoria produttiva, devono dimostrare un reddito specifico dell'indirizzo prevalente pari ad almeno il 51% del reddito globale annuo. </corpo>
+                    </el>
+                </comma>
+                <comma id="art11-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>  Ai titolari delle aziende condotte con metodi biologici verranno riservate le priorità di accesso alle agevolazioni in conto capitale o in conto interessi previste da disposizioni comunitarie e regionali. </corpo>
+                </comma>
+                <comma id="art11-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo>  L'Assessorato regionale alle Politiche agricole è autorizzato, nei limiti degli appositi stanziamenti di bilancio, a concedere contributi alle associazioni di produttori biologici riconosciute per le spese di affitto locali; acquisto attrezzature da ufficio compresi materiale e programmi informatici; costi di personale; costi di esercizio e spese amministrative, compresa la divulgazione a mezzo stampa o con proprio mezzo divulgativo di nuove tecnologie e metodi di coltivazione e trasformazione dei prodotti biologici. L'importo degli aiuti non può superare nel primo anno le spese sostenute ed è ridotto del 20% per ciascun anno di esercizio, in modo che al quinto anno sia limitato al 20% dei costi effettivi di quell'anno. Non possono essere concessi aiuti in relazione a spese sostenute dopo il quinto anno dalla data di riconoscimento dell'organizzazione di produttori. </corpo>
+                </comma>
+                <comma id="art11-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo>  In alternativa alla concessione di aiuti alle associazioni od alle riunioni di produttori, gli incentivi possono essere erogati direttamente ai produttori a titolo di com-penso dei contributi versati per le spese amministrative di dette associazioni nel quinquennio successivo alla costituzione dell'associazione. L'erogazione degli aiuti avverrà nei limiti e con le medesime modalità stabilite nel <rif xlink:href="#art11-com3">comma 3</rif>. </corpo>
+                </comma>
+                <comma id="art11-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo>  Per le finalità di cui al <rif xlink:href="#art11-com3">comma 3</rif> le associazioni riconosciute possono presentare, entro un mese dall'approvazione del conto consuntivo relativo all'anno cui si riferisce la richiesta, apposita domanda corredata dalla specifica documentazione di spesa. Il limite massimo di contributo annuo erogabile per ciascuna organizzazione, oltre che dalla dotazione finanziaria disponibile, sarà correlata al numero di associazioni riconosciute sul territorio regionale ed alla loro rappresentatività in termini di valore delle produzioni biologiche, fresche o trasformate, effettivamente commercializzate. </corpo>
+                </comma>
+                <comma id="art11-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo>  Ai Comuni della regione nelle cui scuole materne ed elementari vengono somministrati prodotti freschi o trasformati "da agricoltura biologica" possono essere erogati annualmente contributi in percentuale variabile, da commisurarsi alle disponibilità finanziarie regionali, alla spesa globale sostenuta dall'ente locale ed al-la percentuale di alimenti biologici somministrati nella dieta, rispetto a quelli convenzionali. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>ARTICOLO 12 </num>
+                <rubrica>
+ 
+Aree preferenziali 
+ </rubrica>
+                <comma id="art12-com1">
+                    <num>
+1.</num>
+                    <corpo>  La Giunta regionale, sulla base di oggettivi parametri ambientali, procede alla individuazione, nell'ambito del territorio regionale, delle aree preferenziali vocate al metodo della produzione biologica riferita a particolari prodotti tipici regionali. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>ARTICOLO 13 </num>
+                <rubrica>
+ 
+Sanzioni 
+ </rubrica>
+                <comma id="art13-com1">
+                    <num>
+1.</num>
+
+                    <alinea>  Le violazioni delle norme di produzione e di etichettatura comportano l'adozione, da parte della competente struttura dell'Assessorato alle Politiche agricole di cui all'<rif xlink:href="#art6">art. 6</rif>, dei seguenti provvedimenti cautelari: 
+ 
+</alinea>
+                    <el id="art13-com1-leta">
+                        <num>a)</num>
+                        <corpo>
+                            <mod
+                                    id="art13-com1-leta-mod1"> soppressione dell'indicazione "<virgolette id="art13-com1-leta-mod1-vir7">biologico</virgolette>" per l'intera partita di prodotto o per l'intera produzione interessata dall'irregolarità;</mod>
+                        </corpo>
+                    </el>
+                    <el id="art13-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> nel caso di infrazione manifesta o aventi effetti prolungati, revoca all'operatore del diritto di commercializzare prodotti con indicazioni concernenti il metodo di produzione biologico per la durata del-l'intera campagna agricola;</corpo>
+                    </el>
+                    <el id="art13-com1-letc">
+                        <num> 
+ 
+c)</num>
+
+                        <corpo> esclusione dell'operatore dall'elenco regionale degli operatori biologici per almeno una annata agraria; 
+ 
+cl) esclusione dell'azienda dai benefici previsti dall'<rif xlink:href="#art11">art. 11</rif> per l'annata in corso; 
+ 
+e) revoca degli aiuti per gli anni successivi in caso di gravi inadempienze; 
+ 
+f} restituzione dell'importo precedentemente percepito qualora espressamente previsto da normative nazionali o comunitarie di attuazione dei vari programmi di incentivazione, eventualmente maggiorato degli interessi e delle sanzioni in esse specificate. 
+ 
+</corpo><?error Marker Warning 102 (last lettera:3 next:38)?>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>ARTICOLO 14 </num>
+                <rubrica>
+ 
+Compensi ed oneri 
+ </rubrica>
+                <comma id="art14-com1">
+                    <num>
+1.</num>
+
+                    <corpo>  Ai componenti della Commissione di cui all'<rif
+                            xlink:href="#art9">art. 9</rif>, ad esclusione dei dipendenti regionali, spetta per ogni giornata di seduta l'indennità prevista dall'<rif
+                            xlink:href="urn:nir:regione.molise:legge:1983-03-01;7#art1">art. 1 della legge regionale 1° marzo 1983, n. 7</rif>, il rimborso delle spese di viaggio e l'indennità di trasferta, se dovuta, a norma dell'<rif xlink:href="urn:nir:regione.molise:legge:1981-06-08;11#art1">art. 1 della legge regionale 8 giugno 1981, n. 11</rif>. </corpo>
+                </comma>
+                <comma id="art14-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>  L'allegato "A" della <rif xlink:href="urn:nir:regione.molise:legge:1983;7">legge regionale n. 7/1983</rif> è integra-to con l'inclusione della "Commissione regionale per l'agricoltura biologica ". 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>ARTICOLO 15 </num>
+                <rubrica>
+ 
+Disposizioni finanziarie 
+ </rubrica>
+                <comma id="art15-com1">
+                    <num>
+1.</num>
+                    <corpo>  Agli oneri derivanti dall'applicazione della presente legge si provvede, con effetto dall'esercizio finanziario 2006, in sede di manovra finanziaria annuale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>ARTICOLO 16 </num>
+                <rubrica>
+ 
+Abrogazione 
+ </rubrica>
+                <comma id="art16-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art16-com1-mod2">  È abrogata la <rif xlink:href="urn:nir:regione.molise:legge:1996-03-13;17">legge regionale 13 marzo 1996, n. 17</rif>. </mod>
+                    </corpo>
+                </comma>
+                <comma id="art16-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>
+                        <mod id="art16-com2-mod3">  Sono altresì abrogate tutte le norme incompatibili o in contrasto con la presente legge. 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>ARTICOLO 17 </num>
+                <rubrica>
+ 
+Rinvio 
+ </rubrica>
+                <comma id="art17-com1">
+                    <num>
+1.</num>
+                    <corpo>  Per tutto quanto non espressamente previsto dalla presente legge, si rimanda alla normativa comunitaria e nazionale vigente. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>ARTICOLO 18 </num>
+                <rubrica>
+ 
+Entrata in vigore 
+ </rubrica>
+                <comma id="art18-com1">
+                    <num>
+1.</num>
+                    <corpo>  La presente legge entra in vigore il giorno successivo alla sua pubblicazione nel Bollettino Ufficiale della Regione Molise. </corpo>
+                </comma>
+                <comma id="art18-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>  Le disposizioni della presente legge relative al regime di aiuti acquistano efficacia a decorrere dalla pubblicazione nel Bollettino Ufficiale della Regione Molise del parere favorevole emesso dalla Commissione dell'Unione Europea in esito al procedimento di notifica ai sensi degli articoli 87 e 88 del trattato. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

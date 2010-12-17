@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19860430" num="8" tipo="BURM"/>
+                <entratainvigore norm="19860515"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1986-04-28;11"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xE0;"/>
+                </materie>
+            </descrittori>
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+ 
+Bollettino 
+Bollettino Ufficiale n. 08 del 30/04/86 
+ 
+Oggetto 
+Consorzio universitario - Adesione della Regione - Quota - Determinazione 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19860428">28 Aprile 1986</dataDoc>, n. <numDoc>11</numDoc>
+            <titoloDoc>Adesione al Consorzio Universitario Molisano. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ART. 1 </num>
+
+                <rubrica>
+ 
+La Regione Molise aderisce al Consorzio universitario molisano previsto all'<rif xlink:href="urn:nir:stato:legge:1982-08-14;590#art38">art. 38 della legge 14 agosto 1982, n. 590</rif>. 
+ 
+L'adesione è disposta con deliberazione della Giunta Regionale che designa il proprio rappresentante a sottoscrivere gli atti costitutivi del Consorzio. 
+ 
+La quota di partecipazione per l'anno 1986, è determinata in L. 100 milioni. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ART. 2 </num>
+
+                <rubrica>
+ 
+All'onere derivante dell'applicazione della presente legge si fa fronte con quota parte dei fondi assegnati alla Regione ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1970-05-16;281#art8">art. 8 della Legge 16 maggio 1970, n. 281</rif>. 
+ 
+Per l'esercizio 1986, l'onere della spesa, determinato in 100 milioni di lire, è riportato al nuovo capitolo di uscita n. 12700 &lt;&lt;Quota di adesione della Regione al Consorzio universitario&gt;&gt;, da iscriversi con nota di variazione di bilancio previa riduzione di stanziamenti di competenza e di cassa iscritti al Capitolo n. 55200 &lt;&lt;fondo occorrente per fronteggiare oneri derivanti da provvedimenti legislativi in corso&gt;&gt;. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>ART. 3 </num>
+                <rubrica>
+ 
+La presente legge è pubblicata nel Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come Legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

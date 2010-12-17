@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19840430" num="8" tipo="BURM"/>
+                <entratainvigore norm="19840515"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1984-04-20;9"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 08 del 30/04/84 
+ 
+Oggetto 
+Regione - Commissioni e Comitati - Gettoni di presenza rimborso spese di viaggio ed indennit&#xE0; - Disciplina - Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>del <dataDoc norm="19840420">20 Aprile 1984</dataDoc>, n. <numDoc>9</numDoc>
+            <titoloDoc>Modifica alla <rif xlink:href="urn:nir:regione.molise:legge:1983-03-01;7">legge regionale 1 marzo 1983, n. 7</rif>, recante Gettoni di presenza, rimborso spese di viaggio e indennità di trasferta alle Commissioni, Comitati e Consulte Regionali operanti nel territorio regionale 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+L'allegato &lt;&lt;A&gt;&gt; della <rif
+                            xlink:href="urn:nir:regione.molise:legge:1983-03-01;7">legge regionale 1° ømarzo 1983, n. 7</rif>, è integrato, dopo il n. 13), come segue: 
+ 
+14) Comitato Tecnico-Amministrativo  (<rif xlink:href="urn:nir:regione.molise:legge:1979-07-14;19#art10">Articolo 10 della legge regionale 14 luglio 1979, n. 19</rif>).</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127  della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione  nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e  farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

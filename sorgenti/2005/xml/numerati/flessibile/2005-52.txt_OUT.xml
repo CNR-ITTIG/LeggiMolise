@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2005-01-05;1"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="14.Governo del territorio, urbanistica, edilizia"/>
+                </materie>
+            </descrittori>
+        </meta><?error 14.Governo del territorio, urbanistica, edilizia 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 1 del 15 gennaio 2005 
+ 
+Oggetto 
+Abusi edilizi - Sanatoria - Disciplina - interpretazione autentica del comma 3 dell'articolo 1 della L.R. n. 25/2004 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20050105">5 Gennaio 2005</dataDoc>, n. <numDoc>1</numDoc>
+            <titoloDoc>Interpretazione autentica del <rif
+                    xlink:href="urn:nir:regione.molise:legge:2004-11-11;25#art1-com3">comma 3 dell'articolo 1 della legge regionale 11 novembre 2004, n. 25</rif>: "Disposizioni regionali in materia di sanatoria degli abusi edilizi, in attuazione del <rif
+                    xlink:href="urn:nir:stato:decreto.legge:2003-09-30;269">decreto-legge 30 settembre 2003, n. 269</rif>, convertito in <rif xlink:href="urn:nir:stato:legge:2003-11-24;326">legge 24 novembre 2003, n. 326</rif>, e successive modifiche". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> Il <rif xlink:href="urn:nir:regione.molise:legge:2004-11-11;25#art1-com3">comma 3 dell'articolo 1 della legge regionale 11 novembre 2004, n. 25</rif>, deve interpretarsi nel senso che il limite volumetrico di 200 metri cubi per le pertinenze delle abitazioni ed il limite volumetrico di 500 metri cubi per i volumi residenziali trovano applicazione anche alle opere abusive relative a nuove costruzioni residenziali, a condizione che la nuova costruzione non superi complessivamente 3.000 metri cubi. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

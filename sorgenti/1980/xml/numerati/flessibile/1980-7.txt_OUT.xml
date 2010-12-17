@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19801216" num="24" tipo="BURM"/>
+                <entratainvigore norm="19801231"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1980-12-11;37"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="30.Promozione e organizzazione di attivit&amp;#xE0; culturali e delle tradizioni locali, associazionismo"/>
+                </materie>
+            </descrittori>
+        </meta><?error 30.Promozione e organizzazione di attivit&#xE0; culturali e delle tradizioni locali, associazionismo 
+ 
+Bollettino 
+Bollettino Ufficiale n. 24 del 16/12/80 
+ 
+Oggetto 
+Musei archivi storici e biblioteche - Istituzione - Funzionamento - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 9 dalla legge n. 24/2007 art. 10 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19801211">11 Dicembre 1980</dataDoc>, n. <numDoc>37</numDoc>
+            <titoloDoc>Norme in materia di Musei, Archivi storici e Biblioteche di Enti locali. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+
+                <rubrica>
+ 
+La Regione Molise disciplina con la presente legge, ai sensi degli artt. 47 e 49 del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616">D.P.R. n. 616 del 24 luglio 1977</rif>, i servizi e le attività concernenti l'istituzione, il funzionamento e lo sviluppo   dei musei, delle raccolte di interesse artistico, storico e bibliografico, delle biblioteche anche popolari, dei centri di lettura e dei centri sociali di educazione permanente e delle altre istituzioni aventi per scopo la promozione e la diffusione della cultura di competenza regionale e locale, e coordina la loro attività con quella delle altre istituzioni culturali operanti nella Regione. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+
+                <rubrica>
+ 
+La Regione promuove la formazione di strutture integrate di servizi culturali in ciascun ambito territoriale definito dalla <rif xlink:href="urn:nir:regione.molise:legge:1979-04-06;12">legge regionale n.12 del 6 aprile 1979</rif>, ed eventuali modifiche ed integrazioni, sia mediante il coordinamento tra le strutture esistenti, sia mediante la realizzazione di nuove strutture culturali. 
+ 
+Le biblioteche, gli archivi e i musei sono istituti culturali, scientifici ed educativi al servizio della comunità. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+La biblioteca pubblica ha il compito di offrire una concreta possibilità ed un incoraggiamento: 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1)</num>
+                    <corpo> ad accrescere ed aggiornare la preparazione culturale in un processo autonomo e permanente nonché a favorire la realizzazione del diritto allo studio; 
+ </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+2)</num>
+                    <corpo> ad aggiornarsi sul piano tecnico-professionale; 
+ </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+3)</num>
+                    <corpo> ad acquisire l'informazione necessaria per la formazione di una matura coscienza civile. 
+ 
+A tal fine nella biblioteca sono raccolti, ordinati e messi a disposizione degli utenti, libri, periodici, pubblicazioni ufficiali ed altro materiale di interesse storico e culturale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+
+                <rubrica>
+ 
+Gli archivi storici sono costituiti dalle sezioni separate degli archivi degli enti locali, ordinate ed inventariate ai sensi dell'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1963-09-30;1409#art30">art. 30 del D.P.R. 30 settembre 1963, n. 1409</rif>, e si riferiscono a documenti relativi ad affari esauriti da oltre 40 anni. 
+ 
+Gli enti locali provvedono, nell'ambito di quanto disposto dal predetto D.P.R., a trasferire nella sezione separata d'archivio i documenti posseduti una volta scaduti i termini prescritti. 
+ 
+Gli archivi storici possono trovare sistemazione presso la biblioteca dell'ente locale al fine di agevolarne la consultazione ed assicurarne la conservazione, fermo restando il diverso regime   di tutela. 
+ 
+La biblioteca comunale, comunque, ha copia dell'inventario dei documenti depositati nella sezione separata dell'archivio comunale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+Il museo pubblico di interesse locale provvede: 
+ 
+a) alla conservazione, alla catalogazione, al restauro e alla ordinata collocazione nell'esposizione permanente, nelle mostre a rotazione e nei depositi dei beni che gli sono affidati; 
+ 
+b) all'allestimento periodico di mostre scientifiche e divulgative; 
+ 
+c) all'incremento del proprio patrimonio; 
+ 
+d) ad ogni altra attività tesa al perseguimento dei propri fini culturali generali. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+La Regione, in armonia con il piano di sviluppo regionale, interviene con programmi pluriennali e piani annuali di finanziamento per: 
+ 
+a) l'organizzazione, l'ordinamento ed il funzionamento dei servizi culturali di nuova istituzione; 
+ 
+b) la ristrutturazione, la trasformazione o l'unificazione delle biblioteche e musei preesistenti; 
+ 
+c) la ristrutturazione degli archivi storici; 
+ 
+d) l'incremento delle raccolte bibliografiche, archivistiche e  museali, ivi compresi gli audiovisivi; 
+ 
+e) la conservazione del materiale raro o di pregio, la riproduzione fotografica di cimeli e manoscritti, il restauro di beni librari artistici ed archivistici; 
+ 
+f) le mostre e le manifestazioni nell'ambito dei servizi culturali; 
+ 
+g) la costituzione di cataloghi collettivi regionali, generali e speciali; 
+ 
+h) la sperimentazione di nuove tecniche di azione culturale e di documentazione; 
+ 
+i) la promozione delle attività culturali e di educazione permanente realizzata mediante i servizi culturali; 
+ 
+l) lo svolgimento di corsi di orientamento musicale; 
+ 
+m) la formazione professionale e l'aggiornamento degli operatori di servizi culturali. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+
+                <rubrica>
+ 
+Il programma regionale di interventi individua specificatamente le attività da realizzarsi attraverso l'amministrazione regionale, le attività da realizzarsi attraverso le strutture amministrative delle unità locali di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1979-12-07;35">legge regionale n. 35 del 7 dicembre 1979</rif>, le attività da realizzarsi da parte dei Comuni. 
+ 
+Oltre alla predisposizione del programma, le attività regionali concernono funzioni di consulenza, assistenza, studio e ricerca tecnico-scientifica inerenti i servizi culturali di cui alla presente legge. 
+ 
+Le attività di competenza delle Unità locali concernono, nell'ambito delle direttive del programma regionale, le funzioni di organizzazione e di gestione di servizi culturali a raggio di  utenza pari o superiore a quello del relativo ambito territoriale. 
+ 
+Le attività di competenza comunale concernono, nell'ambito delle direttive del programma regionale, funzioni di organizzazione e di gestione di servizi culturali a raggio di utenza comunale o intercomunale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+
+                <rubrica>
+ 
+Al fine di definire il programma regionale degli interventi le Unità Locali, con le procedure di cui all'art. 31, commi 2°, 3° e 4° della <rif xlink:href="urn:nir:regione.molise:legge:1979-12-07;35">legge regionale 7 dicembre 1979, n. 35</rif>, predispongono, con lo stesso arco temporale del bilancio regionale pluriennale, proposte di programma e di piano di riparto annuale degli interventi e le trasmettono alla Giunta Regionale entro il mese di settembre   con l'indicazione degli interventi riservati alla competenza della Regione, alla competenza propria e alla competenza dei Comuni. 
+ 
+La Giunta Regionale, sulla base di tali proposte e sentita la consulta regionale di cui al successivo articolo, sottopone al Consiglio Regionale il progetto di programma pluriennale,   comprensivo del piano di riparto annuale, per i provvedimenti di competenza. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <rubrica>
+ 
+Con decreto del Presidente della Giunta Regionale, su proposta dell'Assessore Regionale competente per materia, è istituita la Consulta Regionale per le attività bibliotecarie, archivistiche  e musicali. 
+ 
+La Consulta è composta: 
+ 
+a) dai Presidenti dei distretti scolastici; 
+ 
+b) dal Soprintendente dei beni architettonici, artistici e storici del Molise; 
+ 
+c) dal Soprintendente archivistico; 
+ 
+d) da 5 esperti, designati dal Consiglio Regionale con voto limitato a tre; 
+ 
+e) da 5 rappresentanti di Enti locali effettivamente gestori di servizi, eletti dal Consiglio Regionale con voto limitato a tre; 
+ 
+f) dal responsabile regionale del settore Musei, biblioteche, beni culturali, spettacoli. 
+ 
+La Consulta è presieduta dall'Assessore Regionale competente per materia. 
+ 
+Le funzioni di Segretario sono svolte da un dipendente della Regione di livello non inferiore al quinto. 
+ 
+Ogni volta sia ritenuto utile, il Presidente potrà far partecipare ai lavori della Consulta rappresentanti di amministrazioni, enti ed associazioni interessati agli argomenti in esame. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <rubrica>
+ 
+Ai posti di ruolo dei servizi culturali di competenza comunale, di cui alla presente legge, si accede mediante pubblico concorso per titoli ed esami. 
+ 
+I relativi bandi dovranno prevedere espressamente la possibilità che i vincitori del concorso siano assegnati alle dipendenze funzionali delle Unità Locali per lo svolgimento delle funzioni   che i programmi pluriennali assegnano alle Unità locali medesime. 
+ 
+I profili professionali e i requisiti tecnico-scientifici richiesti per la partecipazione ai concorsi di cui al presente articolo saranno stabiliti con legge regionale sulla base delle indicazioni fornite dagli organi statali competenti in materia di biblioteche, musei ed archivi, della rilevazione delle istituzioni bibliotecarie, museali ed archivistiche esistenti nella regione e del programma di potenziamento dei servizi culturali. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art10-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+
+                <rubrica>
+ 
+In attuazione dell'art. 47, 2° comma, ultima parte, del <rif
+                        xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616">D.P.R. 24 luglio 1977, n. 616</rif>, il personale non di ruolo di cui all'<rif
+                        xlink:href="urn:nir:regione.molise:legge:1979-05-02;16#art3-com2">art. 3, secondo comma, della legge regionale 2 maggio 1979, n. 16</rif>, è   confermato nello stato giuridico, nel trattamento economico e nell'assegnazione ai Comuni presso i quali era in servizio alla data prevista dal predetto <rif
+                        xlink:href="#art3">art. 3</rif>, fino all'inquadramento di cui ai successivi terzo e quarto comma. 
+ 
+La Regione provvederà ad erogare ai Comuni interessati le somme necessarie per il pagamento delle relative retribuzioni. 
+ 
+L'inquadramento nei ruoli comunali è effettuato, previo accertamento dell'idoneità teorico-pratica all'impiego, mediante concorso riservato da bandire, con deliberazione del competente organo dell'ente di destinazione, nel termine di 60 giorni dall'entrata in vigore della presente legge, per un numero di posti corrispondenti al personale assegnato a ciascun Comune. 
+ 
+L'esame di idoneità consisterà in un colloquio avente per oggetto le attività e gli scopi dei Centri di Servizi culturali. 
+ 
+Il personale risultato vincitore del concorso è inquadrato al quinto livello retributivo funzionale previsto dal <rif xlink:href="urn:nir:presidente.repubblica:decreto:1979-06-01;191">D.P.R. 1 giugno 1979, n.191</rif>, nei posti d'organico vacanti ed in soprannumero. 
+ 
+Nell'ambito del predetto livello, al personale è attribuita la qualifica corrispondente alla posizione di provenienza. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art11-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12 </num>
+                <rubrica>
+ 
+Nell'osservanza delle competenze e dei principi della legislazione statale in materia di tutela dei beni archivistici, la Regione promuove e coordina l'attività tecnica e di divulgazione nel settore degli Achivi Storici degli Enti Locali ed a tal fine contribuisce con un apporto finanziario al potenziamento dei servizi. 
+ 
+La Giunta Regionale è delegata ad adottare i conseguenziali provvedimenti diretti ad assicurare l'osservanza e l'impegno di cui al comma precedente. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art12-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13 </num>
+
+                <rubrica>
+ 
+Per l'anno 1980 il piano regionale di finanziamento, elaborato dalla Giunta Regionale, è sottoposto all'approvazione del Consiglio regionale, prescindendo dalla procedura di cui all'<rif xlink:href="#art8">art. 8</rif>. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art13-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14 </num>
+
+                <rubrica>
+ 
+Alla copertura degli oneri derivanti dall'applicazione della presente legge si provvede con quota parte dei fondi attribuiti alla Regione ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1970-05-16;281#art8">art. 8 della legge 16 maggio 1970, n. 281</rif>. 
+ 
+Per l'anno 1980 la spesa viene posta a carico del nuovo capitolo di spesa n. 16100 da iscrivere nel settore 2° rubrica n. 5, &lt;&lt;Oneri per l'attuazione del piano regionale di intervento nel settore dei musei, archivi storici e biblioteche degli enti locali&gt;&gt;, con uno stanziamento di competenza e di cassa di L. 500.000.000, previa riduzione di pari importo a carico del capitolo 55200 del bilancio   1980. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art14-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>Art. 15 </num>
+
+                <rubrica>
+ 
+La presente legge è dichiarata urgente ai sensi e per gli effetti dell'<rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art.127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art15-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

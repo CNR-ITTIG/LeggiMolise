@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19730627" num="17" tipo="BURM"/>
+                <entratainvigore norm="19730712"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1973-06-13;12"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xE0;"/>
+                </materie>
+            </descrittori>
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+ 
+Bollettino 
+Bollettino Ufficiale n. 17 del 27/06/73 
+ 
+Oggetto 
+Lavoratori disoccupati - Addestramento professionale - Assegno - Determinazione - Proroga 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato uno 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19730613">13 Giugno 1973</dataDoc>, n. <numDoc>12</numDoc>
+            <titoloDoc>Proroga delle norme di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1972-02-16;4">legge regionale 16 febbraio 1972, n. 4</rif>, a favore dei lavoratori disoccupati che frequentano i corsi di addestramento professionale in preparazione dell'insediamento FIAT nel Molise nell'anno 1973. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 13/2010 art. allegato uno</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

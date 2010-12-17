@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19820716" num="15" tipo="BURM"/>
+                <entratainvigore norm="19820731"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1982-07-12;18"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="07.Contabilit&amp;#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
+                </materie>
+            </descrittori>
+        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+ 
+Bollettino 
+Bollettino Ufficiale n. 15 del 16/07/82 
+ 
+Oggetto 
+Regione - Contabilit&#xE0; - Disciplina - Integrazioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19820712">12 Luglio 1982</dataDoc>, n. <numDoc>18</numDoc>
+            <titoloDoc>Integrazioni all'art. 57 della legge regionale di contabilità 3 dicembre 1977, n. 44 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+L'<rif xlink:href="urn:nir:regione.molise:legge:1977-12-03;44#art57">art. 57 della legge regionale 3 dicembre 1977, n. 44</rif>, concernente: &lt;&lt;Contabilità regionale della Regione Molise&gt;&gt;, è così integrato: 
+ 
+"f) commutazione in assegno circolare non trasferibile emesso a favore del creditore, da spedire al richiedente mediante lettera raccomandata con avviso di ricevimento e con spese a carico del   destinatario. 
+ 
+Le dichiarazioni di accertamento o di commutazione, che sostituiscono la quietanza del creditore, devono risultare sul mandato di pagamento da annotazione recante gli estremi dell'operazione e il timbro del Tesoriere. Per le commutazioni di cui alla lettera f) devono essere allegati agli avvisi di ricevimento. 
+ 
+La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo><?error Marker Warning 105?>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

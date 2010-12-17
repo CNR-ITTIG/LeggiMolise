@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19881201" num="22" tipo="BURM"/>
+                <entratainvigore norm="19881216"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1988-11-21;22"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.Agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 22 del 01/12/88 
+ 
+Oggetto 
+Servizi regionali di sviluppo agricolo - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19881121">21 Novembre 1988</dataDoc>, n. <numDoc>22</numDoc>
+            <titoloDoc>Interventi a favore dei Servizi di Sviluppo Agricolo. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ART. 1</num>
+                <rubrica>: FINALITÀ 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo> 
+La Regione Molise in armonia con lo <rif
+                            xlink:href="urn:nir:regione.molise:statuto:">Statuto Regionale</rif> e le funzioni amministrative attribuite alle Regioni dal <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616">D.P.R. 24 luglio 1977, n. 616</rif> ed in attuazione del Regolamento C.E.E., 270 del 6 febbraio 1979 e secondo quanto previsto dal Regolamento C.E.E. 797 del 30 marzo 1985, emana le norme di attuazione dei Servizi Regionali di Sviluppo Agricolo. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+                    <corpo>I Servizi Regionali di Sviluppo Agricolo (S.S.A.) hanno lo scopo di elevare la professionalità degli operatori agricoli, contribuire all'incremento della produttività e dei redditi, nonché, all'ammodernamento delle aziende agricole. </corpo>
+                </comma>
+                <comma id="art1-com3">
+                    <num/>
+                    <alinea>I S.S.A. hanno le seguenti finalità: 
+ 
+</alinea>
+                    <en id="art1-com3-num1">
+                        <num>1)</num>
+                        <corpo> esercitare le attività di assistenza tecnica specializzata e polivalente;</corpo>
+                    </en>
+                    <en id="art1-com3-num2">
+                        <num> 
+ 
+2)</num>
+                        <corpo> provvedere alla divulgazione tempestiva delle innovazioni normative, tecniche e scientifiche nel settore agricolo;</corpo>
+                    </en>
+                    <en id="art1-com3-num3">
+                        <num> 
+ 
+3)</num>
+                        <corpo> fornire consulenze sia per la gestione che per la riconversione aziendale e colturale;</corpo>
+                    </en>
+                    <en id="art1-com3-num4">
+                        <num> 
+ 
+4)</num>
+                        <corpo> provvedere all'aggiornamento e riqualificazione professionale degli operatori agricoli;</corpo>
+                    </en>
+                    <en id="art1-com3-num5">
+                        <num> 
+ 
+5)</num>
+                        <corpo> curare la formazione e la qualificazione professionale dei giovani operatori agricoli;</corpo>
+                    </en>
+                    <en id="art1-com3-num6">
+                        <num> 
+ 
+6)</num>
+                        <corpo> elevare la professionalità e la specializzazione dei tecnici cui sono affidati i servizi di sviluppo agricolo;</corpo>
+                    </en>
+                    <en id="art1-com3-num7">
+                        <num> 
+ 
+7)</num>
+                        <corpo> elaborare proposte ed assumere iniziative atte a migliorare e tutelare produzioni animali e vegetali regionali;</corpo>
+                    </en>
+                    <en id="art1-com3-num8">
+                        <num> 
+ 
+8)</num>
+                        <corpo> progettare e curare attività di ricerche nel campo della sperimentazione produttiva, della conservazione e commercializzazione dei prodotti agricoli regionali. </corpo>
+                    </en>
+                </comma>
+                <comma id="art1-com4">
+                    <num/>
+                    <corpo>La Regione garantisce il pluralismo nell'istituzione del S.S.A. anche tramite l'autogestione dei servizi da parte di imprenditori agricoli e la partecipazione delle loro organizzazioni professionali. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ART. 2</num>
+                <rubrica>: COMPITI DELLA REGIONE 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo> 
+Il Consiglio Regionale approva, su proposta della Giunta Regionale, il Piano pluriennale di formazione e il Piano pluriennale dei S.S.A. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+                    <alinea>La Giunta Regionale: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> propone al Consiglio l'approvazione del Piano pluriennale dei S.S.A.; 
+ 
+- sulla base delle proposte dell'ERSAM, formula ed approva i programmi stralcio annuali di attività del Piano pluriennale dei S.S.A.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art2-com3">
+                    <num/>
+
+                    <corpo>La competente Commissione Consiliare esprime preventivo parere sugli stessi nel termine perentorio di giorni quindici dalla data in cui pervengono alla Presidenza del Consiglio Regionale. 
+ 
+- verifica l'attuazione del piano e dei programmi stralcio annuali; 
+ 
+- eroga i finanziamenti di competenza regionale; 
+ 
+- riconosce e abilita i Gruppi di Base e i Centri di Coordinamento previo parere tecnico dell'ERSAM di cui al <rif xlink:href="#art3">successivo art. 3</rif>; 
+ 
+- propone al Consiglio Regionale specifico Piano Pluriennale di corsi di formazione professionale, di aggiornamento o di riqualificazione di cui al precedente articolo.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>ART. 3</num>
+                <rubrica>: COMPITI DELL'ENTE REGIONALE DI SVILUPPO AGRICOLO PER IL MOLISE (E.R.S.A.M.) 
+</rubrica>
+                <comma id="art3-com1">
+                    <num/>
+
+                    <alinea> 
+L'E.R.S.A.M., sentito il Comitato Tecnico Scientifico di cui al <rif xlink:href="#art4">successivo art. 4</rif>: 
+ 
+</alinea>
+                    <el id="art3-com1-leta">
+                        <num>a)</num>
+                        <corpo> predispone e invia alla Giunta Regionale i Piani Pluriennali Regionali dei S.S.A. nonché i programmi annuali di cui all'art. 8 del Regolamento C.E.E. n. 270 del 6 febbraio 1978, compresi i progetti e le iniziative che intende realizzare direttamente;</corpo>
+                    </el>
+                    <el id="art3-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> propone, promuove e realizza, nell'ambito dei Piani Pluriennali e degli stralci annuali, progetti ed iniziative di propria competenza o ad esso affidati, avvalendosi anche di Enti o Istituti Pubblici e Privati. 
+ 
+È di competenza dell'E.R.S.A.M. e previsto nel Piano Pluriennale e negli stralci annuali dei S.S.A.: 
+ 
+- il servizio di divulgazione, assistenza specializzata, informazione e documentazione, particolarmente sui mercati, sulle tecniche di allevamento animale e coltivazione vegetale, di difesa fitosanitaria, meccanizzazione a supporto ed integrazione alle attività svolte dalle strutture autogestite.</corpo>
+                    </el>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <alinea>L'E.R.S.A.M. inoltre: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+
+                        <corpo> esprime parere sull'idoneità all'esercizio dell'Assistenza Tecnica dei Gruppi di Base previsti nel piano pluriennale e negli stralci annuali, dei Centri di Coordinamento autogestiti, previo accertamento dei requisiti previsti al <rif xlink:href="#art7">successivo art. 7</rif>; 
+ 
+- svolge, nei limiti previsti dai Piani pluriennali e negli stralci annuali, tramite Gruppi di base, attività di consulenza alla gestione aziendale.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art3-com3">
+                    <num/>
+                    <corpo>L'E.R.S.A.M., nella formulazione dei programmi e nell'articolazione dei progetti attua la più ampia partecipazione dei soggetti interessati sentendo anche le Organizzazioni agricole maggiormente rappresentative presenti nella Regione. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>ART. 4</num>
+                <rubrica>: COMITATO TECNICO SCIENTIFICO 
+</rubrica>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo> 
+L'E.R.S.A.M. istituisce, con proprio atto, il Comitato Tecnico Scientifico. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num/>
+                    <corpo>Il Comitato Tecnico Scientifico è organo di consulenza dell'E.R.S.A.M. nelle materie di cui alla presente legge. Può essere sentito dalla Regione. </corpo>
+                </comma>
+                <comma id="art4-com3">
+                    <num/>
+                    <alinea>Il Comitato Tecnico Scientifico particolarmente ha il compito di: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> elaborare, in armonia con le scelte e gli obiettivi della programmazione regionale e settoriale agricola nonché delle proposte di attività delle strutture autogestite, il Piano pluriennale di assistenza tecnica, divulgazione, attività dimostrative, ricerca, sperimentazione compresa la parte relativa alla formazione professionale. Il Piano pluriennale è articolato in programmi annuali con la specificazione delle linee metodologiche, degli obiettivi da conseguire e delle previsioni dei costi; 
+ 
+- esercita le altre funzioni previste dalla presente legge.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art4-com4">
+                    <num/>
+                    <alinea>Il Comitato resta in carica 5 anni ed è composto da: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+
+                        <corpo> il Presidente dell'E.R.S.A.M. o un membro del Consiglio di Amministrazione dello stesso, da lui delegato, che lo presiede; 
+ 
+- il Responsabile del settore divulgazione, ricerca e sperimentazione in campo agricolo della Regione; 
+ 
+- un Funzionario dell'E.R.S.A.M. designato dal Consiglio di Amministrazione dell'Ente; 
+ 
+- il Responsabile del Settore Formazione Professionale della Regione; 
+ 
+- due docenti della facoltà di Agraria-Scienze delle Preparazioni Alimentari, dell'Università del Molise designati dal Consiglio di facoltà; 
+ 
+- quattro rappresentanti designati dalle Organizzazioni professionali agricole maggiormente rappresentative a livello nazionale tramite le loro organizzazioni regionali, in proporzione all'effettiva rappresentatività regionale di ciascuna di esse; 
+ 
+- un agronomo designato dal proprio ordine professionale; 
+ 
+- un veterinario designato dal proprio ordine professionale; 
+ 
+- un perito agrario designato dal Collegio dei periti agrari; 
+ 
+- un rappresentante delle Associazioni dei produttori agricoli riconosciute in base alla <rif xlink:href="urn:nir:regione.molise:legge:1984-08-28;24">legge regionale n. 24 del 28 agosto 1984</rif> designato dalle stesse; 
+ 
+- un rappresentante delle centrali cooperative designato dalle organizzazioni regionali maggiormente rappresentative.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art4-com5">
+                    <num/>
+                    <corpo>La funzione di Segretario è svolta da un dipendente dell'E.R.S.A.M. di livello non inferiore all'ottavo. </corpo>
+                </comma>
+                <comma id="art4-com6">
+                    <num/>
+                    <corpo>Il Comitato è convocato dal Presidente. È validamente riunito con la presenza di almeno la metà dei componenti in carica. </corpo>
+                </comma>
+                <comma id="art4-com7">
+                    <num/>
+
+                    <corpo>Ai componenti il Comitato Tecnico-Scientifico, dipendenti dell'Amministrazione Regionale e dell'E.R.S.A.M., spettano il rimborso delle spese di viaggio e l'indennità di trasferta - se dovuta- nella misura prevista dall'<rif xlink:href="urn:nir:regione.molise:legge:1981-06-08;11#art1">art. 1 della legge regionale 8 giugno 1981, n. 11</rif> e successive modificazioni. </corpo>
+                </comma>
+                <comma id="art4-com8">
+                    <num/>
+
+                    <corpo>Ai componenti esterni sia all'Amministrazione Regionale che all'E.R.S.A.M., spetta inoltre per ogni giornata di seduta, un'indennità pari a quella prevista dall'<rif xlink:href="urn:nir:regione.molise:legge:1983-03-01;7#art1">art. 1 della legge regionale 1 marzo 1983, n. 7</rif> e successive modificazioni. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>ART. 5</num>
+                <rubrica>: LIQUIDAZIONE E RENDICONTAZIONE DELLE SPESE PER LE FUNZIObNI DI ASSISTENZA TECNICA 
+</rubrica>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo> 
+L'E.R.S.A.M., provvede alle liquidazioni delle spese per le funzioni di Assistenza Tecnica di propria competenza con i fondi a tal fine messi a disposizione dalla Regione. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num/>
+                    <corpo>L'E.R.S.A.M. relaziona e rendiconta annualmente, entro il 31 marzo dell'anno successivo, alla Giunta Regionale sull'attività svolta e le spese sostenute. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num/>
+                    <corpo>I rendiconti sono approvati dalla Giunta Regionale. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>ART. 6</num>
+                <rubrica>: STRUTTURE DI CONSULENZA DI BASE CENTRI DI COORDINAMENTO 
+</rubrica>
+                <comma id="art6-com1">
+                    <num/>
+                    <alinea> 
+La consulenza alla gestione aziendale e realizzata, secondo quanto previsto nel Piano pluriennale e nei programmi annuali, da strutture autogestite emanazione delle Organizzazioni professionali agricole o promosse dall'E.R.S.A.M. Esse sono: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> I Gruppi di base, riconosciuti dalla Giunta Regionale, che svolgono compiti di assistenza tecnica, attività dimostrative ed informazione tecnico - economica in favore degli operatori agricoli per la diffusione delle più rispondenti tecniche colturali e di conduzione degli allevamenti ed in genere per una più efficace gestione dell'impresa agricola. Essi, inoltre, provvedono ad instaurare gli opportuni collegamenti con gli altri interventi dei S.S.A. ed in particolare con quelli specialistici. </corpo>
+                    </ep>
+                </comma>
+                <comma id="art6-com2">
+                    <num/>
+
+                    <corpo>I Gruppi di Base espressione delle organizzazioni professionali possono associarsi ai Centri di Coordinamento. 
+ 
+- I Centri di coordinamento, espressione delle Organizzazioni Professionali Agricole che assumono la responsabilità della gestione degli stessi, riconosciuti dalla Giunta Regionale previo parere dell'E.R.S.A.M., secondo quanto disposto dall'<rif
+                            xlink:href="#art6">art. 6</rif>, rappresentano i Gruppi di base nei rapporti con la Regione, svolgono attività propositiva a favore dei Gruppi; assumono, con apposito contratto di lavoro autonomo secondo quanto previsto agli artt. 2222 e seguenti del <rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262">Codice Civile</rif>, i tecnici dei Gruppi su indicazione degli stessi; li assegnano ad essi per i compiti di consulenza alla gestione;</corpo>
+                </comma>
+                <comma id="art6-com3">
+                    <num/>
+                    <corpo>predispongono i programmi dei singoli Gruppi di Base, evidenziando la complementarietà degli interventi di Assistenza Tecnica, Formazione Professionale e Divulgazione Agricola; sono responsabili delle attività autogestite dai singoli Gruppi di Base per l'attuazione dei programmi. </corpo>
+                </comma>
+                <comma id="art6-com4">
+                    <num/>
+                    <corpo>I Centri di Coordinamento relazionano e rendicontano annualmente, entro il 31 marzo dell'anno successivo, alla Giunta Regionale e all'E.R.S.A.M. sull'attività svolta e sulle spese sostenute. I rendiconti sono approvati dalla Giunta Regionale. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>ART. 7</num>
+                <rubrica>: REQUISITI DELLE STRUTTURE DI CONSULENZA DI BASE AUTOGESTITE E DEI CENTRI DI COORDINAMENTO 
+</rubrica>
+                <comma id="art7-com1">
+                    <num/>
+                    <alinea> 
+I Gruppi di Base devono: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+
+                        <corpo> essere costituiti in Società Semplice, secondo quanto previsto dal <rif
+                                xlink:href="urn:nir:stato:codice.civile:1942-03-16;262">Codice Civile</rif>, per le sole finalità di cui alla presente legge, previo riconoscimento da parte della Giunta Regionale espresso su parere dell'E.R.S.A.M.; tale riconoscimento è valido ai fini delle disposizioni dell'art.12 del Regolamento C.E.E. 797/85; 
+ 
+- essere costituiti da un numero tali di aziende, con una superficie totale complessiva di almeno 400 ettari, ed ubicate nel territorio di un solo Comune o di Comuni limitrofi, rappresentata ognuna dall'imprenditore agricolo o coadiuvante identificato secondo quanto previsto dall'<rif
+                                xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art230bis">art. 230 bis del codice civile</rif>; 
+ 
+- essere assistiti da un tecnico avente i requisiti previsti dall'<rif
+                                xlink:href="#art9">art. 9</rif>; 
+ 
+- avere durata non inferiore ai 5 anni; 
+ 
+- presentare il programma pluriennale di attività e gli stralci annuali, secondo le disposizioni di cui all'<rif xlink:href="#art10">art. 10</rif>; 
+ 
+- eleggere un Presidente quale responsabile e rappresentante del gruppo medesimo; 
+ 
+- avere denominazione e sede propria.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art7-com2">
+                    <num/>
+                    <alinea>I Centri di Coordinamento devono: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> essere emanazione delle Organizzazioni Professionali agricole (presenti nel Comitato Tecnico Scientifico) e associare almeno 10 Gruppi di Base; 
+ 
+- essere Associazioni senza scopo di lucro.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art7-com3">
+                    <num/>
+                    <alinea>Ad ogni Centro di Coordinamento è concesso, previo parere dell'E.R.S.A.M., l'impiego di tecnici agricoli con funzione di coordinamento secondo i sottoindicati parametri: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> da 10 a 20 Gruppi associati un (1) Tecnico; 
+ 
+- da 20 a 30 Gruppi associati due (2) Tecnici; 
+ 
+- oltre 30 Gruppi associati tre (3) Tecnici.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art7-com4">
+                    <num/>
+
+                    <corpo>Tali tecnici sono assunti dai centri di coordinamento, con contratto di lavoro autonomo secondo quanto previsto dagli artt. 2222 e seguenti del <rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262">Codice Civile</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>ART. 8</num>
+                <rubrica>: ASSISTENZA TECNICA SPECIALIZZATA AUTOGESTITA DALLE ASSOCIAZIONI DEI PRODUTTORI E DALLE COOPERATIVE 
+</rubrica>
+                <comma id="art8-com1">
+                    <num/>
+
+                    <corpo> 
+Le Associazioni dei Produttori e le loro Unioni, riconosciute ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:1984-08-28;23">legge regionale n. 23 del 28 agosto 1984</rif>, e le Cooperative Agricole e i loro Consorzi possono presentare progetti di Assistenza Tecnica Specializzata inerente i settori produttivi di loro competenza. </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num/>
+                    <corpo>Tali progetti, ammessi al finanziamento, sono realizzati in collaborazione con l'E.R.S.A.M. </corpo>
+                </comma>
+                <comma id="art8-com3">
+                    <num/>
+                    <corpo>Analogamente sono abilitati a richiedere tale forma di assistenza le Aziende, la cui superficie sarà determinata in sede di approvazione del piano pluriennale o annuale dei S.S.A. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>ART. 9</num>
+                <rubrica>: PERSONALE 
+</rubrica>
+                <comma id="art9-com1">
+                    <num/>
+                    <alinea> 
+Il personale da adibire ai compiti di cui alla presente legge è formato da: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> dipendenti dell'E.R.S.A.M.; 
+ 
+- dipendenti regionali; 
+ 
+- tecnici addetti al funzionamento delle strutture autogestite e dei Centri di Coordinamento facenti capo alle organizzazioni professionali agricole utilizzate dalle stesse con rapporto di lavoro di diritto privato.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art9-com2">
+                    <num/>
+                    <corpo>Al fine di attivare prontamente il servizio di assistenza tecnica, il personale in attività presso gli Uffici centrali e periferici dell'Assessorato all'Agricoltura e Foreste, in possesso delle qualifiche professionali necessarie, può, a secondo dei livelli funzionali richiesti essere comandato presso l'Ente Regionale di Sviluppo del Molise per un anno. </corpo>
+                </comma>
+                <comma id="art9-com3">
+                    <num/>
+                    <corpo>Decorso tale termine, può essere richiesto da parte degli interessati il trasferimento all'E.R.S.A.M. </corpo>
+                </comma>
+                <comma id="art9-com4">
+                    <num/>
+
+                    <corpo>Con legge regionale è variata, per le unità strettamente necessarie nonché per le qualifiche, la pianta organica del personale di cui alla tabella &lt;&lt;A&gt;&gt; della <rif xlink:href="urn:nir:regione.molise:legge:1977-11-09;40">legge regionale 9 novembre 1977, n. 40</rif>: &lt;&lt;Norme per l'organizzazione dell'Ente Regionale di Sviluppo Agricolo per il Molise&gt;&gt;. </corpo>
+                </comma>
+                <comma id="art9-com5">
+                    <num/>
+                    <corpo>I tecnici, necessari al funzionamento delle strutture autogestite e dei Centri di Coordinamento, sono scelti prioritariamente tra quelli che dimostrano di aver frequentato con profitto i corsi di formazione per divulgatori di cui al Regolamento C.E.E. 270/79 e successive modificazioni ed integrazioni. Sono altresì utilizzati i tecnici agricoli che abbiano frequentato con profitto appositi corsi di formazione, di cui agli artt. 2 e 3, di durata non inferiore a tre mesi. </corpo>
+                </comma>
+                <comma id="art9-com6">
+                    <num/>
+                    <alinea>Il personale tecnico per essere ammesso a frequentare i corsi deve essere in possesso di uno dei seguenti titoli di studio: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> Laurea in Scienze Agrarie - Laurea in Scienze Forestali e Laurea in Scienze delle Preparazioni Alimentari; 
+ 
+- Diploma di Perito Agrario o Maturità Professionale di indirizzo agrario.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art9-com7">
+                    <num/>
+                    <corpo>La modalità di selezione è la stessa prevista per i corsi dal Regolamento C.E.E. 270/79. </corpo>
+                </comma>
+                <comma id="art9-com8">
+                    <num/>
+                    <corpo>L'E.R.S.A.M. è autorizzato ad assumere, tramite concorso pubblico, le unità strettamente necessarie all'attuazione dei servizi di sviluppo agricolo di propria competenza e per i posti autorizzati dalla Giunta Regionale. </corpo>
+                </comma>
+                <comma id="art9-com9">
+                    <num/>
+                    <alinea>Potranno partecipare al concorso: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> i tecnici in possesso di attestato di frequenza con profitto dei corsi previsti in applicazione del Regolamento C.E.E. 270/79; 
+ 
+- il personale dell'Assistenza Tecnica Agricola (Gruppi di Sviluppo) delle Comunità Montane di Trivento, Riccia, Frosolone ed Agnone nell'ambito del Progetto Speciale 33 della Cassa per il Mezzogiorno in servizio alla data del 31 dicembre 1985 e/o abbiano svolto tre anni di servizio presso gli stessi Enti nell'ambito dello stesso progetto, purché in possesso dei titoli di studio richiesti e di attestazione di partecipazione a corsi di qualificazione sull'assistenza tecnica.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art9-com10">
+                    <num/>
+                    <corpo>L'espletamento del concorso e l'assegnazione del personale avverrà entro tre mesi dall'approvazione della presente legge. </corpo>
+                </comma>
+                <comma id="art9-com11">
+                    <num/>
+                    <corpo>Il personale assunto di provenienza dalle Comunità Montane dovrà svolgere un corso di perfezionamento di 30 giorni realizzato dall'E.R.S.A.M., su indicazione della Regione e in collaborazione con il CFDA/ACM. </corpo>
+                </comma>
+                <comma id="art9-com12">
+                    <num/>
+                    <corpo>Il personale E.R.S.A.M. addetto ai servizi S.S.A. sia quello addetto alle strutture autogestite, frequenta un corso di aggiornamento annuale di almeno due settimane. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>ART. 10</num>
+                <rubrica>: PROCEDURE, PARAMETRI E MODALITÀ DI FINANZIAMENTO 
+</rubrica>
+                <comma id="art10-com1">
+                    <num/>
+
+                    <corpo> 
+I Gruppi di Base o per essi i Centri di Coordinamento, a cui sono associati i soggetti di cui all'<rif xlink:href="#art8">art. 8</rif>, presentano all'E.R.S.A.M., entro il 31 luglio, indicazioni circa l'attività pluriennale e annuale che intendono svolgere. </corpo>
+                </comma>
+                <comma id="art10-com2">
+                    <num/>
+                    <corpo>L'E.R.S.A.M., sulla base dell'elaborazione del Comitato Tecnico Scientifico, presenta alla Regione per l'approvazione, il Piano pluriennale ed i piani stralcio annuali. </corpo>
+                </comma>
+                <comma id="art10-com3">
+                    <num/>
+                    <corpo>Sulla base dell'approvazione del Piano pluriennale e dei singoli piani annuali la Giunta Regionale eroga all'E.R.S.A.M. il 90% della spesa per il complesso delle attività previste. </corpo>
+                </comma>
+                <comma id="art10-com4">
+                    <num/>
+                    <corpo>Per gli anni successivi al primo, previa l'approvazione dei rendiconti la Giunta provvede al saldo della spesa e alle anticipazioni nella stessa misura. </corpo>
+                </comma>
+                <comma id="art10-com5">
+                    <num/>
+                    <alinea>L'E.R.S.A.M. eroga annualmente quanto dovuto in base alle seguenti modalità: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> l'80% all'inizio dell'attività dei Gruppi di Base; 
+ 
+- il restante 20%, nell'anno successivo a rendiconto approvato; 
+ 
+- per i compiti di propria competenza procede secondo l'avanzamento dell'attività.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art10-com6">
+                    <num/>
+                    <corpo>La Regione riconosce per le spese di gestione e coordinamento annualmente ai Centri di Coordinamento un contributo pari al 5% del costo dell'attività di ogni Gruppo associato, che eroga entro il 31 gennaio. </corpo>
+                </comma>
+                <comma id="art10-com7">
+                    <num/>
+                    <corpo>I progetti annuali di ricerca applicata promossi dall'E.R.S.A.M. sono approvati dalla Giunta Regionale sentita la competente Commissione Consiliare e possono attuarsi tramite Istituti Universitari, Enti ed Organismi specializzati operanti nel settore della ricerca, regolando i relativi rapporti con apposite convenzioni. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>ART. 11</num>
+                <rubrica>: FORMAZIONE, QUALIFICAZIONE E AGGIORNAMENTO DELLE PERSONE OCCUPATE IN AGRICOLTURA 
+</rubrica>
+                <comma id="art11-com1">
+                    <num/>
+                    <corpo> 
+Per consentire alle persone che lavorano in agricoltura che abbiano superato i 18 anni ma non abbiano compiuto i 56 anni di età, di acquistare una nuova qualificazione nella professione agricola o di migliorare quella posseduta, la Regione, anche in attuazione delle norme comunitarie in particolare a quanto previsto all'art. 21 del Regolamento C.E.E. 797/85 e all'art. 17 del D.M. MAF del 12 settembre 1985, nel rispetto delle leggi regionali n. 3/1983 e n. 8/1985 e successive modificazioni ed integrazioni e della Legge Nazionale n. 845/1978, promuove appositi corsi di formazione, qualificazione ed aggiornamento, di cui agli articoli precedenti. </corpo>
+                </comma>
+                <comma id="art11-com2">
+                    <num/>
+                    <alinea>I corsi sono finalizzati: 
+ 
+</alinea>
+                    <el id="art11-com2-leta">
+                        <num>a)</num>
+                        <corpo> alla qualificazione ed aggiornamento professionale di imprenditori coadiuvanti familiari e salariati agricoli;</corpo>
+                    </el>
+                    <el id="art11-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> alla formazione complementare, che consenta ai giovani imprenditori agricoli di età inferiore ai 40 anni di soddisfare ai requisiti richiesti per l'ottenimento del premio di insediamento;</corpo>
+                    </el>
+                    <el id="art11-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> alla formazione di dirigenti di Associazioni dei produttori e Cooperative. </corpo>
+                    </el>
+                </comma>
+                <comma id="art11-com3">
+                    <num/>
+                    <corpo>La Giunta Regionale, mediante apposite convenzioni affida ad Enti particolarmente qualificati l'organizzazione, lo svolgimento di corsi o tirocini sopraindicati. </corpo>
+                </comma>
+                <comma id="art11-com4">
+                    <num/>
+                    <corpo>Alle iniziative di Formazione Professionale si farà fronte, con i finanziamenti settoriali previsti nel Bilancio Regionale. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>ART. 12</num>
+                <rubrica>: NORMA FINANZIARIA 
+</rubrica>
+                <comma id="art12-com1">
+                    <num/>
+
+                    <corpo> 
+Agli oneri derivanti dall'applicazione della presente legge, si farà fronte con quota parte dei fondi attribuiti alla Regione ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1970-05-16;281#art9">art. 9 della legge 16 maggio 1970, n. 281</rif> e con le somme che saranno attribuite in applicazione del Regolamento C.E.E. n. 270/1979, nonché con parte dei fondi previsti nel Bilancio della Regione e relativi ai capitoli della Formazione Professionale. </corpo>
+                </comma>
+                <comma id="art12-com2">
+                    <num/>
+                    <corpo>La presente legge per l'anno 1988 non comporta oneri di spesa. </corpo>
+                </comma>
+                <comma id="art12-com3">
+                    <num/>
+                    <corpo>La stessa legge approvativa del bilanci regionali provvederà a quantificare l'onere annuale di spesa derivante dall'applicazione della presente legge. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>ART. 13 </num>
+                <comma id="art13-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello di pubblicazione nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

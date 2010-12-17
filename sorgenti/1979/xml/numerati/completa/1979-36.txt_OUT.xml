@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19790216" num="3" tipo="BURM"/>
+                <entratainvigore norm="19790303"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1979-02-01;5"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 03 del 16/02/79 
+ 
+Oggetto 
+Regione - Controllo sugli atti degli enti sottoposti - Disciplina - Modifiche 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 15/1992 art. 35 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 2/1983 art. 1 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19790201">1 Febbraio 1979</dataDoc>, n. <numDoc>5</numDoc>
+            <titoloDoc>Modifica al <rif
+                    xlink:href="urn:nir:regione.molise:legge:1972-08-07;11#art2-com1">1 comma dell'art. 2 della legge regionale 7 agosto 1972, n. 11</rif> e abrogazione del <rif xlink:href="urn:nir:regione.molise:legge:1976-11-05;32#art16-com1">1 comma dell'art. 16 della legge regionale 5 novembre 1976, n. 32</rif>
+            </titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>Abrogata intera legge dalla legge n. 15/1992 art. 35</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>
