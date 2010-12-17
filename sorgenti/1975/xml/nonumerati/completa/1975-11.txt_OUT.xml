@@ -9,7 +9,7 @@
                 <redazione id="red1" nome="" norm=""/>
                 <urn valore="urn:nir:regione.molise:legge:1975-05-28;38"/>
                 <materie vocabolario="Regione Molise">
-                    <materia valore="-"/>
+                    <materia valore="02.artigianato"/>
                 </materie>
             </descrittori>
         </meta><?error 02.Artigianato 

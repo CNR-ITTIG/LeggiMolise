@@ -9,7 +9,7 @@
                 <redazione id="red1" nome="" norm=""/>
                 <urn valore="urn:nir:regione.molise:legge:1997-10-21;19"/>
                 <materie vocabolario="Regione Molise">
-                    <materia valore="-"/>
+                    <materia valore="15.industria"/>
                 </materie>
             </descrittori>
         </meta><?error 15.Industria 

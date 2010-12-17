@@ -9,7 +9,7 @@
                 <redazione id="red1" nome="" norm=""/>
                 <urn valore="urn:nir:regione.molise:legge:2001-06-16;13"/>
                 <materie vocabolario="Regione Molise">
-                    <materia valore="-"/>
+                    <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
                 </materie>
             </descrittori>
         </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 

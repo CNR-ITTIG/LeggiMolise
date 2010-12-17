@@ -9,7 +9,7 @@
                 <redazione id="red1" nome="" norm=""/>
                 <urn valore="urn:nir:regione.molise:legge:2002-07-08;12"/>
                 <materie vocabolario="Regione Molise">
-                    <materia valore="-"/>
+                    <materia valore="bollettino"/>
                 </materie>
             </descrittori>
         </meta><?error Bollettino 

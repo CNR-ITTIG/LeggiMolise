@@ -9,7 +9,7 @@
                 <redazione id="red1" nome="" norm=""/>
                 <urn valore="urn:nir:regione.molise:legge:1993-03-08;5"/>
                 <materie vocabolario="Regione Molise">
-                    <materia valore="-"/>
+                    <materia valore="03.assistenza abitativa"/>
                 </materie>
             </descrittori>
         </meta><?error 03.Assistenza abitativa 
