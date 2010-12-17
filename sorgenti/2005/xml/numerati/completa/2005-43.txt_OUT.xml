@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20050416" num="8" tipo="BURM"/>
+                <entratainvigore norm="20050501"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2005-04-01;10"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+18.Lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 8 del 16 aprile 2005 
+ 
+Oggetto 
+Cooperazione agricola - Interventi - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20050401">1 aprile 2005</dataDoc>, n. <numDoc>10</numDoc>. 
+ 
+<titoloDoc>Interventi a favore della cooperazione agricola ed agroalimentare nella Regione Molise. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+(Finalità) 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione Molise promuove e sostiene la cooperazione agricola ed agroalimentare come strumento indispensabile per il consolidamento e lo sviluppo più generale dell'agricoltura regionale ed il rafforzamento delle filiere agroalimentari, con lo scopo di conseguire ricadute positive dirette e tangibili sui produttori primari. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> La presente legge ha le seguenti finalità: 
+ 
+</alinea>
+                    <el id="art1-com2-leta">
+                        <num>a)</num>
+                        <corpo> valorizzare le produzioni agricole ed agroalimentari, favorendo un ruolo attivo dei produttori primari nel rapporto con il mercato;</corpo>
+                    </el>
+                    <el id="art1-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> sviluppare il ruolo multifunzionale dell'agricoltura;</corpo>
+                    </el>
+                    <el id="art1-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> favorire il processo di consolidamento ed allargamento della base associativa e del capitale sociale delle imprese cooperative, favorendo l'accrescimento dell'occupazione nelle stesse;</corpo>
+                    </el>
+                    <el id="art1-com2-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> agevolare il processo di aggregazione fra cooperative che decidono di integrare la loro attività, onde favorire la concentrazione dell'offerta e l'integrazione verticale di componenti delle diverse filiere agroalimentari;</corpo>
+                    </el>
+                    <el id="art1-com2-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> sostenere il processo di investimento in impianti ed innovazioni organizzative, tecnologiche e di prodotto, in particolare quelle che contribuiscono alla salvaguardia dell'ambiente, alla tutela della salute dei produttori agricoli e della sicurezza delle produzioni e dei consumatori;</corpo>
+                    </el>
+                    <el id="art1-com2-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> favorire l'acquisizione di servizi innovativi;</corpo>
+                    </el>
+                    <el id="art1-com2-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> favorire lo sviluppo delle reti commerciali e promozionali;</corpo>
+                    </el>
+                    <el id="art1-com2-leth">
+                        <num> 
+ 
+h)</num>
+                        <corpo> supportare la realizzazione di sistemi di qualità aziendale certificati secondo norme riconosciute a livello internazionale. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+(Beneficiari) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <alinea> Beneficiari degli interventi previsti dalla presente legge sono: 
+ 
+</alinea>
+                    <el id="art2-com1-leta">
+                        <num>a)</num>
+
+                        <corpo> le società cooperative agricole ed agroalimentari e loro consorzi a mutualità prevalente ai sensi del <rif
+                                xlink:href="urn:nir:stato:codice.civile:1942-03-16;262">codice civile</rif>, i cui prodotti sono compresi nell'allegato 1 al trattato del 25 marzo 1957 istitutivo della Comunità Europea, ad esclusione dei prodotti di acquacoltura, a condizione che siano regolarmente iscritte all'Albo regionale di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1995-02-13;6">legge regionale 13 febbraio 1995, n. 6</rif>;</corpo>
+                    </el>
+                    <el id="art2-com1-letb">
+                        <num> 
+ 
+b)</num>
+
+                        <corpo> le società di capitali, qualora la partecipazione azionaria delle cooperative di cui alla <rif xlink:href="#art2-com1-leta">lettera a)</rif> non sia inferiore al cinquantuno per certo;</corpo>
+                    </el>
+                    <el id="art2-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> le Organizzazioni regionali delle cooperative agricole ed agroalimentare aderenti agli organismi nazionali giuridicamente riconosciuti ai sensi dell'articolo 5 del Decreto legislativo C.P.S. 14 dicembre 1947, n. 1577, e successive modifiche ed integrazioni. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+(Investimenti ammissibili ai benefici) 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <alinea> I benefici della presente legge sono concessi per: 
+ 
+</alinea>
+                    <el id="art3-com1-leta">
+                        <num>a)</num>
+
+                        <alinea> spese di avviamento e ampliamento di società cooperative in possesso dei requisiti delle organizzazioni di produttori così come definite dal <rif xlink:href="urn:nir:stato:decreto.legislativo:2001-05-18;228">decreto legislativo 18 maggio 2001, n. 228</rif>, e che siano dotate di un regolamento interno che prevede l'obbligo dei soci di commercializzare la produzione secondo le norme. di produzione, di conferimento e di immissione sul mercato stabilite dalla cooperativa. Tali norme possono consentire la commercializzazione diretta da parte del produttore di una quota della produzione. Il regolamento, inoltre, deve prevedere che i produttori aderenti sono obbligati a rimanere membri per un minimo di tre anni e comunicare un preavviso di almeno dodici mesi prima di recedere. Sono escluse dagli aiuti all'avviamento ed all'ampliamento le cooperati\ve, pur riconoscibili come organizzazioni di produttori, il cui obiettivo è la gestione di una o più aziende agricole o che. non rispettano le norme sulla concorrenza o che hanno ottenuto il riconoscimento da oltre sette anni. Sono considerate ammissibili ai contributi le seguenti voci: 
+ 
+</alinea>
+                        <en id="art3-com1-leta-num1">
+                            <num>1)</num>
+                            <corpo> spese di costituzione: 
+ 
+1.1) spese legali ed amministrative; 
+ 
+1.2) consulenze per progetti di fattibilità, nel limite di 100.000,00 euro per beneficiario su tre anni; 
+</corpo>
+                        </en>
+                    </el><?error Marker Warning 101 (last comma:1 next:1)?>
+                </comma>
+                <comma id="art3-com2">
+                    <num> 
+2)</num>
+                    <corpo> spese di avviamento: 
+ 
+2.1) affitto locali. In caso di acquisto di immobili per lo svolgimento dell'attività le spese ammissibili sono limitate al costo della locazione ai prezzi di mercato; 
+ 
+2.2) acquisto di attrezzature da ufficio, compresi materiali e programmi informativi; 
+ 
+2.3) costi del personale; 
+ 
+2.4) costi di esercizio; 
+ 
+2.5) spese legali ed amministrative:; 
+</corpo><?error Marker Warning 101 (last comma:2 next:2)?>
+                </comma>
+                <comma id="art3-com3">
+                    <num> 
+3)</num>
+
+                    <corpo> spese di ampliamento: 
+ 
+3.1) sono ammissibili esclusivamente le spese, le cui tipologie sono elencate al numero 2), derivanti dai costi aggiuntivi sostenuti dalla cooperativa per la realizzazione del progetto di ampliamento. L'adesione di nuovi membri è considerato ampliamento significativo solo se dà luogo ad un'espansione quantitativa dell'attività pari almeno al 30%; 
+ 
+b) realizzazione, ristrutturazione, riconversione, ampliamento, ammodernamento e acquisto di strutture, compresa la sistemazione delle relative aree di pertinenza, destinate alla produzione, alla raccolta, alla conservazione, alla lavorazione, alla trasformazione, al controllo di qualità e di gestione ambientale dei processi e dei prodotti, nonché acquisto di impianti, macchinari e attrezzature connesse alle predette attività. Sono comunque esclusi gli autoveicoli da trasporto; 
+ 
+c) acquisizione di beni immateriali, quali diritti di brevetto e know-how, comprese le spese generali, onorari ed oneri di progettazione e studi di fattibilità, soltanto se inclusi in un più ampio programma di investimenti generali ricompredenti, innanzitutto, la costruzione o l'acquisizione di beni immobili e l'acquisto di nuovi macchinari e attrezzature. La spesa ammissibile per l'acquisizione di detti beni immateriali non può superare il 12% del valore dell'investimento totale; 
+ 
+d) spese per consulenze di marketing e promozione generale di marchi di qualità, cioè biologici, DOP e IGP, e relativa pubblicizzazione dei vantaggi derivanti; le consulenze di marketing considerate ammissibili riguardano la progettazione dell'immagine coordinata dei marchi, dei piani di inserimento e consolidamento sul mercato e le analisi di mercato; sono altresì ammissibili le voci di promozione generale relative alle attività di presentazione dei prodotti con degustazione, i seminari tecnici, le pubblicazioni contenenti informazioni tecnico/qualitative, mentre le voci ammesse per la pubblicizzazione dei vantaggi derivanti sono le campagne nei punti vendita, nei momenti fieristici o le vendite assistite (ad esempio: affitto dei locali o degli stands, allacciamenti tecnici, spese per il personale reclutato per l'occasione, trasporti, altre spese affini); non sono ammissibili i costi relativi ai prodotti presentati o offerti:in degustazione e i costi salariali del personale permanente in trasferta. I marchi di qualità, inoltre, debbono soddisfare i seguenti criteri: 
+ 
+1) verifica ed approvazione della Commissione UE; 
+ 
+2) fermo il rispetto del <rif xlink:href="urn:nir:comunita.europee:regolamento:1992;2081">Regolamento (CEE) n. 2081/ 1992</rif> del Consiglio del 14 luglio 1992, relativo alla protezione delle indicazioni geografiche e delle denominazioni di origine dei prodotti agricoli e alimentari, la provenienza geografica non deve figurare fra i criteri utilizzati per determinare la "qualità"; 
+ 
+3) tutti i produttori nonché i prodotti originari di altri Stati membri possono avere la possibilità di fregiarsi di marchi di qualità qualora i prodotti siano conformi ai criteri di qualità fissati; 
+</corpo><?error Marker Warning 101 (last comma:3 next:3)?>
+                </comma>
+                <comma id="art3-com4">
+                    <num> 
+4)</num>
+                    <corpo> i controlli di qualità su prodotti provenienti da altri Stati membri, che facciano richiesta di utilizzazione del marchio di qualità, devono essere previsti solo sui prodotti per cui viene presentata la domanda. I controlli già eseguiti dalle autorità competenti di altri Stati membri vengono riconosciuti in base all'equivalenza; 
+ </corpo>
+                </comma>
+                <comma id="art3-com5">
+                    <num>
+5)</num>
+                    <corpo> i riferimenti all'origine dei prodotti a marchio DOP e IGP devono corrispondere esattamente a quelli registrati nella Comunità; 
+ </corpo>
+                </comma>
+                <comma id="art3-com6">
+                    <num>
+6)</num>
+
+                    <corpo><?error Marker Warning 108?> i prodotti biologici devono recare indicazioni facenti riferimento a metodi di produzione biologica conformi al <rif
+                            xlink:href="urn:nir:comunita.europee:regolamento:1991;2092">Regolamento (CEE) n. 2092/ 1991</rif>; 
+ 
+e) spese per consulenze per la progettazione di campagne pubblicitarie. Le consulenze per la progettazione di campagne pubblicitarie sono ammissibili a finanziamento se rispettano gli Orientamenti Comunitari per gli Aiuti di Stato a favore della pubblicità dei prodotti di cui all'allegato I del trattato nonché di determinati prodotti non compresi in detto allegato (2001/C 252/03), in particolare è necessario che gli aiuti a favore della pubblicità dei prodotti agricoli non alterino le condizioni degli scambi in misura contraria al comune interesse e favoriscano lo sviluppo di talune attività o di talune regioni economiche. Nel dettaglio è ammissibile una campagna pubblicitaria che riguarda: 
+ 
+1) produzioni agricole in eccedenza o specie sottoutilizzate; 
+ 
+2) produzioni nuove o sostitutive non ancora eccedentarie; 
+ 
+3) prodotti di qualità pregiata, compresi i prodotti ottenuti con metodi di produzione o di raccolta che rispettano l'ambiente, quali i prodotti biologici; 
+ 
+4) sviluppo di determinate regioni; 
+ 
+5) sviluppo delle piccole e medie imprese (PMI) quali definite nel <rif xlink:href="urn:nir:comunita.europee:regolamento:2001;70">Regolamento (CE) n. 70/2001</rif> della Commissione, del 12 gennaio 2001, relativo all'applicazione degli articoli 87 e 88 del trattato CE agli aiuti di Stato a favore delle piccole e medie imprese; 
+ 
+6) progetti organizzati congiuntamente da organizzazioni di produttori; 
+ 
+f) spese per consulenza di gestione aziendale e servizi ausiliari; 
+ 
+g) spese per consulenze finalizzate all'introduzione ed al miglioramento di sistemi di qualità, sicurezza sul lavoro, igiene degli alimenti e di gestione ambientale all'interno delle imprese ed all'ottenimento delle relative certificazioni rilasciate da organismi accreditati presso il SINCERT od altri organismi europei riconosciuti, nonché le spese per i controlli di mantenimento dei requisiti inerenti alle certificazioni acquisite, quando i controlli sono effettuati da organismi indipendenti, accreditati presso il SINCERT o presso altri organismi europei riconosciuti. Restano esclusi i controlli, sia volontari che obbligatori, effettuati nell'ambito delle attività di autocontrollo; 
+ 
+h) spese per l'introduzione di sistemi di verifica della conformità delle produzioni a disciplinari adottati che presentano norme di controllo più restrittive di quelle previste dalla normativa di riferimento vigente; 
+ 
+i) spese per la formazione del personale finalizzata all'applicazione delle norme di assicurazione di qualità e dei sistemi di autocontrollo; 
+ 
+l)   per gli organismi citati alla lettera c) dell'articolo 2, spese per lo svolgimento dei compiti di istituto e, in particolare, le spese relative alla progettazione e realizzazione delle iniziative sotto elencate, purché le stesse siano fruibili da tutti i soggetti, anche non soci, che, in possesso dei requisiti di ammissibilità, ne facciano richiesta: 
+ 
+1) studi e programmi di diffusione dei principi cooperativi e attività promozionali; 
+ 
+2) formazione specialistica e aggiornamento dei quadri dirigenti delle cooperative, se rivestono anche la qualifica di conferitori e, quindi, di produttori primari, e di assistenza tecnica nei confronti dei produttori agricoli; 
+ 
+3) concorsi, mostre e fiere, incluse le spese connesse alla partecipazione a tali manifestazioni; 
+ 
+4) progetti pilota su scala ragionevolmente limitata o dimostrativi finalizzati alla diffusione di nuove tecniche, con priorità per le iniziative inerenti alla diversificazione dei redditi, l'innovazione tecnologica e l'impatto ambientale. Restano esclusi tutti i costi di carattere generale che non sono riconducibili direttamente alle iniziative di cui ai punti 1), 2), 3) e 4). 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+(Contributi) 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+
+                    <alinea> In riferimento alle tipologie degli investimenti ammissibili di cui all'<rif xlink:href="#art3">articolo 3</rif> sono previsti i seguenti contributi: 
+ 
+</alinea>
+                    <el id="art4-com1-leta">
+                        <num>a)</num>
+
+                        <corpo> contributo alle spese di costituzione e di funzionamento amministrativo, limitatamente ai primi cinque anni di attività, in favore delle cooperative di cui alla <rif xlink:href="#art3-com1-leta">lettera a) del comma 1 dell'articolo 3</rif>. Detto contributo non può superare nel primo anno il 100% dei costi sostenuti ed è ridotto del 20% per ciascun anno di esercizio, in modo che al quinto anno è limitato al 20% dei costi effettivi di quello stesso anno;</corpo>
+                    </el>
+                    <el id="art4-com1-letb">
+                        <num> 
+ 
+b)</num>
+
+                        <corpo> contributi agli investimenti materiali, di cui alla lettera b) del comma 1 dell'articolo 3, pari al 40% del volume degli investimenti e, riguardo alle zone svantaggiate, al 50%. Qualora la società richiedente sia composta in maggioranza da giovani che si trovano nei cinque anni dalla data di insediamento in agricoltura, tali percentuali sono elevate, rispettivamente, al 45% ed al 55%. I contributi sono comunque concessi, nei limiti e nel rispetto dei criteri previsti dal <rif xlink:href="urn:nir:comunita.europee:regolamento:1999;1257">Regolamento CE n. 1257/1999</rif> e da-gli Orientamenti comunitari per gli aiuti di Stato nel settore agricolo (2000/C 28/02), secondo le seguenti condizioni; 
+ 
+1) per gli investimenti inerenti al settore della trasformazione e commercializzazione dei prodotti agricoli, i contributi sono concessi esclusivamente ad imprese: 
+ 
+1.1) la cui redditività è dimostrata mediante una valutazione delle prospettive sulla base dei criteri stabiliti nel Programma operativo regionale POR Molise 2000/2006 e da successivi atti programmatori. Non sono comunque ammissibili aiuti alle imprese in difficoltà finanziaria; 
+ 
+1.2) che soddisfano i requisiti comunitari minimi in materia di ambiente, igiene e benessere degli animali. Nel caso in cui gli investimenti sono finalizzati a conformarsi a nuovi requisiti minimi, il sostegno può essere concesso per il loro raggiungimento; 
+ 
+1.3) i cui investimenti non sono finalizzati ad un aumento della produzione di prodotti che non trovano sbocchi normali sui mercati o che contravvengono ad eventuali restrizioni della produzione od a limitazioni del sostegno comunitario fissate nel quadro delle organizzazioni comuni di mercato, secondo quanto previsto dal POR Molise 2000/2006 e da successivi atti programmatori; 
+</corpo>
+                    </el><?error Marker Warning 101 (last comma:1 next:1)?>
+                </comma>
+                <comma id="art4-com2">
+                    <num> 
+2)</num>
+
+                    <corpo> per gli investimenti inerenti al settore primario, le condizioni di ammissibilità da rispettare sono le seguenti: 
+ 
+2.1) redditività dimostrata mediante una valutazione delle prospettive sulla base dei criteri stabiliti nel Programma operativo regionale POR Molise 2000/2006 e da successivi atti programmatori. Non sono comunque ammissibili aiuti alle imprese in difficoltà finanziaria; 
+ 
+2.2) soddisfacimento dei requisiti comunitari minimi in materia di ambiente, igiene e benessere degli animali, nel caso in cui gli investimenti sono finalizzati a conformarsi a nuovi requisiti minimi. Il sostegno può essere concesso per il loro raggiungimento; 
+ 
+2.3) non ammissibilità di investimenti finalizzati ad un aumento della produzione di prodotti che non trovano sbocchi normali sui mercati o che contravvengono ad eventuali restrizioni della produzione od a limitazioni del sostegno comunitario fissate nel quadro delle organizzazioni comuni di mercato, secondo quanto previsto dal POR Molise 2000/2006 e da successivi atti programmatori; 
+ 
+2.4) possesso di professionalità adeguate da parte dei conduttori delle aziende; 
+ 
+c) contributi agli investimenti immateriali, di cui alle lettere c), d), e), f), g), h), i) e 1) del <rif
+                            xlink:href="#art3-com1">comma 1 dell'articolo 3</rif>, nella misura massima pari al 50% dei costi ammissibili nelle zone svantaggiate e del 40% nelle altre zone (aumentabili a 55% a 45% qualora la società richiedente sia composta in maggioranza da giovani) per ciò che riguarda gli investimenti nella produzione primaria; nella misura massima del 50% delle spese ammissibili nelle zone Obiettivo 1, e 40% nelle altre zone, per quanto riguarda esclusivamente gli investimenti nella trasformazione e commercializzazione. In ogni caso l'importo complessivo del contributo, per beneficiario, non può superare i 100.000/euro nel triennio, considerando per beneficiario chi usufruisce dei servizi. Le azioni di pubblicità e promozione dei prodotti agricoli, a pena di inammissibilità, devono osservare gli "Orientamenti comunitari per gli aiuti di Stato a favore della pubblicità dei prodotti di cui all'allegato I del Trattato nonché di determinati prodotti non compresi in detto allegato, pubblicati nella GU C 252 del 12 settembre 2001". In base al punto 12 degli orientamenti sulla pubblicità, gli aiuti concessi a favore della pubblicità di prodotti agricoli e di altri prodotti per essere ammessi alle agevolazioni non devono alterare le condizioni degli scambi in misura contraria al comune interesse (criteri negativi) e devono favorire lo sviluppo di talune attività o di talune regioni economiche (criteri positivi). Pertanto sono ammesse alle agevolazioni le azioni pubblicitarie che promuovono le caratteristiche intrinseche dei prodotti; ogni eventuale riferimento all'origine nazionale deve risultare secondaria rispetto al messaggio principale, in modo da ottenere un ragionevole equilibrio tra la qualità del prodotto e la sua origine nazionale. Le azioni pubblicitarie, inoltre, per essere ammissibili alle agevolazioni contributive, devono favorire esclusivamente prodotti di qualità pregiata (DOP, IGP, prodotti biologici o da agricoltura integrata). Non sono ammesse campagne pubblicitarie riguardanti precipuamente i prodotti di una o più imprese. Qualora gli aiuti sono richiesti da un Consorzio di Produttori o da una Organizzazione di Produttori, tutti i produttori che rispettano i criteri di produzione e di qualità fissati, possono beneficiarne, anche se non fanno parte del Consorzio o della Associazione in questione. In ogni caso le azioni pubblicitarie devono essere conformi al disposto dell'<rif
+                            xlink:href="urn:nir:comunita.europee:direttiva:2000-03-20;2000-13-ce#art2">art. 2 della Direttiva 2000/13 CE del Parlamento europeo e del Consiglio, del 20 marzo 2000</rif>, relativa al ravvicinamento delle legislazioni degli Stati membri concernenti l'etichettatura e la presentazione dei prodotti alimentari, nonché la relativa pubblicità; 
+ 
+d) contributi alle Organizzazioni regionali di cui alla <rif xlink:href="#art2-com1-letc">lettera c) del comma 1 dell'articolo 2</rif>, proporzionalmente alla rappresentatività settoriale, nella misura del 100% delle spese elencate alla lettera I) del comma 1 dell'articolo 3. 
+ 
+</corpo><?error Marker Warning 101 (last comma:2 next:2)?>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+(Vincoli) 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo> I beni acquisiti o realizzati con i contributi previsti dalla presente legge sono inalienabili e soggetti a vincolo di destinazione e di uso per finalità agricole, agroalimentari, agroindustriali, zootecniche e forestali di durata decennale per gli immobili e quinquennale per gli altri. La durata del vincolo decorre dalla data di acquisizione o realizzazione dei beni idoneamente documentata. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Se i beni sono riconosciuti dalla Regione inutilizzabili per le loro originarie finalità, la loro cessione può essere autorizzata dalla stessa Regione a condizione che i proventi siano reinvestiti per finalità agricole. In tal caso decorre dal momento della compiuta realizzazione dei nuovi investimenti il vincolo di destinazione per la durata residua. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+(Revoca dei benefici e recupero delle somme erogate) 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <corpo> La violazione dei vincoli di inalienabilità, destinazione e di uso comporta la revoca integrale dei contributi erogati ed il recupero degli stessi maggiorati degli interessi calcolati al tasso legale. </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La mancata, totale o parziale, esecuzione del progetto ammesso al finanziamento comporta automaticamente la revoca totale o parziale del finanziamento concesso ed il recupero dei contributi erogati. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+(Disposizioni procedurali e organizzative) 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <corpo> La Giunta regionale stabilisce i criteri, le priorità, le modalità ed i termini per la presentazione e l'istruttoria delle domande al fine della concessione dei benefici previsti dalla presente legge. </corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> In fase di prima applicazione gli atti deliberativi di cui al <rif xlink:href="#art7-com1">comma 1</rif> sono adottati dalla Giunta regionale entro sessanta giorni dall'entrata in vigore della presente legge. </corpo>
+                </comma>
+                <comma id="art7-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Nelle more dell'effettivo trasferimento delle funzioni amministrative conferite agli Enti locali ai sensi. della <rif xlink:href="urn:nir:regione.molise:legge:1999-09-29;34">legge regionale 29 settembre 1999, n. 34</rif>, i procedimenti per la concessione dei benefici di cui alla presente legge sono svolti a cura dei competenti uffici regionali eventualmente supportati da esperti in materia di economia agraria ed aziendale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>
+ 
+(Compatibilità con le disposizioni dell'Unione europea) 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+                    <corpo> Gli aiuti di cui alla presente legge sono concessi in quanto compatibili con il Regolamento n. 1257/1999 e con gli Orientamenti comunitari per gli aiuti di Stato nel settore agricolo (2000/C 28/02). </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La presente legge è sottoposta a procedura di notifica alla Commissione europea. Solo successivamente all'esito positivo dell'esame comunitario sono avviate le procedure di concessione dei finanziamenti. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <rubrica>
+ 
+(Disposizioni finanziarie) 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+                    <corpo> Agli oneri derivanti dall'applicazione della presente legge, quantificati per l'esercizio finanziario 2005 in euro 100.000,00, si provvede con la legge di assestamento del bilancio del medesimo esercizio finanziario. </corpo>
+                </comma>
+                <comma id="art9-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Per gli esercizi successivi si provvederà con le leggi di approvazione del bilancio. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <rubrica>
+ 
+(Disposizioni abrogative) 
+ </rubrica>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art10-com1-mod1"> È abrogata la <rif
+                                xlink:href="urn:nir:regione.molise:legge:2000-05-22;37">legge regionale 22 maggio 2000, n. 37</rif>, concernente: "<virgolette
+                                id="art10-com1-mod1-vir1" tipo="parola">Interventi a favore della cooperazione agricola ed agroalimentare nella Regione Molise</virgolette>". 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+                <rubrica>
+ 
+(Entrata in vigore) 
+ </rubrica>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

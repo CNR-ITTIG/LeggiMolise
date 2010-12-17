@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20081201" num="27" tipo="BURM"/>
+                <entratainvigore norm="20081216"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2008-11-26;34"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 27 del 1 dicembre 2008 
+ 
+Oggetto 
+Servizio sanitario regionale - Riorganizzazione - Disposizioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20081126">26 novembre 2008</dataDoc>, n. <numDoc>34</numDoc>.  
+ 
+<titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:2005-04-01;9">legge regionale 1 aprile 2005, n. 9</rif>, ad oggetto: "Riordino del Servizio sanitario regionale". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art1-com1-mod1"> L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2005-04-01;9#art3">articolo 3 della legge regionale 1° aprile 2005, n. 9</rif> (Riordino del Servizio sanitario regionale), è sostituito dal seguente:  
+ 
+"<virgolette
+                                id="art1-com1-mod1-vir1" tipo="struttura">
+                                <articolo id="art0">
+                                    <num>Art. 3  </num>
+                                    <rubrica>
+ 
+Azienda sanitaria regionale del Molise - Assetto territoriale  
+ </rubrica>
+                                    <comma id="art0-com1">
+                                    <num>
+1.</num>
+                                    <corpo> La Regione assicura i livelli di assistenza attraverso l'Azienda sanitaria regionale del Molise, in sigla A.S.Re.M., corrispondente all'intero territorio regionale.  </corpo>
+                                    </comma>
+                                    <comma id="art0-com2">
+                                    <num>
+ 
+2.</num>
+                                    <alinea> Per garantire i livelli essenziali di assistenza, la A.S.Re.M. si avvale:  
+ 
+</alinea>
+                                    <el id="art0-com2-leta">
+                                    <num>a)</num>
+                                    <corpo> dei propri servizi e presidi;</corpo>
+                                    </el>
+                                    <el id="art0-com2-letb">
+                                    <num>  
+ 
+b)</num>
+
+                                    <corpo> dei soggetti erogatori operanti nel Molise, di rilievo nazionale e regionale, accreditati dalla Regione e nei limiti dei contratti stipulati ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1992;502#art8quinquies">articolo 8 quinquies del decreto legislativo n. 502/1992</rif> e successive modifiche ed integrazioni.  </corpo>
+                                    </el>
+                                    </comma>
+                                    <comma id="art0-com3">
+                                    <num>
+ 
+3.</num>
+                                    <alinea> La A.S.Re.M., con sede legale in Campobasso, dotata di personalità giuridica pubblica e di autonomia imprenditoriale, provvede:  
+ 
+</alinea>
+                                    <el id="art0-com3-leta">
+                                    <num>a)</num>
+                                    <corpo> alla definizione degli obiettivi di salute secondo gli indirizzi delineati dalla programmazione regionale e dalla pianificazione aziendale nonché al loro perseguimento;</corpo>
+                                    </el>
+                                    <el id="art0-com3-letb">
+                                    <num>  
+ 
+b)</num>
+                                    <corpo> alla programmazione organizzativa ed operativa per la gestione delle risorse strumentali ed umane dei servizi sanitari;</corpo>
+                                    </el>
+                                    <el id="art0-com3-letc">
+                                    <num>  
+ 
+c)</num>
+                                    <corpo> al coordinamento dei servizi relativi ai differenti livelli assistenziali (ospedale, distretti, prevenzione);</corpo>
+                                    </el>
+                                    <el id="art0-com3-letd">
+                                    <num>  
+ 
+d)</num>
+                                    <corpo> alla rilevazione, all'orientamento ed alla valutazione della domanda socio-sanitaria, alla verifica del grado di soddisfacimento della stessa, nonché alla valutazione complessiva dei consumi;</corpo>
+                                    </el>
+                                    <el id="art0-com3-lete">
+                                    <num>  
+ 
+e)</num>
+                                    <corpo> alla distribuzione delle risorse assegnate ed alla corretta utilizzazione delle stesse;</corpo>
+                                    </el>
+                                    <el id="art0-com3-letf">
+                                    <num>  
+ 
+f)</num>
+
+                                    <corpo> all'integrazione, sia a livello programmatorio che di attuazione, dei servizi sanitari con i servizi sociali nel rispetto di quanto previsto dall'<rif xlink:href="urn:nir:stato:decreto.legislativo:1992;502#art3septies">articolo 3 septies del decreto legislativo n. 502/1992</rif> e successive modifiche ed integrazioni;</corpo>
+                                    </el>
+                                    <el id="art0-com3-letg">
+                                    <num>  
+ 
+g)</num>
+                                    <corpo> alla gestione dei rapporti di informazione e di collaborazione con la Conferenza dei Sindaci di cui all'articolo 8;</corpo>
+                                    </el>
+                                    <el id="art0-com3-leth">
+                                    <num>  
+ 
+h)</num>
+                                    <corpo> alla negoziazione con le organizzazioni sindacali, sulla base di indirizzi aziendali, per le intese e gli accordi.  </corpo>
+                                    </el>
+                                    </comma>
+                                    <comma id="art0-com4">
+                                    <num>
+ 
+4.</num>
+                                    <corpo> L'A.S.Re.M. è articolata in distretti che comprendono gli stabilimenti ospedalieri ed i presidi ospedalieri, entrambi a gestione diretta. I compiti dei distretti si esauriscono nelle attività territoriali, mentre l'attività ospedaliera, che costituisce un separato livello assistenziale, fa capo direttamente alla A.S.Re.M..  </corpo>
+                                    </comma>
+                                    <comma id="art0-com5">
+                                    <num>
+ 
+5.</num>
+
+                                    <corpo> I distretti, il cui numero è definito nel Piano sanitario regionale e le cui dimensioni sono definite nell'atto aziendale, costituiscono il livello in cui si realizza la gestione integrata tra servizi sanitari e socio-assistenziali. I distretti sono strutture complesse con capacità di organizzare e di gestire l'insieme dei servizi territoriali in funzione dei bisogni di salute dei cittadini, nonché di esercitare il controllo della qualità degli interventi e l'uso appropriato delle risorse. Il Direttore generale dell'A.S.Re.M. nomina il Direttore del distretto, che viene scelto tra il personale dirigente dell'azienda, che abbia maturato una specifica esperienza nei servizi territoriali, oppure tra il personale medico convenzionato, ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1999;229#art8-com1">articolo 8, comma 1, del decreto legislativo n. 229/1999</rif>, da almeno dieci anni, con contestuale congelamento di un corrispondente posto di organico della dirigenza sanitaria.  </corpo>
+                                    </comma>
+                                    <comma id="art0-com6">
+                                    <num>
+ 
+6.</num>
+                                    <corpo> Il presidio ospedaliero, dotato di autonomia gestionale, assicura la fornitura di prestazioni specialistiche, di ricovero e ambulatoriali, secondo le caratteristiche qualitative previste dalla programmazione regionale.</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2  </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art2-com1-mod2"> Dopo l'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2005-04-01;9#art4">articolo 4 della legge regionale 1° aprile 2005, n. 9</rif>, è aggiunto il seguente:  
+ 
+"<virgolette
+                                id="art2-com1-mod2-vir2" tipo="struttura">
+                                <articolo id="art0">
+                                    <num>Art. 4-bis </num>
+                                    <rubrica>
+ 
+Contabilità  
+ </rubrica>
+                                    <comma id="art0-com1">
+                                    <num>
+1.</num>
+                                    <corpo> Il Direttore generale dell'A.S.Re.M. adotta tutti i provvedimenti di ordine amministrativo e finanziario per l'adeguamento del sistema di contabilità ed il superamento delle contabilità zonali. Tutte le obbligazioni di qualsiasi tipo facenti capo alle disciolte zone sono assunte dalla A.S.Re.M.</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art3-com1-mod3"> L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2005-04-01;9#art5">articolo 5 della legge regionale 1° aprile 2005, n. 9</rif>, è sostituito dal seguente:  
+ 
+"<virgolette
+                                id="art3-com1-mod3-vir3" tipo="struttura">
+                                <articolo id="art0">
+                                    <num>Art. 5 </num>
+                                    <rubrica>
+ 
+Atto aziendale  
+ </rubrica>
+                                    <comma id="art0-com1">
+                                    <num>
+1.</num>
+
+                                    <corpo> L'A.S.Re.M. disciplina l'organizzazione ed il funzionamento mediante atto aziendale di diritto privato di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1992;502#art3-com1bis">articolo 3, comma 1 bis, del decreto legislativo n. 502/1992</rif> e successive modifiche ed integrazioni.  </corpo>
+                                    </comma>
+                                    <comma id="art0-com2">
+                                    <num>
+ 
+2.</num>
+                                    <corpo> Il Direttore generale, entro novanta giorni, elabora la proposta di atto aziendale sulla base degli indirizzi e dei criteri formulati dalla Giunta regionale, nel rispetto dei principi ed obiettivi fissati dal Consiglio regionale. L'atto aziendale è approvato dalla Giunta regionale.  </corpo>
+                                    </comma>
+                                    <comma id="art0-com3">
+                                    <num>
+ 
+3.</num>
+                                    <alinea> L'atto aziendale definisce e disciplina:  
+ 
+</alinea>
+                                    <el id="art0-com3-leta">
+                                    <num>a)</num>
+                                    <corpo> l'assetto organizzativo dell'A.S.Re.M. in modo da assicurare l'esercizio unitario delle funzioni di prevenzione, diagnosi, cura e riabilitazione;</corpo>
+                                    </el>
+                                    <el id="art0-com3-letb">
+                                    <num>  
+ 
+b)</num>
+                                    <corpo> il raccordo delle prestazioni sanitarie con gli altri soggetti erogatori pubblici e privati;</corpo>
+                                    </el>
+                                    <el id="art0-com3-letc">
+                                    <num>  
+ 
+c)</num>
+                                    <corpo> le funzioni accentrate a livello aziendale;</corpo>
+                                    </el>
+                                    <el id="art0-com3-letd">
+                                    <num>  
+ 
+d)</num>
+                                    <corpo> le funzioni decentrate a livello locale;</corpo>
+                                    </el>
+                                    <el id="art0-com3-lete">
+                                    <num>  
+ 
+e)</num>
+                                    <corpo> l'organizzazione delle funzioni amministrative, anche decentrate sul territorio per settori dipartimentali;</corpo>
+                                    </el>
+                                    <el id="art0-com3-letf">
+                                    <num>  
+ 
+f)</num>
+                                    <corpo> le strutture operative dotate di autonomia gestionale o tecnico professionale soggette a rendicontazione analitica.  </corpo>
+                                    </el>
+                                    </comma>
+                                    <comma id="art0-com4">
+                                    <num>
+ 
+4.</num>
+                                    <alinea> La Giunta regionale, nel definire i principi ed i criteri direttivi per l'adozione dell'atto aziendale, deve prevedere:  
+ 
+</alinea>
+                                    <el id="art0-com4-leta">
+                                    <num>a)</num>
+                                    <corpo> l'esercizio delle funzioni di programmazione e di controllo;</corpo>
+                                    </el>
+                                    <el id="art0-com4-letb">
+                                    <num>  
+ 
+b)</num>
+                                    <corpo> la costituzione dei dipartimenti;</corpo>
+                                    </el>
+                                    <el id="art0-com4-letc">
+                                    <num>  
+ 
+c)</num>
+                                    <corpo> l'esercizio a livello accentrato della gestione delle attività amministrative, ivi comprese quelle connesse all'acquisizione dei fattori produttivi;</corpo>
+                                    </el>
+                                    <el id="art0-com4-letd">
+                                    <num>  
+ 
+d)</num>
+                                    <corpo> l'attivazione di un'unica contabilità generale;</corpo>
+                                    </el>
+                                    <el id="art0-com4-lete">
+                                    <num>  
+ 
+e)</num>
+                                    <corpo> l'attivazione, a fianco della contabilità generale, della contabilità analitica, articolata per distretti e presidi ospedalieri;</corpo>
+                                    </el>
+                                    <el id="art0-com4-letf">
+                                    <num>  
+ 
+f)</num>
+                                    <corpo> l'organizzazione dei presidi ospedalieri ai sensi dell'articolo 3, comma 6;</corpo>
+                                    </el>
+                                    <el id="art0-com4-letg">
+                                    <num>  
+ 
+g)</num>
+                                    <corpo> gli eventuali ulteriori requisiti per la nomina dei Direttori dei distretti da parte del Direttore generale;</corpo>
+                                    </el>
+                                    <el id="art0-com4-leth">
+                                    <num>  
+ 
+h)</num>
+                                    <corpo> il compenso del Direttore generale, del Direttore sanitario e del Direttore amministrativo dell'A.S.Re.M.;</corpo>
+                                    </el>
+                                    <el id="art0-com4-leti">
+                                    <num>  
+ 
+i)</num>
+                                    <corpo> le altre disposizioni di organizzazione, di coordinamento, di controllo e finanziarie nel rispetto dei principi della presente legge;</corpo>
+                                    </el>
+                                    <el id="art0-com4-letl">
+                                    <num>  
+ 
+l)</num>
+                                    <corpo> il coordinamento delle attività dei servizi territoriali ed ospedalieri delle disciolte zone con la A.S.Re.M.</corpo>
+                                    </el>
+                                    </comma>
+                                </articolo>
+                            </virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art4-com1-mod4"> L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2005-04-01;9#art6">articolo 6 della legge regionale 1° aprile 2005, n. 9</rif>, è sostituito dal seguente:  
+ 
+"<virgolette
+                                id="art4-com1-mod4-vir4" tipo="struttura">
+                                <articolo id="art0">
+                                    <num>Art. 6 </num>
+                                    <rubrica>
+ 
+Dipartimenti  
+ </rubrica>
+                                    <comma id="art0-com1">
+                                    <num>
+1.</num>
+                                    <corpo> L'organizzazione e l'articolazione dipartimentale è contenuta e disciplinata nell'atto aziendale sulla base del Piano sanitario regionale.</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette>" .  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art5-com1-mod5"> Al <rif xlink:href="urn:nir:regione.molise:legge:2005-04-01;9#art4-com4">comma 4 dell'articolo 4 della legge regionale 1° aprile 2005, n. 9</rif>, è soppressa la lettera c).  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art6-com1-mod6"> Al <rif
+                                xlink:href="urn:nir:regione.molise:legge:2005-04-01;9#art7-com1-leta">comma 1, lettera a), dell'articolo 7 della legge regionale 1° aprile 2005, n. 9</rif>, sono soppresse le parole "<virgolette id="art6-com1-mod6-vir5">di zona</virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>
+                        <mod id="art6-com2-mod7"> Al <rif
+                                xlink:href="urn:nir:regione.molise:legge:2005-04-01;9#art7-com1">comma 1 dell'articolo 7 della legge regionale 1° aprile 2005, n. 9</rif>, sono aggiunte, dopo la lettera c), le seguenti lettere:  
+ 
+"<virgolette
+                                id="art6-com2-mod7-vir6" tipo="struttura">
+                                <el id="art6-com2-mod7-vir6-letl">
+                                    <num>d)</num>
+                                    <corpo> il Presidente del Tribunale dei diritti del malato;</corpo>
+                                </el>
+                                <el id="art6-com2-mod7-vir6-lete">
+                                    <num>  
+ 
+e)</num>
+
+                                    <corpo> tre rappresentanti designati dalle formazioni sociali private regionali, non aventi scopo di lucro, impegnate nel campo dell'assistenza sociale e sanitaria, così come previsto dall'<rif xlink:href="urn:nir:stato:decreto.legislativo:1992-12-30;502#art1-com13">articolo 1, comma 13, del decreto legislativo 30 dicembre 1992, n. 502</rif>, e successive modificazioni ed integrazioni.</corpo>
+                                </el>
+                            </virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art6-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo>
+                        <mod id="art6-com3-mod8"> Al <rif
+                                xlink:href="urn:nir:regione.molise:legge:2005-04-01;9#art7-com4">comma 4 dell'articolo 7 della legge regionale 1° aprile 2005, n. 9</rif>, l'espressione "<virgolette
+                                id="art6-com3-mod8-vir7">entro novanta giorni</virgolette>" è sostituita dall'espressione "<virgolette id="art6-com3-mod8-vir8">entro trenta giorni</virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art7-com1-mod9"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:2005-04-01;9#art8-com1">comma 1 dell'articolo 8 della legge regionale 1° aprile 2005, n. 9</rif>, è sostituito dal seguente: 
+ 
+"<virgolette
+                                id="art7-com1-mod9-vir9" tipo="struttura">
+                                <comma id="art7-com1-mod9-vir9-com0">
+                                    <num>1.</num>
+
+                                    <corpo> La Conferenza dei Sindaci, di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1997-05-14;11#art5">articolo 5 della legge regionale 14 maggio 1997, n. 11</rif>, svolge compiti consultivi nel settore dell'integrazione tra i servizi sanitari ed i servizi socio-assistenziali.</corpo>
+                                </comma>
+                            </virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>
+                        <mod id="art7-com2-mod10"> Al <rif
+                                xlink:href="urn:nir:regione.molise:legge:2005-04-01;9#art8-com2-leta">comma 2, lettera a), dell'articolo 8 della legge regionale 1° aprile 2005, n. 9</rif>, sono soppresse le parole "<virgolette id="art7-com2-mod10-vir10">di zona</virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art7-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo>
+                        <mod id="art7-com3-mod11"> Al <rif xlink:href="urn:nir:regione.molise:legge:2005-04-01;9#art8-com2">comma 2 dell'articolo 8 della legge regionale 1° aprile 2005, n. 9</rif>, è soppressa la lettera b).  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art8-com1-mod12"> Al <rif
+                                xlink:href="urn:nir:regione.molise:legge:2005-04-01;9#art9-com2">comma 2 dell'articolo 9 della legge regionale 1° aprile 2005, n. 9</rif>, sono soppresse le parole "<virgolette id="art8-com1-mod12-vir11">e quelle di zona</virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod
+                                id="art9-com1-mod13"> I commi 1, 2, 3, 4 e 5 dell'<rif xlink:href="urn:nir:regione.molise:legge:2005-04-01;9#art13">articolo 13 della legge regionale 1° aprile 2005, n. 9</rif>, sono abrogati.  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art9-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>
+                        <mod id="art9-com2-mod14"> Al <rif
+                                xlink:href="urn:nir:regione.molise:legge:2005-04-01;9#art13-com6">comma 6 dell'articolo 13 della legge regionale 1° aprile 2005, n. 9</rif>, nell'alinea, dopo le parole "<virgolette
+                                id="art9-com2-mod14-vir12">presenti nel territoriò</virgolette>" sono aggiunte le parole "<virgolette
+                                id="art9-com2-mod14-vir13"
+                                    tipo="parola">nel rispetto delle specifiche modalità di cui al <rif xlink:href="urn:nir:stato:decreto.legislativo:1999-12-21;517">decreto legislativo 21 dicembre 1999, n. 517</rif>
+                            </virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art9-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo>
+                        <mod id="art9-com3-mod15"> Alla <rif
+                                xlink:href="urn:nir:regione.molise:legge:2005-04-01;9#art13-com6-leta">lettera a) del comma 6 dell'articolo 13 della legge regionale 1° aprile 2005, n. 9</rif>, le parole "<virgolette
+                                id="art9-com3-mod15-vir14">Azienda Ospedaliera Policlinico (AOP)</virgolette>" sono sostituite dalle parole "<virgolette id="art9-com3-mod15-vir15">Azienda ospedaliero-universitaria</virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La Giunta regionale adotta i provvedimenti per garantire il passaggio di tutte le funzioni delle disciolte zone in capo alla A.S.Re.M., nonché gli atti idonei ad assicurare il coordinamento delle funzioni aziendali sul territorio delle predette zone, tenuto conto delle politiche regionali sulla montagna e della <rif xlink:href="urn:nir:regione.molise:legge:2003-04-16;15">legge regionale 16 aprile 2003, n. 15</rif>.  </corpo>
+                </comma>
+                <comma id="art10-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>
+                        <mod id="art10-com2-mod16"> Gli effetti di cui alla presente legge di soppressione delle zone territoriali decorrono dal 1° gennaio 2009.  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+                <rubrica>
+ 
+Disposizioni sul Piano sanitario regionale 
+ </rubrica>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+
+                    <corpo> È approvato il Piano sanitario regionale di cui alla deliberazione del Consiglio regionale n. 190 del 9 luglio 2008 pubblicata sul B.U.<rif xlink:href="urn:nir:regione.molise:regolamento:2008-09-16">R. del Molise del 16 settembre 2008</rif>.  </corpo>
+                </comma>
+                <comma id="art11-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Gli ambiti territoriali dei distretti sanitari sono definiti dall'atto aziendale su direttiva della Giunta regionale, sentita la competente Commissione consiliare.  </corpo>
+                </comma>
+                <comma id="art11-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo>
+                        <mod id="art11-com3-mod17"> Sono abrogate tutte le disposizioni legislative e gli atti regolamentari incompatibili o in contrasto con il Piano e con la presente legge.  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art11-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> La Giunta regionale è competente ad approvare gli interventi di attuazione del Piano sanitario e del Programma operativo di rientro già prescritti o pervenuti dal Tavolo tecnico per la verifica degli adempimenti regionali istituito presso il Ministero dell'Economia ed il Ministero della Salute, ai sensi dell'<rif xlink:href="urn:nir:stato:legge:2004-12-30;311#art1-com169">articolo 1, comma 169 e seguenti, della legge 30 dicembre 2004, n. 311</rif>, e successive modifiche ed integrazioni.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12 </num>
+                <rubrica>
+ 
+Norma transitoria  
+ </rubrica>
+                <comma id="art12-com1">
+                    <num>
+1.</num>
+                    <corpo> Per gli stabilimenti ospedalieri e per i poliambulatori ricadenti nelle zone montane e nell'area del cratere sismico, si prevede la possibilità di ricevere budget maggiorati in considerazione delle particolari caratteristiche geografiche e socio-economiche.  
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.  
+ 
+ 
+
+?>
+    </LeggeRegionale>
+</NIR>

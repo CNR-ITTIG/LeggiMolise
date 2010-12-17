@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19790816" num="15" tipo="BURM"/>
+                <entratainvigore norm="19790831"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1979-08-07;23"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
+ 
+Bollettino 
+Bollettino Ufficiale n. 15 del 16/08/79 
+ 
+Oggetto 
+Fauna ed attivit&#xE0; venatoria - Ripopolamento - Lancio di selvaggina - Disposizioni 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19790807">7 Agosto 1979</dataDoc>, n. <numDoc>23</numDoc>
+            <titoloDoc>Ripopolamento con lancio di selvaggina nel territorio della Regione Molise 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

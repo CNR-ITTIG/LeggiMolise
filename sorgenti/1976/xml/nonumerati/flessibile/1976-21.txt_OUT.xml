@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19760901" num="16" tipo="BURM"/>
+                <entratainvigore norm="19760916"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1976-08-30;23"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 16 del 01/09/76 
+ 
+Oggetto 
+Regione - Stemma 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="19760830">30 agosto 1976</dataDoc>, n.<numDoc>23</numDoc>
+            <titoloDoc>Stemma della Regione Molise 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1  </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+In attuazione dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art2">art. 2 dello Statuto</rif>, la Giunta Regionale è autorizzata a bandire fra tutti i cittadini italiani, anche residenti all'estero, un pubblico concorso per lo Stemma della Regione Molise, che dovrà esprimere la tradizione storica, politica, artistica e culturale della Regione.  </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2  </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <alinea>
+Il concorso è dotato dei seguenti premi:  
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> primo classificato L. 1.000.000; 
+ 
+- secondo classificato L. 500.000;  
+ 
+- terzo classificato L. 250.000.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+                    <corpo>I premi verranno assegnati, a giudizio insindacabile del Consiglio Regionale, su proposta della Commissione esaminatrice, formata dall'Ufficio di Presidenza di Consiglio, dai Presidenti dei Gruppi Consiliari, dal Presidente della Giunta Regionale e da un esperto di chiara fama. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3  </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+L'onere complessivo previsto in lire unmilionesettecentocinquantamila (1.750.000) graverà sul Cap. 370 del bilancio preventivo per l'anno 1976. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4  </num>
+                <comma id="art4-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge è dichiarata urgente ai sensi del <rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">secondo comma dell'articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione.  
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

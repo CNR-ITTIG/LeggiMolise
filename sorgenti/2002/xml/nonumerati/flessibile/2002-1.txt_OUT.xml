@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20021231" num="30" tipo="BURM"/>
+                <entratainvigore norm="20030115"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2002-12-30;45"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 35.Tributi 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 30 del 31 dicembre 2002 
+ 
+Oggetto 
+Imposta Regionale sulle Attivit&#xE0; Produttive (I.R.A.P.) - Disciplina. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20021230">30 dicembre 2002</dataDoc>, n. <numDoc>45</numDoc>. 
+ 
+<titoloDoc>Disposizioni in materia di Imposta Regionale sulle Attività Produttive (I.R.A.P.). 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art.1 </num>
+                <rubrica>
+ 
+(Finalità) 
+ 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo>1. La presente legge disciplina, ai sensi del <rif xlink:href="urn:nir:stato:decreto.legislativo:1997-12-15;446">decreto legislativo 15 dicembre 1997, n. 446</rif> e successive modificazioni ed integrazioni, e nel rispetto dei principi generali in materia di imposte sui redditi, l'esercizio delle competenze regionali relative all'imposta regionale sulle attività produttive (IRAP), nonché le connesse procedure gestionali ed applicative. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+(Titolarità dell'imposta) 
+ 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>1. La Regione, quale ente titolare del tributo, esercita le funzioni in materia di IRAP secondo le modalità previste dalla presente legge, in osservanza a quanto disposto dall'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1997;446#art24">art. 24 del decreto legislativo n. 446/1997</rif>. 
+ 
+2. La Regione è titolare dei dati e delle informazioni relativi all'imposta, organizzati in proprie banche-dati rese disponibili all'Amministrazione finanziaria dello Stato, alle altre Regioni ed agli Enti locali nell'ambito del sistema di comunicazione di cui all'<rif
+                            xlink:href="urn:nir:stato:legge:1996-12-23;662#art3-com153">art. 3, comma 153 della legge 23 dicembre 1996 n. 662</rif>, nonché al fine degli scambi di informazioni, secondo quanto previsto dall'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1997;446#art23">art. 23 del decreto legislativo n. 446/1997</rif>. 
+ 
+3. Il sistema informativo tributario regionale ha lo scopo di consentire alla Regione la disponibilità ed il trattamento di tutti i dati necessari alla piena attuazione della propria autonomia tributaria e, in particolare, all'applicazione dell'imposta regionale sulle attività produttive. 
+ 
+4. Il trattamento dei dati personali necessari ai fini della presente legge è svolto nel rispetto dei principi generali fissati dalla <rif
+                            xlink:href="urn:nir:stato:legge:1996-12-31;675">legge 31 dicembre 1996, n. 675</rif> e successive modifiche ed integrazioni. 
+ 
+5. In relazione a quanto disposto dal <rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1999-05-11;135">decreto legislativo 11 maggio 1999 n. 135</rif>, in materia di trattamento di dati particolari da parte di soggetti pubblici, la Giunta regionale individua con proprio atto i dati sensibili o attinenti a provvedimenti giudiziari, di cui agli artt. 22, comma 1, e 24 della <rif xlink:href="urn:nir:stato:legge:1996;675">legge n. 675/1996</rif>, ritenuti strettamente pertinenti rispetto alle finalità di rilevante interesse pubblico perseguite, e determina le operazioni eseguibili.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+(Principi ispiratori) 
+ 
+</rubrica>
+                <comma id="art3-com1">
+                    <num/>
+                    <alinea>1. L'azione della Regione, nell'esercizio delle proprie funzioni connesse alla titolarità dell'imposta, si ispira ai principi di economicità, efficienza ed efficacia, persegue l'obiettivo dell'equità fiscale ed applica i seguenti criteri direttivi: 
+ 
+</alinea>
+                    <el id="art3-com1-leta">
+                        <num> a)</num>
+                        <corpo> elaborazione di una politica fiscale regionale favorevole allo sviluppo e coerente alle opzioni programmatiche, che calibri la tassazione, anche di singoli settori e di singole categorie di soggetti passivi, secondo i canoni di un federalismo fiscale equo, solidale e cooperativo;</corpo>
+                    </el>
+                    <el id="art3-com1-letb">
+                        <num> 
+ 
+ b)</num>
+                        <corpo> collaborazione, trasparenza ed informazione nei rapporti con il contribuente;</corpo>
+                    </el>
+                    <el id="art3-com1-letc">
+                        <num> 
+ 
+ c)</num>
+                        <corpo> semplificazione delle procedure di applicazione dell'imposta;</corpo>
+                    </el>
+                    <el id="art3-com1-letd">
+                        <num> 
+ 
+ d)</num>
+                        <corpo> armonizzazione delle procedure applicative dell'imposta con quelle delle altre Regioni, dello Stato e degli Enti locali;</corpo>
+                    </el>
+                    <el id="art3-com1-lete">
+                        <num> 
+ 
+ e)</num>
+                        <corpo> contrasto all'evasione ed all'elusione fiscale. </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+(Gestione del tributo) 
+ 
+</rubrica>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo>1. Le attività di liquidazione, di accertamento, di riscossione e di versamento dell'imposta, nonché quelle relative alla constatazione delle violazioni, al contenzioso ed ai rimborsi, sono disciplinate dalle norme dettate in materia di imposte sui redditi. 
+ 
+2. La gestione delle suddette attività può effettuarsi, su determinazione della Giunta regionale, con il ricorso alternativo ad una delle seguenti modalità:</corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num/>
+
+                    <corpo>a) stipula di convenzioni con il Ministero dell'economia o con le Agenzie fiscali disciplinate dal <rif xlink:href="urn:nir:stato:decreto.legislativo:1999-07-30;300#tit5-cap2">titolo V, capo II del decreto legislativo 30 luglio 1999, n. 300</rif>; 
+ 
+ b) autonoma struttura organizzativa regionale; 
+ 
+ c) affidamento a terzi previa gara ad evidenza pubblica. 
+ 
+3. La Giunta regionale è autorizzata alla stipula delle convenzioni di cui al comma 2, lettera a) del presente articolo.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+(Accertamento) 
+ 
+</rubrica>
+                <comma id="art5-com1">
+                    <num/>
+
+                    <corpo>1. La Regione Molise definisce periodicamente, con apposito programma adottato dalla Giunta regionale entro il 31 dicembre dell'anno precedente, di concerto con la Commissione paritetica di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1997;446#art25-com2">art. 25, comma 2 del decreto legislativo n. 446/1997</rif>, gli obiettivi strategici che devono presiedere all'attività di controllo e di accertamento del tributo, determinando anche i criteri per l'individuazione dei soggetti da sottoporre a verifica. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+(Riscossione dell'imposta) 
+ 
+</rubrica>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo>1. L'imposta dovuta è riscossa mediante versamento del soggetto passivo da eseguire con le modalità e nei termini stabiliti per le imposte sui redditi. 
+ 
+2. L'imposta risultante dalle dichiarazioni annuali non è dovuta o, se il saldo è negativo, non è rimborsabile se i relativi importi spettanti alla Regione non superano Euro 20,00; per lo stesso importo non si fa luogo ad iscrizioni nei ruoli né a rimborso. Se l'importo dovuto o rimborsabile supera Euro 20,00 lo stesso è dovuto o è rimborsabile per l'intero. 
+ 
+3. La riscossione coattiva dell'imposta avviene mediante ruolo sulla base delle disposizioni che regolano la riscossione coattiva delle imposte sui redditi.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+(Determinazione dell'aliquota) 
+ 
+</rubrica>
+                <comma id="art7-com1">
+                    <num/>
+
+                    <corpo>1. La Regione, in linea con i principi ispiratori di cui all'art. 3, lettera a) della presente legge, ed in forza dell'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1997-12-15;446#art16-com3">art. 16, comma 3 del decreto legislativo 15 dicembre 1997 n. 446</rif>, ha facoltà di variare l'aliquota di imposta nei limiti di quanto previsto dalla normativa statale, differenziandola, per settori di attività e per categorie di soggetti passivi, mediante leggi approvate dal Consiglio regionale entro il 31 dicembre di ogni esercizio precedente all'anno di imposta per il quale si dispone. 
+ 
+2. Laddove non intervenga il provvedimento di cui al <rif xlink:href="#art7-com1">comma 1</rif> del presente articolo, si intendono confermate le aliquote in vigore per l'anno di imposta precedente.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>
+ 
+(Sistema informativo - Formazione del personale) 
+ 
+</rubrica>
+                <comma id="art8-com1">
+                    <num/>
+
+                    <corpo>1. La Giunta regionale è autorizzata a sostenere gli oneri per l'impianto e la gestione di un sistema informativo per la gestione dei tributi regionali e locali e per la sua connessione al sistema di comunicazione di cui all'<rif
+                            xlink:href="urn:nir:stato:legge:1996-12-23;662#art3-com153">art. 3, comma 153 della legge 23 dicembre 1996 n. 662</rif>, concernente misure di razionalizzazione della finanza pubblica, e relativi provvedimenti di attuazione. 
+ 
+2. La Giunta regionale è, altresì, autorizzata a sostenere gli oneri per la formazione del personale in materia di IRAP e di autonomia tributaria, anche mediante corsi di aggiornamento professionale, mirati all'approfondimento del tributo. 
+ 
+3. Per l'attuazione di quanto previsto ai precedenti commi, la Regione si avvale dei soggetti di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1999-01-27;3">legge regionale 27 gennaio 1999, n. 3</rif>.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <rubrica>
+ 
+(Accertamento con adesione e conciliazione) 
+ 
+</rubrica>
+                <comma id="art9-com1">
+                    <num/>
+
+                    <corpo>1. Le convenzioni di cui all'art. 4, comma 2, lettera a) della presente legge, prevedono le modalità di partecipazione di funzionari regionali allo svolgimento delle attività di accertamento con adesione e di conciliazione giudiziale, così come previste dal <rif xlink:href="urn:nir:stato:decreto.legislativo:1997-06-19;218">decreto legislativo 19 giugno 1997, n. 218</rif> e successive modifiche ed integrazioni. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <rubrica>
+ 
+(Contenzioso tributario) 
+ 
+</rubrica>
+                <comma id="art10-com1">
+                    <num/>
+                    <corpo>1. Per la gestione del procedimento di contenzioso tributario nelle controversie concernenti l'IRAP, si applicano le norme in materia di imposte sui redditi. 
+ 
+2. Le convenzioni di cui all'art. 4, comma 2, lettera a) della presente legge, prevedono le modalità di partecipazione di funzionari regionali alle attività relative al contenzioso tributario. 
+ 
+3. La Giunta regionale, per il corretto svolgimento del contenzioso tributario ed allo scopo di evitare inutili controversie con i contribuenti, predispone direttive generali contenenti i criteri informatori da assumere ai fini della decisione di agire o di resistere in giudizio, ovvero di rinunciare al proseguimento della controversia.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+                <rubrica>
+ 
+(Norma finanziaria) 
+ 
+</rubrica>
+                <comma id="art11-com1">
+                    <num/>
+
+                    <corpo>1. Alle spese per la gestione dell'IRAP di cui all'<rif
+                            xlink:href="#art4">art. 4</rif> della presente legge, si provvede mediante utilizzo delle risorse stanziate nella UPB n. 890: "Rimborsi e devoluzioni relativi alla gestione IRAP del bilancio regionale per l'esercizio finanziario 2002. 
+ 
+2. Per gli esercizi finanziari successivi si provvederà con la legge di approvazione del bilancio. 
+ 
+Art. 12 
+ 
+(Disciplina transitoria) 
+ 
+1. Fino alla data di stipulazione delle convenzioni, ovvero fino al momento in cui le attività inerenti la liquidazione, l'accertamento, la riscossione delle violazioni, il contenzioso ed i rimborsi inerenti l'imposta regionale sulle attività produttive non sono assunte direttamente dalla Regione, dette attività continuano ad essere svolte dal Ministero dell'economia o dalle Agenzie fiscali secondo quanto disposto dal <rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1997;446">decreto legislativo n. 446/1997</rif>. 
+ 
+2. Per l'anno 2003, in attuazione della facoltà di cui all'<rif
+                            xlink:href="#art7">art. 7</rif>, l'aliquota dell'imposta sulle attività produttive è determinata nella misura minima consentita dall'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1997-12-15;446#art16-com3">art. 16, comma 3 del decreto legislativo 15 dicembre 1997 n. 446</rif>, in favore dei seguenti settori di attività e delle seguenti categorie di soggetti passivi: 
+ 
+ a) tutti i soggetti passivi dell'imposta di cui all'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1997;446#art3">art. 3 del decreto legislativo n. 446/1997</rif>, per il valore della produzione netta riferibile al territorio dei Comuni della provincia di Campobasso maggiormente danneggiati dal sisma del 31 ottobre 2002, individuati con decreto del Presidente della Giunta regionale; qualora l'attività sia esercitata nel territorio di più Comuni, il valore della produzione netta si considera prodotto nel territorio dei predetti Comuni danneggiati proporzionalmente all'ammontare delle retribuzioni spettanti al personale, a qualunque titolo utilizzato, compresi i redditi assimilati, i compensi ai collaboratori coordinati e continuativi e gli utili agli associati in partecipazione; 
+ 
+ b) le nuove imprese costituitesi, in qualsiasi forma giuridica, nel territorio regionale nel corso degli anni 2002 e 2003; 
+ 
+ c) le imprese giovanili di cui al <rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:2000-04-21;185">decreto legislativo 21 aprile 2000, n. 185</rif>, <rif
+                            xlink:href="#art5-com1">art. 5, comma 1</rif> e le imprese individuali il cui titolare ha età non superiore a 35 anni; 
+ 
+ d) le imprese femminili in possesso dei requisiti di cui all'<rif
+                            xlink:href="urn:nir:stato:legge:1992-02-25;215#art2-com1-leta">art. 2, comma 1, lettera a) della legge 25 febbraio 1992, n. 215</rif>; 
+ 
+ e) le organizzazioni non lucrative di utilità sociale, incluse quelle considerate tali di diritto ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1997;460#art10-com8">art. 10, comma 8 del decreto legislativo n. 460/1997</rif>, quali le associazioni di volontariato di cui alla <rif
+                            xlink:href="urn:nir:stato:legge:1991;266">legge n. 266/1991</rif>, iscritte nei registri regionali, le organizzazioni non governative riconosciute ai sensi della <rif
+                            xlink:href="urn:nir:stato:legge:1987;49">legge n.49/1987</rif> e le cooperative sociali di cui alla <rif
+                            xlink:href="urn:nir:stato:legge:1991;381">legge n. 381/1991</rif>; 
+ 
+ f) le associazioni e le società sportive dilettantistiche operanti senza fine di lucro; 
+ 
+ g) le imprese, sotto qualsiasi forma costituite, limitatamente al valore della produzione netta riferibile al territorio dei Comuni montani, intendendosi per tali, ai fini in rassegna, quelli con rilievo altimetrico superiore a 750 metri sul livello del mare. Qualora l'attività sia esercitata nel territorio di più Comuni, il valore della produzione netta si considera prodotto nel territorio dei Comuni montani proporzionalmente all'ammontare delle retribuzioni spettanti al personale a qualunque titolo utilizzato, compresi i redditi assimilati, i compensi ai collaboratori coordinati e continuativi e gli utili agli associati in partecipazione. 
+ 
+3. L'aliquota ridotta non si applica qualora il minor onere tributario ecceda per importo e condizioni i limiti consentiti dalla normativa comunitaria in materia di aiuti "de minimis". 
+ 
+4. In attuazione della facoltà di cui all'<rif
+                            xlink:href="#art7">art. 7</rif>, per l'anno 2003 l'aliquota dell'imposta regionale sulle attività produttive, a carico dei seguenti settori di attività e delle seguenti categorie di soggetti passivi, è determinata nella misura massima consentita dall'<rif xlink:href="urn:nir:stato:decreto.legislativo:1997;446#art16-com3">art. 16, comma 3 del decreto legislativo n. 446/1997</rif>: 
+ 
+ a) banche; 
+ 
+ b) imprese appartenenti alla rete della grande distribuzione regionale, in forza dei criteri stabiliti dai decreti del Ministro dell'industria, del commercio e dell'artigianato del 18 settembre 1997 e del 27 ottobre 1997 e dalla disciplina comunitaria in materia. 
+ 
+Art. 13 
+ 
+(Dichiarazione d'urgenza) 
+ 
+1. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione. 
+ 
+La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo><?error Marker Warning 105?>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19791116" num="21" tipo="BURM"/>
+                <entratainvigore norm="19791201"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1979-11-02;30"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 11.Enti locali, comunit&#xE0; montane 
+ 
+Bollettino 
+Bollettino Ufficiale n. 21 del 16/11/79 
+ 
+Oggetto 
+Comune di Castellino del Biferno - Istituzione di isola amministrativa - Disposizioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19791102">2 Novembre 1979</dataDoc>, n. <numDoc>30</numDoc>
+            <titoloDoc>Istituzione dell'isola amministrativa del Comune di Castellino del Biferno nell'ambito di Castellino Nuovo 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+In applicazione dell'<rif xlink:href="urn:nir:regione.molise:legge:1975-05-12;35#art34">art. 34 della legge regionale 12 maggio 1975 n. 35</rif> è istituita l'isola amministrativa del Comune di Castelllno del Biferno in quella parte del territorio del Comune di Petrella Tifernina cosiddetto: &lt;&lt; Castellino Nuovo &gt;&gt;, le cui abitazioni, le relative aree ed altre opere pertinenti sono state cedute gratuitamente al Comune di Castellino del Biferno in esecuzione del D.M. 15 febbraio 1934. 
+ 
+Il territorio della predetta isola amministrativa è distaccato  dalla circoscrizione territoriale del Comune di Petrella Tifernina e diventa parte integrante della circoscrizione territoriale del   Comune di Castellino del Biferno. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+I confini dell'isola amministrativa, risultanti dall'acclusa carta planimetrica 1:10.000, sono stabiliti come segue: 
+ 
+- strada provinciale Frentana; 
+ 
+- strada mulattiera che partendo da detta provinciale porta a Castellino del Biferno; 
+ 
+- linea a tratto continuo rosso come da planimetria allegata. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+
+                <rubrica>
+ 
+La presente legge è dichiarata urgente ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione del Bollettino Ufficiale della Regione Molise. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

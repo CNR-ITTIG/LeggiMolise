@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20060701" num="19" tipo="BURM"/>
+                <entratainvigore norm="20060716"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2006-06-26;10"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 18.Lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa 
+21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 19 del 1 luglio 2006 
+ 
+Oggetto 
+Organizzazione delle politiche del lavoro nella regione - Disposizioni integrative 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20060626">26 giugno 2006</dataDoc>, n. <numDoc>10</numDoc>. 
+ 
+<titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1999-08-03">legge regionale 3 agosto 1999</rif>, il. 27, recante: "Organizzazione delle politiche regionali del lavoro e del sistema regionale dei servizi per l'impiego", concernenti l'ampliamento dei compiti dell'Agenzia regionale Molise Lavoro. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+(Finalità ed oggetto) 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+
+                    <corpo>  Le disposizioni della presente legge sono finalizzate all'ampliamento dei compiti dell'Agenzia regionale Molise Lavoro, istituita con la <rif xlink:href="urn:nir:regione.molise:legge:1999-08-03;27">legge regionale 3 agosto 1999, n. 27</rif>, ed alla disciplina delle assunzioni a tempo determinato di personale qualificato per l'immediata attivazione dei nuovi compiti attribuiti. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+(Modifiche all'<rif xlink:href="urn:nir:regione.molise:legge:1999-08-03;27#art9">articolo 9 della legge regionale 3 agosto 1999, n. 27</rif>) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art2-com1-mod1"> All'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1999-08-03;27#art9">articolo 9 della legge regionale 3 agosto 1999, n. 27</rif>, dopo il <rif
+                                xlink:href="#art2-com1">comma 1</rif> è inserito il seguente comma: "<virgolette
+                                id="art2-com1-mod1-vir1" tipo="struttura">
+                                <comma id="art2-com1-mod1-vir1-com0">
+                                    <num>1 bis.</num>
+                                    <alinea> L'Agenzia può provvedere altresì a: 
+ 
+</alinea>
+                                    <el id="art2-com1-mod1-vir1-com0-leta">
+                                    <num>a)</num>
+                                    <corpo> interventi per le persone disabili o comunque svantaggiate;</corpo>
+                                    </el>
+                                    <el id="art2-com1-mod1-vir1-com0-letb">
+                                    <num> 
+ 
+b)</num>
+                                    <corpo> coordinamento, monitoraggio ed eventuale gestione diretta degli interventi connessi alla filiera dell'istruzione e della formazione professionale ed alla formazione permanente;</corpo>
+                                    </el>
+                                    <el id="art2-com1-mod1-vir1-com0-letc">
+                                    <num> 
+ 
+c)</num>
+                                    <corpo> work experience ed azioni di contrasto alla disoccupazione;</corpo>
+                                    </el>
+                                    <el id="art2-com1-mod1-vir1-com0-letd">
+                                    <num> 
+ 
+d)</num>
+                                    <corpo> formazione degli operatori della formazione professionale;</corpo>
+                                    </el>
+                                    <el id="art2-com1-mod1-vir1-com0-lete">
+                                    <num> 
+ 
+e)</num>
+                                    <corpo> informazione ed orientamento professionale;collegamento con la rete nazionale delle Agenzie;</corpo>
+                                    </el>
+                                    <el id="art2-com1-mod1-vir1-com0-letf">
+                                    <num> 
+ 
+f)</num>
+                                    <corpo> nodo regionale della Borsa continua nazionale del lavoro;</corpo>
+                                    </el>
+                                    <el id="art2-com1-mod1-vir1-com0-letg">
+                                    <num> 
+ 
+g)</num>
+
+                                    <corpo> coordinamento regionale della rete EURES (Servizi europei per l'impiego) costituita sulla base del <rif xlink:href="urn:nir:comunita.europee:regolamento:1988;1612">regolamento CEE n. 1612/1988</rif> relativo alla libera circolazione dei lavoratori nell'ambito dello spazio economico europeo;</corpo>
+                                    </el>
+                                    <el id="art2-com1-mod1-vir1-com0-leth">
+                                    <num> 
+ 
+h)</num>
+                                    <corpo> ogni altro intervento di particolare rilevanza formativa, occupazionale, e sociale</corpo>
+                                    </el>
+                                </comma>
+                            </virgolette>". 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+(Assunzioni a tempo determinato) 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Allo scopo di assicurare il complesso del sistema integrato delle politiche del lavoro e della formazione professionale, ai sensi della <rif
+                            xlink:href="urn:nir:regione.molise:legge:1999-08-03;27">legge regionale 3 agosto 1999, n. 27</rif>, la Giunta regionale autorizza, nei limiti degli stanziamenti in bilancio, ad assumere, con contratti di lavoro a tempo determinato di durata non superiore a tre anni, compresa l'eventuale proroga, ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:2001-09-06;368#art4">articolo 4 del decreto legislativo 6 settembre 2001, n. 368</rif>, soggetti esterni dotati di adeguate professionalità ed esperienza, con priorità per gli operatori della formazione professionale che, alla data del 1° gennaio 2005, risultano iscritti all'albo regionale di cui all'<rif
+                            xlink:href="urn:nir:regione.molise:legge:1995-03-30;10#art26">articolo 26 della legge regionale 30 marzo 1995, n. 10</rif>, ed i soggetti di cui alla <rif xlink:href="urn:nir:regione.molise:legge:2005-01-05;2">legge regionale n. 2 del 5 gennaio 2005</rif> che alla data dell'entrata in vigore della presente legge non hanno perfezionato l'esodo, che ne facciano richiesta. Tale personale è funzionalmente assegnato a strutture regionali, all'Agenzia regionale Molise Lavoro o, previa specifica intesa, alle Province. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Gli operatori della formazione professionale assunti ai sensi del <rif
+                            xlink:href="#art3-com1">comma 1</rif> conservano l'iscrizione nell'albo regionale di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1995-03-30;10#art26">articolo 26 della legge regionale 30 marzo 1995, n. 10</rif>, ed i benefici connessi. </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Per integrare il personale addetto all'espletamento dei compiti di cui all'<rif
+                            xlink:href="urn:nir:regione.molise:legge:1999-08-03;27#art9">articolo 9 della legge regionale 3 agosto 1999, n. 27</rif>, e delle connesse attività amministrativo-contabili, la Giunta regionale autorizza l'Agenzia regionale Molise Lavoro ad assumere, con contratto di lavoro a tempo determinato di durata non superiore a tre anni, compresa l'eventuale proroga ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-09-06;368#art4">articolo 4 del decreto legislativo 6 settembre 2001, n. 368</rif>, gli esperti professionisti che, alla data della presente legge, prestano collaborazione presso la stessa Agenzia in esito all'avviso pubblicato nel Bollettino Ufficiale della Regione Molise n. 30 del 31 dicembre 2002 ed alle relative selezioni. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+(Dotazione di personale definitiva dell'Agenzia Molise Lavoro) 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Entro il 30 giugno 2007 la Giunta regionale, nel rispetto delle procedure di cui al contratto collettivo nazionale di comparto vigente, stabilisce la dotazione di personale definitiva dell'Agenzia regionale Molise Lavoro in base al fabbisogno derivante dai compiti assegnati alla stessa ai sensi dell'<rif xlink:href="urn:nir:regione.molise:legge:1999-08-03;27#art9">articolo 9 della legge regionale 3 agosto 1999, n. 27</rif>, come modificata dalla presente legge. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> I posti che risultano vacanti nella dotazione determinata ai sensi del <rif
+                            xlink:href="#art4-com1">comma 1</rif> saranno ricoperti mediante procedure selettive, per titoli ed esami. A tali procedure potrà partecipare, con il riconoscimento di punteggi aggiuntivi, personale con esperienza nel settore della formazione professionale che, alla data di entrata in vigore della presente legge, risulta iscritto all'albo di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1995-03-30;10#art26">articolo 26 della legge regionale 30 marzo 1995, n. 10</rif>, nonché personale selezionato in virtù dell'avviso pubblicato nel Bollettino Ufficiale n. 20 del 31 dicembre 2002, che alla data di entrata in vigore della presente legge risulta prestare servizio presso l'Agenzia regionale Molise Lavoro. </corpo>
+                </comma>
+                <comma id="art4-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Coloro che risultano aver superato le prove selettive di cui al <rif
+                            xlink:href="#art4-com2">comma 2</rif>, senza essersi collocati utilmente in graduatoria ai fini della copertura dei posti vacanti nella dotazione determinata ai sensi del <rif xlink:href="#art4-com1">comma 1</rif>, sono assunti nel ruolo regionale ovvero nel ruolo provinciale, previo accordo tra le due Province e la Regione, nei limiti del fabbisogno di personale occorrente i per lo svolgimento delle attività afferenti al governo del sistema integrato dell'istruzione e della formazione professionale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+(Linee guida per lo svolgimento dei nuovi compiti) 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo> Entro trenta giorni dall'entrata in vigore della presente legge, la Giunta regionale provvede a formulare specifiche linee-guida per lo svolgimento dei nuovi compiti attribuiti all'Agenzia. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+(Disposizioni finanziarie) 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La Regione Molise corrisponde annualmente all'Agenzia regionale Molise Lavoro le somme occorrenti per l'espletamento dei nuovi compiti attribuiti ai sensi dell'<rif xlink:href="#art2">articolo 2</rif>. I relativi stanziamenti di bilancio sono disposti a valere sulle risorse regionali destinate al finanziamento del sistema regionale della formazione professionale. </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Alla copertura degli oneri derivanti dall'applicazione della presente legge si provvede, per gli esercizi finanziari 2006 e successivi, in sede delle rispettive manovre finanziarie annuali. La Giunta regionale istituisce, nell'ambito della UPB relativa allo stanziamento per le spese di funzionamento dell'Agenzia regionale Molise Lavoro, appositi capitoli. </corpo>
+                </comma>
+                <comma id="art6-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La copertura finanziaria per il personale di cui alla presente legge, assegnato ad altre strutture o alle Province, verrà garantita dalla Regione mediante corresponsione delle somme occorrenti. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+(Entrata in vigore) 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19820916" num="19" tipo="BURM"/>
+                <entratainvigore norm="19821001"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1982-09-02;19"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 19 del 16/09/82 
+ 
+Oggetto 
+Divulgazione agricola - Consorzio interregionale per la formazione dei divulgatori agricoli Abruzzo-Campania-Molise - Istituzione - Funzionamento 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19820902">2 Settembre 1982</dataDoc>, n. <numDoc>19</numDoc>
+            <titoloDoc>Istituzione del Consorzio Interregionale per la Formazione dei Divulgatori Agricoli, Abruzzo-Campania -Molise (CIFDA - ACM) 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

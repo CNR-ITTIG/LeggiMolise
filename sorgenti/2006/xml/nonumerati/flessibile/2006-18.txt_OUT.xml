@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20060901" num="25" tipo="BURM"/>
+                <entratainvigore norm="20060916"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2006-08-29;25"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 25 del 1 settembre 2006 
+ 
+Oggetto 
+Fondo della dirigenza - Utilizzazione - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20060829">29 agosto 2006</dataDoc>, n. <numDoc>25</numDoc>. 
+ 
+<titoloDoc>Norme sull'utilizzazione del Fondo della dirigenza. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+1. La Giunta regionale è autorizzata ad erogare la retribuzione di risultato ai dirigenti già in servizio negli anni dal 2000 al 2003 utilizzando interamente le risorse finanziarie già destinate al Fondo della dirigenza. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+1. L'erogazione del beneficio di cui al precedente articolo avverrà con gli stessi criteri e parametri utilizzati per l'erogazione di risultato rispettivamente negli anni dal 2000 al 2003. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+1. Agli oneri finanziari derivanti dall'applicazione della presente legge, quantificati nella misura di ? 1.803.456,00, si provvederà, in sede di assestamento del bilancio 2006 e/o in sede di bilancio 2007, con le risorse finanziarie precedenti, che troveranno iscrizione nella competenza e nella cassa della specifica U.P.B. n. 500 (amministrazione, gestione risorse umane e contenzioso del lavoro). </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

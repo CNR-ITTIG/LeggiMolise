@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20050115" num="1" tipo="BURM"/>
+                <entratainvigore norm="20050130"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2005-01-05;2"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 1 del 15 gennaio 2005 
+ 
+Oggetto 
+Formazione professionale - Incentivi finanziari per l'esodo degli operatori - Integrazioni e modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20050105">5 gennaio 2005</dataDoc>, n. <numDoc>2</numDoc>. 
+ 
+<titoloDoc>Integrazione e modifica della <rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;5">legge regionale 7 maggio 2002, n. 5</rif>, ad oggetto: "Incentivi finanziari per l'esodo degli operatori della formazione professionale". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+
+                <rubrica>
+ 
+Sono ammessi a presentare istanza per la concessione del beneficio di cui all'<rif
+                        xlink:href="urn:nir:regione.molise:legge:2002-05-07;5#art1">art. 1 della legge regionale 7 maggio 2002 n. 5</rif> e accedono alla relativa graduatoria di cui all'art. 3 della legge stessa, così come modificato dalla <rif xlink:href="urn:nir:regione.molise:legge:2003-03-24;11">legge regionale 24 marzo 2003 n. 11</rif>, anche gli operatori della formazione che al momento dell'istanza sono sottoposti a provvedimento disciplinare di licenziamento, qualora lo stesso sia stato impugnato in sede conciliativa o giudiziaria. 
+ 
+La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19800616" num="12" tipo="BURM"/>
+                <entratainvigore norm="19800701"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1980-06-03;28"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 35.Tributi 
+37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 12 del 16/06/80 
+ 
+Oggetto 
+Acque di rifiuto - Servizi di fognature e depurazione - Tariffe - Determinazione - Procedure 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19800603">3 Giugno 1980</dataDoc>, n. <numDoc>28</numDoc>
+
+            <titoloDoc>Norme per la determinazione della tariffa relativa ai servizi di fognatura e depurazione delle acque di rifiuto di cui alla <rif xlink:href="urn:nir:stato:legge:1976-05-10;319">legge n. 319 del 10 maggio 1976</rif> e successive modificazioni 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+
+                <rubrica>
+ 
+L'importo del canone dovuto ai comuni o ai consorzi intercomunali o alle comunità montane per i servizi relativi alla raccolta, l'allontanamento, la depurazione e lo scarico delle acque di rifiuto è determinato, ai sensi della <rif xlink:href="urn:nir:stato:legge:1976-05-10;319">legge n. 319 del 10 maggio 1976</rif> e successive modificazioni ed integrazioni, in conformità alle allegate tabelle &lt;&lt;A&gt;&gt;, &lt;&lt;B&gt;&gt; e &lt;&lt;C&gt;&gt;. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+Qualora in sede di adozione del bilancio di previsione il costo del servizio risulti inferiore a quello indicato nelle tabelle di cui al precedente articolo, l'ente gestore è tenuto ad investire l'importo corrispondente alla differenza così risultante in attività di miglioramento e potenziamento dei servizi in oggetto. 
+ 
+Qualora in sede di adozione del bilancio di previsione il costo del servizio risulti superiore a quello indicato nelle tabelle di cui al precedente articolo, la Regione integra la spesa con proprio   contributo fino alla concorrenza del costo suddetto previo accertamento della congruità della previsione stessa. 
+ 
+La Regione può subordinare l'erogazione del contributo di cui al precedente comma alla costituzione di strutture consortili o alla delega alle comunità montane della realizzazione e della   gestione dei servizi in oggetto. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+La denuncia degli scarichi esistenti alla data di entrata in vigore della presente legge deve essere effettuata, entro tre mesi dalla stessa all'ente gestore del servizio. 
+ 
+Coloro che intendono attivare scarichi dopo l'entrata in vigore della presente legge devono essere preventivamente autorizzati dall'ente gestore del servizio e comunicare allo stesso entro il   primo trimestre dell'anno successivo le qualità e le quantità delle acque scaricate. 
+ 
+Deve essere altresì autorizzato dall'ente gestore ogni cambiamento di destinazione, ampliamento, ristrutturazione, trasferimento di insediamenti, produttivi o civili, ed ogni   mutamento delle qualità e quantità delle acque scaricate. 
+ 
+Le modalità per gli adempimenti degli obblighi di cui al presente articolo sono stabilite dalla Giunta Regionale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+Il canone decorre dal primo giorno del bimestre solare successivo a quello in cui ha inizio l'utenza. 
+ 
+Per le utenze già in atto alla data di entrata in vigore della presente legge il canone decorre dal primo giorno del mese successivo a quello in cui è divenuta esecutiva la delibera con la quale l'ente gestore ha determinato le tariffe. 
+ 
+La comunicazione di cessazione di utenza nel corso dell'anno, purché accertata, estingue l'obbligo di corrispondere il canone a decorrere dal primo giorno del semestre solare successivo a quello in cui la comunicazione stessa è stata presentata. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+L'ente gestore provvede alla formazione dei ruoli amministrativi e alle variazioni dei ruoli già formati sulla base delle denunce presentate, degli accertamenti e delle rettificazioni apportate d'ufficio. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+Qualora gli impianti di depurazione siano costituiti da fosse Imnoff o equivalenti la tariffa relativa al trattamento di depurazione viene ridotta alla metà. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+L'eventuale onere derivante dall'applicazione della presente legge sarà quantificato annualmente con la stessa legge approvativa del bilancio regionale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+
+                <rubrica>
+ 
+La presente legge è dichiarata urgente ai sensi del <rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">secondo comma dell'art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif>, ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

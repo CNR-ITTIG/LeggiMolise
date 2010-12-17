@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20000401" num="7" tipo="BURM"/>
+                <entratainvigore norm="20000416"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-03-24;18"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 04.Assistenza sociale, volontariato 
+ 
+Bollettino 
+Bollettino Ufficiale n. 07 del 1 aprile 2000 
+ 
+Oggetto 
+Riconoscimento e promozione delle Societ&#xE0; Operaie di mutuo soccorso  
+ 
+Abrogazioni 
+Abrogato art. 8 dalla legge n. 3/2009 art. 5 
+ 
+Modifiche 
+Modificato art. 3 dalla legge n. 3/2009 art. 2 
+Modificato art. 2 dalla legge n. 3/2009 art. 1 
+Modificato art. 4 dalla legge n. 3/2009 art. 3 
+Modificato art. 6 dalla legge n. 3/2009 art. 4 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20000324">24 marzo 2000</dataDoc>, n. <numDoc>18</numDoc>. 
+ 
+<titoloDoc>Interventi a favore delle Società Operaie - Società Operaie di Mutuo Soccorso operanti nel Molise. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art.1 </num>
+                <rubrica>
+ 
+(Finalità)  
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione Molise riconosce e promuove i valori storici, sociali e culturali delle Società Operaie ? Società Operaie di Mutuo Soccorso (S.M.S.) che esercitino attività di volontariato e di mutualità ai sensi della presente legge. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> A tal fine la Regione promuove e favorisce le Sociètà Operaie - Società Operaie di Mutuo Soccorso che si costituiscano e svolgano attività ai sensi della presente legge e che risultino iscritte nell'albo regionale di cui al <rif xlink:href="#art3">successivo articolo 3</rif>. </corpo>
+                </comma>
+                <comma id="art1-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La Regione riconosce e sostiene altresì le iniziative degli enti locali che promuovono la mutualità volontaria senza scopi di lucro. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art.2 </num>
+                <rubrica>
+ 
+(Consulta regionale per la mutualità integrativa) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> È istituita presso l'Assessorato regionale alla Sicurezza Sociale la Consulta per la mutualità integrativa. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Ad essa compete la tenuta e l'aggiornamento dell'Albo regionale delle Società Operaie - Società Operaie di Mutuo Soccorso, il parere sui progetti e sugli interventi previsti dall'<rif
+                            xlink:href="#art7">Art. 7</rif> e dall'<rif xlink:href="#art8">Art. 8</rif> nonché gli altri compiti ad essa attribuiti dalla presente legge. </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La Consulta, presieduta dal Presidente della Giunta regionale o da un suo delegato, è costituita da dieci componenti, designati: 
+ 
+- uno da ciascuna prefettura della Regione; 
+ 
+- uno dall'Assessorato regionale alla Sicurezza Sociale; 
+ 
+- uno dall'Assessorato alla Sanità; 
+ 
+- tre dalle Associazioni di categoria che raggruppano le S.M.S. operanti nella regione; 
+ 
+- tre dalla Giunta Regionale fra esperti del settore su proposta delle S.M.S. operanti nella regione. 
+ 
+4. La Consulta è nominata dal Presidente della Giunta regionale e dura in carica cinque anni. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art.3 </num>
+                <rubrica>
+ 
+(Albo regionale delle Società Operaie - Società Operaie di Mutuo Soccorso)  
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> È istituito presso l'Assessorato regionale alla Sicurezza Sociale l'Albo regionale delle Società Operaie - Società Operaie di Mutuo Soccorso. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Possono chiedere l'iscrizione all'Albo regionale le S.M.S., comunque operanti sul territorio regionale, già riconosciute in forza della <rif xlink:href="urn:nir:stato:legge:1886-04-15;3818">legge n. 3818 del 15 aprile 1886</rif> e successive modifiche ed integrazioni. </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Le istanze di iscrizione devono essere prodotte nei termini e con le modalità stabilite con deliberazione della Giunta Regionale. </corpo>
+                </comma>
+                <comma id="art3-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> La Consulta, nel termine di 60 giorni dalla data di presentazione dell'istanza, verifica se la Società abbia esercitato ed eserciti attività mutualistica e persegua i fini dettati dall'<rif xlink:href="urn:nir:stato:legge:1886-04-15;3818#art1">art. 1 della legge 15 aprile 1886, n. 3818</rif> ed emette parere di ammissibilità. </corpo>
+                </comma>
+                <comma id="art3-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> L'iscrizione all'Albo delle S.M.S. avviene mediante decreto del Presidente della Regione. </corpo>
+                </comma>
+                <comma id="art3-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> L'iscrizione è condizione per l'ammissione a qualsiasi contributo, agevolazione regionale e comunque per accedere a qualsivoglia convenzione con enti regionali locali. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art.4 </num>
+                <rubrica>
+ 
+(Condizioni per l'iscrizione all'Albo) 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+
+                    <alinea> Per ottenere l'iscrizione all'Albo, le S.M.S. devono essere regolarmente costituite per atto pubblico ai sensi del l'<rif
+                            xlink:href="urn:nir:stato:legge:1886-04-15;3818#art3">Art. 3, legge 15 Aprile 1886, n. 3818</rif>. 
+ 
+Lo <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto</rif> di ogni S.M.S. deve altresì contemplare: 
+ 
+</alinea>
+                    <el id="art4-com1-leta">
+                        <num>a)</num>
+                        <corpo> il diritto dell'aspirante socio, in possesso dei requisiti soggettivi di partecipazione, ad essere ammesso nella Società;</corpo>
+                    </el>
+                    <el id="art4-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> il divieto di partecipazione alla Società di soggetti potenziali fornitori dei servizi mutualistici prestati alla Società;</corpo>
+                    </el>
+                    <el id="art4-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> l'obbligo di redazione di bilancio annuale consuntivo e preventivo da inviare alla Regione, corredato da una relazione illustrativa concernente l'utilizzo degli eventuali fondi e agevolazioni regionali. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art.5 </num>
+                <rubrica>
+ 
+(Cancellazioni)  
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <alinea> Le S.M.S. iscritte all'Albo ne sono cancellate se: 
+ 
+</alinea>
+                    <el id="art5-com1-leta">
+                        <num>a)</num>
+                        <corpo> vengano meno i requisiti di cui all'<rif xlink:href="#art4">Art. 4</rif>;</corpo>
+                    </el>
+                    <el id="art5-com1-letb">
+                        <num> 
+ 
+b)</num>
+
+                        <corpo> la S.M.S. ometta di inviare annualmente la documentazione di cui al punto "c)" dell'<rif xlink:href="#art4">Art. 4</rif>;</corpo>
+                    </el>
+                    <el id="art5-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> la S.M.S. presenti gravi irregolarità di gestione oggetto di procedimento giudiziale o amministrativo;</corpo>
+                    </el>
+                    <el id="art5-com1-letd">
+                        <num> 
+ 
+d)</num>
+
+                        <corpo> l'attività di vigilanza, attuata ai sensi della <rif xlink:href="urn:nir:stato:legge:1992-01-31;59">legge 31 Gennaio 1992, n. 59</rif>, Art. 15, si concluda con l'applicazione di un provvedimento sanzionatorio. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art.6 </num>
+                <rubrica>
+ 
+(Promozione e sostegno delle attività mutualistiche delle S.M.S.)  
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <alinea> La Regione promuove l'attività mutualistica attraverso i seguenti interventi: 
+ 
+</alinea>
+                    <el id="art6-com1-leta">
+                        <num>a)</num>
+
+                        <corpo> stipulazione di convenzioni di cui al <rif xlink:href="#art7">successivo Art. 7</rif>;</corpo>
+                    </el>
+                    <el id="art6-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> concessione di contributi per la realizzazione di specifici progetti di attività per la qualificazione, formazione ed aggiornamento dei soci dipendenti ed amministratori delle S.M.S.;</corpo>
+                    </el>
+                    <el id="art6-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> concessione di contributi per l'acquisto di beni strumentali allo svolgimento dell'attività mutualistica, fatta eccezione per l'acquisto degli immobili;</corpo>
+                    </el>
+                    <el id="art6-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> concessione di contributi per la realizzazione di studi e ricerche finalizzate alla diffusione della mutualità volontaria ed alla diffusione dei principi mutualistici. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art.7 </num>
+                <rubrica>
+ 
+(Convenzioni) 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione, le Province, le Comunità montane ed i Comuni possono stipulare convenzioni con le S.M.S. che dimostrino capacità operativa adeguata alle attività da realizzare e che dimostrino di essere in grado di cooperare con l'ente pubblico nell'assolvimento dei compiti di sua competenza. </corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> Le convenzioni devono prevedere: 
+ 
+</alinea>
+                    <el id="art7-com2-leta">
+                        <num>a)</num>
+                        <corpo> l'attività oggetto del rapporto convenzionale, la durata e il costo;</corpo>
+                    </el>
+                    <el id="art7-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> le condizioni di utilizzo delle strutture e delle attrezzature, nonché le connesse forme assicurative;</corpo>
+                    </el>
+                    <el id="art7-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> l'eventuale ammontare della partecipazione finanziaria degli enti pubblici;</corpo>
+                    </el>
+                    <el id="art7-com2-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> l'obbligo di documentazione dell'intervento svolto. </corpo>
+                    </el>
+                </comma>
+                <comma id="art7-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Fatte salve le condizioni di miglior favore previste dalle leggi di settore, la partecipazione finanziaria della Regione non può superare una quota pari al 50% dei complessivi costi, ritenuti ammissibili a contribuzione, delle attività oggetto di convenzione. </corpo>
+                </comma>
+                <comma id="art7-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> La Giunta regionale, con atto deliberativo, definisce triennalmente gli ambiti in cui realizzare progetti settoriali ed intersettoriali oggetto di convenzionamento ed i criteri di scelta delle S.M.S. con cui convenzionarsi. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art.8 </num>
+                <rubrica>
+ 
+(Servizi informativi)  
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Per garantire la circolazione delle informazioni utili allo svolgimento delle attività rilevanti ai fini della presente legge, la Regione può stipulare accordi con le S.M.S. iscritte nell'Albo di cui all'<rif xlink:href="#art3">art. 3</rif>, per consentire l'accesso ai servizi di documentazione, consulenza, informativi ed informatici. </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Gli accordi possono prevedere la predisposizione di appositi sistemi informativi a base telematica o informatica per l'utilizzo delle banche dati regionali. </corpo>
+                </comma>
+                <comma id="art8-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Per le finalità di cui ai commi precedenti le Società Operaie - Società Operaie di Mutuo Soccorso si avvarranno della struttura di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1999-01-27;3">Legge Regionale n. 3 del 27 gennaio 1999</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art.9 </num>
+                <rubrica>
+ 
+(Documentazione delle istanze di finanziamento) 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+                    <corpo> Le richieste di finanziamento devono essere obbligatoriamente corredate dalla relazione sull'attività da realizzare e sulla partecipazione eventuale di altri soggetti. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art.10 </num>
+                <rubrica>
+ 
+(Esclusione dai finanziamenti) 
+ </rubrica>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+                    <corpo> Non sono comunque ammessi a finanziamenti i progetti che costituiscono attività commerciale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art.11 </num>
+                <rubrica>
+ 
+(Attuazione) 
+ </rubrica>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+                    <corpo> La Giunta regionale, entro 90 giorni dall'entrata in vigore della presente legge, adotta le necessarie deliberazioni di indirizzo per l'attuazione della presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art.12 </num>
+                <rubrica>
+ 
+(Disposizioni finanziarie) 
+ </rubrica>
+                <comma id="art12-com1">
+                    <num>
+1.</num>
+                    <corpo> Agli oneri derivanti dall'attuazione della presente legge per l'esercizio finanziario 2000 si provvederà mediante istituzione di apposito capitolo di spesa con legge approvativa o di variazione di bilancio. </corpo>
+                </comma>
+                <comma id="art12-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Per gli esercizi finanziari successivi si provvederà con le rispettive leggi approvative di bilancio. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata sul Bollettino Ufficiale della Regione Molise. &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione. 
+
+?>
+    </LeggeRegionale>
+</NIR>

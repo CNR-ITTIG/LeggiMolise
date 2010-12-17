@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19970531" num="11" tipo="BURM"/>
+                <entratainvigore norm="19970615"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1997-05-28;16"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 06.Consiglieri regionali e gruppi consiliari 
+ 
+Bollettino 
+Bollettino Ufficiale n. 11 del 31/05/97 
+ 
+Oggetto 
+Consiglieri regionali - Trattamenti indennitari - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 5 dalla legge n. 9/2006 art. 1 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19970528">28 Maggio 1997</dataDoc>, n. <numDoc>16</numDoc>
+            <titoloDoc>Testo unico in attuazione dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art10">articolo 10 dello Statuto Regionale</rif>. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: INDENNITÀ DEI CONSIGLIERI REGIONALI 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <alinea> Ai consiglieri regionali è attribuita, a far tempo dalla data di proclamazione e per tutta la durata della carica, il seguente trattamento indennitario: 
+ 
+</alinea>
+                    <el id="art1-com1-leta">
+                        <num>a)</num>
+                        <corpo> indennità di funzione;</corpo>
+                    </el>
+                    <el id="art1-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> diaria a titolo di rimborso spese;</corpo>
+                    </el>
+                    <el id="art1-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> rimborso spese di trasporto;</corpo>
+                    </el>
+                    <el id="art1-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> indennità e rimborso spese di missione. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art.2</num>
+                <rubrica>: INDENNITÀ DI FUNZIONE 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <alinea> A titolo di funzione, ai consiglieri della regione Molise viene corrisposta una indennità mensile lorda, per dodici mensilità annuali, pari ad una percentuale della indennità mensile lorda spettante ai membri del parlamento nazionale, nella seguente misura: 
+ 
+</alinea>
+                    <el id="art2-com1-leta">
+                        <num>a)</num>
+                        <corpo> 100/100 al presidente del consiglio ed al presidente della giunta;</corpo>
+                    </el>
+                    <el id="art2-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> 85/100 ai vice presidenti del consiglio ed ai membri della giunta;</corpo>
+                    </el>
+                    <el id="art2-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> 75/100 ai segretari del consiglio, ai presidenti delle commissioni consiliari permanenti, ai presidenti delle commissioni speciali ed al presidente del collegio dei revisori dei conti;</corpo>
+                    </el>
+                    <el id="art2-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> 65/100 ai consiglieri. </corpo>
+                    </el>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> L'indennità mensile lorda di cui al <rif xlink:href="#art2-com1">comma 1</rif> viene corrisposta ad ogni singolo consigliere per una sola delle funzioni ricoperte e per l'incarico con percentuale più alta. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art.3</num>
+                <rubrica>: MISURIA DELLA DIARIA 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> Ai consiglieri regionali è corrisposta una diaria, a titolo di rimborso spese, nella misura del 65 % delle indennità corrispondenti spettanti ai membri del Parlamento nazionale. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La diaria non è corrisposta ai consiglieri regionali sottoposti a misure cautelari dalla magistratura, restrittive della libertà personale, tali da impedire l'effettivo esercizio della carica, per tutto il periodo di impedimento. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art.4</num>
+                <rubrica>: DETRAZIONI SULLA DIARIA 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <alinea> La diaria è diminuita di 1/18 per ogni giornata di assenza alle sedute: 
+ 
+</alinea>
+                    <el id="art4-com1-leta">
+                        <num>a)</num>
+                        <corpo> del consiglio regionale;</corpo>
+                    </el>
+                    <el id="art4-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> dell'ufficio di presidenza del consiglio regionale;</corpo>
+                    </el>
+                    <el id="art4-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> della giunta regionale;</corpo>
+                    </el>
+                    <el id="art4-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> delle commissioni permanenti, speciali e del collegio dei revisori dei conti;</corpo>
+                    </el>
+                    <el id="art4-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> della commissione per la verifica delle elezioni (art. 9-R.I.);</corpo>
+                    </el>
+                    <el id="art4-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> delle commissioni di inchiesta (art. 104 - R. I.). </corpo>
+                    </el>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Nel caso di riunioni del medesimo organo collegiale suddivise in più sedute nell'arco della stessa giornata, ciascun consigliere dovrà partecipare a tutte le sedute previste. </corpo>
+                </comma>
+                <comma id="art4-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Si considera presente il consigliere, che, facendo parte di più organi collegiali, abbia partecipato nella giornata ad altra riunione degli organi di cui al <rif xlink:href="#art4-com1">comma 1</rif>, o si trovi in missione. </corpo>
+                </comma>
+                <comma id="art4-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> L'ufficio di presidenza emana le disposizioni attuative delle norme di cui al presente articolo. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art.5</num>
+                <rubrica>: RIMBORSO PER SPESE DI TRASPORTO 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <alinea> Ai consiglieri regionali è corrisposto un rimborso delle spese di trasporto determinato convenzionalmente sulla base: 
+ 
+</alinea>
+                    <el id="art5-com1-leta">
+                        <num>a)</num>
+                        <corpo> del costo chilometrico pari ad 1/4 del prezzo medio di un litro di benzina super accertato ogni tre mesi dall'ufficio di presidenza;</corpo>
+                    </el>
+                    <el id="art5-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> della percorrenza chilometrica pari al doppio della distanza tra il comune di residenza e il comune sede del consiglio regionale: tale distanza, arrotondata per eccesso al multiplo di 10, è determinata dall'ufficio di presidenza sulla base del percorso stradale ordinario, autostradale, o combinato più breve. </corpo>
+                    </el>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> La distanza chilometrica massima per l'applicazione di quanto previsto dal <rif xlink:href="#art5-com1-letb">comma 1, lettera b)</rif>, è stabilita in chilometri 98, corrispondente alla distanza intercorrente tra il capoluogo sede del Consiglio regionale e il Comune della Regione pi? distante dal capoluogo stesso. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> I consiglieri regionali che hanno a propria disposizione in via permanente un'autovettura di servizio non hanno diritto al rimborso per spese di trasporto. </corpo>
+                </comma>
+                <comma id="art5-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Il rimborso delle spese di trasporto è corrisposto per una presenza media presunta di 18 giornate per ogni mese. </corpo>
+                </comma>
+                <comma id="art5-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> Il rimborso delle spese di trasporto è diminuito di 1/18 per ogni giornata di assenza accertata secondo i criteri stabiliti per il rimborso spese di diaria. </corpo>
+                </comma>
+                <comma id="art5-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> L'ufficio di presidenza del consiglio regionale determina le modalità di accertamento delle assenze dei consiglieri. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6</num>
+                <rubrica>: TRATTAMENTO DI MISSIONE 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <alinea> Al Consigliere regionale inviato in missione fuori dal territorio della Regione Molise, per l'espletamento delle funzioni esercitate o per ragioni delle cariche ricoperte, spetta: 
+ 
+</alinea>
+                    <el id="art6-com1-leta">
+                        <num>a)</num>
+                        <corpo> per le missioni all'estero, un'indennità giornaliera di trasferta pari a quella stabilita per il personale dello Stato compreso nel gruppo 2 della tabella A allegata al decreto del Ministero del Tesoro del 24 maggio 1990 e successive modificazioni;</corpo>
+                    </el>
+                    <el id="art6-com1-letb">
+                        <num> 
+ 
+b)</num>
+
+                        <corpo> per le missioni nel territorio nazionale, un'indennità giornaliera di trasferta, pari a quella stabilita per il personale dello Stato di cui alla <rif xlink:href="#art6-com1-leta">lettera a)</rif>;</corpo>
+                    </el>
+                    <el id="art6-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> sia per le missioni all'estero che nel territorio nazionale, il rimborso delle spese di alloggio, vitto e di trasporto effettivamente sostenute e documentate, previa contestuale riduzione dell'indennità giornaliera di trasferta da determinarsi dall'Ufficio di Presidenza del Consiglio Regionale. </corpo>
+                    </el>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Al Consigliere regionale, per le missioni nel territorio regionale per le quali è autorizzato di diritto in funzione dell'espletamento del mandato, viene corrisposto un rimborso spese onnicomprensivo pari al 25% dell'indennità di funzione percepita dal Consigliere. </corpo>
+                </comma>
+                <comma id="art6-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> L'Ufficio di Presidenza del Consiglio Regionale può inoltre stipulare convenzioni con società, operanti nei settori dei trasporti ed alberghiero, senza alcun onere a carico del Consiglio, allo scopo di dotare ciascun Consigliere regionale di documenti di viaggio e di alloggio a tariffe agevolate. Tali documenti potranno essere usati dal solo Consigliere regionale intestatario. </corpo>
+                </comma>
+                <comma id="art6-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> L'Ufficio di Presidenza del Consiglio Regionale emana le disposizioni attuative delle norme di cui al presente articolo. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art.7</num>
+                <rubrica>: VARIAZIONI 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Al variare delle indennità percepite dai membri del Parlamento nazionale, con la medesima decorrenza variano proporzionalmente l'indennità di cui all'<rif
+                            xlink:href="#art2">art. 2</rif> ed il rimborso spese di cui all'<rif xlink:href="#art3">art. 3</rif>. </corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il rimborso spese di cui all'<rif
+                            xlink:href="#art6-com2">art. 6, comma 2</rif>, varia proporzionalmente al variare delle indennità di cui all'<rif xlink:href="#art2">art. 2</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8</num>
+                <rubrica>: TERMINE DI DECORRENZA 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+                    <corpo> Le disposizioni di cui alla presente legge si applicano a far tempo dalla data di pubblicazione sul Bollettino Ufficiale della Regione Molise. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9</num>
+                <rubrica>: ABROGAZIONI 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+                    <alinea>
+                        <mod id="art9-com1-mod1"> Sono abrogate: 
+ 
+</mod>
+                    </alinea>
+                    <el id="art9-com1-leta">
+                        <num>a)</num>
+                        <corpo> la <rif xlink:href="urn:nir:regione.molise:legge:1972-03-31;3">legge regionale 31 marzo 1972, n. 3</rif>;</corpo>
+                    </el>
+                    <el id="art9-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> la <rif xlink:href="urn:nir:regione.molise:legge:1972-10-13;8">legge regionale 13 ottobre 1972, n. 8</rif>;</corpo>
+                    </el>
+                    <el id="art9-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> l'<rif xlink:href="urn:nir:regione.molise:legge:1974-09-05;16#art33">art. 33 della legge regionale 5 settembre 1974, n. 16</rif>;</corpo>
+                    </el>
+                    <el id="art9-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> la <rif xlink:href="urn:nir:regione.molise:legge:1975-03-05;23">legge regionale 5 marzo 1975, n. 23</rif>;</corpo>
+                    </el>
+                    <el id="art9-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> gli artt. 1, 2, 3 e 7 della <rif xlink:href="urn:nir:regione.molise:legge:1976-07-15;22">L. R. 15 luglio 1976, n. 22</rif>;</corpo>
+                    </el>
+                    <el id="art9-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> la <rif xlink:href="urn:nir:regione.molise:legge:1981-01-12;1">legge regionale 12 gennaio 1981, n. 1</rif>;</corpo>
+                    </el>
+                    <el id="art9-com1-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> la <rif xlink:href="urn:nir:regione.molise:legge:1982-01-04;1">legge regionale 4 gennaio 1982, n. 1</rif>;</corpo>
+                    </el>
+                    <el id="art9-com1-leth">
+                        <num> 
+ 
+h)</num>
+                        <corpo> la <rif xlink:href="urn:nir:regione.molise:legge:1986-04-07;8">legge regionale 7 aprile 1986, n. 8</rif>;</corpo>
+                    </el>
+                    <el id="art9-com1-leti">
+                        <num> 
+ 
+i)</num>
+                        <corpo> la <rif
+                                xlink:href="urn:nir:regione.molise:legge:1988-03-25;8">legge regionale 25 marzo 1988, n. 8</rif>; 
+ 
+1) la <rif
+                                xlink:href="urn:nir:regione.molise:legge:1988-03-25;9">legge regionale 25 marzo 1988, n. 9</rif>; 
+ 
+m) la <rif xlink:href="urn:nir:regione.molise:legge:1988-08-10;19">legge regionale 10 agosto 1988, n. 19</rif>. 
+</corpo>
+                    </el><?error Marker Warning 101 (last comma:1 next:1)?>
+                </comma>
+                <comma id="art9-com2">
+                    <num> 
+2.</num>
+                    <corpo>
+                        <mod id="art9-com2-mod2"> È abrogata inoltre ogni altra disposizione di legge incompatibile o in contrasto con la presente legge. 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10</num>
+                <rubrica>: NORMA FINANZIARIA 
+ </rubrica>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+                    <corpo> Agli oneri derivanti dall'applicazione della presente legge si provvede mediante impiego delle somme annualmente stanziate nello stato di previsione delle spese, ai singoli bilanci regionali di competenza e di cassa, al Cap. 00100 &lt;&lt;spese per l'indennità di carica e di missione ai componenti del Consiglio regionale&gt;&gt;. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11</num>
+                <rubrica>: DICHIARAZIONE D'URGENZA 
+ </rubrica>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto</rif> ed entra in vigore lo stesso giorno della sua pubblicazione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

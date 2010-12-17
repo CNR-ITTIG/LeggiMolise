@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19880430" num="8" tipo="BURM"/>
+                <entratainvigore norm="19880515"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1988-04-26;12"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 08 del 30/04/88 
+ 
+Oggetto 
+Regione - Struttura organizzativa del Consiglio - Modifiche 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 7/1997 art. art. 47, comma 1, lettera f) 
+Abrogato art. 1 dalla legge n. 15/1991 art. 8-bis 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19880426">26 Aprile 1988</dataDoc>, n. <numDoc>12</numDoc>
+            <titoloDoc>Modifica alla <rif xlink:href="urn:nir:regione.molise:legge:1985-04-29;14">legge regionale 29 aprile 1985, n. 14</rif> - Ordinamento della struttura organizzativa della Regione. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 7/1997 art. art. 47, comma 1, lettera f)</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19980716" num="14" tipo="BURM"/>
+                <entratainvigore norm="19980731"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1997-11-21;27"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+ 
+Bollettino 
+Bollettino Ufficiale n. 14 del 16/07/98 
+ 
+Oggetto 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>L.R. </tipoDoc>
+            <dataDoc
+                    norm="19971121">21 NOVEMBRE 1997</dataDoc>N. <numDoc>27</numDoc> - <titoloDoc>MODIFICHE ED  
+INTEGRAZIONI 
+ 
+Abrogazioni 
+Abrogata intera legge dalla <rif
+                    xlink:href="urn:nir:stato:legge:2010;13">legge n. 13/2010</rif> art. allegato uno 
+ 
+Modifiche 
+ 
+ 
+<rif
+                    xlink:href="urn:nir:regione.molise:legge:1998-07-30;9">Legge Regionale del 30 Luglio 1998, n. 9</rif> 
+ 
+Modifiche ed integrazioni alla <rif xlink:href="urn:nir:regione.molise:legge:1997-11-21;21">legge regionale n. 21 del 21 novembre 1997</rif> ad oggetto: &lt;&lt;Interventi per il diritto allo studio nelle Scuole Materne non statali&gt;&gt; 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <alinea>
+                        <mod id="art1-com1-mod1">
+La <rif
+                                xlink:href="urn:nir:regione.molise:legge:1997-11-21;27">legge regionale n. 27 del 21 novembre 1997</rif>, con cernente &lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir1" tipo="parola">Interventi per il diritto allo studio nelle scuole materne non statali</virgolette>&gt;&gt; viene così modificata ed integrata: 
+ 
+- all'art. 4, primo comma, lettera</mod>
+                    </alinea>
+                    <el id="art1-com1-leta">
+                        <num> a)</num>
+                        <corpo>
+                            <mod
+                                    id="art1-com1-leta-mod2"> le parole &lt;&lt;<virgolette
+                                    id="art1-com1-leta-mod2-vir2">entro il 10 novembre di ogni anno</virgolette>&gt;&gt; sono soppresse e sostituite dalle seguenti: &lt;&lt;<virgolette
+                                    id="art1-com1-leta-mod2-vir3"
+                                    tipo="parola">entro 30 giorni dall'approvazione del bilancio annuale di previsione</virgolette>&gt;&gt;; 
+ 
+- all art. 6 viene aggiunto un secondo comma: &lt;&lt;L'erogazione dei contributi a favore delle scuole materne non statali relativi agli anni passati, compreso l'anno scolastico 1996/97, resta regolamentata dalla predetta <rif xlink:href="urn:nir:regione.molise:legge:1990;14">legge regionale n. 14 del 1990</rif>.</mod>
+                        </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della pubblicazione sul Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19860416" num="7" tipo="BURM"/>
+                <entratainvigore norm="19860501"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1986-04-07;6"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+ 
+Bollettino 
+Bollettino Ufficiale n. 07 del 16/04/86 
+ 
+Oggetto 
+Bilancio 1986 della Regione 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19860407">7 Aprile 1986</dataDoc>, n. <numDoc>6</numDoc>
+            <titoloDoc>Bilancio annuale di competenza e di cassa per l'esercizio finanziario 1986 _ Bilancio pluriennale 1986/1988. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti, di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

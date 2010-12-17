@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19880616" num="11" tipo="BURM"/>
+                <entratainvigore norm="19880701"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1988-06-20;15"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 31.Protezione civile, rischio sismico, regime delle acque e rischio idrogeologico 
+ 
+Bollettino 
+Bollettino Ufficiale n. 11 del 16/06/88 
+ 
+Oggetto 
+Strumenti urbanistici - Indagini geologiche-geotecniche Contributi - Procedure 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 4/1989 art. 1 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19880620">20 Giugno 1988</dataDoc>, n. <numDoc>15</numDoc>
+            <titoloDoc>Contributi in favore dei Comuni per l'esecuzione delle indagini geologiche - geotecniche preordinate alla formazione degli strumenti urbanistici generali ed attuativi e loro varianti. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ART. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo>
+1. La Regione concede ai Comuni contributi una-tantum in conto capitale per l'esecuzione delle indagini geologiche-geotecniche relative a sondaggi diretti ed indiretti, prove in situ e prove di laboratorio, in attuazione della <rif
+                            xlink:href="urn:nir:regione.molise:legge:1986-09-08;15">legge regionale 8 settembre 1986, n. 15</rif>. 
+ 
+2. Il termine previsto nel <rif xlink:href="urn:nir:regione.molise:legge:1986-09-08;15#art5-com1">1° comma dell'art. 5 della legge regionale 8 settembre 1986, n. 15</rif> è prorogato al 30 giugno 1991.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ART. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+1. Il contributo è fissato nella misura massima del 70% della spesa ritenuta ammissibile dalla Regione, è comunque nella misura non superiore al contributo massimo determinato con le allegate tabelle A e B, che costituiscono parte integrante della presente legge, previo esame preventivo da parte del Settore Edilizia Residenziale - Sezione Comuni Sismici competenti per   territorio - sul programma di indagini che i Comuni, competenti alla formazione degli strumenti urbanistici e loro varianti, predisporranno. 
+ 
+2. Il programma delle indagini deve essere formulato in base alla prevedibile costituzione del sottosuolo rilevabile da un preventivo studio condotto sul territorio interessato dallo strumento urbanistico e contenente informazioni atte a definire le caratteristiche topografiche e  geomorfologiche.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>ART. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+
+                    <corpo>
+1. Alla liquidazione dei contributi previsti nell'<rif xlink:href="#art1">art. 1</rif> della presente legge provvede con decreto il Presidente della Giunta Regionale previa proposta del Settore Edilizia Residenziale in ordine alle spese effettivamente sostenute e documentate. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>ART. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+
+                    <corpo>
+1. Alla quantificazione degli oneri derivanti dall'applicazione della presente legge sarà provveduto con successiva legge di variazione al bilancio regionale ai sensi e per gli effetti del <rif xlink:href="urn:nir:regione.molise:legge:1977;44#art33-com2">secondo comma dell'art. 33 della legge regionale n. 44/1977</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>ART. 5 </num>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo>
+La presente legge regionale sarà pubblicata sul Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

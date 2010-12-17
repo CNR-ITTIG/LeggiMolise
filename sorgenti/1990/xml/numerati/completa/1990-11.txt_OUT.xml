@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19900601" num="10" tipo="BURM"/>
+                <entratainvigore norm="19900616"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1990-05-25;26"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 23.Ordinamento sportivo e promozione dello sport 
+ 
+Bollettino 
+Bollettino Ufficiale n. 10 del 01/06/1990 
+ 
+Oggetto 
+Sport - Impianti sportivi - Costruzione ampliamento e miglioramento - Contributi - Procedure 
+ 
+Abrogazioni 
+Abrogato art. 4 dalla legge n. 14/1994 art. 3 
+Abrogato art. 6 dalla legge n. 14/1994 art. 4 
+ 
+Modifiche 
+Modificato art. 2 dalla legge n. 14/1994 art. 1 
+Modificato art. 2 dalla legge n. 14/1994 art. 2 
+Modificato art. 5 dalla legge n. 14/1994 art. 3 
+Modificato art. 7 dalla legge n. 14/1994 art. 4 
+Modificato art. 14 dalla legge n. 21/1999 art. 3 
+Modificato art. 15 dalla legge n. 14/1994 art. 5 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19900525">25 Maggio 1990</dataDoc>, n. <numDoc>26</numDoc>
+            <titoloDoc>T.U. degli interventi regionali per manifestazioni ed attività sportiva e per la costruzione, ampliamento e miglioramento di impianti ed attrezzature sportive. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Nel quadro degli obiettivi previsti dall'<rif xlink:href="urn:nir:regione.molise:statuto:#art4">art. 4 dello Statuto</rif>, la Regione Molise favorisce   manifestazioni ed attività rivolte allo sviluppo e alla diffusione dello sport inteso come servizio   sociale ed assicura interventi diretti all'espansione ed al rinnovamento delle attrezzature e dei servizi sportivi di interesse regionale. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Allo scopo di coordinare e programmare gli interventi regionali nel settore, il Consiglio   Regionale, su proposta della Giunta, approva il piano pluriennale di interventi per la   realizzazione di impianti sportivi nel territorio della Regione Molise. </corpo>
+                </comma>
+                <comma id="art1-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La Giunta Regionale determina le tipologie edilizie e tecniche, improntate a criteri di   funzionalità ed economicità per le diverse categorie di impianti sportivi, perché vi facciano   riferimento i soggetti interessati agli interventi di cui al precedente comma. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <alinea> Per le finalità di cui all'<rif xlink:href="#art1">art. 1</rif> la Regione interviene: 
+ 
+</alinea>
+                    <el id="art2-com1-leta">
+                        <num>a)</num>
+                        <corpo> a favore delle Province, dei Comuni, delle Comunità Montane e dei Consorzi fra Enti locali   con l'erogazione di un contributo in conto capitale, per la costruzione, ampliamento e   miglioramento di impianti sportivi, compreso l'acquisto dell'area, nella misura del 50% della   spesa ritenuta ammissibile. La Regione concede per il restante 50% la garanzia fidejussoria e le   somme necessarie per la copertura della quota interessi sulle annualità dei mutui contratti;</corpo>
+                    </el>
+                    <el id="art2-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> a favore degli Enti di cui alla precedente lettera con la concessione di contributi a titolo di concorso nella spesa per la gestione di impianti sportivi e per l'acquisto di attrezzature;</corpo>
+                    </el>
+                    <el id="art2-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> a favore di associazioni, sodalizi e società, anche senza personalità giuridica, appartenenti a   Federazioni, con la concessione di contributi per lo svolgimento di attività sportive a carattere   dilettantistico;</corpo>
+                    </el>
+                    <el id="art2-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> a favore dei Comuni e degli istituti scolastici che stipulino convenzioni con le società sportive   per l'uso delle palestre, con la concessione di contributi per le spese di manutenzione e   gestione degli impianti;</corpo>
+                    </el>
+                    <el id="art2-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> a favore di Associazioni ed enti di promozione sportiva, regolarmente costituiti ed   effettivamente operanti sul territorio, con la concessione di contributi per l'organizzazione di   attività a carattere promozionale, di impiego del tempo libero e per le attività delle società ad   essi affiliate;</corpo>
+                    </el>
+                    <el id="art2-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> a favore della Federazione o di Società  regolarmente costituite anche senza  responsabilità giuridica, ed effettivamente operanti sul territorio, con la concessione di contributi per l'organizzazione o lo svolgimento di attività sportive a carattere dilettantistico per gli sports degli Handicappati. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> Per le manifestazioni sportive dilettantistiche di rilevante interesse internazionale, nazionale e   interregionale realizzate nel Molise, la Regione interviene con l'erogazione di contributi nel limite massimo del 50% della spesa ritenuta ammissibile. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> L'istanza, pena l'esclusione dal beneficio, deve pervenire all'Assessore allo Sport entro il 31   marzo. </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> L'erogazione del contributo è disposto, successivamente alla manifestazione, con   provvedimento della Giunta Regionale, previa presentazione da parte dei beneficiari di una   relazione sulla manifestazione e del consuntivo delle spese sostenute, sottoscritto dal   Presidente del sodalizio o Ente organizzatore e corredato da relativa documentazione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Per gli interventi di cui alla lettera a) dell'art.2 la Giunta Regionale, sentito il parere della   Commissione Consultiva di cui al <rif xlink:href="#art15">successivo art.15</rif>, formula, sulla base delle istanze pervenute,   la proposta di programma pluriennale degli interventi, da sottoporre all'approvazione del  Consiglio Regionale. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Successivamente, la Giunta Regionale determina le concessioni di garanzia e l'ammissione degli Enti al beneficio del contributo in conto capitale, nei limiti delle disponibilità risultanti nei corrispondenti capitoli di spesa, notificandole ai destinatari. </corpo>
+                </comma>
+                <comma id="art4-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Per l'acquisto delle aree occorrenti per gli impianti sportivi valgono le norme che regolano   l'esecuzione delle opere pubbliche. </corpo>
+                </comma>
+                <comma id="art4-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> L'approvazione dei progetti da parte della Giunta Regionale equivale a dichiarazione di   pubblica utilità, di indifferibilità e di urgenza, ai sensi della <rif xlink:href="urn:nir:stato:legge:1971-10-22;865">legge 22 ottobre 1971, n. 865</rif> e   successive modificazioni. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <alinea> Per essere ammessi al beneficio di cui alla lettera a) dell'art. 2 gli Enti interessati, entro due mesi dalla scadenza del precedente programma pluriennale, devono produrre all'Assessorato Regionale competente un'istanza corredata di: 
+ 
+</alinea>
+                    <el id="art5-com1-leta">
+                        <num>a)</num>
+                        <corpo> progetto generale di massima dell'opera con il parere tecnico del CONI;</corpo>
+                    </el>
+                    <el id="art5-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> preventivo di spesa;</corpo>
+                    </el>
+                    <el id="art5-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> relazione illustrativa dalla quale risultino i dati sulla popolazione, sugli insediamenti   residenziali e produttivi esistenti nell'ambito del territorio di competenza dell'Ente, sui servizi   pubblici esistenti, sui fabbisogni sociali in materia sportiva e ricreativa, sulla localizzazione dell'impianto richiesto e sul regime urbanistico dell'area individuata. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+
+                    <alinea> Gli Enti interessati, pena la revoca della concessione, sono tenuti a presentare entro 6 mesi successivi alla notiflca del provvedimento di cui al <rif xlink:href="#art4-com2">comma 2 dell'art. 4</rif>: 
+ 
+</alinea>
+                    <el id="art6-com1-leta">
+                        <num>a)</num>
+
+                        <corpo> il progetto esecutivo, debitamente approvato in conformità della <rif xlink:href="urn:nir:regione.molise:legge:1979;19">legge regionale, n.19/1979</rif> e   successive modificazioni, munito del parere tecnico del CONI secondo le norme stabilite dalle   competenti federazioni sportive nazionali;</corpo>
+                    </el>
+                    <el id="art6-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> l'adesione alla richiesta di concessione del mutuo da parte dell'Istituto per il Credito Sportivo o di altro Istituto finanziatore. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Il contributo in conto capitale e quello relativo agli interessi di cui alla lettera a) dell'art. 2 sono erogati con decreto del Presidente della Giunta Regionale, previa delibera della Giunta stessa, secondo le modalità di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1979;19#art16">art. 16 della legge regionale n. 19/ 79</rif> e successive modificazioni. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+
+                    <corpo> L'utilizzazione degli impianti ammessi ai benefici di cui all'<rif xlink:href="#art2">art. 2</rif> della presente legge deve   essere garantita a tutte le Associazioni Sportive nonché a gruppi scolastici e aziendali operanti   nell'ambito regionale. </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> A tale scopo l'Ente beneficiario adotta apposito regolamento da sottoporre all'approvazione   dell'Assessorato Regionale competente. </corpo>
+                </comma>
+                <comma id="art8-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> È fatto assoluto divieto di alienare, dare in locazione o utilizzare per finalità diverse da quelle sportive gli impianti ammessi ai contributi previsti dalla presente legge, salvo eccezionali deroghe stabilite dall'Ente proprietario. </corpo>
+                </comma>
+                <comma id="art8-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> La violazione delle disposizioni del presente articolo comporta la revoca dei benefici   concessi, con conseguente obbligo al rimborso delle somme percepite. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+
+                    <corpo> I contributi di cui alle lettere b), c), d), e), f) dell' <rif
+                            xlink:href="#art2">art. 2</rif> sono concessi annualmente dalla Giunta Regionale, previo parere della Commissione Consultiva per lo Sport di cui al <rif xlink:href="#art15">successivo art. 15</rif>, d'intesa con la competente Commissione Consiliare che si esprime nel termine perentorio di giorni 30 dal ricevimento della proposta della Giunta Regionale. Trascorso il termine suddetto, il parere si intende acquisito. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+                    <corpo> Per beneficiare dei contributi di cui all'art. 2 lettera b) della presente legge, i Comuni, le   Province, le Comunità Montane e i Consorzi traEnti Locali presentano istanza al competente   Assessorato Regionale, entro e non oltre il 31 marzo di ogni anno, corredata di dettagliato   preventivo di spesa. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>ART. 11 </num>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+                    <corpo> Gli interessati ai contributi di cui al precedente art. 2, lettera c), devono presentare al   competente Assessorato entro e non oltre il 31 marzo un'istanza corredata di: 
+ 
+- preventivo dettagliato di spesa per l'attività programmata per l'anno in corso; 
+ 
+- consuntivo di spesa dell'anno precedente, sottoscritto dal Presidente o dal legale rappresentante, corredato della relazione illustrativa sull'attività svolta, vistata dall'Organo Provinciale della Federazione di appartenenza; 
+ 
+- attestato di affiliazione per l'anno in corso. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12 </num>
+                <comma id="art12-com1">
+                    <num>
+1.</num>
+                    <corpo><?error Marker Warning 108?> Per beneficiare dei contributi di cui all'art. 2, lettera d), i Comuni e gli istituti scolastici che   abbiano stipulato apposita convenzione con le società sportive per l'uso delle palestre devono   presentare, entro e non oltre il 31 marzo di ogni anno un'istanza corredata di: 
+ 
+1) copla della convenzione; 
+ 
+2) preventivo di spesa per la manutenzione e la gestione dell'impianto riferito all'anno in corso. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13 </num>
+                <comma id="art13-com1">
+                    <num>
+1.</num>
+                    <corpo> Gli interessati ai contributi di cui al precedente art. 2 lettera e) ed f) devono presentare al competente Assessorato, entro e non oltre il 31 marzo, un'istanza corredata di: 
+ 
+- copia dello Statuto dell'Ente o dell'Associazione; 
+ 
+- preventivo dettagliato di spesa dell'attività programmata per l'anno in corso; 
+ 
+- consuntivo delle spese sostenute nell'anno precedente, sottoscritto dal Presidente o dal legale rappresentante dell'Ente di promozione sportiva o Associazione corredato della relazione  illustrativa sull'attività svolta. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14 </num>
+                <comma id="art14-com1">
+                    <num>
+1.</num>
+                    <alinea> I contributi di cui ai precedenti articoli 10, 11, 12 e 13 della presente legge non possono   superare il 50% della spesa ritenuta ammissibile e sono erogati, per la metà, all'atto   dell'approvazione del programma e, per la differenza, all'atto della presentazione della seguente documentazione: 
+ 
+</alinea>
+                    <el id="art14-com1-leta">
+                        <num>a)</num>
+                        <corpo> relazione sull'attività svolta nell'anno cui si riferisce il contributo, munita del visto dell'Organo Provinciale della Federazione Sportiva di appartenenza che ne attesti l'avvenuta realizzazione con esclusione, limitatamente al visto, per le Associazioni non affiliate;</corpo>
+                    </el>
+                    <el id="art14-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> dichiarazione formale del Presidente o legale rappresentante dell'Ente sulle spese sostenute;</corpo>
+                    </el>
+                    <el id="art14-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> giustificativi di spesa. </corpo>
+                    </el>
+                </comma>
+                <comma id="art14-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Ai beneficiari di cui all'<rif xlink:href="#art11">art. 11</rif>, all'atto dell'approvazione del programma, può essere anticipato metà del contributo assegnato a condizione che l'associazione dimostri di svolgere attività sportiva da almeno un biennio precedente la data di presentazione dell'istanza e che a quest'ultima risulti allegata una documentazione di spesa pari, almeno, al contributo concesso. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>Art. 15 </num>
+                <comma id="art15-com1">
+                    <num>
+1.</num>
+                    <alinea> Su proposta dell'Assessore competente è  istituita, con decreto del PGR, la Commissione   consultiva per lo sport che è composta: 
+ 
+</alinea>
+                    <el id="art15-com1-leta">
+                        <num>a)</num>
+                        <corpo> dall'Assessore allo Sport o suo delegato che la presiede;</corpo>
+                    </el>
+                    <el id="art15-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> dal Delegato regionale CONI;</corpo>
+                    </el>
+                    <el id="art15-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> dai Presidenti provinciali del CONI;</corpo>
+                    </el>
+                    <el id="art15-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> da tre rappresentanti Regionali delle Federazioni Sportive Nazionali eletti dal Consiglio Regionale del CONI;</corpo>
+                    </el>
+                    <el id="art15-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> da un rappresentante regionale per ciascuno degli Enti di promozione sportiva operanti nella   Regione;</corpo>
+                    </el>
+                    <el id="art15-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> da 5 Sindaci, designati dal Consiglio Regionale, con voto limitato a tre;</corpo>
+                    </el>
+                    <el id="art15-com1-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> da tre Presidenti di Comunità Montane, designati dal Consiglio Regionale, con voto limitato a due;</corpo>
+                    </el>
+                    <el id="art15-com1-leth">
+                        <num> 
+ 
+h)</num>
+                        <corpo> dai Presidenti delle due Province o Assessori delegati;</corpo>
+                    </el>
+                    <el id="art15-com1-leti">
+                        <num> 
+ 
+i)</num>
+                        <corpo> dal rappresentante regionale della Federazione Handicappati. </corpo>
+                    </el>
+                </comma>
+                <comma id="art15-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Le funzioni di Segretario sono svolte da un dipendente regionale designato dall'Assessore   competente con qualifica non inferiore al 6°  livello funzionale. </corpo>
+                </comma>
+                <comma id="art15-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Ai Componenti della Commissione che non siano dipendenti regionali compete, per la  partecipazione alle riunioni, il rimborso delle spese di viaggio sostenute. </corpo>
+                </comma>
+                <comma id="art15-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> La Commissione consultiva, oltre ad esprimere il prescritto parere sui programmi regionali, ha   facoltà di proposta e di relazione sullo stato delle attività sportive nella regione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>Art. 16 </num>
+                <comma id="art16-com1">
+                    <num>
+1.</num>
+                    <corpo> La Giunta Regionale è autorizzata a stipulare convenzioni con il CONI e l'Istituto per il Credito   Sportivo o altri Istituti di Credito per la concessione di mutui, secondo importi stabiliti dalla Regione, per il finanziamento degli interventi previsti nel piano pluriennale. Tali mutui sono concessi agli Enti locali beneficiari delle provvidenze regionali. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>Art. 17 </num>
+                <comma id="art17-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art17-com1-mod1"> Dalla data di entrata in vigore della presente legge sono abrogate le leggi regionali n. 39 del 9   novembre 1977; n. 20 del 5 settembre 1978; n. 3 del 9 gennaio 1979; n. 17 del 2 giugno 1979; n. 4   del 17 gennaio 1983. 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>Art. 18 </num>
+                <comma id="art18-com1">
+                    <num>
+1.</num>
+                    <corpo> Agli Enti compresi nei programmi pluriennali per l'impiantistica sportiva, approvati  precedentemente all'entrata in vigore della presente legge, si continua ad erogare un contributo del 2% sull'importo del mutuo contratto per la decurtazione delle annualità di ammortamento, secondo le modalità previste dai rispettivi decreti di erogazione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art19">
+                <num>Art. 19 </num>
+                <comma id="art19-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Agli oneri derivanti dall'applicazione della presente legge si fa fronte, per le spese di  investimento di cui alle lettere a) e b) dell'<rif
+                            xlink:href="#art2">art. 2</rif>, con quota parte dei fondi attribuiti alla Regione ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:legge:1970-05-16;281#art9">art. 9 della legge 16 maggio 1970, n.281</rif>. Gli oneri di cui alle lettere c), d), e)  dell'<rif xlink:href="#art2">articolo 2</rif> sono finanziati con quota parte dei fondi attribuiti alla Regione, ai sensi dell'art. 8   della citata legge 1970 n. 281. </corpo>
+                </comma>
+                <comma id="art19-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Alla quantificazione degli oneri annuali si provvede con la legge approvativa dei bilanci. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art20">
+                <num>Art. 20 </num>
+                <comma id="art20-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38   dello Statuto</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione sul   Bollettino Ufficiale della Regione Molise. </corpo>
+                </comma>
+                <comma id="art20-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione   Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

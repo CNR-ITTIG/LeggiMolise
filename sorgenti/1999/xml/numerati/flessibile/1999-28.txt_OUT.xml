@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19990616" num="11" tipo="BURM"/>
+                <entratainvigore norm="19990701"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1999-06-11;17"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 27.Procedimento amministrativo, semplificazione amministrativa, semplificazione del sistema normativo 
+ 
+Bollettino 
+Bollettino Ufficiale n. 11 del 16/06/99 
+ 
+Oggetto 
+Procedimento dell' accordo di programma : disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="19990611">11 giugno 1999</dataDoc>, n.<numDoc>17</numDoc>
+            <titoloDoc>Disciplina del procedimento per l'accordo di programma 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+FINALITÀ E DISCIPLINA DELL'ACCORDO DI PROGRAMMA 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Al fine di assicurare il coordinamento di tutte le attività necessarie all'attuazione di opere, interventi e programmi di intervento di prevalente interesse regionale, e che richiedono l'azione integrata e coordinata di enti locali o comunque di Amministrazioni pubbliche, soggetti pubblici, consorzi e società a partecipazione pubblica che gestiscono pubblici servizi, la Regione promuove accordi di programma ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1990-06-08#art27">art. 27 della Legge 8 giugno 1990</rif> - n. 142  
+ </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+2.</num>
+                    <corpo> Ai fini di cui al <rif xlink:href="#art1-com1">precedente comma 1</rif> sono ritenuti di prevalente interesse regionale in particolare: le opere, gli interventi, i programmi previsti dal piano regionale di sviluppo, gli altri piani e programmi regionali di settore, progetti comunque derivanti da programmi approvati dagli organi regionali, nonché quando ne ricorrono le condizioni, le iniziative finanziate con leggi e programmi nazionali e comunitari. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+PROCEDURA PER LA PROMOZIONE DELL'ACCORDO DI PROGRMMA  
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Il Presidente della Giunta regionale o l'Assessore competente per materia se delegato, promuove, anche su richiesta dei soggetti interessati, quando ricorrono le condizioni previste nel <rif xlink:href="#art1">precedente art. 1</rif>, l'accordo di programma con la presentazione della relativa proposta alla Giunta Regionale. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> La proposta di accordo di programma deve indicare:  
+ 
+</alinea>
+                    <el id="art2-com2-leta">
+                        <num>a)</num>
+                        <corpo> le opere, i programmi, gli interventi, l'ambito territoriale e gli obiettivi generali degli stessi;</corpo>
+                    </el>
+                    <el id="art2-com2-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> le amministrazioni pubbliche, gli enti, le aziende pubbliche e le società a prevalente partecipazione pubblica dei quali sia prevista l'azione integrata;</corpo>
+                    </el>
+                    <el id="art2-com2-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> il termine entro il quale deve essere definito l'accordo di programma. </corpo>
+                    </el>
+                </comma>
+                <comma id="art2-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Per verificare la possibilità di arrivare all'accordo di programma i rappresentanti di tutte le amministrazioni interessate partecipano alla conferenza di servizi convocata ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1990-06-08#art27">art. 27 della Legge 8 giugno 1990</rif> - n. 142. In caso positivo questi possono formare il Comitato per l'accordo di programma. Alla proposta di accordo di programma è data adeguata pubblicità per consentire a qualsiasi soggetto portatore di interessi pubblici o privati di presentare eventuali osservazioni o proposte. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3  </num>
+                <rubrica>
+ 
+COMITATO PER L'ACCORDO DI PROGRAMMA 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> Il Comitato è presieduto rispettivamente dal Presidente della Giunta regionale o dai rispettivi assessori competenti per materia, se delegati. Possono aderire al Comitato anche eventuali soggetti privati interessati che vengono dal Presidente invitati a partecipare. È prevista l'adesione successiva al Comitato di altri soggetti pubblici interessati, purché tale adesione non comporti l'interruzione del corso del procedimento.  </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Le funzioni di segretario del Comitato sono .svolte da un funzionario nominato dall'amministrazione precedente, il quale assume anche il ruolo di responsabile del procedimento ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1990;241#art4">art. 4 della Legge n. 241/1990</rif>.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4  </num>
+                <rubrica>
+ 
+COMPITI DEL COMITATO 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <alinea> Al Comitato compete:  
+ 
+</alinea>
+                    <el id="art4-com1-leta">
+                        <num>a)</num>
+                        <corpo> ricercare le intese sugli obiettivi degli interventi in relazione agli interessi di ciascuno dei partecipanti;</corpo>
+                    </el>
+                    <el id="art4-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> definire l'entità delle spese individuando le fonti di finanziamento;</corpo>
+                    </el>
+                    <el id="art4-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> sottoscrivere eventuali protocolli preliminari alla definizione dell'accordo di programma;</corpo>
+                    </el>
+                    <el id="art4-com1-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo> elaborare e coordinare le proposte tecniche e finanziarie necessarie, nonché procedere agli opportuni studi e verifiche;</corpo>
+                    </el>
+                    <el id="art4-com1-lete">
+                        <num>  
+ 
+e)</num>
+                        <corpo> proporre al Presidente della Giunta o all'Assessore competente per materia se delegato, che le dispone con apposito atto, le eventuali consulenze tecnico-specialistiche, indicando le fonti di finanziamento;</corpo>
+                    </el>
+                    <el id="art4-com1-letf">
+                        <num>  
+ 
+f)</num>
+
+                        <corpo> valutare le istanze dei privati per definire le ipotesi di eventuali accordi a norma dell'<rif xlink:href="urn:nir:stato:legge:1990;241#art11">art. 11 della Legge n. 241/1990</rif> da stipularsi dalle singole amministrazioni partecipanti al procedimento per l'accordo di programma, in relazione alle rispettive competenze e di intesa tra le medesime .  
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+CONTENUTO DELL'ACCORDO 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <alinea> L'accordo di programma deve prevedere:  
+ 
+</alinea>
+                    <el id="art5-com1-leta">
+                        <num>a)</num>
+                        <corpo> il programma di attuazione degli interventi e delle opere, eventualmente articolato in fasi funzionali con l'indicazione dei tempi relativi;</corpo>
+                    </el>
+                    <el id="art5-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> la quantificazione del costo complessivo e di quello relativo alle eventuali fasi di esecuzione;</corpo>
+                    </el>
+                    <el id="art5-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> il piano finanziario con la ripartizione degli oneri;</corpo>
+                    </el>
+                    <el id="art5-com1-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo> le modalità di attuazione;</corpo>
+                    </el>
+                    <el id="art5-com1-lete">
+                        <num>  
+ 
+e)</num>
+                        <corpo> gli adempimenti attribuiti ai soggetti interessati, le responsabilità dell'attuazione e le eventuali garanzie;</corpo>
+                    </el>
+                    <el id="art5-com1-letf">
+                        <num>  
+ 
+f)</num>
+                        <corpo> le .sanzioni per gli inadempimenti;</corpo>
+                    </el>
+                    <el id="art5-com1-letg">
+                        <num>  
+ 
+g)</num>
+                        <corpo> l'eventuale procedimento arbitrale per la risoluzione delle controversie che dovessero insorgere nell'attuazione dell'accordo e la composizione del collegio arbitrale;</corpo>
+                    </el>
+                    <el id="art5-com1-leth">
+                        <num>  
+ 
+h)</num>
+                        <corpo> gli eventuali accordi da stipularsi con i privati interessati ai sensi della lett. f) - dell'art. 4;</corpo>
+                    </el>
+                    <el id="art5-com1-leti">
+                        <num>  
+ 
+i)</num>
+
+                        <corpo> le modalità di controllo sull'esecuzione dell'accordo che compete al Comitato di cui all'<rif xlink:href="#art3">art. 3</rif>, eventualmente munito di poteri sostitutivi;</corpo>
+                    </el>
+                    <el id="art5-com1-letl">
+                        <num>  
+ 
+l)</num>
+
+                        <corpo> l'accordo di programma acquisito il consenso dei soggetti di cui all'<rif xlink:href="#art1">art. 1</rif> che abbiano partecipato all'accordo medesimo, è sottoscritto dai rappresentanti dei soggetti stessi ed è approvato con decreto del Presidente della Giunta regionale, per sua delega dell'Assessore competente per materia. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6  </num>
+                <rubrica>
+ 
+ACCORDI DI PROGRAMMA ROMOSSI DA SOGGETTI DIVERSI DALLA REGIONE  
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Qualora l'iniziativa dell'accordo di programma non compete alla Regione a norma dell'<rif
+                            xlink:href="#art1">art. 1</rif> della presente Legge, l'iniziativa spetta al Sindaco o al Presidente della Provincia ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1990-06-08#art27">art. 27 - della Legge 8 giugno 1990</rif> - n. 142.  </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> La Giunta regionale determina con proprio atto le modalità di partecipazione della regione alla Conferenza di servizi delle Amministrazioni interessate alla conclusione degli accordi di programma nonché al Comitato di cui all'<rif xlink:href="#art3">art. 3</rif> della presente è Legge.  </corpo>
+                </comma>
+                <comma id="art6-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Gli accordi di programma previsti dalla presente Legge possono essere stipulati anche ai fini dell'adozione e all'attuazione dei programmi integrati di intervento ed ai programmi di recupero urbano e di riqualificazione urbana.  </corpo>
+                </comma>
+                <comma id="art6-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> Alla proposta di accordo di programma approvata dalla Giunta comunale è data adeguata pubblicità per consentire a qualunque soggetto portatore di interessi pubblici o privati di presentare eventuali osservazioni e proposte a valutazione delle deduzioni dei soggetti che intervengono nel procedimento è attribuita al Comitato di cui al <rif xlink:href="#art2-com3">comma 3 - dell'art. 2</rif> della presente Legge, che ha altresì la facoltà di ascoltare i soggetti che ne facciano richiesta. In quest'ultimo caso il segretario del Comitato redige apposito verbale. Sulle deduzioni dei soggetti interessati, qualora non manifestamente irrilevanti o pertinenti, il Comitato ha l'obbligo di pronunciarsi motivatamente.  </corpo>
+                </comma>
+                <comma id="art6-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> La ratifica dell'accordo di programma da parte del Consiglio comunale on sostituisce tuttavia le concessioni edilizie.  </corpo>
+                </comma>
+                <comma id="art6-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> Qualora non si perfezioni l'accordo di programma si applicano le norme specifiche per l'approvazione delle varianti agli strumenti urbanistici. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+EFFETTI DELL'ACCORDO DI PROGRAMMA  
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Il decreto di approvazione dell'accordo di programma pubblicato nel bollettino Ufficiale della Regione, ha valore di dichiarazione di pubblica utilità, indifferibilità ed urgenza per le opere in esso previste e determina, qualora adottata con decreto del presidente della Giunta regionale, gli effetti dell'intesa di cui all'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1977;616#art81">art. 81 del D.P.R. n. 616/1977</rif>, con le eventuali e consequenziali variazioni degli strumenti urbanistici.  </corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Nell'ipotesi che l'accordo di programma determini, variazioni degli strumenti urbanistici comunali l'accordo deve essere ratificato dal Consiglio comunale entro 30 giorni dalla notifica.  
+ 
+Solo a far data dalla ratifica si applica quanto previsto dal <rif xlink:href="#art7-com1">precedente comma 1</rif>.  </corpo>
+                </comma>
+                <comma id="art7-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Qualora l'accordo di programma comporti modifiche a piani regionali aventi valenza territoriale queste devono essere approvate dal Consiglio regionale.  </corpo>
+                </comma>
+                <comma id="art7-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Nel caso non venga raggiunto il consenso unanime per l'accordo di programma, trovano applicazione le procedure di attuazione di opere, interventi e programmi di intervento previste dalle specifiche Leggi regionali e nazionali di settore.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8  </num>
+                <rubrica>
+ 
+DICHIARAZIONE D'URGENZA  
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La presente Legge è dichiarata urgente ai sensi dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione.  </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> È fatto obbligo a chiunque spetti di osservarla e di farla osservare come Legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

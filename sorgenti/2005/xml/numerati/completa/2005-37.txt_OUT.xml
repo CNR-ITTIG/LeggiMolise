@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20050516" num="10" tipo="BURM"/>
+                <entratainvigore norm="20050531"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2005-05-05;16"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 04.Assistenza sociale, volontariato 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 10 del 16 maggio 2005 
+ 
+Oggetto 
+Adozione di minori da parte delle coppie residenti nella Regione Molise - Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20050505">5 maggio 2005</dataDoc>, n. <numDoc>16</numDoc>. 
+ 
+<titoloDoc>Disposizioni modificative della <rif xlink:href="urn:nir:regione.molise:legge:2004-04-26;9">legge regionale 26 aprile 2004, n. 9</rif>, ad oggetto: "Provvedimenti per l'adozione di minori da parte delle coppie residenti nella regione Molise". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art1-com1-mod1"> All'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2004-04-26;9#art2-com3-lete">articolo 2, comma 3, lettera e) della legge regionale 26 aprile 2004, n. 9</rif> le parole "<virgolette
+                                id="art1-com1-mod1-vir1"
+                                tipo="parola">stabilisce contatti e cura i rapporti, anche stipulando apposite convenzioni</virgolette>" sono sostituite dalle parole "<virgolette id="art1-com1-mod1-vir2">intrattiene rapporti di carattere informativo</virgolette>". 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art2-com1-mod2"> Il <rif xlink:href="urn:nir:regione.molise:legge:2004-04-26;9#art2-com4">comma 4 dell'articolo 2 della legge regionale 26 aprile 2004, n. 9</rif> è abrogato. 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

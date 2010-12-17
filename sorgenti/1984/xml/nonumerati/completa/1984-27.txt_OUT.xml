@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19840316" num="5" tipo="BURM"/>
+                <entratainvigore norm="19840331"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1984-03-02;5"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 03.Assistenza abitativa 
+ 
+Bollettino 
+Bollettino Ufficiale n. 05 del 16/03/1984 
+ 
+Oggetto 
+Edilizia popolare agevolata e convenzionata - Piano straordinario - Procedure - Modifiche ed integrazioni 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19840302">2 Marzo 1984</dataDoc>, n. <numDoc>5</numDoc>
+            <titoloDoc>Modifiche alla <rif
+                    xlink:href="urn:nir:regione.molise:legge:1983-09-08;18">legge regionale 8 settembre 1983, n. 18</rif> - Integrazioni all'<rif xlink:href="urn:nir:regione.molise:legge:1979-02-12;7#art4">art. 4 della legge regionale 12 febbraio 1979, n. 7</rif> - Piano straordinario di edilizia popolare agevolata e convenzionata 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

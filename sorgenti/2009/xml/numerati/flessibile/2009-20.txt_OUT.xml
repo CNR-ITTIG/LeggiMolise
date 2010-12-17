@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20090416" num="8" tipo="BURM"/>
+                <entratainvigore norm="20090501"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2009-04-06;12"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 34.Trasporti e viabilit&#xE0;, navigazione nelle acque interne 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 8 del 16 aprile 2009 
+ 
+Oggetto 
+Trasporto pubblico locale - Disciplina - Modifiche ed integrazioni  
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20090406">6 aprile 2009</dataDoc>, n. <numDoc>12</numDoc>.  
+ 
+<titoloDoc>Modifiche ed integrazioni alla <rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;19">legge regionale 24 marzo 2000, n. 19</rif>, ad oggetto: "Norme integrative della disciplina in materia di trasporto pubblico locale".  
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+Modifiche ed integrazioni all'<rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;19#art13">articolo 13  della legge regionale 24 marzo 2000, n. 19</rif>
+                </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <alinea> All'<rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;19#art13">articolo 13 della legge regionale 24 marzo 2000, n. 19</rif> (Norme integrative della disciplina in materia di trasporto pubblico locale) sono apportate le seguenti modifiche ed integrazioni:  
+ 
+</alinea>
+                    <el id="art1-com1-leta">
+                        <num> a)</num>
+                        <corpo>
+                            <mod id="art1-com1-leta-mod1"> al <rif
+                                    xlink:href="#art1-com1">comma 1</rif>, sono aggiunti i seguenti periodi: "<virgolette
+                                    id="art1-com1-leta-mod1-vir1" tipo="parola">I Comuni, prima di avviare le procedure di gara, sono tenuti a sottoscrivere con la Regione un'intesa finalizzata ad individuare le risorse a carico del bilancio regionale assegnate allo svolgimento del servizio di trasporto pubblico urbano per l'intero periodo previsto dal bando di gara. Le attuali reti di servizi urbani, anche se già approvate, vanno razionalizzate, commisurate allo stanziamento del bilancio regionale e nuovamente approvate dalla Regione. Sono abrogate le norme regionali in contrasto.</virgolette>";</mod>
+                        </corpo>
+                    </el>
+                    <el id="art1-com1-letb">
+                        <num>  
+ 
+ b)</num>
+                        <corpo>
+                            <mod
+                                    id="art1-com1-letb-mod2"> il comma 2 è sostituito dal seguente:  
+ 
+  "<virgolette
+                                    id="art1-com1-letb-mod2-vir2" tipo="struttura">
+                                    <comma id="art1-com1-letb-mod2-vir2-com0">
+                                    <num>2.</num>
+
+                                    <corpo> L'affidamento del servizio di trasporto pubblico locale extraurbano ha luogo mediante l'esperimento di una gara a procedura ristretta e l'aggiudicazione è effettuata secondo il criterio dell'offerta economicamente più vantaggiosa, ai sensi del <rif
+                                    xlink:href="urn:nir:stato:decreto.legislativo:2006-04-12;163">decreto legislativo 12 aprile 2006, n. 163</rif>, e successive modificazioni e integrazioni. La rete regionale dei servizi minimi di trasporto pubblico locale extraurbano è messa a gara in un unico lotto. Per il servizio urbano viene messa a gara dal Comune competente per territorio la rete urbana di traffico approvata dalla Regione. I soggetti  che possono partecipare alla gara sono quelli previsti dal <rif
+                                    xlink:href="urn:nir:stato:decreto.legislativo:2006;163">decreto legislativo n. 163/2006</rif>, e successive modificazioni e integrazioni. I requisiti di partecipazione alla gara sono quelli previsti dal <rif xlink:href="urn:nir:stato:decreto.legislativo:2006;163">decreto legislativo n. 163/2006</rif>, e successive modificazioni e integrazioni.</corpo>
+                                    </comma>
+                                </virgolette>";</mod>
+                        </corpo>
+                    </el>
+                    <el id="art1-com1-letc">
+                        <num>  
+ 
+ c)</num>
+                        <corpo>
+                            <mod
+                                    id="art1-com1-letc-mod3"> il comma 3 è sostituito dal seguente:  
+ 
+  "<virgolette
+                                    id="art1-com1-letc-mod3-vir3" tipo="struttura">
+                                    <comma id="art1-com1-letc-mod3-vir3-com0">
+                                    <num>3.</num>
+                                    <alinea> Ai fini della partecipazione alla gara del trasporto pubblico locale extraurbano gli offerenti devono essere in possesso dei seguenti requisiti:  
+ 
+</alinea>
+                                    <el id="art1-com1-letc-mod3-vir3-com0-leta">
+                                    <num>   a)</num>
+                                    <corpo> idonea capacità tecnica e professionale, prevista dalle vigenti leggi in materia;</corpo>
+                                    </el>
+                                    <el id="art1-com1-letc-mod3-vir3-com0-letb">
+                                    <num>  
+ 
+   b)</num>
+                                    <corpo> dimostrazione di avere svolto, in forma singola o associata, negli ultimi tre anni attività di trasporto pubblico locale, per una percorrenza annua non inferiore al 10 per cento dell'ammontare dei chilometri della rete dei servizi minimi posti a gara;</corpo>
+                                    </el>
+                                    <el id="art1-com1-letc-mod3-vir3-com0-letc">
+                                    <num>  
+ 
+   c)</num>
+
+                                    <alinea> capacità economica e finanziaria. La capacità economica e finanziaria delle imprese concorrenti deve essere dimostrata, ai sensi del <rif xlink:href="urn:nir:stato:decreto.legislativo:2006;163">decreto legislativo n. 163/2006</rif>, mediante uno dei seguenti documenti:  
+ 
+</alinea>
+                                    <en id="art1-com1-letc-mod3-vir3-com0-letc-num1">
+                                    <num>    1)</num>
+                                    <corpo> bilancio dell'impresa, in forma singola o associata, dal quale risulti un valore della produzione in ciascuno degli ultimi tre esercizi, chiusi alla data di pubblicazione del bando, per attività di trasporto pubblico locale non inferiore a quattro milioni di euro;</corpo>
+                                    </en>
+                                    <en id="art1-com1-letc-mod3-vir3-com0-letc-num2">
+                                    <num>  
+ 
+    2)</num>
+                                    <corpo> idonee referenze, rilasciate da almeno due istituti bancari, atte a dimostrare la capacità finanziaria dell'impresa.</corpo>
+                                    </en>
+                                    </el>
+                                    </comma>
+                                </virgolette>";</mod>
+                        </corpo>
+                    </el>
+                    <el id="art1-com1-letd">
+                        <num>  
+ 
+ d)</num>
+                        <corpo>
+                            <mod
+                                    id="art1-com1-letd-mod4"> in fine, sono aggiunti i seguenti commi:  
+ 
+  "<virgolette
+                                    id="art1-com1-letd-mod4-vir4" tipo="struttura">
+                                    <comma id="art1-com1-letd-mod4-vir4-com0">
+                                    <num>3-bis.</num>
+                                    <corpo>  Il soggetto aggiudicatario della gara è tenuto ad eseguire in proprio il servizio. Il contratto di servizio non può essere ceduto, a pena di nullità, salvo quanto disposto dalla vigente normativa. È ammesso il subappalto per una quota non superiore al 30 per cento dell'importo complessivo del contratto di servizio, previa autorizzazione dell'ente affidante. Nel bando di gara devono essere specificate le parti della Rete di Servizi Minimi di trasporto pubblico locale che possono essere oggetto di subappalto. L'impresa subaffidataria deve possedere i requisiti per l'accesso alla professione di trasportatore di viaggiatori su strada ed è tenuta a rispettare tutte le norme vigenti in materia di trasporto pubblico;  
+ </corpo>
+                                    </comma>
+                                    <comma id="art1-com1-letd-mod4-vir4-com3ter">
+                                    <num>
+3-ter.</num>
+
+                                    <corpo> In caso di subentro di azienda a qualunque titolo, anche a seguito dell'espletamento di procedure di affidamento concorsuale dei servizi di trasporto pubblico locale, il trasferimento all'impresa subentrante del personale a quel momento occupato in quella cessante è disciplinato dall'art. 26 dell'allegato A) al <rif xlink:href="urn:nir:stato:regio.decreto:1931-01-08;148">Regio Decreto 8 gennaio 1931, n. 148</rif>. L'impresa subentrante garantirà, al momento del subentro, l'applicazione dei contratti in essere nell'azienda cedente, salvo adeguarli o migliorarli. Le parti a livello aziendale negozieranno le modalità di armonizzazione in caso di trattamenti differenziati.</corpo>
+                                    </comma>
+                                </virgolette>".  
+ 
+</mod>
+                        </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+Abrogazione di comma all'<rif xlink:href="urn:nir:regione.molise:legge:2000;19#art14">articolo 14 della legge regionale n. 19/2000</rif>
+                </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art2-com1-mod5"> Il <rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;19#art14-com2">comma 2 dell'articolo 14 della legge regionale 24 marzo 2000, n. 19</rif>, è abrogato.  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+Entrata in vigore 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

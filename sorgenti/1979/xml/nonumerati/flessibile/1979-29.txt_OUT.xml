@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19790414" num="7" tipo="BURM"/>
+                <entratainvigore norm="19790429"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1979-04-06;12"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 07 del 14/04/79 
+ 
+Oggetto 
+Servizi sociali e sanitari - Ambiti territoriali - Delimitazione 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 11/1997 art. 27 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>del <dataDoc norm="19790406">6 Aprile 1979</dataDoc>, n. <numDoc>12</numDoc>
+            <titoloDoc>Delimitazione degli ambiti territoriali per la gestione dei servizi sociali e sanitari 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 11/1997 art. 27</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

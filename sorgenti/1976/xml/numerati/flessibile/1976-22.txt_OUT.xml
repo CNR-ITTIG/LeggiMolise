@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19760716" num="13" tipo="BURM"/>
+                <entratainvigore norm="19760731"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1976-07-15;22"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 06.Consiglieri regionali e gruppi consiliari 
+ 
+Bollettino 
+Bollettino Ufficiale n. 13 del 16/07/76 
+ 
+Oggetto 
+Consiglieri regionali - Indennit&#xE0; - Previdenza - Modifiche 
+ 
+Abrogazioni 
+Abrogato art. 1 dalla legge n. 16/1997 art. 9 
+Abrogato art. 2 dalla legge n. 16/1997 art. 9 
+Abrogato art. 3 dalla legge n. 16/1997 art. 9 
+Abrogato art. 7 dalla legge n. 16/1997 art. 9 
+ 
+Modifiche 
+Modificato art. 4 dalla legge n. 10/1988 art. 3 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19760715">15 Luglio 1976</dataDoc>, n. <numDoc>22</numDoc>
+            <titoloDoc>Modifiche alle leggi regionali 13 ottobre 1972, n. 8, 5 settembre 1974, n. 16 e 5 marzo 1975, n. 23 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+
+                <rubrica>
+ 
+A decorrere dal 21 giugno 1975 è soppressa la disposizione di cui alla lettera b) dell'art. 33, I comma, della <rif xlink:href="urn:nir:regione.molise:legge:1974-09-05;16">legge regionale 5 settembre 1974, n. 16</rif> e le percentuali fissate dal predetto articolo sono così modificate: 
+ 
+- 85% al Presidente del Consiglio ed al Presidente della Giunta; 
+ 
+- 75% ai Vicepresidenti del consiglio ed agli Assessori; 
+ 
+- 70% ai Presidenti delle Commissioni Permanenti e Speciali, ai Segretari del Consiglio e al Presidente del Collegio dei Revisori dei Conti; 
+ 
+- 60% ai Consiglieri. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+
+                <rubrica>
+ 
+A decorrere dal 21 giugno 1975 la misura del rimborso forfettario mensile, previsto dall'<rif xlink:href="urn:nir:regione.molise:legge:1975-03-05#art1-com1">art. 1, I comma della legge regionale 5 marzo 1975</rif>. n. 23, è così modificata: 
+ 
+- Lire 250.000 al Presidente del Consiglio ed al Presidente della Giunta; 
+ 
+- Lire 140.000 ai Vicepresidenti del consiglio; 
+ 
+- Lire 200.000 agli Assessori; 
+ 
+- Lire 140.000 ai Presidenti delle Commissioni Permanenti e Speciali, ai Segretari del Consiglio ed al Presidente del Collegio dei Revisori dei Conti; 
+ 
+- Lire 130.000 ai Consiglieri. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+
+                <rubrica>
+ 
+A decorrere dal 21 giugno 1975 la misura del rimborso, previsto dall'<rif xlink:href="urn:nir:regione.molise:legge:1975-03-05;23#art1-com2">art. 1, II comma della legge regionale 5 marzo 1975, n. 23</rif>, spettante ai componenti del Consiglio Regionale per la partecipazione alle riunioni del Consiglio, dell'Ufficio di Presidenza, della Giunta, delle Commissioni Permanenti e Speciali, della Conferenza dei Capi Gruppo e del Collegio dei Revisori dei Conti, è cosi modificata: 
+ 
+- Lire 8.000 giornaliere per i residenti nel Comune Capoluogo od in Comuni della Regione distanti fino a 20 Km. dal Capoluogo medesimo; 
+ 
+- Lire 16.000 e 20.000 giornaliere per i residenti, rispettivamente, in Comuni della Regione distanti oltre Km. 20 e Km. 50 dal Capoluogo. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+
+                <rubrica>
+ 
+A decorrere dal 21 giugno 1975 la quota contributiva obbligatoria in favore della &lt;&lt;Cassa di previdenza per i Consiglieri Regionali&gt;&gt;, di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1974-09-05;16#art4-com1">art. 4, I comma della legge regionale 5 settembre 1974, n. 16</rif>, è fissata nella misura del 15% dell'indennità di carica lorda spettante al Consigliere Regionale. 
+ 
+A decorrere dalla stessa data è istituito, a carico dei titolari di assegni vitalizi diretti e di reversibilità ed in favore della Cassa di Previdenza per i Consiglieri Regionali, un onere contributivo pari al 5% dell'assegno vitalizio medesimo. Tale onere viene mensilmente detratto d'ufficio dall'assegno vitalizio e versato direttamente alla Cassa. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+
+                <rubrica>
+ 
+A decorrere dal 21 giugno 1975 la quota contributiva obbligatoria in favore del &lt;&lt;Fondo di solidarietà fra i Consiglieri della Regione Molise&gt;&gt;, di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1974-09-05;16#art27-com2">art. 27, II comma della legge regionale 5 settembre 1974, n. 16</rif>, è fissata nella misura del 6% dell'indennità di carica lorda spettante al Consigliere Regionale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+Il <rif xlink:href="urn:nir:regione.molise:legge:1974-09-05;16#art6-com1-leta">1° comma, lettera a) dell'art. 6 della legge regionale 5 settembre 1974, n. 16</rif>, è sostituito dal seguente: 
+ 
+&lt;&lt; Conseguono il diritto all'assegno vitalizio: 
+ 
+a) i Consiglieri cessati dal mandato, con almeno 5 anni di contribuzione e 60 anni di età; con 10 anni di contribuzione e 55 anni di età; con 15 anni di contribuzione e 52 anni di et&gt;&gt;. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+Il <rif xlink:href="urn:nir:regione.molise:legge:1972-10-13;8#art2-com3">3° comma dell'art. 2 della legge regionale 13 ottobre 1972, n. 8</rif> è sostituito dal seguente: 
+ 
+&lt;&lt;È inoltre corrisposta un'indennità di lire 24.000 per le missioni nel territorio nazionale e di lire 40.000 per le missioni all'estero, per ogni 24 ore di assenza dalla sede, nonché per l'eccedente periodo non inferiore ad 8 ore». 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>
+ 
+Il maggiore onere derivante dall'applicazione della presente legge, calcolato in L. 38.000.000 per il periodo 21 giugno - 31 dicembre 1975 e in L. 62.659.510 per l'anno 1976, viene imputato al Cap. 10 del bilancio di previsione esercizio 1976. 
+ 
+Per gli esercizi finanziari successivi, gli oneri faranno carico ai corrispondenti capitoli di bilancio. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+
+                <rubrica>
+ 
+La presente legge è dichiarata urgente, ai sensi del <rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com1">primo comma dell'art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art.38 dello Statuto</rif>, ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione, 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1..</num>
+                    <corpo> È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

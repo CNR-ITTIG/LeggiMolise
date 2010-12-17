@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20020430" num="8" tipo="BURM"/>
+                <entratainvigore norm="20020515"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2002-04-22;3"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE N. 8 del 30 aprile 2002 
+ 
+Oggetto 
+Istituzione della Commissione per l'Autoriforma del Molise 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 44/2002 art. 1 
+Modificato art. 1 dalla legge n. 37/2003 art. 1 
+Modificato art. 1 dalla legge n. 37/2004 art. 1 
+Modificato art. 2 dalla legge n. 44/2002 art. 1 
+Modificato art. 2 dalla legge n. 37/2004 art. 2 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="20020422">22 aprile 2002</dataDoc>, n. <numDoc>3</numDoc>. 
+ 
+<titoloDoc>Commissione per l'Autoriforma del Molise. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ARTICOLO 1 </num>
+                <rubrica>
+ 
+Istituzione e compiti della Commissione 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+
+                    <corpo> È istituita presso il Consiglio regionale una Commissione speciale, ai sensi dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art18">articolo 18 dello Statuto regionale</rif>, denominata: "Commissione per l'Autoriforma del Molise", nello spirito delle scelte effettuate durante i lavori svolti nella precedente legislatura. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> La Commissione ha il compito di: 
+ 
+</alinea>
+                    <el id="art1-com2-leta">
+                        <num>a)</num>
+
+                        <corpo> elaborare la proposta di revisione dello <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto regionale</rif> alla luce delle riforme di cui alle leggi costituzionali 24 novembre 1999, n. 1 e 18 ottobre 2001, n. 3 nonché delle innovazioni già introdotte dalla legislazione statale in materia di decentramento istituzionale ed amministrativo e in materia di riforme della pubblica amministrazione e del pubblico impiego;</corpo>
+                    </el>
+                    <el id="art1-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> elaborare la proposta di revisione del regolamento interno di funzionamento del Consiglio regionale;</corpo>
+                    </el>
+                    <el id="art1-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> elaborare la proposta di legge elettorale regionale. </corpo>
+                    </el>
+                </comma>
+                <comma id="art1-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La Commissione dura in carica dalla data di entrata in vigore della presente legge fino al 31 dicembre 2002. </corpo>
+                </comma>
+                <comma id="art1-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> La Commissione, nel suo periodo di attività, si pronuncia in sede consultiva sui provvedimenti legislativi di rilevante contenuto istituzionale, riguardanti il riordino della Regione e delle Autonomie locali. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ARTICOLO 2 </num>
+                <rubrica>
+ 
+Elezione del Presidente e dell'Ufficio di Presidenza 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> La Commissione è composta da 12 consiglieri regionali, di cui pariteticamente 6 indicati dai singoli gruppi della maggioranza e 6 indicati dai singoli gruppi dell'opposizione. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il Presidente, il vice Presidente ed il Segretario costituiscono l'Ufficio di Presidenza della Commissione. </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Il Presidente, il vice Presidente ed il Segretario vengono eletti dalla Commissione e decadono decorsi 4 mesi dalla elezione, al fine di consentire l'alternanza del Presidente e dell'Ufficio di Presidenza. </corpo>
+                </comma>
+                <comma id="art2-com4">
+                    <num>
+ 
+4.</num>
+                    <alinea> La Commissione ha facoltà di: 
+ 
+</alinea>
+                    <el id="art2-com4-leta">
+                        <num>a)</num>
+                        <corpo> avvalersi della consulenza di esperti qualificati;</corpo>
+                    </el>
+                    <el id="art2-com4-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> promuovere incontri e scambi di informazione con soggetti istituzionali ed analoghi organismi di altri Consigli regionali;</corpo>
+                    </el>
+                    <el id="art2-com4-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> indire seminari e convegni;</corpo>
+                    </el>
+                    <el id="art2-com4-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> tenere incontri con i rappresentanti delle autonomie, delle categorie sociali ed economiche, con l'Università e con qualunque forma di organizzazione dei cittadini;</corpo>
+                    </el>
+                    <el id="art2-com4-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> porre in essere ogni altra iniziativa o attività utile all'assolvimento dei suoi compiti. </corpo>
+                    </el>
+                </comma>
+                <comma id="art2-com5">
+                    <num>
+ 
+5.</num>
+
+                    <corpo> Il Consiglio regionale provvede a fornire alla Commissione locali, strumentazioni e personale occorrenti per il suo funzionamento nonché personale di segreteria per il Presidente della Commissione e dell'Ufficio di Presidenza del numero massimo di due unità, nel rispetto delle previsioni dell'<rif xlink:href="urn:nir:regione.molise:legge:1991-09-12;15#art8">articolo 8 della legge regionale 12 settembre 1991, n. 15</rif>. </corpo>
+                </comma>
+                <comma id="art2-com6">
+                    <num>
+ 
+6.</num>
+
+                    <corpo> Salvo quanto previsto dalla presente legge, lo <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto regionale</rif> ed il regolamento interno del Consiglio disciplinano l'organizzazione ed il funzionamento della Commissione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>ARTICOLO 3 </num>
+                <rubrica>
+ 
+Principi 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <alinea> Nella formulazione delle sue proposte normative di riforma, la Commissione osserverà i seguenti principi: 
+ 
+</alinea>
+                    <el id="art3-com1-leta">
+                        <num>a)</num>
+                        <corpo> unità dello Stato nazionale in armonia con l'adesione dell'Italia all'Unione Europea;</corpo>
+                    </el>
+                    <el id="art3-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> federalismo solidale;</corpo>
+                    </el>
+                    <el id="art3-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> valorizzazione dell'identità della Regione Molise sotto il profilo istituzionale, socio-storico-culturale, comunitario, democratico, solidaristico, produttivo e del lavoro;</corpo>
+                    </el>
+                    <el id="art3-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> sussidiarietà;</corpo>
+                    </el>
+                    <el id="art3-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> rafforzamento dell'autonomia regionale, escludendo ogni forma di separatismo;</corpo>
+                    </el>
+                    <el id="art3-com1-letf">
+                        <num> 
+ 
+f)</num>
+
+                        <corpo> pieno riconoscimento, garanzia e partecipazione delle comunità locali, decentramento effettivo delle funzioni e delle risorse, anche in coerente attuazione della <rif xlink:href="urn:nir:regione.molise:legge:1999-09-29;34">legge regionale n. 34 del 29 settembre 1999</rif>;</corpo>
+                    </el>
+                    <el id="art3-com1-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> partecipazione delle formazioni sociali e delle autonomie funzionali alla vita della Regione e del sistema delle Autonomie territoriali. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>ARTICOLO 4 </num>
+                <rubrica>
+ 
+Disposizioni procedurali 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <corpo> La Commissione, su questioni di particolare rilievo, può relazionare al Consiglio regionale per trame orientamenti ed indirizzi. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> La Commissione trasmette al Presidente del Consiglio regionale le proposte di cui, all'<rif xlink:href="#art1-com2">articolo 1, comma 2</rif>, corredate di relazione illustrativa e di eventuale relazione di minoranza. </corpo>
+                </comma>
+                <comma id="art4-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Entro 30 giorni dalla trasmissione delle proposte, ciascun consigliere può presentare al Presidente del Consiglio emendamenti, sui quali la Commissione si pronuncia nei successivi 60 giorni. </corpo>
+                </comma>
+                <comma id="art4-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Terminato l'esame degli emendamenti da parte della Commissione, le proposte sono iscritte all'ordine del giorno dell'Assemblea. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>ARTICOLO 5 </num>
+                <rubrica>
+ 
+Norma finanziaria 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo> Agli oneri derivanti dall'applicazione della presente legge, 
+ 
+QUANTIFICATI PER IL CORRENTE ANNO 
+ 
+IN 
+ 
+Euro 110.000 (CENTOVENTIMILA) 
+ 
+si provvederà mediante la previsione di appositi stanziamenti con legge di approvazione del bilancio per l'anno 2002. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> In deroga alla vigente normativa in materia di contabilità, l'Ufficio di Presidenza della Commissione ha autonomia di spesa nel limite dello <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto</rif> con impegno alla rendicontazione all'Ufficio di Presidenza del Consiglio Regionale. . </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Anche per gli esercizi successivi l'onere annuale della spesa sarà determinato con la legge di approvazione dei relativi bilanci annuali. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>ARTICOLO 6 </num>
+                <rubrica>
+ 
+Dichiarazione d'urgenza 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La presente legge è dichiarata urgente ai sensi dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

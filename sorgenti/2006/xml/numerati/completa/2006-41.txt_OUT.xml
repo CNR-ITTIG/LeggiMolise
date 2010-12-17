@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20060208" num="2" tipo="BURM"/>
+                <entratainvigore norm="20060223"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2006-02-08;2"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 2 del 8 febbraio 2006 
+ 
+Oggetto 
+Commissione per l'autoriforma del Molise - Ricostituzione. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20060208">8 febbraio 2006</dataDoc>, n. <numDoc>2</numDoc>. 
+ 
+<titoloDoc>Ricostituzione della Commissione per l'Autoriforma del Molise. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La Commissione consiliare a carattere temporaneo per l'Autoriforma del Molise, istituita con la <rif xlink:href="urn:nir:regione.molise:legge:2002-04-22;3">legge regionale 22 aprile 2002, n. 3</rif>, è ricostituita e permane in funzione sino al termine della legislatura in corso alla data di entrata in vigore della presente legge. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il presidente, il vicepresidente ed il segretario della Commissione per l'Autoriforma del Molise in carica al 31 dicembre 2005 sono confermati nella carica fino al 30 giugno 2006. Al presidente, al vicepresidente ed al segretario, in carica alla data di entrata in vigore della presente legge, subentrano dal 1° luglio 2006 i consiglieri che li hanno immediatamente preceduti nelle rispettive cariche. </corpo>
+                </comma>
+                <comma id="art1-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Per l'organizzazione ed il funzionamento della Commissione per l'Autoriforma del Molise continuano ad applicarsi le disposizioni contenute nella <rif xlink:href="urn:nir:regione.molise:legge:2002-04-22;3">legge regionale 22 aprile 2002, n. 3</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> Agli oneri derivanti dall'applicazione della presente legge - previsti in Euro 100.000,00 - si farà fronte con la legge di approvazione del bilancio regionale di previsione per l'anno 2006. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

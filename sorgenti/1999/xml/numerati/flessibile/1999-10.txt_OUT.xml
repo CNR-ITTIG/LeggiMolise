@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19991016" num="19" tipo="BURM"/>
+                <entratainvigore norm="19991031"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1999-10-11;35"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 19 del 16/10/99 
+ 
+Oggetto 
+Erogazione di contributi per prestazioni assistenziali aggiuntive per soggetti da sottoporsi a trapianto e trapiantati 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 18/2001 art. 10 
+ 
+Modifiche 
+Modificato art. 2 dalla legge n. 35/2000 art. 1 
+Modificato art. 3 dalla legge n. 35/2000 art. 2 
+Modificato art. 5 dalla legge n. 35/2000 art. 3 
+Modificato art. 6 dalla legge n. 35/2000 art. 4 
+Modificato art. 6 dalla legge n. 35/2000 art. 7 
+Modificato art. 7 dalla legge n. 35/2000 art. 5 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="19991011">11 ottobre 1999</dataDoc>, n <numDoc>35</numDoc>. 
+ 
+<titoloDoc>Prestazioni aggiuntive in favore dei soggetti da sottoporsi a trapianto di organi e dei trapiantati. 
+ 
+<rif xlink:href="urn:nir:regione.molise:legge:1999-10-11;35">LEGGE REGIONALE 11 ottobre 1999, n 35</rif>. 
+ 
+Prestazioni aggiuntive in favore dei soggetti da sottoporsi a trapianto di organi e dei trapiantati.  
+ 
+Il Commissario di Governo ha apposto il visto ed ha annotato quanto segue:  
+ 
+"Con l'occasione, il Governo ha osservato l'erroneo riferimento contenuto negli articoli 3 e 6 ai modelli 740 e 101 al fine di comprovare il reddito complessivo del nucleo familiare, non essendo tali modelli di dichiarazione dei redditi delle persone fisiche più in vigore". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 18/2001 art. 10</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

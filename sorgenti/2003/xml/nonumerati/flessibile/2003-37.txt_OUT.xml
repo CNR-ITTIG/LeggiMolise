@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20030116" num="1" tipo="BURM"/>
+                <entratainvigore norm="20030131"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2003-01-13;1"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 35.Tributi 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 1 del 16 gennaio 2003 
+ 
+Oggetto 
+Tributo speciale per il deposito in discarica dei rifiuti solidi - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 34/2005 art. 1 
+Modificato art. 2 dalla legge n. 34/2005 art. 2 
+Modificato art. 3 dalla legge n. 34/2005 art. 3 
+Modificato art. 4 dalla legge n. 34/2005 art. 4 
+Modificato art. 5 dalla legge n. 34/2005 art. 5 
+Modificato art. 6 dalla legge n. 18/2004 art. 1 
+Modificato art. 6 dalla legge n. 34/2005 art. 14 
+Modificato art. 7 dalla legge n. 34/2005 art. 6 
+Modificato art. 8 dalla legge n. 34/2005 art. 7 
+Modificato art. 9 dalla legge n. 34/2005 art. 8 
+Modificato art. 10 dalla legge n. 34/2005 art. 9 
+Modificato art. 11 dalla legge n. 34/2005 art. 10 
+Modificato art. 12 dalla legge n. 34/2005 art. 11 
+Modificato art. 12-bis dalla legge n. 34/2005 art. 12 
+Modificato art. 14 dalla legge n. 34/2005 art. 13 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20030113">13 gennaio 2003</dataDoc>, n. <numDoc>1</numDoc>. 
+ 
+<titoloDoc>Disposizioni per l'applicazione del tributo speciale per il deposito in discarica dei rifiuti solidi, di cui all'<rif xlink:href="urn:nir:stato:legge:1995-12-28;549#art3">articolo 3 della legge 28 dicembre 1995, n. 549</rif>. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+(Disciplina del tributo) 
+ 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo>1. Al fine di favorire la minore produzione di rifiuti ed il recupero dagli stessi di materia prima e di energia viene disciplinata, con la presente legge, l'applicazione del tributo speciale per il deposito in discarica dei rifiuti solidi, di seguito denominato: "tributo speciale", in conformità alle disposizioni di cui all'<rif xlink:href="urn:nir:stato:legge:1995-12-28;549#art3-com24">articolo 3, comma 24 della legge 28 dicembre 1995, n. 549</rif> e successive modificazioni ed integrazioni. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+(Presupposto) 
+ 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <alinea>1. Il tributo speciale è applicato ai rifiuti solidi disciplinati dal <rif xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22">decreto legislativo 5 febbraio 1997, n. 22</rif> nonché ai fanghi palabili: 
+ 
+</alinea>
+                    <el id="art2-com1-leta">
+                        <num>a)</num>
+                        <corpo> conferiti in discarica ai fini dello stoccaggio definitivo;</corpo>
+                    </el>
+                    <el id="art2-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> smaltiti tal quali in impianti di incenerimento senza recupero di energia. </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+(Soggetto passivo) 
+ 
+</rubrica>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>1. Soggetto passivo del tributo speciale è il gestore della discarica o dell'impianto di incenerimento, anche qualora sia lo stesso produttore dei rifiuti, con obbligo di rivalsa nei confronti di colui che effettua il conferimento. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+(Soggetto attivo) 
+ 
+</rubrica>
+                <comma id="art4-com1">
+                    <num/>
+
+                    <corpo>1. Il tributo speciale è dovuto alla Regione Molise, mentre una quota del dieci per cento di esso spetta alle Province di Campobasso ed Isernia ed è ripartita tra le stesse, con deliberazione della Giunta regionale, in base all'ammontare del gettito tributario derivante dalle discariche e dagli impianti di incenerimento situati nel territorio di ciascuna Provincia. 
+ 
+2. La quota di cui al <rif
+                            xlink:href="#art4-com1">comma 1</rif> viene corrisposta al netto delle somme eventualmente rimborsate al soggetto passivo del tributo speciale, ai sensi del <rif xlink:href="#art8">successivo articolo 8</rif>. 
+ 
+3. Il venti per cento del gettito, al netto della quota spettante alle Province, affluisce in un apposito fondo regionale destinato a favorire la minore produzione di rifiuti e le attività di recupero di materie prime e di energia, con priorità per i soggetti che realizzano sistemi di smaltimento alternativi alle discariche, nonché:</corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num/>
+                    <corpo>a) alla realizzazione di opere di bonifica dei suoli inquinati, ivi comprese le aree industriali dimesse; 
+ 
+b) al recupero delle aree degradate; 
+ 
+c) al finanziamento dell'Agenzia regionale per l'ambiente; 
+ 
+d) all'istituzione e manutenzione delle aree naturali protette. 
+ 
+4. L'impiego delle risorse finanziarie derivanti dal gettito del tributo speciale, nell'ambito delle finalità di cui al precedente comma, viene disposto dalla Giunta regionale, ad eccezione delle risorse derivanti dalla tassazione dei fanghi di risulta che sono destinate dalla Giunta regionale ad investimenti di tipo ambientale riferibili ai rifiuti del settore produttivo soggetto al tributo speciale.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+(Base imponibile) 
+ 
+</rubrica>
+                <comma id="art5-com1">
+                    <num/>
+
+                    <corpo>1. La base imponibile è costituita dalla quantità di rifiuti conferiti in discarica sulla base delle annotazioni presenti nei registri tenuti in attuazione dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art12">articolo 12 del decreto legislativo 5 febbraio 1997, n. 22</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+(Determinazione dell'imposta) 
+ 
+</rubrica>
+                <comma id="art6-com1">
+                    <num/>
+                    <alinea>1. L'ammontare del tributo speciale è determinato, a decorrere dallo gennaio 2003, come segue: 
+ 
+</alinea>
+                    <el id="art6-com1-leta">
+                        <num>a)</num>
+                        <corpo> per le categorie di rifiuti dei settori minerario, estrattivo, edilizio, lapideo e metallurgico: 
+ 
+Ø Euro 0.0053 per chilogrammo conferito in discarica per i rifiuti elencati nell'allegato 3 al decreto ministeriale 18 luglio 1996; 
+ 
+Ø Euro 0.0042 per chilogrammo conferito in discarica per i rifiuti elencati nell'allegato 4 al decreto ministeriale 18 luglio 1996 che presentano le caratteristiche di cui all'allegato 3 del decreto ministeriale 5 settembre 1994; 
+ 
+Ø Euro 0.0031 per chilogrammo conferito in discarica per tutti gli altri rifiuti;</corpo>
+                    </el>
+                </comma>
+                <comma id="art6-com2">
+                    <num/>
+
+                    <corpo>b) per gli altri rifiuti speciali: 
+ 
+Ø Euro 0.008 per ogni chilogrammo di rifiuto conferito in discarica; 
+ 
+c) per i restanti tipi di rifiuti: 
+ 
+Ø Euro 0.0105 per ogni chilogrammo di rifiuto conferito in discarica. 
+ 
+2. L'ammontare del tributo speciale è fissato con legge regionale entro il 31 luglio di ogni anno, con effetto per l'anno successivo. In caso contrario si intende prorogata, per l'anno successivo, la misura vigente. 
+ 
+3. Il tributo speciale si determina moltiplicando l'ammontare del tributo stesso per il quantitativo, espresso in chilogrammi, dei rifiuti conferiti in discarica, nonché con il coefficiente di correzione, se stabilito, di cui al comma 29, ultima parte, dell'<rif xlink:href="urn:nir:stato:legge:1995-12-28;549#art3">articolo 3 della legge 28 dicembre 1995, n. 549</rif>.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+(Versamenti e dichiarazioni) 
+ 
+</rubrica>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo>1. Il tributo speciale deve essere versato alla Regione Molise dal gestore della discarica o dell'impianto di incenerimento entro il mese successivo alla scadenza del trimestre solare in cui sono state effettuate le operazioni di deposito. 
+ 
+2. Entro il termine previsto per il versamento relativo all'ultimo trimestre dell'anno, il gestore della discarica o dell'impianto di incenerimento è tenuto a produrre alla competente struttura regionale una dichiarazione, in triplice copia, contenente i seguenti dati:</corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num/>
+                    <corpo>a) denominazione e sede del gestore e generalità complete del legale rappresentante; 
+ 
+b) ubicazione della discarica o dell'impianto di incenerimento; 
+ 
+c) descrizione dell'attività svolta; 
+ 
+d) quantità complessive dei rifiuti conferiti nonché quantità parziali per ogni tipologia di rifiuto; 
+ 
+e) indicazione degli estremi dei versamenti tributari effettuati. 
+ 
+3. L'importo del tributo speciale deve essere versato sul conto corrente postale n. 0169862 intestato alla REGIONE MOLISE - Servizio di Tesoreria - 86100 CAMPOBASSO, nei termini e secondo le modalità previsti nel presente articolo.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>
+ 
+(Rimborsi) 
+ 
+</rubrica>
+                <comma id="art8-com1">
+                    <num/>
+
+                    <corpo>1. In caso di indebito pagamento, i soggetti passivi del tributo ne possono chiedere la restituzione entro il termine di decadenza di tre anni decorrente dalla data del pagamento medesimo, mediante apposita istanza, in duplice esemplare, da presentare alla competente struttura regionale. 
+ 
+2. Copia del provvedimento regionale di rimborso è trasmessa alla Provincia nel cui territorio sono ubicati le discariche e gli impianti di incenerimento a giustificazione delle trattenute di cui al <rif xlink:href="#art4-com2">precedente articolo 4, comma secondo</rif>.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <rubrica>
+ 
+(Sanzioni) 
+ 
+</rubrica>
+                <comma id="art9-com1">
+                    <num/>
+
+                    <corpo>1. Per l'omessa o infedele registrazione delle operazioni di conferimento, si applica la sanzione amministrativa dal duecento al quattrocento per cento del tributo speciale relativo all'operazione. Restano, comunque, ferme le sanzioni stabilite per le violazioni di altre norme.* 
+ 
+*La Corte Costituzionale, con sentenza 4-14 dicembre 2006, n. 412, ha dichiarato l'illeggittimità del presente comma. 
+ 
+2. Per l'omessa o infedele dichiarazione si applica la sanzione amministrativa da Euro 103,29 ad Euro 516,461. 
+ 
+3. Per l'omesso, insufficiente o tardivo versamento del tributo speciale si applica la sanzione amministrativa da due a quattro volte l'ammontare del tributo non versato o tardivamente versato, ridotta alla metà se il ritardo non supera i trenta giorni. 
+ 
+4. Le sanzioni sono ridotte ad un quarto se, entro il termine per ricorrere alle Commissioni tributarie, interviene adesione del contribuente e contestuale pagamento del tributo, se dovuto e della sanzione. 
+ 
+5. Per la riscossione coattiva delle somme a qualsiasi titolo dovute alla Regione Molise per il tributo speciale, ivi comprese le somme relative alle sanzioni amministrative, si applicano le disposizioni in materia previste dal <rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1999-02-26;46">decreto legislativo 26 febbraio 1999, n. 46</rif>, dal <rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1999-04-13;112">decreto legislativo 13 aprile 1999, n. 112</rif> e dal <rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:2001-04-27;193">decreto legislativo 27 aprile 2001, n. 193</rif>. 
+ 
+6. Il diritto alla riscossione del tributo e delle penalità si prescrive nel termine di cinque anni decorrente dalla data di scadenza per la presentazione della dichiarazione annuale di cui al <rif xlink:href="#art7">precedente articolo 7</rif>.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <rubrica>
+ 
+(Contestazione) 
+ 
+</rubrica>
+                <comma id="art10-com1">
+                    <num/>
+
+                    <corpo>1. La contestazione delle violazioni di cui al <rif xlink:href="#art9">precedente articolo 9</rif> è effettuata tramite avviso di accertamento, emesso dal dirigente della competente struttura regionale, con l'invito a provvedere al pagamento di quanto dovuto entro 60 giorni dalla data di ricevimento. 
+ 
+2. L'avviso di accertamento è notificato all'interessato nelle forme di legge e deve specificare:</corpo>
+                </comma>
+                <comma id="art10-com2">
+                    <num/>
+
+                    <corpo>a) l'importo del tributo speciale evaso, l'ammontare degli interessi moratori e delle spese del procedimento; 
+ 
+b) l'ammontare della sanzione amministrativa dovuta ai sensi del <rif
+                            xlink:href="#art9">precedente articolo 9</rif>, nonché l'ammontare della sanzione di cui al <rif
+                            xlink:href="urn:nir:stato:legge:1995-12-28;549#art3-com32">comma 32 dell'articolo 3 della legge 28 dicembre 1995, n. 549</rif>; 
+ 
+c) la facoltà, ove non si intenda procedere al pagamento, di produrre deduzioni difensive; 
+ 
+d) l'ufficio presso il quale le deduzioni difensive devono essere presentate entro il termine di 60 giorni dalla notifica e le relative modalità; 
+ 
+e) la facoltà di ricorso alle Commissioni tributarie ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:legge:1995-12-28;549#art3-com34">articolo 3, comma 34 della legge 28 dicembre 1995, n. 549</rif>; 
+ 
+f) il nominativo del responsabile del procedimento. 
+ 
+3. Qualora il trasgressore abbia presentato scritti difensivi e documenti dai quali risulti che la contestazione delle violazioni non è fondata, il dirigente regionale di cui al <rif
+                            xlink:href="#art10-com1">comma 1</rif> adotta provvedimento di archiviazione da notificarsi, nelle forme di legge, all'interessato. 
+ 
+4. In alternativa potranno esSere attivate, previa disciplina da parte della Giunta regionale delle procedure e delle modalità amministrative di attuazione, le attività di accertamento con adesione e di conciliazione giudiziale previste dal <rif xlink:href="urn:nir:stato:decreto.legislativo:1997-06-19;218">decreto legislativo 19 giugno 1997, n. 218</rif>.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+                <rubrica>
+ 
+(Discariche abusive) 
+ 
+</rubrica>
+                <comma id="art11-com1">
+                    <num/>
+
+                    <corpo>1. Chiunque esercita, ancorché in via non esclusiva, l'attività di gestione di una discarica abusiva e chiunque abbandona, scarica o effettua deposito incontrollato di rifiuti è soggetto al pagamento del tributo speciale e di una sanzione amministrativa pari a tre volte l'ammontare del tributo stesso, oltre alle sanzioni amministrative previste nel <rif xlink:href="#art9">precedente articolo 9</rif>. 
+ 
+2. Resta ferma l'applicazione della disciplina sanzionatoria per la violazione della vigente normativa sullo smaltimento dei rifiuti e l'obbligo di procedere alla bonifica ed alla rimessa in pristino dell'area ove si esercita l'attività di cui al precedente comma. 
+ 
+3. L'utilizzatore a qualsiasi titolo o, in mancanza, il proprietario dei terreni sui quali insiste la discarica abusiva è tenuto in solido agli oneri di bonifica, al risarcimento del danno ambientale ed al pagamento del tributo speciale e delle sanzioni amministrative di cui alla presente legge, ove non dimostri di aver presentato denuncia di discarica abusiva ai competenti organi regionali prima della constatazione delle violazioni di legge.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12 </num>
+                <rubrica>
+ 
+(Accertamento) 
+ 
+</rubrica>
+                <comma id="art12-com1">
+                    <num/>
+                    <alinea>1. Il controllo del rispetto della presente normativa è demandato: 
+ 
+</alinea>
+                    <el id="art12-com1-leta">
+                        <num>a)</num>
+
+                        <corpo> ai funzionari provinciali addetti alle funzioni amministrative di cui all'<rif
+                                xlink:href="urn:nir:stato:decreto.legislativo:2000-08-18;267#art19">articolo 19 del decreto legislativo 18 agosto 2000, n. 267</rif> e di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art20">articolo 20 del decreto legislativo 5 febbraio 1997, n. 22</rif> e successive modificazioni ed integrazioni;</corpo>
+                    </el>
+                    <el id="art12-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> ai funzionari dell'Agenzia regionale per la protezione ambientale del Molise (A.R.P A.M.),. </corpo>
+                    </el>
+                </comma>
+                <comma id="art12-com2">
+                    <num/>
+
+                    <corpo>c) ai funzionari dell' assessorato regionale all'"Ambiente", previo decreto di nomina emesso dal Presidente della Giunta regionale. 
+ 
+2. Per l'assolvimento dei loro compiti i funzionari di cui al <rif
+                            xlink:href="#art12-com1">comma 1</rif> possono accedere nei luoghi adibiti all'esercizio di gestione della discarica e negli altri luoghi ove devono essere custoditi i registri e la documentazione inerente tale attività, al fine di procedere all'ispezione dei luoghi ed alla verifica della relativa documentazione. 
+ 
+3. I medesimi funzionari, qualora nel corso dell'ispezione o della verifica riscontrino inosservanze di obblighi regolati da disposizioni di legge concernenti tributi diversi da quello oggetto della presente legge, sono tenuti a comunicarle alla Guardia di Finanza secondo le modalità previste dall'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1973-09-29;600#art36">articolo 36, ultimo comma del decreto del Presidente della Repubblica 29 settembre 1973, n. 600</rif> e successive modificazioni ed integrazioni.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13 </num>
+                <rubrica>
+ 
+(Contenzioso) 
+ 
+</rubrica>
+                <comma id="art13-com1">
+                    <num/>
+
+                    <corpo>1. Le controversie in materia di applicazione del tributo speciale appartengono alla competenza della giurisdizione tributaria, ai sensi dell'<rif
+                            xlink:href="#art2">articolo 2</rif>; <rif
+                            xlink:href="#art13-com1">comma 1</rif> del <rif xlink:href="urn:nir:stato:decreto.legislativo:1992-12-31;546">decreto legislativo 31 dicembre 1992, n. 546</rif> e successive modificazioni ed integrazioni. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14 </num>
+                <rubrica>
+ 
+(Impianti di incenerimento) 
+ 
+</rubrica>
+                <comma id="art14-com1">
+                    <num/>
+
+                    <corpo>1. Per i rifiuti smaltiti tal quali in impianti di incenerimento senza recupero di energia, per gli scarti ed i sovvalli di impianti di selezione automatica, riciclaggio e compostaggio, nonché per i fanghi anche palabili, si applicano le disposizioni della presente legge. 
+ 
+2. Nei casi di cui al <rif
+                            xlink:href="#art14-com1">comma 1</rif> il tributo speciale è dovuto nella misura del venti per cento dell'ammontare determinato secondo i criteri stabiliti al <rif xlink:href="#art6">precedente articolo 6</rif>.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>Art. 15 </num>
+                <rubrica>
+ 
+(Rinvio) 
+ 
+</rubrica>
+                <comma id="art15-com1">
+                    <num/>
+
+                    <corpo>1. Per tutto quanto non previsto dalla presente legge regionale si applicano le disposizioni contenute nell'<rif xlink:href="urn:nir:stato:legge:1995-12-28;549#art3">articolo 3 della legge 28 dicembre 1995, n. 549</rif> e successive modificazioni ed integrazioni, nonché le disposizioni di legge comunque applicabili alla materia oggetto della presente legge. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>Art. 16 </num>
+                <rubrica>
+ 
+(Dichiarazione di urgenza) 
+ 
+</rubrica>
+                <comma id="art16-com1">
+                    <num/>
+
+                    <corpo>1. La presente legge regionale è dichiarata urgente ai sensi dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error 2. &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

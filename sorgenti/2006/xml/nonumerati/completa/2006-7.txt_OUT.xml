@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20061005" num="28" tipo="BURM"/>
+                <entratainvigore norm="20061020"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2006-10-02;36"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 28 del 5 ottobre 2006 
+ 
+Oggetto 
+Tartufi freschi o conservati - Raccolta - Lavorazione e commercializzazione - Disciplina - Ulteriori modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20061002">2 ottobre 2006</dataDoc>, n. <numDoc>36</numDoc>. 
+ 
+<titoloDoc>Ulteriori modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:2005-05-27;24">legge regionale 27 maggio 2005, n. 24</rif>, concernente: "Nuova disciplina della raccolta, della coltivazione e della commercializzazione dei tartufi". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo>
+1. All'art. 4 della legge regionale n. 27 maggio 2005, n. 24, dopo il comma 9, aggiungere il seguente: 
+ 
+"9BIS, il riconoscimento di tartufaia controllata può essere concesso solo nelle aree individuate nelle zone geografiche di raccolta di cui all'art. 13, comma 2. 
+ 
+Inoltre non si possono riconoscere 'tartufaie controllate o riservaté negli alvei, nel piano e nelle scarpe degli argini dei fiumi, torrenti, rivi, scolatoi pubblici di proprietà demaniale, anche se confinanti con terreni condotti dai privati stessi.'. 
+ 
+2. Al <rif
+                            xlink:href="urn:nir:regione.molise:legge:2005;24#art5-com2">comma 2 dell'art. 5 della legge regionale n. 24/2005</rif> aggiungere in fine il seguente periodo: 'La costituzione di consorzi volontari può essere effettuata nelle zone geografiche di raccolta di cui all'art. 13, comma 2.'. 
+ 
+3. Al <rif
+                            xlink:href="urn:nir:regione.molise:legge:2005;24#art8-com2">comma 2 dell'art. 8 della legge regionale n. 24/2005</rif> le parole: 'La ricerca è altresì vietata nella giornata di sabato, tranne che nelle tartufaie controllate e coltivate.', sono soppresse. 
+ 
+4. I commi 2 e 3 dell'<rif
+                            xlink:href="urn:nir:regione.molise:legge:2005;24#art21">art. 21 della legge regionale n. 24/ 2005</rif> sono abrogati. 
+ 
+Art. 2 
+ 
+1. All'<rif xlink:href="urn:nir:regione.molise:legge:2005-05-27;24#art8-com3">articolo 8, comma 3, della legge regionale 27 maggio 2005, n. 24</rif>, dopo l'espressione "pedo-climatiche" è inserito il punto. Inoltre è soppresso il periodo successivo. 
+ 
+Art. 3 
+ 
+1. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. 
+ 
+ La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo><?error Marker Warning 105?>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

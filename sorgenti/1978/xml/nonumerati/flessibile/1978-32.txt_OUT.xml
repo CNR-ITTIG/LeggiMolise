@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19780201" num="2" tipo="BURM"/>
+                <entratainvigore norm="19780216"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1978-01-27;4"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 17.Lavori pubblici e acquedotti 
+ 
+Bollettino 
+Bollettino Ufficiale n. 02 del 01/02/78 
+ 
+Oggetto 
+Opere pubbliche di competenza della Regione e degli enti locali - Mutui - Determinazione 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19780127">27 Gennaio 1978</dataDoc>, n. <numDoc>4</numDoc>
+            <titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1975-04-04;27">legge regionale n. 27 del 4 aprile 1975</rif> per l'acceleramento del programma di opere pubbliche di competenza degli Enti locali. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art1-com1-mod1">
+Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:1975-04-04;27#art10-com2">secondo comma dell'art. 10 della legge regionale 4 aprile 1975, n. 27</rif> è soppresso e sostituito dal seguente: 
+ 
+&lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir1" tipo="parola"> I mutui dovranno essere assunti alle migliori condizioni del mercato finanziario, al tasso massimo del 16% per una durata non superiore ad anni trenta </virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge è dichiarata urgente ai sensi del <rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">secondo comma dell'art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto regionale</rif> ed entra in vigore lo stesso giorno della sua   pubblicazione nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

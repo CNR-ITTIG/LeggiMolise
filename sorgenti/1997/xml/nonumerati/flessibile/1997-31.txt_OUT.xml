@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19970315" num="6" tipo="BURM"/>
+                <entratainvigore norm="19970330"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1997-03-10;3"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 06 del 15/03/97 
+ 
+Oggetto 
+Controllo degli atti - Tipologia - Procedure. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19970310">10 Marzo 1997</dataDoc>, n. <numDoc>3</numDoc>
+            <titoloDoc>Modifiche ed integrazioni alla <rif xlink:href="urn:nir:regione.molise:legge:1990-04-10;19">legge regionale 10 aprile 1990, n. 19</rif> recante Norme in materia di controllo sugli atti degli Enti sottoposti a vigilanza e tutela della Regione. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art.1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art1-com1-mod1">
+1. I commi primo e secondo dell'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1990-04-10;19#art1">articolo 1 della legge regionale 10 aprile 1990, n. 19</rif> sono così sostituiti: 
+ 
+&lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir1" tipo="struttura">
+                                <comma id="art1-com1-mod1-vir1-com0">
+                                    <num>1.</num>
+
+                                    <alinea> Il Comitato Regionale di Controllo esercita il controllo di legittimità sugli atti degli enti dipendenti dalla Regione, di cui all'<rif xlink:href="urn:nir:regione.molise:statuto:#art49">articolo 49 dello Statuto Regionale</rif> rientranti nelle seguenti   tipologie: 
+ 
+</alinea>
+                                    <el id="art1-com1-mod1-vir1-com0-leta">
+                                    <num>a)</num>
+                                    <corpo> nomina degli organi;</corpo>
+                                    </el>
+                                    <el id="art1-com1-mod1-vir1-com0-letb">
+                                    <num> 
+ 
+b)</num>
+                                    <corpo> regolamenti aventi rilevanza esterna;</corpo>
+                                    </el>
+                                    <el id="art1-com1-mod1-vir1-com0-letc">
+                                    <num> 
+ 
+c)</num>
+                                    <corpo> atti generali di determinazione di tariffe, canoni e rette;</corpo>
+                                    </el>
+                                    <el id="art1-com1-mod1-vir1-com0-letd">
+                                    <num> 
+ 
+d)</num>
+                                    <corpo> atti di concessione di sovvenzioni, contributi, sussidi e ausili finanziari;</corpo>
+                                    </el>
+                                    <el id="art1-com1-mod1-vir1-com0-lete">
+                                    <num> 
+ 
+e)</num>
+                                    <corpo> assunzioni di personale a qualsiasi titolo;</corpo>
+                                    </el>
+                                    <el id="art1-com1-mod1-vir1-com0-letf">
+                                    <num> 
+ 
+f)</num>
+                                    <corpo> contratti collettivi decentrati;</corpo>
+                                    </el>
+                                    <el id="art1-com1-mod1-vir1-com0-letg">
+                                    <num> 
+ 
+g)</num>
+                                    <corpo> contratti di fornitura e di appalto di opere o servizi di valore unitario superiore a 200 milioni di lire;</corpo>
+                                    </el>
+                                    <el id="art1-com1-mod1-vir1-com0-leth">
+                                    <num> 
+ 
+h)</num>
+                                    <corpo> concessioni;</corpo>
+                                    </el>
+                                    <el id="art1-com1-mod1-vir1-com0-leti">
+                                    <num> 
+ 
+i)</num>
+                                    <corpo> assunzioni e concessioni di servizi pubblici;</corpo>
+                                    </el>
+                                    <el id="art1-com1-mod1-vir1-com0-letl">
+                                    <num> 
+ 
+l)</num>
+                                    <corpo> convenzioni con istituti di credito;</corpo>
+                                    </el>
+                                    <el id="art1-com1-mod1-vir1-com0-letm">
+                                    <num> 
+ 
+m)</num>
+                                    <corpo> partecipazioni ad enti e società;</corpo>
+                                    </el>
+                                    <el id="art1-com1-mod1-vir1-com0-letn">
+                                    <num> 
+ 
+n)</num>
+                                    <corpo> acquisti e alienazioni di immobili, salvo che rientrino nella normale attività istituzionale dell'ente;</corpo>
+                                    </el>
+                                    <el id="art1-com1-mod1-vir1-com0-leto">
+                                    <num> 
+ 
+o)</num>
+                                    <corpo> atti di straordinaria amministrazione. </corpo>
+                                    </el>
+                                </comma>
+                                <comma id="art1-com1-mod1-vir1-com15">
+                                    <num>
+ 
+2.</num>
+                                    <corpo> Per l'espletamento del controllo di cui al comma primo gli atti sono inviati al Comitato, a pena di decadenza, entro dieci giorni dalla loro adozione. Il Comitato procede, entro venti giorni dal ricevimento, al riscontro di legittimità. Il decorso di detto termine, senza che il Comitato abbia comunicato annullamento o richiesta di chiarimenti o di elementi integrativi di giudizio, comporta l'esecutività dell'atto. In caso di richiesta di chiarimenti o di elementi integrativi di giudizio, il termine è interrotto e decorre nuovamente con il ricevimento degli atti richiesti, che l'ente è tenuto a fornire, a pena di decadenza dell'atto sottoposto al controllo, entro quaranta giorni dal   ricevimento della richiesta ovvero entro venti giorni se si tratta di atti dichiarati immediatamente eseguibili. </corpo>
+                                </comma>
+                                <articolo id="art15">
+                                    <num>Art. 2 </num>
+                                    <rubrica/>
+                                    <comma id="art15-com2">
+                                    <num/>
+                                    <corpo>
+1. La <rif xlink:href="urn:nir:regione.molise:legge:1990-04-10;19#art2-com1-leti">lettera &lt;&lt;i)&gt;&gt; del comma primo dell'articolo 2 della legge regionale 10 aprile 1990, n. 19</rif> è soppressa. </corpo>
+                                    </comma>
+                                    <comma id="art15-com15">
+                                    <num>
+ 
+2 bis.</num>
+                                    <corpo> Quando sia giustificato da necessità o urgenza gli organi di amministrazione degli enti possono dichiarare, a maggioranza assoluta dei componenti assegnati al collegio, immediatamente eseguibili le deliberazioni da sottoporre al controllo ai sensi del comma primo del presente articolo. La dichiarazione di immediata eseguibilità comporta la responsabilità, anche patrimoniale, dei membri favorevoli. Le deliberazioni dichiarate immediatamente eseguibili devono essere inviate al controllo, a pena di decadenza, entro cinque giorni dalla loro adozione</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+                    <corpo>Art. 3 
+ 
+1. Il <rif xlink:href="urn:nir:regione.molise:legge:1990-04-10;19#art2-com2">comma secondo dell'articolo 2 della legge regionale 10 aprile 1990, n. 19</rif> è così sostituito: 
+ 
+&lt;&lt;2. Gli atti sono inviati entro dieci giorni dall'adozione, a pena di decadenza, alla Giunta Regionale che, previa istruttoria da parte della struttura competente per materia, li trasmette, entro trenta giorni dal ricevimento, con le proprie proposte ed osservazioni di legittimità e di merito, al Consiglio Regionale per i provvedimenti di competenza. I provvedimenti consiliari sono adottati entro centoventi giorni dalla comunicazione degli atti alla Giunta.</corpo>
+                </comma><?error Marker Warning 103 (last articolo:1 next:3)?>
+                <comma id="art1-com3">
+                    <num/>
+
+                    <corpo>Decorso tale termine, gli atti si intendono approvati. Ove il Consiglio chieda chiarimenti o elementi integrativi di giudizio, il termine si interrompe e gli atti si intendono approvati decorsi   trenta giorni dal pervenimento al Consiglio dei chiarimenti o elementi integrativi richiesti. 
+ 
+2 bis. Alle disposizioni di cui al <rif xlink:href="#art1-com2">secondo comma</rif> si sottraggono i bilanci di previsione e le relative variazioni nonché i conti consuntivi, per i quali valgono le norme regionali statutarie e di legge di contabilità &gt;&gt;.</corpo>
+                </comma>
+                <comma id="art1-com4">
+                    <num/>
+
+                    <corpo>Art. 4 
+ 
+1. Dopo l'articolo 2 della legge regionale 10 aprile l996, n. 19 è aggiunto il seguente articolo: 
+ 
+&lt;&lt; Articolo 2 bis. 
+ 
+1. Qualora uno degli enti di cui all'<rif
+                            xlink:href="#art1">articolo 1</rif> ometta o ritardi senza giustificato motivo un atto obbligatorio, il Presidente della Giunta Regionale, dandone sollecitamente notizia al Consiglio   Regionale, comunica una diffida stabilendo un termine entro il quale l'atto deve essere adottato. 
+ 
+2. In caso di particolare urgenza o quando l'atto non sia stato emanato nel termine fissato ai sensi del <rif xlink:href="#art1-com1">comma primo</rif>, la Giunta regionale nomina un commissario ad acta &gt;&gt;.</corpo>
+                </comma>
+                <comma id="art1-com5">
+                    <num/>
+
+                    <corpo>Art.5 
+ 
+1. La presente legge è dichiarata urgente ai sensi dell' <rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua   pubblicazione nel Bollettino Ufficiale della Regione.</corpo>
+                </comma>
+                <comma id="art1-com6">
+                    <num/>
+                    <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

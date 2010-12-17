@@ -1,0 +1,2388 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20000429" num="9" tipo="BURM"/>
+                <entratainvigore norm="20000514"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-04-26;32"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 02.Artigianato 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE n.9 del 29 aprile 2000 
+ 
+Oggetto 
+Nuove norme di disciplina in materia di artigianato 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 28 dalla legge n. 14/2007 art. 1 
+Modificato art. 28 dalla legge n. 12/2008 art. 6 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20000426">26 aprile 2000</dataDoc>, n. <numDoc>32</numDoc>
+            <titoloDoc>Riordino della disciplina in materia di artigianato. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <titolo id="tit1">
+                <num>TITOLO I </num>
+                <rubrica>
+ 
+FINALITÀ E DESTINATARI DELLA LEGGE 
+ 
+</rubrica>
+                <articolo id="art1">
+                    <num>Art.1 </num>
+                    <rubrica>
+ 
+Finalità ed oggetto 
+ </rubrica>
+                    <comma id="art1-com1">
+                        <num>
+1.</num>
+                        <corpo> La Regione Molise concorre, con i benefici contemplati dalla presente legge e nei limiti degli stanziamenti di bilancio appositamente previsti, allo sviluppo delle attività artigianali, all'introduzione di processi rinnovativi del settore, alla promozione della cooperazione ed alla tutela e valorizzazione dell'Artigianato che abbia tradizioni regionali o prerogative artistiche. </corpo>
+                    </comma>
+                    <comma id="art1-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> La presente legge provvede altresì a disciplinare gli organi di rappresentanza e di autotutela dell'Artigianato, nonché le modalità di tenuta dell'Albo delle imprese artigiane. </corpo>
+                    </comma>
+                    <comma id="art1-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Per quanto non previsto dalla presente legge regionale valgono le disposizioni di cui alla <rif xlink:href="urn:nir:stato:legge:1985-08-08;443">legge 8 agosto 1985, n. 443</rif>, e successive modificazioni ed integrazioni. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art2">
+                    <num>Art.2 </num>
+                    <rubrica>
+ 
+Destinatari 
+ </rubrica>
+                    <comma id="art2-com1">
+                        <num>
+1.</num>
+
+                        <corpo> I soggetti destinatari della presente legge, se non altrimenti disposto, sono le imprese artigiane esercitate in forma individuale od associativa, aventi sede sul territorio regionale, regolarmente iscritte agli Albi provinciali delle imprese artigiane istituiti con la <rif xlink:href="urn:nir:stato:legge:1985-08-08;443">legge 8 agosto 1985, n. 443</rif>, o alla sezione separata degli Albi, di cui all'articolo 6, primo comma, della medesima legge. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit2">
+                <num>TITOLO II </num>
+                <rubrica>
+ 
+FUNZIONI DELLA REGIONE E DEGLI ENTI LOCALI 
+ 
+</rubrica>
+                <articolo id="art3">
+                    <num>Art. 3 </num>
+                    <rubrica>
+ 
+Funzioni riservate alla Regione 
+ </rubrica>
+                    <comma id="art3-com1">
+                        <num>
+1.</num>
+
+                        <alinea> Sono riservate alla Regione le funzioni di programmazione ed indirizzo, le funzioni previste dall'<rif xlink:href="urn:nir:regione.molise:legge:1999-09-29;34#art30">art. 30 della legge regionale 29 settembre 1999, n. 34</rif>, nonché: 
+ 
+</alinea>
+                        <el id="art3-com1-leta">
+                            <num>a)</num>
+                            <corpo> il coordinamento delle funzioni conferite alle Province, ai Comuni, alle Comunità Montane e alle Camere di Commercio, Industria, Artigianato e Agricoltura, ivi compresa l'adozione da parte della Giunta Regionale di indirizzi relativi alla concessione di agevolazioni;</corpo>
+                        </el>
+                        <el id="art3-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> la disciplina degli organi amministrativi e di tutela dell'artigianato;</corpo>
+                        </el>
+                        <el id="art3-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> la disciplina della tenuta dell'Albo delle imprese artigiane. 
+ 
+</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+                <articolo id="art4">
+                    <num>Art. 4 </num>
+                    <rubrica>
+ 
+Programma triennale per l'Artigianato 
+ </rubrica>
+                    <comma id="art4-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La Giunta Regionale, al fine dí programmare gli interventi a favore dell'Artigianato e di adeguarli alle esigenze del settore e dell'economia regionale e nazionale, sentiti la Conferenza per le autonomie locali di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1999;34#art9">articolo 9 della legge regionale n. 34/1999</rif>, integrata dai rappresentanti della Camera di Commercio, Industria, Artigianato e Agricoltura ai sensi del comma 7 del medesimo articolo 9, gli organi di autogoverno dell'artigianato e le associazioni di categoria operanti nella Regione, trasmette al Consiglio Regionale, che l'approva nei successivi 60 giorni, il Programma triennale per l'Artigianato. </corpo>
+                    </comma>
+                    <comma id="art4-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> I pareri richiesti dalla Giunta Regionale ai sensi del <rif xlink:href="#art4-com1">comma 1</rif> devono essere espressi entro 20 giorni dalla trasmissione della proposta di programma, trascorsi i quali la Giunta ha facoltà di prescinderne. </corpo>
+                    </comma>
+                    <comma id="art4-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Il Programma è elaborato sulla base degli indirizzi contenuti nel Piano Regionale di sviluppo e delle proposte formulate dagli Enti interessati, dalle associazioni di categoria e dagli organismi che concorrono al Governo del settore, nonché delle disposizioni contenute nei programmi, nelle leggi nazionali e nelle direttive Comunitarie riguardanti il settore. </corpo>
+                    </comma>
+                    <comma id="art4-com4">
+                        <num>
+ 
+4.</num>
+                        <alinea> Nel Programma triennale sono indicati: 
+ 
+</alinea>
+                        <el id="art4-com4-leta">
+                            <num>a)</num>
+                            <corpo> gli obiettivi e le finalità da conseguire, i risultati attesi anche con riferimento alle esigenze di sviluppo e di riequilibrio socio economico della Regione;</corpo>
+                        </el>
+                        <el id="art4-com4-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> le indicazioni di spesa per il triennio e la ripartizione per Provincia e per tipo di intervento;</corpo>
+                        </el>
+                        <el id="art4-com4-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> i criteri e le modalità generali di attuazione;</corpo>
+                        </el>
+                        <el id="art4-com4-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> i tempi di realizzazione delle azioni programmate;</corpo>
+                        </el>
+                        <el id="art4-com4-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> l'eventuale articolazione del piano stesso in programmi e progetti speciali anche di particolare rilievo regionale;</corpo>
+                        </el>
+                        <el id="art4-com4-letf">
+                            <num> 
+ 
+f)</num>
+                            <corpo> le modalità ed i limiti per la destinazione, da parte della Giunta Regionale, di risorse eventualmente rinvenienti in fase di verifica della programmazione provinciale. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art4-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> Il Programma triennale può essere aggiornato annualmente. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art5">
+                    <num>Art. 5 </num>
+                    <rubrica>
+ 
+Funzioni delle Province 
+ </rubrica>
+                    <comma id="art5-com1">
+                        <num>
+1.</num>
+                        <alinea> Alle Province sono conferite le seguenti funzioni in materia di artigianato: 
+ 
+</alinea>
+                        <el id="art5-com1-leta">
+                            <num>a)</num>
+
+                            <corpo> le funzioni attribuite espressamente dall'<rif xlink:href="urn:nir:regione.molise:legge:1999;34#art33">art. 33 della legge regionale n. 34/1999</rif>;</corpo>
+                        </el>
+                        <el id="art5-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> la gestione della formazione professionale nel comparto artigiano;</corpo>
+                        </el>
+                        <el id="art5-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> la gestione degli interventi diretti all'incentivazione dell'occupazione giovanile nel comparto artigiano;</corpo>
+                        </el>
+                        <el id="art5-com1-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> gli interventi a favore delle imprese artigiane, singole o associate, che la presente legge e le altre leggi regionali non riservano alla competenza regionale. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art5-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Il conferimento comprende tutti gli atti connessi con l'esercizio delle funzioni, ivi comprese la concessione e la liquidazione dei contributi, nonché il controllo sulla destinazione e l'utilizzazione degli stessi. </corpo>
+                    </comma>
+                    <comma id="art5-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Le funzioni di cui al <rif xlink:href="#art5-com1">comma 1</rif> sono esercitate dalle Province, in conformità alla programmazione e agli indirizzi programmatici generali della Regione, mediante l'adozione di piani volti a perseguire la crescita delle attività artigiane presenti sul territorio e la nascita di nuove imprese, secondo criteri di priorità e per obiettivi, con particolare riferimento al dato di disoccupazione per aree e settori garantendo il contributo delle organizzazioni di categoria. </corpo>
+                    </comma>
+                    <comma id="art5-com4">
+                        <num>
+ 
+4.</num>
+
+                        <corpo> Le Province, nel quadro delle azioni previste dal Programma triennale per l'Artigianato di cui all'<rif
+                                xlink:href="#art4">articolo 4</rif>, nel rispetto degli indirizzi attuativi e delle direttive procedurali regionali nonché in armonia con i propri programmi adottati ai sensi dell'<rif xlink:href="urn:nir:regione.molise:legge:1999;34#art33-com1-leta">articolo 33, primo comma, lettera a), della legge regionale n.34/1999</rif>, predispongono e comunicano alla Regione, entro il 31 marzo di ogni anno, i rispettivi piani attuativi per l'artigianato, con i quali si stabiliscono, con riferimento all'esercizio finanziario in corso, le concrete destinazioni delle risorse finanziarie stanziate distinte per zone del territorio e per specificità del comparto artigiano, nonché i criteri e le modalità operative per la concessione dei contributi. </corpo>
+                    </comma>
+                    <comma id="art5-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> Il Piano attuativo è elaborato con il concorso dei Comuni e in collaborazione con le Camere di Commercio, Industria, Artigianato e Agricoltura, sentite le organizzazioni di categoria. </corpo>
+                    </comma>
+                    <comma id="art5-com6">
+                        <num>
+ 
+6.</num>
+                        <corpo> La Giunta regionale, verificata la conformità dei piani provinciali per l'artigianato alle linee programmatiche regionali, dispone annualmente, entro 30 giorni dal ricevimento dei piani stessi, il trasferimento delle risorse alle Province. </corpo>
+                    </comma>
+                    <comma id="art5-com7">
+                        <num>
+ 
+7.</num>
+
+                        <corpo> Limitatamente all'anno in corso alla data di entrata in vigore della presente legge, le Province predispongono i Piani attuativi sulla base di un atto di indirizzo e di coordinamento che la Giunta regionale assume, sentita la competente Commissione Consiliare Permanente, entro 60 giorni dalla stessa entrata in vigore. La Commissione consiliare emette il parere, entro 20 giorni dalla comunicazione, al Presidente del Consiglio regionale in ordine allo schema di atto di indirizzo e di coordinamento. Decorso inutilmente tale termine, la Giunta regionale adotta l'atto prescindendo dal parere. Le Province predispongono i Piani attuativi e li comunicano alla Giunta regionale, per gli adempimenti di cui al <rif xlink:href="#art5-com6">comma 6</rif>, entro 60 giorni dalla pubblicazione sul Bollettino Ufficiale della Regione Molise dell'atto regionale di indirizzo e di coordinamento. </corpo>
+                    </comma>
+                    <comma id="art5-com8">
+                        <num>
+ 
+8.</num>
+                        <corpo> Ai sensi dell'<rif xlink:href="urn:nir:regione.molise:legge:1999;34#art34">articolo 34 della legge regionale n. 34/1999</rif>, per la gestione e per gli adempimenti tecnici riguardanti la concessione e l'erogazione di agevolazioni, contributi, sovvenzioni ed incentivi alle imprese artigiane, le Province si possono avvalere di Istituti finanziari specializzati, a seguito di convenzione nella quale sono garantite condizioni di economicità e di tempestività, secondo le direttive della Giunta regionale. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art6">
+                    <num>Art. 6 </num>
+                    <rubrica>
+ 
+Funzioni dei Comuni 
+ </rubrica>
+                    <comma id="art6-com1">
+                        <num>
+1.</num>
+                        <alinea> Sono conferite ai Comuni le seguenti funzioni in materia di artigianato: 
+ 
+</alinea>
+                        <el id="art6-com1-leta">
+                            <num>a)</num>
+
+                            <corpo> le funzioni attribuite espressamente dall'<rif xlink:href="urn:nir:regione.molise:legge:1999;34#art32">art. 32 della legge regionale n. 34/1999</rif>;</corpo>
+                        </el>
+                        <el id="art6-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> gli atti di istruttoria, ai fini delle iscrizioni, modificazioni e cancellazioni dall'Albo provinciale delle imprese artigiane ed alla sezione separata dello stesso;</corpo>
+                        </el>
+                        <el id="art6-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> gli atti di istruttoria e di rilevazione necessari per la revisione dell'Albo provinciale delle imprese artigiane;</corpo>
+                        </el>
+                        <el id="art6-com1-letd">
+                            <num> 
+ 
+d)</num>
+
+                            <corpo> l'applicazione e la riscossione delle sanzioni amministrative, così come previsto dall'<rif xlink:href="#art15">art. 15</rif>. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art6-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> I Comuni concorrono alla determinazione degli obiettivi e delle priorità del Piano attuativo provinciale per l'artigianato di cui all'<rif xlink:href="#art5-com4">art. 5, comma 4</rif>. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art7">
+                    <num>Art. 7 </num>
+                    <rubrica>
+ 
+Funzioni delle Comunità Montane e delle Camere di Commercio, Industria, Artigianato e Agricoltura 
+ </rubrica>
+                    <comma id="art7-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Le Comunità Montane esercitano le funzioni ad esse attribuite. ai sensi della <rif
+                                xlink:href="urn:nir:regione.molise:legge:1999-09-02;29">legge regionale 2 settembre 1999, n. 29</rif>, nonchè quelle ad esse demandate dai Comuni ai sensi dell'<rif xlink:href="urn:nir:regione.molise:legge:1999;34#art6">art. 6 della legge regionale n. 34/1999</rif>. </corpo>
+                    </comma>
+                    <comma id="art7-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Le Camere di- Commercio, Industria, Artigianato e Agricoltura esercitano 1e funzioni ad esse delegate ai sensi dell'<rif xlink:href="urn:nir:regione.molise:legge:1999;34#art35">art. 35 della legge regionale n. 34/1999</rif>. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art8">
+                    <num>Art. 8 </num>
+                    <rubrica>
+ 
+Modalità di esercizio delle funzioni delegate 
+ </rubrica>
+                    <comma id="art8-com1">
+                        <num>
+1.</num>
+                        <corpo> Gli Enti esercitano le funzioni loro attribuite nel rispetto delle leggi e degli atti amministrativi emanati dal Consiglio e dalla Giunta Regionale. </corpo>
+                    </comma>
+                    <comma id="art8-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Negli atti emessi in attuazione delle funzioni loro delegate, gli Enti fanno espressa menzione del provvedimento di delega. </corpo>
+                    </comma>
+                    <comma id="art8-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> La Regione e gli Enti delegati sono tenuti a trasmettersi reciprocamente e a richiesta, informazioni, dati statistici e ogni altro elemento utile allo svolgimento delle relative funzioni. </corpo>
+                    </comma>
+                    <comma id="art8-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Nel caso di mancato svolgimento delle funzioni delegate, la Regione invita l'Ente inadempiente ad attuarle, assegnandoli un termine entro il quale provvedere. </corpo>
+                    </comma>
+                    <comma id="art8-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> In caso di persistente inerzia inerente le funzioni delegate, la Regione provvede tramite un Commissario designato dalla Giunta Regionale al compimento degli atti omessi. </corpo>
+                    </comma>
+                    <comma id="art8-com6">
+                        <num>
+ 
+6.</num>
+
+                        <corpo> Le spese relative all'esercizio delle funzioni delegate sono a carico del Bilancio regionale. Gli Enti delegati sono tenuti agli adempimenti previsti dalla <rif xlink:href="urn:nir:regione.molise:legge:1977-12-03;44">legge regionale 3 dicembre 1977, n.44</rif>. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit3">
+                <num>TITOLO III </num>
+                <rubrica>
+ 
+ALBO PROVINCIALE DELLE IMPRESE ARTIGIANE 
+ 
+</rubrica>
+                <articolo id="art9">
+                    <num>Art.9 </num>
+                    <rubrica>
+ 
+Albo Provinciale delle Imprese Artigiane 
+ </rubrica>
+                    <comma id="art9-com1">
+                        <num>
+1.</num>
+                        <corpo> In ogni Provincia è istituito l'Albo Provinciale delle Imprese Artigiane. </corpo>
+                    </comma>
+                    <comma id="art9-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Sono tenute ad iscriversi all'Albo tutte le imprese aventi i requisiti previsti dagli artt. 2, 3 e 4 della <rif xlink:href="urn:nir:stato:legge:1985-08-08;443">Legge 8 agosto 1985, n. 443</rif>, e successive modificazioni ed integrazioni. </corpo>
+                    </comma>
+                    <comma id="art9-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Nell'apposita separata sezione dell'Albo sono iscritti i consorzi le società-consortili, anche in forma di cooperativa, costituiti tra imprese artigiane o tra imprese artigiane ed imprese industriali di minori dimensioni, così come previsto dall'<rif xlink:href="urn:nir:stato:legge:1985;443#art6">art.6 della legge n. 443/1985</rif>. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art10">
+                    <num>Art.10 </num>
+
+                    <rubrica>
+ 
+Natura costitutiva delle iscrizioni 
+ 
+1 L'iscrizione all'Albo delle imprese artigiane e alla sua separata Sezione ha effetto costitutivo della qualifica artigiana ed è condizione per la concessione delle agevolazioni a favore delle imprese artigiane e dei soggetti ed organismi di cui al <rif xlink:href="#art9-com3">comma 3 dell'art.9</rif>. 
+ 
+2. Nessuna impresa può adottare, quale ditta o insegna o marchio, una denominazione in cui ricorrono riferimenti all'artigianato se essa non è iscritta all'Albo provinciale delle imprese artigiane. Lo stesso divieto vale per i consorzi e le società consortili che non siano iscritti nella separata sezione di detto Albo. 
+ 
+3. Nessun prodotto o servizio può essere denominato o venduto o pubblicizzato come artigiano se non proviene da un'impresa o soggetto iscritto all'Albo. 
+ 
+</rubrica><?error Marker Warning 109?>
+                    <comma id="art10-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art11">
+                    <num>Art. 11 </num>
+                    <rubrica>
+ 
+Iscrizioni e cancellazioni 
+ </rubrica>
+                    <comma id="art11-com1">
+                        <num>
+1.</num>
+                        <corpo> Coloro che intraprendono l'esercizio di una impresa artigiana sono tenuti, entro trenta giorni dall'inizio dell'attività, a richiedere l'iscrizione all'Albo alla Commissione Provinciale per l'Artigianato presso la Camera di Commercio, Industria, Artigianato e Agricoltura, della provincia dove ha sede l'impresa notificando l'esistenza di eventuali unità locali. </corpo>
+                    </comma>
+                    <comma id="art11-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> La domanda di iscrizione, le successive denunce di modifica e di cessazione sono presentate sulla base di modelli conformi a quelli approvati dal Ministero dell'Industria, del Commercio e dell'Artigianato per la presentazione delle domande di iscrizione al registro delle imprese di cui all'<rif
+                                xlink:href="urn:nir:stato:legge:1993-12-29;580#art8">art. 8 della legge 29 dicembre 1993, n. 580</rif>, e delle denunce a repertorio delle notizie economiche ed amministrative di cui all'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1995-12-07;581#art9">art. 9 del decreto del Presidente della Repubblica 7 dicembre 1995, n. 581</rif>. La Giunta Regionale, entro 30 giorni dall'entrata in vigore della presente legge, approva, sentite le Commissioni per l'artigianato e le Camere di Commercio, Industria, Artigianato e Agricoltura, gli elementi integrativi dei predetti modelli per l'acquisizione di notizie di specifico rilievo ai fini della gestione dell'Albo e dell'esercizio delle funzioni regionali in materia di artigianato. </corpo>
+                    </comma>
+                    <comma id="art11-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Le Commissioni, prima di adottare le delibere di cui al <rif xlink:href="urn:nir:stato:legge:1985;443#art7-com1">primo comma dell'art.7 della legge n. 443/1985</rif> possono assegnare all'impresa, per una sola volta, un congruo termine per completare o rettificare la domanda, ovvero per integrare la documentazione. </corpo>
+                    </comma>
+                    <comma id="art11-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> La Commissione Provinciale dell'Artigianato valuta la sussistenza dei requisiti stabiliti sulla base delle notizie fornite dagli interessati e dell'istruttoria richiesta al Comune. </corpo>
+                    </comma>
+                    <comma id="art11-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> Il Comune comunica i risultati dell'istruttoria alla Commissione Provinciale per l'Artigianato entro 30 giorni dalla richiesta, trascorsi i quali la Commissione stessa ha facoltà di provvedere direttamente ai necessari atti istruttori. </corpo>
+                    </comma>
+                    <comma id="art11-com6">
+                        <num>
+ 
+6.</num>
+
+                        <corpo> Le Commissioni Provinciali per l'Artigianato, nell'esercizio delle funzioni esclusive attinenti alla tenuta dell'Albo, ai sensi della <rif
+                                xlink:href="urn:nir:stato:legge:1985;443">legge n. 443/1985</rif> e degli elenchi nominativi di cui alla <rif
+                                xlink:href="urn:nir:stato:legge:1956-12-29;1533">legge 29 dicembre 1956, n. 1533</rif>, e successive modificazioni, e alla <rif
+                                xlink:href="urn:nir:stato:legge:1959-07-04;463">legge 4 luglio 1959, n. 463</rif>, e successive modificazioni, in relazione alla sussistenza, modificazione o perdita dei requisiti di qualifica artigiana adottano delibera impugnabile ai sensi delle procedure previste dall'<rif
+                                xlink:href="urn:nir:stato:legge:1985;443#art7">art. 7 della legge n. 443/1985</rif> e dall'<rif xlink:href="#art14">art. 14</rif> della presente legge. </corpo>
+                    </comma>
+                    <comma id="art11-com7">
+                        <num>
+ 
+7.</num>
+                        <corpo> La decisione della Commissione Provinciale per l'Artigianato in ordine all'iscrizione o al diniego di iscrizione nell'Albo è notificata all'interessato entro 60 giorni dalla data di presentazione della domanda o dell'integrazione richiesta. La mancata comunicazione entro detto termine vale come accoglimento della domanda. </corpo>
+                    </comma>
+                    <comma id="art11-com8">
+                        <num>
+ 
+8.</num>
+                        <corpo> Salvo quanto disposto dall'<rif
+                                xlink:href="urn:nir:stato:legge:1995-08-08;335#art3-com8">art. 3 comma 8, della legge 8 agosto 1995, n. 335</rif>, le Commissioni, all'atto dell'iscrizione, modificazione e cancellazione dell'impresa, determinano la data dalla quale decorre la sussistenza, la modificazione o la perdita dei requisiti richiesti per il riconoscimento della qualifica artigiana di cui all'<rif
+                                xlink:href="#art2">art. 2</rif>, 3 e 4 della <rif xlink:href="urn:nir:stato:legge:1985;443">legge n. 443/1985</rif> e successive modificazioni ed integrazioni. </corpo>
+                    </comma>
+                    <comma id="art11-com9">
+                        <num>
+ 
+9.</num>
+                        <corpo> L'iscrizione all'Albo è comprovata da apposito certificato rilasciato dalla Commissione provinciale per l'Artigianato. </corpo>
+                    </comma>
+                    <comma id="art11-com10">
+                        <num>
+ 
+10.</num>
+                        <corpo> La Commissione provinciale per l'artigianato provvede d'ufficio all'iscrizione nell'Albo delle imprese le quali, pur essendo in possesso dei requisiti di legge per richiedere l'iscrizione, non abbiano presentato la prescritta domanda, salva l'applicazione delle sanzioni amministrative previste. </corpo>
+                    </comma>
+                    <comma id="art11-com11">
+                        <num>
+ 
+11.</num>
+                        <corpo> La deliberazione di cui al precedente comma è adottata sulla base di elementi istruttori forniti dal Comune e di eventuali ulteriori accertamenti d'ufficio previa audizione, se richiesta, dei titolari delle imprese individuali o dei rappresentanti legali delle società interessate che possono farsi assistere da persona o associazione di propria fiducia, specificatamente delegata. </corpo>
+                    </comma>
+                    <comma id="art11-com12">
+                        <num>
+ 
+12.</num>
+                        <corpo> I titolari delle imprese individuali artigiane e i soci amministratori o rappresentanti legali delle società artigiane, sono tenuti a denunciare le modificazioni dello stato di fatto e di diritto dell'impresa, la sospensione e la cessazione dell'attività, entro 30 giorni dal verificarsi dell'evento alla Commissione provinciale per l'artigianato della provincia dove ha sede l'impresa. </corpo>
+                    </comma>
+                    <comma id="art11-com13">
+                        <num>
+ 
+13.</num>
+
+                        <corpo> L'obbligo della denuncia delle modificazioni concerne anche la variazione del numero dei dipendenti se tale stato di fatto implica il disconoscimento della natura artigiana dell'impresa per effetto del superamento dei limiti di cui all'<rif xlink:href="urn:nir:stato:legge:1985;443#art4">art. 4 della Legge n. 443/1985</rif>. </corpo>
+                    </comma>
+                    <comma id="art11-com14">
+                        <num>
+ 
+14.</num>
+
+                        <corpo> La Commissione Provinciale per l'Artigianato dispone la cancellazione dall'Albo delle imprese artigiane che abbiano cessato la propria attività ovvero abbiano perso i requisiti necessari per l'iscrizione all'Albo sulla base degli elementi denunciati delle imprese interessate e sulla base dell'istruttoria e della certificazione fornita dal Comune territorialmente competente ai sensi del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616#art63-com4-leta">quarto comma, lettera a), dell'articolo 63 del D.P.R. 24 luglio 1977, n. 616</rif>. </corpo>
+                    </comma>
+                    <comma id="art11-com15">
+                        <num>
+ 
+15.</num>
+                        <corpo> La Commissione ha la facoltà di disporre di accertamenti d'ufficio. </corpo>
+                    </comma>
+                    <comma id="art11-com16">
+                        <num>
+ 
+16.</num>
+                        <corpo> La Commissione provvede alla cancellazione d'ufficio dall'Albo con le modalità di cui ai precedenti commi e previa audizione dei titolari delle imprese individuali o dei rappresentanti legali delle società interessate che possono farsi assistere da persona o associazione di fiducia, specificatamente delegata. </corpo>
+                    </comma>
+                    <comma id="art11-com17">
+                        <num>
+ 
+17.</num>
+                        <corpo> La cancellazione dall'Albo delle imprese artigiane ha effetto dalla data di cessazione dell'attività o dalla data di adozione del relativo provvedimento negli altri casi. </corpo>
+                    </comma>
+                    <comma id="art11-com18">
+                        <num>
+ 
+18.</num>
+                        <alinea> Non può essere cancellata d'ufficio l'impresa individuale il cui titolare sia deceduto, sia colpito da invalidità ovvero sia dichiarato interdetto o inabilitato con sentenza dell'autorità giudiziaria competente a condizione che: 
+ 
+</alinea>
+                        <el id="art11-com18-leta">
+                            <num>a)</num>
+                            <corpo> la gestione venga assunta dal coniuge, dai figli maggiorenni o minorenni emancipati o dal tutore dei figli minorenni dell'imprenditore invalido, deceduto, interdetto o inabilitato;</corpo>
+                        </el>
+                        <el id="art11-com18-letb">
+                            <num> 
+ 
+b)</num>
+
+                            <corpo> le persone interessate di cui alla <rif xlink:href="#art11-com18-leta">precedente lettera a)</rif> ne facciano richiesta espressamente;</corpo>
+                        </el>
+                        <el id="art11-com18-letc">
+                            <num> 
+ 
+c)</num>
+
+                            <corpo> l'impresa sia esercitata con i requisiti obiettivi stabiliti dagli articoli 3 e 4 della <rif xlink:href="urn:nir:stato:legge:1985;443">legge n. 443/1985</rif> e successive modificazioni. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art11-com19">
+                        <num>
+ 
+19.</num>
+                        <corpo> La deroga di cui al precedente comma è concessa per un periodo massimo di 5 anni o fino al compimento della maggiore età dei figli minorenni. </corpo>
+                    </comma>
+                    <comma id="art11-com20">
+                        <num>
+ 
+20.</num>
+
+                        <corpo> Non può essere cancellata d'ufficio dall'Albo l'impresa individuale o società che abbia superato, fino ad un massimo del venti per cento e per non più di 3 mesi nell'anno, i limiti occupazionali di cui al <rif xlink:href="urn:nir:stato:legge:1985;443#art4-com1">comma 1 dell'art. 4 della legge n. 443/1985</rif>. </corpo>
+                    </comma>
+                    <comma id="art11-com21">
+                        <num>
+ 
+21.</num>
+                        <corpo> Gli interessati devono essere informati della procedura per l'iscrizione o per la cancellazione d'ufficio entro quindici giorni dall'avvio della stessa, a mezzo raccomandata con avviso di ricevimento, con facoltà di prendere visione e di estrarre copia della documentazione pervenuta alla Commissione, nonché far pervenire alla stessa osservazioni e memorie e chiedere di essere personalmente sentiti. </corpo>
+                    </comma>
+                    <comma id="art11-com22">
+                        <num>
+ 
+22.</num>
+
+                        <corpo> Gli enti del sistema Regioni - Enti Locali, erogatori di agevolazioni in favore delle imprese artigiane che nell'esercizio delle loro funzioni riscontrino la sussistenza, la modificazione o la perdita dei requisiti di cui agli artt. 2, 3 e 4 della <rif xlink:href="urn:nir:stato:legge:1985;443">legge n. 443/1985</rif> e successive modificazioni, prima di adottare i provvedimenti di competenza nei termini previsti ne danno comunicazione alle Commissioni ai fini degli accertamenti d'ufficio e delle relative decisioni di merito che sono assunte entro 60 giorni e che fanno stato ad ogni effetto. </corpo>
+                    </comma>
+                    <comma id="art11-com23">
+                        <num>
+ 
+23.</num>
+                        <corpo> Le decisioni della Commissione sono trasmesse entro i successivi 30 giorni agli interessati e all'ente che ha effettuato la Comunicazione, fermo restando che, decorso il termine di 60 giorni i provvedimenti si intendono comunque adottati. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art12">
+                    <num>Art. 12 </num>
+                    <rubrica>
+ 
+Consorzi artigiani iscrivibili in separata sezione dell'Albo 
+ </rubrica>
+                    <comma id="art12-com1">
+                        <num>
+1.</num>
+                        <corpo> I consorzi e le società consortili, anche in forma di cooperativa, costituiti da imprese artigiane devono iscriversi in separata sezione dell'Albo. </corpo>
+                    </comma>
+                    <comma id="art12-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Le forme associative di cui al precedente comma sono tenute a fornire all'atto dell'iscrizione l'elenco delle imprese associate e, successivamente, le variazioni intervenute nell'elenco stesso. </corpo>
+                    </comma>
+                    <comma id="art12-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Per la tenuta della separata sezione dell'Albo provinciale delle imprese artigiane si applicano le disposizioni che disciplinano la tenuta dell'Albo stesso. </corpo>
+                    </comma>
+                    <comma id="art12-com4">
+                        <num>
+ 
+4.</num>
+
+                        <corpo> I consorzi e le società consortili anche in forma di cooperativa tra imprese artigiane, di cui all'<rif xlink:href="urn:nir:stato:legge:1985-08-08;443#art6-com1">art. 6, comma 1, della legge 8 agosto 1985, n. 443</rif>, sono ammesse a godere delle agevolazioni previste per le imprese artigiane e ad adottare, quale ditta, insegna o marchio, una denominazione in cui ricorrono riferimenti all'artigianato a condizione che siano inscritti nelle separate sezioni dell'Albo. </corpo>
+                    </comma>
+                    <comma id="art12-com5">
+                        <num>
+ 
+5.</num>
+
+                        <corpo> Possono altresì essere ammessi ai benefici di cui al precedente comma, i consorzi e le società consortili, anche in forma cooperativa di cui all'<rif xlink:href="urn:nir:stato:legge:1985-08-08;443#art6">art. 6, della legge 8 agosto 1985, n. 443</rif>, se iscritti nella separata sezione dell'Albo. </corpo>
+                    </comma>
+                    <comma id="art12-com6">
+                        <num>
+ 
+6.</num>
+
+                        <corpo> L'iscrizione dei soggetti di cui ai commi 4 e 5 del presente articolo è disposta dalla Commissione Provinciale su domanda del consorzio o società consortile interessati, previo accertamento del possesso dello status di impresa artigiana da parte dei soggetti associati nelle proporzioni previste dall'<rif xlink:href="urn:nir:stato:legge:1985-08-08;443#art6-com3">art. 6, comma 3, della legge 8 agosto 1985, n. 443</rif>. </corpo>
+                    </comma>
+                    <comma id="art12-com7">
+                        <num>
+ 
+7.</num>
+                        <corpo> I consorzi e le società consortili di cui ai precedenti commi sono iscritti nella separata sezione dell'Albo con l'indicazione per ciascun consorzio o società consortile delle imprese che li costituiscono e, nell'ipotesi di consorzi e società consortili misti, degli altri soggetti associati. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art13">
+                    <num>Art.13 </num>
+                    <rubrica>
+ 
+Revisione generale degli Albi provinciali delle imprese artigiane 
+ </rubrica>
+                    <comma id="art13-com1">
+                        <num>
+1.</num>
+                        <corpo> Ogni 30 mesi, le Commissioni provinciali per l'artigianato effettuano la revisione generale dell'iscrizione delle imprese artigiane nei rispettivi Albi. </corpo>
+                    </comma>
+                    <comma id="art13-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> A tal fine esse trasmettono ai Comuni gli elenchi delle imprese iscritte con sede nei rispettivi territori. La prima revisione ha luogo entro i 6 mesi dall'insediamento. </corpo>
+                    </comma>
+                    <comma id="art13-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Ciascun Comune, provvede entro i 120 giorni successivi al ricevimento degli elenchi, all'espletamento delle funzioni istruttorie di cui alla <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616#art63-com4-leta">lettera a) del comma 4 dell'art. 63 del D.P.R. 24 luglio 1977, n. 616</rif>, ed alla trasmissione degli atti conseguenti alla Commissione provinciale per l'artigianato competente. </corpo>
+                    </comma>
+                    <comma id="art13-com4">
+                        <num>
+ 
+4.</num>
+
+                        <corpo> La Commissione provinciale per l'artigianato provvede alle eventuali iscrizioni, modificazioni e cancellazioni d'ufficio, osservando quanto disposto nel <rif xlink:href="#art11">precedente articolo 11</rif>. </corpo>
+                    </comma>
+                    <comma id="art13-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> In caso di mancata revisione dell'Albo nei termini stabiliti, il Presidente della Giunta Regionale, nomina, previa diffida, un commissario straordinario che sostituisce la Commissione in tutte le operazioni relative alla revisione. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art14">
+                    <num>Art.14 </num>
+                    <rubrica>
+ 
+Ricorsi 
+ </rubrica>
+                    <comma id="art14-com1">
+                        <num>
+1.</num>
+                        <corpo> Contro le deliberazioni della Commissione provinciale dell'artigianato in materia di iscrizione, modificazione e cancellazione dall'Albo provinciale delle imprese artigiane è ammesso ricorso in via amministrativa alla Commissione regionale per l'artigianato, entro 60 giorni dalla notifica della deliberazione stessa, anche da parte delle pubbliche amministrazioni e di eventuali terzi interessati. </corpo>
+                    </comma>
+                    <comma id="art14-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Il ricorso amministrativo nelle forme e nei termini di cui al <rif xlink:href="#art14-com1">comma 1</rif> è consentito anche ai consorzi e alle società consortili ai quali sia stata negata l'iscrizione o il mantenimento dell'iscrizione nella separata sezione dell'Albo. </corpo>
+                    </comma>
+                    <comma id="art14-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> I soggetti di cui al <rif
+                                xlink:href="#art11-com22">comma 22 dell'art. 11</rif> che hanno proceduto alla Comunicazione possono parimenti con le modalità ed i termini di cui al <rif xlink:href="#art14-com1">comma 1</rif>, proporre ricorso alla Commissione regionale dell'artigianato, avverso l'eventuale provvedimento di archiviazione. </corpo>
+                    </comma>
+                    <comma id="art14-com4">
+                        <num>
+ 
+4.</num>
+
+                        <corpo> I ricorsi in via amministrativa alla Commissione regionale per l'artigianato sono regolati dalle norme del <rif
+                                xlink:href="urn:nir:presidente.repubblica:decreto:1971-11-24;1199">D.P.R. 24 novembre 1971, n. 1199</rif>, e successive modificazioni per la semplificazione dei procedimenti in materia dei ricorsi amministrativi. Pertanto, decorso il termine di 90 giorni dalla data di presentazione del ricorso in via amministrativa alla Commissione regionale per l'artigianato avverso la delibera della Commissione provinciale, senza che sia stata comunicata la decisione, il ricorso si intende respinto a tutti gli effetti; contro il provvedimento impugnato è esperibile il ricorso al tribunale competente per territorio ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1985;443#art7-com6">art. 7, comma 6, della legge n. 443/1985</rif>. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art15">
+                    <num>Art. 15 </num>
+                    <rubrica>
+ 
+Applicazione delle sanzioni amministrative 
+ </rubrica>
+                    <comma id="art15-com1">
+                        <num>
+1.</num>
+                        <alinea> Ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1985-08-08;443#art5">art. 5, ultimo comma della legge 8 agosto 1985, n. 443</rif>, alle violazioni sottoelencate si applicano le sanzioni amministrative consistenti nel pagamento di una somma di denaro nei limiti minimi e massimi a fianco di ciascuna indicati: 
+ 
+</alinea>
+                        <el id="art15-com1-leta">
+                            <num>a)</num>
+                            <corpo> in caso di omissione o ritardo della presentazione della domanda iscrizione, variazione o cancellazione all'Albo delle imprese artigiane: 
+ 
+- da Lire 100.000 a Lire 3.000.000;</corpo>
+                        </el>
+                        <el id="art15-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> in caso di omissione o ritardo della denuncia di modificazione nella partecipazione dei soci all'attività dell'impresa: 
+ 
+- da Lire 100.000 a Lire 3.000.000;</corpo>
+                        </el>
+                        <el id="art15-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> in caso di domande contenenti dichiarazioni non veritiere: 
+ 
+- da Lire 100.000 a Lire 5.000.000;</corpo>
+                        </el>
+                        <el id="art15-com1-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> in caso di adozione di una denominazione in cui ricorrono riferimenti all'artigianato, quale ditta, insegna o marchio, in mancanza della previa iscrizione all'Albo: 
+ 
+- da Lire 500.000 a Lire 5.000.000. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art15-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Le funzioni inerenti all'applicazione delle sanzioni amministrative stabilite dalla presente legge sono delegate ai Comuni nel cui territorio sono accertate le trasgressioni. </corpo>
+                    </comma>
+                    <comma id="art15-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Per il procedimento di irrogazione delle sanzioni e riscossione coattiva delle somme dovute dai trasgressori si osservano le norme contenute nella <rif xlink:href="urn:nir:stato:legge:1981-11-24;689">legge 24 novembre 1981, n. 689</rif>. </corpo>
+                    </comma>
+                    <comma id="art15-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Le spese per l'esercizio della delega sono stabilite forfettariamente in misura pari al 60% dell'importo delle pene pecuniarie irrogate e riscosse da ciascun Comune delegato nel corso dell'anno. La restante quota del 40% viene versata alla Camera di Commercio, Industria, Artigianato e Agricoltura competente per territorio. </corpo>
+                    </comma>
+                    <comma id="art15-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> Le eventuali quote da corrispondere agli organi verbalizzanti a norma delle vigenti disposizioni, saranno liquidate a cura dei Comuni delegati sul 60% di loro spettanza. </corpo>
+                    </comma>
+                    <comma id="art15-com6">
+                        <num>
+ 
+6.</num>
+                        <corpo> I Comuni delegati trasmettono alla fine di ogni anno e, comunque non oltre il 31 gennaio dell'anno successivo, alla Camera di Commercio, Industria, Artigianato e Agricoltura una dettagliata relazione sull'attività svolta con l'indicazione dei rapporti ricevuti, di quelli definiti e di quelli ancora in corso. Gli enti stessi provvedono contestualmente a versare alla Camera di Commercio, Industria, Artigianato e Agricoltura le somme introitate a titolo di sanzione, detratte le spese di esercizio della delega. </corpo>
+                    </comma>
+                    <comma id="art15-com7">
+                        <num>
+ 
+7.</num>
+                        <corpo> La Giunta Regionale emana direttive al fine di coordinare l'esercizio delle funzioni di vigilanza di cui al presente articolo. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit4">
+                <num>TITOLO IV </num>
+                <rubrica>
+ 
+ORGANI AMMINISTRATIVI DI RAPPRESENTANZA DI TUTELA E DI AUTOGOVERNO DELL'ARTIGIANATO 
+ 
+</rubrica>
+                <articolo id="art16">
+                    <num>Art.16 </num>
+                    <rubrica>
+ 
+Composizione delle Commissioni Provinciali per l'Artigianato 
+ </rubrica>
+                    <comma id="art16-com1">
+                        <num>
+1.</num>
+
+                        <corpo> In ciascun capoluogo di Provincia è istituita, ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1985-08-08;443#art9">art. 9 della legge 8 agosto 1985, n. 443</rif>, la Commissione provinciale per l'artigianato, quale organo di rappresentanza e di tutela dell'artigianato. </corpo>
+                    </comma>
+                    <comma id="art16-com2">
+                        <num>
+ 
+2.</num>
+                        <alinea> La Commissione provinciale per l'artigianato è costituita con decreto del Presidente della Giunta Regionale ed è composta: 
+ 
+</alinea>
+                        <el id="art16-com2-leta">
+                            <num>a)</num>
+                            <corpo> da 6 titolari di imprese artigiane, operanti nella Provincia da almeno 3 anni, designati dalle organizzazioni artigiane più rappresentative a livello nazionale e presenti nella Provincia;</corpo>
+                        </el>
+                        <el id="art16-com2-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> da 2 esperti in materia giuridico-economica designati dalla Giunta Regionale;</corpo>
+                        </el>
+                        <el id="art16-com2-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> un rappresentante della Direzione provinciale dell'INAIL;</corpo>
+                        </el>
+                        <el id="art16-com2-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> da un rappresentante della Direzione provinciale del Lavoro;</corpo>
+                        </el>
+                        <el id="art16-com2-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> da un rappresentante della Direzione provinciale dell'Istituto Nazionale della Previdenza Sociale. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art16-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> La Commissione elegge nel proprio seno, fra i membri di cui alle lettere a) e b) del <rif xlink:href="#art16-com2">comma 2</rif> il presidente ed il vicepresidente. </corpo>
+                    </comma>
+                    <comma id="art16-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Le Commissioni durano in carica cinque anni e alla scadenza sono rinnovate a norma delle disposizioni regionali in vigore. </corpo>
+                    </comma>
+                    <comma id="art16-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> Le designazioni dei componenti devono essere comunicate al Presidente della Giunta Regionale entro trenta giorni dalla richiesta, trascorsi i quali il Presidente della Giunta Regionale può provvedere ugualmente alle nomine in base alle designazioni pervenute e le Commissioni sono validamente costituite e possono funzionare con la nomina di almeno la metà più uno dei componenti. </corpo>
+                    </comma>
+                    <comma id="art16-com6">
+                        <num>
+ 
+6.</num>
+                        <corpo> Per la validità delle riunioni della Commissione è necessaria la presenza della maggioranza assoluta dei componenti. Le deliberazioni devono essere adottate a maggioranza dei presenti computando gli astenuti; in caso di parità di voti prevale il voto del Presidente. </corpo>
+                    </comma>
+                    <comma id="art16-com7">
+                        <num>
+ 
+7.</num>
+                        <corpo> I componenti decadono automaticamente dall'ufficio in caso di perdita delle qualità possedute o dei requisiti prescritti ed in caso di mancata partecipazione non giustificata alle sedute per tre riunioni consecutive. </corpo>
+                    </comma>
+                    <comma id="art16-com8">
+                        <num>
+ 
+8.</num>
+                        <corpo> La decadenza è pronunciata dal Presidente della Giunta Regionale. </corpo>
+                    </comma>
+                    <comma id="art16-com9">
+                        <num>
+ 
+9.</num>
+                        <corpo> I componenti se deceduti o dimissionari o decaduti sono sostituiti dal Presidente della Giunta con le procedure precedenti. </corpo>
+                    </comma>
+                    <comma id="art16-com10">
+                        <num>
+ 
+10.</num>
+                        <corpo> Svolge le funzioni di Segretario un funzionario regionale del profilo professionale D) nominato con decreto del Presidente della Giunta Regionale, sentito il Presidente della Commissione. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art17">
+                    <num>Art. 17 </num>
+                    <rubrica>
+ 
+Istituzione sedi e funzioni delle Commissioni Provinciali per l'Artigianato 
+ </rubrica>
+                    <comma id="art17-com1">
+                        <num>
+1.</num>
+                        <corpo> La Commissione provinciale per l'artigianato ha sede presso la Camera di Commercio, Industria, Artigianato e Agricoltura. </corpo>
+                    </comma>
+                    <comma id="art17-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Il supporto di segreteria alla Commissione provinciale è fornito dalla Camera di Commercio, Industria, Artigianato e Agricoltura. </corpo>
+                    </comma>
+                    <comma id="art17-com3">
+                        <num>
+ 
+3.</num>
+                        <alinea> Le Commissioni provinciali per l'artigianato svolgono le seguenti funzioni: 
+ 
+</alinea>
+                        <el id="art17-com3-leta">
+                            <num>a)</num>
+                            <corpo> curano la tenuta dell'Albo provinciale delle imprese artigiane e della sua separata sezione disponendo, per il rispettivo territorio, l'accertamento dei requisiti di legge, le iscrizioni, le variazioni, le cancellazioni anche mediante periodiche revisioni d'ufficio;</corpo>
+                        </el>
+                        <el id="art17-com3-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> formulano pareri e promuovono iniziative per l'aggiornamento tecnologico delle aziende, per la ristrutturazione o riconversione delle attività artigiane e per l'incremento della commercializzazione dei prodotti artigiani;</corpo>
+                        </el>
+                        <el id="art17-com3-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> concorrono con la Commissione regionale per l'artigianato allo svolgimento di indagini, studi, rilevazioni statistiche ed alla predisposizione di documenti sulle attività artigiane anche utilizzando le possibilità derivanti da una idonea gestione dell'Albo ai fini statistici. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art17-com4">
+                        <num>
+ 
+4.</num>
+                        <alinea> Le segreterie delle Commissioni provinciali per l'artigianato provvedono: 
+ 
+</alinea>
+                        <el id="art17-com4-leta">
+                            <num>a)</num>
+                            <corpo> alla tenuta del protocollo delle domande di iscrizione, modificazione e cancellazione dall'Albo provinciale delle imprese artigiane;</corpo>
+                        </el>
+                        <el id="art17-com4-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> agli adempimenti preparatori ed esecutivi relativi alle deliberazioni da assumere dalle Commissioni ed al rilascio delle certificazioni;</corpo>
+                        </el>
+                        <el id="art17-com4-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> alla pubblicità e conservazione degli atti delle Commissioni;</corpo>
+                        </el>
+                        <el id="art17-com4-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> ad ogni altro adempimento connesso alle funzioni ed ai compiti delle Commissioni. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art17-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> Il personale assegnato alle segreterie è alle dipendenze funzionali delle Commissioni provinciali per l'artigianato. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art18">
+                    <num>Art.18 </num>
+                    <rubrica>
+ 
+Diritti di segreteria sugli atti delle Commissioni 
+ </rubrica>
+                    <comma id="art18-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Ai fini della gestione dell'Albo delle imprese artigiane si applicano a favore delle Camere di Commercio, Industria, Artigianato e Agricoltura i diritti di segreteria stabiliti in applicazione dell'<rif xlink:href="urn:nir:stato:legge:1993-12-29;580#art18-com2">art. 18, comma 2, della legge 29 dicembre 1993 n. 580</rif>. </corpo>
+                    </comma>
+                    <comma id="art18-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> L'iscrizione all'Albo delle imprese artigiane è soggetta al pagamento delle tasse di concessione regionale previste dalla legislazione vigente. </corpo>
+                    </comma>
+                    <comma id="art18-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> L'attestazione del relativo versamento effettuato a favore delle Camere di Commercio, Industria, Artigianato e Agricoltura deve essere allegata alla domanda di iscrizione. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art19">
+                    <num>Art.19 </num>
+                    <rubrica>
+ 
+Vigilanza sulle Commissioni Provinciali per l'Artigianato 
+ </rubrica>
+                    <comma id="art19-com1">
+                        <num>
+1.</num>
+                        <corpo> Le Commissioni provinciali per l'artigianato sono sottoposte alla vigilanza della Giunta Regionale che può disporre ispezioni ed inchieste sul loro funzionamento per il tramite del Servizio competente. </corpo>
+                    </comma>
+                    <comma id="art19-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Nel caso di accertata impossibilità di funzionamento di una delle Commissioni provinciali per l'artigianato, di grave disservizio o di reiterate irregolarità, il Presidente della Giunta Regionale, con proprio decreto e previa diffida, nomina un commissario straordinario che esercita provvisoriamente tutte le funzioni della Commissione interessata per la durata stabilita nel decreto di nomina che, in ogni caso, non potrà superare i 12 mesi. Entro lo stesso termine la Commissione deve essere ricostituita. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art20">
+                    <num>Art. 20 </num>
+                    <rubrica>
+ 
+Personale 
+ </rubrica>
+                    <comma id="art20-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Per il personale del ruolo unico regionale che alla data di entrata in vigore della presente legge è funzionalmente assegnato alle Commissioni provinciali per l'artigianato si applica la disciplina di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1999;34#art15">art. 15 della legge regionale n. 34/1999</rif>. </corpo>
+                    </comma>
+                    <comma id="art20-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Per il personale operante ai sensi del <rif xlink:href="urn:nir:stato:decreto.legislativo:1997-12-01;468">Decreto Legislativo 1° dicembre 1997, n. 468</rif>, ed in servizio al 31 dicembre 1999 presso le Commissioni provinciali per l'artigianato, le Camere di Commercio, Industria, Artigianato e Agricoltura subentrano alla Regione per il prosieguo dei progetti in corso ed alla relativa stabilizzazione. Ove non si provveda alla stabilizzazione presso le Camere di Commercio, Industria, Artigianato e Agricoltura, i lavoratori ed il relativo progetto L.S.U. restano di competenza regionale. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art21">
+                    <num>Art. 21 </num>
+                    <rubrica>
+ 
+Sede e composizione della Commissione Regionale per l'Artigianato 
+ </rubrica>
+                    <comma id="art21-com1">
+                        <num>
+1.</num>
+                        <corpo> La Commissione regionale per l'artigianato ha sede presso la Regione ed è costituita con decreto del Presidente della Giunta Regionale. </corpo>
+                    </comma>
+                    <comma id="art21-com2">
+                        <num>
+ 
+2.</num>
+                        <alinea> Essa è composta: 
+ 
+</alinea>
+                        <el id="art21-com2-leta">
+                            <num>a)</num>
+                            <corpo> dai Presidenti delle Commissioni provinciali per l'artigianato del Molise;</corpo>
+                        </el>
+                        <el id="art21-com2-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> da tre rappresentanti della Regione designati dalla Giunta Regionale;</corpo>
+                        </el>
+                        <el id="art21-com2-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> da cinque esperti in materia di artigianato, designati dalle organizzazioni artigiane più rappresentative a struttura nazionale e operanti nella Regione. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art21-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Ad eccezione dei Presidenti delle Commissioni provinciali per l'artigianato, non può far parte della Commissione regionale per l'artigianato chi è già componente di Commissione provinciale per l'artigianato. </corpo>
+                    </comma>
+                    <comma id="art21-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> I componenti eleggono nel proprio seno il presidente ed il vice presidente. </corpo>
+                    </comma>
+                    <comma id="art21-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> Le funzioni di segretario della Commissione regionale per l'artigianato sono svolte da un funzionario regionale. </corpo>
+                    </comma>
+                    <comma id="art21-com6">
+                        <num>
+ 
+6.</num>
+                        <corpo> La Commissione regionale per l'artigianato dura in carica per cinque anni. </corpo>
+                    </comma>
+                    <comma id="art21-com7">
+                        <num>
+ 
+7.</num>
+                        <corpo> Le designazioni dei componenti devono essere comunicate al Presidente della Giunta regionale entro trenta giorni dalla richiesta, trascorsi i quali il Presidente della Giunta regionale può provvedere ugualmente alle nomine in base alle designazioni pervenute. La Commissione è validamente costituita e può funzionare con la nomina di almeno metà più uno dei componenti. </corpo>
+                    </comma>
+                    <comma id="art21-com8">
+                        <num>
+ 
+8.</num>
+                        <corpo> Per la validità delle riunioni della Commissione è necessaria la presenza di almeno la metà più uno dei componenti. Le deliberazioni devono essere adottate a maggioranza dei presenti computando gli astenuti; in caso di parità di voti prevale il voto del presidente. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art22">
+                    <num>Art. 22 </num>
+                    <rubrica>
+ 
+Funzioni della Commissione Regionale per l'Artigianato 
+ </rubrica>
+                    <comma id="art22-com1">
+                        <num>
+1.</num>
+                        <alinea> La Commissione Regionale per l'Artigianato svolge le seguenti funzioni: 
+ 
+</alinea>
+                        <el id="art22-com1-leta">
+                            <num>a)</num>
+                            <corpo> decide in via definitiva sui ricorsi proposti contro le decisioni delle Commissioni provinciali per l'artigianato in materia di tenuta degli Albi provinciali delle imprese artigiane;</corpo>
+                        </el>
+                        <el id="art22-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> esprime pareri sui problemi attinenti all'artigianato sottoposti al suo esame dalla Giunta Regionale;</corpo>
+                        </el>
+                        <el id="art22-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> promuove periodiche indagini conoscitive sulle attività, le caratteristiche e le condizioni dell'artigianato nel Molise;</corpo>
+                        </el>
+                        <el id="art22-com1-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> formula pareri o proposte sui criteri di selezione o di orientamento per la migliore attuazione di iniziative promozionali all'interno e all'estero a favore dell'artigianato molisano;</corpo>
+                        </el>
+                        <el id="art22-com1-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> attua il coordinamento delle attività e delle iniziative delle Commissioni provinciali per l'artigianato anche mediante l'elaborazione di criteri e pareri, qualora ciò si renda necessario per l'uniforme valutazione di casi controversi nel territorio della Regione;</corpo>
+                        </el>
+                        <el id="art22-com1-letf">
+                            <num> 
+ 
+f)</num>
+                            <corpo> svolge gli altri compiti ad essa demandati dalla Giunta Regionale o ad essa attribuiti con legge regionale;</corpo>
+                        </el>
+                        <el id="art22-com1-letg">
+                            <num> 
+ 
+g)</num>
+                            <corpo> può chiamare a partecipare ai propri lavori, per la trattazione di particolari problemi, esperti, funzionari regionali, del credito e di altri Enti; per tale partecipazione non viene corrisposto alcun compenso. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art22-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Per l'istruttoria dei ricorsi e per l'approfondimento di singole questioni, la Commissione regionale per l'artigianato può articolarsi in gruppi di lavoro i quali riferiscono le proprie valutazioni nella seduta plenaria ai fini delle determinazioni collegiali da assumere. </corpo>
+                    </comma>
+                    <comma id="art22-com3">
+                        <num>
+ 
+3.</num>
+                        <alinea> A supporto della Commissione regionale per l'artigianato è costituito un ufficio di segreteria che provvede:  
+ 
+</alinea>
+                        <el id="art22-com3-leta">
+                            <num>a)</num>
+                            <corpo> alla tenuta del protocollo dei ricorsi;</corpo>
+                        </el>
+                        <el id="art22-com3-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> agli adempimenti preparatori ed esecutivi delle relative deliberazioni;</corpo>
+                        </el>
+                        <el id="art22-com3-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> alla pubblicità e alla conservazione degli atti;</corpo>
+                        </el>
+                        <el id="art22-com3-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> agli adempimenti connessi alle funzioni in materia statistica e di programmazione della Commissione, nonché ad ogni altro compito della Commissione stessa. 
+ 
+4 Il personale assegnato alla Segreteria è alle dipendenze funzionali della Commissione. 
+ 
+</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+                <articolo id="art23">
+                    <num>Art.23 </num>
+                    <rubrica>
+ 
+Indennità e rimborsi spese 
+ </rubrica>
+                    <comma id="art23-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Ai componenti delle Commissioni regionali per l'artigianato, estranei all'amministrazione regionale, sono dovute le indennità di presenza previste ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:1983;7">legge regionale n. 7/1983</rif>, allegato A, e successive modificazioni ed integrazioni. È corrisposta altresì ai residenti al di fuori del capoluogo e, comunque, in caso di sopralluogo o accertamenti fuori sede, la indennità di trasferta prevista per i dirigenti regionali. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit5">
+                <num>TITOLO V </num>
+                <rubrica>
+ 
+INTERVENTI PER LA PROMOZIONE E LA QUALIFICAZIONE DEI PRODOTTI E DEI SERVIZI DELL'ARTIGIANATO 
+ 
+</rubrica>
+                <articolo id="art24">
+                    <num>Art.24 </num>
+                    <rubrica>
+ 
+Attività promozionale 
+ </rubrica>
+                    <comma id="art24-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Nel Programma triennale per l'artigianato di cui all'<rif xlink:href="#art4">art. 4</rif> la Regione prevede, ai fini della valorizzazione e commercializzazione dei prodotti delle imprese artigiane singole, associate o consorziate, iniziative specifiche per espandere la presenza dell'artigianato sui mercati interni ed internazionali. </corpo>
+                    </comma>
+                    <comma id="art24-com2">
+                        <num>
+ 
+2.</num>
+                        <alinea> Gli interventi promozionali nel settore possono concernere: 
+ 
+</alinea>
+                        <el id="art24-com2-leta">
+                            <num>a)</num>
+                            <corpo> la consulenza e l'assistenza contrattuale finanziaria e doganale;</corpo>
+                        </el>
+                        <el id="art24-com2-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> la realizzazione e la diffusione di cataloghi, filmati, materiale informatico, destinato a favorire la conoscenza dell'artigianato molisano;</corpo>
+                        </el>
+                        <el id="art24-com2-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> l'effettuazione di indagini e ricerche di mercato ed il collegamento con banche dati, per l'individuazione di mercati e di clienti e la realizzazione di programmi di penetrazione commerciale;</corpo>
+                        </el>
+                        <el id="art24-com2-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> la realizzazione, l'adozione e la diffusione di marchi collettivi di qualità;</corpo>
+                        </el>
+                        <el id="art24-com2-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> la realizzazione di progetti finalizzati alla internazionalizzazione delle imprese e di sostegno alle esportazioni;</corpo>
+                        </el>
+                        <el id="art24-com2-letf">
+                            <num> 
+ 
+f)</num>
+                            <corpo> la valorizzazione di particolari settori produttivi al fine del conseguimento di più elevati livelli competitivi;</corpo>
+                        </el>
+                        <el id="art24-com2-letg">
+                            <num> 
+ 
+g)</num>
+                            <corpo> la partecipazione a mostre, fiere ed altre manifestazioni. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art24-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Le Province, nel Piano attuativo, indicano gli interventi promozionali specificando per ciascuna iniziativa la previsione della spesa, la misura dei contributi e le modalità per la gestione delle attività promozionali. </corpo>
+                    </comma>
+                    <comma id="art24-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Le iniziative sono coordinate dalle Province che le attuano direttamente o in collaborazione o tramite le Camere di Commercio, Industria, Artigianato e Agricoltura, le associazioni di categoria artigiane o i consorzi di imprese artigiane, la Finanziaria regionale (FINMOLISE) o altri soggetti eventualmente individuati con apposita convenzione. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art25">
+                    <num>Art. 25 </num>
+                    <rubrica>
+ 
+Iniziative dirette 
+ </rubrica>
+                    <comma id="art25-com1">
+                        <num>
+1.</num>
+                        <corpo> La Regione può organizzare direttamente, o in collaborazione con l'Istituto con il commercio estero o le Camere di Commercio, Industria, Artigianato e Agricoltura, partecipazioni collettive di imprese artigiane ad esposizioni o rassegne commerciali ritenute particolarmente qualificanti. </corpo>
+                    </comma>
+                    <comma id="art25-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> L'intervento regionale si attua assumendo in carico l'intera quota delle spese di iscrizione, di affitto e di allestimento degli spazi espositivi. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art26">
+                    <num>Art. 26 </num>
+                    <rubrica>
+ 
+Progetti speciali 
+ </rubrica>
+                    <comma id="art26-com1">
+                        <num>
+1.</num>
+                        <corpo> Al fine di assicurare la migliore gestione e finalizzazione degli interventi previsti dalla presente legge, possono essere adottati progetti speciali diretti a realizzare iniziative che si propongono di affrontare le esigenze di sviluppo delle imprese in particolari settori o in specifici ambiti territoriali. </corpo>
+                    </comma>
+                    <comma id="art26-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> I progetti speciali sono approvati dalla Giunta regionale. Essi devono individuare le problematiche del settore o del territorio, le esigenze delle imprese che vi operano, gli obiettivi, i tempi, le modalità e i costi complessivamente previsti per l'attuazione del progetto, i soggetti attuatori, le risorse regionali previste per agevolare l'attuazione ed il limite dell'intervento regionale. </corpo>
+                    </comma>
+                    <comma id="art26-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Per l'elaborazione dei progetti speciali, la Regione può avvalersi di Università, enti o società con provata competenza ed esperienza in materia di sviluppo economico, organizzazione aziendale e marketing. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit6">
+                <num>TITOLO VI </num>
+                <rubrica>
+ 
+INTERVENTI PER LA FORMAZIONE NEL SETTORE DELL'ARTIGIANATO 
+ 
+</rubrica>
+                <articolo id="art27">
+                    <num>Art. 27 </num>
+                    <rubrica>
+ 
+Formazione professionale 
+ </rubrica>
+                    <comma id="art27-com1">
+                        <num>
+1.</num>
+                        <corpo> La Regione, nell'ambito della programmazione delle attività formative, definisce le iniziative da assumere nel comparto dell'artigianato anche sulla base dei dati e degli elementi forniti dalle Commissioni provinciali e regionali per l'artigianato e dalle associazioni di categoria. </corpo>
+                    </comma>
+                    <comma id="art27-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> La Regione favorisce altresì la formazione nel settore anche attraverso il criterio dell'alternanza scuola-lavoro e, al fine di favorire l'occupazione nel settore artigianato, anche attraverso l'incentivazione dei contratti di apprendistato e di formazione-lavoro nonché delle botteghe-scuola. </corpo>
+                    </comma>
+                    <comma id="art27-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Con apposito provvedimento della Giunta Regionale, sentita la Commissione consiliare competente, sono disciplinate le modalità di attuazione della formazione professionale nelle botteghe-scuola. </corpo>
+                    </comma>
+                    <comma id="art27-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Le attività formative sono gestite ed organizzate dalle Amministrazioni provinciali che le attuano attraverso la collaborazione delle imprese singole o associate in possesso dei necessari requisiti preventivamente stabiliti e riconosciuti secondo gli indirizzi impartiti dalla Giunta Regionale. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit7">
+                <num>TITOLO VII </num>
+                <rubrica>
+ 
+INTERVENTI A SOSTEGNO DELLE IMPRESE ARTIGIANE E DELLE LORO FORME ASSOCIATIVE 
+ 
+</rubrica>
+                <articolo id="art28">
+                    <num>Art. 28 </num>
+                    <rubrica>
+ 
+Interventi a sostegno delle Cooperative artigiane di garanzia e dei loro consorzi 
+ </rubrica>
+                    <comma id="art28-com1">
+                        <num>
+1.</num>
+                        <alinea> La Regione Molise promuove la costituzione e lo sviluppo delle cooperative artigiane di garanzia e concorre: 
+ 
+</alinea>
+                        <el id="art28-com1-leta">
+                            <num>a)</num>
+                            <corpo> alla formazione del patrimonio sociale delle cooperative artigiane di garanzia, con la concessione di un contributo di ammontare pari al doppio delle quote sociali effettivamente versate nel corso dell'anno, nel limite massimo di Lire 200.000.000 per anno e per cooperativa, per un periodo non superiore a tre anni. La concessione del contributo avviene su domanda della cooperativa interessata all'Amministrazione Provinciale con le modalità stabilite nel Piano attuativo provinciale;</corpo>
+                        </el>
+                        <el id="art28-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <alinea> alla riduzione dei tassi di interesse sui finanziamenti accordati per credito di esercizio agli artigiani e ai loro consorzi e cooperative. I finanziamenti sono garantiti dalle cooperative artigiane di garanzia nel rispetto dei seguenti criteri e modalità: 
+ 
+</alinea>
+                            <en id="art28-com1-letb-num1">
+                                <num>1)</num>
+                                <corpo> l'ammontare del prestito assistito, per ogni singola impresa, non può superare complessivamente lire 50 milioni nel triennio anche se ottenuto con più operazioni bancarie;</corpo>
+                            </en>
+                            <en id="art28-com1-letb-num2">
+                                <num> 
+ 
+2)</num>
+                                <corpo> il contributo in conto interessi non può essere il 70% del tasso di riferimento;</corpo>
+                            </en>
+                            <en id="art28-com1-letb-num3">
+                                <num> 
+ 
+3)</num>
+                                <corpo> la durata del prestito non può essere superiore a trentasei mesi;</corpo>
+                            </en>
+                            <en id="art28-com1-letb-num4">
+                                <num> 
+ 
+4)</num>
+                                <corpo> il contributo è versato direttamente all'istituto di credito che ha concesso il prestito secondo le modalità stabilite da apposita convenzione da stipularsi fra Province, cooperativa artigiana di garanzia, Istituto di credito e la Finanziaria regionale (FINMOLISE). Fino alla stipula di tale convenzione le Province subentrano alla Regione nelle convenzioni in atto;</corpo>
+                            </en>
+                        </el>
+                        <el id="art28-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> a promuovere la costituzione e lo sviluppo dei consorzi regionali fra cooperative artigiane di garanzia mediante l'erogazione di contributi per la formazione del patrimonio sociale degli stessi, anche per operazioni di fusione di tali enti nell'ambito territoriale della Regione; il contributo è erogato dal l'Amministrazione provinciale secondo i criteri e le modalità fissate nel Piano attuativo provinciale. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art28-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Gli aiuti di cui al punto b) verranno erogati conformemente ai limiti e alle condizioni della regola "de minimis". 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art29">
+                    <num>Art. 29 </num>
+                    <rubrica>
+ 
+Requisiti e modalità per fruire dei contributi 
+ </rubrica>
+                    <comma id="art29-com1">
+                        <num>
+1.</num>
+
+                        <alinea> Sono ammesse a beneficiare delle provvidenze di cui al <rif xlink:href="#art28">precedente art. 28</rif> le cooperative artigiane di garanzia in possesso dei seguenti requisiti: 
+ 
+</alinea>
+                        <el id="art29-com1-leta">
+                            <num>a)</num>
+                            <corpo> essere costituite fra artigiani operanti nel territorio regionale ed avere sede legale nella Regione;</corpo>
+                        </el>
+                        <el id="art29-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> avere un numero di soci non inferiore a 200;</corpo>
+                        </el>
+                        <el id="art29-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> avere un capitale sociale non inferiore a 100.000.000 di lire. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art29-com2">
+                        <num>
+ 
+2.</num>
+                        <alinea> I fondi regionali sono assegnati annualmente dalle Amministrazioni provinciali alle cooperative artigiane di garanzia sulla base dei seguenti parametri: 
+ 
+</alinea>
+                        <el id="art29-com2-leta">
+                            <num>a)</num>
+                            <corpo> numero dei soci, risultante dal libro dei soci aggiornati alla data del 31 dicembre dell'anno precedente;</corpo>
+                        </el>
+                        <el id="art29-com2-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> volume di attività documentato dai bilanci relativi al biennio precedente. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art29-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Le cooperative artigiane di garanzia già costituite all'atto dell'entrata in vigore della presente legge, per fruire delle provvidenze di cu all'<rif xlink:href="#art28">art. 28</rif>, devono uniformare i propri statuti alle prescrizioni della presente legge. </corpo>
+                    </comma>
+                    <comma id="art29-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> L'Amministrazione provinciale periodicamente dispone a campione ispezioni contabili ed amministrative nei confronti delle cooperative artigiane di garanzia e dei loro consorzi al fine di accertare la regolarità delle operazioni di credito effettuate e della gestione amministrativa nonché l'effettiva utilizzazione dei contributi concessi per le finalità previste al momento della loro concessione. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art30">
+                    <num>Art. 30 </num>
+                    <rubrica>
+ 
+Contributi alle imprese artigiane 
+ </rubrica>
+                    <comma id="art30-com1">
+                        <num>
+1.</num>
+                        <alinea> Al fine di promuovere lo sviluppo delle imprese artigiane e l'espansione dei livelli occupazionali sono previste le seguenti forme di intervento: 
+ 
+</alinea>
+                        <el id="art30-com1-leta">
+                            <num>a)</num>
+                            <corpo> contributi in conto capitale;</corpo>
+                        </el>
+                        <el id="art30-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> contributi in conto interessi ed in conto canoni di locazione finanziaria. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art30-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Gli aiuti di cui al <rif xlink:href="#art30-com1">comma 1</rif> sono cumulabili fra di loro purché la somma degli importi agevolati non superi il totale degli investimenti ammessi. </corpo>
+                    </comma>
+                    <comma id="art30-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Gli aiuti non potranno superare i limiti di intensità previsti per la Regione Molise dall'Unione Europea in termini di equivalente sovvenzione netta ad eccezione degli aiuti di cui al comma 2, lettera c), e al <rif xlink:href="#art32-com7">comma 7 dell'art. 32</rif> che verranno erogati conformemente ai limiti ed alle condizioni della regola denominata "de minimis". 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art31">
+                    <num>Art. 31 </num>
+                    <rubrica>
+ 
+Contributi in conto capitale 
+ </rubrica>
+                    <comma id="art31-com1">
+                        <num>
+1.</num>
+                        <alinea> Alle imprese artigiane vengono concessi contributi in conto capitale per i seguenti investimenti: 
+ 
+</alinea>
+                        <el id="art31-com1-leta">
+                            <num>a)</num>
+                            <corpo> acquisto, costruzione, ampliamento, ammodernamento di immobili pertinenti alle attività artigiane;</corpo>
+                        </el>
+                        <el id="art31-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> acquisto di macchinari ed attrezzature atti ad assicurare il miglioramento e l'aumento della produzione;</corpo>
+                        </el>
+                        <el id="art31-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> impianti per servizi generali;</corpo>
+                        </el>
+                        <el id="art31-com1-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> costruzioni di locali, annessi a quelli della produzione, per piccole mostre di prodotti. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art31-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> I contributi relativi agli investimenti di cui al <rif xlink:href="#art31-com1">comma 1</rif> non possono essere estesi al valore del terreno. </corpo>
+                    </comma>
+                    <comma id="art31-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> L'ammontare dei contributi, nei limiti di cui al <rif xlink:href="#art30-com3">comma 3 dell'art. 30</rif>, è determinato nel Programma triennale. </corpo>
+                    </comma>
+                    <comma id="art31-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> I contributi sono concessi dall'Amministrazione provinciale, in attuazione degli indirizzi programmatici regionali e secondo i criteri e le modalità previsti dal Piano annuale provinciale. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art32">
+                    <num>Art. 32 </num>
+                    <rubrica>
+ 
+Contributi in conto interesse e in conto canoni di locazione finanziaria 
+ </rubrica>
+                    <comma id="art32-com1">
+                        <num>
+1.</num>
+                        <alinea> La Regione Molise assegna conferimenti alla Cassa per il Credito delle imprese artigiane da utilizzare per: 
+ 
+</alinea>
+                        <el id="art32-com1-leta">
+                            <num>a)</num>
+
+                            <corpo> la riduzione sui tassi di interesse sulla parte di finanziamento eccedente quella agevolabile con i contributi statali in conformità a quanto stabilito dall'<rif xlink:href="urn:nir:stato:legge:1952-07-25;949#art37">art. 37 della legge 25 luglio 1952, n. 949</rif>, e successive modificazioni ed integrazioni;</corpo>
+                        </el>
+                        <el id="art32-com1-letb">
+                            <num> 
+ 
+b)</num>
+
+                            <corpo> la riduzione dei canoni di locazione finanziaria previsti dalla <rif
+                                    xlink:href="urn:nir:stato:legge:1981-05-21;240">legge 21 maggio 1981, n. 240</rif>, nella parte di finanziamento eccedente quello agevolabile con i contributi statali. Il contributo in conto canoni è calcolato nella misura equivalente al contributo in conto interessi spettante ad una corrispondente operazione effettuata ai sensi della <rif xlink:href="urn:nir:stato:legge:1952;949">legge n. 949/1952</rif> e successive modificazioni ed integrazioni. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art32-com2">
+                        <num>
+ 
+2.</num>
+                        <alinea> Gli investimenti ammessi a beneficiare del mutuo a tasso agevolato di cui al comma precedente sono i seguenti: 
+ 
+</alinea>
+                        <el id="art32-com2-leta">
+                            <num>a)</num>
+                            <corpo> acquisto, costruzione, ampliamento e riattamento di immobili adibiti ad attività produttive;</corpo>
+                        </el>
+                        <el id="art32-com2-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> acquisto di macchinari ed attrezzature atti ad assicurare il miglioramento e l'aumento della produzione;</corpo>
+                        </el>
+                        <el id="art32-com2-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> acquisti per la formazione di scorte di materie prime e di prodotti finiti;</corpo>
+                        </el>
+                        <el id="art32-com2-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> acquisto dei suoli necessari agli investimenti. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art32-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Le domande per l'accesso alle agevolazioni di cui al <rif
+                                xlink:href="#art32-com1">comma 1</rif> devono essere presentate alla Cassa per il Credito delle imprese artigiane, che provvede all'istruttoria delle richieste, con le modalità previste dalla <rif xlink:href="urn:nir:stato:legge:1952;949">legge n. 949/1952</rif>, e successive modificazioni ed integrazioni. </corpo>
+                    </comma>
+                    <comma id="art32-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> La Cassa per il Credito delle imprese artigiane vigila, anche attraverso la Finanziaria regionale (FINMOLISE), gli istituiti e le aziende di credito finanziatori, sulla effettiva destinazione dei finanziamenti agevolati e sulla loro rispondenza alle finalità pubbliche perseguite. </corpo>
+                    </comma>
+                    <comma id="art32-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> I rapporti tra la Regione Molise e la Cassa per il Credito delle imprese artigiane sono regolati da una convenzione approvata dalla Giunta Regionale, che prevede fra l'altro le modalità di erogazione dei conferimenti regionali e la presentazione di un apposito rendiconto delle erogazioni effettuate in ogni esercizio. </corpo>
+                    </comma>
+                    <comma id="art32-com6">
+                        <num>
+ 
+6.</num>
+                        <corpo> Negli esercizi successivi possono essere utilizzati dalla Cassa per il Credito delle imprese artigiane le somme conferite e gli interessi maturati e non impegnati nell'esercizio precedente. </corpo>
+                    </comma>
+                    <comma id="art32-com7">
+                        <num>
+ 
+7.</num>
+                        <corpo> I conferimenti di cui al <rif xlink:href="#art32-com1">comma 1</rif> possono essere destinati anche all'abbattimento del tasso di interesse previsto per gli interventi finanziari della Cassa per il credito delle imprese artigiane. </corpo>
+                    </comma>
+                    <comma id="art32-com8">
+                        <num>
+ 
+8.</num>
+                        <corpo> L'abbattimento del tasso è fissato nella misura del 40% del tasso praticato dalla Cassa per il credito delle imprese artigiane. Tale misura può essere modificata con provvedimento della Giunta regionale su proposta del l'assessore competente. </corpo>
+                    </comma>
+                    <comma id="art32-com9">
+                        <num>
+ 
+9.</num>
+                        <corpo> Nel programma triennale regionale sono fissati i criteri e le modalità per la concessione dei contributi. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit8">
+                <num>TITOLO VIII </num>
+                <rubrica>
+ 
+SALVAGUARDIA AMBIENTALE E DEI LUOGHI DI LAVORO 
+ 
+CONTRIBUTI STRAORDINARI E DISPOSIZIONI COMUNI 
+ 
+</rubrica>
+                <articolo id="art33">
+                    <num>Art. 33 </num>
+                    <rubrica>
+ 
+Salvaguardia ambientale e risanamento degli ambienti di lavoro 
+ </rubrica>
+                    <comma id="art33-com1">
+                        <num>
+1.</num>
+                        <corpo> La Regione interviene per promuovere il risanamento degli ambienti di lavoro, il controllo e l'abbattimento dell'inquinamento prodotto dalle imprese artigiane, la salvaguardia e la valorizzazione delle realtà ambientali, in coerenza con le direttive comunitarie e con le leggi nazionali e regionali sulla tutela dell'ambiente. </corpo>
+                    </comma>
+                    <comma id="art33-com2">
+                        <num>
+ 
+2.</num>
+                        <alinea> A tal fine, sono concessi dalle Province alle imprese artigiane singole associate o consorziate contributi per i seguenti interventi: 
+ 
+</alinea>
+                        <el id="art33-com2-leta">
+                            <num>a)</num>
+                            <corpo> studi per la valutazione dell'impatto sull'ambiente delle attività produttive e per l'applicazione delle tecnologie idonee alla soluzione dei relativi problemi;</corpo>
+                        </el>
+                        <el id="art33-com2-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> introduzione di tecnologie pulite per la riduzione di rifiuti pericolosi;</corpo>
+                        </el>
+                        <el id="art33-com2-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> progettazione, creazione, acquisizione e installazione di impianti di depurazione e tecnologici validi per il controllo e l'abbattimento delle emissioni inquinanti in atmosfera, sia all'interno che all'esterno del ciclo produttivo delle aziende e di riciclo o riuso di acque reflue provenienti dal ciclo produttivo;</corpo>
+                        </el>
+                        <el id="art33-com2-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> iniziative volte al recupero e al riutilizzo degli scarti di lavorazione ai fini produttivi ed energetici;</corpo>
+                        </el>
+                        <el id="art33-com2-lete">
+                            <num> 
+ 
+e)</num>
+
+                            <corpo> interventi per la tutela della salute e della sicurezza nei luoghi di lavoro ai sensi del <rif xlink:href="urn:nir:stato:decreto.legislativo:1994;626">Decreto Legislativo n. 626/1994</rif>;</corpo>
+                        </el>
+                        <el id="art33-com2-letf">
+                            <num> 
+ 
+f)</num>
+                            <corpo> interventi per la riduzione del fabbisogno energetico. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art33-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> I contributi per la realizzazione degli interventi di cui al <rif xlink:href="#art33-com2">comma 2</rif> sono concessi con i criteri e le modalità che saranno stabiliti nel Programma triennale nei limiti previsti per la Regione Molise dall'Unione Europea in termini di equivalente sovvenzione netta. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art34">
+                    <num>Art. 34 </num>
+                    <rubrica>
+ 
+Calamità naturali 
+ </rubrica>
+                    <comma id="art34-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La Regione delibera interventi urgenti a favore delle imprese artigiane, singole o associate, nei casi in cui con riferimento al territorio della Regione Molise sia stato deliberato dal Consiglio dei Ministri, con le procedure di cui all'<rif xlink:href="urn:nir:stato:legge:1992;225#art5">art. 5 della legge n. 225/1992</rif>, lo stato di emergenza; ovvero sia stata dichiarata dalla Regione l'esistenza di eccezionale calamità o avversità atmosferica. </corpo>
+                    </comma>
+                    <comma id="art34-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Alle imprese artigiane, danneggiate in conseguenza degli eventi previsti nel <rif xlink:href="#art34-com1">comma 1</rif>, possono essere erogati contributi in conto capitale, nei limiti della disponibilità di bilancio, fino al 30% della spesa occorrente per il ripristino delle strutture aziendali danneggiate o per l'acquisto di macchine, in sostituzione di altri distrutti o per la riparazione di macchinari e di attrezzature danneggiati, fino ad un contributo massimo di Lire 100.000.000. </corpo>
+                    </comma>
+                    <comma id="art34-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> I criteri e le modalità per l'ammissione delle domande e l'erogazione del contributo sono stabiliti dalla Giunta Regionale con apposito provvedimento in occasione dell'evento dannoso. </corpo>
+                    </comma>
+                    <comma id="art34-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Gli aiuti di cui al <rif xlink:href="#art34-com2">comma 2</rif> non potranno superare i limiti d'intensità previsti per la Regione Molise dall'Unione Europea in termini di equivalente sovvenzione netta. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art35">
+                    <num>Art. 35 </num>
+                    <rubrica>
+ 
+Disposizioni comuni 
+ </rubrica>
+                    <comma id="art35-com1">
+                        <num>
+1.</num>
+                        <corpo> I benefici previsti dalla presente legge non sono cumulabili con quelli previsti per le stesse finalità da altre norme regionali, statali e comunitarie. </corpo>
+                    </comma>
+                    <comma id="art35-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Le opere realizzate e i beni acquistati con i contributi previsti dalla presente legge sono sottoposti a vincolo di destinazione settennale per gli immobili e triennale per i macchinari e le attrezzature. </corpo>
+                    </comma>
+                    <comma id="art35-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Gli interventi finanziari previsti dalla presente legge sono revocati qualora venga accertata la mancata o parziale realizzazione dei relativi progetti, ovvero l'utilizzo in proprio dei fondi erogati o il mancato rispetto del vincolo di destinazione di cui al <rif xlink:href="#art35-com2">comma 2</rif>. </corpo>
+                    </comma>
+                    <comma id="art35-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Contestualmente alla revoca, viene disposto il recupero delle somme erogate, maggiorate degli interessi legali e del danno per svalutazione monetaria calcolati a far tempo dalla data di erogazione. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit9">
+                <num>TITOLO IX </num>
+                <rubrica>
+ 
+ARTIGIANATO ARTISTICO E TRADIZIONALE 
+ 
+</rubrica>
+                <articolo id="art36">
+                    <num>Art. 36 </num>
+                    <rubrica>
+ 
+Finalità 
+ </rubrica>
+                    <comma id="art36-com1">
+                        <num>
+1.</num>
+                        <alinea> La Regione persegue le seguenti finalità nel settore dell'artigianato artistico e tradizionale: 
+ 
+</alinea>
+                        <el id="art36-com1-leta">
+                            <num>a)</num>
+                            <corpo> tutela dei requisiti di professionalità e di origine delle produzioni dell'artigianato artistico e tipico;</corpo>
+                        </el>
+                        <el id="art36-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> qualificazione e innovazione delle lavorazioni attuate sotto il profilo stilistico, tecnologico, dei materiali e dei processi utilizzati;</corpo>
+                        </el>
+                        <el id="art36-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> acquisizione di documentazioni concernenti le origini, lo sviluppo storico ed i percorsi evolutivi delle lavorazioni;</corpo>
+                        </el>
+                        <el id="art36-com1-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> sostegno alla creazione e allo sviluppo di nuove imprese tramite progetti di recupero e rivitalizzazione di attività tradizionali o artistiche locali;</corpo>
+                        </el>
+                        <el id="art36-com1-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> istituzione del museo regionale dell'artigianato artistico e tipico;</corpo>
+                        </el>
+                        <el id="art36-com1-letf">
+                            <num> 
+ 
+f)</num>
+                            <corpo> realizzazione di rassegne ed esposizione tematiche di manufatti artistici e tradizionali; 
+ 
+</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+                <articolo id="art37">
+                    <num>Art. 37 </num>
+                    <rubrica>
+ 
+Settori tutelati 
+ </rubrica>
+                    <comma id="art37-com1">
+                        <num>
+1.</num>
+                        <corpo> Sono considerate produzioni dell'artigianato artistico e tradizionale, ai fini della presente legge, quelle effettuate secondo forme tecniche e stili che costituiscono il patrimonio culturale e storico della Regione, tenendo conto delle innovazioni che, nel compatibile rispetto della tradizione, da questa prendono ispirazione, avvio e qualificazione. </corpo>
+                    </comma>
+                    <comma id="art37-com2">
+                        <num>
+ 
+2.</num>
+                        <alinea> I settori dell'artigianato artistico e tradizionale tutelati sono: 
+ 
+</alinea>
+                        <el id="art37-com2-leta">
+                            <num>a)</num>
+                            <corpo> legno;</corpo>
+                        </el>
+                        <el id="art37-com2-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> metalli comuni, metalli pregiati, lavorazione delle pietre dure;</corpo>
+                        </el>
+                        <el id="art37-com2-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> strumenti musicali;</corpo>
+                        </el>
+                        <el id="art37-com2-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> ceramica e terracotta;</corpo>
+                        </el>
+                        <el id="art37-com2-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> vetro;</corpo>
+                        </el>
+                        <el id="art37-com2-letf">
+                            <num> 
+ 
+f)</num>
+                            <corpo> pietra e affini;</corpo>
+                        </el>
+                        <el id="art37-com2-letg">
+                            <num> 
+ 
+g)</num>
+                            <corpo> pelle e cuoio;</corpo>
+                        </el>
+                        <el id="art37-com2-leth">
+                            <num> 
+ 
+h)</num>
+                            <corpo> paglia;</corpo>
+                        </el>
+                        <el id="art37-com2-leti">
+                            <num> 
+ 
+i)</num>
+                            <corpo> tessitura e ricamo. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art37-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Ulteriori settori possono essere individuati dalla Giunta Regionale, su proposta del Comitato regionale per la tutela delle lavorazioni artistiche di cui all'<rif xlink:href="#art41">art. 41</rif>. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art38">
+                    <num>Art. 38 </num>
+                    <rubrica>
+ 
+Contrassegno 
+ </rubrica>
+                    <comma id="art38-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Al fine di tutelare le produzioni artigiane di alto interesse artistico e tradizionale la Regione promuove, nel rispetto delle disposizioni nazionali e comunitarie vigenti, il contrassegno delle produzioni artigiane artistiche e tradizionali indicante l'origine e la qualità del prodotto individuate nei disciplinari di cui all'<rif xlink:href="#art40">art. 40</rif>. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art39">
+                    <num>Art.39 </num>
+                    <rubrica>
+ 
+Registro dell'artigianato artistico 
+ </rubrica>
+                    <comma id="art39-com1">
+                        <num>
+1.</num>
+                        <corpo> Presso le Camere di Commercio, Industria, Artigianato e Agricoltura è istituito il Registro delle imprese del settore artistico e tradizionale. </corpo>
+                    </comma>
+                    <comma id="art39-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Sono iscrivibili nel Registro di cui al <rif xlink:href="#art39-com1">comma 1</rif> le imprese artigiane in possesso dei requisiti previsti dalla normativa vigente la cui produzione sia riconducibile, per tipologia carattere e qualità dei requisiti, alla prescrizione codificata per ciascun settore di attività dal rispettivo disciplinare. </corpo>
+                    </comma>
+                    <comma id="art39-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Le iscrizioni e le cancellazioni dal Registro sono disposte dalle Commissioni provinciali per l'artigianato, previo parere del Comitato di cui all'<rif xlink:href="#art41">art. 41</rif>. </corpo>
+                    </comma>
+                    <comma id="art39-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> La Giunta Regionale adotta le norme per il funzionamento del Registro con un provvedimento da emanarsi entro 3 mesi dall'entrata in vigore della presente legge. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art40">
+                    <num>Art.40 </num>
+                    <rubrica>
+ 
+Disciplinari di produzione 
+ </rubrica>
+                    <comma id="art40-com1">
+                        <num>
+1.</num>
+
+                        <corpo> I disciplinari di produzione approvati dalla Giunta Regionale su proposta del Comitato di cui all'<rif xlink:href="#art41">art. 41</rif>, definiscono e descrivono, per ciascun settore dell'attività artistica, i caratteri fondamentali della produzione, con particolare riferimento a modelli, forme, stili e decori che costituiscono gli elementi tipici del patrimonio storico e culturale delle tradizioni produttive consolidatesi a livello locale, alle tecniche di lavorazione e produzione, ai materiali usati, nonché i criteri di valutazioni di quelle forme innovative che costituiscono il naturale sviluppo ed aggiornamento dei modelli, delle tecniche e degli stili tradizionali. </corpo>
+                    </comma>
+                    <comma id="art40-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> I disciplinari, tenendo conto della apologia del prodotto, indicano altresì le soluzioni per l'apposizione del contrassegno. </corpo>
+                    </comma>
+                    <comma id="art40-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> I disciplinari sono definiti dal Comitato di cui all'<rif xlink:href="#art41">art. 41</rif>, sono approvati dalla Giunta Regionale e pubblicati sul Bollettino Ufficiale della Regione Molise. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art41">
+                    <num>Art. 41 </num>
+                    <rubrica>
+ 
+Comitato regionale per la tutela dell'artigianato artistico e tradizionale 
+ </rubrica>
+                    <comma id="art41-com1">
+                        <num>
+1.</num>
+                        <corpo> Allo scopo di perseguire le finalità del presente titolo in maniera omogenea a livello regionale, è istituito il Comitato regionale per la tutela dell'artigianato artistico e tradizionale. </corpo>
+                    </comma>
+                    <comma id="art41-com2">
+                        <num>
+ 
+2.</num>
+                        <alinea> Il Comitato è istituito con decreto del Presidente della Giunta Regionale, dura in carica per il periodo della legislatura ed è composto da: 
+ 
+</alinea>
+                        <el id="art41-com2-leta">
+                            <num>a)</num>
+                            <corpo> un esperto designato dalla Giunta Regionale che lo presiede;</corpo>
+                        </el>
+                        <el id="art41-com2-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> il Presidente della Commissione Regionale dell'artigianato;</corpo>
+                        </el>
+                        <el id="art41-com2-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> il Responsabile del Servizio regionale competente;</corpo>
+                        </el>
+                        <el id="art41-com2-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> tre componenti designati d'intesa dalle Associazioni artigiane di categoria, più rappresentative a livello nazionale, presenti in Regione;</corpo>
+                        </el>
+                        <el id="art41-com2-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> due esperti designati, rispettivamente, dalle Commissioni Provinciali per l'Artigianato di Campobasso e di Isernia;</corpo>
+                        </el>
+                        <el id="art41-com2-letf">
+                            <num> 
+ 
+f)</num>
+                            <corpo> un componente designato in rappresentanza della Unione delle Camere di Commercio. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art41-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Svolge le funzioni di segretario un funzionario regionale. </corpo>
+                    </comma>
+                    <comma id="art41-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Ai membri del Comitato, esterni all'apparato regionale, è riconosciuta una indennità di presenza di rimborso spese, se dovuti, nella misura stabilita per la Commissione Regionale per l'Artigianato. </corpo>
+                    </comma>
+                    <comma id="art41-com5">
+                        <num>
+ 
+5.</num>
+                        <alinea> Il Comitato svolge i seguenti compiti: 
+ 
+</alinea>
+                        <el id="art41-com5-leta">
+                            <num>a)</num>
+                            <corpo> individua e propone, per il successivo riconoscimento da parte della Giunta Regionale, le singole tipologie produttive ammissibili alla tutela, sulla base del patrimonio storico e culturale e delle produzioni tradizionali di natura artistica, consolidatesi a livello territoriale;</corpo>
+                        </el>
+                        <el id="art41-com5-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> definisce i disciplinari di produzione per le singole tipologie produttive, procedendo anche alla loro variazione ed aggiornamento, ed elabora il relativo contrassegno;</corpo>
+                        </el>
+                        <el id="art41-com5-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> collabora alle iniziative di studio e promozione dirette a conseguire il miglioramento e la divulgazione delle produzioni tutelate, concorrendo, in Italia ed all'estero, alla tutela ed alla promozione delle medesime, d'intesa con gli enti locali ed ogni altro ente od organismo interessato;</corpo>
+                        </el>
+                        <el id="art41-com5-letd">
+                            <num> 
+ 
+d)</num>
+
+                            <corpo> svolge gli altri compiti che vengano ad esso affidati dalla Regione: 
+ 
+e) esamina le domande di iscrizione nel Registro di cui al <rif
+                                    xlink:href="#art39-com1">comma 1 dell'art. 39</rif>, ed esprime parere motivato alla Commissione provinciale; 
+ 
+f) accerta, ai fini dell'iscrizione nel Registro, la rispondenza della produzione assoggettabile a tutela, alle norme previste dal disciplinare di produzione; 
+ 
+g) propone alla Giunta Regionale gli artigiani cui conferire il titolo di "Maestro Artigiano" previo accertamento dei requisiti ai sensi del <rif
+                                    xlink:href="#art43">successivo art. 43</rif>; 
+ 
+h) formula proposte alla Giunta Regionale per gli interventi da prevedere nel programma triennale; 
+ 
+i) formula proposte per l'eventuale istituzione e per il funzionamento del museo di cui all'<rif xlink:href="#art36-com1">articolo 36, comma 1</rif>, lett.</corpo><?error Marker Warning 102 (last lettera:4 next:6)?>
+                        </el>
+                        <el id="art41-com5-lete">
+                            <num> e)</num>
+                            <corpo>. 
+ 
+</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+                <articolo id="art42">
+                    <num>Art. 42 </num>
+                    <rubrica>
+ 
+Bottega scuola 
+ </rubrica>
+                    <comma id="art42-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Al fine di sostenere la qualificazione ed il rilancio delle attività tutelate ed allo scopo di incentivare l'avviamento dei giovani al lavoro e di promuovere lo sviluppo della professionalità dei lavoratori nelle imprese dell'artigianato artistico, la Regione in conformità ai principi previsti dall'<rif xlink:href="urn:nir:stato:legge:1985-08-08;443#art8">art. 8 della legge 8 agosto 1985, n. 443</rif>, riconosce la qualifica di "bottega-scuola" alle imprese artigiane, che ne facciano richiesta, appartenenti al settore delle lavorazioni artistiche e tradizionali da almeno 5 anni e le riconosce come soggetti cui prioritariamente affidare, nel rispetto della vigente legislatura, le attività di formazione ed aggiornamento professionale. </corpo>
+                    </comma>
+                    <comma id="art42-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> La "bottega-scuola" deve essere diretta e gestita personalmente dal titolare in possesso della qualifica di "maestro artigiano" di cui al <rif xlink:href="#art43">successivo articolo 43</rif> e deve risultare adeguatamente attrezzata sotto il profilo tecnico didattico e ambientale, anche al fine di assicurare lo svolgimento dell'attività formativa in conformità alle disposizioni vigenti e secondo le modalità e le condizioni stabilite nelle convenzioni stipulate con la Regione. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art43">
+                    <num>Art. 43 </num>
+                    <rubrica>
+ 
+Maestro Artigiano 
+ </rubrica>
+                    <comma id="art43-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Il titolo di "Maestro Artigiano" è conferito dalla Giunta Regionale su proposta del Comitato di cui all'<rif xlink:href="#art41">art. 41</rif> ai titolari di imprese artigiane, ovvero ai soci che partecipano personalmente all'attività. </corpo>
+                    </comma>
+                    <comma id="art43-com2">
+                        <num>
+ 
+2.</num>
+                        <alinea> I requisiti per tale conferimento sono: 
+ 
+</alinea>
+                        <el id="art43-com2-leta">
+                            <num>a)</num>
+                            <corpo> iscrizione dell'impresa nel registro delle produzioni artistiche e tipiche;</corpo>
+                        </el>
+                        <el id="art43-com2-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> anzianità professionale almeno quinquennale maturata nell'esercizio dell'impresa o anche nello svolgimento dell'attività in forma subordinata professionalmente qualificata;</corpo>
+                        </el>
+                        <el id="art43-com2-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> adeguato grado di capacità professionale, desumibile dal conseguimento di premi, titoli di studio o diplomi o dall'esecuzione di saggi di lavoro o, anche, da specifica e notoria perizia e competenza o dallo svolgimento di attività formative, nonché da ogni altro elemento che possa comprovare specifica competenza, perizia ed attitudine all'insegnamento professionale. 
+ 
+</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+                <articolo id="art44">
+                    <num>Art. 44 </num>
+                    <rubrica>
+ 
+Disposizioni finanziarie 
+ </rubrica>
+                    <comma id="art44-com1">
+                        <num>
+1.</num>
+                        <corpo> Agli oneri derivanti dall'attuazione della presente legge si farà fronte mediante l'istituzione di appositi capitoli di spesa con legge di approvazione del Bilancio per l'esercizio finanziario 2000 o con successiva legge di variazione. </corpo>
+                    </comma>
+                    <comma id="art44-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Relativamente agli esercizi finanziari 2001 e successivi si provvederà con le rispettive leggi di approvazione del Bilancio. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art45">
+                    <num>Art. 45 </num>
+                    <rubrica>
+ 
+Abrogazioni 
+ </rubrica>
+                    <comma id="art45-com1">
+                        <num>
+1.</num>
+                        <corpo>
+                            <mod
+                                    id="art45-com1-mod1"> È abrogata la <rif
+                                    xlink:href="urn:nir:regione.molise:legge:1988-07-22;16">legge regionale 22 luglio 1988, n. 16</rif>, ad oggetto: "<virgolette
+                                    id="art45-com1-mod1-vir7" tipo="parola">Norme per la tenuta degli albi delle imprese artigiane e disciplina delle Commissioni provinciali e regionali dell'artigianato</virgolette>". 
+ 
+</mod>
+                        </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art46">
+                    <num>Art. 46 </num>
+                    <rubrica>
+ 
+Adempimenti comunitari 
+ </rubrica>
+                    <comma id="art46-com1">
+                        <num>
+1.</num>
+                        <corpo> Le disposizioni della presente legge, che costituiscono regime d'aiuto alle imprese, sono efficaci a decorrere dal giorno successivo a quello di pubblicazione nel Bollettino Ufficiale della Regione Molise del parere favorevole della Commissione dell'Unione Europea emesso in esito a procedura di notifica. 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

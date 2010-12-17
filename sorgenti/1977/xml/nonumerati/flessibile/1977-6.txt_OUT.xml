@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19771231" num="24" tipo="BURM"/>
+                <entratainvigore norm="19780115"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1977-12-21;48"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 11.Enti locali, comunit&#xE0; montane 
+14.Governo del territorio, urbanistica, edilizia 
+ 
+Bollettino 
+Bollettino Ufficiale n. 24 del 31/12/77 
+ 
+Oggetto 
+Comprensori - Istituzione - Organizzazione - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>del <dataDoc norm="19771221">21 Dicembre 1977</dataDoc>, n. <numDoc>48</numDoc>
+            <titoloDoc>Istituzione dei comprensori nella Regione Molise 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: FINALITÀ 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo> 
+La Regione Molise, in attuazione dei principi contenuti negli articoli 3, 59 e 61 del proprio <rif xlink:href="urn:nir:regione.molise:statuto:">statuto</rif>, ripartisce il territorio regionale in comprensori, quali ambiti territoriali unitari di programmazione e di pianificazione. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+                <rubrica>: DELIMITAZIONE 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <alinea> 
+Il Consiglio Regionale approva con legge la delimitazione dei Comprensori di cui all'articolo precedente, con le procedure di cui al <rif xlink:href="#art3">successivo articolo 3</rif>, in modo che nel rispetto delle  attribuzioni proprie dei Comuni, delle Province e delle Comunità Montane: 
+ 
+</alinea>
+                    <el id="art2-com1-leta">
+                        <num>a)</num>
+                        <corpo> consentano il riequilibrio tra le diverse zone della regione e comprendano aree con caratteristiche e possibilità economiche diverse;</corpo>
+                    </el>
+                    <el id="art2-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> corrispondano ad aree nelle quali è possibile e conveniente localizzare la maggior parte delle attività economiche e dei servizi sociali, ai quali può accedere una data popolazione;</corpo>
+                    </el>
+                    <el id="art2-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> abbiano una estensione territoriale adeguata alle esigenze della programmazione economica e dell'assetto territoriale;</corpo>
+                    </el>
+                    <el id="art2-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> comprendano l'intero territorio di un Comune e di una o più Comunità Montane e salvaguardino, per quanto possibile, gli ambiti territoriali degli altri Organismi sub-regionali;</corpo>
+                    </el>
+                    <el id="art2-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> garantiscano un'ampia ed articolata partecipazione della popolazione alla definizione ed alla gestione delle scelte programmatiche coordinando i diversi livelli di decisione;</corpo>
+                    </el>
+                    <el id="art2-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> aggreghino i Comuni in modo da non frazionare il territorio e collegando lo sviluppo dei centri minori alle strutture urbane più consistenti;</corpo>
+                    </el>
+                    <el id="art2-com1-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> verifichino la validità delle attuali perimetrazioni delle Comunità Montane, operando eventuali miglioramenti. </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3</num>
+                <rubrica>: ATTUAZIONE 
+</rubrica>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo> 
+Entro centoventi giorni dall'entrata in vigore della presente legge, la Giunta Regionale, d'intesa con la competente Commissione Consiliare, predispone una proposta di massima di articolazione del territorio regionale in comprensori. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <corpo>Nei sessanta giorni successivi alla pubblicazione del provvedimento di Giunta sul Bollettino Ufficiale della Regione, le Province territorialmente interessate, le Comunità Montane e i Comuni fanno pervenire i propri pareri alla Giunta Regionale. </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num/>
+
+                    <corpo>La Giunta Regionale, nei trenta giorni successivi al termine di cui al precedente comma, trasmette al Consiglio Regionale perché deliberi ai sensi del <rif xlink:href="#art2">precedente articolo 2</rif>, la proposta   definitiva di delimitazione dei comprensori, insieme ai pareri acquisiti dagli enti innanzi individuati. </corpo>
+                </comma>
+                <comma id="art3-com4">
+                    <num/>
+
+                    <corpo>La legge regionale di delimitazione dei comprensori in applicazione del criterio riportato al punto g) dell'<rif xlink:href="#art2">art. 2</rif> modifica i confini delle comunità montane interessate. </corpo>
+                </comma>
+                <comma id="art3-com5">
+                    <num/>
+                    <corpo>Le stesse procedure sono seguite per ogni eventuale modifica all'articolazione comprensoriale richiesta da esigenze di programmazione regionale. </corpo>
+                </comma>
+                <comma id="art3-com6">
+                    <num/>
+                    <corpo>L'ambito territoriale di ogni attività amministrativa regionale dovrà essere congruente con il comprensorio. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+                <rubrica>: ATTIVITÀ 
+</rubrica>
+                <comma id="art4-com1">
+                    <num/>
+                    <alinea> 
+L'organismo comprensoriale: 
+ 
+</alinea>
+                    <el id="art4-com1-leta">
+                        <num>a)</num>
+                        <corpo> partecipa alla formazione ed all'aggiornamento del programma di sviluppo socio-economico regionale, ed ai programmi ed ai piani generali e settoriali della Regione, formulando pareri e proposte;</corpo>
+                    </el>
+                    <el id="art4-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> adotta, in armonia con le indicazioni programmatiche regionali, il piano di sviluppo socio-economico ed il piano territoriale del comprensorio;</corpo>
+                    </el>
+                    <el id="art4-com1-letc">
+                        <num> 
+ 
+c)</num>
+
+                        <corpo> esprime pareri sulla conformità a piani di cui alla <rif xlink:href="#art4-com1-letb">lettera b)</rif> dei programmi di intervento e delle opere di rilevanza comprensoriale di competenza degli enti locali;</corpo>
+                    </el>
+                    <el id="art4-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> trasmette alla Regione relazioni periodiche sullo stato di attuazione dei piani e di ogni altro intervento connesso con l'ambito comprensoriale;</corpo>
+                    </el>
+                    <el id="art4-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> promuove la partecipazione delle forze sociali, sindacali ed economiche alla vita del comprensorio e degli enti locali ivi rappresentati;</corpo>
+                    </el>
+                    <el id="art4-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> garantisce la più ampia informazione sulla propria attività, attraverso la pubblicità delle sedute e l'uso degli organi di informazione;</corpo>
+                    </el>
+                    <el id="art4-com1-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> assicura l'esercizio di ogni altra attribuzione ad esso comunque derivante;</corpo>
+                    </el>
+                    <el id="art4-com1-leth">
+                        <num> 
+ 
+h)</num>
+
+                        <corpo> coordina i servizi sociali e scolastici, sulla base della programmazione ospedaliera e delle indicazioni dei distretti scolastici, nel rispetto delle disposizioni contenute nel <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616">Decreto del Presidente della Repubblica n.616 del 24 luglio 1977</rif>. </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+                <rubrica>: ORGANI 
+</rubrica>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo> 
+In ciascun comprensorio è istituito un organismo comprensoriale, che si articola in un'assemblea, un comitato esecutivo ed un presidente. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6</num>
+                <rubrica>: ASSEMBLEA 
+</rubrica>
+                <comma id="art6-com1">
+                    <num/>
+                    <alinea> 
+Sono membri di diritto dell'Assemblea Comprensoriale: 
+ 
+</alinea>
+                    <el id="art6-com1-leta">
+                        <num>a)</num>
+                        <corpo> il Presidente di ciascuna Provincia il cui territorio ricada anche parzialmente nel Comprensorio;</corpo>
+                    </el>
+                    <el id="art6-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> i componenti del Consiglio delle Comunità Montane, ricomprese nel territorio del Comprensorio;</corpo>
+                    </el>
+                    <el id="art6-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> i sindaci dei Comuni non facenti parte di Comunità Montane. </corpo>
+                    </el>
+                </comma>
+                <comma id="art6-com2">
+                    <num/>
+                    <corpo>Sono membri elettivi: 
+ 
+d) tre membri dei Consigli Provinciali di cui uno appartenente alle minoranze, per ciascuna provincia il cui territorio ricade anche parzialmente nel Comprensorio; 
+ 
+e) due Consiglieri comunali (di cui uno delle minoranze) per i Comuni non montani con meno di cinquemila abitanti; 
+ 
+f) cinque consiglieri comunali (di cui due delle minoranze) per i Comuni non montani con meno di quindicimila abitanti; 
+ 
+g) otto consiglieri comunali (di cui tre delle minoranze) per i Comuni non montani con meno di trentamila abitanti; 
+ 
+h) dieci consiglieri comunali (di cui quattro delle minoranze) per i comuni non montani con popolazione superiore. </corpo>
+                </comma>
+                <comma id="art6-com3">
+                    <num/>
+                    <corpo>I Consiglieri Provinciali e Comunali sono eletti da ciascun consiglio provinciale e comunale tra i consiglieri designati rispettivamente dalla maggioranza e dalla minoranza. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7</num>
+                <rubrica>: DURATA, INSEDIAMENTO, RINNOVO, CESSAZIONE DELLE ASSEMBLEE 
+</rubrica>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo> 
+L'assemblea dura in carica cinque anni. </corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num/>
+                    <corpo>Gli Enti interessati fanno pervenire i nominativi dei componenti l'Assemblea, di propria competenza, entro i termini che il Consiglio Regionale fissa contestualmente alla delimitazione di   ciascun comprensorio, al Presidente della Giunta Regionale, che convocherà entro 15 giorni l'Assemblea, fissando anche la seduta della stessa. </corpo>
+                </comma>
+                <comma id="art7-com3">
+                    <num/>
+                    <corpo>La prima seduta è provvisoriamente presieduta dal Sindaco del Comune ove ha luogo la prima riunione. </corpo>
+                </comma>
+                <comma id="art7-com4">
+                    <num/>
+
+                    <corpo>I rappresentanti dei Comuni che costituiscono le Comunità Montane, sono eletti nel numero e con i criteri fissati dall'<rif xlink:href="#art6">art. 6</rif> lettere e), f), g) e h) della presente legge. </corpo>
+                </comma>
+                <comma id="art7-com5">
+                    <num/>
+                    <corpo>
+                        <mod id="art7-com5-mod1">Sono soppressi <rif
+                                xlink:href="#art7-com1">i comma</rif> terzo, quarto e quinto dell'<rif xlink:href="urn:nir:regione.molise:legge:1973-05-30;11#art8">art. 8 della legge regionale 30 maggio 1973, n. 11</rif>. </mod>
+                    </corpo>
+                </comma>
+                <comma id="art7-com6">
+                    <num/>
+
+                    <corpo>Le Province e i Comuni non montani eleggono i propri rappresentanti presso il comprensorio entro 30 giorni dell'entrata in vigore della legge di cui all'<rif xlink:href="#art2">art. 2</rif> della presente legge. </corpo>
+                </comma>
+                <comma id="art7-com7">
+                    <num/>
+
+                    <corpo>Entro 30 giorni dall'entrata in vigore della presente legge i Comuni montani per i quali è modificato il criterio di rappresentanza ai sensi del <rif xlink:href="#art6">precedente art. 6</rif>, integrano i propri rappresentanti presso la Comunità Montana di appartenenza. </corpo>
+                </comma>
+                <comma id="art7-com8">
+                    <num/>
+                    <corpo>In sede di prima applicazione negli Enti locali retti a gestione commissariale i rappresentanti elettivi nell'assemblea sono nominati dal Commissario e restano in carica fino a quando l'assemblea consiliare successivamente eletta non provveda alla loro sostituzione. </corpo>
+                </comma>
+                <comma id="art7-com9">
+                    <num/>
+                    <corpo>Ciascun Comune e ciascuna Provincia, dopo il rinnovo dei rispettivi Consigli, provvedono a eleggere, nella seduta immediatamente successiva a quella dell' elezione del Presidente della Provincia o del Sindaco e della Giunta, i propri rappresentanti in seno all'Assemblea. </corpo>
+                </comma>
+                <comma id="art7-com10">
+                    <num/>
+                    <corpo>A seguito di scioglimento di un consiglio Comunale o Provinciale, i relativi membri eletti nell'Assemblea Comprensoriale, restano in carica fino alla loro sostituzione. </corpo>
+                </comma>
+                <comma id="art7-com11">
+                    <num/>
+                    <corpo>In caso di morte, decadenza, dimissioni o di permanente impedimento dei membri elettivi dell'Assemblea, i Consigli Comunali o Provinciali provvedono, alle relative sostituzioni nel termine di 30 giorni dalla notizia della vacanza. </corpo>
+                </comma>
+                <comma id="art7-com12">
+                    <num/>
+                    <corpo>La perdita del possesso dei requisiti richiesti per la elezione nell'Assemblea comporta la decadenza automatica ed immediata della carica di componente dell'Assemblea stessa. </corpo>
+                </comma>
+                <comma id="art7-com13">
+                    <num/>
+                    <corpo>Nella prima fase di applicazione della presente legge, l'Assemblea decade in coincidenza con le prime elezioni generali amministrative. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8</num>
+                <rubrica>: COMPITI 
+</rubrica>
+                <comma id="art8-com1">
+                    <num/>
+                    <alinea> 
+Spetta all'Assemblea: 
+ 
+</alinea>
+                    <el id="art8-com1-leta">
+                        <num>a)</num>
+                        <corpo> eleggere tra i propri membri il Presidente dell'organismo comprensoriale ed i membri del Comitato esecutivo;</corpo>
+                    </el>
+                    <el id="art8-com1-letb">
+                        <num> 
+ 
+b)</num>
+
+                        <corpo> adottare il regolamento interno di cui al <rif xlink:href="#art12">successivo art. 12</rif>;</corpo>
+                    </el>
+                    <el id="art8-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> adottare il piano di sviluppo economico-sociale;</corpo>
+                    </el>
+                    <el id="art8-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> adottare il piano territoriale;</corpo>
+                    </el>
+                    <el id="art8-com1-lete">
+                        <num> 
+ 
+e)</num>
+
+                        <corpo> formulare i pareri e le proposte di cui all'<rif xlink:href="#art4">art. 4</rif> punto a) della presente legge;</corpo>
+                    </el>
+                    <el id="art8-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> esercitare, in generale, ogni altra attribuzione eventualmente demandata dalle leggi all'organismo comprensoriale;</corpo>
+                    </el>
+                    <el id="art8-com1-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> ratifica i provvedimenti adottati dal Comitato esecutivo. </corpo>
+                    </el>
+                </comma>
+                <comma id="art8-com2">
+                    <num/>
+                    <corpo>Le delibere di cui ai punti b), c) e d) sono adottate a maggioranza assoluta dei componenti dell'Assemblea. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9</num>
+                <rubrica>: CONVOCAZIONE E DELIBERAZIONI 
+</rubrica>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo> 
+L'Assemblea è di norma convocata almeno due volte all'anno dal Presidente, su proposta e con l'ordine del giorno fissato dal Comitato Esecutivo. </corpo>
+                </comma>
+                <comma id="art9-com2">
+                    <num/>
+                    <corpo>Quando vi sia richiesta motivata da parte di almeno 1/5 dei componenti l'Assemblea, il Presidente deve altresì disporre la convocazione, entro 15 giorni dalla presentazione della richiesta stessa, nella quale dovranno essere indicati gli argomenti da porre all'ordine del giorno. </corpo>
+                </comma>
+                <comma id="art9-com3">
+                    <num/>
+                    <corpo>Le sedute dell'Assemblea sono valide con la presenza di metà più uno dei suoi componenti. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10</num>
+                <rubrica>: PRESIDENZA 
+</rubrica>
+                <comma id="art10-com1">
+                    <num/>
+                    <corpo> 
+Presidente dell'Assemblea presiede anche il Comitato Esecutivo, ne coordina l'attivit' con quelle dell'Assemblea, rappresenta a tutti gli effetti l'Organismo comprensoriale ed esercita le altre attribuzioni demandategli dal Regolamento e dalle leggi. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11</num>
+                <rubrica>: COMITATO ESECUTIVO 
+</rubrica>
+                <comma id="art11-com1">
+                    <num/>
+                    <alinea> 
+Il Comitato Esecutivo è composto: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> dal Presidente; 
+ 
+- da otto membri dell'Assemblea.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art11-com2">
+                    <num/>
+                    <corpo>Il Comitato predispone gli atti da sottoporre all'Assemblea; dirige gli Uffici dell'Organismo comprensoriale; svolge le altre funzioni demandategli dal Regolamento o dalle leggi. </corpo>
+                </comma>
+                <comma id="art11-com3">
+                    <num/>
+                    <corpo>L'Assemblea elegge, come suo primo atto, a scrutinio segreto e a maggioranza assoluta dei suoi componenti, il Presidente e, successivamente, il Comitato Esecutivo. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12</num>
+                <rubrica>: REVOCA 
+</rubrica>
+                <comma id="art12-com1">
+                    <num/>
+                    <corpo> 
+Il Presidente, il Comitato Esecutivo o alcuno dei suoi membri possono essere revocati dal loro ufficio congiuntamente o separatamente a seguito di proposta motivata e sottoscritta da almeno un terzo dei componenti l'Assemblea comprensoriale. </corpo>
+                </comma>
+                <comma id="art12-com2">
+                    <num/>
+                    <corpo>La revoca deve avvenire con il voto favorevole, reso a scrutinio segreto, della maggioranza dei componenti l'Assemblea. </corpo>
+                </comma>
+                <comma id="art12-com3">
+                    <num/>
+                    <corpo>La proposta di revoca deve essere posta in discussione entro 15 giorni dalla presentazione negli uffici di Segreteria. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13</num>
+                <rubrica>: REGOLAMENTO INTERNO 
+</rubrica>
+                <comma id="art13-com1">
+                    <num/>
+                    <alinea> 
+Entro due mesi dalla prima riunione, l'Assemblea dell'organismo comprensoriale delibera il proprio Regolamento contenente disposizioni relative a: 
+ 
+</alinea>
+                    <el id="art13-com1-leta">
+                        <num>a)</num>
+                        <corpo> la sede dell'organismo comprensoriale;</corpo>
+                    </el>
+                    <el id="art13-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> la struttura ed il funzionamento degli uffici comprensoriali, tra i quali sarà previsto l'Ufficio tecnico per i piani;</corpo>
+                    </el>
+                    <el id="art13-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> le modalità per il funzionamento dell'Assemblea e del Comitato;</corpo>
+                    </el>
+                    <el id="art13-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> le attribuzioni dell'Assemblea, del Comitato Esecutivo e del Presidente, nell'ambito delle norme della presente legge. </corpo>
+                    </el>
+                </comma>
+                <comma id="art13-com2">
+                    <num/>
+                    <corpo>Il Regolamento di cui al presente articolo è approvato dal Consiglio Regionale entro sessanta giorni dalla sua presentazione allo stesso. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14</num>
+                <rubrica>: PIANO SOCIOECONOMICO 
+</rubrica>
+                <comma id="art14-com1">
+                    <num/>
+                    <corpo> 
+Il piano di sviluppo socio-economico comprensoriale, in relazione agli indirizzi della   programmazione regionale, definisce - fabbisogni sociali e le relative priorità d'intervento; - le iniziative ritenute più idonee per lo svolgimento dei diversi settori produttivi; - le iniziative da assumere per la tutela e la migliore utilizzazione del territorio. </corpo>
+                </comma>
+                <comma id="art14-com2">
+                    <num/>
+                    <corpo>La Regione, di norma, articola i propri piani generali e settoriali a livello comprensoriale tenendo conto degli obiettivi e delle scelte contenute nei piani comprensoriali. </corpo>
+                </comma>
+                <comma id="art14-com3">
+                    <num/>
+                    <corpo>I piani socio-economici costituiscono il quadro di riferimento per i programmi e gli interventi delle Province, delle Comunità Montane e dei Comuni, dei loro consorzi, degli altri enti pubblici e privati nel comprensorio. </corpo>
+                </comma>
+                <comma id="art14-com4">
+                    <num/>
+
+                    <corpo>La Giunta Regionale fornirà dati ed elementi utili per la  formazione dei piani e dei programmi di cui al presente articolo e del <rif xlink:href="#art15">successivo art. 15</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>Art. 15</num>
+                <rubrica>: PIANO TERRITORIALE 
+</rubrica>
+                <comma id="art15-com1">
+                    <num/>
+                    <alinea> 
+Il piano territoriale comprensoriale, coordinato e coerente con quello socio-economico e con il piano urbanistico territoriale deve riguardare l'intero territorio di ciascun comprensorio ed indicare: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+
+                        <corpo> le specificazioni territoriali degli interventi regionali, le previsioni globali degli insediamenti ed attrezzature pubbliche e collettive di rilevanza comprensoriale e la loro localizzazione territoriale; 
+ 
+- la definizione della principale rete di viabilità extraurbana e del trasporto pubblico; 
+ 
+- la destinazione d'uso delle varie zone in termini di funzioni, vincoli e norme con la indicazione di quelle riservate alle espansioni dei centri urbani; 
+ 
+- le indicazioni dei vincoli idrogeologici esistenti ai sensi del decreto 30 dicembre 1923, n. 3267, con le proposte degli eventuali ampliamenti o completamenti; 
+ 
+- la proposta di ulteriori perimetri di immobili da sottoporre all'applicazione della <rif
+                                xlink:href="urn:nir:stato:legge:1939-06-01;1089">legge 1° giugno 1939, n. 1089</rif> e della <rif xlink:href="urn:nir:stato:legge:1939-06-29;1497">legge 29 giugno 1939, n. 1497</rif>.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art15-com2">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art15-com2-mod2">Al piano territoriale si applicano le disposizioni tutte di cui al precedente articolo. 
+ 
+È abrogato l'<rif xlink:href="urn:nir:regione.molise:legge:1973-05-30;11#art16">art. 16 della legge regionale 30 maggio 1973, n. 11</rif> nella parte in cui prevede, per le Comunità Montane, l'obbligo di dotarsi di un piano urbanistico.</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>Art. 16</num>
+                <rubrica>: REDAZIONE ED APPROVAZIONE DEI PIANI 
+</rubrica>
+                <comma id="art16-com1">
+                    <num/>
+                    <corpo> 
+Il progetto del piano socio-economico, adottato dall'Assemblea, a cura del Presidente del Comprensorio viene rinviato ai Comuni, alle Comunità Montane ed alle Province interessati, che ne cureranno la pubblicazione, entro tre giorni dal ricevimento, rispettivamente nell'albo pretorio e sul foglio degli annunci legali, per quindici giorni. </corpo>
+                </comma>
+                <comma id="art16-com2">
+                    <num/>
+                    <corpo>Entro i successivi quaranta giorni i predetti Enti con atto consiliare formuleranno le proprie osservazioni, tenuto conto anche delle indicazioni ad essi pervenute da singoli gruppi ed   associazioni. </corpo>
+                </comma>
+                <comma id="art16-com3">
+                    <num/>
+                    <corpo>Entro i successivi novanta giorni, l'Assemblea del Comprensorio, alla luce delle osservazioni presentate, adotta definitivamente il piano. </corpo>
+                </comma>
+                <comma id="art16-com4">
+                    <num/>
+
+                    <corpo>Entro quindici giorni dall'adozione definitiva del piano il Presidente ne cura l'invio alla Giunta Regionale, che, entro trenta giorni esercita, ai sensi dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art32">art. 32 dello Statuto della Regione</rif>, l'iniziativa della legge regionale di approvazione del piano. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>Art. 17</num>
+                <rubrica>: PERSONALE 
+</rubrica>
+                <comma id="art17-com1">
+                    <num/>
+                    <corpo> 
+Il personale addetto al funzionamento dell'Organo comprensoriale è formato da dipendenti comandati dalla Regione, dalle Comunità Montane e dagli Enti Locali. </corpo>
+                </comma>
+                <comma id="art17-com2">
+                    <num/>
+                    <corpo>Si potrà anche ricorrere a consulenze ed incarichi professionali o di studio, ove si richiedano particolari competenze tecniche ed organizzative, a condizioni e per periodi determinati. </corpo>
+                </comma>
+                <comma id="art17-com3">
+                    <num/>
+
+                    <corpo>Le spese per il funzionamento degli Organismi comprensoriali sono a carico della Regione nell'ambito degli stanziamenti di cui al <rif xlink:href="#art19">successivo art. 19</rif>. </corpo>
+                </comma>
+                <comma id="art17-com4">
+                    <num/>
+                    <corpo>Con il provvedimento regionale relativo al finanziamento degli organismi comprensoriali saranno stabilite le modalità per il rimborso delle spese sostenute dai componenti le Assemblee per   l'esercizio delle proprie funzioni. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>Art. 18</num>
+                <rubrica>: SEDI ED UFFICI 
+</rubrica>
+                <comma id="art18-com1">
+                    <num/>
+                    <corpo> 
+Nella loro prima fase di attività gli organismi comprensoriali possono utilizzare sedi ed uffici degli Enti locali interessati. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art19">
+                <num>Art. 19</num>
+                <rubrica>: FINANZIAMENTO 
+</rubrica>
+                <comma id="art19-com1">
+                    <num/>
+                    <corpo> 
+Gli oneri derivanti dalla presente legge per il finanziamento degli Organismi comprensoriali e per il rimborso di spese di personale agli Enti Locali partecipanti, a partire dal 1978 saranno iscritti,   con legge di bilancio, su apposito capitolo dello stato di previsione della spesa denominato: &lt;&lt;Contributi per il funzionamento degli Organismi Comprensoriali e per il rimborso delle spese di personale posto a loro disposizione dagli Enti Locali partecipanti &gt;&gt;. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art20">
+                <num>Art. 20</num>
+                <rubrica>: PUBBLICAZIONE 
+</rubrica>
+                <comma id="art20-com1">
+                    <num/>
+                    <corpo> 
+La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

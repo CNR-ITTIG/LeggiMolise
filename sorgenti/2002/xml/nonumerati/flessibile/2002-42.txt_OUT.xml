@@ -1,0 +1,2345 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20020508" num="9" tipo="BURM"/>
+                <entratainvigore norm="20020523"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2002-05-07;4"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE N. 9 del 8 maggio 2002 
+ 
+Oggetto 
+Amministrazione regionale - Contabilit&#xE0; - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="20020507">7 maggio 2002</dataDoc>, n. <numDoc>4</numDoc>. 
+ 
+<titoloDoc>Nuovo ordinamento contabile della Regione Molise. 
+ 
+NUOVO ORDINAMENTO CONTABILE DELLA REGIONE MOLISE 
+ 
+SOMMARIO 
+ 
+DISPOSIZIONI GENERALI 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ART. 1. </num>
+                <rubrica>Oggetto 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ART. 2. </num>
+                <rubrica>Finanza regionale e cooperazione Stato-Regione 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <titolo id="tit1">
+                <num>TITOLO I </num>
+                <rubrica>
+ 
+DELLA PROGRAMMAZIONE FINANZIARIA E DEI CRITERI DEL BILANCIO 
+ 
+</rubrica>
+                <articolo id="art3">
+                    <num>ART. 3. </num>
+                    <rubrica>Strumenti di programmazione finanziaria e di bilancio 
+</rubrica>
+                    <comma id="art3-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art4">
+                    <num>ART. 4. </num>
+                    <rubrica>Annualità, integrità ed universalità del bilancio  
+</rubrica>
+                    <comma id="art4-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art5">
+                    <num>ART. 5. </num>
+                    <rubrica>Leggi regionali di spesa 
+</rubrica>
+                    <comma id="art5-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art6">
+                    <num>ART. 6. </num>
+                    <rubrica>Copertura finanziaria delle leggi 
+</rubrica>
+                    <comma id="art6-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art7">
+                    <num>ART. 7. </num>
+                    <rubrica>Documento annuale di programmazione 
+</rubrica>
+                    <comma id="art7-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit2">
+                <num>TITOLO II </num>
+                <rubrica>
+ 
+DELLA FORMAZIONE DEL BILANCIO 
+ 
+</rubrica>
+                <articolo id="art8">
+                    <num>ART. 8. </num>
+                    <rubrica>Atto di indirizzo e formazione delle previsioni di bilancio 
+</rubrica>
+                    <comma id="art8-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art9">
+                    <num>ART. 9. </num>
+                    <rubrica>Presentazione ed approvazione dei documenti di programmazione e di bilancio 
+</rubrica>
+                    <comma id="art9-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art10">
+                    <num>ART. 10. </num>
+                    <rubrica>Esercizio provvisorio del bilancio 
+</rubrica>
+                    <comma id="art10-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art11">
+                    <num>ART. 11. </num>
+                    <rubrica>Esercizio provvisorio in pendenza del giudizio di legittimità costituzionale 
+</rubrica>
+                    <comma id="art11-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art12">
+                    <num>ART. 12. </num>
+                    <rubrica>Legge finanziaria 
+</rubrica>
+                    <comma id="art12-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art13">
+                    <num>ART. 13. </num>
+                    <rubrica>Bilancio pluriennale 
+</rubrica>
+                    <comma id="art13-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art14">
+                    <num>ART. 14. </num>
+                    <rubrica>Legge di bilancio 
+</rubrica>
+                    <comma id="art14-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art15">
+                    <num>ART. 15. </num>
+                    <rubrica>Contenuto del bilancio di previsione 
+</rubrica>
+                    <comma id="art15-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art16">
+                    <num>ART. 16. </num>
+                    <rubrica>Equilibrio di bilancio  
+</rubrica>
+                    <comma id="art16-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art17">
+                    <num>ART. 17. </num>
+                    <rubrica>Classificazione delle entrate 
+</rubrica>
+                    <comma id="art17-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art18">
+                    <num>ART. 18. </num>
+                    <rubrica>Specificazione e classificazione delle spese 
+</rubrica>
+                    <comma id="art18-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art19">
+                    <num>ART. 19. </num>
+                    <rubrica>Codificazione del bilancio di previsione 
+</rubrica>
+                    <comma id="art19-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art20">
+                    <num>ART. 20. </num>
+                    <rubrica>Avanzo di amministrazione  
+</rubrica>
+                    <comma id="art20-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art21">
+                    <num>ART. 21. </num>
+                    <rubrica>Disavanzo di amministrazione 
+</rubrica>
+                    <comma id="art21-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art22">
+                    <num>ART. 22. </num>
+                    <rubrica>Fondi vincolati assegnati alla Regione 
+</rubrica>
+                    <comma id="art22-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art23">
+                    <num>ART. 23. </num>
+                    <rubrica>Entrate e spese degli Enti locali per le funzioni delegate 
+</rubrica>
+                    <comma id="art23-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art24">
+                    <num>ART. 24. </num>
+                    <rubrica>Fondo di riserva per le spese obbligatorie 
+</rubrica>
+                    <comma id="art24-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art25">
+                    <num>ART. 25. </num>
+                    <rubrica>Fondo di riserva per le spese impreviste 
+</rubrica>
+                    <comma id="art25-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art26">
+                    <num>ART. 26. </num>
+                    <rubrica>Fondo di riserva per le autorizzazioni di cassa 
+</rubrica>
+                    <comma id="art26-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art27">
+                    <num>ART. 27. </num>
+                    <rubrica>Fondo dei residui cancellati  
+</rubrica>
+                    <comma id="art27-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art28">
+                    <num>ART. 28. </num>
+                    <rubrica>Fondi speciali  
+</rubrica>
+                    <comma id="art28-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art29">
+                    <num>ART. 29. </num>
+                    <rubrica>Garanzie prestate dalla Regione 
+</rubrica>
+                    <comma id="art29-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art30">
+                    <num>ART. 30. </num>
+                    <rubrica>Fondi di garanzia 
+</rubrica>
+                    <comma id="art30-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art31">
+                    <num>ART. 31. </num>
+                    <rubrica>Quadro generale riassuntivo e prospetti allegati 
+</rubrica>
+                    <comma id="art31-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art32">
+                    <num>ART. 32. </num>
+                    <rubrica>Bilanci degli enti dipendenti dalla Regione 
+</rubrica>
+                    <comma id="art32-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art33">
+                    <num>ART. 33. </num>
+                    <rubrica>Assestamento di bilancio  
+</rubrica>
+                    <comma id="art33-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art34">
+                    <num>ART. 34. </num>
+                    <rubrica>Variazione al bilancio  
+</rubrica>
+                    <comma id="art34-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art35">
+                    <num>ART. 35. </num>
+                    <rubrica>Divieto di storni  
+</rubrica>
+                    <comma id="art35-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit3">
+                <num>TITOLO III </num>
+                <rubrica>
+ 
+DELL 'INDEBITAMENTO 
+ 
+</rubrica>
+                <articolo id="art36">
+                    <num>ART. 36. </num>
+                    <rubrica>Mutui ed altre forme di indebitamento 
+</rubrica>
+                    <comma id="art36-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art37">
+                    <num>ART. 37. </num>
+                    <rubrica>Condizioni e modalità per l'emissione di prestiti obbligazionari 
+</rubrica>
+                    <comma id="art37-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art38">
+                    <num>ART. 38. </num>
+                    <rubrica>Anticipazioni di cassa 
+</rubrica>
+                    <comma id="art38-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit4">
+                <num>TITOLO IV </num>
+                <rubrica>
+ 
+DELLA GESTIONE ECONOMICA DEL BILANCIO  
+ 
+</rubrica>
+                <articolo id="art39">
+                    <num>ART. 39. </num>
+                    <rubrica>Direttiva annuale e ripartizione delle risorse 
+</rubrica>
+                    <comma id="art39-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art40">
+                    <num>ART. 40. </num>
+                    <rubrica>Contabilità economica  
+</rubrica>
+                    <comma id="art40-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art41">
+                    <num>ART. 41. </num>
+                    <rubrica>Raccordo tra contabilità economica e contabilità finanziaria 
+</rubrica>
+                    <comma id="art41-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art42">
+                    <num>ART. 42. </num>
+                    <rubrica>Verifica dei budget e variazione 
+</rubrica>
+                    <comma id="art42-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art43">
+                    <num>ART. 43. </num>
+                    <rubrica>Controllo di gestione 
+</rubrica>
+                    <comma id="art43-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit5">
+                <num>TITOLO V </num>
+                <rubrica>
+ 
+DELLA GESTIONE FINANZIARIA DEL BILANCIO  
+ 
+</rubrica>
+                <articolo id="art44">
+                    <num>ART. 44. </num>
+                    <rubrica>Gestione finanziaria del bilancio 
+</rubrica>
+                    <comma id="art44-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art45">
+                    <num>ART. 45. </num>
+                    <rubrica>Le fasi dell'entrata 
+</rubrica>
+                    <comma id="art45-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art46">
+                    <num>ART. 46. </num>
+                    <rubrica>Accertamento delle entrate  
+</rubrica>
+                    <comma id="art46-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art47">
+                    <num>ART. 47. </num>
+                    <rubrica>Riscossione e versamento delle entrate 
+</rubrica>
+                    <comma id="art47-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art48">
+                    <num>ART. 48. </num>
+                    <rubrica>Residui attivi 
+</rubrica>
+                    <comma id="art48-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art49">
+                    <num>ART. 49. </num>
+                    <rubrica>Le fasi della spesa 
+</rubrica>
+                    <comma id="art49-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art50">
+                    <num>ART. 50. </num>
+                    <rubrica>Impegni di spesa 
+</rubrica>
+                    <comma id="art50-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art51">
+                    <num>ART. 51. </num>
+                    <rubrica>Registrazione degli impegni  
+</rubrica>
+                    <comma id="art51-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art52">
+                    <num>ART. 52. </num>
+                    <rubrica>Liquidazione della spesa 
+</rubrica>
+                    <comma id="art52-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art53">
+                    <num>ART. 53. </num>
+                    <rubrica>Sistemi di pagamento 
+</rubrica>
+                    <comma id="art53-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art54">
+                    <num>ART. 54. </num>
+                    <rubrica>Mandati diretti 
+</rubrica>
+                    <comma id="art54-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art55">
+                    <num>ART. 55. </num>
+                    <rubrica>Aperture di credito ed ordini di accreditamento 
+</rubrica>
+                    <comma id="art55-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art56">
+                    <num>ART. 56. </num>
+                    <rubrica>Responsabilità del funzionario delegato ed obblighi del tesoriere 
+</rubrica>
+                    <comma id="art56-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art57">
+                    <num>ART. 57. </num>
+                    <rubrica>Rendiconti dei funzionari delegati 
+</rubrica>
+                    <comma id="art57-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art58">
+                    <num>ART. 58. </num>
+                    <rubrica>Ruoli di spese fisse 
+</rubrica>
+                    <comma id="art58-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art59">
+                    <num>ART. 59. </num>
+                    <rubrica>Estinzione dei titoli di spesa  
+</rubrica>
+                    <comma id="art59-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art60">
+                    <num>ART. 60. </num>
+                    <rubrica>Estinzione dei titoli di spesa non pagati a chiusura dell'esercizio  
+</rubrica>
+                    <comma id="art60-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art61">
+                    <num>ART. 61. </num>
+                    <rubrica>Residui passivi  
+</rubrica>
+                    <comma id="art61-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art62">
+                    <num>ART. 62. </num>
+                    <rubrica>Accertamento dei residui passivi 
+</rubrica>
+                    <comma id="art62-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art63">
+                    <num>ART. 63. </num>
+                    <rubrica>Autonomia contabile del Consiglio regionale 
+</rubrica>
+                    <comma id="art63-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit6">
+                <num>TITOLO VI </num>
+                <rubrica>
+ 
+DEL RENDICONTO 
+ 
+</rubrica>
+                <articolo id="art64">
+                    <num>ART. 64. </num>
+                    <rubrica>Rendiconto generale 
+</rubrica>
+                    <comma id="art64-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art65">
+                    <num>ART. 65. </num>
+                    <rubrica>Documenti allegati al rendiconto generale 
+</rubrica>
+                    <comma id="art65-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art66">
+                    <num>ART. 66. </num>
+                    <rubrica>Conto del bilancio 
+</rubrica>
+                    <comma id="art66-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art67">
+                    <num>ART. 67. </num>
+                    <rubrica>Conto generale del patrimonio  
+</rubrica>
+                    <comma id="art67-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art68">
+                    <num>ART. 68. </num>
+                    <rubrica>Rendiconto degli enti dipendenti dalla Regione 
+</rubrica>
+                    <comma id="art68-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art69">
+                    <num>ART. 69. </num>
+                    <rubrica>Rendiconto delle spese per le funzioni delegate agli Enti locali  
+</rubrica>
+                    <comma id="art69-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit7">
+                <num>TITOLO VII </num>
+                <rubrica>
+ 
+DELLA RESPONSABILITÀ PER DANNI VERSO L'ENTE REGIONE 
+ 
+</rubrica>
+                <articolo id="art70">
+                    <num>ART. 70. </num>
+                    <rubrica>Accertamento della responsabilità 
+</rubrica>
+                    <comma id="art70-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art71">
+                    <num>ART. 71. </num>
+                    <rubrica>Obbligo di denuncia 
+</rubrica>
+                    <comma id="art71-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit8">
+                <num>TITOLO VIII </num>
+                <rubrica>
+ 
+SERVIZI DI TESORERIA 
+ 
+</rubrica>
+                <articolo id="art72">
+                    <num>ART. 72. </num>
+                    <rubrica>Servizio di tesoreria della Regione 
+</rubrica>
+                    <comma id="art72-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art73">
+                    <num>ART. 73. </num>
+                    <rubrica>Conto del tesoriere 
+</rubrica>
+                    <comma id="art73-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art74">
+                    <num>ART. 74. </num>
+                    <rubrica>Responsabilità del tesoriere regionale 
+</rubrica>
+                    <comma id="art74-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit9">
+                <num>TITOLO IX </num>
+                <rubrica>
+ 
+DISPOSIZIONI TRANSITORIE E FINALI  
+ 
+</rubrica>
+                <articolo id="art75">
+                    <num>ART. 75. </num>
+                    <rubrica>Norme transitorie 
+</rubrica>
+                    <comma id="art75-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art76">
+                    <num>ART. 76. </num>
+                    <rubrica>Abrogazioni 
+</rubrica>
+                    <comma id="art76-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art77">
+                    <num>ART. 77. </num>
+                    <rubrica>Entrata in vigore 
+</rubrica>
+                    <comma id="art77-com1">
+                        <num/>
+                        <corpo> 
+NUOVO ORDINAMENTO CONTABILE DELLA REGIONE MOLISE DISPOSIZIONI GENERALI  
+ </corpo>
+                    </comma>
+                    <comma id="art77-com2">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art1">Art. 1</rif>  
+ 
+Oggetto  
+ 
+1. La presente legge disciplina la contabilità della Regione Molise in attuazione dei principi contenuti nello <rif
+                                xlink:href="urn:nir:regione.molise:statuto:">Statuto</rif> e nel <rif xlink:href="urn:nir:stato:decreto.legislativo:2000-03-28;76">decreto legislativo 28 marzo 2000 n. 76</rif>, alle cui disposizioni rinvia per quanto non espressamente previsto dagli articoli seguenti.</corpo>
+                    </comma><?error Marker Warning 103 (last articolo:77 next:1)?>
+                    <comma id="art77-com3">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art2">Art. 2</rif> 
+ 
+Finanza regionale e cooperazione Stato-Regioni 
+ 
+1. La finanza regionale concorre con la finanza statale e locale al perseguimento degli obiettivi di convergenza e di stabilità derivanti dall'appartenenza dell'Italia alla Comunità Europea ed opera in coerenza con i vincoli che ne derivano in ambito nazionale.  
+ 
+2. La Regione Molise, nel rispetto di quanto disposto dall'<rif
+                                xlink:href="urn:nir:stato:decreto.legislativo:2000-03-28;76#art32">articolo 32 del decreto legislativo n. 76 del 28 marzo 2000</rif>, promuove ogni possibile azione intesa a realizzare forme di collaborazione con gli organismi dello Stato e con le altre Regioni allo scopo di fornirsi, reciprocamente e a richiesta, di ogni notizia utile allo svolgimento delle proprie funzioni nella materia di cui alla presente legge e per concordare le modalità di utilizzazione comune dei rispettivi sistemi informativi.  
+ 
+3. Al fine di consentire l'unificazione nei bilanci regionali del sistema di classificazione delle entrate e delle spese, e la necessaria armonizzazione con il bilancio dello Stato, la Regione trasmette trimestralmente al sistema informativo del Ministero dell'Economia e delle Finanze i dati del proprio sistema informativo, riguardanti le unità previsionali di entrata e di spesa e le classificazioni adottate, ed apporta le dovute riclassificazioni in materia secondo le modalità ed i criteri stabiliti con l'atto di indirizzo e di coordinamento previsto dall'<rif xlink:href="urn:nir:stato:decreto.legislativo:2000-03-28;76#art10-com3">articolo 10, comma 3 del decreto legislativo n. 76 del 28 marzo 2000</rif>.</corpo>
+                    </comma>
+                    <comma id="art77-com4">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#tit1">TITOLO I</rif> 
+ 
+DELLA PROGRAMMAZIONE FINANZIARIA E DEI CRITERI DEL BILANCIO 
+ </corpo>
+                    </comma>
+                    <comma id="art77-com5">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art3">Art. 3</rif> 
+ 
+Strumenti di programmazione finanziaria e di bilancio 
+ 
+1. Le impostazioni delle previsioni di entrata e di spesa del bilancio della Regione si ispirano al metodo della programmazione finanziaria.  
+ 
+2. Gli strumenti di programmazione finanziaria e di bilancio che la Regione adotta sono:</corpo>
+                    </comma>
+                    <comma id="art77-com6">
+                        <num/>
+                        <corpo>a) la legge finanziaria; 
+ 
+ b) il documento annuale di programmazione; 
+ 
+ c) il bilancio pluriennale; 
+ 
+ d) il bilancio di previsione annuale.  </corpo>
+                    </comma>
+                    <comma id="art77-com7">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art4">Art. 4</rif> 
+ 
+Annualità, integrità ed universalità del bilancio  
+ 
+1. L'esercizio finanziario ha la durata di un anno e coincide con l'anno solare.  
+ 
+2. Sulla base del criterio di integrità, tutte le entrate sono iscritte nel bilancio regionale al lordo delle spese di riscossione e di altre eventuali spese ad esse connesse. Parimenti, tutte le spese sono iscritte in bilancio integralmente, senza essere ridotte delle entrate correlative.  
+ 
+3. Sulla base del criterio dell'universalità, sono vietate le gestioni di fondi al di fuori del bilancio della Regione e dei bilanci degli Enti e degli organismi dipendenti dalla Regione, di cui all'<rif xlink:href="#art32">articolo 32</rif> della presente legge.</corpo>
+                    </comma>
+                    <comma id="art77-com8">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art5">Art. 5</rif> 
+ 
+Leggi regionali di spesa 
+ 
+1. Le leggi regionali pluriennali di spesa in conto capitale quantificano la spesa complessiva, l'onere per competenza relativa al primo anno di applicazione, nonché le quote di competenza attribuite a ciascuno degli anni considerati nel bilancio pluriennale. La legge finanziaria può annualmente rimodulare le quote previste per ciascuno degli anni considerati nel bilancio pluriennale, nei limiti dell'autorizzazione complessiva.  
+ 
+2. La Regione può stipulare contratti o comunque assumere impegni nei limiti dell'intera somma indicata dalle leggi di cui al <rif xlink:href="#art77-com1">comma 1</rif> ovvero nei limiti indicati nella legge finanziaria, fermo restando che i relativi pagamenti devono, comunque, essere contenuti nei limiti delle autorizzazioni annuali di bilancio.  
+ 
+3. Le leggi regionali di spesa a carattere permanente quantificano l'onere annuale previsto per ciascuno degli esercizi finanziari compresi nel bilancio pluriennale. Esse indicano, inoltre, l'onere a regime ovvero, nel caso in cui non si tratti di spese obbligatorie, possono rinviare le quantificazioni dell'onere annuo alla legge finanziaria.</corpo>
+                    </comma>
+                    <comma id="art77-com9">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art6">Art. 6</rif> 
+ 
+Copertura finanziaria delle leggi  
+ 
+1. Le leggi che comportano nuove o maggiori spese, ovvero minori entrate, devono indicare i mezzi per farvi fronte, con riferimento alle singole annualità comprese nel bilancio pluriennale. 
+ 
+2. Alla loro copertura finanziaria si procede nei seguenti modi:</corpo>
+                    </comma>
+                    <comma id="art77-com10">
+                        <num/>
+
+                        <corpo>a) mediante utilizzo delle somme iscritte nei fondi speciali di cui all'<rif xlink:href="#art28">articolo 28</rif>, restando escluso l'utilizzo di   accantonamenti per spese in conto capitale per iniziative di parte corrente; 
+ 
+ b) mediante riduzione di precedenti autorizzazioni legislative di spesa; 
+ 
+ c) mediante innovazioni legislative che comportano nuove o maggiori entrate.  
+ 
+3. I progetti di legge e gli emendamenti di iniziativa della Giunta regionale, che comportino nuove o maggiori spese ovvero diminuzioni di entrate, sono accompagnati da una relazione tecnica, predisposta dal settore competente e verificata dall'Assessore al bilancio, contenente l'ammontare complessivo degli oneri recati da ciascuna disposizione nonché l'indicazione delle relative coperture finanziarie, con la specificazione, per la spesa corrente e per le minori entrate, degli oneri annuali fino alla completa attuazione della norma e, per le spese in conto capitale, della modulazione relativa agli anni compresi nel bilancio pluriennale. Nella relazione sono indicati i dati, le fonti ed i metodi utilizzati per la loro quantificazione.  
+ 
+4. Le Commissioni consiliari competenti possono richiedere alla Giunta la relazione, di cui al precedente comma, per tutte le proposte legislative e gli emendamenti sottoposti al loro esame ai fini della verifica tecnica della quantificazione degli oneri da essi recati.</corpo>
+                    </comma>
+                    <comma id="art77-com11">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art7">Art. 7</rif> 
+ 
+Documento annuale di programmazione  
+ 
+1. La Giunta regionale, entro il 31 agosto di ogni anno, presenta al Consiglio il documento annuale di programmazione, che stabilisce i contenuti della politica socio-economica nel territorio e delinea gli interventi di finanza regionale. 
+ 
+2. Il documento annuale di programmazione tiene conto, per il periodo compreso nel bilancio pluriennale, degli effetti dei programmi comunitari in vigore, delle Intese di programma con il Governo e delle valutazioni e degli effetti del Documento di programmazione economico-finanziaria per il triennio di riferimento, di cui alla <rif
+                                xlink:href="urn:nir:stato:legge:1978-08-05;468">legge 5 agosto 1978, n. 468</rif> e successive modificazioni e integrazioni, come presentato dal Governo al Parlamento. 
+ 
+3. Il documento annuale di programmazione costituisce lo strumento fondamentale di raccordo fra la programmazione generale e la programmazione finanziaria e di bilancio della Regione. Ai fini di tale accordo, avvalendosi delle risultanze del controllo di gestione di cui all'<rif xlink:href="#art43">articolo 43</rif> della presente legge, il documento annuale di programmazione:</corpo>
+                    </comma>
+                    <comma id="art77-com12">
+                        <num/>
+                        <corpo>a) verifica ed aggiorna annualmente le determinazioni programmatiche del Piano regionale di sviluppo e degli strumenti  attuativi settoriali e intersettoriali; 
+ 
+ b) delinea il quadro delle risorse finanziarie regionali necessarie al collegamento fra le determinazioni programmatiche e  le scelte e gli effetti di bilancio.  
+ 
+4. Il documento annuale di programmazione contiene una sintetica descrizione della situazione economica e sociale della Regione ed una valutazione degli andamenti dell'economia regionale.</corpo>
+                    </comma>
+                    <comma id="art77-com13">
+                        <num/>
+                        <alinea>Nel documento annuale di programmazione sono altresì indicati: 
+ 
+</alinea>
+                        <el id="art77-com13-leta">
+                            <num>a)</num>
+                            <corpo> le tendenze e gli obiettivi macroeconomici, in particolare quelli relativi allo sviluppo del reddito e dell'occupazione  nella Regione nel triennio di riferimento;</corpo>
+                        </el>
+                        <el id="art77-com13-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> gli aggiornamenti e le modificazioni del Piano regionale di sviluppo e degli altri documenti di programmazione nonché le  conseguenti variazioni da apportare alla legislazione attuativa ed alla strumentazione operativa;</corpo>
+                        </el>
+                        <el id="art77-com13-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> gli obiettivi del ricorso al mercato finanziario per ciascuno degli anni compresi nel bilancio pluriennale;</corpo>
+                        </el>
+                        <el id="art77-com13-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> le regole di variazione delle entrate e delle spese del bilancio di competenza della Regione per il periodo cui si riferisce  il bilancio pluriennale, nonché il livello programmatico di imposizione fiscale;</corpo>
+                        </el>
+                        <el id="art77-com13-lete">
+                            <num> 
+ 
+e)</num>
+
+                            <corpo> gli indirizzi per gli interventi, anche di settore, collegati alla manovra di finanza regionale per il periodo compreso nel  bilancio pluriennale, coerenti con i contenuti e le previsioni di cui alla <rif xlink:href="#art77-com13-letb">lettera b)</rif>, nell'ambito delle compatibilità di cui  alle lettere c) e d);</corpo>
+                        </el>
+                        <el id="art77-com13-letf">
+                            <num> 
+ 
+f)</num>
+
+                            <corpo> la valutazione di massima dell'effetto economico-finanziario attribuito agli indirizzi e agli interventi di cui alla   <rif xlink:href="#art77-com13-lete">lettera e)</rif> in rapporto all'andamento tendenziale;</corpo>
+                        </el>
+                        <el id="art77-com13-letg">
+                            <num> 
+ 
+g)</num>
+                            <corpo> i criteri e i parametri per la formazione del bilancio annuale e pluriennale della Regione e l'individuazione delle priorità  da realizzare.  </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art77-com14">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#tit2">TITOLO II</rif>  
+ 
+DELLA FORMAZIONE DEL BILANCIO 
+ </corpo>
+                    </comma>
+                    <comma id="art77-com15">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art8">Art. 8</rif> 
+ 
+Atto di indirizzo e formazione delle previsioni di bilancio 
+ 
+1. La Giunta Regionale adotta, ogni anno, ai fini della predisposizione del bilancio di previsione un "atto di indirizzo".  
+ 
+2. L'atto di indirizzo, coerentemente con gli obiettivi generali definiti dai provvedimenti di programmazione relativamente ai diversi settori, indica i criteri da utilizzare e i vincoli da rispettare nella presentazione di programmi e progetti da parte dei centri di responsabilità amministrativa cui è affidata la gestione delle singole unità previsionali di base.  
+ 
+3. Gli stanziamenti di competenza delle singole unità previsionali di base sono determinate tenendo conto degli oneri relativi alle funzioni e ai servizi istituzionali, di quelli relativi ai programmi e progetti presentati dai centri di responsabilità amministrativa ritenuti concretamente perseguibili, nel periodo cui si riferisce il bilancio, anche sulla base delle rilevazioni e delle risultanze della contabilità economica. Rimane esclusa ogni quantificazione basata sul criterio della spesa storica incrementale.  
+ 
+4. Le previsioni di cassa, per ciascuna unità previsionale di base, sono determinate tenendo conto anche del ritmo di smaltimento dei residui degli anni precedenti e della effettiva consistenza dei conti di tesoreria.</corpo>
+                    </comma>
+                    <comma id="art77-com16">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art9">Art. 9</rif>  
+ 
+Presentazione ed approvazione dei documenti di programmazione e di bilancio  
+ 
+1. La Giunta Regionale, entro il 15 ottobre di ogni anno, presenta al Consiglio, per l'approvazione, la proposta di legge finanziaria regionale, la proposta di legge di approvazione del bilancio e, in allegato, il bilancio pluriennale.  
+ 
+2. Il Consiglio Regionale, entro il 31 dicembre, adotta, nell'ordine, la legge finanziaria e la legge di approvazione del bilancio annuale.  
+ 
+3. Il bilancio pluriennale è approvato con apposito articolo della legge di approvazione del bilancio annuale.</corpo>
+                    </comma>
+                    <comma id="art77-com17">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art10">Art. 10</rif> 
+ 
+Esercizio provvisorio del bilancio 
+ 
+1. L'esercizio provvisorio del bilancio è autorizzato con legge regionale per un periodo di due mesi, prorogabile per un periodo ulteriore non superiore ad altri due mesi.  
+ 
+2. Durante l'esercizio provvisorio i competenti organi regionali sono autorizzati ad assumere impegni di spese e a disporre i pagamenti nei limiti di tanti dodicesimi delle previsioni del bilancio presentato dalla Giunta o, in caso di mancata presentazione, dell'ultimo bilancio approvato, quanti sono i mesi dell'esercizio provvisorio autorizzato.  
+ 
+3. La limitazione di cui al comma precedente non si applica alle spese obbligatorie tassativamente regolate dalla legge o da contratto e non suscettibili di impegno o di pagamento frazionati in dodicesimi.</corpo>
+                    </comma>
+                    <comma id="art77-com18">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art11">Art. 11</rif>  
+ 
+Esercizio provvisorio in pendenza del giudizio di legittimità costituzionale 
+ 
+1. Nel caso in cui il Governo abbia promosso questione di legittimità costituzionale a norma dell'<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">articolo 127 della Costituzione</rif> nei confronti della legge di approvazione del bilancio o della legge di autorizzazione all'esercizio provvisorio, la Regione è autorizzata a gestire, in via provvisoria, il bilancio limitatamente ai capitoli delle unità previsionali di base non coinvolte nell'impugnativa, ovvero, nel caso che l'impugnativa investa l'intero bilancio, limitatamente ad un dodicesimo della spesa prevista da ciascun capitolo delle unità previsionali di base previste nel progetto di bilancio, per ogni mese di pendenza del procedimento, o nei limiti della maggiore spesa necessaria, ove si tratti di spese obbligatorie tassativamente regolate dalla legge e non suscettibili di impegno o di pagamento frazionati in dodicesimi.</corpo>
+                    </comma>
+                    <comma id="art77-com19">
+                        <num/>
+                        <corpo>Art. 12 
+ 
+Legge finanziaria  
+ 
+1. Il progetto di legge finanziaria regionale dispone annualmente il quadro di riferimento finanziario per il periodo compreso nel bilancio pluriennale e contiene, esclusivamente, norme tese a realizzare effetti finanziari compatibili con gli obiettivi prefissa ti e decorrenti dal primo anno considerato nel bilancio pluriennale.  
+ 
+2. La legge finanziaria stabilisce:</corpo>
+                    </comma>
+                    <comma id="art77-com20">
+                        <num/>
+                        <corpo>a) il livello massimo di indebitamento per ciascuno degli anni considerati nel bilancio pluriennale; 
+ 
+ b) le variazioni delle aliquote e di tutte le altre misure che incidono sulla determinazione del gettito dei tributi di   competenza regionale, con effetto dal 1° gennaio dell'anno cui si riferisce; 
+ 
+ c) il rifinanziamento delle leggi regionali di spesa relative a diversi settori di intervento esaurite per quanto concerne la  loro validità finanziaria, per un periodo pari a quello considerato nel bilancio pluriennale; 
+ 
+ d) la riduzione di precedenti autorizzazioni legislative di spesa; 
+ 
+ e) la determinazione, per le leggi regionali che dispongono spese a carattere permanente o pluriennale, delle quote   destinate a gravare su ciascuno degli anni considerati nel bilancio pluriennale, nei limiti dell'autorizzazione    complessiva; 
+ 
+ f) le norme che comportano aumenti di entrata o riduzioni di spesa, restando escluse quelle a carattere ordinamentale  ovvero organizzatorio, salvo che esse si caratterizzino per un rilevante miglioramento del saldo di cui alla precedente  lettera a).  </corpo>
+                    </comma>
+                    <comma id="art77-com21">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art13">Art. 13</rif> 
+ 
+Bilancio pluriennale  
+ 
+1. Il bilancio pluriennale è elaborato, in termini di competenza, con riferimento alla programmazione regionale ed ha una durata minima di tre anni finanziari e una durata massima di cinque anni finanziari.  
+ 
+2. Il bilancio pluriennale rappresenta il quadro delle risorse che la Regione prevede di acquisire e di impiegare nel periodo considerato, ed espone, separatamente, l'andamento delle entrate e delle spese in base alla legislazione statale e regionale già in vigore (bilancio pluriennale a legislazione vigente) e le previsioni sull'andamento delle entrate e delle spese tenendo conto degli effetti dei previsti nuovi interventi legislativi (bilancio pluriennale programmatico). Il bilancio pluriennale a legislazione vigente costituisce sede per il riscontro della copertura finanziaria di nuove o maggiori spese a carico di esercizi futuri.  
+ 
+3. Il bilancio pluriennale indica, per ciascuna ripartizione delle entrate e della spesa, la quota relativa all'esercizio iniziale nonché le quote relative agli esercizi successivi;  
+ 
+4. Il bilancio pluriennale è redatto per unità previsionali di entrata e di spesa ed è annualmente aggiornato, motivando, in apposite note esplicative, le variazioni intervenute rispetto alle previsioni contenute nel precedente bilancio pluriennale.  
+ 
+5. L'adozione del bilancio pluriennale non comporta autorizzazioni a riscuotere le entrate né ad eseguire le spese in esso contemplate.</corpo>
+                    </comma>
+                    <comma id="art77-com22">
+                        <num/>
+
+                        <corpo>Art. 14 
+ 
+Legge di bilancio 
+ 
+Il Consiglio Regionale approva ogni anno, con legge, il bilancio di previsione, formato sulla base dei criteri e dei parametri indicati nel documento annuale di programmazione approvato dal Consiglio, nei modi e nei termini previsti dallo <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto</rif> e dalla presente legge. </corpo>
+                    </comma>
+                    <comma id="art77-com23">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art15">Art. 15</rif> 
+ 
+Contenuto del bilancio di previsione 
+ 
+1. Le previsioni di bilancio sono formulate in termini di competenza e di cassa.  
+ 
+2. Le previsioni di bilancio sono articolate, per l'entrata e per la spesa, in unità previsionali di base, stabilite in modo che a ciascuna unità corrisponda un unico centro di responsabilità amministrativa, appositamente individuato con atto di Giunta regionale sulla base di esigenze strutturali, operative ed istituzionali della Regione. Le unità previsionali sono determinate con riferimento ad aree omogenee di attività, anche a carattere strumentale, in cui si articolano le competenze della Regione. Le contabilità speciali sono articolate in capitoli sia nell'entrata che nella spesa.  
+ 
+3. Per ogni unità previsionale di base e per ogni capitolo delle contabilità speciali sono indicati:</corpo>
+                    </comma>
+                    <comma id="art77-com24">
+                        <num/>
+
+                        <corpo>a) l'ammontare presunto dei residui attività o passivi alla chiusura dell'esercizio precedente a quello a cui il bilancio si  riferisce; 
+ 
+ b) l'ammontare delle entrate che si prevede di accertare o delle spese di cui si autorizza l'impegno nell'esercizio cui il  bilancio si riferisce; 
+ 
+ c) l'ammontare delle entrate che si prevede di riscuotere o delle spese di cui si autorizza il pagamento nel medesimo  esercizio, senza distinzione fra riscossioni o pagamenti in conto competenze e in conto residui. S'intendono per   riscosse le somme versate in tesoreria e per pagate le somme erogate dalla tesoreria.  
+ 
+4. Gli stanziamenti di spesa di cui alla lettera b) del comma 3 sono iscritti in bilancio nella misura indispensabile allo svolgimento delle attività o degli interventi che, sulla base della legislazione vigente, daranno luogo, nell'esercizio cui il bilancio si riferisce, ad impegni di spesa a norma dell'<rif xlink:href="#art50">articolo 50</rif> della presente legge.  
+ 
+5. Fra le entrate e le spese di cui alla lettera b) del comma 3 è iscritto l'eventuale saldo finanziario, positivo o negativo, presunto al termine dell'esercizio precedente. Fra le entrate di cui alla lettera c) del comma 3, è iscritto l'ammontare presunto della giacenza di cassa all'inizio dell'esercizio cui il bilancio si riferisce.  
+ 
+6. In apposito allegato al bilancio le unità previsionali di base sono ripartite in capitoli ai fini della gestione e della rendicontazione. I capitoli sono determinati in relazione al rispettivo oggetto per l'entrata e secondo l'oggetto ed il contenuto economico e funzionale della spesa. Nello stesso allegato sono altresì indicati, disaggregati per capitolo, i contenuti di ciascuna unità previsionale di base e il carattere giuridicamente obbligatorio o discrezionale della spesa, con il richiamo delle relative disposizioni legislative.  
+ 
+7. Formano oggetto di specifica approvazione da parte del Consiglio Regionale le previsioni di cui ai commi 1, 2, 3 e 5. Le contabilità speciali sono approvate nel loro complesso.</corpo>
+                    </comma>
+                    <comma id="art77-com25">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art16">Art. 16</rif> 
+ 
+Equilibrio di bilancio  
+ 
+1. In ciascun bilancio annuale il totale dei pagamenti autorizzati non può essere superiore al totale delle entrate di cui si prevede la riscossione sommato alla presunta giacenza iniziale di cassa.  
+ 
+2. Il totale delle spese di cui si autorizza l'impegno nell'esercizio di competenza può essere superiore al totale delle entrate che si prevede di accertare nel medesimo esercizio, purché il relativo disavanzo sia coperto da mutui o altre forme di indebitamento autorizzati con la legge di approvazione del bilancio o con legge di variazione dello stesso, nei limiti di cui all'<rif
+                                xlink:href="#art36">articolo 36</rif> della presente legge.  
+ 
+3. Il totale degli stanziamenti di competenza relativi a spese finanziate con entrate derivanti da assegnazioni dell'Unione europea e dello Stato, non può essere inferiore, in ciascun bilancio, al totale delle rispettive entrate di competenza, salvo quanto disposto dai commi 2 e 3 dell'<rif xlink:href="#art22">articolo 22</rif>.</corpo>
+                    </comma>
+                    <comma id="art77-com26">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art17">Art. 17</rif> 
+ 
+Classificazione delle entrate  
+ 
+1. Nel bilancio di previsione annuale le entrate sono ripartite nei seguenti titoli:</corpo>
+                    </comma>
+                    <comma id="art77-com27">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#tit1">TITOLO I</rif>   entrate derivanti da tributi propri della Regione, dal gettito di tributi erariali o di quote di esso   devolute alla Regione; 
+ </corpo>
+                    </comma>
+                    <comma id="art77-com28">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#tit2">TITOLO II</rif>  entrate derivanti da contributi e trasferimenti di parte corrente dell'Unione europea, dello Stato e  di altri soggetti; 
+ </corpo>
+                    </comma>
+                    <comma id="art77-com29">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#tit3">TITOLO III</rif> entrate extratributarie;  
+ </corpo>
+                    </comma>
+                    <comma id="art77-com30">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#tit4">TITOLO IV</rif>  entrate derivanti da alienazioni, da trasformazione di capitale, da riscossione di crediti e da   trasferimenti in conto capitale; 
+ </corpo>
+                    </comma>
+                    <comma id="art77-com31">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#tit5">TITOLO V</rif>   entrate derivanti da mutui, prestiti o altre operazioni creditizie;  
+ </corpo>
+                    </comma>
+                    <comma id="art77-com32">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#tit6">TITOLO VI</rif>  entrate per contabilità speciali.  
+ 
+2. Le entrate di cui al <rif xlink:href="#art77-com1">comma 1</rif> sono ordinate in categorie secondo la natura dei cespiti, in unità previsionali di base, ai fini dell'approvazione da parte del Consiglio Regionale, ed in capitoli secondo il rispettivo oggetto, ai fini della gestione e della rendicontazione.  
+ 
+3. Le contabilità speciali non sono articolate in unità previsionali di base, ma in capitoli.</corpo>
+                    </comma>
+                    <comma id="art77-com33">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art18">Art. 18</rif> 
+ 
+Specificazione e classificazione delle spese 
+ 
+1. Nel bilancio di previsione annuale le spese sono ripartite in:</corpo>
+                    </comma>
+                    <comma id="art77-com34">
+                        <num/>
+                        <corpo>a) funzioni obiettivo, individuate in corrispondenza delle politiche regionali e raggruppate in aree di coordinamento delle  stesse; 
+ 
+ b) unità previsionali di base suddivise, ai fini dell'approvazione da parte del Consiglio Regionale, in unità relative alla  spesa corrente, unità relative alla spesa in conto capitale e unità per il rimborso prestiti;  
+ 
+ c) capitoli, nell'apposito allegato al bilancio di cui al comma 6 dell'articolo 15, secondo l'oggetto, il contenuto economico e  funzionale della spesa, il carattere giuridicamente obbligatorio. I capitoli costituiscono le unità elementari ai fini   della gestione e della rendicontazione.  
+ 
+2. Le contabilità speciali non sono articolate in unità previsionali di base, ma in capitoli.</corpo>
+                    </comma>
+                    <comma id="art77-com35">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art19">Art. 19</rif> 
+ 
+Codificazione del bilancio di previsione 
+ 
+1. La numerazione delle funzioni obiettivo, delle unità previsionali di base, delle categorie e dei capitoli può essere anche discontinua in relazione alle necessità della codificazione meccanografica.</corpo>
+                    </comma>
+                    <comma id="art77-com36">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art20">Art. 20</rif> 
+ 
+Avanzo di amministrazione 
+ 
+1. L'avanzo di amministrazione, accertato con l'approvazione del rendiconto di cui all'<rif xlink:href="#art64">articolo 64</rif>, è pari al fondo di cassa aumentato dei residui attivi e diminuito dei residui passivi.  
+ 
+2. L'avanzo di amministrazione è distinto in fondi non vincolati (avanzo buono) e fondi vincolati (avanzo finalizzato).  
+ 
+3. L'avanzo buono, presunto o definitivo, può essere utilizzato per il finanziamento delle spese in conto capitale nonché, per motivate contingenze di natura eccezionale, per spese correnti ma non continuative.  
+ 
+4. L'avanzo finalizzato, presunto o definitivo, può essere utilizzato per la iscrizione in conto competenza:</corpo>
+                    </comma>
+                    <comma id="art77-com37">
+                        <num/>
+
+                        <corpo>a) di economie, accertate alla fine dell'esercizio precedente su spese finanziate con fondi di entrata a destinazione  vincolata, ai sensi di legge; 
+ 
+ b) di spese finanziate con fondi, iscritti nel bilancio dell'esercizio precedente ai sensi dell'<rif xlink:href="#art22">articolo 22</rif>, commi 4 e 5; 
+ 
+ c) di residui di stanziamento riguardanti spese da erogarsi in annualità, cancellati alla fine dell'esercizio precedente.  </corpo>
+                    </comma>
+                    <comma id="art77-com38">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art21">Art. 21</rif> 
+ 
+Disavanzo di amministrazione 
+ 
+1. L'eventuale disavanzo di amministrazione, accertato secondo le modalità di calcolo di cui all'articolo precedente, è inserito nel bilancio per il suo riassorbimento.</corpo>
+                    </comma>
+                    <comma id="art77-com39">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art22">Art. 22</rif> 
+ 
+Fondi vincolati assegnati alla Regione 
+ 
+1. Tutte le entrate derivanti da assegnazioni dell'Unione Europea, dello Stato e da altri soggetti, confluiscono nel bilancio regionale senza vincolo a specifiche destinazioni, salvo che non sia diversamente stabilito da specifiche disposizioni di legge e da vincoli eventualmente imposti dai soggetti finanziatori.  
+ 
+2. Nei casi di cui al comma precedente, la Regione ha facoltà di stanziare o di erogare somme eccedenti quelle assegnate ferme, nel caso di delega di funzioni, le disposizioni delle leggi che disciplinano le relative funzioni.  
+ 
+3. La Regione ha altresì facoltà, qualora abbia erogato in un esercizio somme eccedenti quelle ad essa assegnate dallo Stato a norma del comma precedente, di compensare tali maggiori spese con minori stanziamenti ed erogazioni per lo stesso scopo nei due esercizi successivi.  
+ 
+4. La Regione può attribuire la spesa dei fondi statali, di cui al <rif
+                                xlink:href="#art77-com1">primo comma</rif>, alla competenza dell'esercizio immediatamente successivo allorché , in relazione all'epoca in cui avviene l'assegnazione, non sia possibile dar corso all'impegno di tali spese, a norma dell'<rif
+                                xlink:href="#art50">articolo 50</rif>, entro il termine dell'esercizio durante il quale ha luogo l'assegnazione stessa.  
+ 
+5. Nel caso di cui al comma precedente, l'acquisizione dei fondi statali resta ferma alla competenza dell'esercizio per il quale furono assegnati, mentre l'imputazione delle relative spese viene trasferita alla competenza dell'esercizio successivo.  
+ 
+6. Le spese di cui al comma precedente dovranno essere contraddistinte da un'annotazione da cui risulti che si tratti di spese finanziate con fondi statali assegnati sulla competenza dell'esercizio precedente. Fino a quando non sia approvato il rendiconto di tale ultimo esercizio, non si tiene conto delle spese di cui al precedente comma ai fini del calcolo dell'eventuale saldo finanziario negativo di cui all'<rif xlink:href="#art16">articolo 16</rif>.</corpo>
+                    </comma>
+                    <comma id="art77-com40">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art23">Art. 23</rif> 
+ 
+Entrate e spese degli Enti locali per le funzioni delegate 
+ 
+1. Nei casi in cui, con legge regionale, sia disposto il versamento agli Enti locali delle somme necessarie per l'effettuazione delle spese occorrenti per lo svolgimento delle funzioni loro delegate, tali entrate devono essere iscritte in appositi e distinti stanziamenti dei bilanci dei predetti Enti.  
+ 
+2. Al trasferimento delle somme, correlate a funzioni delegate, coperte da entrate a destinazione vincolata, si provvede secondo i meccanismi che sconta la Regione.  
+ 
+3. Al trasferimento delle somme, correlate a funzioni delegate, coperte da entrate proprie, si provvede, a bilancio di previsione approvato, con una anticipazione nella misura minima del 30% della somma stanziata, fermo restando il versamento del saldo a presentazione ed esame dei rendiconti di cui al <rif xlink:href="#art69">successivo articolo 69</rif>.  
+ 
+4. Le spese relative alle funzioni delegate dalla Regione devono essere incluse in appositi e distinti stanziamenti del bilancio dell'Ente locale.  
+ 
+5. Gli Enti locali devono assicurare l'omogeneità delle classificazioni di dette spese con quelle contenute nel bilancio regionale.  
+ 
+6. La Regione esercita la vigilanza sulla destinazione dei fondi trasferiti, mediante l'esame della situazione degli impegni assunti e dei pagamenti eseguiti per ciascun capitolo di spesa.</corpo>
+                    </comma>
+                    <comma id="art77-com41">
+                        <num/>
+
+                        <corpo>A tal fine, gli Enti locali devono trasmettere alla Giunta Regionale, semestralmente, la documentazione inerente, rispettivamente, gli impegni assunti e i pagamenti eseguiti nonché, annualmente, i rendiconti ai sensi del <rif xlink:href="#art69">successivo articolo 69</rif>. </corpo>
+                    </comma>
+                    <comma id="art77-com42">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art24">Art. 24</rif> 
+ 
+Fondo di riserva per le spese obbligatorie 
+ 
+1. Nello stato di previsione della spesa del bilancio annuale è iscritto, sia per competenza che per cassa, un fondo di riserva per le spese obbligatorie dipendenti dalla legislazione in vigore.  
+ 
+2. I prelievi di somme dal fondo di riserva per le spese obbligatorie e la loro iscrizione nello stanziamento di spesa dell'unità previsionale di competenza sono disposti dalla Giunta Regionale con proprio provvedimento. Con lo stesso provvedimento, ai fini della gestione e della rendicontazione, è indicato specificamente il capitolo o i capitoli di spesa interessati all'iscrizione delle somme.  
+ 
+3. Ai bilanci di previsione annuale è allegato l'elenco dei capitoli di spesa aventi carattere obbligatorio.</corpo>
+                    </comma>
+                    <comma id="art77-com43">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art25">Art. 25</rif> 
+ 
+Fondo di riserva per le spese impreviste 
+ 
+1. Nello stato di previsione della spesa del bilancio annuale è iscritto, sia per competenza che per cassa, un fondo di riserva per le spese impreviste.  
+ 
+2. L'utilizzo di somme da prelevare dal fondo di cui al <rif xlink:href="#art77-com1">comma 1</rif> può avvenire:</corpo>
+                    </comma>
+                    <comma id="art77-com44">
+                        <num/>
+
+                        <corpo>a) per sopperire ad eventuali deficienze delle assegnazioni di bilancio che non riguardino le spese di cui al <rif
+                                xlink:href="#art24">precedente  articolo 24</rif>. Deve comunque trattarsi di spese che non potevano prevedersi in alcun modo o in modo adeguato al momento  dell'approvazione del bilancio, che abbiano carattere di assoluta necessità ed improrogabile e non impegnino bilanci di  esercizi futuri; 
+ 
+ b) per restituire somme indebitamente percette; 
+ 
+ c) per provvedere al pagamento di spese afferenti esercizi scaduti, relative al normale funzionamento dei servizi   regionali, per le quali gli stanziamenti in conto residui sono insufficienti o inesistenti.  
+ 
+3. L'autorizzazione al prelievo di somme dal fondo di cui al <rif xlink:href="#art77-com1">comma 1</rif> e la conseguente iscrizione nello stanziamento dell'unità previsionale di competenza è disposta dalla Giunta Regionale con proprio provvedimento. Con lo stesso provvedimento, ai fini della gestione e della rendicontazione, è indicato specificatamente il capitolo o i capitoli di spese interessate all'iscrizione delle somme. Tale provvedimento viene comunicato tempestivamente al Consiglio.</corpo>
+                    </comma>
+                    <comma id="art77-com45">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art26">Art. 26</rif> 
+ 
+Fondo di riserva per le autorizzazioni di cassa 
+ 
+1. Nel solo bilancio di cassa è iscritto un fondo di riserva il cui ammontare è stabilito in misura non superiore ad un dodicesimo della somma dei pagamenti autorizzati dalla legge di bilancio e dai provvedimenti di variazione del preventivo.  
+ 
+2. I prelievi dal fondo di cui al <rif xlink:href="#art77-com1">comma 1</rif>, occorrenti sia per far fronte a maggiori spese che per sopperire a minori entrate, e le relative destinazioni ad integrazione delle altre unità previsionali di spesa, nonché dei relativi capitoli del bilancio di cassa, sono disposti con deliberazioni della Giunta Regionale non soggette a controllo.</corpo>
+                    </comma>
+                    <comma id="art77-com46">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art27">Art. 27</rif> 
+ 
+Fondo dei residui cancellati 
+ 
+1. Nello stato di previsione della spesa può iscriversi, sia per competenza che per cassa, apposito fondo da utilizzarsi per far fronte al pagamento di residui passivi eliminati per perenzione negli esercizi precedenti, in caso di richiesta degli aventi diritto.  
+ 
+2. Il fondo è movimentato esclusivamente con atto deliberativo della Giunta Regionale.</corpo>
+                    </comma>
+                    <comma id="art77-com47">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art28">Art. 28</rif> 
+ 
+Fondi speciali 
+ 
+1. Nel bilancio regionale sono iscritti, sia per competenza che per cassa, uno o più fondi speciali per gli importi indicati nella legge finanziaria, destinati a far fronte agli oneri derivanti da provvedimenti legislativi regionali che si prevede di approvare nel corso dell'esercizio.  
+ 
+2. I fondi, di cui al <rif
+                                xlink:href="#art77-com1">comma 1</rif>, sono tenuti distinti a seconda che siano destinati al finanziamento di spese correnti o di spese in conto capitale.  
+ 
+3. I fondi, di cui al <rif
+                                xlink:href="#art77-com1">comma 1</rif>, non sono utilizza bili per l'imputazione di atti di spesa, ma solo ai fini del prelievo di somme da iscrivere in aumento alle autorizzazioni di spesa delle unità previsionali esistenti o di nuove unità dopo l'entrata in vigore dei provvedimenti legislativi che autorizzano le spese medesime.  
+ 
+4. In appositi elenchi allegati al bilancio, separatamente per ciascun fondo globale, sono specificati i disegni di legge da finanziarsi con i fondi stessi ed i relativi oneri.  
+ 
+5. Le quote dei fondi speciali non utilizzate al termine dell'esercizio nel modo di cui al <rif
+                                xlink:href="#art77-com3">comma 3</rif> costituiscono economie di spesa.  
+ 
+6. Ai fini della copertura finanziaria di spese derivanti da provvedimenti legislativi non approvati entro il termine dell'esercizio relativo, può farsi riferimento alle quote non utilizzate di fondi speciali di detto esercizio, purché tali provvedimenti siano approvati prima del rendiconto di tale esercizio e comunque entro il termine di quello immediatamente successivo. In tale caso resta ferma l'assegnazione degli stanziamenti dei detti fondi speciali al bilancio nel quale essi furono iscritti a delle nuove o maggiori spese al bilancio dell'esercizio nel corso del quale si perfezionano i relativi provvedimenti legislativi.  
+ 
+7. Nei casi di cui al <rif xlink:href="#art77-com6">comma 6</rif>, allo stanziamento della nuova o maggiore spesa di bilancio deve accompagnarsi una annotazione da cui risulti che si tratta di spese finanziate con ricorso ai fondi speciali dell'esercizio precedente. Fino a quando non sia approvato il rendiconto di tale esercizio delle spese di cui al presente comma non si tiene conto ai fini del calcolo dell'eventuale disavanzo di cui all'articolo 16, comma 2.</corpo>
+                    </comma>
+                    <comma id="art77-com48">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art29">Art. 29</rif> 
+ 
+Garanzie prestate dalla Regione 
+ 
+1. La Regione può concedere, mediante legge, garanzie fidejussorie, principali e sussidiarie, a favore di Enti ed altri soggetti.  
+ 
+2. In relazione a ciascuna fidejussione concessa, la legge deve indicare: i beneficiari, il capitale garantito, la durata, l'obbligazione specifica o generica per la quale è stata concessa nonché la copertura finanziaria della relativa quota di rischio.  
+ 
+3. Al bilancio annuale va allegato l'elenco delle garanzie fidejussorie, principali o sussidiarie, concesse ai sensi del presente articolo e in vigore al momento della formulazione del bilancio stesso. Nel prospetto vanno specificati, per ciascuna fidejussione, gli elementi di cui al <rif xlink:href="#art77-com2">comma 2</rif>.</corpo>
+                    </comma>
+                    <comma id="art77-com49">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art30">Art. 30</rif> 
+ 
+Fondi di garanzia 
+ 
+1. La Regione può destinare mediante legge somme alla costituzione di fondi di garanzia a favore di Enti o di altri soggetti in relazione ad obbligazioni specifiche da questa assunte.  
+ 
+2. La gestione di tali fondi è svolta nell'ambito del bilancio regionale.  
+ 
+3. La legge deve indicare, tra l'altro: i beneficiari, l'ammontare del fondo e la relativa copertura finanziaria, il capitale garantito, la durata, la parte dell'obbligazione per la quale il fondo viene costituito.</corpo>
+                    </comma>
+                    <comma id="art77-com50">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art31">Art. 31</rif> 
+ 
+Quadro generale riassuntivo e prospetti allegati 
+ 
+1. Al bilancio di previsione annuale sono allegati:</corpo>
+                    </comma>
+                    <comma id="art77-com51">
+                        <num/>
+
+                        <corpo>a) un quadro generale riassuntivo che espone, distintamente per titoli e per funzioni obiettivo, rispettivamente, i totali  delle entrate e delle spese, riferiti agli stanziamenti di competenza ed agli stanziamenti di cassa; 
+ 
+ b) un prospetto che mette a raffronto le entrate, distinte per unità previsionali di base, derivanti da assegnazioni   dell'Unione europea e dello Stato, con l'indicazione della rispettiva destinazione specifica risultante dalla legge o dai  provvedimenti di assegnazione o di riparto, e le spese, distinte anch'esse in unità previsionali di base, aventi le   destinazioni di cui alle assegnazioni predette; 
+ 
+ c) un elenco dei capitoli in cui si articolano le unità previsionali di base; 
+ 
+ d) un elenco dei capitoli di spesa obbligatoria di cui all'<rif
+                                xlink:href="#art24">articolo 24</rif>; 
+ 
+ e) un elenco dei provvedimenti legislativi, che si prevede siano approvati nel corso dell'esercizio, per ciascun fondo   speciale previsto ai sensi dell'<rif xlink:href="#art28">articolo 28</rif>; 
+ 
+ f) un quadro dimostrativo del rispetto del vincolo relativo all'indebitamento autorizzato; 
+ 
+ g) un elenco dei capitoli finanziati con il ricorso all'indebitamento; 
+ 
+ h) un elenco delle garanzie fidejussorie, principali e sussidiarie, prestate dalla Regione e dei fondi di garanzia; 
+ 
+ i) la dimostrazione della formazione del saldo finanziario presunto dell'esercizio precedente a quello cui si riferisce il  bilancio; 
+ 
+ l) eventuali ulteriori allegati.  </corpo>
+                    </comma>
+                    <comma id="art77-com52">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art32">Art. 32</rif> 
+ 
+Bilanci degli Enti dipendenti dalla Regione 
+ 
+1. I bilanci degli Enti e degli organismi, in qualunque forma costituiti, dipendenti dalla Regione, sono trasmessi alla Giunta Regionale, entro l'1 di ottobre dell'anno precedente a quello cui si riferisce il preventivo stesso, e sono approvati dal Consiglio Regionale come allegati del bilancio regionale.  
+ 
+2. Sono dichiarati decaduti gli organi degli Enti ed organismi che non abbiano provveduto alla trasmissione dei relativi bilanci, nei termini di cui al comma precedente, salvo cause non imputabili agli stessi.  
+ 
+3. Nei bilanci annuali degli Enti e organismi, di cui al <rif
+                                xlink:href="#art77-com1">primo comma</rif>, la classificazione e la ripartizione del: spese, deve essere coordinata con quella adottata al bilancio regionale per consentire il consolidamento della spesa pubblica.  
+ 
+4. Gli atti di variazione o di assestamento ai bilanci preventivi, adottati dagli enti di cui al <rif xlink:href="#art77-com1">primo comma</rif>, sono approvati dalla Giunta Regionale, che provvede a darne tempestiva comunicazione al Consiglio Regionale.</corpo>
+                    </comma>
+                    <comma id="art77-com53">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art33">Art. 33</rif> 
+ 
+Assestamento di bilancio 
+ 
+1. Entro il 30 giugno di ogni anno il Consiglio Regionale su proposta della Giunta, approva, con legge, l'assestamento del bilancio. La presentazione del progetto di legge per l'assestamento è subordinata alla presentazione del progetto di legge sul rendiconto generale della Regione relativo all'esercizio antecedente a quello in corso.  
+ 
+2. Con la legge di assestamento si provvede:</corpo>
+                    </comma>
+                    <comma id="art77-com54">
+                        <num/>
+
+                        <corpo>a) all'aggiornamento dell'ammontare dei residui attivi e passivi risultanti alla chiusura dell'esercizio precedente a quello  cui il bilancio si riferisce; 
+ 
+ b) all'aggiornamento dell'ammontare della giacenza di cassa risultante alla chiusura dell'esercizio precedente a quello cui  il bilancio si riferisce; 
+ 
+ c) all'aggiornamento dell'eventuale saldo finanziario positivo o negativo risultante alla chiusura dell'esercizio precedente  a quello cui il bilancio si riferisce, e alla rideterminazione dell'ammontare dell'indebitamento, eventualmente   autorizzato, a copertura del saldo negativo; 
+ 
+ d) all'adeguamento delle previsioni iniziali di competenza e di cassa che si rendano necessarie in relazione a quanto   previsto alle precedenti lettere a), b) e c).  
+ 
+3. Con legge di assestamento del bilancio si possono altresì introdurre ulteriori variazioni al bilancio stesso.  
+ 
+4. Restano fermi i vincoli relativi all'equilibrio del bilancio di cui al <rif xlink:href="#art16">precedente articolo 16</rif>.</corpo>
+                    </comma>
+                    <comma id="art77-com55">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art34">Art. 34</rif> 
+ 
+Variazione al bilancio  
+ 
+1. legge di approvazione del bilancio regionale autorizza le variazioni al bilancio medesimo, da apportare nel corso dell'esercizio mediante provvedimenti amministrativi, per l'istituzione di nuove unità previsionali di entrata, per l'iscrizione di entrate derivanti da assegnazioni vincolate a scopi specifici da parte dello Stato e dell'Unione Europea, nonché per l'iscrizione delle relative spese, quando queste siano tassativamente regolate dalla legislazione in vigore.  
+ 
+2. La Giunta regionale con provvedimento amministrativo può effettuare variazioni compensative fra capitoli della medesima unità revisionale, fatta eccezione per le autorizzazioni di spesa di natura obbligatorie, per le spese in annualità ed a pagamento differito e per quelle direttamente regolate con legge.  
+ 
+3. La legge di bilancio o eventuali ulteriori provvedimenti legislativi di variazione possono autorizzare la Giunta regionale ad effettuare variazioni compensative, all'interno della medesima classificazione economica, tra unità previsionali di base strettamente collegate nell'ambito di una stessa funzione obiettivo o di uno stesso programma o progetto. Con le stesse modalità, al fine di assicurare la necessaria flessibilità nella gestione delle disponibilità di bilancio, la Giunta regionale può essere autorizzata ad effettuare variazioni compensative anche tra unità previsionali di base diverse, qualora le variazioni stesse siano necessarie per l'attuazione di interventi previsti da intese istituzionali di programma o da altri strumenti di programmazione negoziata.  
+ 
+4. La Giunta regionale può disporre variazioni compensative, nell'ambito della stessa o di diverse unità previsionali di base di conto capitale, anche tra stanziamenti autorizzati da leggi diverse, a condizione che si tratti di leggi che finanzino o rifinanzino interventi relativi alla stessa funzione obiettivo così come definita dall'<rif
+                                xlink:href="#art18-com1">articolo 18, comma 1</rif>. Il relativo provvedimento è comunicato al Consiglio regionale.  
+ 
+5. Salvo quanto previsto dal presente articolo e dagli articoli 24, 25, 26, 27 e 28, ogni altra variazione di bilancio deve essere disposta o autorizzata con legge regionale.  
+ 
+6. Le variazioni delle poste finanziarie di bilancio, di entrata e di spesa, conseguenti a leggi di spesa adottate in regime di esercizio provvisorio, vengono apportate solo in sede di discussione e approvazione del bilancio definitivo d'esercizio.  
+ 
+7. Nessuna variazione al bilancio, salvo quelle previste dal <rif xlink:href="#art77-com1">comma 1</rif> del presente articolo, può essere deliberata dopo il 30 novembre dell'anno cui il bilancio stesso si riferisce.</corpo>
+                    </comma>
+                    <comma id="art77-com56">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art35">Art. 35</rif> 
+ 
+Divieto di storni  
+ 
+1. Salvo quanto disposto dagli articoli 24, 25, 26, 27, 28 e 34 della presente legge, è vietato il trasporto, con atto amministrativo, di somme da una unità previsionale all'altra del bilancio, sia per quanto riguarda gli stanziamenti di competenza, sia per quanto riguarda gli stanziamenti di cassa.</corpo>
+                    </comma>
+                    <comma id="art77-com57">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#tit3">TITOLO III</rif> 
+ 
+DELL' INDEBITAMENTO 
+ </corpo>
+                    </comma>
+                    <comma id="art77-com58">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art36">Art. 36</rif> 
+ 
+Mutui ed altre forme di indebitamento 
+ 
+1. La contrazione di mutui o l'emissione di prestiti obbligazionari con oneri a carico del bilancio regionale è autorizzata, con la legge di approvazione del bilancio o con leggi di variazione dello stesso, esclusivamente per provvedere a coprire:</corpo>
+                    </comma>
+                    <comma id="art77-com59">
+                        <num/>
+
+                        <corpo>a) le spese d'investimento, al netto di quelle finanziate con entrate a destinazione vincolata; 
+ 
+ b) le spese per l'assunzione di partecipazioni a società finanziarie regionali; 
+ 
+ c) la quota parte del disavanzo, presunto alla fine dell'esercizio precedente, conseguente alla mancata contrazione   dell'indebitamento autorizzato dalla legge di bilancio o di variazione di quell'esercizio.  
+ 
+2. L'importo della relativa annualità di ammortamento per capitale ed interesse, aggiunta alle annualità riferite a mutui ed altre forme di indebitamento in estinzione nell'esercizio considerato e a quelle riferite a mutui e ad altre forme di indebitamento già autorizzate, ma ancora da contrarre, non può comunque superare il limite di cui all'<rif xlink:href="urn:nir:stato:legge:1970-03-16;281#art10-com2">articolo 10, comma 2 della legge 16 marzo 1970, n. 281</rif>.  
+ 
+3. Non può essere autorizzata la contrazione di nuovi mutui o prestiti se non è stato approvato dal Consiglio Regionale il rendiconto dell'esercizio di due anni precedenti a quello al cui bilancio i nuovi mutui o prestiti si riferiscono.  
+ 
+4. La legge di approvazione del bilancio o di variazione dello stesso, che autorizza la contrazione di nuovi mutui o prestiti, ne fissa anche il tasso massimo di interesse effettivo, la durata minima del periodo di ammortamento nonché la copertura dei relativi oneri nell'esercizio in corso e in quelli ricadenti nel bilancio pluriennale.  
+ 
+5. Alla contrazione dei mutui e all'emissione di prestiti obbligazionari si provvede in relazione alle effettive esigenze di cassa della Regione.  
+ 
+6. La Giunta Regionale determina le condizioni e le modalità per l'esecuzione delle operazioni di indebitamento autorizzate ed effettua le successive operazioni di gestione del debito che si rendessero opportune o necessarie in relazione all'andamento dei mercati.  
+ 
+7. L'autorizzazione alla contrazione di nuovi mutui o prestiti, concessa con la legge di approvazione del bilancio o con legge di variazione del medesimo, decade al termine dell'esercizio cui il bilancio si riferisce.  
+ 
+8. Le entrate derivanti dalla contrazione di nuovi mutui o prestiti, perfezionati entro il termine dell'esercizio, se non riscosse vengono iscritte tra i residui attivi.  
+ 
+9. Le somme iscritte nello stato di previsione dell'entrata del bilancio regionale in relazione ad operazioni di contrazione di nuovi mutui o prestiti autorizzati, ma non perfezionati entro il termine dell'esercizio, costituiscono minori entrate rispetto alle previsioni.</corpo>
+                    </comma>
+                    <comma id="art77-com60">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art37">Art. 37</rif> 
+ 
+Condizioni e modalità per l'emissione di prestiti obbligazionari  
+ 
+1. Relativamente all'emissione dei prestiti obbligazionari autorizzati, la Giunta Regionale determina le condizioni e le modalità per l'esecuzione delle operazioni di indebitamento autorizzate, previo conforme parere del Comitato interministeriale per il Credito ed il Risparmio, ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1970-05-16;281#art10-com3">articolo 10, comma 3 della legge 16 maggio 1970, n. 281</rif>.</corpo>
+                    </comma>
+                    <comma id="art77-com61">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art38">Art. 38</rif> 
+ 
+Anticipazioni di cassa  
+ 
+1. Al fine di fronteggiare temporanee deficienze di cassa, la Regione può ricorrere ad anticipazioni di cassa, il cui importo non può eccedere l'ammontare bimestrale delle entrate tributarie regionali, come desunte dall'ultimo rendiconto approvato.  
+ 
+2. Le condizioni e le modalità delle anticipazioni di cassa sono deliberate dalla Giunta Regionale sulla base della convenzione che disciplina il servizio di tesoreria.  
+ 
+3. Le anticipazioni di cassa devono essere estinte entro l'esercizio finanziario nel quale sono state contratte.</corpo>
+                    </comma>
+                    <comma id="art77-com62">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#tit4">TITOLO IV</rif> 
+ 
+DELLA GESTIONE ECONOMICA DEL BILANCIO 
+ </corpo>
+                    </comma>
+                    <comma id="art77-com63">
+                        <num/>
+                        <corpo>Art. 39 
+ 
+Direttiva annuale e ripartizione delle risorse 
+ 
+1. La Giunta Regionale, entro 15 giorni dalla data di entrata in vigore della legge regionale di approvazione del bilancio o di autorizzazione all'esercizio provvisorio, adotta una direttiva con cui, richiamate le missioni istituzionali affidate dalla legislazione ai singoli comparti della struttura regionale, identifica per ciascun dirigente titolare di centro di responsabilità amministrativa:</corpo>
+                    </comma>
+                    <comma id="art77-com64">
+                        <num/>
+                        <corpo>a) gli obiettivi prioritari delle politiche pubbliche settoriali, risultanti dalla legislazione settoriale vigente e in itinere e  dai documenti di programmazione, e gli altri centri di responsabilità amministrativa da essi coinvolti; 
+ 
+ b) i programmi e i progetti, in cui si articolano gli obiettivi di cui alla precedente lettera a), finanziati nell'ambito del  bilancio e ad esso affidati quale responsabile complessivo, con l'indicazione dei risultati da raggiungere alla fine di  ciascun programma e progetto, e comunque alla fine dell'esercizio, e delle altre strutture, interne alla amministrazione  o esterne ad esse, che possano influenzarne la realizzazione; 
+ 
+ c) i programmi e i progetti, in cui si articolano gli obiettivi di cui alla precedente lettera a), finanziati nell'ambito del  bilancio alla cui realizzazione collabora; 
+ 
+ d) gli obiettivi generali concernenti per legge l'attività amministrativa e la gestione del centro di responsabilità; 
+ 
+ e) le risorse finanziarie, umane e strumentali, assegnate per il raggiungimento degli obiettivi e per l'espletamento delle  attività, come sopra individuate.  
+ 
+2. La Giunta Regionale, contestualmente all'assegnazione delle risorse, individua, in base alla definizione dei servizi finali e strumentali evidenziati nelle rilevazioni analitiche elementari, gli indicatori specifici per misurare l'efficacia, l'efficienza e l'economicità dell'attività amministrativa. Con lo stesso atto sono individuati i modelli di project management da utilizzare nonché tutti gli ulteriori elementi che possano concorrere, in modo significativo, alla piena attuazione del controllo di gestione.  
+ 
+3. Il personale che ricopre gli incarichi di Direzione Generale, eventualmente costituito in conferenza permanente, fornisce elementi per l'elaborazione della direttiva annuale.  
+ 
+4. All'attribuzione delle risorse finanziarie, umane e strumentali consegue, per il dirigente titolare del centro di responsabilità amministrativa, l'assunzione di specifica responsabilità gestionale e di risultato.</corpo>
+                    </comma>
+                    <comma id="art77-com65">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art40">Art. 40</rif> 
+ 
+Contabilità economica  
+ 
+1. Al fine di consentire la valutazione economica dei servizi e delle attività prodotti, la Regione adotta un sistema di contabilità economica basato su rilevazioni analitiche per centri di costo. 
+ 
+2. Il sistema di contabilità economica collega le risorse umane, finanziarie e strumentali impiegate con i risultati conseguiti e le connesse responsabilità dirigenziali, allo scopo di realizzare il monitoraggio dei costi, dei rendimenti e dei risultati dell'azione svolta dall'amministrazione regionale. 
+ 
+3. Le rilevazioni e le risultanze della contabilità economica sono utilizzate anche al fine della formulazione del progetto di bilancio, della migliore allocazione delle risorse e della programmazione dell'attività finanziaria. 
+ 
+4. Componenti fondamentali del sistema di contabilità economica di cui al <rif xlink:href="#art77-com1">comma 1</rif>, sono:</corpo>
+                    </comma>
+                    <comma id="art77-com66">
+                        <num/>
+                        <corpo>a) il piano dei conti; 
+ 
+ b) i centri di costo; 
+ 
+ c) i servizi erogati.  
+ 
+5. Il piano dei conti classifica i costi secondo la loro natura e li scompone fino ad un livello ritenuto adeguato all'azione di autocontrollo dei centri di responsabilità amministrativa e a quella di supporto informativo del controllo di gestione. 
+ 
+6. I centri di costo sono individuati nei centri di responsabilità amministrativa. Ogni centro di costo definisce il budget economico secondo il piano dei conti e le funzioni da svolgere. Le previsioni economiche devono essere coerenti e trovare corrispondenza con gli stanziamenti del bilancio di previsione. I centri di costo sono posti in stretta relazione con i provvedimenti di riorganizzazione dell'Ente Regione. 
+ 
+7. I servizi erogati esprimono le funzioni elementari, finali e strumentali, cui danno luogo i diversi centri di costo per il raggiungimento degli scopi dall'Amministrazione Regionale. Essi sono aggregati nelle funzioni obiettivo che esprimono le missioni dell' Amministrazione Regionale. Il prodotto dell'attività amministrativa è misurato dagli indicatori individuati nell'atto di cui al comma 2 dell'articolo 38. 
+ 
+8. Per una piena attuazione del sistema di contabilità economica, gli atti di spesa e le registrazioni patrimoniali devono indicare il centro di responsabilità cui sono da imputare i relativi costi ed il periodo al quale essi sono riferiti.</corpo>
+                    </comma>
+                    <comma id="art77-com67">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art41">Art. 41</rif> 
+ 
+Raccordo tra contabilità economica e contabilità finanziaria 
+ 
+1. Al fine di collegare il risultato economico scaturente dalla contabilità analitica dei costi con quello della gestione finanziaria delle spese risultanti dal rendiconto generale della Regione, devono essere evidenziate le poste integrative e rettificative che esprimono le diverse modalità di contabilizzazione dei fenomeni di gestione.</corpo>
+                    </comma>
+                    <comma id="art77-com68">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art42">Art. 42</rif> 
+ 
+Verifica dei budget e variazione 
+ 
+1. Qualora nel corso della gestione intervengano situazioni che rendano necessarie un riadattamento dei budget dei centri di responsabilità amministrativa, la Giunta Regionale provvede a riassegnare le risorse necessarie ai centri di responsabilità amministrativa.</corpo>
+                    </comma>
+                    <comma id="art77-com69">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art43">Art. 43</rif> 
+ 
+Controllo di gestione 
+ 
+1. La Regione si dota di un sistema di controllo di gestione per verificare l'efficacia, l'efficienza e l'economicità dell'azione amministrativa al fine di ottimizzare, anche mediante tempestivi interventi di correzione, il rapporto tra costi e risultati.  
+ 
+2. Il controllo di gestione è attuato, secondo modalità fissate in apposito atto regolamentare, dalla struttura organizzativa individuata dalla Giunta Regionale.  
+ 
+3. I centri di responsabilità amministrativa sono le unità di riferimento in ordine alla misurazione dell'efficacia, dell'efficienza ed economicità dell'azione amministrativa.  
+ 
+4. I budget dei centri di responsabilità amministrativa costituiscono i modelli di riferimento su cui si basa la rilevazione degli scostamenti tra previsioni e consuntivi.  
+ 
+5. La struttura organizzativa, di cui al <rif
+                                xlink:href="#art77-com3">comma 3</rif>, si basa sul sistema informativo regionale ai fini della raccolta, analisi e diffusione delle informazioni.  
+ 
+6. La struttura organizzativa, di cui al <rif
+                                xlink:href="#art77-com3">comma 3</rif>, fornisce semestralmente e, comunque, su richiesta dei dirigenti titolari dei centri di responsabilità amministrativa e della Giunta Regionale, indicazioni riassuntive sull'attività spesa e sui risultati conseguiti esprimendo, nel contempo, una valutazione economica e finanziaria delle risultanze.  
+ 
+7. Le indicazioni riassuntive fornite possono giustificare gli interventi di correzione della pianificazione operativa e dei budget economici definiti dai centri di responsabilità amministrativa.  
+ 
+8. La lettera b) di cui al <rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7#art18-com4">comma 4 dell'articolo 18 della legge regionale 8 aprile 1997, n. 7</rif> è così modificata:  
+ 
+"b) la valutazione delle prestazioni e delle competenze organizzative dei propri dirigenti, in coerenza a quanto stabilito al riguardo dai contratti collettivi nazionali di lavoro e sulla base, anche, dei risultati del controllo di gestione".</corpo>
+                    </comma>
+                    <comma id="art77-com70">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#tit5">TITOLO V</rif> 
+ 
+DELLA GESTIONE FINANZIARIADEL BILANCIO 
+ </corpo>
+                    </comma>
+                    <comma id="art77-com71">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art44">Art. 44</rif> 
+ 
+Gestione finanziaria del bilancio 
+ 
+1. La gestione finanziaria del bilancio della Regione concerne il processo di acquisizione delle entrate e quello di erogazione delle spese.</corpo>
+                    </comma>
+                    <comma id="art77-com72">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art45">Art. 45</rif>  
+ 
+Le fasi dell'entrata 
+ 
+1. Le fasi dell'entrata della Regione sono: l'accertamento, la riscossione ed il versamento.</corpo>
+                    </comma>
+                    <comma id="art77-com73">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art46">Art. 46</rif> 
+ 
+Accertamento delle entrate 
+ 
+1. L'entrata è accertata quando l'Amministrazione appura il titolo e la ragione del credito, la persona del debitore e iscrive nella propria contabilità, come competenza dell'esercizio, l'ammontare del credito che viene a scadenza entro l'anno medesimo.  
+ 
+2. L'accertamento nei capitoli di entrata delle contabilità speciali è generato dall'impegno, di pari importo, sui corrispondenti capitoli di spesa.  
+ 
+3. Tutte le somme iscritte tra le entrate di competenza del bilancio e non accertate entro il termine dell'esercizio costituiscono minori accertamenti rispetto alle previsioni ed a tale titolo concorrono a determinare i risultati finali della gestione.</corpo>
+                    </comma>
+                    <comma id="art77-com74">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art47">Art. 47</rif> 
+ 
+Riscossione e versamento delle entrate 
+ 
+1. Le somme di spettanza della Regione, a qualsiasi titolo riscosse dagli agenti o dovute dai debitori diretti, devono essere integralmente versate al tesoriere regionale entro i termini fissati dalla legge, dai regolamenti e dalle convenzioni.  
+ 
+2. La vigilanza sugli accertamenti e sui versamenti delle entrate è demandata alla struttura regionale preposta alla Ragioneria.  
+ 
+3. Il tesoriere comunica alla Ragioneria della Regione, trimestralmente, ed ogni qualvolta gli sia richiesto, l'elenco dei versamenti effettuati nelle sue casse.</corpo>
+                    </comma>
+                    <comma id="art77-com75">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art48">Art. 48</rif> 
+ 
+Residui attivi  
+ 
+1. Costituiscono residui attivi le somme accertate e non riscosse entro il termine dell'esercizio.  
+ 
+2. Le somme di cui al comma precedente vengono conservate nel conto residui fino a quando i relativi crediti non siano stati riscossi o si siano estinti per prescrizione od altra causa.  
+ 
+3. Con deliberazione della Giunta Regionale, al termine di ciascun esercizio finanziario, sono determinati, per ciascuna unità previsionale di base della entrata, i residui attivi accertati.  
+ 
+4. Per ciascuna unità previsionale di base, i residui attivi sono accertati per capitolo di entrata del bilancio regionale e per esercizio di provenienza.</corpo>
+                    </comma>
+                    <comma id="art77-com76">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art49">Art. 49</rif> 
+ 
+Le fasi della spesa 
+ 
+1. Le fasi della spesa della Regione sono: l'impegno, la liquidazione, l'ordinazione ed il pagamento.</corpo>
+                    </comma>
+                    <comma id="art77-com77">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art50">Art. 50</rif> 
+ 
+Impegni di spesa  
+ 
+1. Gli impegni di spesa sono assunti nei limiti dei rispettivi stanziamenti di competenza del bilancio in corso.  
+ 
+2. Formano impegno sugli stanziamenti di competenza dell'esercizio le somme dovute dalla Regione in base alla legge, a contratto o ad altro titolo, a creditori determinati o determina bili, sempre che la relativa obbligazione venga a scadenza entro il termine dell'esercizio.  
+ 
+3. Nel caso di obbligazioni a carattere pluriennale assunte dalla Regione sulla base di specifica autorizzazione legislativa a norma del <rif xlink:href="#art6">precedente articolo 6</rif>, commi 2 e 3, ovvero assunte, per le spese correnti, quando ciò sia indispensabile per assicurare la continuità dei servizi, formano impegno sugli stanziamenti dell'esercizio le sole quote che vengono a scadenza nel corso dell'esercizio medesimo.  
+ 
+4. Per le spese in conto capitale o di investimento da erogarsi in annualità, il primo di ciascun stanziamento iscritto nel bilancio annuale costituisce il limite massimo a carico del quale possono essere assunti impegni relativi alla prima annualità. Gli impegni così assunti si estendono per tanti esercizi quante sono le annualità da pagare su ciascun stanziamento di bilancio degli esercizi successivi.  
+ 
+5. Per le spese riguardanti stipendi ed altre spese di funzionamento di analoga natura già di massima autorizzate, la registrazione degli impegni può essere effettuata una sola volta per tutto l'anno o a scadenze periodiche.  
+ 
+6. Al fine di conseguire il più efficiente e completo utilizzo delle risorse assegnate alla Regione, la Giunta Regionale è autorizzata ad assumere obbligazioni, anche a carico degli esercizi successivi, in conformità con l'importo e secondo la distribuzione temporale delle risorse disposte:</corpo>
+                    </comma>
+                    <comma id="art77-com78">
+                        <num/>
+
+                        <corpo>a) dai piani finanziari, sia di programmazione sia di cassa, approvati dall'Unione europea e dalle relative deliberazioni del  CIPE e di cofinanziamento nazionale; 
+ 
+ b) dai quadri finanziari, sia di programmazione sia di cassa, contenuti nelle deliberazioni del CIPE di riparto di risorse.  
+ 
+7. L'Amministrazione regionale può assumere impegni nei limiti dell'intera somma indicata al <rif xlink:href="#art77-com6">comma 6</rif>, lettere a) e b). I relativi pagamenti devono comunque essere contenuti nei limiti delle autorizzazioni annuali di bilancio.  
+ 
+8. Gli impegni di spesa sono assunti dagli organi regionali competenti nei limiti dei rispettivi stanziamenti di competenza del bilancio in corso ed entro la scadenza dell'esercizio di riferimento.  
+ 
+9. Tutte le somme iscritte negli stanziamenti di competenza del bilancio e non impegnate entro il termine dell'esercizio costituiscono economie di spesa e a tale titolo concorrono a determinare i risultati finali della gestione.</corpo>
+                    </comma>
+                    <comma id="art77-com79">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art51">Art. 51</rif> 
+ 
+Registrazione degli impegni 
+ 
+1. Tutte le proposte di provvedimenti che autorizzano spese a carico del bilancio della Regione debbono essere preventivamente trasmesse alla struttura regionale preposta alla Ragioneria, per la registrazione del relativo impegno, a cura delle strutture che gestiscono i rispettivi capitoli di bilancio.  
+ 
+2. Non si può procedere all'apposizione del visto qualora l'impegno ecceda la somma stanziata sul relativo capitolo di bilancio, o sia da imputare a capitolo diverso da quello indicato, oppure sia riferibile ai residui anziché alla competenza, o a questa piuttosto che a quelli. In tal caso, il dirigente responsabile della struttura regionale preposta alla Ragioneria comunica la propria determinazione motivata al dirigente della struttura regionale competente.  
+ 
+3. All'apposizione del visto di cui al <rif xlink:href="#art77-com2">comma 2</rif> corrisponde la prenotazione contabile dell'impegno di spesa, con la quale si rendono indisponibili le relative somme sullo stanziamento di riferimento.  
+ 
+4. Nei casi di annullamento degli atti presupposti dell'impegno, ne deve essere data immediata comunicazione alla struttura preposta alla Ragioneria per la cancellazione della registrazione.</corpo>
+                    </comma>
+                    <comma id="art77-com80">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art52">Art. 52</rif> 
+ 
+Liquidazione della spesa 
+ 
+1. La liquidazione della spesa comporta l'identificazione del creditore e la determinazione dell'ammontare esatto del debito scaduto ed è disposta sulla base di documentazione idonea a comprovare il diritto del creditore e, nel caso di provviste di materiali da affidare a consegnatari, il ricevimento, il collaudo e l'iscrizione in inventario dei beni stessi.  
+ 
+2. A tal fine il dirigente responsabile della competente struttura amministrativa regionale predispone e adotta gli atti per la liquidazione di ciascuna spesa apponendo specifica indicazione a seconda che trattasi di pagamenti in conto della competenza o dei residui e accertando che sia contenuta nei limiti del relativo impegno e dei corrispondenti stanziamenti di competenza e di cassa.</corpo>
+                    </comma>
+                    <comma id="art77-com81">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art53">Art. 53</rif> 
+ 
+Sistemi di pagamento 
+ 
+1. Il pagamento delle spese della Regione è disposto mediante:</corpo>
+                    </comma>
+                    <comma id="art77-com82">
+                        <num/>
+                        <corpo>a) mandati diretti emessi sul tesoriere della Regione; 
+ 
+ b) aperture di credito autorizzate, presso la tesoreria, dai dirigenti preposti ai centri di responsabilità amministrativa a  favore di funzionari delegati; 
+ 
+ c) ruoli di spese fisse.  
+ 
+2. I pagamenti sono disposti nei limiti dei rispettivi stanziamenti di cassa del bilancio in corso, con separata scritturazione secondo che si tratti di pagamenti in conto competenze e in conto residui.  
+ 
+3. La documentazione di spesa viene trasmessa alla struttura regionale preposta alla Ragioneria la quale, verificata la regolarità contabile e l'esatta imputazione della spesa al bilancio, nonché la disponibilità di fondi nel bilancio di cassa, provvede all'emissione dei mandati di pagamento.  
+ 
+4. Il dirigente responsabile della struttura regionale preposta alla Ragioneria, qualora non ritenga, per qualsiasi motivo di irregolarità, di dare corso ad una ordinazione di pagamento, restituisce con le sue osservazioni i relativi provvedimenti al dirigente responsabile della struttura regionale competente per materia.</corpo>
+                    </comma>
+                    <comma id="art77-com83">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art54">Art. 54</rif> 
+ 
+Mandati diretti  
+ 
+1. I mandati diretti sono firmati dal dirigente responsabile della struttura regionale preposta alla Ragioneria o da un suo delegato.  
+ 
+2. Ciascun mandato deve indicare l'importo da pagare, il luogo del pagamento, il nome del creditore a cui è imputata la spesa, distintamente per la competenza e i residui, nonché la causale e gli estremi del provvedimento di liquidazione della spesa e di autorizzazione al pagamento.  
+ 
+3. Sui titoli di spesa debbono essere altresì annotate le modalità di pagamento secondo quanto stabilito dal <rif xlink:href="#art59">successivo articolo 59</rif>.</corpo>
+                    </comma>
+                    <comma id="art77-com84">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art55">Art. 55</rif> 
+ 
+Aperture di credito ed ordini di accreditamento 
+ 
+1. Il dirigente preposto al centro di responsabilità amministrativa ha facoltà di autorizzare, presso la tesoreria regionale, aperture di credito, sia in conto competenza che in conto residui, a favore di funzionari delegati per il pagamento delle seguenti spese:</corpo>
+                    </comma>
+                    <comma id="art77-com85">
+                        <num/>
+                        <corpo>a) spese da effettuarsi in economia; 
+ 
+ b) spese fisse ed indennità quando non siano stabilite in somma certa, nonché indennità di missione e di trasferimento; 
+ 
+ c) spese per le quali debba provvedersi al pagamento immediato; 
+ 
+ d) spese per il funzionamento degli uffici; 
+ 
+ e) spese di qualsiasi natura per le quali le leggi ed i regolamenti consentono il pagamento a mezzo di funzionari delegati.  
+ 
+2. L'ammontare delle aperture di credito, a favore di ciascun funzionario delegato e per singolo capitolo di spesa, è ragguagliato all'entità del servizio da svolgere e non può superare comunque il limite di 100.000 euro.  
+ 
+3. Alle aperture di credito si provvede mediante ordini di accreditamento, emessi dalla struttura regionale preposta alla Ragioneria, intestati al funzionario delegato con l'indicazione della sua qualità.  
+ 
+4. Ciascun ordine di accreditamento deve indicare la somma da riscuotere mediante buoni a favore dello stesso funzionario delegato e quelle prelevabili mediante ordinativi a favore dei creditori.  
+ 
+5. Il prelievo mediante buoni deve essere effettuato di volta in volta secondo le effettive occorrenze; in caso di necessità, da motivarsi nel provvedimento, può consentirsi il totale prelevamento mediante buoni della somma accreditata.  
+ 
+6. Le somme prelevate mediante buoni sugli ordini di accreditamento, che risultassero in eccedenza al fabbisogno, devono essere riversate dal funzionario delegato al tesoriere regionale e portate in aumento del credito residuale.  
+ 
+7. È consentita l'emissione in favore dello stesso funzionario delegato di più ordini di accreditamento aventi il medesimo oggetto, purché l'importo complessivo delle somme, non ancora giustificate, non superi i limiti di cui al precedente comma.</corpo>
+                    </comma>
+                    <comma id="art77-com86">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art56">Art. 56</rif> 
+ 
+Responsabilità del funzionario delegato ed obblighi del tesoriere  
+ 
+1. I funzionari delegati sono personalmente responsabili delle spese da essi ordinate e liquidate e dei pagamenti effettuati mediante prelevamenti dalle aperture di credito.  
+ 
+2. Il tesoriere regionale, nel dar corso a tali prelevamenti, deve accertare che il funzionario delegato rivesta la qualifica indicata nell'ordine di accreditamento e che i prelevamenti non eccedano l'ammontare dell'apertura di credito e le condizioni nella stessa indicate.  
+ 
+3. I tassi d'interesse attivi sulle giacenze derivanti dalle aperture di credito devono essere concordati dal tesoriere con i competenti organi della Regione.</corpo>
+                    </comma>
+                    <comma id="art77-com87">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art57">Art. 57</rif> 
+ 
+Rendiconto dei funzionari delegati  
+ 
+1. I funzionari delegati hanno l'obbligo di compilare e trasmettere all'Amministrazione regionale, entro venticinque giorni dalla scadenza di ciascun semestre ed, in ogni caso, al termine dell'esercizio, il rendiconto dei prelevamenti effettuati sulle aperture di credito, distintamente per capitoli di bilancio, per la competenza ed i residui.  
+ 
+2. Devono altresì compilare detto rendiconto quando l'accreditamento sia esaurito, ovvero in caso di cessazione delle attribuzioni in relazione alle quali vennero autorizzate in loro favore le aperture di credito ed in caso di loro sostituzione nell'esercizio delle attribuzioni medesime.  
+ 
+3. Al termine dell'esercizio le aperture di credito concesse ai singoli funzionari delegati vengono ridotte alla somma effettivamente utilizzata.  
+ 
+4. Le somme prelevate dai funzionari delegati sulle aperture di credito che non siano state erogate al termine dell'esercizio possono essere trattenute per effettuare pagamenti di spese esclusivamente riferibili all'esercizio scaduto.  
+ 
+5. La giustificazione di tali pagamenti è compresa in un rendiconto suppletivo da presentarsi non oltre il 31 marzo. Le somme non erogate alla chiusura del rendiconto sono versate in tesoreria.  
+ 
+6. I rendiconti di cui ai precedenti commi devono essere trasmessi, insieme a tutti i documenti giustificativi, alla struttura regionale preposta alla Ragioneria per la verifica della regolarità delle spese e dell'osservanza dei limiti delle rispettive aperture di credito.  
+ 
+7. La struttura di cui al comma precedente può disporre, in qualsiasi momento, accertamenti diretti presso il funzionario delegato e la tesoreria della Regione al fine di riscontrare la regolarità amministrativa e contabile delle operazioni effettuate dal predetto funzionario.</corpo>
+                    </comma>
+                    <comma id="art77-com88">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art58">Art. 58</rif> 
+ 
+Ruoli di spese fisse 
+ 
+1. I ruoli di spese fisse possono essere utilizzati per il pagamento degli stipendi, delle pensioni, dei fitti, delle erogazioni assistenziali e degli altri pagamenti periodici a scadenze determinate.  
+ 
+2. I ruoli sono emessi dalla struttura regionale preposta alla Ragioneria e sono firmati dal dirigente responsabile.  
+ 
+3. Il pagamento delle singole rate, alle scadenze fissate, è effettuato dal tesoriere regionale.  
+ 
+4. Entro trenta giorni dalla scadenza di ciascun quadrimestre dell'anno solare i pagamenti effettuati sulla base dei ruoli di spesa fissa sono comunicati alla struttura regionale preposta alla Ragioneria per i riscontri di competenza.</corpo>
+                    </comma>
+                    <comma id="art77-com89">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art59">Art. 59</rif> 
+ 
+Estinzione dei titoli di spesa  
+ 
+1. I titoli di spesa si estinguono in uno dei seguenti modi:</corpo>
+                    </comma>
+                    <comma id="art77-com90">
+                        <num/>
+                        <corpo>a) versamento in contanti a firma diretta di quietanza del creditore; 
+ 
+ b) accreditamento in conto corrente postale al nome del creditore; 
+ 
+ c) assegno postale localizzato; 
+ 
+ d) accreditamento in conto corrente bancario intestato al creditore; 
+ 
+ e) commutazione in reversale di versamento a favore della Regione stessa per le ritenute a qualunque titolo effettuate  sui pagamenti; 
+ 
+ f) commutazione in assegno circolare non trasferibile emesso a favore del creditore, da spedire al richiedente mediante  lettera raccomandata con avviso di ricevimento e con spese a carico del destinatario.  </corpo>
+                    </comma>
+                    <comma id="art77-com91">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art60">Art. 60</rif> 
+ 
+Estinzione dei titoli di spesa non pagati a chiusura dell'esercizio  
+ 
+1. I titoli di spesa non estinti, nei modi di cui all'articolo precedente, alla data del 31 dicembre dell'esercizio di riferimento, sono trasportati nel nuovo esercizio finanziario, dopo averne modificato l'imputazione dalla competenza nei corrispondenti residui passivi.  
+ 
+2. Al rinnovo dei titoli di cui al <rif xlink:href="#art77-com1">primo comma</rif> provvede la struttura regionale preposta alla Ragioneria previo riscontro contabile.</corpo>
+                    </comma>
+                    <comma id="art77-com92">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art61">Art. 61</rif> 
+ 
+Residui passivi  
+ 
+1. Costituiscono residui passivi propri le somme impegnate, a norma dell'<rif xlink:href="#art50">articolo 50</rif>, e non pagate entro il termine dell'esercizio.  
+ 
+2. La conservazione dei residui passivi propri è consentita per non più di due anni successivi a quello in cui l'impegno si è perfezionato, per le spese correnti, e per non più di sette anni, per le spese in conto capitale.  
+ 
+3. Le somme iscritte negli stanziamenti di spesa in conto capitale o di investimento, non impegnate entro il termine dell'esercizio, possono essere mantenute in bilancio quali residui passivi di stanziamento, non oltre il terzo esercizio finanziario successivo a quello della prima iscrizione.  
+ 
+4. I residui di stanziamento, correlati ad annualità di un limite d'impegno, possono essere reiscritti negli stanziamenti di competenza dell'esercizio successivo a quello nel quale sono stati cancellati, previo provvedimento legislativo d'autorizzazione. In tal caso la scadenza del limite d'impegno viene correlativamente prorogata.  
+ 
+5. L'eliminazione dal conto dei residui di spese finanziate con fondi assegnati con vincolo di destinazione, ai sensi di legge, comporta la correlativa reiscrizione delle stesse somme alla competenza del nuovo esercizio per le medesime od analoghe finalità.</corpo>
+                    </comma>
+                    <comma id="art77-com93">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art62">Art. 62</rif> 
+ 
+Accertamento dei residui passivi 
+ 
+1. Con deliberazione della Giunta Regionale, al termine di ciascun esercizio finanziario, sono determinati i residui passivi relativamente a ciascuna unità previsionale di base della spesa.  
+ 
+2. Per ciascuna unità previsionale di base i residui passivi sono accertati per ogni capitolo di bilancio.</corpo>
+                    </comma>
+                    <comma id="art77-com94">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art63">Art. 63</rif> 
+ 
+Autonomia contabile del Consiglio regionale 
+ 
+1. Fermo restando il disposto della <rif
+                                xlink:href="urn:nir:stato:legge:1973-12-06;853">legge 6 dicembre 1973 n. 853</rif>, le spese occorrenti per il funzionamento del Consiglio Regionale sono gestite autonomamente dal medesimo secondo le norme del suo regolamento interno.  
+ 
+2. L'ammontare della somma necessaria è iscritta ogni anno nel bilancio regionale sulla base della richiesta degli organi competenti del Consiglio ai sensi dello <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto</rif> e del regolamento interno.  
+ 
+3. L'eventuale avanzo di amministrazione risultante in chiusura di ciascun esercizio affluisce nello stato di previsione delle entrate del bilancio regionale dell'esercizio successivo, concorrendo così a determinare le risultanze finali.</corpo>
+                    </comma>
+                    <comma id="art77-com95">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#tit6">TITOLO VI</rif> 
+ 
+DEL RENDICONTO  
+ </corpo>
+                    </comma>
+                    <comma id="art77-com96">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art64">Art. 64</rif> 
+ 
+Rendiconto generale 
+ 
+1. I risultati della gestione della Regione sono dimostrati nel rendiconto generale annuale.  
+ 
+2. Il rendiconto generale della Regione è presentato dalla Giunta entro il 30 aprile dell'anno successivo a quello cui si riferisce, ed è approvato dal Consiglio, con legge regionale, entro il 30 giugno dello stesso anno.  
+ 
+3. Il rendiconto generale comprende il conto del bilancio ed il conto generale del patrimonio.</corpo>
+                    </comma>
+                    <comma id="art77-com97">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art65">Art. 65</rif> 
+ 
+Documenti allegati al rendiconto generale 
+ 
+1. Al rendiconto generale sono allegati, a titolo di documentazione:</corpo>
+                    </comma>
+                    <comma id="art77-com98">
+                        <num/>
+
+                        <corpo>a) un prospetto in cui sono indicate riassuntivamente le spese sostenute da Enti ed organismi, in qualunque forma   costituiti, dipendenti dalla Regione; 
+ 
+ b) un prospetto riassuntivo, ricavato dai dati acquisiti in forza del <rif xlink:href="#art69">successivo articolo 69</rif>, indicante le spese erogate  dagli Enti locali per l'esecuzione di funzioni a essi delegate dalla Regione, o per le quali la Regione si avvalga dei loro  uffici; 
+ 
+ c) i rendiconti degli Enti e degli organismi, in qualunque forma costituiti, dipendenti dalla Regione; 
+ 
+ d) l'ultimo bilancio approvato da ciascuna società in cui la Regione abbia partecipazione finanziaria; 
+ 
+ e) un elenco della situazione annuale dei fondi di garanzia contenente gli elementi indicati al comma 3 dell'articolo 30  della presente legge. </corpo>
+                    </comma>
+                    <comma id="art77-com99">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art66">Art. 66</rif> 
+ 
+Conto del bilancio 
+ 
+1. Nel conto del bilancio sono esposte le risultanze della gestione delle entrate e delle spese secondo la stessa struttura del bilancio di previsione. Esso è costruito sulla base della classificazione incrociata per funzioni obiettivo e per unità previsionali di base, suddivise in capitoli, in modo da consentire una valutazione economica e finanziaria delle risultanze di entrata e di spesa in relazione agli obiettivi stabiliti ed agli indicatori di efficacia e di efficienza individuati.2. Il conto del bilancio espone, nell'ordine, per ciascuna unità previsionale di base dell'entrata del bilancio, suddivisa per capitoli:</corpo>
+                    </comma>
+                    <comma id="art77-com100">
+                        <num/>
+                        <corpo>a) l'ammontare dei residui attivi accertati all'inizio dell'esercizio cui il conto si riferisce; 
+ 
+ b) le previsioni finali di competenza; 
+ 
+ c) le previsioni finali di cassa; 
+ 
+ d) l'ammontare delle entrate riscosse e versate in conto residui; 
+ 
+ e) l'ammontare delle entrate riscosse e versate in conto competenza; 
+ 
+ f) l'ammontare complessivo delle entrate riscosse e versate nell'esercizio; 
+ 
+ g) l'ammontare delle entrate accertate nell'esercizio; 
+ 
+ h) l'eccedenza di entrate o le minori entrate accertate rispetto alle previsioni di competenza; 
+ 
+ i) le eccedenze di entrate o le minori entrate riscosse e versate rispetto alle previsioni di cassa; 
+ 
+ l) l'ammontare dei residui attivi accertati all'inizio dell'esercizio ed eliminati nel corso dell'esercizio nonché dei residui  attivi riprodotti; 
+ 
+ m) l'ammontare dei residui attivi provenienti dagli esercizi precedenti, rideterminati alla fine dell'esercizio in base alle  cancellazioni o ai riaccertamenti effettuati, e da riportare al nuovo esercizio; 
+ 
+ n) l'ammontare complessivo dei residui attivi formatisi nel corso dell'esercizio; 
+ 
+ o) l'ammontare complessivo dei residui attivi al termine dell'esercizio.  
+ 
+3. Il conto del bilancio espone, nell'ordine, per ciascuna unità previsionale di base della spesa del bilancio, suddivisa per capitoli:</corpo>
+                    </comma>
+                    <comma id="art77-com101">
+                        <num/>
+                        <corpo>a) l'ammontare dei residui passivi accertati all'inizio dell'esercizio cui si riferisce il conto; 
+ 
+ b) le previsioni finali di competenza; 
+ 
+ c) le previsioni finali di cassa; 
+ 
+ d) l'ammontare dei pagamenti effettuati in conto residui; 
+ 
+ e) l'ammontare dei pagamenti effettuati in conto competenza; 
+ 
+ f) l'ammontare complessivo dei pagamenti nell'esercizio; 
+ 
+ g) l'ammontare degli impegni assunti nell'esercizio; 
+ 
+ h) le economie e le eccedenze di impegni rispetto agli stanziamenti di competenza; 
+ 
+ i) le economie o le eccedenze di pagamenti rispetto agli stanziamenti di cassa; 
+ 
+ l) l'ammontare dei residui passivi accertati all'inizio dell'esercizio ed eliminati nel corso dell'esercizio medesimo, nonché  dei residui passivi riprodotti nel corso dell'esercizio; 
+ 
+ m) l'ammontare dei residui passivi provenienti dagli esercizi precedenti rideterminati alla fine dell'esercizio, in base alle  cancellazioni ed altre reiscrizioni effettuate, e da riportare al nuovo esercizio; 
+ 
+ n) l'ammontare dei residui passivi formatisi nel corso dell'esercizio; 
+ 
+ o) l'ammontare complessivo dei residui passivi al termine dell'esercizio.  
+ 
+4. Al conto del bilancio è allegata una relazione che illustra i dati consuntivi, esposti nel conto stesso, ponendo in evidenza il significato amministrativo ed economico delle risultanze contabili, i costi sostenuti ed i risultati conseguiti per ciascun servizio, piano o progetto della Regione in relazione agli obiettivi ed agli indirizzi della programmazione regionale.</corpo>
+                    </comma>
+                    <comma id="art77-com102">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art67">Art. 67</rif> 
+ 
+Conto generale del patrimonio  
+ 
+1. Il conto generale del patrimonio espone l'andamento patrimoniale della Regione, dalla consistenza iniziale a quella finale, distintamente per:</corpo>
+                    </comma>
+                    <comma id="art77-com103">
+                        <num/>
+                        <corpo>a) attività e passività finanziarie; 
+ 
+ b) beni mobili e immobili; 
+ 
+ c) ogni altra attività e passività, nonché le poste rettificative.  
+ 
+2. Il conto generale del patrimonio contiene, inoltre, la dimostrazione dei punti di concordanza tra la contabilità del bilancio e quella del patrimonio.  
+ 
+3. Al fine di consentire l'armonizzazione del conto del patrimonio regionale con quello relativo al patrimonio dello Stato, il conto stesso viene riclassificato secondo i criteri stabiliti dalla normativa statale in materia.  
+ 
+4. Ferma restando l'attuale distinzione in categorie dei beni della Regione, nel conto generale del patrimonio è introdotta un'ulteriore classificazione, al fine di consentire l'individuazione di beni suscettibili di utilizzazione economica.  
+ 
+5. Al conto generale del patrimonio sono allegati:</corpo>
+                    </comma>
+                    <comma id="art77-com104">
+                        <num/>
+                        <corpo>a) un elenco descrittivo dei beni appartenenti al patrimonio immobiliare della Regione, con l'indicazione delle rispettive  destinazioni, del reddito eventualmente prodotto e della loro consistenza all'inizio e al termine dell'esercizio; 
+ 
+ b) un elenco riassuntivo per categoria dei beni mobili, nella consistenza all'inizio ed al termine dell'esercizio; 
+ 
+ c) un elenco descrittivo dei titoli di credito e quelle altre attività, nella consistenza all'inizio ed alla fine dell'esercizio; 
+ 
+ d) un elenco descrittivo dei mutui passivi e delle altre passività, nella consistenza all'inizio ed alla fine dell'esercizio; 
+ 
+ e) una relazione che illustra le variazioni che si sono verificate nel patrimonio della Regione in conseguenza dell'esercizio  del bilancio e di altre eventuali cause da esso dipendenti. L'illustrazione comprende tutta la dinamica patrimoniale dalle  sue componenti iniziali alle risultanze finali.  </corpo>
+                    </comma>
+                    <comma id="art77-com105">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art68">Art. 68</rif> 
+ 
+Rendiconto degli enti dipendenti dalla Regione 
+ 
+1. I rendiconti degli Enti ed organismi, in qualunque forma costituiti, dipendenti dalla Regione sono trasmessi annualmente alla Giunta Regionale per essere approvati dal Consiglio come allegati del rendiconto della Regione.  
+ 
+2. I rendiconti, di cui al comma precedente, devono essere redatti in conformità alle disposizioni contenute negli articoli 64, 65, 66 e 67 della presente legge, in quanto applicabili.</corpo>
+                    </comma>
+                    <comma id="art77-com106">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art69">Art. 69</rif> 
+ 
+Rendiconto delle spese per le funzioni delegate agli Enti locali 
+ 
+1. Gli Enti locali sono tenuti a trasmettere, entro il 20 marzo di ciascun anno, il rendiconto relativo al precedente esercizio, in cui siano messe a raffronto le entrate, derivanti da assegnazioni della Regione per funzioni delegate con l'indicazione della rispettiva destinazione specifica risultante dalle leggi o provvedimenti di assegnazione e di riparto, e le spese aventi la destinazione di cui alle assegnazioni precedenti.</corpo>
+                    </comma>
+                    <comma id="art77-com107">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#tit7">TITOLO VII</rif> 
+ 
+DELLA RESPONSABILITÀ PER DANNI VERSO L'ENTE REGIONE 
+ </corpo>
+                    </comma>
+                    <comma id="art77-com108">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art70">Art. 70</rif> 
+ 
+Accertamento della responsabilità 
+ 
+1. Gli amministratori ed i dipendenti regionali, per i danni arrecati all'Ente Regione nell'esercizio delle loro funzioni, rispondono nei soli casi e negli stessi limiti di cui alle leggi 14 gennaio 1994, n. 20 e 20 dicembre 1996, n. 639.  
+ 
+2. Agli amministratori ed ai dipendenti regionali, per le ipotesi di responsabilità di cui al comma precedente, si applicano gli istituti processuali valevoli per i dipendenti delle amministrazioni dello Stato.</corpo>
+                    </comma>
+                    <comma id="art77-com109">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art71">Art. 71</rif> 
+ 
+Obbligo di denuncia 
+ 
+1. Gli amministratori ed i dipendenti della Regione che vengono a conoscenza, per ragioni del loro ufficio, di fatti che diano luogo a responsabilità debbono farne denuncia al Procuratore Generale della Corte dei Conti, indicando tutti gli elementi raccolti per l'accertamento delle responsabilità ai fini della determinazione dei danni.  
+ 
+2. Non si configura l'obbligo di denuncia, di cui al comma precedente, in ordine ai fatti segnalati dagli addetti delle strutture che effettuano il controllo di gestione, la valutazione della dirigenza ed il controllo strategico in conseguenza dell'esercizio delle relative funzioni.</corpo>
+                    </comma>
+                    <comma id="art77-com110">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#tit8">TITOLO VIII</rif>  
+ 
+SERVIZI DI TESORERIA 
+ </corpo>
+                    </comma>
+                    <comma id="art77-com111">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art72">Art. 72</rif> 
+ 
+Servizi di tesoreria della Regione 
+ 
+1. La Regione affida, ad uno o più istituti di credito associati, esercenti attività nel territorio della Regione, il servizio di tesoreria.  
+ 
+2. L'affidamento è effettuato secondo procedure ad evidenza pubblica, nel rispetto della normativa comunitaria e nazionale vigente.  
+ 
+3. Le modalità di svolgimento del servizio ed i connessi rapporti obbligatori sono disciplinati da apposito capitolato speciale e convenzione, approvati dalla Giunta Regionale, che stabiliscano le modalità per lo svolgimento del servizio stesso e determinino le garanzie da presentarsi dall'istituto o dagli istituti incaricati, il tasso d'interesse attivo sulle giacenze di cassa e di quello passivo sulle anticipazioni, nonché le modalità per l'aggiornamento dei medesimi, la valuta per i versamenti ed i prelevamenti, nonché le altre condizioni connesse alle esigenze dei servizi della Regione ed agli obblighi conseguenti al sistema di Tesoreria unica.</corpo>
+                    </comma>
+                    <comma id="art77-com112">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#art73">Art. 73</rif> 
+ 
+Conto del tesoriere 
+ 
+1. Entro il 15 marzo di ciascun anno, il tesoriere deve presentare alla Regione il conto delle riscossioni e dei pagamenti effettuati nell'esercizio scaduto.  
+ 
+2. La struttura preposta alla Ragioneria della Regione vigila sul servizio di tesoreria ed accerta periodicamente la concordanza delle scritture del tesoriere con quelle tenute dalla Regione e, se nulla osta, il dirigente responsabile appone il visto di concordanza sul conto finale del tesoriere, di cui al comma precedente, entro il 15 aprile di ciascun anno.</corpo>
+                    </comma>
+                    <comma id="art77-com113">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art74">Art. 74</rif> 
+ 
+Responsabilità del tesoriere regionale 
+ 
+1. Il tesoriere regionale non pagherà alcuna somma i cui titoli di spesa non siano conformi alle disposizioni della presente legge.  
+ 
+2. Il tesoriere regionale è inoltre responsabile per la riscossione delle entrate e per le altre incombenze derivanti dall'assunzione del servizio e dei pagamenti eseguiti in difformità del criterio di priorità, stabilito dall'<rif
+                                xlink:href="urn:nir:stato:decreto.legislativo:1997-08-07;279#art7">articolo 7 del decreto legislativo 7 agosto 1997 n. 279</rif>, di cui risponde nei modi indicati dal <rif xlink:href="#art77-com4">comma 4</rif> del medesimo articolo.  
+ 
+3. La vigilanza ed il riscontro esercitato dai rappresentanti della Regione sulla gestione del servizio di tesoreria non comportano esclusione o diminuzione della responsabilità del tesoriere.</corpo>
+                    </comma>
+                    <comma id="art77-com114">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#tit9">TITOLO IX</rif> 
+ 
+DISPOSIZIONI TRANSITORIE E FINALI 
+ </corpo>
+                    </comma>
+                    <comma id="art77-com115">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art75">Art. 75</rif> 
+ 
+Norme transitorie 
+ 
+1. Limitatamente all'esercizio finanziario 2001 il rendiconto generale della Regione è redatto secondo le norme contenute nella <rif
+                                xlink:href="urn:nir:regione.molise:legge:1977-12-03;44">legge regionale 3 dicembre 1977, n. 44</rif>.  
+ 
+2. Al fine di consentire un graduale adeguamento della gestione contabile alle disposizioni contenute nella presente legge, in ordine all'accertamento dei residui attivi e passivi al 31 dicembre 2001 ed alla loro conservazione si applicano le norme contenute negli articoli 43, 44, 45 e 46 della <rif
+                                xlink:href="urn:nir:regione.molise:legge:1977-12-03;44">legge regionale 3 dicembre 1977, n. 44</rif>.  
+ 
+3. Gli Enti e gli organismi, in qualunque forma costituiti, dipendenti dalla Regione, per i quali sia prevista l'approvazione dei bilanci e delle relative variazioni, nonché dei rendiconti, si adeguano a quanto disposto dalla presente legge a decorrere dall'esercizio 2003.  
+ 
+4. Il documento annuale di programmazione, previsto all'<rif xlink:href="#art7">articolo 7</rif>, verrà predisposto dalla Giunta regionale in relazione al bilancio di previsione 2003.</corpo>
+                    </comma>
+                    <comma id="art77-com116">
+                        <num/>
+                        <corpo>
+                            <mod id="art77-com116-mod1">
+                                <rif
+                                    xlink:href="#art76">Art. 76</rif> 
+ 
+Abrogazioni 
+ 
+1. È abrogata la <rif
+                                    xlink:href="urn:nir:regione.molise:legge:1977-12-03;44">legge regionale 3 dicembre 1977, n. 44</rif>:  
+ 
+"Contabilità regionale della Regione Molise" e successive modificazioni ed integrazioni, fatto salvo quanto disposto dall'<rif xlink:href="#art75">articolo 75</rif> della presente legge.  
+ 
+2. Si intendono abrogate le norme in contrasto con il disposto della presente legge.  
+ 
+3. I rinvii operati da leggi regionali o da provvedimenti amministrativi alle norme abrogate, si intendono riferiti alle corrispondenti disposizioni della presente legge, ove compatibili.</mod>
+                        </corpo>
+                    </comma>
+                    <comma id="art77-com117">
+                        <num/>
+                        <corpo>
+                            <rif
+                                xlink:href="#art77">Art. 77</rif> 
+ 
+Entrata in vigore  
+ 
+1. La presente legge è dichiarata urgente ai sensi dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto</rif> ed entra in vigore il giorno della sua pubblicazione sul Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise.  
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione>
+            <dataeluogo codice="00100" norm="">2. Entro il 31 dicembre 2002 </dataeluogo>
+        </conclusione><?error si provveder&#xE0; ad apportare le modifiche necessarie a realizzare una pi&#xF9; efficace disciplina della materia, conseguenti ad una verifica dell'effettiva rispondenza del nuovo assetto alle esigenze funzionali della Regione, quali emerse anche in sede di Commissione per l'autoriforma del Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

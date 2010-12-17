@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <LeggeRegionale>
+    <meta>
+      <descrittori>
+<pubblicazione tipo="GU" num="" norm=""/>
+<entratainvigore norm=""/>
+<redazione nome="" id="red1" norm=""/>
+<urn valore=""/>
+</descrittori>
+    </meta>
+    <intestazione/>
+    <formulainiziale/>
+    <articolato>
+<articolo id="art1">
+<num>Art. 1.</num>
+<rubrica/>
+<comma id="art1-com1">
+<num>1.</num>
+<corpo/>
+</comma>
+<?error ===== IL TESTO DEL PROVVEDIMENTO NON E' ARTICOLATO =====
+
+
+ 
+07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+ 
+
+Bollettino 
+Bollettino Ufficiale n. 25 del 31/12/80 
+ 
+
+Oggetto 
+Bilancio 1980 della Regione - Variazioni 
+ 
+
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+
+Modifiche 
+ 
+ 
+
+Legge Regionale 23 Dicembre 1980, n. 42 
+ 
+
+&amp;lt;&amp;lt;Variazione al bilancio 1980 per il finanziamento dei progetti per l'occupazione giovanile per la proroga dei contratti di lavoro disposta a norma dell'art. 26 della legge 29 febbraio 1980, n. 33&amp;gt;&amp;gt;. 
+
+ 
+(... omissis...) 
+ 
+
+La legge regionale n. 42 del 23 dicembre 1980 &#xE8; pubblicata nel Bollettino Ufficiale n. 25 del 31.12.1980. 
+
+
+?></articolo>
+</articolato>
+    <formulafinale/>
+    <conclusione/>
+  </LeggeRegionale>
+</NIR>

@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19730910" num="23" tipo="BURM"/>
+                <entratainvigore norm="19730925"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1973-08-22;18"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+ 
+Bollettino 
+Bollettino Ufficiale n. 23 del 10/09/73 
+ 
+Oggetto 
+Asili-nido - Costruzione e gestione - Contributi - Erogazione - Procedure - Norme urbanistiche ed edilizie - Funzionamento - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19730822">22 Agosto 1973</dataDoc>, n. <numDoc>18</numDoc>
+            <titoloDoc>Norme per la costruzione, la gestione ed il controllo del servizio sociale degli Asili-Nido. 
+ 
+TITOLO I: (Scopi e finalità, piano di finanziamento) 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+L'Asilo-nido è un servizio sociale, inteso ad integrare l'opera della famiglia; a favorire l'equilibrato sviluppo psico-somatico del bambino da zero a tre anni, senza riguardo ad eventuali minorazioni psico-fisiche; a consentire la partecipazione della donna all'organizzazione politica,   sociale ed economica del paese. 
+ 
+Tale servizio è gratuito. 
+ 
+La Regione, tramite l'Assessorato competente promuove conferenze per la consultazione dei Comuni e dei loro consorzi, delle Comunità Montane, dei sindacati dei lavoratori e delle formazioni sociali democratiche presenti nel territorio. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+I contributi previsti dall'<rif xlink:href="urn:nir:stato:legge:1971-12-06;1044#art1">art. 1 della legge 6-12-1971, n. 1044</rif>, per la costruzione e la gestione degli Asili-nido, sono assegnati ai Comuni o ai consorzi di Comuni che, entro il 30 aprile di ogni anno, ne abbiano presentata richiesta alla Regione unitamente alla relativa deliberazione del Consiglio comunale o dell'Assemblea consorziale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+
+                <rubrica>
+ 
+Il Consiglio Regionale, sulla base delle richieste e del fabbisogno degli enti di cui al <rif xlink:href="#art2">precedente articolo 2</rif>, ha il compito di: 
+ 
+a) approvare con legge il piano quinquennale per gli Asili-nido, nonché l'entità ed i criteri di erogazione dei contributi integrativi, della Regione; 
+ 
+b) formare le graduatorie annuali fra coloro che richiedono il finanziamento; 
+ 
+c) fissare i criteri generali per la gestione; 
+ 
+d) verificare lo stato di attuazione dei piani annuali su relazione predisposta dalla Giunta; 
+ 
+e) vigilare per l'applicazione corretta ed integrale della presente legge. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+
+                <rubrica>
+ 
+Le richieste di contributo per la costruzione di Asili-nido o per il riattamento e la ristrutturazione di immobili già esistenti devono essere accompagnate da: 
+ 
+a) progetto di massima dell'opera; 
+ 
+b) relazione illustrativa sulla consistenza dei servizi analoghi funzionanti nell'ambito territoriale dell'ente richiedente, del livello di occupazione femminile, dell'indice di pendolarità, del saldo dei flussi migratori e di ogni altro elemento utile per stabilire l'ordine di priorità degli interventi; 
+ 
+c) individuazione di aree idonee alla localizzazione degli Asili-nido, incluse nei piani urbanistici vigenti e planimetria della zona circostante con l'indicazione degli insediamenti residenziali e dei servizi pubblici ivi esistenti; 
+ 
+d) preventivo sommario di spesa con la specificazione dei mezzi di copertura per la spesa eventualmente eccedente il contributo richiesto. 
+ 
+Qualora l'area individuata non sia destinata ad uso pubblico, il Comune ove ha sede l'area stessa dovrà apportare la relativa variante per adeguare nelle forme di legge gli strumenti urbanistici vigenti. 
+ 
+L'esonero di immobili destinati ad Asili - nido avviene secondo le norme dell'<rif xlink:href="urn:nir:stato:legge:1971-10-22;865#art16">art.16 della legge 22-10-1971, n. 865</rif>. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+Le richieste di contributo per la gestione devono essere accompagnate da: 
+ 
+a) copia del conto consuntivo dell'esercizio precedente e del bilancio preventivo dell'esercizio in corso, nel caso di Asili-nido già funzionanti; copia del bilancio preventivo nel caso di Asili-nido di prossima apertura; 
+ 
+b) documentazione circa la ricettività dell'Asilo-nido e l'organico del personale; 
+ 
+c) copia del regolamento comunale o consorziale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+Il Consiglio Regionale, entro il 30 giugno di ogni anno, esamina il piano annuale del fabbisogno e forma la graduatoria provvisoria motivata per la erogazione dei finanziamenti. 
+ 
+La graduatoria così formata è inviata a tutti gli enti interessati, Gli enti stessi, entro il 31 agosto, hanno la facoltà di far pervenire alla Regione le eventuali osservazioni alla graduatoria. 
+ 
+Il Consiglio Regionale, valutate le osservazioni, pubblica la graduatoria sul Bollettino Ufficiale della Regione. 
+ 
+La Giunta Regionale, entro il 31 ottobre, trasmette al Ministero della Sanità il piano annuale, indicando le priorità di intervento, nel rispetto della graduatoria fissata dal Consiglio, nonché le norme e i tempi di attuazione. 
+ 
+La Regione, acquisito l'ammontare del finanziamento assegnato dallo Stato, ne dà notizia pubblicando il piano definitivo sul Bollettino Ufficiale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+La concessione del contributo per la costruzione o il riattamento è disposta con decreto del Presidente della Giunta Regionale, su deliberazione della Giunta stessa, con il quale si approva il   progetto delle opere e si fissa la data di inizio e di ultimazione dei lavori. 
+ 
+Viene altresì disposta l'erogazione del 50% del contributo al momento della esibizione del contratto di appalto; il saldo viene liquidato a collaudo avvenuto. 
+ 
+Alla vigilanza sui lavori e al collaudo delle opere provvede l'Assessorato Regionale ai Lavori Pubblici per mezzo dei propri Uffici. 
+ 
+Sugli edifici per i quali è concesso il contributo di costruzione o di riattamento è costituito vincolo ventennale di destinazione. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>
+ 
+L'erogazione dei contributi annuali per la gestione degli Asili-nido viene disposta con il decreto di concessione. 
+ 
+TITOLO II: ( Norme urbanistiche ed edilizie ) 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <rubrica>
+ 
+L'unità di Asilo-nido deve avere una ricettività di un minimo di trenta e di un massimo di sessanta posti-bambino. 
+ 
+Per le nuove costruzioni il rapporto minimo superficie netta ricettività è fissato in mq. 9 per ogni posto-bambino. 
+ 
+I locali adibiti ad Asilo-nido devono essere costruite di preferenza in un fabbricato ad un unico piano, in posizione soleggiata e disporre di uno spazio esterno attrezzato a verde o nelle adiacenze di zone destinate a verde pubblico. 
+ 
+L'Asilo-nido deve essere localizzato, ogni qualvolta possibile, in prossimità di servizi scolastici. 
+ 
+L'Asilo-nido, articolato in sezioni, dovrà constare di locali   per gruppi di bambini lattanti, semi divezzi e divezzi e di relativi servizi igienici. 
+ 
+Dovrà disporre di cucina, lavanderia e separati locali adibiti all'amministrazione e ai servizi generali. La sala di visita medica, con relativa stanza di attesa, dovrà avere un autonomo   accesso dall'esterno. 
+ 
+Per comprovati motivi di necessità e di convenienza può essere aggregato alla scuola materna, alla scuola dell'obbligo o ad altre strutture idonee, già esistenti, un micro-nido, autonomo o   come nucleo decentrato di altro Asilo-nido, con un numero di utenti inferiore al minimo previsto dal primo comma del presente articolo. 
+ 
+I contributi per l'impianto e la gestione dei micro-nido sono a carico della Regione, secondo la previsioni di piano di cui alla lettera a) del precedente articolo 3. 
+ 
+TITOLO III: (Disciplina per la gestione e il funzionamento) 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <rubrica>
+ 
+L'Amministrazione dell'Asilo-nido spetta al Comune o al consorzio di Comuni e la gestione democratica viene assicurata, sulla base del regolamento comunale o consorziale, da un Comitato nominato dal Consiglio comunale o dall'Assemblea consorziale. 
+ 
+Tale Comitato è composto da: 
+ 
+a) rappresentanze dell'ente gestore, con la presenza delle minoranze; 
+ 
+b) rappresentanze delle famiglie degli utenti, elette dall'assemblea delle stesse famiglie; 
+ 
+c) rappresentanze del personale addetto all'Asilo-nido; 
+ 
+d) rappresentanze delle maggiori organizzazioni sindacali, desigante dalle organizzazioni stesse; 
+ 
+e) rappresentanze delle organizzazioni femminili. 
+ 
+Il regolamento di cui al primo comma determina il numero dei componenti il Comitto di Gestione.  
+ 
+La rappresentanza delle famiglie non può essere inferiore ad un terzo del numero complessivo dei componenti il Comitato. 
+ 
+Il Comitato dura in carica tre anni e nomina nel suo seno un Presidente ed un Economo. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art10-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+                <rubrica>
+ 
+Il regolamento previsto dal <rif xlink:href="#art10">precedente art. 10</rif> deve prevedere, per il Comitato di Gestione, i seguenti compiti: 
+ 
+- elaborare, in collaborazione con gli operatori dei servizi assistenziali e sanitari, gli indirizzi pedagogici ed organizzativi dell'Asilo-nido e vigilare sulla loro applicazione; 
+ 
+- promuovere incontri con le famiglie e con le organizzazioni sociali per la discussione delle questioni di interesse dell'Asilo-nido e per la diffusione della informazione sull'assistenza all'infanzia; 
+ 
+- decidere sulle domande di ammissione all'Asilo-nido, in conformità ai criteri stabiliti nel regolamento; 
+ 
+- prendere in esame le osservazioni, i suggerimenti e i reclami che siano presentati dalle famiglie degli utenti, assumendo le opportune iniziative. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art11-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12 </num>
+                <rubrica>
+ 
+Il regolamento determina: 
+ 
+a) l'area di utenza in base al criterio della residenzialità del servizio; 
+ 
+b) i criteri di precedenza da applicarsi per l'ammissione all'Asilo-nido. 
+ 
+In generale, i criteri di precedenza per l'ammissione sono: 
+ 
+condizione lavorativa dei genitori, assenza di familiari in grado di assistere i bambini, stati di malattia e di inabilità dei familiari, numero dei figli, condizione di abitabilità degli alloggi, condizioni economiche, esistenza di problemi di origine medico e psicologico nel bambino o nella famiglia. 
+ 
+c) l'organico del personale, definendo incarichi e funzioni; 
+ 
+d) l'orario di apertura in modo che il servizio sia assicurato tutti i giorni non festivi per la durata dell'intero anno solare e per tutta la durata della giornata lavorativa, tenuto conto degli usi e delle situazioni locali. 
+ 
+TITOLO IV: (Organico, reclutamento e formazione del personale) 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art12-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13 </num>
+                <rubrica>
+ 
+Il personale dell'Asilo-nido è inquadrato nei ruoli dell'ente gestore ed è assunto con pubblico concorso. 
+ 
+Il personale si distingue in due categorie: personale addetto all'assistenza e personale addetto ai servizi. 
+ 
+Il regolamento dovrà assicurare la presenza di: 
+ 
+a) non meno di una addetta all'assistenza per ogni sei bambini di età inferiore all'anno e non meno di una addetta all'assistenza per ogni dieci bambini di età superiore all'anno; 
+ 
+b) non meno di una inserviente per ogni quindici bambini per i servizi di cucina, pulizia, lavanderia, ecc. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art13-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14 </num>
+                <rubrica>
+ 
+Il personale addetto all'assistenza, fino all'entrata in vigore della nuova normativa in materia di preparazione professionale del personale, che dovrà essere emanata entro  due anni, deve   essere scelto nel seguente ordine di preferenza, derivante dal possesso necessario del diploma: di vigilatrice d'infanzia, di abilitazione alle funzioni direttive di assistenza all'infanzia, di   puericultrice, di assistente sanitaria, di visitatrice, di assistente sociale, d'istituto magistrale, d'istituto professionale per assistente all'infanzia. 
+ 
+La Regione istituisce corsi di qualificazione e di aggiornamento periodico per assicurare agli enti gestori il personale qualificato secondo il principio della formazione permanente. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art14-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>Art. 15 </num>
+                <rubrica>
+ 
+Al personale addetto all'assistenza non possono essere affidati incarichi amministrativi. 
+ 
+La funzione di coordinatore responsabile dell'Asilo deve essere affidata dall'ente gestore, sentito il Comitato di gestione, a persona scelta entro la categoria del personale addetto all'assistenza. 
+ 
+TITOLO V: (Fonti di finanziamento, disposizioni finali e transitorie) 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art15-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>Art. 16 </num>
+                <rubrica>
+ 
+Fino all'attuazione del servizio sanitario nazionale, il servizio sanitario dell'Asilo-nido deve essere affidato ad un medico, preferibilmente specialista in pediatria, assistito da una   coadiutrice sanitaria. 
+ 
+La vigilanza igienico-sanitaria è esercitata, fino all'istituzione delle unità sanitarie locali, dall'Ufficiale sanitario del Comune ove ha sede l'Asilo-nido. 
+ 
+L'assistenza psico-pedagogica è assicurata, in via transitoria, dalla Regione mediante la istituzione dell'apposito servizio che deve essere svolto da equipes specialistiche. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art16-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>Art. 17 </num>
+
+                <rubrica>
+ 
+Alle spese di cui alla presente legge si provvede mediante: 
+ 
+a) gli stanziamenti statali di cui agli artt. 2 e 9 della <rif
+                        xlink:href="urn:nir:stato:legge:1971-12-06;1044">legge 6-12-1971, n.1044</rif>; 
+ 
+b) gli stanziamenti statali riferiti ai servizi sociali di cui alla <rif
+                        xlink:href="urn:nir:stato:legge:1971-12-03;1102">legge 3-12-1971, n. 1102</rif>; 
+ 
+c) gli stanziamenti statali di cui all'<rif xlink:href="urn:nir:stato:legge:1971-10-22;865#art48-com3">art. 48, 3° comma, della legge 22-10-1971, n. 865</rif>; 
+ 
+d) gli stanziamenti della Regione secondo le previsioni di piano di cui alla lettera a) del precedente art. 3; 
+ 
+e) gli eventuali contributi finanziari provenienti da enti o aziende pubbliche o da privati. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art17-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>Art. 18 </num>
+
+                <rubrica>
+ 
+La presente legge è dichiarata urgente, ai sensi del <rif xlink:href="urn:nir:regione.molise:statuto:#art38-com2">secondo comma dell'articolo 38 dello Statuto Regionale</rif>, ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art18-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19761216" num="23" tipo="BURM"/>
+                <entratainvigore norm="19761231"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1976-12-11;37"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+ 
+Bollettino 
+Bollettino Ufficiale n. 23 del 16/12/76 
+ 
+Oggetto 
+Asili-nido - Interventi - Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19761211">11 Dicembre 1976</dataDoc>, n. <numDoc>37</numDoc>
+
+            <titoloDoc>Programma di intervento per gli asili - nido - Modificazioni della <rif xlink:href="urn:nir:regione.molise:legge:1976-01-23;5">legge regionale 23 gennaio 1976, n. 5</rif>
+            </titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+
+                <rubrica>
+ 
+Allo scopo di agevolare la realizzazione del programma di intervento per la costruzione o il riattamento dei primi dodici asili-nido di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1976-01-23;5#art1">art. 1 della legge regionale 23 gennaio 1976, n. 5</rif>, la Giunta Regionale è autorizzata a concedere, nei limiti dello stanziamento indicato nella presente legge, contributi &lt;&lt;una tantum&gt;&gt; in conto capitale in misura non superiore a L. 110.000.000. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+
+                <rubrica>
+ 
+Qualora l'ammontare del contributo di cui all'<rif xlink:href="#art1">art. 1</rif> non copra il totale della spesa relativa alla costruzione o riattamento dei primi dodici asili-nido, la Giunta Regionale potrà concedere contributi costanti in conto interesse nella misura e per il periodo di ammortamento convenuti con l'istituto mutuante. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+Gli artt. 2 e 3 della <rif xlink:href="urn:nir:regione.molise:legge:1976-01-23;5">legge regionale 23 gennaio 1976, n. 5</rif>, sono abrogati. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+All'onere finanziario derivante dalla presente legge e calcolato in L.</rubrica>
+                <comma id="art4-com1">
+                    <num> 1.</num>
+
+                    <corpo>437.888.711, si provvede con i fondi provenienti alla Regione ai sensi della <rif
+                            xlink:href="urn:nir:stato:legge:1971-12-06;1044">legge 6 dicembre 1971, n. 1044</rif>, utilizzando, ai sensi della <rif
+                            xlink:href="urn:nir:stato:legge:1955-02-27;64">legge 27 febbraio 1955, n. 64</rif>, le disponibilità del Cap. 1300 dell'esercizio 1975 nonché quelle iscritte al Cap. 1430 dell'esercizio finanziario 1976. 
+ 
+Per gli esercizi futuri, per quanto attiene alla copertura degli oneri relativi all'ammortamento dei prestiti di cui all'<rif xlink:href="#art2">art. 2</rif>, saranno previsti appositi stanziamenti nei corrispondenti capitoli di spesa. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+
+                <rubrica>
+ 
+La presente legge è dichiarata urgente ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

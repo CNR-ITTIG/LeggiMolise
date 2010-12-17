@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19750114" num="1" tipo="BURM"/>
+                <entratainvigore norm="19750129"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1975-01-13;1"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+ 
+Bollettino 
+Bollettino Ufficiale n. 01 del 14/01/75 
+ 
+Oggetto 
+Diritto allo studio - Interventi - Tipologia - Destinatari - Procedure 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 1/2000 art. 29 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 14/1990 art. 1 
+Modificato art. 5 dalla legge n. 14/1990 art. 3 
+Modificato art. 13 dalla legge n. 46/1975 art. 1 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19750113">13 Gennaio 1975</dataDoc>, n. <numDoc>1</numDoc>
+            <titoloDoc>Interventi per l'attuazione del diritto allo studio. 
+ 
+Titolo I: FINALITÀ DELLA LEGGE 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 1/2000 art. 29</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

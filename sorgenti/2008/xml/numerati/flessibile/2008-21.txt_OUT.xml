@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20080531" num="12" tipo="BURM"/>
+                <entratainvigore norm="20080615"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2008-05-21;15"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 09.Energia 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N.12  del 31 maggio 2008 
+ 
+Oggetto 
+Energie rinnovabili - Impianti eolici e fotovoltaici sul territorio della Regione Molise - Disciplina 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 22/2009 art. 5 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20080521">21 maggio 2008</dataDoc>, n. <numDoc>15</numDoc>. 
+ 
+<titoloDoc>Disciplina degli insediamenti degli impianti eolici e fotovoltaici sul territorio della Regione Molise. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 22/2009 art. 5</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

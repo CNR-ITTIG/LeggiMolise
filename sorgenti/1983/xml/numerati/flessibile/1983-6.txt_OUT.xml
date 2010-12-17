@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19830701" num="12" tipo="BURM"/>
+                <entratainvigore norm="19830716"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1983-06-16;17"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 12 del 01/07/83 
+ 
+Oggetto 
+Consultori familiari - Disciplina - Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19830616">16 Giugno 1983</dataDoc>, n. <numDoc>17</numDoc>
+            <titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1978-11-13;28">legge regionale 13 novembre 1978, n. 28</rif>
+            </titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+Il <rif
+                        xlink:href="urn:nir:regione.molise:legge:1978-11-13;28#art7-com2">secondo comma dell'art. 7 della legge regionale 13 novembre 1978, n. 28</rif> è modificato come segue: 
+ 
+Le finalità di cui all'<rif xlink:href="#art2">art. 2</rif> potranno essere perseguite anche mediante i consultori privati che siano convenzionati nel rispetto delle prescrizioni di cui al successivo art. 8. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+All'<rif xlink:href="urn:nir:regione.molise:legge:1978-11-13;28#art24">art. 24 della legge regionale 13 novembre 1978, n. 28</rif> vengono aggiunte le parole: &lt;&lt; ... e privati &gt;&gt;. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+All'<rif xlink:href="urn:nir:regione.molise:legge:1978-11-13;28#art26">art. 26 della legge regionale 13 novembre 1978, n. 28</rif> viene aggiunto un secondo comma: 
+ 
+Il Consiglio Regionale assegna un contributo sino al 10% del fondo iscritto in bilancio ai Consultori privati, iscritti al registro di cui all'art. 9, che ne abbiano fatta richiesta e che   documentino adeguatamente l'attività svolta. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+
+                <rubrica>
+ 
+La presente legge è dichiarata urgente ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19911216" num="35" tipo="BURM"/>
+                <entratainvigore norm="19911231"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1991-12-09;23"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 31.Protezione civile, rischio sismico, regime delle acque e rischio idrogeologico 
+ 
+Bollettino 
+Bollettino Ufficiale n. 35 del 16/12/91 
+ 
+Oggetto 
+Rischio sismico - Adeguamento degli strumenti urbanistici generali ed attuativi vigenti - Indagini - Termine - Proroghe 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19911209">9 Dicembre 1991</dataDoc>, n. <numDoc>23</numDoc>
+            <titoloDoc>Proroga termine di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1986-09-08;15">legge regionale 8 settembre 1986, n. 15</rif>, art. 5. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

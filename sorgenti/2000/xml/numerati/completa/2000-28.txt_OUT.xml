@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20000401" num="7" tipo="BURM"/>
+                <entratainvigore norm="20000416"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-03-24;21"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+38.Valorizzazione dei beni culturali e ambientali, impatto ambientale 
+ 
+Bollettino 
+Bollettino Ufficiale n. 07 del 1 aprile 2000 
+ 
+Oggetto 
+Procedura di valutazione di impatto ambientale - Disciplina. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20000324">24 marzo 2000</dataDoc>, n. <numDoc>21</numDoc>. 
+ 
+<titoloDoc>Disciplina della procedura di impatto ambientale. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art.1 </num>
+
+                <rubrica>
+ 
+(Finalità)  
+ 
+La Regione Molise, in attuazione delle Direttive n. 85/337/CEE e n. 87/11/CE e secondo gli atti di indirizzo di cui al <rif
+                        xlink:href="urn:nir:presidente.repubblica:decreto:1996-04-12">D.P.R. 12 aprile 1996</rif> ed al <rif xlink:href="urn:nir:presidente.consiglio.ministri:decreto:1999-09-03">D.P.C.M. 3 settembre 1999</rif>, stabilisce le condizioni, i criteri e le norme tecniche per l'attuazione della procedura di Valutazione di Impatto Ambientale, di seguito denominata V.I.A., al fine di: 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <alinea> assicurare che, nell'ambito dei processi decisionali relativi alla realizzazione dei progetti di opere o di interventi di cui agli allegati A e B, di iniziativa pubblica o privata, siano perseguiti i seguenti obiettivi: 
+ 
+</alinea>
+                    <el id="art1-com1-leta">
+                        <num>a)</num>
+                        <corpo> la valorizzazione del territorio e l'uso plurimo delle risorse in condizione di sviluppo sostenibile sotto l'aspetto ambientale;</corpo>
+                    </el>
+                    <el id="art1-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> la tutela della salute ed il miglioramento della qualità della vita umana;</corpo>
+                    </el>
+                    <el id="art1-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> la conservazione dell'Habitat naturale, inteso come la sede in cui gli esseri viventi sviluppano il loro ciclo vitale attraverso l'equilibrio ecologico;</corpo>
+                    </el>
+                    <el id="art1-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> il mantenimento della varietà della specie e la conservazione della capacità di riproduzione dell'ecosistema;</corpo>
+                    </el>
+                    <el id="art1-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> garantire e promuovere la partecipazione dei cittadini ai processi decisionali relativi alle trasformazioni significative del territorio; 
+ </corpo>
+                    </el>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+2.</num>
+                    <alinea> individuare e valutare, attraverso la procedura V.I.A. gli effetti diretti ed indiretti indotti da ciascun progetto: 
+ 
+</alinea>
+                    <el id="art1-com2-leta">
+                        <num>a)</num>
+                        <corpo> sull'uomo, sulla fauna e sulla flora;</corpo>
+                    </el>
+                    <el id="art1-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> sul suolo, sull'acqua, sull'aria, sul clima e sul paesaggio;</corpo>
+                    </el>
+                    <el id="art1-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> sull'interazione fra detti fattori; sui beni materiali, sulle condizioni socio-economiche e sul patrimonio culturale ed ambientale. Sull'interazione tra i fattori di cui alle precedenti lettere a), b) e c). 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art.2 </num>
+                <rubrica>
+ 
+(Definizioni) 
+ 
+Ai fini della presente legge si intende per: 
+ 
+a) Committente o autorità proponente, a seconda della loro natura privata o pubblica, i soggetti che predispongono le iniziative da sottoporre alla procedura di Valutazione di Impatto Ambientale (di seguito denominati proponenti). 
+ 
+b) Autorità competente: l'amministrazione o l'organo che provvede alla Valutazione di impatto ambientale. 
+ 
+c) Fase di SCREENING: fase preliminare volta a valutare, da parte dell'autorità competente, se il progetto di opere dell'allegato B, non ricadente in area naturale protetta, deve essere assoggettata alla procedura completa di Valutazione di Impatto Ambientale. 
+ 
+d) Fase di SCOPING: fase preliminare facoltativa per definire, in contraddittorio tra autorità competente e proponente, le informazioni che devono essere fornite per lo Studio di Impatto Ambientale (SIA). 
+ 
+e) Comune interessato: il comune il cui territorio e/o popolazione sono investiti, anche parzialmente, dagli effetti derivanti dalla realizzazione del progetto, relativamente alla localizzazione degli interventi principali e di eventuali cantieri o interventi correlati. Lo Studio di Impatto Ambientale e la procedura di verifica (screening) individuano eventuali altri comuni interessati dagli impatti ambientali. 
+ 
+f) Provincia interessata: la provincia nel cui territorio è compreso il comune o i comuni interessati. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art.3 </num>
+                <rubrica>
+ 
+(Ambito di applicazione)  
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> Fatto salvo quanto disposto dalla vigente normativa statale, sono soggetti alla procedura di Valutazione di Impatto Ambientale, secondo i criteri di seguito indicati, i progetti di cui agli allegati A e B, anche nei casi in cui i progetti riflettono modificazioni, trasformazioni o ampliamenti significativi di opere esistenti, con esclusione di lavori di manutenzione ordinaria o straordinaria. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Sono assoggettati alla procedura di Valutazione di Impatto Ambientale i progetti di cui all'ALLEGATO A, secondo le soglie ivi indicate. </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Sono assoggettati alla procedura di Valutazione di Impatto Ambientale i progetti dell'ALLEGATO B, secondo le soglie ivi indicate, ricadenti, anche parzialmente, all'interno di aree naturali protette come definite dalla <rif xlink:href="urn:nir:stato:legge:1991-12-06;394">legge 6 dicembre 1991 n. 394</rif>. </corpo>
+                </comma>
+                <comma id="art3-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> I progetti elencati nell'ALLEGATO B, non ricadenti nelle aree naturali protette sono sottoposte a processo di Screening, secondo le modalità indicate nel <rif xlink:href="#art8">successivo art. 8</rif>. Qualora, sulla base degli elementi indicati nell'ALLEGATO D, il processo di Screening lo richieda, sono assoggettati alla procedura di Via anche i progetti dell'ALLEGATO B che non ricadono in aree naturali protette. </corpo>
+                </comma>
+                <comma id="art3-com5">
+                    <num>
+ 
+5.</num>
+
+                    <corpo> È facoltà del committente o dell'autorità proponente richiedere all'Autorità competente l'avvio di una fase preliminare di scoping, secondo le procedure indicate nel <rif xlink:href="#art10">successivo art. 10</rif>, volta a definire le informazioni che devono essere fornite per lo studio di V.I.A.. </corpo>
+                </comma>
+                <comma id="art3-com6">
+                    <num>
+ 
+6.</num>
+
+                    <corpo> Nell'ambito delle procedure istruttorie di V.I.A. sarà, in ogni caso, fatto riferimento alla normativa di tutela ambientale e paesaggistica dettata dalla <rif xlink:href="urn:nir:stato:legge:1939;1497">legge n. 1497/1939</rif> e 431/1985. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art.4 </num>
+                <rubrica>
+ 
+(Esclusioni) 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Sono esclusi dalla procedura di Valutazione di Impatto Ambientale:  
+ 
+gli interventi disposti in via d'urgenza, ai sensi delle norme vigenti, per salvaguardare l'incolumità delle persone da un pericolo imminente ovvero in seguito a calamità per le quali sia stato dichiarato lo stato di emergenza ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1992-02-24;225#art5">art. 5 della legge 24 febbraio 1992 n. 225</rif>. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> Non sono soggetti alla disciplina della presente legge: 
+ 
+</alinea>
+                    <el id="art4-com2-leta">
+                        <num>a)</num>
+                        <corpo> gli impianti di cui agli allegati A e B sottoposti a procedura di Valutazione di Impatto Ambientale nell'ambito delle competenze del Ministero dell'Ambiente;</corpo>
+                    </el>
+                    <el id="art4-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> gli impianti di cui agli allegati A e B che costituiscono modifica di progetti già sottoposti a procedura di Valutazione di Impatto Ambientale nell'ambito delle competenze del Ministero dell'Ambiente. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+(Autorità competente Comitato Tecnico VIA) 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+
+                    <corpo> L'autorità competente in materia di Valutazione di Impatto Ambientale è la Regione, attraverso l'Assessorato Regionale all'Ambiente, che può avvalersi, per l'istruttoria tecnica, dell'organismo individuato dal <rif
+                            xlink:href="urn:nir:stato:decreto.legge:1993-12-04;496">D.L. 4 dicembre 1993 n. 496</rif>, convertito nella <rif xlink:href="urn:nir:stato:legge:1994-01-21;61">legge 21 gennaio 1994 n. 61</rif>. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> In attesa dell'istituzione dell'organismo di cui sopra, l'istruttoria tecnica dei progetti di cui alla presente legge verrà effettuata da uno speciale comitato tecnico consultivo, nominato dalla Giunta Regionale, di seguito denominato "COMITATO TECNICO VIA", che sarà coordinato dal Responsabile del Settore Ecologia ed Igiene Ambientale e del quale saranno chiamati a farne parte i responsabili dei settori, sezioni ed uffici regionali aventi competenza in materia, dai responsabili dei settori chimico-ambientali del PMIP e da almeno due consulenti esterni particolarmente esperti in materia di VIA. 
+ 
+Dello stesso comitato, saranno di volta in volta chiamati a farne parte i rappresentanti dei Comuni e delle Provincie interessati al progetto in esame nonché, ove ritenuto necessario, i rappresentanti degli Enti titolari di autorizzazioni, nulla-osta e pareri attinenti alla realizzazione del progetto stesso. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Il Comitato Tecnico VIA verrà nominato con provvedimento adottato dalla Giunta Regionale su proposta dell'Assessore Regionale all'Ambiente. 
+ 
+Con lo stesso provvedimento saranno fissati i compensi spettanti agli esperti esterni ed ai componenti del Comitato Tecnico. </corpo>
+                </comma>
+                <comma id="art5-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> Il Comitato Tecnico VIA viene convocato dal suo coordinatore e lo stesso assolve in via generale le funzioni di organo di consulenza tecnica nella materia contemplata dalla presente legge ed in particolare provvede all'istruttoria tecnica dei progetti e degli studi di impatto ambientale, secondo gli indirizzi di massima delineati nel <rif xlink:href="#art6">successivo art. 6</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art.6 </num>
+                <rubrica>
+ 
+(Istruttoria) 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <corpo> L'istruttoria consiste essenzialmente nell'esame critico ed interdisciplinare dei progetti e degli studi di impatto ambientale e favorisce il confronto tra la Regione ed il committente o l'autorità proponente. 
+ 
+A tal fine, di propria iniziativa o su richiesta, il Comitato Tecnico VIA può invitare, il committente o l'autorità proponente per illustrare il progetto nel corso dell'istruttoria. </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> L'istruttoria ha le seguenti finalità: 
+ 
+</alinea>
+                    <el id="art6-com2-leta">
+                        <num>a)</num>
+                        <corpo> accertare la idoneità e la completezza della documentazione ed individuare il tipo di progetto cui la documentazione si riferisce;</corpo>
+                    </el>
+                    <el id="art6-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> verificare la conformità del progetto agli strumenti urbanistici, agli eventuali piani regionali o di settore ed ai vincoli esistenti;</corpo>
+                    </el>
+                    <el id="art6-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> verifìcare la rispondenza dei luoghi e delle caratteristiche ambientali a quelle documentate dal proponente, anche con eventuale riferimento ad un contesto ambientale e territoriale più ampio di quello dell' area limitata all'intervento o al progetto;</corpo>
+                    </el>
+                    <el id="art6-com2-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> verificare la validità dei dati e la loro rispondenza alle prescrizioni dettate dalla normativa di settore;</corpo>
+                    </el>
+                    <el id="art6-com2-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> accertare la corretta utilizzazione delle metodologie di indagine, di analisi e di previsione e, inoltre, l'idoneità delle tecniche di rilevazione e previsione impiegate dal proponente in relazione agli effetti ambientali;</corpo>
+                    </el>
+                    <el id="art6-com2-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> individuare e descrivere l'impatto complessivo del progetto sull' ambiente anche in ordine ai livelli di qualità finale, raffrontando la situazione esistente all'inizio della procedura con la previsione di quella successiva;</corpo>
+                    </el>
+                    <el id="art6-com2-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> verificare l'effettiva coerenza delle alternative esaminate;</corpo>
+                    </el>
+                    <el id="art6-com2-leth">
+                        <num> 
+ 
+h)</num>
+                        <corpo> verificare la congruità delle misure di mitigazione previste ed eventualmente individuare altre misure da prescrivere. </corpo>
+                    </el>
+                </comma>
+                <comma id="art6-com3">
+                    <num>
+ 
+3.</num>
+                    <alinea> L'attività istruttoria si sviluppa: 
+ 
+</alinea>
+                    <el id="art6-com3-leta">
+                        <num>a)</num>
+
+                        <corpo> in verifiche ed accertamenti di ufficio per le finalità di cui al <rif xlink:href="#art6-com2">precedente comma 2</rif>;</corpo>
+                    </el>
+                    <el id="art6-com3-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> in eventuali verifiche e sopralluoghi, anche alla presenza del committente o dell'autorità proponente;</corpo>
+                    </el>
+                    <el id="art6-com3-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> nella eventuale richiesta al committente o all'autorità proponente di atti e di informazioni integrativi relativi al progetto o allo studio di impatto ambientale. </corpo>
+                    </el>
+                </comma>
+                <comma id="art6-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Il Comitato tecnico VIA, qualora riscontri incompletezze o carenze progettuali, può richiedere al proponente integrazioni e modifiche ovvero varianti o alternative finalizzate a ridurre eventuali impatti negativi. In tali casi, i termini fissati per l'espletamento dell'istruttoria e per il giudizio di compatibilità ambientale da parte della Giunta regionale, si intendono prorogati del tempo intercorso tra la richiesta di integrazioni o modifiche da parte del Comitato Tecnico VIA e quella di deposito delle stesse da parte del proponente. </corpo>
+                </comma>
+                <comma id="art6-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> Il Comitato Tecnico VIA, per opere di particolare rilevanza, può richiedere la convocazione di una pubblica Assemblea per informare il pubblico e recepire eventuali osservazioni o proposte. </corpo>
+                </comma>
+                <comma id="art6-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> Il Comitato Tecnico VIA, al fine di acquisire i pareri tecnici ritenuti utili ed opportuni per l'istruttoria, ha la facoltà di consultare tutte le strutture tecniche, interne o esterne alla Amministrazione regionale, nonché tutte le autorità competenti ad emettere autorizzazione e nulla osta e pareri per l'opera sottoposta alla procedura VIA. </corpo>
+                </comma>
+                <comma id="art6-com7">
+                    <num>
+ 
+7.</num>
+
+                    <corpo> Al termine dell'istruttoria il Comitato Tecnico VIA predispone un rapporto per i successivi adempimenti di cui all'<rif xlink:href="#art8">art. 8</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+(Procedura V.I.A. completa) 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <alinea> Per le opere ricadenti tra quelle elencate nell'allegato A o tra quelle elencate nell'allegato B, che ricadono in aree naturali protette, il committente o l'Autorità proponente presentano istanza alla Regione Molise - Assessorato Regionale all'Ambiente - corredata dai seguenti elaborati, in duplice copia: 
+ 
+</alinea>
+                    <el id="art7-com1-leta">
+                        <num>a)</num>
+
+                        <corpo> Progetto dell'opera, redatto ad un livello di elaborazione corrispondente a "definitivo", così come definito dall'<rif
+                                xlink:href="urn:nir:stato:legge:1994-02-11;109#art16-com4">art. 16, comma 4, della legge 11 febbraio 1994 n. 109</rif>, con allegata una specificazione progettuale adeguata a livello "esecutivo", qualora essa sia richiesta da norme vigenti per le autorizzazioni, nulla osta o pareri da acquisire nel procedimento. 
+ 
+b) Studio di Impatto Ambientale, redatto secondo le indicazioni di cui al <rif xlink:href="#art12">successivo art. 12</rif> e secondo le eventuali precisazioni scaturite in fase di scoping. </corpo>
+                    </el>
+                </comma>
+                <comma id="art7-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo><?error Marker Warning 108?> Copia dell'istanza e degli elaborati di cui al <rif
+                            xlink:href="#art7-com1">precedente comma 1</rif> devono essere, contestualmente, trasmesse: 
+ 
+? alla Provincia e al Comune competente per territorio; 
+ 
+? agli Enti gestori interessati, nel caso in cui l'opera ricada in aree naturali protette di cui all'art. 1, comma 3; 
+ 
+? a tutte le autorità competenti per il rilascio di autorizzazioni, nulla osta o pareri da acquisire nel procedimento. 
+ 
+3. Contestualmente alla presentazione della domanda di cui al <rif
+                            xlink:href="#art7-com1">comma 1</rif>, il committente o l'autorità proponente provvede, a proprie spese alla pubblicazione, sul quotidiano a maggiore diffusione nella Regione Molise, di un annunzio contenente le indicazioni di cui al <rif xlink:href="#art11">successivo art. 11</rif>. 
+ 
+4. Gli elaborati di cui sopra rimarranno depositati presso il competente ufficio dell'Assessorato Regionale all'Ambiente, Via Trento n. 1, a disposizione di chiunque intenda prenderne visione, per un periodo di quarantacinque giorni ai fini dell'informazione e la partecipazione dei cittadini. 
+ 
+5. Entro il termine di sessanta giorni dalla presentazione della domanda, la Provincia, il Comune e gli Enti gestori interessati, devono esprimere il proprio parere. 
+ 
+6. L'autorità competente, entro i successivi novanta giorni, rende il giudizio di compatibilità ambientale, anche in assenza dei pareri di cui al precedente comma. 
+ 
+7. Alla medesima procedura di cui ai precedenti commi, sono assoggettati i progetti elencati nell'allegato B, che non ricadono in aree naturali protette, qualora dalla fase di verifica (Screening) si richieda lo svolgimento della procedura completa di Valutazione di Impatto Ambientale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art.8 </num>
+                <rubrica>
+ 
+(Giudizio di compatibilità ambientale) 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+                    <corpo> Il Comitato Tecnico VIA, sulla base dell'istruttoria tecnica, redige, entro il termine di 120 giorni dalla data di convocazione, un rapporto sull'impatto ambientale atteso dalla realizzazione dell'opera oggetto della procedura e formula un motivato parere di compatibilità, prescrivendo le eventuali ulteriori misure di mitigazione e di monitoraggio. </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> La Giunta Regionale, entro il termine complessivo di centocinquanta giorni dalla data di deposito del progetto, fatte salve eventuali proroghe di cui al <rif xlink:href="#art6-com4">comma 4 dell'art. 6</rif>, sulla base del rapporto di cui al precedente comma, con proprio provvedimento rilascia il giudizio di compatibilità ambientale. </corpo>
+                </comma>
+                <comma id="art8-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Gli esiti della procedura di VIA dovranno essere comunicati con immediatezza ai soggetti del procedimento ed a tutte le altre amministrazioni pubbliche competenti, anche in materia di controlli ambientali. Gli stessi esiti saranno resi pubblici mediante emanazione di un comunicato stampa. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <rubrica>
+ 
+(Procedura di verifica Screening) 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+                    <alinea> Per i progetti di cui all'allegato B, che non ricadono in aree naturali protette, il committente o l'autorità proponente richiede la verifica (screening) presentando regolare istanza all'Assessorato Regionale all'Ambiente, corredata dai seguenti elaborati, in duplice copia: 
+ 
+</alinea>
+                    <el id="art9-com1-leta">
+                        <num>a)</num>
+                        <corpo> Elaborato di descrizione dell'opera comprendente in particolare: 
+ 
+? descrizione del progetto preliminare con la indicazione dei parametri dimensionali e strutturali; 
+ 
+? localizzazione dell'opera, con la descrizione delle esigenze di utilizzazione del suolo durante le fasi di; 
+ 
+? costruzione e funzionamento; 
+ 
+? rapporti con la normativa ambientale vigente; 
+ 
+? elenco degli atti autorizzativi necessari per la realizzazione del progetto; 
+ 
+? nel caso di processi produttivi: descrizione dei processi produttivi con l'indicazione della natura e quantità delle materie prime, intermedi e prodotti finiti; una valutazione del tipo e della quantità dei residui e delle emissioni derivanti dall'attività del progetto proposto (inquinamento dell'acqua, dell'aria e del suolo, rumore, vibrazione, luce, calore, radiazioni ecc.). 
+ 
+b) Una relazione sui possibili effetti ambientali da redigersi sulla base di una semplificazione dell'allegato C, comprendente una descrizione delle componenti ambientali soggette ad un impatto rilevante, con particolare riferimento alla popolazione, alla fauna ed alla flora, al suolo, all'acqua, all'aria, ai fattori climatici, al paesaggio, ai beni materiali, compreso il patrimonio architettonico ed archeologico, nonché all'interazione tra i vari fattori. Nella stessa relazione dovrà comprendersi anche una valutazione delle principali alternative prese in considerazione dal proponente nonché un programma di monitoraggio ove questo è ritenuto necessario. </corpo>
+                    </el>
+                </comma>
+                <comma id="art9-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Copia degli elaborati di cui al <rif
+                            xlink:href="#art9-com1">precedente comma 1</rif> dovrà essere depositata presso gli Enti Locali interessati per un periodo di trenta giorni ai fini dell'informazione e la partecipazione dei cittadini. 
+ 
+A tal fine, a cura del committente o dell'autorità proponente, sarà data pubblicità dell'avvenuto deposito mediante pubblicazione di un annunzio sul quotidiano a maggiore diffusione nella Regione secondo le indicazioni di cui al <rif xlink:href="#art11">successivo art.11</rif>. I cittadini interessati entro il termine di trenta giorni dalla data di deposito, potranno far pervenire alla Regione Molise - Assessorato Regionale all'Ambiente - istanze ed osservazioni riflettenti l'opera da realizzare. </corpo>
+                </comma>
+                <comma id="art9-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Ai fini del coinvolgimento formale degli Enti pubblici territoriali e dei soggetti titolari di autorizzazioni, nulla-osta o pareri, l'Assessorato all'Ambiente può convocare una conferenze dei servizi preliminare volta all'individuazione delle autorizzazioni, nulla-osta e pareri necessari per la realizzazione dell'opera. </corpo>
+                </comma>
+                <comma id="art9-com4">
+                    <num>
+ 
+4.</num>
+                    <alinea> L'autorità competente sulla base degli elementi di valutazione indicati nell'allegato D e tenendo conto delle eventuali osservazioni ricevute, si pronuncia entro i sessanta giorni successivi al deposito dell'istanza adottando una delle seguenti decisioni: 
+ 
+</alinea>
+                    <el id="art9-com4-leta">
+                        <num>a)</num>
+
+                        <corpo> assoggettamento dell'opera alla Valutazione di Impatto Ambientale secondo la procedura indicata nel <rif xlink:href="#art7">precedente art.7</rif>;</corpo>
+                    </el>
+                    <el id="art9-com4-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> esclusione dell'opera dalla procedura di V.I.A. condizionatamente alla realizzazione delle eventuali prescrizioni contenute nella decisione. </corpo>
+                    </el>
+                </comma>
+                <comma id="art9-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> Trascorso il suddetto termine di sessanta giorni, in caso di silenzio dell'autorità competente, il progetto si intende escluso dalla procedura di VIA. </corpo>
+                </comma>
+                <comma id="art9-com6">
+                    <num>
+ 
+6.</num>
+
+                    <corpo> Per i progetti che hanno esperito la procedura di screening e, per i quali, l'autorità competente ha deciso l'assoggettamento a V I A completo, sarà previsto un avviò accellerato della fase di scoping di cui al <rif xlink:href="#art10">successivo art. 10</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art.10 </num>
+                <rubrica>
+ 
+(Procedura della fase preliminare scoping) 
+ </rubrica>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Il committente o l'Autorità proponente che intende richiedere l'avvio di una fase preliminare volta a definire le informazioni che devono essere fornite con lo Studio di Impatto Ambientale (S.I.A.), presenta una richiesta all'Autorità competente, corredata da un documento in cui siano sinteticamente descritti: 
+ 
+? il tipo di progetto che si intende realizzare; 
+ 
+? le caratteristiche e le motivazioni dell'opera (il livello di progettazione deve essere quello preliminare previsto dall'<rif
+                            xlink:href="urn:nir:stato:legge:1994-02-11;109#art16-com3">art.16 comma 3 della legge 11 febbraio 1994 n 109</rif>); 
+ 
+? la relazione con gli strumenti di pianificazione e programmazione esistenti; 
+ 
+? le aree interessate nonché una breve descrizione dello stato di fatto delle risorse e dei vincoli; 
+ 
+? le alternative (progettuali e di localizzazione) da analizzare; 
+ 
+? i metodi di analisi e prevenzione degli impatti che intende utilizzare incluso eventuali metodi di elaborazione dati o sistemi di simulazione; 
+ 
+? componenti fattori e tipo di dati da utilizzare; 
+ 
+? la previsione degli impatti ed in particolare degli impatti chiave; 
+ 
+? le possibilità di mitigazione o eliminazione degli impatti; 
+ 
+? eventuale normativa specifica di riferimento; 
+ 
+? l'elenco degli atti autorizzativi necessari per la realizzazione del progetto; 
+ 
+? gli obiettivi del monitoraggio; 
+ 
+? un programma di informazione al pubblico. 
+ 
+2. L'autorità competente convoca una seduta del Comitato Tecnico VIA, con la partecipazione del proponente e/o dei tecnici all'uopo designati dallo stesso proponente. 
+ 
+Alla seduta possono essere eventualmente convocati anche gli Enti locali e le autorità interessati al progetto. 
+ 
+Il committente illustra il progetto ed il documento di cui al <rif xlink:href="#art10-com1">precedente comma 1</rif> e viene avviata una fase di discussione articolata in una o più sedute. 
+ 
+3. Nel caso di opere di particolare rilevanza, può essere valutata la possibilità di convocazione di una pubblica assemblea per informare la popolazione 
+ 
+4. L'autorità competente entro il termine massimo di sessanta giorni dal deposito della richiesta, sulla base degli elementi emersi nel corso del contraddittorio, esprime il proprio parere sul documento. 
+ 
+5. Il parere di cui al precedente comma 4 non esclude la possibilità da parte dell'autorità competente di richiedere ulteriori informazioni al proponente. 
+ 
+6. La risposta dell'autorità competente, unitamente al documento del proponente, viene resa disponibile per la consultazione da parte del pubblico, attraverso un comunicato stampa. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+                <rubrica>
+ 
+(Misure di pubblicità e partecipazione al provvedimento) 
+ </rubrica>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+
+                    <alinea> Contestualmente alla presentazione della domanda di cui al <rif xlink:href="#art7-com1">comma 1 dell'art. 7</rif>, il committente o l'autorità proponente provvede, a proprie spese, alla pubblicazione sul quotidiano a maggiore diffusione nella Regione di un annunzio nel rispetto dei seguenti indirizzi: 
+ 
+</alinea>
+                    <el id="art11-com1-leta">
+                        <num>a)</num>
+                        <corpo> l'annunzio deve avere un formato non inferiore a sei moduli e deve essere collocato in maniera evidente nella pagina di cronaca della Provincia interessata;</corpo>
+                    </el>
+                    <el id="art11-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> l'annunzio, in linea di massima, deve contenere le seguenti informazioni: 
+ 
+- intestazione: Richiesta di Pronuncia di compatibilità ambientale alla Regione Molise - Assessorato Regionale all'Ambiente; 
+ 
+- indicazione del committente o dell'Autorità proponente, con la sede ed il relativo indirizzo; 
+ 
+- specificazione dell'appartenenza dell'opera ad una delle categorie indicate nell'allegato A o nell'Allegato B, riportando per esteso la denominazione desunta dagli elenchi; 
+ 
+- chiara specificazione localizzativa del progetto, con l'indicazione del comune, frazione o zona o località della stessa con l'eventuale indicazione, se ritenuto opportuno, dei confini di proprietà; 
+ 
+- descrizione sommaria del progetto comprendente finalità, caratteristiche e dimensionamento dell'intervento; 
+ 
+- specificazione che il progetto e lo studio di impatto ambientale rimarrà depositato, presso gli uffici dell'Assessorato Regionale all'Ambiente, per la per la pubblica consultazione ed eventuali istanze, osservazioni o pareri da presentare, entro il termine di quarantacinque giorni, allo stesso ufficio dell'Assessorato Regionale all'Ambiente. </corpo>
+                    </el>
+                </comma>
+                <comma id="art11-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Per la fase di Screening, il committente o l'Autorità proponente provvederà ugualmente alla pubblicazione di un avviso sul quotidiano a maggiore diffusione regionale, da collocare nella pagina di cronaca della provincia interessata al progetto e recante, anche se in misura più ridotta, le medesime informazioni di cui al <rif xlink:href="#art11-com1">comma 1</rif> e con la specificazione che il termine per la consultazione da parte del pubblico e per le eventuali osservazioni o istanze è limitato a trenta giorni. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12 </num>
+                <rubrica>
+ 
+(Studio di Impatto Ambientale SIA) 
+ </rubrica>
+                <comma id="art12-com1">
+                    <num>
+1.</num>
+                    <alinea> Lo Studio di Impatto Ambientale è predisposto a spese e cura del committente o dell'Autorità proponente secondo le indicazioni riportate nell'allegato C e deve contenere, anche in seguito agli esiti della fase di scoping, almeno le seguenti informazioni: 
+ 
+</alinea>
+                    <el id="art12-com1-leta">
+                        <num>a)</num>
+                        <corpo> descrizione del progetto, con l'indicazione dei parametri ubicativi, dimensionali e strutturali e le finalità dello stesso;</corpo>
+                    </el>
+                    <el id="art12-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> la descrizione dei potenziali effetti sull'ambiente, anche con riferimento ai parametri standards previsti dalla normativa ambientale, nonché ai piani di utilizzazione del territorio;</corpo>
+                    </el>
+                    <el id="art12-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> la rassegna delle relazioni esistenti fra l'opera proposta e norme in materia ambientale, nonché i piani di utilizzazione del territorio;</corpo>
+                    </el>
+                    <el id="art12-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> descrizione delle misure previste per eliminare o ridurre gli effetti sfavorevoli sull'ambiente. </corpo>
+                    </el>
+                </comma>
+                <comma id="art12-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Al SIA deve essere allegato un riassunto non tecnico, di agevole interpretazione e riproduzione, contenente tutte le informazioni trasmesse e corredato degli elaborati grafici essenziali. </corpo>
+                </comma>
+                <comma id="art12-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Ai fini della predisposizione del SIA, il committente o l'Autorità proponente ha diritto alle informazioni ed ai dati disponibili presso gli uffici delle amministrazioni pubbliche. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art.13 </num>
+                <rubrica>
+ 
+(Procedure di progetti con impatti ambientali a carattere interregionale)  
+ </rubrica>
+                <comma id="art13-com1">
+                    <num>
+1.</num>
+                    <corpo> Nel caso di progetti di opere o interventi sottoposti a V.I.A., che risultino localizzati anche sul territorio di Regioni confinanti, l'Assessorato Regionale all'Ambiente effettua la procedura di V.I.A. in collaborazione con le Regioni cointeressate e la Giunta Regionale delibera il provvedimento di VIA d'intesa con tali regioni. </corpo>
+                </comma>
+                <comma id="art13-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Nel caso di progetti di opere o interventi soggetti a VIA, localizzati nel territorio della Regione Molise e che possano produrre impatti rilevanti sull'ambiente di altre Regioni, l'Autorità competente è tenuta ad informare e ad acquisire anche i pareri di tali Regioni, nonché di Provincie, Comuni ed Enti di Gestione di aree protette interessati appartenenti a tali regioni. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14 </num>
+                <rubrica>
+ 
+(Spese istruttorie)  
+ </rubrica>
+                <comma id="art14-com1">
+                    <num>
+1.</num>
+                    <corpo> Le spese per l'istruttoria relative alle procedure di Valutazione di Impatto Ambientale sono a carico del committente o dell'Autorità proponente e saranno determinate in relazione al valore dell'opera o dell'intervento secondo i criteri che saranno definiti dalla Giunta Regionale. </corpo>
+                </comma>
+                <comma id="art14-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La Regione, in sede di approvazione della legge annuale di Bilancio, istituirà un apposito capitolo di spesa per far fronte agli oneri derivanti dall'attuazione della presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>Art. 15 </num>
+                <rubrica>
+ 
+(Attività di ricerca e di sperimentazione) 
+ 
+L'Amministrazione regionale promuove ricerche e sperimentazioni in materia di impatto ambientale avvalendosi se necessario, di enti, organismi, istituti specializzati, strutture universitarie, società ed esperti con i quali può stipulare apposite convenzioni. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art15-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>Art. 16 </num>
+
+                <rubrica>
+ 
+(Diffusione della cultura sull'ambiente) 
+ 
+L'Amministrazione Regionale diffonde i dati degli studi promossi ai sensi del <rif xlink:href="#art15">precedente art. 15</rif> e promuove la diffusione della cultura sull'ambiente mediante attività pubblicitarie, convegni e mostre. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art16-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>Art. 17 </num>
+                <rubrica>
+ 
+(Strumenti informativi)  
+ 
+L'Amministrazione Regionale provvede alla costituzione di un sistema informativo finalizzato alla Valutazione dell'Impatto Ambientale, accessibile agli Enti pubblici. Allo stesso sistema possono accedere anche i privati dietro pagamento di un contributo stabilito dalla stessa Amministrazione Regionale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art17-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>Art. 18 </num>
+
+                <rubrica>
+ 
+(Rapporto sullo stato dell'ambiente) 
+ 
+Entro un anno dalla costituzione del sistema informativo di cui al <rif xlink:href="#art17">precedente art. 17</rif> e, successivamente, con frequenza annuale, l'Assessorato Regionale all'Ambiente predispone un rapporto sullo stato dell'ambiente nella regione Molise sulla base delle informazioni derivanti dallo stesso sistema e dell'apporto collaborativo di tutti i settori che hanno comunque competenze, a qualsiasi livello, sull'assetto del territorio e sulla tutela ambientale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art18-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art19">
+                <num>Art. 19 </num>
+                <rubrica>
+ 
+(Sanzioni) 
+ </rubrica>
+                <comma id="art19-com1">
+                    <num>
+1.</num>
+                    <corpo> Qualora, durante la costruzione o l'esercizio delle opere soggette a V.I.A., vengano accertate violazioni alle disposizioni della presente legge o ai contenuti ed alle prescrizioni dei provvedimenti adottati ai sensi della legge medesima ovvero variazioni ai progetti che possano comportare significativi mutamenti dell'impatto ambientale, il Presidente della Giunta Regionale ordina l'adeguamento dell'opera o delle modalità di esercizio fissandone i termini entro un ragionevole lasso di tempo e dispone, altresì, ove necessario, la sospensione dei lavori o l'interruzione dell'esercizio. </corpo>
+                </comma>
+                <comma id="art19-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Qualora dalle violazioni accertate siano derivate significative variazioni dell'impatto ambientale, il Presidente della Giunta Regionale ordina il ripristino dello stato dei luoghi o, in alternativa, l'adozione delle misure necessarie per la rimozione delle conseguenze negative sull'ambiente prodotte dalle violazioni medesime. </corpo>
+                </comma>
+                <comma id="art19-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La mancata attuazione dei provvedimenti adottati dal Presidente della Giunta Regionale ai sensi dei precedenti commi 1 e 2, comporta la denuncia alla competente Autorità Giudiziaria. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art20">
+                <num>Art. 20 </num>
+                <rubrica>
+ 
+(Modifiche degli allegati) 
+ </rubrica>
+                <comma id="art20-com1">
+                    <num>
+1.</num>
+                    <corpo> Gli allegati A e B della presente legge possono essere integrati con atto del Consiglio Regionale, da pubblicare sul Bollettino Ufficiale della Regione Molise. </corpo>
+                </comma>
+                <comma id="art20-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Gli allegati C e D della presente legge possono essere modificati con atti della Giunta Regionale da pubblicare sul Bollettino Ufficiale della Regione Molise. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art21">
+                <num>Art. 21  </num>
+                <rubrica>
+ 
+(Entrata in vigore) 
+ </rubrica>
+                <comma id="art21-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La presente legge è dichiarata urgente ai sensi del <rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">secondo comma dell'art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello statuto regionale</rif> ed entra in vigore il quindicesimo giorno successivo alla pubblicazione sul Bollettino Ufficiale della Regione Molise. </corpo>
+                </comma>
+                <comma id="art21-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

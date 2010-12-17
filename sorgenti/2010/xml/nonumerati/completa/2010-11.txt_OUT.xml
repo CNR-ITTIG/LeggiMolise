@@ -1,0 +1,1252 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20100301" num="6" tipo="BURM"/>
+                <entratainvigore norm="20100316"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2010-02-22;8"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 6 del 1 marzo 2010. 
+ 
+Oggetto 
+A.S.Re.M.- Attivit&#xE0; di programmazione e fonti di finanziamento - Attivit&#xE0; contabile - Controllo di gestione - Disciplina. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20100222">22 febbraio 2010</dataDoc>, n. <numDoc>8</numDoc>. 
+ 
+<titoloDoc>Disciplina sull'assetto programmatorio, contabile, gestionale e di controllo dell'Azienda sanitaria regionale del Molise - Abrogazione della <rif xlink:href="urn:nir:regione.molise:legge:1997-05-14;12">legge regionale 14 maggio 1997, n. 12</rif>. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <titolo id="tit1">
+                <num>TITOLO I </num>
+                <rubrica>
+ 
+PROGRAMMAZIONE E FINANZIAMENTO 
+ 
+</rubrica>
+                <articolo id="art1">
+                    <num>Art. 1 </num>
+                    <rubrica>
+ 
+(Strumenti della programmazione) 
+ 
+</rubrica>
+                    <comma id="art1-com1">
+                        <num/>
+
+                        <corpo>1. La Regione, attraverso gli strumenti di programmazione, individua gli obiettivi da assegnare al Servizio sanitario regionale, ripartisce le relative risorse e verifica il conseguimento degli obiettivi tramite l'impiego di idonei criteri di controllo gestionale e finanziario.  
+ 
+2. Le scelte di programmazione dell'Azienda sanitaria regionale del Molise (A.S.Re.M.) si fondano sul Piano sanitario regionale e sugli altri atti di programmazione della Regione secondo le modalità di cui all'<rif
+                                xlink:href="urn:nir:stato:decreto.legislativo:1999-06-19;229#art1">articolo 1 del decreto legislativo 19 giugno 1999, n. 229</rif> e all'<rif xlink:href="urn:nir:regione.molise:legge:1995-01-13;2#art13">articolo 13 della legge regionale 13 gennaio 1995, n. 2</rif> e successive modificazioni ed integrazioni.  
+ 
+3. Il Piano sanitario regionale (P.S.R.) rappresenta il piano strategico degli interventi per gli obiettivi di salute ed il funzionamento dei servizi per soddisfare le esigenze specifiche della popolazione regionale anche in riferimento agli obiettivi del Piano sanitario nazionale (P.S.N.).</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art2">
+                    <num>Art. 2 </num>
+                    <rubrica>
+ 
+(Fonti di finanziamento dell'Azienda sanitaria regionale) 
+ 
+</rubrica>
+                    <comma id="art2-com1">
+                        <num/>
+                        <alinea>1. Le fonti di finanziamento dell'Azienda sanitaria regionale sono costituite da:  
+ 
+</alinea>
+                        <el id="art2-com1-leta">
+                            <num>a)</num>
+                            <corpo> quote del Fondo sanitario regionale di parte corrente;</corpo>
+                        </el>
+                        <el id="art2-com1-letb">
+                            <num>  
+ 
+b)</num>
+                            <corpo> contributi e trasferimenti da amministrazioni statali, dalla Regione, dalle Province, dai Comuni, da altri enti del settore pubblico allargato, ivi comprese le risorse acquisite da contratti e convenzioni e ulteriori trasferimenti vincolati e somme in conto capitale da parte della Regione;</corpo>
+                        </el>
+                        <el id="art2-com1-letc">
+                            <num>  
+ 
+c)</num>
+                            <corpo> ricavi e proventi diversi per servizi resi a pubbliche amministrazioni ed a privati, ivi compresi introiti derivanti dall'attività libero professionale, i corrispettivi relativi a servizi integrativi a pagamento, comprese le risorse acquisite da contratti e convenzioni;</corpo>
+                        </el>
+                        <el id="art2-com1-letd">
+                            <num>  
+ 
+d)</num>
+                            <corpo> concorsi, recuperi e rimborsi spese, ivi comprese le quote di partecipazione alla spesa eventualmente dovute dai cittadini;</corpo>
+                        </el>
+                        <el id="art2-com1-lete">
+                            <num>  
+ 
+e)</num>
+                            <corpo> ricavi e rendite derivanti dall'utilizzo del patrimonio;</corpo>
+                        </el>
+                        <el id="art2-com1-letf">
+                            <num>  
+ 
+f)</num>
+                            <corpo> risultati economici positivi;</corpo>
+                        </el>
+                        <el id="art2-com1-letg">
+                            <num>  
+ 
+g)</num>
+                            <corpo> speciali contributi della Regione per i fabbisogni derivanti da perdite dovute a eventi eccezionali non prevedibili e non altrimenti ripianabili;</corpo>
+                        </el>
+                        <el id="art2-com1-leth">
+                            <num>  
+ 
+h)</num>
+                            <corpo> donazioni ed altri atti di liberalità.  
+ 
+2. L'Azienda sanitaria regionale, per il finanziamento di investimenti e previa autorizzazione regionale di cui al comma 3, può inoltre contrarre mutui o accedere ad altre forme di credito, di durata in ogni caso non superiore a dieci anni.  
+ 
+3. L'autorizzazione regionale alla contrazione dei mutui o all'accensione di altre forme di credito può essere concessa fino ad un ammontare complessivo delle relative rate, per capitale ed interessi non superiore al quindici per cento del valore costituito dalla somma derivante dalle cd. entrate proprie (proventi e ricavi diversi, compartecipazione alla spesa per prestazioni sanitarie, contributi in conto esercizio da altri enti pubblici).  
+ 
+4. L'Azienda sanitaria regionale può attivare anticipazioni bancarie con l'istituto di credito a cui è affidato il servizio di tesoreria nella misura massima dei crediti risultanti nello stato patrimoniale dell'ultimo bilancio di esercizio approvato ovvero per un importo pari alle risorse mensili trasferite dalla Regione con eventuale aggiunta della misura massima di un dodicesimo delle entrate proprie registrate nel bilancio consuntivo dell'anno precedente.  
+ 
+5. Ogni anno la Giunta regionale provvede a:</corpo>
+                        </el>
+                    </comma>
+                    <comma id="art2-com2">
+                        <num/>
+
+                        <corpo>a) determinare il fabbisogno di risorse dell'Azienda sanitaria regionale;  
+ 
+b) stimare le risorse che si rendono disponibili derivanti dalla quota spettante alla Regione del Fondo sanitario nazionale di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1992-12-30;502#art12-com3">articolo 12, comma 3, del decreto legislativo 30 dicembre 1992, n. 502</rif>;  
+ 
+c) predisporre le direttive per la formazione dei programmi finanziari annuali dell'Azienda sanitaria regionale;  
+ 
+d) disporre l'assegnazione di risorse a titolo provvisorio entro il 30 settembre di ogni anno;  
+ 
+e) determinare l'assegnazione definitiva delle risorse finanziarie all'atto dell'emanazione della delibera CIPE, su proposta del Ministero della Sanità, sentita la Conferenza permanente per i rapporti tra lo Stato, le Regioni e le Province autonome.  </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art3">
+                    <num>Art. 3 </num>
+                    <rubrica>
+ 
+(Finanziamento dei servizi socio-assistenziali delegati dagli enti locali) 
+ 
+</rubrica>
+                    <comma id="art3-com1">
+                        <num/>
+                        <corpo>1. Gli oneri per la realizzazione di servizi socio-assistenziali delegati dagli enti locali sono a totale carico di tali enti e subordinati alla effettiva acquisizione delle disponibilità finanziarie.  
+ 
+2. L'Azienda sanitaria regionale allo scopo di assicurare il pareggio nella gestione dei servizi socio-assistenziali delegati, deve stipulare con l'ente delegante una convenzione che:</corpo>
+                    </comma>
+                    <comma id="art3-com2">
+                        <num/>
+                        <corpo>a) stabilisca in modo puntuale le clausole che regolano contenuti, quantità e modalità di svolgimento dei servizi da realizzare;  
+ 
+b) richiami gli estremi della delibera dell'ente locale delegante con la quale l'ente medesimo assume impegno definitivo per l'importo totale previsto dalla convenzione stessa;  
+ 
+c) impegni l'ente locale delegante a definite scadenze nei pagamenti. </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art4">
+                    <num>Art. 4 </num>
+                    <rubrica>
+ 
+(Servizio di tesoreria) 
+ 
+</rubrica>
+                    <comma id="art4-com1">
+                        <num/>
+                        <corpo>1. Il servizio di tesoreria dell'Azienda sanitaria regionale è affidato, con apposita convenzione, ad un Istituto che espleterà le sue funzioni secondo quanto disciplinato dalla normativa di settore.  
+ 
+2. Il Direttore generale, con proprio atto, deve definire le specifiche modalità e procedure dei pagamenti dell'Azienda sanitaria regionale ed individuare i soggetti autorizzati a disporre i pagamenti stessi.</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit2">
+                <num>TITOLO II </num>
+                <rubrica>
+ 
+DOCUMENTI CONTABILI 
+ 
+</rubrica>
+                <articolo id="art5">
+                    <num>Art. 5 </num>
+                    <rubrica>
+ 
+(Bilancio di previsione) 
+ 
+</rubrica>
+                    <comma id="art5-com1">
+                        <num/>
+                        <corpo>1. Il bilancio di previsione pluriennale è elaborato con riferimento al progetto di piano attuativo e agli altri strumenti della programmazione adottati dall'Azienda sanitaria regionale e ne rappresenta la traduzione in termini economici, finanziari e patrimoniali, per la durata di tre anni, della programmazione aziendale.  
+ 
+2. Il bilancio di previsione pluriennale è annualmente aggiornato a scorrimento e comprende in modo prospettico le seguenti parti:</corpo>
+                    </comma>
+                    <comma id="art5-com2">
+                        <num/>
+
+                        <corpo>a) parte economica;  
+ 
+b) parte finanziaria;  
+ 
+c) parte patrimoniale.  
+ 
+3. Il contenuto di ogni singola parte prospettica viene rappresentato secondo uno schema obbligatorio fornito dalla Giunta regionale, in modo da consentire la rappresentazione degli equilibri economici, finanziari e patrimoniali, in analogia ai contenuti del bilancio economico preventivo e del progetto di piano attuativo.  
+ 
+4. Il bilancio economico preventivo deve essere formulato secondo lo schema di cui alla <rif
+                                xlink:href="urn:nir:stato:legge:1992-10-23;421">legge 23 ottobre 1992, n. 421</rif>, al <rif xlink:href="urn:nir:stato:decreto.legislativo:1992;502">decreto legislativo n. 502/1992</rif>, al decreto interministeriale Ministero dell'Economia e Finanze-Ministero della Salute dell'11 febbraio 2002 (Gazzetta Ufficiale n. 63 del 15 marzo 2002) e corredato dalla relazione del Direttore generale.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art6">
+                    <num>Art. 6 </num>
+                    <rubrica>
+ 
+(Bilancio di esercizio) 
+ 
+</rubrica>
+                    <comma id="art6-com1">
+                        <num/>
+                        <corpo>1. Il bilancio di esercizio deve rappresentare con chiarezza, in modo veritiero e corretto, il risultato economico e la situazione patrimoniale e finanziaria dell'Azienda sanitaria regionale. Il bilancio di esercizio deve essere articolato secondo le strutture fondamentali dell'Azienda sanitaria regionale con separata evidenza dei servizi sociali.  </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art7">
+                    <num>Art. 7 </num>
+                    <rubrica>
+ 
+(Principi e criteri di redazione del bilancio di esercizio) 
+ 
+</rubrica>
+                    <comma id="art7-com1">
+                        <num/>
+                        <alinea>1. Nella redazione del bilancio di esercizio devono essere osservati i seguenti principi:  
+ 
+</alinea>
+                        <el id="art7-com1-leta">
+                            <num>a)</num>
+                            <corpo> la valutazione delle poste deve essere fatta secondo prudenza nella prospettiva della continuazione dell'attività;</corpo>
+                        </el>
+                        <el id="art7-com1-letb">
+                            <num>  
+ 
+b)</num>
+                            <corpo> si deve tener conto dei ricavi, dei proventi e dei costi di competenza dell'esercizio, indipendentemente dalla data dell'incasso o del pagamento;</corpo>
+                        </el>
+                        <el id="art7-com1-letc">
+                            <num>  
+ 
+c)</num>
+                            <corpo> si deve tener conto dei rischi e delle perdite di competenza dell'esercizio, anche se conosciuti dopo la chiusura di questo;</corpo>
+                        </el>
+                        <el id="art7-com1-letd">
+                            <num>  
+ 
+d)</num>
+                            <corpo> gli elementi eterogenei ricompresi nelle singole poste devono essere valutati separatamente;</corpo>
+                        </el>
+                        <el id="art7-com1-lete">
+                            <num>  
+ 
+e)</num>
+                            <corpo> i criteri di valutazione non possono essere modificati da un esercizio all'altro.  
+ 
+2. La modificazione dei criteri di valutazione da un esercizio all'altro è consentita in casi eccezionali. La nota integrativa deve motivare la deroga e indicarne l'influenza sulla rappresentazione del risultato economico e della situazione patrimoniale e finanziaria.</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+                <articolo id="art8">
+                    <num>Art. 8 </num>
+                    <rubrica>
+ 
+(Struttura del bilancio di esercizio) 
+ 
+</rubrica>
+                    <comma id="art8-com1">
+                        <num/>
+
+                        <corpo>1. Il bilancio di esercizio è costituito dallo stato patrimoniale, dal conto economico e dalla nota integrativa. Il bilancio di esercizio viene articolato sulla base dello schema di bilancio previsto dal decreto ministeriale 11 febbraio 2002, recepito con deliberazione di Giunta regionale n. 1192/2002, dagli articoli 2423 e seguenti del <rif
+                                xlink:href="urn:nir:stato:codice.civile:1942-03-16;262">codice civile</rif> e in base alle direttive delle linee guida per il bilancio dell'Azienda sanitaria regionale emanate in data 6 giugno 1995 dal Ministero del Tesoro di concerto con il Ministero della Sanità.  
+ 
+2. La nota integrativa deve essere redatta in conformità ai contenuti disciplinati dal <rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262">codice civile</rif>.  
+ 
+3. Se, in casi eccezionali, i dati e le informazioni contenuti nel bilancio di esercizio, a norma degli articoli seguenti, non consentono in modo adeguato la rappresentazione veritiera e corretta o la rendono insufficiente si devono fornire i dati e le informazioni alternativi o complementari nella nota integrativa. La nota integrativa deve illustrare l'influenza dei dati e delle informazioni alternativi o complementari sulla rappresentazione del risultato economico e della situazione patrimoniale e finanziaria. I dati e le informazioni alternativi o complementari devono formare oggetto di un punto specifico della relazione del Collegio sindacale al bilancio di esercizio.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art9">
+                    <num>Art. 9 </num>
+                    <rubrica>
+ 
+(Relazione sulla gestione) 
+ 
+</rubrica>
+                    <comma id="art9-com1">
+                        <num/>
+                        <alinea>1. Il bilancio di esercizio deve essere corredato da una relazione del Direttore generale sulla situazione dell'Azienda sanitaria regionale che in particolare evidenzi:  
+ 
+</alinea>
+                        <el id="art9-com1-leta">
+                            <num>a)</num>
+                            <corpo> le motivazioni degli scostamenti rispetto al bilancio economico preventivo;</corpo>
+                        </el>
+                        <el id="art9-com1-letb">
+                            <num>  
+ 
+b)</num>
+                            <corpo> una sintesi dei risultati della gestione, in termini di analisi dei costi, dei rendimenti e dei risultati per centro di responsabilità, elaborata secondo lo schema obbligatorio adottato dalla Giunta regionale.  
+ 
+2. Nel caso che il bilancio dimostri una perdita di esercizio, nella relazione sulla gestione deve essere data separata evidenza all'analisi delle specifiche cause del risultato negativo.</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+                <articolo id="art10">
+                    <num>Art. 10 </num>
+                    <rubrica>
+ 
+(Risultati economici di esercizio) 
+ 
+</rubrica>
+                    <comma id="art10-com1">
+                        <num/>
+                        <corpo>1. L'eventuale risultato economico positivo di esercizio è destinato in via prioritaria ad investimenti; può essere inoltre destinato, attraverso contrattazione sindacale, all'incentivazione del personale legata ai risultati di budget o ad individuati progetti per il recupero di efficienza; altre destinazioni sono ammesse quando non alterino le prospettiche condizioni di equilibrio della gestione. L'eventuale parte non destinata di tale risultato è accantonata in un fondo di riserva.  
+ 
+2. Nel caso di perdita, il Direttore generale in accompagnamento al bilancio di esercizio deve formulare una separata proposta che indichi le modalità di copertura della perdita e le azioni per il riequilibrio della situazione economica. Tale proposta deve essere accompagnata dalle osservazioni del Collegio sindacale e formare oggetto di deliberazione del Direttore generale.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art11">
+                    <num>Art. 11 </num>
+                    <rubrica>
+ 
+(Pubblicità del bilancio di esercizio) 
+ 
+</rubrica>
+                    <comma id="art11-com1">
+                        <num/>
+                        <corpo>1. Il bilancio di esercizio, unitamente alla sintesi dei risultati della gestione in termini di analisi dei costi, dei rendimenti e dei risultati per centro di responsabilità contenuti nella relazione sulla gestione, è pubblicato nel Bollettino Ufficiale della Regione.  </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art12">
+                    <num>Art. 12 </num>
+                    <rubrica>
+ 
+(Documento contabile preconsuntivo) 
+ 
+</rubrica>
+                    <comma id="art12-com1">
+                        <num/>
+
+                        <corpo>1. Il Direttore generale entro il 30 ottobre di ogni anno predispone un documento contabile, denominato "preconsuntivo", in cui è esposta la stima dei valori dei costi e dei ricavi riferibili alla chiusura del bilancio di esercizio dell'anno di riferimento.  
+ 
+2. Il preconsuntivo ha lo scopo di fornire una previsione di chiusura in modo tale che possano essere in atto manovre correttive, per un eventuale riequilibrio, prima della definitiva approvazione del bilancio di esercizio.  
+ 
+3. Il documento di cui al <rif
+                                xlink:href="#art12-com1">comma 1</rif> deve essere trasmesso all'Assessorato regionale alla Sanità, unitamente al modello CE III trimestre con le modalità di cui all'<rif xlink:href="#art30">articolo 30</rif>.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art13">
+                    <num>Art. 13 </num>
+                    <rubrica>
+ 
+(Termini di approvazione e trasmissione dei documenti contabili) 
+ 
+</rubrica>
+                    <comma id="art13-com1">
+                        <num/>
+
+                        <corpo>1. La proposta di bilancio di previsione pluriennale, la proposta di bilancio economico preventivo e di budget generale devono essere trasmessi alla Giunta regionale per il rilascio del visto di congruità entro il 20 novembre di ogni anno come da disposizioni di cui all'<rif xlink:href="#art32">articolo 32</rif>.  
+ 
+2. Il bilancio di previsione pluriennale e il bilancio economico preventivo ed i relativi aggiornamenti sono approvati dal Direttore generale, entro il 31 dicembre dell'anno precedente a quello cui i documenti di bilancio si riferiscono, e trasmessi alla Giunta regionale.  
+ 
+3. Il bilancio di esercizio è approvato dal Direttore generale entro il 30 aprile dell'anno successivo a quello cui si riferisce ed è trasmesso entro dieci giorni alla Giunta regionale corredato dalla relazione sulla gestione e dalla relazione del Collegio sindacale. Nello stesso termine il bilancio di esercizio è trasmesso alla conferenza dei sindaci.  
+ 
+4. Il documento contabile denominato "preconsuntivo" è approvato dal Direttore generale entro il 30 ottobre di ogni anno e trasmesso alla Giunta regionale ed all'Assessorato regionale della Sanità corredato da una relazione illustrativa.</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit3">
+                <num>TITOLO III </num>
+                <rubrica>
+ 
+CONTABILITÀ 
+ 
+</rubrica>
+                <articolo id="art14">
+                    <num>Art. 14 </num>
+                    <rubrica>
+ 
+(Contabilità economico-patrimoniale) 
+ 
+</rubrica>
+                    <comma id="art14-com1">
+                        <num/>
+                        <corpo>1. L'Azienda sanitaria regionale utilizza la contabilità economico-patrimoniale con lo scopo di determinare il risultato economico d'esercizio e il patrimonio di funzionamento.  
+ 
+2. La contabilità economico-patrimoniale rileva i valori relativi ai costi, ai ricavi e ai proventi imputabili alla competenza economica dell'esercizio e i connessi valori che misurano la consistenza e le variazioni degli elementi attivi e passivi del patrimonio.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art15">
+                    <num>Art. 15 </num>
+                    <rubrica>
+ 
+(Piano dei conti) 
+ 
+</rubrica>
+                    <comma id="art15-com1">
+                        <num/>
+
+                        <corpo>1. I valori relativi ai costi, ai ricavi, ai proventi e ai componenti patrimoniali sono classificati in conti, in base al piano dei conti predisposto dalla Giunta regionale. 
+ 
+2. L'Azienda sanitaria regionale deve altresì tenere le altre scritture contabili previste dalle leggi.  
+ 
+3. Con riguardo ai criteri ed alle modalità di tenuta e di conservazione delle scritture obbligatorie di cui al <rif
+                                xlink:href="#art15-com1">comma 1</rif> si applicano in quanto compatibili le disposizioni del <rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262">codice civile</rif>.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art16">
+                    <num>Art. 16 </num>
+                    <rubrica>
+ 
+(Scritture contabili obbligatorie) 
+ 
+</rubrica>
+                    <comma id="art16-com1">
+                        <num/>
+                        <alinea>1. L'Azienda sanitaria regionale deve tenere le seguenti scritture obbligatorie:  
+ 
+</alinea>
+                        <el id="art16-com1-leta">
+                            <num>a)</num>
+                            <corpo> libro giornale;</corpo>
+                        </el>
+                        <el id="art16-com1-letb">
+                            <num>  
+ 
+b)</num>
+                            <corpo> libro degli inventari;</corpo>
+                        </el>
+                        <el id="art16-com1-letc">
+                            <num>  
+ 
+c)</num>
+                            <corpo> libro degli atti del direttore generale;</corpo>
+                        </el>
+                        <el id="art16-com1-letd">
+                            <num>  
+ 
+d)</num>
+
+                            <corpo> libro delle adunanze e dei verbali del Collegio sindacale.  
+ 
+2. L'Azienda sanitaria regionale deve altresì tenere le altre scritture contabili previste dalle leggi.  
+ 
+3. Con riguardo ai criteri e dalle modalità di tenuta e di conservazione delle scritture obbligatorie di cui al <rif
+                                    xlink:href="#art16-com1">comma 1</rif> si applicano in quanto compatibili le disposizioni del <rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262">codice civile</rif>.</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+                <articolo id="art17">
+                    <num>Art. 17 </num>
+                    <rubrica>
+ 
+(Contabilità analitica) 
+ 
+</rubrica>
+                    <comma id="art17-com1">
+                        <num/>
+                        <corpo>1. L'Azienda sanitaria regionale applica la contabilità analitica con lo scopo di attuare, attraverso operazioni di classificazione, localizzazione e imputazione, raggruppamenti di valori economici articolati sulla base delle caratteristiche dei processi produttivi ed erogativi.  
+ 
+2. La contabilità analitica elabora i valori relativi ai costi di produzione e di erogazione, ai ricavi, ai proventi, ai prezzi interni con riferimento a individuati oggetti di rilevazione. Gli oggetti di rilevazione sono rappresentati:</corpo>
+                    </comma>
+                    <comma id="art17-com2">
+                        <num/>
+                        <corpo>a) dai centri di costo riferiti alle aree di attività corrispondenti ai livelli assistenziali previsti nel Piano sanitario nazionale;  
+ 
+b) dai centri di responsabilità.  
+ 
+3. I dati di base contabili ed extracontabili per l'alimentazione della contabilità analitica sono tratti dal sistema informativo dell'Azienda sanitaria regionale e in particolare dalla contabilità economico-patrimoniale in modo da consentire la rilevazione dei flussi informativi richiesti sia dalla Regione, sia dai Ministeri dell'Economia e Finanza e Ministero del Welfare.</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit4">
+                <num>TITOLO IV </num>
+                <rubrica>
+ 
+BUDGET 
+ 
+</rubrica>
+                <articolo id="art18">
+                    <num>Art. 18 </num>
+                    <rubrica>
+ 
+(Metodica di budget) 
+ 
+</rubrica>
+                    <comma id="art18-com1">
+                        <num/>
+                        <corpo>1. Allo scopo di pervenire, su arco annuale e con sistematico riferimento alle scelte della programmazione, alla formulazione di articolate e puntuali previsioni relativamente ai risultati da conseguire, alle attività da realizzare, ai fattori produttivi da utilizzare, alle risorse finanziarie da acquisire e da impiegare, agli investimenti da completare è obbligatoria l'adozione della metodica di budget.  
+ 
+2. La metodica di budget si sviluppa secondo una struttura che comprende:</corpo>
+                    </comma>
+                    <comma id="art18-com2">
+                        <num/>
+                        <corpo>a) le linee guida per la formulazione dei budgets, elaborate dalla Regione ed adottate con delibera di Giunta regionale;  
+ 
+b) il documento di direttive elaborato dall'Azienda sanitaria regionale;  
+ 
+c) il budget generale per livelli assistenziali elaborato dall'Azienda sanitaria regionale;  
+ 
+d) il budget delle strutture elaborato dall'Azienda sanitaria regionale;  
+ 
+e) il budget di centro di responsabilità elaborato dall'Azienda sanitaria regionale.  </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art19">
+                    <num>Art. 19 </num>
+                    <rubrica>
+ 
+(Linee guida per la formulazione del budget) 
+ 
+</rubrica>
+                    <comma id="art19-com1">
+                        <num/>
+                        <corpo>1. Le linee guida per la formulazione dei budget, si articolano in un insieme di interventi e direttive predisposti dalla Regione, aventi lo scopo di supportare l'Azienda sanitaria regionale nella realizzazione del proprio sistema di programmazione, rendicontazione e controllo.  
+ 
+2. Le direttive sono disposte con delibera di Giunta regionale.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art20">
+                    <num>Art. 20 </num>
+                    <rubrica>
+ 
+(Documento di direttive) 
+ 
+</rubrica>
+                    <comma id="art20-com1">
+                        <num/>
+                        <corpo>1. Il documento di direttive è formulato allo scopo di realizzare il raccordo sistematico tra gli strumenti della programmazione e i budget.  
+ 
+2. Il documento di direttive è elaborato dal Direttore generale in aderenza ai contenuti e alle scelte dei piani, programmi e progetti adottati e indica obiettivi, linee guida, criteri, vincoli e parametri per la formulazione dei budget.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art21">
+                    <num>Art. 21 </num>
+                    <rubrica>
+ 
+(Budget generale) 
+ 
+</rubrica>
+                    <comma id="art21-com1">
+                        <num/>
+                        <alinea>1. Il budget generale per livelli assistenziali riguarda l'intera attività dell'Azienda sanitaria regionale e si articola nelle seguenti parti:  
+ 
+</alinea>
+                        <el id="art21-com1-leta">
+                            <num>a)</num>
+                            <corpo> il budget economico, che indica in analisi le attività ed i costi; la rappresentazione dei costi deve consentire l'evidenza delle fondamentali classi di fattori produttivi;</corpo>
+                        </el>
+                        <el id="art21-com1-letb">
+                            <num>  
+ 
+b)</num>
+                            <corpo> il budget finanziario che indica in analisi i flussi di entrata e di spesa;</corpo>
+                        </el>
+                        <el id="art21-com1-letc">
+                            <num>  
+ 
+c)</num>
+                            <corpo> il budget patrimoniale che indica in analisi le fonti di finanziamento e gli impieghi, in modo tale da consentire anche la separata evidenza della gestione corrente e della gestione degli investimenti.  
+ 
+2. Il budget generale costituisce allegato necessario del bilancio economico preventivo.</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+                <articolo id="art22">
+                    <num>Art. 22 </num>
+                    <rubrica>
+ 
+(Budget delle strutture) 
+ 
+</rubrica>
+                    <comma id="art22-com1">
+                        <num/>
+                        <corpo>1. I budget delle strutture sono formulati con riguardo alle fondamentali strutture dell'Azienda sanitaria regionale.  
+ 
+2. I budget delle strutture sono articolati e strutturati in modo analogo al budget generale.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art23">
+                    <num>Art. 23 </num>
+                    <rubrica>
+ 
+(Budget di centro di responsabilità) 
+ 
+</rubrica>
+                    <comma id="art23-com1">
+                        <num/>
+                        <corpo>1. I budget di centro di responsabilità sono formulati con riguardo alle unità organizzative inserite nel piano dei centri di responsabilità.  
+ 
+2. I budget di centro di responsabilità sono articolati e strutturati in modo da consentire la rappresentazione degli aspetti economici, rendendo inoltre possibile l'attribuzione della responsabilità di gestione e di risultato mediante l'individuazione dei risultati da conseguire, delle attività da svolgere e delle risorse assegnate.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art24">
+                    <num>Art. 24 </num>
+                    <rubrica>
+ 
+(Approvazione dei budget) 
+ 
+</rubrica>
+                    <comma id="art24-com1">
+                        <num/>
+                        <corpo>1. Il Direttore generale entro lo stesso termine stabilito per l'approvazione del bilancio economico preventivo predispone la proposta di budget generale ed i connessi budget di centro di responsabilità ed i budget delle fondamentali strutture.  </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art25">
+                    <num>Art. 25 </num>
+                    <rubrica>
+ 
+(Controllo periodico e revisione del budget) 
+ 
+</rubrica>
+                    <comma id="art25-com1">
+                        <num/>
+
+                        <corpo>1. Il budget generale, i budget di centro di responsabilità e i budget delle fondamentali strutture sono sottoposti, con cadenza trimestrale ed entro venti giorni dalla scadenza del mese di riferimento, alla verifica dello stato di avanzamento con lo scopo di porre in evidenza, rispetto ai dati di budget, gli eventuali scostamenti già intervenuti e gli elementi che possono determinare scostamenti nel prosieguo della gestione.  
+ 
+2. Entro la fine del mese successivo alla scadenza di ciascun trimestre deve essere inviata alla Giunta regionale una relazione sullo stato di avanzamento del budget generale, che oltre a porre in evidenza gli scostamenti rispetto ai dati di budget e gli elementi che possono determinare scostamenti nel prosieguo della gestione, opera una proiezione della situazione finanziaria e del risultato economico finale secondo uno schema fornito dalla Giunta regionale.  
+ 
+3. A seguito dei controlli periodici trimestrali, il Direttore generale, qualora ne ravvisi l'opportunità e, in ogni caso, a fronte di situazioni di previsto squilibrio finanziario ed economico, procede alla revisione del budget generale, dandone comunicazione alla Giunta regionale.  
+ 
+4. Qualora dalle verifiche di cui al <rif xlink:href="#art25-com1">comma 1</rif> emergessero elementi di possibile squilibrio finanziario ed economico, e in ogni caso, con riferimento alle relazioni trimestrali e alle revisioni del budget, il Collegio sindacale deve formulare una relazione con le proprie osservazioni da trasmettere alla Giunta regionale entro la fine del mese successivo alla scadenza del periodo di riferimento mensile o trimestrale.</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit5">
+                <num>TITOLO V </num>
+                <rubrica>
+ 
+CONT ROLLO DI GEST IONE AZIENDALE 
+ 
+</rubrica>
+                <articolo id="art26">
+                    <num>Art. 26 </num>
+                    <rubrica>
+ 
+(Controllo di gestione dell'Azienda sanitaria regionale) 
+ 
+</rubrica>
+                    <comma id="art26-com1">
+                        <num/>
+                        <corpo>1. L'Azienda sanitaria regionale applica il controllo di gestione allo scopo di assicurare efficacia ed efficienza ai processi di acquisizione e di impiego delle risorse.  </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art27">
+                    <num>Art. 27 </num>
+                    <rubrica>
+ 
+(La struttura organizzativa del controllo di gestione) 
+ 
+</rubrica>
+                    <comma id="art27-com1">
+                        <num/>
+                        <corpo>1. La struttura organizzativa del controllo di gestione è costituita dall'insieme dei centri di responsabilità e dall'unità organizzativa preposta allo svolgimento del processo di controllo di gestione.  
+ 
+2. I centri di responsabilità corrispondono ad unità operative alle quali sono assegnate, mediante la metodica di budget, determinate risorse per lo svolgimento di specifiche attività volte all'ottenimento di individuati risultati.  
+ 
+3. L'insieme dei centri di responsabilità costituisce il piano dei centri di responsabilità.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art28">
+                    <num>Art. 28 </num>
+                    <rubrica>
+ 
+(Struttura tecnico-contabile del controllo di gestione) 
+ 
+</rubrica>
+                    <comma id="art28-com1">
+                        <num/>
+                        <corpo>1. La struttura tecnico-contabile del controllo di gestione è costituita dall'insieme organizzato degli strumenti informativi che consentono la raccolta, l'analisi e la diffusione delle informazioni per lo svolgimento del processo di controllo di gestione.  
+ 
+2. La struttura tecnico-contabile del controllo di gestione, oltre ad avvalersi dei dati e delle informazioni traibili dalla contabilità economico-patrimoniale, dalla contabilità analitica, dalla metodologia di budget e da altre parti del sistema informativo dell'Azienda sanitaria regionale, si fonda sulla rilevazione analitica degli scostamenti. La rilevazione analitica degli scostamenti avviene per confronto tra dati di budget e dati consuntivi con riguardo ai volumi delle risorse complessivamente assorbite, ai singoli fattori operativi impiegati e ai risultati ottenuti.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art29">
+                    <num>Art. 29 </num>
+                    <rubrica>
+ 
+(Processo di controllo di gestione) 
+ 
+</rubrica>
+                    <comma id="art29-com1">
+                        <num/>
+                        <alinea>1. Il processo di controllo di gestione è attivato dal Direttore generale che provvede con appositi atti a:  
+ 
+</alinea>
+                        <el id="art29-com1-leta">
+                            <num>a)</num>
+                            <corpo> individuare il piano dei centri di responsabilità economica ed il responsabile di ciascun centro;</corpo>
+                        </el>
+                        <el id="art29-com1-letb">
+                            <num>  
+ 
+b)</num>
+                            <corpo> definire la struttura degli strumenti per la raccolta e l'elaborazione delle informazioni;</corpo>
+                        </el>
+                        <el id="art29-com1-letc">
+                            <num>  
+ 
+c)</num>
+                            <corpo> disciplinare le fasi del processo di controllo, individuando i soggetti che devono partecipare a ciascuna di esse;</corpo>
+                        </el>
+                        <el id="art29-com1-letd">
+                            <num>  
+ 
+d)</num>
+                            <corpo> analizzare i dati di gestione attraverso una serie di elaborazioni e di indicatori atti a valutare la significatività degli scostamenti, l'efficienza nell'impiego delle risorse e la produttività dei fattori operativi impiegati, nonché la qualità dei servizi;</corpo>
+                        </el>
+                        <el id="art29-com1-lete">
+                            <num>  
+ 
+e)</num>
+                            <corpo> redigere i periodici rapporti di gestione sullo stato di avanzamento del budget;</corpo>
+                        </el>
+                        <el id="art29-com1-letf">
+                            <num>  
+ 
+f)</num>
+                            <corpo> redigere il rapporto annuale finale che attua il sistematico confronto fra i dati di budget e di consuntivo, in modo tale da porre in evidenza anche gli scostamenti nei costi, nei risultati e nei rendimenti a livello sia di centri di responsabilità, sia delle fondamentali strutture dell'Azienda sanitaria regionale, come indicate per il bilancio economico di previsione.  
+ 
+2. Il rapporto annuale finale deve essere trasmesso alla Giunta regionale unitamente al bilancio consuntivo.  
+ 
+3. L'Azienda sanitaria regionale si dota del Nucleo di valutazione.  
+ 
+4. Il Nucleo di valutazione è preposto al controllo di gestione per l'espletamento degli adempimenti ad esso affidati dalla vigente normativa di settore e dai contratti collettivi nazionali di lavoro. È facoltà del Nucleo di valutazione, utilizzare, per lo svolgimento delle proprie attività, i dati di gestione forniti dalla struttura tecnica del controllo di gestione.</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit6">
+                <num>TITOLO VI </num>
+                <rubrica>
+ 
+MODELLO DI RILEVAZ IONE 
+ 
+CONTO ECONOMICO (CE) 
+ 
+</rubrica>
+                <articolo id="art30">
+                    <num>Art. 30 </num>
+                    <rubrica>
+ 
+(Modello di rilevazione conto economico) 
+ 
+</rubrica>
+                    <comma id="art30-com1">
+                        <num/>
+                        <corpo>1. L'Azienda sanitaria regionale è tenuta ad inviare alla Regione i modelli di rilevazione dei costi e dei ricavi aziendali, secondo le modalità di compilazione e di trasmissione previsti negli articoli 1, 3 e 4 del decreto ministeriale 13 novembre 2007.  
+ 
+2. I termini di trasmissione dei modelli non possono subìre alcuna dilazione rispetto a quanto previsto dall'articolo 3 del decreto ministeriale 13 novembre 2007. Eventuali ritardi ed inadempienze comportano l'adozione delle misure previste dall'articolo 6 del decreto ministeriale 13 novembre 2007.  
+ 
+3. La Regione provvede alla validazione dei dati contenuti nei modelli trasmessi dall'Azienda sanitaria regionale ed a comunicare all'Azienda stessa, qualora necessario, le eventuali modifiche da apportare ai modelli succitati.</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit7">
+                <num>TITOLO VII </num>
+                <rubrica>
+ 
+CONT ROLLO REGIONALE 
+ 
+</rubrica>
+                <articolo id="art31">
+                    <num>Art. 31 </num>
+                    <rubrica>
+ 
+(Controllo regionale) 
+ 
+</rubrica>
+                    <comma id="art31-com1">
+                        <num/>
+
+                        <corpo>1. La Giunta regionale esercita la vigilanza sull'Azienda sanitaria regionale procedendo in particolare all'effettuazione di verifiche delle attività svolte e della compatibilità di queste con gli indirizzi e gli obiettivi posti dai piani sanitari nazionale e regionale.  
+ 
+2. Sono sottoposti al controllo preventivo della Giunta regionale ai sensi della <rif xlink:href="urn:nir:stato:legge:1991;412">legge n. 412/1991</rif> gli atti del Direttore generale inerenti le seguenti materie:</corpo>
+                    </comma>
+                    <comma id="art31-com2">
+                        <num/>
+
+                        <corpo>a) bilancio di previsione triennale;  
+ 
+b) bilancio economico e di previsione;  
+ 
+c) bilancio di esercizio;  
+ 
+d) copertura perdite di esercizio;  
+ 
+e) riequilibrio situazione economica;  
+ 
+f) disciplina rapporti con Università e IRCCS;  
+ 
+g) utilizzo risultato positivo di gestione;  
+ 
+h) Atto aziendale;  
+ 
+i) determinazione della consistenza quantitativa e qualitativa complessiva del personale e sue variazioni;  
+ 
+l) ogni altro atto attribuito alla esclusiva competenza del Direttore generale da leggi e regolamenti.  
+ 
+3. Gli atti adottati dalla Giunta regionale nell'esercizio della funzione di cui al <rif
+                                xlink:href="#art31-com2">comma 2</rif> non sono soggetti a controllo.  
+ 
+4. Restano fermi i vincoli già previsti dalla vigente normativa che comportano la necessità di specifiche autorizzazioni regionali.  
+ 
+5. Tutti gli atti dell'Azienda sanitaria regionale sono pubblicati mediante affissione all'albo per dieci giorni consecutivi, fatte salve specifiche disposizioni di legge.  
+ 
+6. Gli atti di cui al <rif
+                                xlink:href="#art31-com2">comma 2</rif> sono sottoposti al controllo della Giunta regionale, secondo le modalità di cui all'<rif
+                                xlink:href="urn:nir:stato:legge:1991;412#art4-com8">articolo 4, comma 8, della legge n. 412/1991</rif> e vanno trasmessi, perentoriamente, alla stessa, entro quindici giorni dalla loro adozione. Entro il termine massimo di quaranta giorni dalla ricezione degli atti di cui al <rif
+                                xlink:href="#art31-com2">comma 2</rif>, la Giunta regionale è tenuta a pronunciarsi, anche in forma di silenzio-assenso. Il termine dei quaranta giorni si intende interrotto, qualora vengano richiesti chiarimenti o elementi integrativi di giudizio entro i primi venti giorni dalla ricezione dei documenti contabili. In tal caso, il termine dei quaranta giorni stabilito per l'esercizio del controllo, ricomincerà a decorrere dalla data di ricezione della documentazione integrativa. I chiarimenti possono essere richiesti una sola volta.  
+ 
+7. I controlli sugli atti degli istituti di ricovero e cura a carattere scientifico di cui all'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1980-07-31;617#art19">articolo 19 del decreto del Presidente della Repubblica 31 luglio 1980, n. 617</rif>, sono disciplinati dalle disposizioni statali vigenti.  
+ 
+8. La Giunta regionale esercita, altresì, il controllo sull'attività dell'Azienda sanitaria regionale mediante:</corpo>
+                    </comma>
+                    <comma id="art31-com3">
+                        <num/>
+
+                        <corpo>a) l'apposizione del visto di congruità di cui all'<rif
+                                xlink:href="#art33">articolo 33</rif>;  
+ 
+b) la continua attività anche ispettiva di vigilanza e di riscontro attuata attraverso le strutture individuate dalla Regione stessa;  
+ 
+c) la risoluzione del contratto con il Direttore generale, con le procedure previste dall'<rif
+                                xlink:href="urn:nir:stato:decreto.legislativo:1992;502#art3-com6">articolo 3, comma 6, del decreto legislativo n. 502/1992</rif>, e la contestuale sua sostituzione, qualora il Direttore generale non provveda, nei termini stabiliti e secondo le modalità prescritte dalla presente legge, all'adozione del bilancio pluriennale e della relazione programmatica pluriennale, del bilancio economico preventivo, del budget generale e delle sue revisioni, del bilancio di esercizio e della proposta per la copertura della perdita e per il riequilibrio della situazione economica che accompagna il bilancio di esercizio;  
+ 
+d) il controllo e la validazione del bilancio d'esercizio, come previsto nell'<rif xlink:href="#art32">articolo 32</rif>.  </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art32">
+                    <num>Art. 32 </num>
+                    <rubrica>
+ 
+(Visto regionale di congruità) 
+ 
+</rubrica>
+                    <comma id="art32-com1">
+                        <num/>
+                        <alinea>1. Il Direttore generale dell'Azienda sanitaria regionale trasmette alla Giunta regionale per il visto di congruità: 
+ 
+</alinea>
+                        <el id="art32-com1-leta">
+                            <num>a)</num>
+                            <corpo> la proposta di bilancio di previsione pluriennale, la proposta di bilancio economico preventivo e del budget generale, entro il 20 novembre di ogni anno;</corpo>
+                        </el>
+                        <el id="art32-com1-letb">
+                            <num>  
+ 
+b)</num>
+
+                            <corpo> la proposta per la copertura della perdita e per il riequilibrio della situazione economica entro lo stesso termine previsto per la trasmissione del bilancio di esercizio.  
+ 
+1. Le proposte relative ai documenti di cui al <rif xlink:href="#art32-com1">comma 1</rif>, formalizzate con atto del Direttore generale, sono trasmesse alla Giunta regionale corredate dalle relazioni accompagnatorie prescritte per i documenti stessi.  
+ 
+2. Il Direttore generale dell'Azienda sanitaria regionale, con proprio provvedimento, deve:</corpo>
+                        </el>
+                    </comma>
+                    <comma id="art32-com2">
+                        <num/>
+
+                        <corpo>a) prendere atto del visto di congruità di cui al <rif
+                                xlink:href="#art32-com1">comma 1</rif>, rilasciato dalla Giunta regionale;  
+ 
+b) formalizzare in atti contabili definitivi le proposte dei documenti di cui al <rif xlink:href="#art32-com1">comma 1</rif>;  
+ 
+c) trasmettere la completa documentazione alla Giunta regionale per i controlli di cui all'articolo 31, comma 6.  </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art33">
+                    <num>Art. 33 </num>
+                    <rubrica>
+ 
+(Attività di controllo regionale in materia amministrativo-contabile) 
+ 
+</rubrica>
+                    <comma id="art33-com1">
+                        <num/>
+
+                        <corpo>1. La Regione esercita l'attività di controllo e vigilanza sugli atti di programmazione aziendale dell'Azienda sanitaria regionale ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1992;502#art2-com2sexies-lete">articolo 2, comma 2- sexies, lett. e) del decreto legislativo n. 502/1992</rif>.  
+ 
+2. Le competenze della Regione sono quelle di definire i criteri generali su cui si basa l'attività di controllo e verificare l'equilibrio economico ed il risultato complessivo dell'azione svolta anche in relazione ai livelli di qualità raggiunti.  
+ 
+3. La Regione definisce le procedure finalizzate alla certificazione di bilancio dell'A.S.Re.M..</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit8">
+                <num>TITOLO VIII </num>
+                <rubrica>
+ 
+COLLEGIO SINDACALE 
+ 
+</rubrica>
+                <articolo id="art34">
+                    <num>Art. 34 </num>
+                    <rubrica>
+ 
+(Funzioni del Collegio sindacale) 
+ 
+</rubrica>
+                    <comma id="art34-com1">
+                        <num/>
+                        <corpo>1. Il Collegio sindacale è organo dell'Azienda sanitaria regionale unitamente al Direttore generale.  
+ 
+2. Il Collegio sindacale:</corpo>
+                    </comma>
+                    <comma id="art34-com2">
+                        <num/>
+                        <corpo>a) verifica l'amministrazione dell'azienda sotto il profilo economico;  
+ 
+b) vigila sull'osservanza della legge;  
+ 
+c) accerta la regolare tenuta della contabilità e la conformità del bilancio alle risultanze dei libri e delle strutture contabili ed effettua periodicamente verifiche di cassa;  
+ 
+d) attesta la corrispondenza del conto consuntivo alle risultanze della gestione;  
+ 
+e) esamina il bilancio di previsione e le relative variazioni di assestamento;  
+ 
+f) riferisce almeno trimestralmente alla Regione, anche su richiesta di quest'ultima, sui risultati dei riscontri eseguiti.  </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art35">
+                    <num>Art. 35 </num>
+                    <rubrica>
+ 
+(Vigilanza sulla regolarità amministrativa e contabile) 
+ 
+</rubrica>
+                    <comma id="art35-com1">
+                        <num/>
+                        <alinea>1. Il Collegio sindacale esercita la vigilanza sulla regolarità amministrativa e contabile mediante verifiche infrannuali:  
+ 
+</alinea>
+                        <el id="art35-com1-leta">
+                            <num>a)</num>
+                            <corpo> dell'applicazione delle norme della presente legge;</corpo>
+                        </el>
+                        <el id="art35-com1-letb">
+                            <num>  
+ 
+b)</num>
+                            <corpo> della regolare tenuta dei libri;</corpo>
+                        </el>
+                        <el id="art35-com1-letc">
+                            <num>  
+ 
+c)</num>
+                            <corpo> dell'affidabilità della compiutezza e della correttezza delle procedura e delle scritture contabili;</corpo>
+                        </el>
+                        <el id="art35-com1-letd">
+                            <num>  
+ 
+d)</num>
+                            <corpo> degli adempimenti relativi agli obblighi fiscali;</corpo>
+                        </el>
+                        <el id="art35-com1-lete">
+                            <num>  
+ 
+e)</num>
+                            <corpo> della regolarità formale dei singoli atti di gestione e di titoli di spesa seguendo criteri di controllo logico-sistematici.  
+ 
+2. Il Collegio sindacale deve inoltre accertare, almeno ogni trimestre, la consistenza di cassa e verificare la regolarità delle operazioni dei servizi di cassa interna.  
+ 
+3. Qualora per l'attività di verifica il Collegio sindacale utilizzi indagini campionarie, lo stesso deve adottare idonei criteri di campionamento al fine di assicurare significatività alle analisi compiute e comunque garantire la rotazione delle poste campionate.  
+ 
+4. La descrizione dei criteri adottati deve risultare dal libro delle adunanze dei verbali del Collegio sindacale.</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+                <articolo id="art36">
+                    <num>Art. 36 </num>
+                    <rubrica>
+ 
+(Vigilanza sulla gestione economica, finanziaria e patrimoniale) 
+ 
+</rubrica>
+                    <comma id="art36-com1">
+                        <num/>
+                        <alinea>1. Il Collegio sindacale esercita la vigilanza sulla gestione economica, finanziaria e patrimoniale. In particolare:  
+ 
+</alinea>
+                        <el id="art36-com1-leta">
+                            <num>a)</num>
+                            <corpo> formula al Direttore generale dell'Azienda sanitaria regionale un parere preventivo sul bilancio di previsione pluriennale, sul bilancio economico preventivo, sul budget generale, nonché sulle revisioni del budget generale;</corpo>
+                        </el>
+                        <el id="art36-com1-letb">
+                            <num>  
+ 
+b)</num>
+                            <corpo> può richiedere informazioni utili alla verifica della fondatezza delle previsioni contenute nei bilanci e nei documenti di budget;</corpo>
+                        </el>
+                        <el id="art36-com1-letc">
+                            <num>  
+ 
+c)</num>
+                            <corpo> redige inoltre proprie relazioni sul bilancio di previsione pluriennale e sul bilancio economico preventivo. Tali relazioni sono trasmesse alla Giunta regionale negli stessi termini stabiliti per la trasmissione dei documenti ai quali si riferiscono;</corpo>
+                        </el>
+                        <el id="art36-com1-letd">
+                            <num>  
+ 
+d)</num>
+                            <corpo> svolge i compiti previsti nell'ambito del controllo periodico e della revisione del budget di cui agli articoli 18 e seguenti.  
+ 
+3. Il Collegio sindacale può formulare osservazioni e proposte al Direttore generale affinché adotti tutti i provvedimenti necessari a correggere gli andamenti negativi e a prevenire ulteriori squilibri ed esprime i pareri di competenza richiesti dal Direttore generale dell'Azienda sanitaria regionale.</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+                <articolo id="art37">
+                    <num>Art. 37 </num>
+                    <rubrica>
+ 
+(Esame e valutazione del bilancio di esercizio) 
+ 
+</rubrica>
+                    <comma id="art37-com1">
+                        <num/>
+                        <corpo>1. Il Collegio sindacale formula al Direttore generale dell'Azienda sanitaria regionale un parere preventivo sulla proposta di bilancio di esercizio nel quale esprime le proprie valutazioni e proposte con riguardo alla redazione del bilancio stesso.  
+ 
+2. Il Collegio sindacale con riferimento al bilancio di esercizio deve esaminare e valutare in apposita relazione:</corpo>
+                    </comma>
+                    <comma id="art37-com2">
+                        <num/>
+
+                        <corpo>a) l'andamento della gestione nel suo complesso ed i risultati conseguiti nell'esercizio, anche in rapporto al grado di realizzazione del budget;  
+ 
+b) l'affidabilità, la compiutezza e la correttezza nella tenuta della contabilità e la corrispondenza fra i dati del bilancio e le risultanze delle scritture contabili;  
+ 
+c) la coerenza e la corrispondenza dei contenuti del bilancio di esercizio ai principi e alle norme di cui all'<rif xlink:href="#art6">articolo 6</rif>.  </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art38">
+                    <num>Art. 38 </num>
+                    <rubrica>
+ 
+(Espletamento delle funzioni e dei compiti del Collegio sindacale) 
+ 
+</rubrica>
+                    <comma id="art38-com1">
+                        <num/>
+                        <corpo>1. Il Collegio sindacale può in qualsiasi momento procedere, anche individualmente, ad atti di ispezione e controllo.  
+ 
+2. Il Collegio sindacale può chiedere notizie al Direttore generale dell'Azienda sanitaria regionale sull'andamento delle operazioni e su determinati atti di gestione.  
+ 
+3. Tutti i documenti e gli atti che devono essere sottoposti al Collegio sindacale per l'espressione di pareri e per la redazione delle relazioni previste dalla presente legge, devono essere trasmessi formalmente dal Direttore generale al Collegio stesso, onde consentire l'espletamento dei compiti del Collegio.  
+ 
+4. Gli accertamenti eseguiti devono risultare sul libro delle adunanze e dei verbali del Collegio sindacale.  
+ 
+5. Qualora, nell'ambito dell'espletamento delle proprie funzioni e dei propri compiti, il Collegio venga a conoscenza dell'esistenza di gravi irregolarità nella gestione ha l'obbligo di darne immediata comunicazione al Direttore generale dell'Azienda sanitaria regionale ed alla Giunta regionale.  
+ 
+6. L'Azienda sanitaria regionale pone a disposizione del Collegio sindacale un luogo idoneo per la custodia della documentazione inerente alle funzioni svolte dal Collegio stesso.</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit9">
+                <num>TITOLO IX </num>
+                <rubrica>
+ 
+PATRIMONIO 
+ 
+</rubrica>
+                <articolo id="art39">
+                    <num>Art. 39 </num>
+                    <rubrica>
+ 
+(Beni aziendali ed inventario generale del patrimonio) 
+ 
+</rubrica>
+                    <comma id="art39-com1">
+                        <num/>
+
+                        <corpo>1. I beni appartenenti all'Azienda sanitaria regionale sono classificati in beni patrimoniali indisponibili e beni patrimoniali disponibili.  
+ 
+2. Sono beni indisponibili: i beni strumentali all'esercizio delle funzioni istituzionali dell'Azienda e quelli classificati tali per speciale regime giuridico.  
+ 
+3. I beni non rientranti nella classificazione di cui al comma 2 rientrano nel patrimonio disponibile dell'Azienda sanitaria regionale.  
+ 
+4. Il Direttore generale provvede alla classificazione dei beni secondo le disposizioni dei commi precedenti in relazione all'effettiva utilizzazione dei beni stessi.  
+ 
+5. L'inventario generale del patrimonio deve redigersi con riferimento all'avvio dell'attività dell'Azienda sanitaria regionale (<rif
+                                xlink:href="urn:nir:regione.molise:legge:2005-04-01;9">legge regionale 1° aprile 2005, n. 9</rif>) ed essere trasmesso all'Assessorato regionale alla sanità.  
+ 
+6. L'inventario generale del patrimonio è predisposto secondo le prescrizioni del <rif
+                                xlink:href="urn:nir:stato:codice.civile:1942-03-16;262">codice civile</rif>.  
+ 
+7. L'Azienda sanitaria regionale è autorizzata a cedere beni cancellati dall'inventario in base alla normativa vigente per la loro dismissione, per iniziative nazionali ed internazionali di carattere umanitario e di cooperazione allo sviluppo.  
+ 
+8. Per il fine di cui al comma 7, le organizzazioni regionali e locali di CARITAS, CRI ed UNICEF possono presentare richiesta all'Azienda sanitaria regionale per l'utilizzazione dei beni suddetti. Possono, altresì, presentare istanza le organizzazioni non governative idonee ai sensi degli articoli 28 e 29 della <rif xlink:href="urn:nir:stato:legge:1987-02-26;49">legge 26 febbraio 1987, n. 49</rif>, e le associazioni di volontariato operanti nel territorio regionale.  
+ 
+9. La cessione dei beni di cui al comma 7 avviene sulla base della presentazione, da parte dell'organismo richiedente, di una dichiarazione circa l'utilizzazione e la destinazione dello stesso. L'organismo richiedente, inoltre, segnala all'Azienda sanitaria regionale l'avvenuta consegna del materiale all'ente ricevente.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art40">
+                    <num>Art. 40 </num>
+                    <rubrica>
+ 
+(Inventario generale del patrimonio. Aggiornamento) 
+ 
+</rubrica>
+                    <comma id="art40-com1">
+                        <num/>
+                        <alinea>1. L'Azienda sanitaria regionale è tenuta ad: 
+ 
+</alinea>
+                        <el id="art40-com1-leta">
+                            <num>a)</num>
+                            <corpo> aggiornare con cadenza annuale l'inventario del patrimonio;</corpo>
+                        </el>
+                        <el id="art40-com1-letb">
+                            <num>  
+ 
+b)</num>
+                            <corpo> inviare le variazioni e integrazioni all'Assessorato regionale alla Sanità.  </corpo>
+                        </el>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit10">
+                <num>TITOLO X </num>
+                <rubrica>
+ 
+CONTRATTI 
+ 
+</rubrica>
+                <articolo id="art41">
+                    <num>Art. 41 </num>
+                    <rubrica>
+ 
+(Condizioni di fornitura dei beni) 
+ 
+</rubrica>
+                    <comma id="art41-com1">
+                        <num/>
+
+                        <corpo>1. L'Azienda sanitaria regionale effettua l'esame di congruità dei prezzi e delle condizioni di fornitura sulla base degli indicatori previsti dalla normativa vigente.  
+ 
+2. I contratti di compravendita stipulati con strumenti informatici o per via telematica mediante l'uso della firma digitale secondo le disposizioni del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1997-11-10;513">decreto del Presidente della Repubblica 10 novembre 1997, n. 513</rif>, sono validi e rilevanti a tutti gli effetti di legge.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art42">
+                    <num>Art. 42 </num>
+                    <rubrica>
+ 
+(Contratti) 
+ 
+</rubrica>
+                    <comma id="art42-com1">
+                        <num/>
+                        <corpo>1. Nell'ambito della programmazione degli acquisti il Direttore generale dell'Azienda sanitaria regionale adotta apposito atto indicante il fine che con il contratto si intende perseguire, l'oggetto del contratto, la sua forma e le clausole ritenute essenziali, le modalità di scelta del contraente e le ragioni che ne sono a fondamento.  
+ 
+2. Alla stipulazione dei contratti in forma pubblica o privata, secondo le disposizioni del diritto comune o con ordine scritto, mediante scambio di corrispondenza, secondo l'uso del commercio, provvede il Direttore generale o un suo delegato.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art43">
+                    <num>Art. 43 </num>
+                    <rubrica>
+ 
+(Assicurazione di responsabilità civile) 
+ 
+</rubrica>
+                    <comma id="art43-com1">
+                        <num/>
+
+                        <corpo>1. L'Azienda sanitaria regionale è tenuta ad assicurare il rischio derivante da responsabilità civile verso terzi mediante adeguate polizze assicurative da stipularsi sulla base dei criteri generali stabiliti con atto di indirizzo e coordinamento della Giunta regionale.  
+ 
+2. Fino all'emanazione dei criteri di cui al <rif xlink:href="#art43-com1">comma 1</rif> rimangono in vigore le attuali norme in materia di assicurazione di responsabilità civile.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art44">
+                    <num>Art. 44 </num>
+                    <rubrica>
+ 
+(Acquisti in economia) 
+ 
+</rubrica>
+                    <comma id="art44-com1">
+                        <num/>
+                        <corpo>1. 1. L'Atto aziendale dell'Azienda sanitaria regionale determina la natura ed il limite massimo di valore degli acquisti che possono farsi in economia, tra cui quelli per assicurare il normale funzionamento dell'Azienda, l'urgente provvista di materie prime e beni e le riparazioni non eccedenti l'ordinaria manutenzione degli impianti, dei macchinari e degli stabili.  
+ 
+2. 2. Per gli altri acquisti vigono le disposizioni di cui al codice degli appalti e alla normativa vigente in materia.</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art45">
+                    <num>Art. 45 </num>
+                    <rubrica>
+ 
+(Casse economali) 
+ 
+</rubrica>
+                    <comma id="art45-com1">
+                        <num/>
+                        <corpo>1. Nell'ambito della definizione delle responsabilità e degli assetti organizzativi il Direttore generale regolamenta la gestione del servizio di cassa economale, composto da una cassa centrale ed eventuali casse periferiche.  </corpo>
+                    </comma>
+                    <comma id="art45-com2">
+                        <num/>
+                        <corpo>
+                            <rif xlink:href="#tit10">TITOLO X</rif> 
+ 
+NORME FINALI 
+ </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art46">
+                    <num>Art. 46 </num>
+                    <rubrica>
+ 
+(Abrogazioni) 
+ 
+</rubrica>
+                    <comma id="art46-com1">
+                        <num/>
+                        <corpo>
+                            <mod
+                                    id="art46-com1-mod1">1. È abrogata la <rif xlink:href="urn:nir:regione.molise:legge:1997-05-14;12">legge regionale 14 maggio 1997, n. 12</rif>.  
+ 
+2. Sono abrogate tutte le norme incompatibili o in contrasto on la presente legge.</mod>
+                        </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art47">
+                    <num>Art. 47 </num>
+                    <rubrica>
+ 
+(Entrata in vigore) 
+ 
+</rubrica>
+                    <comma id="art47-com1">
+                        <num/>
+                        <corpo>1. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

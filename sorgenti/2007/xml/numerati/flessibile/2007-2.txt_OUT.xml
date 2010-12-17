@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20071231" num="30" tipo="BURM"/>
+                <entratainvigore norm="20080115"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2007-09-12;24"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 30 del 31 dicembre 2007 
+ 
+Oggetto 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>L.R. </tipoDoc>
+            <dataDoc
+                    norm="20070912">12 settembre 2007</dataDoc>n. <numDoc>24</numDoc> - <titoloDoc>Articolo 12 - Modifica 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+<rif
+                    xlink:href="urn:nir:regione.molise:legge:2007-12-31;31">LEGGE REGIONALE 31 dicembre 2007, n. 31</rif>. 
+ 
+Modifica dell'<rif xlink:href="urn:nir:regione.molise:legge:2007-09-12;24#art12">articolo 12 della legge regionale 12 settembre 2007, n. 24</rif>.  
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> All'<rif
+                            xlink:href="urn:nir:regione.molise:legge:2007-09-12;24#art12-com5">articolo 12, comma 5, della legge regionale 12 settembre 2007, n. 24</rif> (Primo intervento per l'attuazione del programma di razionalizzazione della spesa previsto dalla <rif xlink:href="urn:nir:regione.molise:legge:2007-03-22;8">legge regionale 22 marzo 2007, n. 8</rif>) sostituire le parole "31 dicembre 2007" con le parole "31 marzo 2008".  </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>
+                        <mod id="art1-com2-mod1"> All'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2007-09-12;24#art12-com5">articolo 12, comma 5, della legge regionale 12 settembre 2007, n. 24</rif>, è aggiunto il seguente periodo: "<virgolette
+                                id="art1-com2-mod1-vir3" tipo="parola">La Giunta regionale è impegnata a presentare al Consiglio regionale, entro sessanta giorni dall'entrata in vigore della presente legge, una proposta di legge regionale finalizzata al riordinamento del sistema regionale della promozione turistica ed una sulla nuova disciplina dell'assistenza abitativa</virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione.  
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

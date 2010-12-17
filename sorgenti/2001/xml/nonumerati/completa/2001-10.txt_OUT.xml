@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20010630" num="14" tipo="BURM"/>
+                <entratainvigore norm="20010715"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2001-06-16;10"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 27.Procedimento amministrativo, semplificazione amministrativa, semplificazione del sistema normativo 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 14 del 30 giugno 2001 
+ 
+Oggetto 
+L.r. 26 aprile 2000 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="20010616">16 giugno 2001</dataDoc>, n.<numDoc>10</numDoc>
+            <titoloDoc>Integrazione della <rif
+                    xlink:href="urn:nir:regione.molise:legge:2000-04-26;31">Legge Regionale n.31 del 26 aprile 2000</rif>, recante: "Abrogazione di Leggi Regionali in materia di artigianato, industria, commercio ed agricoltura". 
+ 
+<rif
+                    xlink:href="urn:nir:regione.molise:legge:2001-06-16;10">Legge Regionale 16 giugno 2001, n.10</rif>. 
+ 
+Integrazione della <rif xlink:href="urn:nir:regione.molise:legge:2000-04-26;31">Legge Regionale n.31 del 26 aprile 2000</rif>, recante: "Abrogazione di Leggi Regionali in materia di artigianato, industria, commercio ed agricoltura". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale>
+            <h:p>Il Consiglio Regionale ha approvato; </h:p>
+            <h:p>Il Commissario di Governo ha apposto il </h:p>
+            <preambolo>
+                <h:p>visto;</h:p>
+                <h:p>IL PRESIDENTE 
+della  
+GIUNTA REGIONALE</h:p>
+            </preambolo>
+            <h:p>Promulga </h:p>
+            <h:p>la seguente legge: </h:p>
+        </formulainiziale>
+        <articolato>
+            <articolo id="art1">
+                <num>Art.1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art1-com1-mod1">
+1. All'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2000-04-26;31#art1">art. 1 della Legge regionale 26 aprile 2000, n. 31</rif>, in fine, è aggiunta la seguente lettera: 
+ 
+ddd) <rif
+                                xlink:href="urn:nir:regione.molise:legge:1997-10-21;19">Legge regionale 21 ottobre 1997, n. 19</rif>: "<virgolette
+                                id="art1-com1-mod1-vir1" tipo="parola">Interventi a favore dei Consorzi fidi fra piccole e medie imprese della Regione Molise</virgolette>". </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art.2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+1. La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+                    <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num/>
+                    <corpo>Data a Campobasso, addì 16 giugno 2001 
+ 
+IL PRESIDENTE 
+ 
+DI STASI 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

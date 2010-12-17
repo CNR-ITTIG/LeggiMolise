@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20050416" num="8" tipo="BURM"/>
+                <entratainvigore norm="20050501"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2005-04-05;11"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 19.Miniere, risorse geotermiche, cave e torbiere, acque minerali e termali, uso delle risorse idriche 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 8 del 16 aprile 2005 
+ 
+Oggetto 
+Attivit&#xE0; estrattive - Disposizioni generali - Piano regionale delle attivit&#xE0; estrattive - Autorizzazione - Procedura 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 9 dalla legge n. 12/2008 art. 6 
+Modificato art. 13 dalla legge n. 1/2009 art. 3 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20050405">5 aprile 2005</dataDoc>, n. <numDoc>11</numDoc>. 
+ 
+<titoloDoc>Disciplina generale* in materia di attività estrattive. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <titolo id="tit1">
+                <num>TITOLO I </num>
+                <rubrica>
+ 
+DISPOSIZIONI GENERALI 
+ 
+</rubrica>
+                <articolo id="art1">
+                    <num>Art. 1 </num>
+                    <rubrica>
+ 
+Oggetto della legge e finalità 
+ </rubrica>
+                    <comma id="art1-com1">
+                        <num>
+1.</num>
+                        <corpo> La presente legge disciplina l'attività di coltivazione delle cave e delle torbiere da parte dei soggetti interessati, favorisce il corretto uso delle risorse nel rispetto dell'ambiente e del territorio e, in particolare, predilige la prosecuzione e l'ampliamento delle cave in esercizio ed il recupero di quelle dismesse. </corpo>
+                    </comma>
+                    <comma id="art1-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Nel perseguimento delle finalità di cui al <rif xlink:href="#art1-com1">comma 1</rif>, la Regione ispira la propria azione al criterio della zonazione ed alla tutela del paesaggio e dell'ambiente. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art2">
+                    <num>Art. 2 </num>
+
+                    <rubrica>
+ 
+Ambito di applicazione 
+ 
+a) Ai fini dell'applicazione della presente legge costituisce attività di cava l'attività organizzata e continuativa che comporta modificazioni dello stato fisico del suolo e del sottosuolo, volta all'estrazione per fini di utilizzazione e di commercializzazione dei materiali previsti dal <rif
+                            xlink:href="urn:nir:stato:regio.decreto:1927-07-29;1443">Regio Decreto 29 luglio 1927, n. 1443</rif>, all'<rif xlink:href="#art2">art. 2</rif> nella II categoria. 
+ 
+b) Ai fini dell'applicazione della presente legge, non costituiscono attività di cava: 
+ 
+a) l'estrazione di materiali lapidei dal proprio fondo se utilizzati esclusivamente per la propria casa di abitazione (e strutture annesse) o per la realizzazione di strutture ed opere connesse con l'esercizio di attività produttive (capannoni, locali, piazzali, muri perimetrali, ecc.); 
+ 
+b) l'estrazione di materiali lapidei per la realizzazione di terrazzamenti o altre opere agricole che insistono sullo stesso fondo o fondi viciniori di proprietà; 
+ 
+c) i movimenti di terra, gli spietramenti ed i miglioramenti fondiari, che avvengono senza utilizzazione a scopo industriale o edilizio; 
+ 
+d) il prelievo di pietrame, da accumuli naturali o artificiali, finalizzato a specifici interventi di recupero, restauro, manutenzione, costruzione o ricostruzione di fabbricati o opere pubbliche o private di modesta entità per i quali sia prescritto l'utilizzo di pietra locale, per quantitativi non eccedenti quanto indicato nel progetto. Non si considerano accumuli di pietrame, ai fini del presente comma, i muri a secco; 
+ 
+e) l'attività di manutenzione idraulica disciplinata dalla normativa di riferimento, regolarmente concessa. 
+ 
+</rubrica><?error Marker Warning 109?>
+                    <comma id="art2-com1">
+                        <num/>
+                        <corpo/>
+                    </comma>
+                </articolo>
+                <articolo id="art3">
+                    <num>Art. 3 </num>
+                    <rubrica>
+ 
+Aree escluse dalle attività estrattive 
+ </rubrica>
+                    <comma id="art3-com1">
+                        <num>
+1.</num>
+                        <alinea> L'attività estrattiva è vietata: 
+ 
+</alinea>
+                        <el id="art3-com1-leta">
+                            <num>a)</num>
+
+                            <corpo> nelle aree protette a carattere nazionale o regionale e nelle rispettive zone di protezione esterna o aree contigue ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1991-12-06;394#art32">art. 32 della legge 6 dicembre 1991, n.394</rif>;</corpo>
+                        </el>
+                        <el id="art3-com1-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> nelle aree sottoposte a vincolo paesistico di valore eccezionale o elevato, fatte salve le aree ad eccezionale o elevato valore o rilievo produttivo;</corpo>
+                        </el>
+                        <el id="art3-com1-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> nei siti di interesse comunitario;</corpo>
+                        </el>
+                        <el id="art3-com1-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> nelle riserve MAB;</corpo>
+                        </el>
+                        <el id="art3-com1-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> nelle aree archeologiche. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art3-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Sono esluse le attività in essere e gli ampliamenti così come previsti dall'art. 10 della presente legge. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit2">
+                <num>TITOLO II </num>
+                <rubrica>
+ 
+PIANIFICAZIONE DELLE ATTIVITÀ ESTRATTIVE 
+ 
+</rubrica>
+                <articolo id="art4">
+                    <num>Art. 4 </num>
+                    <rubrica>
+ 
+Piano regionale delle attività estrattive 
+ </rubrica>
+                    <comma id="art4-com1">
+                        <num>
+1.</num>
+                        <corpo> Il piano regionale delle attività estrattive, di seguito denominato PRAE, è strumento generale di pianificazione delle attività estrattive. Esso ha lo scopo di individuare le aree potenzialmente utilizzabili per fini estrattivi, di seguito denominate "Ambiti estrattivi". </corpo>
+                    </comma>
+                    <comma id="art4-com2">
+                        <num>
+ 
+2.</num>
+                        <alinea> Il PRAE deve perseguire l'obiettivo di rendere compatibili le esigenze di carattere produttivo con quelle di salvaguardia dell'ambiente e territorio e delle vocazioni agricole tenendo conto dei seguenti aspetti: 
+ 
+</alinea>
+                        <el id="art4-com2-leta">
+                            <num>a)</num>
+                            <corpo> valutazione dei fabbisogni per un arco di tempo ventennale, salvo circostanze imprevedibili;</corpo>
+                        </el>
+                        <el id="art4-com2-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> individuazione delle aree favorevolmente indiziate e suscettibili di attività estrattive, attraverso una indagine giacimentologica e tecnico-produttiva, e in rapporto alla consistenza ed alla qualità dei materiali da estrarre;</corpo>
+                        </el>
+                        <el id="art4-com2-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> valutazione ed individuazione di fondi di approvvigionamento alternative sulle quali orientare il soddisfacimento della domanda;</corpo>
+                        </el>
+                        <el id="art4-com2-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> valutazione degli effetti sul territorio, sulla viabilità e sugli strumenti urbanistici;</corpo>
+                        </el>
+                        <el id="art4-com2-lete">
+                            <num> 
+ 
+e)</num>
+
+                            <corpo> individuazione degli ambiti estrattivi sulla base delle risorse utilizzabili, dei fattori di cui al <rif xlink:href="#art4-com1">comma 1</rif> nonché delle esigenze di difesa del suolo e dell'acquifero sotterraneo;</corpo>
+                        </el>
+                        <el id="art4-com2-letf">
+                            <num> 
+ 
+f)</num>
+                            <corpo> individuazione delle attività estrattive in esercizio, con l'indicazione della qualità del materiale estratto e della relativa utilizzazione, nonché delle possibilità di ulteriore sfruttamento nel tempo e nel rispetto del successivo art. 10;</corpo>
+                        </el>
+                        <el id="art4-com2-letg">
+                            <num> 
+ 
+g)</num>
+                            <corpo> individuazione dei siti di cava da destinare eventualmente allo stoccaggio definitivo di rifiuti speciali inerti;</corpo>
+                        </el>
+                        <el id="art4-com2-leth">
+                            <num> 
+ 
+h)</num>
+                            <corpo> individuazione di metodi particolari di coltivazione e misure di mitigazione atti a minimizzare l'impatto visivo delle cave a mezza costa. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art4-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Il PRAE disciplina i criteri e le metodologie per la coltivazione e la sistemazione finale delle cave nuove e per il recupero di quelle abbandonate senza sistemazione. </corpo>
+                    </comma>
+                    <comma id="art4-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Il PRAE è sottoposto a verifica generale almeno ogni cinque anni. Alle relative procedure si dà avvio almeno due anni prima della scadenza. Può essere oggetto di revisione triennale in caso di specifiche e puntuali necessità di approvvigionamento. </corpo>
+                    </comma>
+                    <comma id="art4-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> Il PRAE persegue, tra l'altro, l'obiettivo di valorizzare i materiali lapidei caratteristici del Molise al fine dell'utilizzo di essi nel recupero delle caratteristiche architettoniche tipiche della regione. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art5">
+                    <num>Art. 5 </num>
+                    <rubrica>
+ 
+Procedura di approvazione del PRAE 
+ </rubrica>
+                    <comma id="art5-com1">
+                        <num>
+1.</num>
+                        <corpo> Entro sei mesi dalla data di entrata in vigore della presente legge la Giunta regionale, sentita la Conferenza delle autonomie locali, le associazioni di categoria e gli altri enti interessati, adotta lo schema di PRAE. </corpo>
+                    </comma>
+                    <comma id="art5-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Lo schema di PRAE è depositato presso la segreteria della Giunta regionale; dell'avvenuto deposito è data pubblicità sul Bollettino ufficiale della Regione Molise e sui principali organi di stampa. È altresì inviato alle Province, ai Comuni ed alle Comunità montane a disposizione di chiunque abbia interesse. </corpo>
+                    </comma>
+                    <comma id="art5-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Nel termine perentorio di sessanta giorni dalla pubblicazione dell'avviso di avvenuto deposito di cui al <rif xlink:href="#art5-com2">comma 2</rif>, gli Enti locali ed i singoli interessati possono presentare osservazioni e proposte. </corpo>
+                    </comma>
+                    <comma id="art5-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> La Giunta regionale trasmette al Consiglio regionale lo schema di PRAE con le osservazioni e le proposte pervenute sulle quali esprime parere motivato. </corpo>
+                    </comma>
+                    <comma id="art5-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> Il PRAE è approvato dal Consiglio regionale nei successivi centoventi giorni e diventa esecutivo il giorno successivo a quello della sua pubblicazione sul B.U.R.M.. </corpo>
+                    </comma>
+                    <comma id="art5-com6">
+                        <num>
+ 
+6.</num>
+                        <corpo> Dopo l'approvazione del PRAE nessuna autorizzazione o concessione per lo svolgimento delle attività disciplinate dalla presente legge potrà essere rilasciata se non in conformità con le prescrizioni del PRAE. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art6">
+                    <num>Art. 6 </num>
+                    <rubrica>
+ 
+Efficacia del PRAE 
+ </rubrica>
+                    <comma id="art6-com1">
+                        <num>
+1.</num>
+                        <corpo> Il PRAE ha valore di Piano regionale di settore ed è immediatamente vincolante. Costituisce variante agli strumenti urbanistici generali che si devono adeguare entro dodici mesi. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit3">
+                <num>TITOLO III </num>
+                <rubrica>
+ 
+GENESI E VITA DEL RAPPORTO AUTORIZZATORIO 
+ 
+</rubrica>
+                <articolo id="art7">
+                    <num>Art. 7 </num>
+                    <rubrica>
+ 
+Autorizzazione all'esercizio di attività estrattive 
+ </rubrica>
+                    <comma id="art7-com1">
+                        <num>
+1.</num>
+                        <corpo> L'esercizio dell'attività estrattiva presuppone la disponibilità dei suoli derivante da contratto di diritto privato o da provvedimento di concessione ed è consentito con provvedimento autorizzatorio rilasciato dalla Regione, esclusivamente nelle aree previste dal PRAE. </corpo>
+                    </comma>
+                    <comma id="art7-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Qualora l'attività estrattiva debba svolgersi in aree sottoposte a vincolo paesistico o idrogeologico ovvero comprese in Piani di bacino, il rilascio dell'autorizzazione è subordinato alla preventiva acquisizione di pareri e nulla osta di competenza degli organi amministrativi preposti. È altresì necessaria la preventiva valutazione d'impatto ambientale nonché, ove necessario, la valutazione di incidenza di cui all'<rif
+                                xlink:href="urn:nir:presidente.repubblica:decreto:1997;357#art5">art. 5 del D.P.R. n. 357/1997</rif> o la verifica per i progetti contemplati nella lettera q) dell'allegato A alla <rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;21">legge regionale 24 marzo 2000, n. 21</rif>, recante: "Disciplina della procedura d'impatto ambientale". </corpo>
+                    </comma>
+                    <comma id="art7-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Il provvedimento autorizzatorio è subordinato altresì alla prestazione dell'idonea garanzia di cui all'articolo 9, comma 4. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art8">
+                    <num>Art. 8 </num>
+                    <rubrica>
+ 
+Contenuto della domanda di autorizzazione 
+ </rubrica>
+                    <comma id="art8-com1">
+                        <num>
+1.</num>
+                        <corpo> La domanda di autorizzazione all'esercizio dell'attività estrattiva deve essere presentata all'ufficio competente dell'Amministrazione regionale, completa degli allegati di cui al presente articolo e redatta in numero di nove copie se l'area interessata dall'intervento è sottoposta a più vincoli, in numero cinque copie se sussiste solo il vincolo idrogeologico. </corpo>
+                    </comma>
+                    <comma id="art8-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Essa deve indicare la ditta, la ragione sociale, la sede legale ed il codice fiscale del richiedente nonché le generalità ed il domicilio del legale rappresentante; deve indicare, inoltre, l'ubicazione della cava o della torbiera, specificare il materiale che s'intende coltivare, il quantitativo di materiale da movimentare e quello da estrarre, il periodo di tempo per cui è chiesta l'autorizzazione, l'eventuale collegamento tra l'esercizio dell'attività estrattiva e le attività cui sono destinati i materiali scavati, la designazione del direttore dei lavori di coltivazione e di ripristino ambientale. </corpo>
+                    </comma>
+                    <comma id="art8-com3">
+                        <num>
+ 
+3.</num>
+                        <alinea> La domanda di autorizzazione deve essere corredata della seguente documentazione amministrativa: 
+ 
+</alinea>
+                        <el id="art8-com3-leta">
+                            <num>a)</num>
+                            <corpo> documentazione comprovante l'idoneità tecnica ed economica del richiedente ad eseguire i lavori di coltivazione;</corpo>
+                        </el>
+                        <el id="art8-com3-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> ricevuta di versamento, il cui importo è stabilito annualmente con atto della Giunta regionale, a favore della Regione a titolo di spese tecniche per l'istruttoria;</corpo>
+                        </el>
+                        <el id="art8-com3-letc">
+                            <num> 
+ 
+c)</num>
+
+                            <corpo> dichiarazione sostitutiva, ai sensi dell'<rif xlink:href="urn:nir:presidente.repubblica:decreto:2000-12-28;445#art46">articolo 46 del D.P.R. 28 dicembre 2000, n. 445</rif>, concernente l'iscrizione alla Camera di commercio;</corpo>
+                        </el>
+                        <el id="art8-com3-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> copia del titolo da cui deriva la disponibilità dei suoli;</corpo>
+                        </el>
+                        <el id="art8-com3-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> certificati catastali delle aree interessate;</corpo>
+                        </el>
+                        <el id="art8-com3-letf">
+                            <num> 
+ 
+f)</num>
+
+                            <corpo> nomina ed accettazione di un direttore dei lavori di coltivazione e di ripristino ambientale, da individuare tra le categorie degli ingegneri, geologi, architetti, geometri, periti tecnici, industriali e minerari, responsabile della corretta coltivazione della cava per quanto concerne la fedele esecuzione del progetto di coltivazione e di ripristino ambientale, l'osservanza degli obblighi contenuti nella presente legge e nel provvedimento di autorizzazione, l'applicazione delle norme relative alla sicurezza ed alla salute dei lavoratori. Qualsiasi figura professionale diversa da quelle indicate, laureati o con diploma di scuola media superiore, con almeno due anni di anzianità nella qualifica alla data di entrata in vigore della presente legge, può continuare nell'esercizio di tale mansione. Nel caso di sostituzione del direttore responsabile nel corso dei lavori di coltivazione e di ripristino ambientale, la domina del sostituto e la relativa accettazione devono essere trasmesse alla Regione immediatamente secondo quanto previsto dall'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1959;128#art30">articolo 30 del D.P.R. n. 128/1959</rif>. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art8-com4">
+                        <num>
+ 
+4.</num>
+                        <alinea> La domanda di autorizzazione deve essere altresì corredata della seguente documentazione tecnica: 
+ 
+</alinea>
+                        <el id="art8-com4-leta">
+                            <num>a)</num>
+                            <alinea> relazione sullo stato dei luoghi comprendente: 
+ 
+</alinea>
+                            <en id="art8-com4-leta-num1">
+                                <num>1)</num>
+                                <corpo> planimetria e sezioni della situazione esistente;</corpo>
+                            </en>
+                            <en id="art8-com4-leta-num2">
+                                <num> 
+ 
+2)</num>
+                                <corpo> relazione sulle caratteristiche geomorfologiche, agrozootecniche, paesaggistiche ed idrogeologiche dell'area di intervento con relative carte tematiche;</corpo>
+                            </en>
+                            <en id="art8-com4-leta-num3">
+                                <num> 
+ 
+3)</num>
+                                <corpo> relazione illustrante l'uso attuale del suolo e la vegetazione presente nella zona di intervento corredata di relative carte tematiche;</corpo>
+                            </en>
+                            <en id="art8-com4-leta-num4">
+                                <num> 
+ 
+4)</num>
+                                <corpo> documentazione fotografica a colori, d'insieme e di dettaglio, dell'area di intervento con l'indicazione in planimetria dei punti di ripresa delle foto;</corpo>
+                            </en>
+                            <en id="art8-com4-leta-num5">
+                                <num> 
+ 
+5)</num>
+                                <corpo> attestazione, a firma dei progettisti, in ordine ai vincoli gravanti sulle aree destinate a cava;</corpo>
+                            </en>
+                            <en id="art8-com4-leta-num6">
+                                <num> 
+ 
+6)</num>
+                                <corpo> relazione geotecnica o geomeccanica, con verifica di stabilità dei pendii naturali e dei fronti di scavo (D.M. 11 marzo 1988);</corpo>
+                            </en>
+                        </el>
+                        <el id="art8-com4-letb">
+                            <num> 
+ 
+b)</num>
+                            <alinea> progetto di coltivazione, sottoscritto da un tecnico professionista abilitato, contenente i seguenti elaborati: 
+ 
+</alinea>
+                            <en id="art8-com4-letb-num1">
+                                <num>1)</num>
+                                <corpo> relazione tecnico-economica del progetto;</corpo>
+                            </en>
+                            <en id="art8-com4-letb-num2">
+                                <num> 
+ 
+2)</num>
+                                <corpo> planimetria catastale con indicazione dei terreni in disponibilità del richiedente, del perimetro dell'area oggetto dei lavori di coltivazione e dei manufatti esistenti in un raggio di m. 500 da detto perimetro;</corpo>
+                            </en>
+                            <en id="art8-com4-letb-num3">
+                                <num> 
+ 
+3)</num>
+                                <corpo> corografia, in scala 1:25.000, con l'indicazione dell'ubicazione della cava ed il suo inserimento nel quadro delle infrastrutture e delle destinazioni d'uso del territorio limitrofo;</corpo>
+                            </en>
+                            <en id="art8-com4-letb-num4">
+                                <num> 
+ 
+4)</num>
+                                <corpo> rilievo planimetrico in scala adeguata, comunque non inferiore a 1:2.000, con un congruo numero di sezioni, trasversali e longitudinali, con l'indicazione della profondità massima di escavazione e la localizzazione di tutti gli interventi previsti per lo svolgimento dell'attività (aree di coltivazione, di deposito, di discarica, impianti di lavorazione, strade di accesso, piste, rampe, ecc.); per le cave di monte il rilievo dovrà essere rappresentato da curve di livello con le più opportune equidistanze in relazione alle caratteristiche della cava;</corpo>
+                            </en>
+                            <en id="art8-com4-letb-num5">
+                                <num> 
+ 
+5)</num>
+                                <corpo> elaborati grafici idonei a rappresentare la morfologia attuale del sito, desunta da rilievi topografici e le diverse eventuali fasi di coltivazione;</corpo>
+                            </en>
+                            <en id="art8-com4-letb-num6">
+                                <num> 
+ 
+6)</num>
+                                <corpo> computo metrico estimativo dei volumi dei materiali utili che si prevede di estrarre e di quelli di risulta, con precisazione delle quantità riutilizzate per il recupero e di quelle poste a discarica;</corpo>
+                            </en>
+                            <en id="art8-com4-letb-num7">
+                                <num> 
+ 
+7)</num>
+                                <corpo> valutazione della rete viaria esistente e sua idoneità ad essere impiegata al servizio dell'attività proposta;</corpo>
+                            </en>
+                            <en id="art8-com4-letb-num8">
+                                <num> 
+ 
+8)</num>
+                                <corpo> progetto di eventuali interventi connessi all'attività estrattiva (strade di accesso, rampe, discariche, impianti di lavorazione, depositi per lo stoccaggio dei materiali);</corpo>
+                            </en>
+                            <en id="art8-com4-letb-num9">
+                                <num> 
+ 
+9)</num>
+
+                                <corpo> scheda per la valutazione d'impatto ambientale (VIA) nonché documentazione prevista dalle norme di cui alla <rif
+                                    xlink:href="urn:nir:regione.molise:legge:2000-03-24;21">legge regionale 24 marzo 2000, n. 21</rif>, recante: Disciplina della procedura d'impatto ambientale", per i progetti contemplati nella lettera q) dell'allegato A alla legge medesima; 
+ 
+10) schema dettagliato di DSS (Documento di sicurezza e salute) previsto dal <rif
+                                    xlink:href="urn:nir:stato:decreto.legislativo:1996;624">decreto legislativo n. 624/1996</rif>, che sarà elaborato dal competente organo di sorveglianza nella sua forma definitiva prima dell'inizio dell'attività; 
+ 
+c) progetto di ripristino ambientale, redatto in conformità alle prescrizioni di cui alla presente legge, a quelle del PRAE e tenendo conto delle prescrizioni e delle indicazioni di carattere paesistico ambientale, comprendente: 
+ 
+1) elaborati grafici (planimetrie e sezioni) inerenti alla morfologia prevista per il sito alla fine di ciascun lotto di ripristino ed al termine della coltivazione nonché nelle eventuali diverse fasi dell'intervento di recupero; 
+ 
+2) progetto delle opere necessarie al recupero delle caratteristiche ecologiche e paesaggistiche; 
+ 
+3) relazione comprendente: 
+ 
+3.1) la specificazione dei tempi di attuazione degli interventi da realizzare contestualmente alla coltivazione secondo lotti di recupero; 
+ 
+3.2) la specificazione della sistemazione dei residui di lavorazione; 
+ 
+3.3) la specificazione della destinazione finale del sito al termine dei lavori, 
+ 
+4) piano finanziario relativo alle opere necessarie al ripristino ambientale. 
+ 
+5) Contestualmente all'istanza diretta a conseguire l'autorizzazione all'esercizio dell'attività estrattiva, l'interessato richiede al Comune o ai Comuni interessati il provvedimento previsto dall'<rif
+                                    xlink:href="urn:nir:presidente.repubblica:decreto:2001-06-06;380#art10">art. 10 del D.P.R. 6 giugno 2001, n. 380</rif>, per i manufatti e gli impianti direttamente e strettamente connessi con i lavori di coltivazione e trasmette copia della domanda di cui al presente articolo. 
+ 
+Art. 9 
+ 
+Procedimento istruttorio e provvedimento finale 
+ 
+1. L'ufficio regionale competente in materia di cave provvede ad effettuare l'istruttoria preliminare della domanda finalizzata a: 
+ 
+a) accertare la regolarità e la completezza della domanda; 
+ 
+b) verificare la compatibilità del progetto con le previsioni del PRAE, ove già approvato. 
+ 
+2. La procedura per il rilascio dell'autorizzazione fa ricorso al metodo della Conferenza dei servizi, ai sensi della <rif
+                                    xlink:href="urn:nir:stato:legge:1990-08-07;241">legge 7 agosto 1990, n. 241</rif>, e successive modificazioni ed integrazioni, alla quale partecipano le autorità preposte al rilascio dei seguenti pareri: 
+ 
+a) valutazione d'impatto ambientale per i progetti contemplati nella lettera q) dell'allegato A alla <rif
+                                    xlink:href="urn:nir:regione.molise:legge:2000-03-24">legge regionale 24 marzo 2000</rif>,. n. 21, recante: 'Disciplina della procedura d'impatto ambientale"; 
+ 
+b) parere in materia di tutela dei beni ambientali, in ordine ai vincoli di cui al <rif
+                                    xlink:href="urn:nir:stato:decreto.legislativo:2004-01-22;42">decreto legislativo 22 gennaio 2004, n. 42</rif>, concernente il Codice dei beni culturali e del paesaggio, ai sensi dell'<rif xlink:href="urn:nir:stato:legge:2002-07-06;137#art10">articolo 10 della legge 6 luglio 2002, n. 137</rif>, e di cui alla legislazione comunitaria e statale in materia di tutela del territorio;</corpo>
+                            </en><?error Marker Warning 102 (last lettera:2 next:2)?>
+                        </el>
+                        <el id="art8-com4-letc">
+                            <num> 
+ 
+c)</num>
+
+                            <corpo> nulla osta della Soprintendenza ai B.A.A.A.S., in ordine ai vincoli di cui al <rif
+                                    xlink:href="urn:nir:stato:decreto.legislativo:2004-01-22;42">decreto legislativo 22 gennaio 2004, n. 42</rif>, concernente il Codice dei beni culturali e del paesaggio, ai sensi dell'<rif xlink:href="urn:nir:stato:legge:2002-07-06;137#art10">articolo 10 della legge 6 luglio 2002, n. 137</rif>;</corpo>
+                        </el>
+                        <el id="art8-com4-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> parere del Coordinamento provinciale del Corpo forestale dello Stato;</corpo>
+                        </el>
+                        <el id="art8-com4-lete">
+                            <num> 
+ 
+e)</num>
+                            <corpo> parere dell'autorità competente in materia di vincolo idrogeologico;</corpo>
+                        </el>
+                        <el id="art8-com4-letf">
+                            <num> 
+ 
+f)</num>
+                            <corpo> parere dell'Autorità di bacino ove interessata. 
+ 
+3. Ove, all'esito dell'istruttoria, l'ufficio regionale competente in materia di cave ritenga di poter accordare l'autorizzazione all'esercizio dell'attività estrattiva, ne dà comunicazione al richiedente avvertendolo di quanto stabilito ai sensi dei commi 5 e 6. 
+ 
+4. L'autorizzazione all'esercizio delle attività estrattive è subordinata, altresì, alla prestazione di idonea garanzia commisurata al 70% dei costi necessari al ripristino ambientale previsti dal piano finanziario di cui al numero 4) della lettera c) del comma 4 dell'articolo 8. Nel caso di cave a mezza costa, la garanzia è commisurata al 100%. 
+</corpo>
+                        </el><?error Marker Warning 101 (last comma:4 next:3)?>
+                    </comma>
+                    <comma id="art8-com5">
+                        <num> 
+5.</num>
+                        <alinea> Il provvedimento di autorizzazione contempla: 
+ 
+</alinea>
+                        <el id="art8-com5-leta">
+                            <num>a)</num>
+                            <corpo> l'esatta individuazione, anche a mezzo di allegati grafici, dell'area in cui è consentita l'attività estrattiva;</corpo>
+                        </el>
+                        <el id="art8-com5-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> la specificazione della natura e della quantità dei materiali da estrarre mediamente nell'arco di un anno e complessivamente per l'intera durata dell'attività, nonché della profondità massima di escavazione;</corpo>
+                        </el>
+                        <el id="art8-com5-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> la ricognizione, anche in forma riassuntiva, di tutti gli obblighi e prescrizioni da osservare in relazione alla coltivazione della cava ed al successivo ripristino ambientale, in qualunque fonte, legislativa, regolamentare, amministrativa o convenzionale, contenuti;</corpo>
+                        </el>
+                        <el id="art8-com5-letd">
+                            <num> 
+ 
+d)</num>
+                            <corpo> ulteriori eventuali prescrizioni in ordine ai tempi ed alle modalità di estrazione nonché alla tutela della pubblica sicurezza. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art8-com6">
+                        <num>
+ 
+6.</num>
+                        <corpo> Copia dell'autorizzazione, oltre che all'imprenditore, deve essere trasmessa al sindaco del Comune interessato, all'autorità regionale competente in materia di beni ambientali, all'autorità regionale competente in materia sanitaria, al Coordinamento provinciale del Corpo forestale dello Stato, all'autorità competente in materia di vincolo idrogeologico, all'Autorità di bacino ove interessata. </corpo>
+                    </comma>
+                    <comma id="art8-com7">
+                        <num>
+ 
+7.</num>
+
+                        <corpo> Le autorizzazioni rilasciate devono essere pubblicate sul Bollettino ufficiale regionale. 
+ 
+Art. 10 
+ 
+Ampliamenti 
+ 
+1. Gli interventi di ampliamento di cave esistenti sono di norma preferiti all'apertura di nuove cave e soggiacciono al medesimo regime autorizzatorio previsto per le stesse, previo in ogni caso il rilascio delle autorizzazioni da parte degli organi preposti di cui agli articoli 7 e 8, salvo che gli stessi non interessino aree definite di eccezionale pericolosità geologica. 
+ 
+Art. 11 
+ 
+Attività estrattiva su terreni del patrimonio indisponibile della Regione, delle Province e dei Comuni 
+ 
+1. L'autorizzazione all'esercizio di attività estrattiva su terreni appartenenti al patrimonio indisponibile della Regione, delle Province e dei Comuni è condizionato dall'emanazione di un provvedimento di concessione degli stessi. 
+ 
+2. I criteri per la determinazione dei canoni previsti per la concessione dei suoli appartenenti al patrimonio indisponibile di Comuni, Province e Regione, da destinare ad attività estrattiva, sono individuati con apposito provvedimento della Giunta regionale. 
+ 
+3. Le somme versate a titolo di canone per la concessione dei suoli, ai sensi del precedente comma, devono essere utilizzate dagli Enti concedenti, almeno nella misura del 70%, per il ripristino ambientale di cave dismesse e abbandonate, per opere di restauro del paesaggio naturale o costruito ovvero di restauro architettonico. 
+ 
+4. Il mancato pagamento del canone entro il termine previsto in convenzione dà luogo alla decadenza della concessione. 
+ 
+5. La concessione di un giacimento può essere rilasciata a chi abbia l'idoneità tecnica ed economica a condurre l'impresa, secondo le procedure amministrative vigenti. 
+ 
+6. Appartengono al patrimonio indisponibile della Regione anche i giacimenti di materiale di cava la cui disponibilità sia stata sottratta al proprietario del fondo, al concessionario ovvero al titolare di un'autorizzazione all'escavazione che: 
+ 
+a) non abbia intrapreso la coltivazione o non abbia dato alla stessa sufficiente sviluppo rispetto al programma di coltivazione stabilito nel provvedimento di autorizzazione entro il termine di novanta giorni fissato dall'Amministrazione regionale; 
+ 
+b) non abbia inoltrato domanda per l'autorizzazione entro il termine di novanta giorni fissato dalla Regione o qualora la domanda stessa non sia conforme alle prescrizioni; 
+ 
+c) sia decaduto dall'autorizzazione.  
+ 
+Art. 12 
+ 
+Catasto cave e dati statistici 
+ 
+1. È istituito presso la competente struttura della Regione Molise il catasto delle cave in attività e delle cave dismesse o abbandonate. Il catasto indica per ciascuna cava la localizzazione territoriale, lo stato giuridico-amministrativo, la tipologia della produzione, lo stato del recupero. 
+ 
+2. Ciascuna Provincia redige, per il territorio di competenza, l'inventario delle cave attive e l'inventario delle cave cessate e li trasmette alla competente struttura regionale, il primo entro sei mesi ed il secondo entro dodici mesi dall'approvazione dei criteri di cui al <rif
+                                xlink:href="#art8-com3">comma 3</rif>. 
+ 
+3. La Giunta regionale, entro centoventi giorni dall'entrata in vigore della presente legge, delibera i criteri di attuazione e di gestione del catasto di cui al <rif
+                                xlink:href="#art8-com1">comma 1</rif>, nonché i criteri per la redazione degli inventari di cui al <rif
+                                xlink:href="#art8-com2">comma 2</rif>. 
+ 
+4. I titolari di autorizzazioni all'esercizio di attività estrattiva devono mettere a disposizione dei funzionari incaricati i mezzi necessari per ispezionare i lavori. 
+ 
+5. Nel caso di rifiuto i funzionari incaricati possono richiedere all'Autorità pubblica la necessaria assistenza. 
+ 
+Art. 13 
+ 
+Durata delle autorizzazioni e proroghe 
+ 
+1. Indipendentemente dalla durata della disponibilità dei suoli, stabilita, a seconda dei casi, in contratti di diritto privato o in provvedimenti di concessione, l'autorizzazione all'esercizio dell'attività estrattiva dura fino all'esaurimento del giacimento e comunque non oltre venti anni. 
+ 
+2. Il termine di cui al <rif
+                                xlink:href="#art8-com1">comma 1</rif> può essere prorogato, a domanda del titolare dell'autorizzazione, nel solo caso in cui alla data della scadenza non siano state estratte le quantità di sostanze di cava autorizzate o non sia terminato il recupero dell'ultimo lotto, sempre che si sia provveduto al recupero dei lotti scava-ti precedentemente. 
+ 
+3. La domanda di proroga deve essere presentata almeno 3 mesi prima della scadenza dell'autorizzazione e l'attività, in attesa dell'atto di proroga, può proseguire limitatamente alle quantità e nei limiti già autorizzati. 
+ 
+Art. 14 
+ 
+Subingresso nella coltivazione 
+ 
+1. La concessione dei suoli e l'autorizzazione sono riferite alla persona fisica o giuridica destinataria del provvedimento. 
+ 
+2. In caso di trasferimento del diritto sul giacimento l'avente causa deve chiedere all'ufficio regionale competente, entro il termine di trenta giorni, di subentrare nella titolarità dell'autorizzazione presentando domanda corredata del titolo e della documentazione comprovante la sua idoneità tecnica ed economica. 
+ 
+3. L'ufficio regionale competente provvede in merito entro novanta giorni dal ricevimento della domanda previo accertamento dell'idoneità di cui al <rif
+                                xlink:href="#art8-com2">comma 2</rif>. 
+ 
+4. L'autorizzazione al subingresso è subordinata all'osservanza di tutte le prescrizioni autorizzatorie e di legge. 
+ 
+Art. 15 
+ 
+Ripristino ambientale 
+ 
+1. Le opere di ripristino ambientale devono essere realizzate, contestualmente alla coltivazione della cava, per lotti successivi di cui l'ultimo deve essere completato entro dodici mesi dall'ultimazione della coltivazione o comunque dalla scadenza del termine originario o prorogato. 
+ 
+2. Ai fini della presente legge per ripristino ambientale si intende l'insieme delle azioni volte a conseguire sull'area un assetto finale dei luoghi, armonico con l'ambiente ed il paesaggio circostante. 
+ 
+3. Il ripristino ambientale deve prevedere: 
+ 
+a) il modellamento dei fronti di cava secondo gradoni la cui altezza e pendenza siano tali da consentire un opportuno raccordo delle superfici di nuova formazione con quelle dei terreni circostanti; 
+ 
+b) la sistemazione idrogeologica dell'area atta ad evitare frane o ruscellamenti nonché le misure di protezione dei corpi idrici suscettibili di inquinamento; 
+ 
+c) la ricostituzione dei caratteri generali ambientali e naturalistici dell'area, in armonia con la situazione preesistente e circostante, normalmente attuata mediante il riporto di un congruo strato di terreno di coltivo o vegetale e la semina o la piantumazione di specie vegetali autoctone. 
+ 
+4. Le opere e gli interventi previsti dal progetto di ripristino ambientale devono essere raggruppati in stralci funzionali da eseguirsi contestualmente alla coltivazione della cava secondo il principio di cantiere integrato. L'esecuzione degli interventi di ripristino ambientale è vincolante per l'attuazione dei successivi lotti dei lavori di escavazione. 
+ 
+Art. 16 
+ 
+Garanzie per il ripristino ambientale ed esecuzione in danno 
+ 
+1. Le garanzie di cui al comma 4 dell'articolo 9 sono costituite da cauzioni da versarsi alla Tesoreria regionale vincolate a favore delle opere di ripristino ambientale. Sono consentite garanzie mediante fidejussioni bancarie o altre garanzie assicurative. 
+ 
+2. Lo svincolo della garanzia prestata è disposto dal competente servizio regionale, previa verifica diretta dell'avvenuta realizzazione delle opere di ripristino ambientale previste dall'autorizzazione. 
+ 
+3. Nel caso di mancata esecuzione da parte del titolare dell'autorizzazione delle opere necessarie ai ripristino ambientale della zona, nei tempi e nei modi previsti dall'autorizzazione, è disposta l'esecuzione d'ufficio delle opere medesime a spese del contravventore, senza pregiudizio per la dichiarazione di revoca di cui all'art. 21. 
+ 
+4. L'esecuzione è disposta dall'ufficio regionale competente previa diffida all'interessato. 
+ 
+5. Per il rimborso delle spese inerenti all'esecuzione d'ufficio delle opere di ripristino ambientale, la Regione si avvale delle garanzie prestate ai sensi del <rif
+                                xlink:href="#art8-com1">comma 1</rif>. 
+ 
+Art. 17 
+ 
+Adempimenti connessi all'ultimazione dei lavori 
+ 
+1. L'ufficio regionale competente in materia di cave dispone annualmente un sopralluogo obbligatorio per la verifica dell'attuazione delle opere di ripristino ambientale ed adotta eventualmente i provvedimenti del caso. 
+ 
+2. Ultimati i lavori di coltivazione, il titolare dell'autorizzazione deve chiedere al competente ufficio regionale di accertare la rispondenza dei lavori di coltivazione a quanto previsto nel provvedimento di autorizzazione con particolare riferimento ai lavori di ripristino ambientale. 
+ 
+3. Il sopralluogo di verifica viene effettuato dall'ufficio competente in materia di cave, di concerto con la struttura regionale competente in materia di beni ambientali, con un funzionario del Coordinamento provinciale del Corpo forestale dello Stato e col responsabile del servizio tecnico del Comune interessato. Le risultanze della verifica, in unico verbale, sono sottoscritte da ciascuno dei partecipanti. 
+ 
+4. L'ufficio regionale competente dichiara definitivamente cessata la coltivazione disponendo lo svincolo della garanzia prestata nei successivi trenta giorni, ovvero provvede secondo le disposizioni del <rif
+                                xlink:href="#tit4">titolo IV</rif> della presente legge, contestando le violazioni riscontrate ed intima al titolare di provvedere entro un congruo termine alla regolare esecuzione delle opere necessarie a soddisfare gli obblighi derivanti dal provvedimento di autorizzazione nonché quelli di ripristino ambientale. 
+ 
+5. Le spese delle operazioni di accertamento sono a carico del richiedente e vengono liquidate dalle amministrazioni di appartenenza dei soggetti di cui al <rif
+                                xlink:href="#art8-com3">comma 3</rif>. 
+ 
+6. La dichiarazione di cessazione di cui al <rif xlink:href="#art8-com4">comma 4</rif>, è pubblicata sul BURM e comunicata al Comune interessato ed all'ufficio regionale competente in materia di cave per l'aggiornamento del catasto. 
+ 
+7. Il procedimento di cui ai commi precedenti è obbligatorio anche in presenza di una domanda di proroga, nel qual caso l'accertamento negativo preclude la concessione della proroga. 
+ 
+</corpo><?error Marker Warning 101 (last comma:7 next:1)?>
+                    </comma><?error Marker Warning 103 (last articolo:8 next:10)?>
+                </articolo>
+            </titolo>
+            <titolo id="tit4">
+                <num>TITOLO IV </num>
+
+                <rubrica>
+ 
+VIGILANZA E SANZIONI 
+ 
+Art. 18 
+ 
+Funzioni di vigilanza 
+ 
+1. La Regione, tramite la competente Direzione generale regionale, vigila: 
+ 
+a) sull'osservanza delle norme di cui alla presente legge; 
+ 
+b) sulla conformità dei metodi di coltivazione alle prescrizioni contenute nel PRAE e nei provvedimenti di autorizzazione; 
+ 
+c) sull'esatta osservanza degli obblighi di ripristino ambientale; 
+ 
+d) sull'esatta osservanza degli obblighi contenuti nel-la concessione dei suoli; 
+ 
+e) sull'applicazione delle norme di polizia mineraria e di prevenzione infortuni, di igiene e sicurezza dei lavoratori di cui al <rif
+                        xlink:href="urn:nir:presidente.repubblica:decreto:1959-04-09;128">D.P.R. 9 aprile 1959 n. 128</rif>, al <rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1996-11-25;624">Decreto Legislativo 25 novembre 1996 n. 624</rif>, al <rif
+                        xlink:href="urn:nir:presidente.repubblica:decreto:1955-04-27">D.P.R. 27 aprile 1955</rif>, al <rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1994-09-19;626">Decreto Legislativo 19 settembre 1994, n. 626</rif> e successive modificazioni ed integrazioni. 
+ 
+2. Per l'espletamento della vigilanza, la Direzione generale regionale si avvale dell'organo regionale competente in materia di polizia mineraria, del personale della struttura regionale competente in materia di cave e beni ambientali, del Corpo regionale di vigilanza, delle ASL, del Corpo forestale dello Stato con cui stipula apposita convenzione e può imporre, agli esercenti l'attività di coltivazione, adempimenti e prescrizioni. 
+ 
+3. I Comuni concorrono alla vigilanza segnalando le eventuali irregolarità riscontrate nelle attività di coltivazione. Il Sindaco, qualora si presentino motivi contingibili ed urgenti di sicurezza pubblica nonché di igiene pubblica, nei limiti stabiliti dal <rif
+                        xlink:href="urn:nir:stato:regio.decreto:1915-02-04;148">Regio Decreto 4 febbraio 1915, n. 148</rif>, può fare eseguire direttamente gli interventi strettamente necessari ad eliminare i pericoli, con addebito delle spese al titolare dell'autorizzazione. Per il recupero di tali spese il Comune provvede in danno ai sensi del <rif
+                        xlink:href="urn:nir:stato:regio.decreto:1910-04-14;639">Regio Decreto 14 aprile 1910, n. 639</rif>. 
+ 
+4. L'ufficio regionale competente in materia di cave e torbiere redige annualmente e trasmette alla struttura regionale competente in materia di Beni ambientali una relazione in ordine alla verifica dell'attuazione degli interventi di risistemazione ambientale. 
+ 
+Art. 19 
+ 
+Sospensione lavori 
+ 
+1. Ove siano constatate gravi inadempienze da parte dei soggetti concessionari titolari dell'attività estrattiva, l'ufficio regionale competente in materia di cave ordina la sospensione dell'attività estrattiva e contesta l'illecito all'interessato, indicando contestualmente i termini per la regolarizzazione. 
+ 
+Art. 20 
+ 
+Decadenza 
+ 
+1. La decadenza dalle autorizzazioni e dalle concessioni dei suoli si verifica di diritto nei seguenti casi: 
+ 
+a) qualora il titolare non inizi i lavori di ricerca o di coltivazione del giacimento entro un anno dal rilascio dell'autorizzazione ovvero sospenda l'attività per un periodo superiore a dodici mesi; 
+ 
+b) in caso di inosservanza dell'obbligo di comunicazione dei dati al catasto cave; 
+ 
+c) qualora il titolare della concessione risulti inadempiente in ordine al versamento di almeno tre annualità di canone concessorio; 
+ 
+d) qualora il titolare prosegua i lavori nonostante l'ordine di sospensione. 
+ 
+2. La dichiarazione di decadenza è pronunciata dall'ufficio regionale competente in materia di cave, previa diffida per il caso di cui alla lettera a) del comma 1; è notificata all'imprenditore, al proprietario, agli enti interessati, all'ufficio regionale competente in materia di cave e di polizia mineraria. È altresì comunicata alle Province della regione. 
+ 
+Art. 21 
+ 
+Revoca 
+ 
+1. La concessione dei suoli e l'autorizzazione devono essere revocate dalla Giunta regionale nei seguenti casi: 
+ 
+a) qualora i lavori di coltivazione siano eseguiti in area diversa da quella individuata nel provvedimento autorizzatorio, in totale difformità da esso ovverso senza l'osservanza degli obblighi e delle prescrizioni imposte; 
+ 
+b) qualora sia stata provocata un'alterazione della situazione geologica o idrogeologica della zona interessata dal giacimento o dalla ricerca e tale comunque da rendere pericoloso il proseguimento dell'attività estrattiva o di ricerca; 
+ 
+c) qualora il ripristino ambientale non sia conforme al progetto. 
+ 
+2. Resta fermo l'obbligo del titolare al ripristino ambientale previsto dal provvedimento di cui viene disposta la revoca. 
+ 
+3. Il provvedimento di revoca è notificato e comunicato ai soggetti indicati al comma 2 dell'articolo 20. 
+ 
+4. Qualora il titolare dell'autorizzazione sia proprietario dell'area, il giacimento è acquisito al patrimonio indisponibile della Regione. Se il titolare dell'autorizzazione è persona diversa dal proprietario, la Regione fissa a quest'ultimo un termine, non superiore a tre mesi, per chiedere l'autorizzazione; decorso inutilmente detto termine, il giacimento è acquisito al patrimonio indisponibile della Regione dietro corresponsione di un indennizzo pari a quello previsto per l'espropriazione dell'area ai sensi delle leggi statali vigenti. 
+ 
+5. La revoca costituisce impedimento al rilascio di nuove autorizzazioni o concessioni. 
+ 
+Art. 22 
+ 
+Sanzioni 
+ 
+1. Chiunque svolga attività estrattiva senza autorizzazione o concessione oppure la prosegua dopo la notifica di un provvedimento di sospensione, revoca o decadenza soggiace alla sanzione amministrativa di entità variabile tra il doppio e il decuplo del valore commerciale del materiale abusivamente scavato e comunque non inferiore a 10.329,00 euro. 
+ 
+2. In caso di inosservanza delle prescrizioni contenute nei provvedimenti di autorizzazione o concessione è comminata una sanzione amministrativa dal doppio al quintuplo del valore commerciale del materiale abusivamente scavato, e comunque non inferiore a 10.329,00 euro. 
+ 
+3. Nei casi di violazioni di norme o prescrizioni richiamate dalla presente legge la cui gravità non è commisurabile al materiale scavato, si applica una sanzione amministrativa non inferiore a 2.582,00 euro e non superiore a 10.329,00 euro. 
+ 
+4. Nei casi di cui ai commi 2 e 3 resta, comunque, l'obbligo di provvedere all'attuazione di quanto prescritto. 
+ 
+5. Alle sanzioni di cui ai commi precedenti soggiacciono, in solido tra loro, il committente, la ditta esecutrice, il titolare dell'autorizzazione, il legale rappresentante ed il direttore dei lavori. 
+ 
+6. I1 valore commerciale del materiale scavato è individuato nel valore medio dei prezzi riportati nei listini delle Camere di commercio della Regione Molise. 
+ 
+7. Per l'irrogazione delle sanzioni, nonché per la procedura di sequestro amministrativo, si applicano le norme previste dalla <rif
+                        xlink:href="urn:nir:stato:legge:1981-11-24;689">legge 24 novembre 1981, n. 689</rif>, e successive modifiche o integrazioni. 
+ 
+8. In caso di coltivazione senza autorizzazione o concessione o di violazione delle prescrizioni contenute nei provvedimenti di autorizzazione o concessione, è comunque fatto obbligo ai trasgressori di provvedere al ripristino dei luoghi. A tal fine, l'organo di vigilanza assegna un congruo termine, scaduto il quale si provvede d'ufficio a spese dell'inadempiente secondo le previsioni del <rif xlink:href="urn:nir:stato:regio.decreto:1910-04-14;639">Regio Decreto 14 aprile 1910, n. 639</rif>. L'imprenditore abusivo non può essere titolare di nuova autorizzazione. 
+ 
+9. L'organo di vigilanza provvede altresì, ai sensi dei comma 8, per il rispetto degli obblighi di sistemazione finale del sito di cava. 
+ 
+10. I titolari di autorizzazione o di concessione che si sottraggono all'obbligo di consentire l'accesso per ispezioni o controlli, o che non forniscano i dati dovuti, sono soggetti alla sanzione amministrativa da 2.582,00 euro a 10.329,00 euro ed alla sospensione del titolo di esercizio in caso di recidiva. 
+ 
+11. Le somme derivanti dall'applicazione delle sanzioni sono versate ad incremento del fondo regionale per gli interventi di eliminazione dei detrattori del paesaggio con priorità di destinazione alla riconversione ambientale delle aree di cave abbandonate o dismesse. 
+ 
+12. Restano ferme le ulteriori sanzioni previste dalle leggi statali, nonché, qualora ne ricorrano le condizioni, i provvedimenti previsti dagli articoli 19, 20 e 21. 
+ 
+</rubrica>
+            </titolo>
+            <titolo id="tit5">
+                <num>TITOLO V </num>
+                <rubrica>
+ 
+AREE DI CAVE ABBANDONATE O DISMESSE 
+ 
+Art. 23 
+ 
+Interventi nelle aree di cave abbandonate o dismesse 
+ 
+1. La Regione, sulla base degli inventari delle cave abbandonate o dismesse, redatti ai sensi dell'articolo 12, provvede al ripristino ambientale di esse laddove non siano esigibili gli obblighi già assunti dagli imprenditori. 
+ 
+2. Ai fini della presente legge si intendono abbandonate o dismesse le cave la cui attività di coltivazione è venuta meno prima dell'entrata in vigore della presente legge. 
+ 
+Art. 24 
+ 
+Ricerche e studi 
+ 
+1. Al fine di favorire interventi di recupero di aree di cave abbandonate o dismesse o di implementare la diffusione di metodi e procedure di escavazione capaci di minimizzare l'impatto ambientale sul territorio regionale, la Regione promuove specifici accordi con Istituti di ricerca. 
+ 
+</rubrica>
+            </titolo>
+            <titolo id="tit6">
+                <num>TITOLO VI </num>
+                <rubrica>
+ 
+OSSERVATORIO SULLE ATTIVITÀ DI CAVE 
+ 
+Art. 25 
+ 
+Osservatorio regionale sulle attività di cave 
+ 
+1. È istituito l'Osservatorio regionale sulle attività di cave allo scopo di: 
+ 
+a) verificare se le attività di cava nel territorio vengono svolte in conformità del PRAE; 
+ 
+b) effettuare periodiche audizioni degli operatori del settore; 
+ 
+c) proporre misure ed iniziative eventualmente necessarie per meglio attuare le previsioni del PRAE; 
+ 
+d) proporre alla Regione opporture varianti al PRAE. 
+ 
+2. La Giunta regionale, con propria deliberazione da emanare entro sessanta giorni dalla data di adozione del PRAE, nomina i membri dell'Osservatorio regionale e ne organizza le attività. 
+ 
+3. L'Osservatorio è composto da non più di cinque esperti nelle materie attinenti all'attività di coltivazione di cave. Ne fanno parte altresì, senza alcun compenso economico, un rappresentante delle associazioni di categoria maggiormente rappresentative del settore ed un rappresentante delle associazioni ambientaliste maggiormente rappresentative. 
+ 
+4. I componenti dell'Osservatorio durano in carica tre anni. 
+ 
+</rubrica>
+            </titolo>
+            <titolo id="tit7">
+                <num>TITOLO VII </num>
+
+                <rubrica>
+ 
+SICUREZZA E SALUTE DEI LAVORATORI NELLE INDUSTRIE ESTRATTIVE 
+ 
+Art. 26 
+ 
+Norme di riferimento 
+ 
+1. Le attività estrattive sono soggette alle norme dello Stato attinenti alla polizia mineraria ed alla sicurezza e salute dei lavoratori. 
+ 
+2. Gli imprenditori, direttamente o tramite le loro associazioni di categoria, sono tenuti ad organizzare corsi di preparazione e di aggiornamento, al fine di migliorare la formazione delle maestranze ed in particolare del personale preposto alla conduzione dei lavori di cava, anche al fine di facilitare il conseguimento delle abilitazioni previste dalle norme. 
+ 
+3. Per lo svolgimento dei corsi di cui al <rif xlink:href="#art8-com2">comma 2</rif>, gli imprenditori o le associazioni di categoria potranno chiedere i finanziamenti regionali previsti per la formazione professionale ed avvalersi, per l'insegnamento e le attività tecnico-pratiche, di liberi professionisti e di funzionari regionali, esperti in materia estrattiva, uso degli esplosivi e dei macchinari ed impianti per la lavorazione dei materiali. 
+ 
+</rubrica>
+            </titolo>
+            <titolo id="tit8">
+                <num>TITOLO VIII </num>
+
+                <rubrica>
+ 
+DISPOSIZIONI TRANSITORIE 
+ 
+Art. 27 
+ 
+Disposizioni transitorie 
+ 
+1. Le autorizzazioni e le concessioni rilasciate prima del-l'entrata in vigore della presente legge conservano efficacia fino alla loro scadenza. I canoni previsti per la concessione dei suoli appartenenti al patrimonio indisponibile di Comuni, Province e Regione, da destinare ad attività estrattiva, sono adeguati ai criteri stabiliti ai sensi del comma 2 dell'articolo 11. 
+ 
+2. I titolari delle autorizzazioni in corso alla data di entrata in vigore della presente legge devono presentare entro sei mesi, a pena di revoca, un progetto per il ripristino ambientale contenente la documentazione richiesta alla <rif
+                        xlink:href="#art8-com4-letc">lettera c) del comma 4</rif> all'<rif
+                        xlink:href="#art8">articolo 8</rif>; ove tale documentazione sia già in possesso del competente ufficio regionale, essa è integrata ed aggiornata. L'onere della verifica è in capo alla Regione. 
+ 
+3. L'ufficio regionale competente in materia di cave, qualora ritenga idoneo il progetto, lo approva ed integra il provvedimento di autorizzazione in corso con le relative prescrizioni, disponendo altresì l'adeguamento della cauzione prestata secondo le disposizioni dell'articolo 16. 
+ 
+4. L'inosservanza degli obblighi di ripristino ambientale dà luogo ai provvedimenti disciplinati nel <rif xlink:href="#tit4">titolo IV</rif> della presente legge. 
+ 
+5. Nelle more dell'adozione del PRAE proseguono tutte le attività in corso che non sono in contrasto con la presente legge, per le quali possono essere autorizzati eventuali proroghe ed ampliamenti. Le autorizzazioni per le nuove attività vengono sospese per un periodo massimo di 6 mesi dall'adozione della presente legge. 
+ 
+</rubrica>
+            </titolo>
+            <titolo id="tit9">
+                <num>TITOLO IX </num>
+
+                <rubrica>
+ 
+NORME FINALI E FINANZIARIE 
+ 
+Art. 28 
+ 
+Abrogazioni 
+ 
+1. È abrogato l'<rif xlink:href="urn:nir:regione.molise:legge:1999-09-29;34#art47">articolo 47 della legge regionale 29 settembre 1999, n. 34</rif>. 
+</rubrica>
+            </titolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione>
+            <dataeluogo codice="00100"
+                    norm="">2. Sono abrogate altresì tutte le disposizioni della <rif xlink:href="urn:nir:regione.molise:legge:1999-09-29">legge regionale 29 settembre 1999</rif>, </dataeluogo>
+        </conclusione><?error n. 34, incompatibili con la presente legge. 
+ 
+Art. 29 
+ 
+Rinvio alla legislazione statale 
+ 
+1. Per quanto non previsto dalla presente legge, continuano ad osservarsi le norme dello Stato in materia di attivit&#xE0; estrattive. &#xC8; fatto salvo, inoltre, quanto previsto dalle leggi statali in materia di pubblica sicurezza ed in materia di danno ambientale. 
+ 
+Art. 30 
+ 
+Oneri finanziari e capitoli di bilancio 
+ 
+1. Gli oneri derivanti dall'attuazione della presente legge sono regolati come segue: 
+ 
+a) gli oneri per il funzionamento dell'Osservatorio di cui all'articolo 25, che si quantificano in 30.000,00 euro per l'esercizio finanziario 2005, mediante utilizzo di parte dello stanziamento gi&#xE0; iscritto nel bilancio regionale, per lo stesso esercizio, nella U.P.B. n. 212 e conseguente rideterminazione della relativa articolazione in capitoli. 
+ 
+2. Le entrate derivanti dai versamenti dei depositi cauzionali e dal pagamento delle sanzioni pecuniarie sono acquisite alla U.P.B. n. 212. La Giunta regionale apporta le conseguenti variazioni ai relativi capitoli. 
+ 
+3. Per gli esercizi finanziari 2006 e successivi si provvede con le rispettive leggi approvative di bilancio. 
+ 
+Art. 31 
+ 
+Entrata in vigore 
+ 
+1. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino ufficiale della Regione Molise. 
+ 
+La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

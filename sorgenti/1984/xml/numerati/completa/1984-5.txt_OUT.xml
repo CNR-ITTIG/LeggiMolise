@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19840916" num="19" tipo="BURM"/>
+                <entratainvigore norm="19841001"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1984-09-05;27"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 19 del 16/09/84 
+ 
+Oggetto 
+Regione - Personale - Trattamento di previdenza - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19840905">5 Settembre 1984</dataDoc>, n. <numDoc>27</numDoc>
+            <titoloDoc>Trattamento di previdenza del personale regionale 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: PRESTAZIONI PREVIDENZIALI 
+ 
+La Regione Molise assicura, a favore dei propri impiegati o dei loro aventi causa e del personale che sarà inquadrato in applicazione delle leggi attualmente in vigore, il trattamento di fine servizi o ed il trattamento di pensione che rispettivamente erogano ai propri iscritti l'INADEL e la CPDEL. 
+ 
+Detto trattamento si realizza nelle prestazioni espressamente stabilite dalle disposizioni legislative e regolamentari, vigenti nel tempo, che disciplinano l'ordinamento e le attività degli stessi Istituti. 
+ 
+Le disposizioni di cui alla presente legge si applicano oltre che al personale regionale, anche al personale dell'ERIM e dell'ERSAM, con onere a carico dei rispettivi bilanci. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+                <rubrica>: PERIODI COMPUTABILI AI FINI DEL TRATTAMENTO DI FINE SERVIZIO 
+ 
+Ai fini della determinazione della misura del trattamento di fine servizio sono computabili: 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1)</num>
+                    <corpo> i servizi prestati alle dipendenze della Regione; 
+ </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+2)</num>
+                    <corpo> i servizi prestati, prima dell'inquadramento, presso altri Enti o presso lo Stato con l'iscrizione all'INADEL, o all'ENPAS, nonché quelli riconosciuti utili dagli ordinamenti dei suddetti Enti previdenziali vigenti nel tempo; 
+ </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num>
+3)</num>
+                    <corpo> i servizi e periodi riscattati a carico del dipendente presso l'INADEL o presso l'ENPAS; 
+ </corpo>
+                </comma>
+                <comma id="art2-com4">
+                    <num>
+4)</num>
+
+                    <corpo> i periodi riconosciuti utili ai fini dell'indennità di fine servizio ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1975-11-18;764#art7">art. 7 della legge 18 novembre 1975, n. 764</rif>. 
+ 
+Sono esclusi dal computo i periodi e i servizi di cui al precedente comma che abbiano dato luogo alla liquidazione delle relative prestazioni previdenziali. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3</num>
+                <rubrica>: DEFINIZIONE POSIZIONI PREGRESSE AI FINI PREVIDENZIALI 
+ 
+Al personale trasferito alla Regione Molise, in attuazione di norme di legge, per il quale non opera la ricongiunzione ai fini previdenziali presso l'INADEL dei servizi prestati negli Enti di provenienza e per il quale gli stessi Enti versano alla Regione le somme accantonate quale indennità di fine servizio, maturate fino alla data di trasferimento, si applicano le seguenti disposizioni: 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1)</num>
+                    <corpo>
+                        <mod id="art3-com1-mod1"> la Regione riconosce ai fini previdenziali tutti i servizi o periodi già riconosciuti utili a fini del trattamento di fine servizio presso l'Ente di provenienza, limitatamente a quelli per i quali l'importo della liquidazione o altro analogo trattamento ad essi riferiti sia stato versato alla Regione. Comunque, gli Enti previdenziali o gli Uffici liquidatori degli Enti soppressi o gli Istituti assicuratori sono tenuti a versare alla Regione gli importi già accreditati presso gli Enti o Istituti a favore del personale trasferito alla Regione. </mod>
+                    </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2)</num>
+
+                    <corpo> La Regione incamera in apposito capitolo di sopravvenienze attive le somme di cui al precedente punto 1) e provvederà a corrispondere ai dipendenti interessati, entro sei mesi dal versamento, l'eventuale eccedenza tra l'importo versato e quello dell'indennità di premio di servizio determinata in via teorica, secondo i criteri dell'<rif xlink:href="#art2-com1">art. 2, 1° comma</rif>, in relazione alla posizione giuridica ed economica rivestita dal personale interessato alla data dell'iscrizione all'INADEL ed ai periodi di cui al precedente punto 1), computati secondo le disposizioni dell'ordinamento di provenienza. </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+ 
+3)</num>
+
+                    <corpo> Alla definitiva cessazione del servizio, la Regione assicura agli interessati o loro aventi causa ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:legge:1968-03-08;152#art3">art. 3 della legge 8 marzo 1968, n. 152</rif> il trattamento di fine servizio determinato, con i criteri di cui all'<rif xlink:href="#art2">art. 2</rif>. in base alla somma dei servizi di cui al precedente punto 1) e di quelli resi alle dipendenze della Regione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+
+                <rubrica>: PERIODI COMPUTABILI AI FINI DEL TRATTAMENTO DI PENSIONE 
+ 
+Ai fini del trattamento di pensione sono computabili: 
+ 
+a) i servizi resi alle dipendenze della Regione; 
+ 
+b) i servizi resi presso altri Enti o lo Stato, con iscrizione alla CPDEL o all'INPS, nonché quelli riconosciuti utili dagli ordinamenti dei suddetti Enti previdenziali vigenti nel tempo. 
+ 
+Eventuali ulteriori periodi di iscrizione ad altre gestioni possono essere ricongiunti ai sensi e con le modalitÅ di cui agli artt. 1 e 2 della <rif xlink:href="urn:nir:stato:legge:1979-02-07;29">legge statale del 7 febbraio 1979, n. 29</rif>. 
+ 
+Possono essere ricongiunti i periodi di assicurazione nelle gestioni speciali per i lavoratori autonomi, con onere a carico dell'interessato. 
+ 
+Non sono computabili i periodi assicurativi per i quali il dipendente è titolare di pensione o abbia percepito l'indennità sostitutiva. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+                <rubrica>: MISURA DELL'INDENNITÀ DI ANZIANITÀ 
+ 
+Per ogni anno di servizio e frazione di anno superiore a mesi 6, la misura del trattamento previdenziale è pari all'80% di un dodicesimo dell'ultima retribuzione annua lorda percepita dal dipendente, ivi compresa la tredicesima mensilità l'indennità integrativa speciale, per la parte che, allo stesso fine, l'ordinamento dell'INADEL prende a base per il calcolo dell'indennità premio di fine servizio. 
+ 
+La Regione pone a suo carico l'eventuale differenza fra la somma lorda spettante secondo quanto previsto dal precedente comma e quella lorda corrisposta allo stesso titolo dall'originario Ente di Previdenza. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6</num>
+
+                <rubrica>: PERSONALE CESSATO DAL SERVIZIO SENZA AVER MATURATO DIRITTO A PENSIONE 
+ 
+Agli impiegati regionali cessati dal servizio per qualsiasi causa o ai loro eredi, senza avere maturato il diritto a pensione, spetta l'indennità premio di fine servizio o altra indennità di questa sostitutiva, come indicato nel <rif
+                        xlink:href="#art5">precedente articolo 5</rif>, subordinatamente all'osservanza della normativa contenuta nell'<rif
+                        xlink:href="urn:nir:stato:legge:1979-02-07;29#art9">art. 9 della legge 7 febbraio 1979, n. 29</rif> e nell'<rif xlink:href="urn:nir:stato:legge:1958-04-02;322#art1">articolo unico della legge 2 aprile 1958, n. 322</rif>. 
+ 
+Nessuna liquidazione compete agli impiegati che cessano dal servizio per passaggio alle dipendenze di altri Enti il cui personale è iscritto all'INADEL e/o all'ENPAS. 
+ 
+La disposizione del presente articolo si applica altresì al personale già cessato dal servizio per qualsiasi causa o loro eredi, a partire dall'1 aprile 1972, e fino all'entrata in vigore della presente legge solo per il servizio prestato presso la Regione Molise soggetto alla contribuzione INADEL. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7</num>
+                <rubrica>: OPZIONE 
+ 
+Il personale inquadrato nel ruolo regionale ha facoltà, ove abbia percepito l'indennità di anzianità o di fine servizio, o qualunque somma ad altro analogo titolo maturata presso l'Ente di provenienza e/o presso altri Enti pubblici, di versare l'indennità a favore della Regione in un'unica soluzione per ottenere il computo del servizio presso i predetti Enti limitatamente alla parte corrispondente all'importo dell'indennità versata. 
+ 
+La restituzione di cui al precedente comma può essere effettuata anche mediante rateizzazione mensile per un periodo non superiore ai dieci anni. In questo caso, però, è applicata la maggiorazione di un interesse annuo composto pari al 4,50% a decorrere dal primo giorno successivo a quello in cui diviene esecutivo il provvedimento di rateizzazione del debito. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8</num>
+                <rubrica>: ADEMPIMENTI DI ATTUAZIONE 
+ 
+Ai fini del recupero nei confronti dei competenti Istituti preposti alla liquidazione delle indennità di previdenza, che la Regione corrisponderà nella misura del 90% all'atto della cessazione del servizio, il personale avente titolo o i superstiti aventi diritto, rilasciano alla Regione stessa una procura irrevocabile, per la riscossione della somma erogata. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9</num>
+                <rubrica>: DEFINIZIONE RAPPORTI TRA REGIONE ED ENTI PREVIDENZIALI 
+ 
+Per i fini di cui ai precedenti artt. 2, 3 e 4, la Regione eroga alla CPDEL e all'INADEL, l'eventuale differenza esistente tra i contributi versati e quelli necessari a coprire la nuova forma assicurativa e previdenziale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10</num>
+
+                <rubrica>: ONERI FINANZIARI 
+ 
+All'onere finanziario derivante dall'attuazione della presente legge, valutato per l'anno 1984 in L. 40.000.000, si fa fronte con quota parte dei fondi attribuiti alla Regione ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1970-05-16;281#art8">art. 8 della legge 16 maggio 1970, n. 281</rif>. 
+ 
+La spesa è posta a carico del capitolo n. 4300 del bilancio regionale per l'esercizio finanziario 1984. 
+ 
+Per gli esercizi futuri la quantificazione della spesa sarà determinata con la stessa legge approvativa dei bilanci. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art10-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>ARTICOLO 11</num>
+
+                <rubrica>: DICHIARAZIONE D'URGENZA 
+ 
+La presente legge è dichiarata urgente ai sensi del <rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">secondo comma dell'art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art11-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

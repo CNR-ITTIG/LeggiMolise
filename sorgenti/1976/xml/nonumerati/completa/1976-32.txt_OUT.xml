@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19760401" num="6" tipo="BURM"/>
+                <entratainvigore norm="19760416"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1976-03-29;12"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 06 del 01/04/76 
+ 
+Oggetto 
+Atti amministrativi della Regione - Pubblicazione nel Bollettino Ufficiale 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19760329">29 Marzo 1976</dataDoc>, n. <numDoc>12</numDoc>
+            <titoloDoc>Pubblicazione di atti amministrativi degli Organi della Regione Molise 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. UNICO</num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+Gli atti amministrativi emanati dagli organi della Regione Molise, compresi quelli per i quali le leggi dello Stato anteriori all'attuazione dell'ordinamento regionale prescrivevano la pubblicazione nella Gazzetta Ufficiale della Repubblica, sono pubblicati, con effetto dalla data di entrata in vigore della presente legge, soltanto nel Bollettino Ufficiale della Regione Molise. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+                    <corpo>La presente legge regionale sarà pubblicata nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

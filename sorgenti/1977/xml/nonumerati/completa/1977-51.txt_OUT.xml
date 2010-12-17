@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19770201" num="2" tipo="BURM"/>
+                <entratainvigore norm="19770216"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1977-01-20;3"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 02 del 01/02/77 
+ 
+Oggetto 
+Colture agrarie e patrimoni zootecnici - Danni prodotti da selvaggina stanziale protetta - Contributi - Erogazione - Disciplina - Modifiche 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 6/1983 art. 7 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19770120">20 Gennaio 1977</dataDoc>, n. <numDoc>3</numDoc>
+            <titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1975-01-21;9">legge regionale 21 gennaio 1975, n. 9</rif> - Concessione contributi sui danni prodotti alle colture ed al bestiame dalla selvaggina protetta. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 6/1983 art. 7</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

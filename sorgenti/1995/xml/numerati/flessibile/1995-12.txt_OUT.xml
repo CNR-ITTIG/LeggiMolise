@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19950516" num="11" tipo="BURM"/>
+                <entratainvigore norm="19950531"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1995-05-03;19"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 36.Turismo e industria alberghiera 
+ 
+Bollettino 
+Bollettino Ufficiale n. 11 del 16/05/95 
+ 
+Oggetto 
+Interventi a favore del settore alberghiero e del turismo rurale 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 3 dalla legge n. 4/2001 art. 1 
+Modificato art. 3 dalla legge n. 4/2001 art. 2 
+Modificato art. 4 dalla legge n. 4/2001 art. 3 
+Modificato art. 4 dalla legge n. 14/2000 art. 1 
+Modificato art. 7 dalla legge n. 4/2001 art. 4 
+Modificato art. 8 dalla legge n. 4/2001 art. 5 
+Modificato art. 17 dalla legge n. 14/2000 art. 2 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19950503">3 Maggio 1995</dataDoc>, n. <numDoc>19</numDoc>
+            <titoloDoc>Incentivazione dell'offerta turistica nei settori alberghiero e di turismo rurale. 
+ 
+Titolo I: INCENTIVAZIONE DELL'OFFERTA NEL SETTORE ALBERGHIERO 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: FINALITÀ 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La Regione Molise, in conformità dei principi contenuti nell'<rif xlink:href="urn:nir:regione.molise:statuto:#art4">art. 4 dello Statuto</rif>, dispone specifici interventi diretti a favorire la realizzazione di opere di iniziativa pubblica o privata, per lo sviluppo socio - economico del proprio territorio per mezzo del turismo. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+                <rubrica>: BENEFICIARI 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Possono beneficiare degli interventi di cui alla presente legge gli Enti pubblici e privati, le associazioni in qualsiasi forma costituita, gli imprenditori in genere e chiunque eserciti attività di interesse turistico, nel rispetto dei requisiti previsti dalla <rif xlink:href="urn:nir:stato:legge:1983-05-17;217">legge 17 maggio 1983, n. 217</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3</num>
+                <rubrica>: OPERE AMMESSE A BENEFICIO 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+
+                    <alinea> I finanziamenti previsti dalla presente legge, fatte salve le esclusioni e le limitazioni per le spese di cui all'<rif xlink:href="#art6">art. 6</rif>, sono concessi per opere di: 
+ 
+</alinea>
+                    <el id="art3-com1-leta">
+                        <num>a)</num>
+                        <corpo> ristrutturazione, ampliamento ed adeguamento, a norma di legge, in particolare in materia di superamento di barriere architettoniche ed antincendio;</corpo>
+                    </el>
+                    <el id="art3-com1-letb">
+                        <num> 
+ 
+b)</num>
+
+                        <corpo> trasformazione in strutture ricettive di edifici precedentemente destinati ad altri usi compreso l'acquisto dell'immobile e con limitazioni previste dal <rif xlink:href="#art6-com1">1° comma del successivo articolo 6</rif>;</corpo>
+                    </el>
+                    <el id="art3-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> ammodernamento e miglioramento con esclusione degli interventi di manutenzione ordinaria;</corpo>
+                    </el>
+                    <el id="art3-com1-letd">
+                        <num> 
+ 
+d)</num>
+
+                        <corpo> costruzione di strutture ricettive compreso l'acquisto dell'area, con limiti previsti dal <rif xlink:href="#art6-com1">1° comma del successivo articolo 6</rif>;</corpo>
+                    </el>
+                    <el id="art3-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> impianti e servizi ricreativi o sportivi pubblici o di uso pubblico, complementari all'attività turistica e comunque idonei a favorire detta attività;</corpo>
+                    </el>
+                    <el id="art3-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> installazione di sistemi elettromeccanici ed elettronici di innovazioni tecnologiche per il miglioramento della qualità dei servizi;</corpo>
+                    </el>
+                    <el id="art3-com1-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> arredamento ed attrezzature;</corpo>
+                    </el>
+                    <el id="art3-com1-leth">
+                        <num> 
+ 
+h)</num>
+                        <corpo> rinnovo arredamento. </corpo>
+                    </el>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> La realizzazione degli interventi è riferita alle strutture ricettive previste dall'<rif xlink:href="urn:nir:stato:legge:1983-05-17;217#art6">articolo 6 della legge 17 maggio 1983, n. 217</rif>, alle pensioni, agli stabilimenti termali, balneari e centri di turismo nautico, nonché agli esercizi di ristoro ad essi connessi ed agli impianti sportivi e ricreativi ad essi collegati. </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> I finanziamenti sono concessi secondo l'ordine di priorità definito al <rif xlink:href="#art3-com1">comma 1</rif> del presente articolo. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+                <rubrica>: CONTRIBUTO IN CONTO CAPITALE 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <alinea> Per gli interventi di cui all'<rif xlink:href="#art3">art. 3</rif> la Regione concede un contributo in conto capitale nelle seguenti misure: 
+ 
+</alinea>
+                    <el id="art4-com1-leta">
+                        <num>a)</num>
+
+                        <corpo> agli Enti pubblici ed alle cooperative, fino al 45% della spesa riconosciuta ammissibile, per le opere previste dalle lettere a), b), c), d), f), g) dell'<rif xlink:href="#art3">art. 3</rif>;</corpo>
+                    </el>
+                    <el id="art4-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> agli Enti pubblici ed alle cooperative, fino al 25% della spesa riconosciuta ammissibile, per le opere previste dalla lettera h) dell'art. 3;</corpo>
+                    </el>
+                    <el id="art4-com1-letc">
+                        <num> 
+ 
+c)</num>
+
+                        <corpo> ai privati, fino al 40% della spesa riconosciuta ammissibile, per le opere previste dalle lettere a), b), c), d), e), f), g) dell'<rif xlink:href="#art3">art. 3</rif>;</corpo>
+                    </el>
+                    <el id="art4-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> ai privati, fino al 20% della spesa riconosciuta ammissibile, per le opere previste dalla lettera h) dell'art. 3. </corpo>
+                    </el>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Per le attività previste all'<rif xlink:href="#art15">art. 15</rif>, i contributi concessi sono elevati rispettivamente per la lettera a) al 70%, per la lettera b) al 40%, per la lettera c) al 60% . 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+                <rubrica>: MODALITÀ DI PRESENTAZIONE DELLE DOMANDE 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <alinea> Le domande intese ad ottenere i finanziamenti debbono essere presentate, pena l'esclusione, con scadenza semestrale entro il 31 marzo ed il 30 settembre, al Presidente della Giunta regionale, corredate dalla seguente documentazione: 
+ 
+</alinea>
+                    <el id="art5-com1-leta">
+                        <num>a)</num>
+                        <corpo> progetto di massima delle opere da eseguire completo degli elaborati tali da individuare il tipo di intervento;</corpo>
+                    </el>
+                    <el id="art5-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> preventivo di spesa dell'intero intervento;</corpo>
+                    </el>
+                    <el id="art5-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> preventivi di spesa per arredi ed attrezzature o sistemi elettromeccanici ed elettronici;</corpo>
+                    </el>
+                    <el id="art5-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> relazione tecnico - illustrativa dell'intervento contenente l'indicazione dei tempi di realizzazione dei lavori;</corpo>
+                    </el>
+                    <el id="art5-com1-lete">
+                        <num> 
+ 
+e)</num>
+
+                        <corpo> autocertificazione provvisoria, resa ai sensi dell'<rif
+                                xlink:href="urn:nir:stato:legge:1968-01-04;15#art4">art. 4 della legge 4 gennaio 1968, n. 15</rif>, di non essere mai stato sottoposto a misure di prevenzione e di non essere a conoscenza di procedimenti in corso, come previsto dal <rif
+                                xlink:href="#art5-com7">comma 7</rif> della <rif xlink:href="urn:nir:stato:legge:1990-03-19;55">legge 19 marzo 1990, n. 55</rif>;</corpo>
+                    </el>
+                    <el id="art5-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> titolo di proprietà dell'immobile. </corpo>
+                    </el>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> La domanda può essere inoltrata anche da persona diversa dal proprietario dell'immobile o dell'area purché risulti, da apposita dichiarazione resa ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1968-01-04;15#art4">articolo 4 della legge 4 gennaio 1968, n. 15</rif>, l'assenso del proprietario all'esecuzione delle opere ed all'iscrizione del vincolo di destinazione. Per gli stabilimenti balneari il titolo di proprietà è sostituito dalla concessione demaniale rilasciata dall'organo competente per territorio. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Gli Enti privati e le Società devono, inoltre, allegare l'atto costitutivo, lo <rif xlink:href="urn:nir:regione.molise:statuto:">statuto</rif> sociale, il certificato della cancelleria del Tribunale e il certificato di iscrizione alla Camera di Commercio, qualora prescritti. Le domande devono essere sottoscritte dal legale rappresentante dell'Ente o della Società. </corpo>
+                </comma>
+                <comma id="art5-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> I richiedenti devono fare espressa menzione, nella domanda, di accettazione del vincolo di cui all'<rif xlink:href="#art10">articolo 10</rif>. </corpo>
+                </comma>
+                <comma id="art5-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> I richiedenti devono altresì fare espressa dichiarazione di ottemperanza alle eventuali particolari prescrizioni tecnico - funzionali o di altra natura stabilite nell'atto di concessione. </corpo>
+                </comma>
+                <comma id="art5-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> Copia della domanda deve essere inviata al sindaco del Comune competente per territorio. </corpo>
+                </comma>
+                <comma id="art5-com7">
+                    <num>
+ 
+7.</num>
+                    <corpo> La mancata ottemperanza alle modalità di cui al presente articolo comporta la dichiarazione di inammissibilità della domanda. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6</num>
+                <rubrica>: ESCLUSIONI 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <alinea> Sono escluse dal finanziamento le spese non strettamente necessarie alla realizzazione dell'intervento ed in particolare: 
+ 
+</alinea>
+                    <el id="art6-com1-leta">
+                        <num>a)</num>
+                        <corpo> le spese non di opere murarie, già sostenute alla data di presentazione della domanda ad eccezione di quelle di progettazione;</corpo>
+                    </el>
+                    <el id="art6-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> le spese sostenute a titolo di imposte ed oneri sociali;</corpo>
+                    </el>
+                    <el id="art6-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> le spese per le quali sono state concesse altre incentivazioni gravanti sui bilanci statali o regionali;</corpo>
+                    </el>
+                    <el id="art6-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> le spese per l'acquisto di aree o di fabbricati eccedenti il 20% del costo globale ammissibile. </corpo>
+                    </el>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Le strutture realizzate, ampliate o comunque migliorate con i finanziamenti previsti dalla presente legge, non possono beneficiare della concessione di ulteriori contributi, concessi dallo Stato, dalla regione e da altri Enti pubblici. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7</num>
+                <rubrica>: TERMINI DI INIZIO E DI ULTIMAZIONE DEI LAVORI 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <corpo> I finanziamenti sono concessi per la realizzazione di opere non ancora ultimate e per forniture non ancora acquisite alla data di presentazione della domanda. Per le opere fa fede il certificato dello stato dei lavori rilasciato dal sindaco del Comune competente per territorio. </corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Nel provvedimento di concessione è indicato il termine entro il quale devono essere ultimati i lavori ed acquisite le forniture. Tale termine non può essere inferiore a 12 mesi né superiore a 24 mesi dalla data del provvedimento stesso. </corpo>
+                </comma>
+                <comma id="art7-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Per comprovati motivi di forza maggiore il termine può essere prorogato dalla Giunta regionale per un periodo non superiore a 12 mesi. </corpo>
+                </comma>
+                <comma id="art7-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Trascorsi i termini di cui ai commi 2 e 3 senza che i lavori siano stati ultimati o le forniture acquisite, la concessione del contributo decade; della decadenza è data comunicazione agli interessati. Le somme resesi disponibili per effetto dell'intervenuta decadenza sono impiegate, nell'anno successivo, per la concessione dei contributi previsti dalla presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8</num>
+                <rubrica>: CONCESSIONE DEI FINANZIAMENTI 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+                    <corpo> La Giunta regionale, previo parere della Commissione consiliare competente, da rendere nel termine di 30 giorni, delibera la concessione dei contributi e ne dà comunicazione agli interessati. Il parere della Commissione si intende reso positivamente decorso il termine di 30 giorni dalla ricezione della richiesta. </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> Entro il termine di 120 giorni dal ricevimento della comunicazione, gli interessati devono presentare: 
+ 
+</alinea>
+                    <el id="art8-com2-leta">
+                        <num>a)</num>
+                        <corpo> concessione o autorizzazione edilizia relativa alle opere da finanziare, qualora sia prevista in relazione al tipo di intervento;</corpo>
+                    </el>
+                    <el id="art8-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> progetto esecutivo delle opere completo di piante, prospetti e sezioni;</corpo>
+                    </el>
+                    <el id="art8-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> computo metrico estimativo analitico contenente prezzi unitari, misure e quantità per ogni categoria di lavoro; prezzi complessivi, importi parziali e totali per quelle murarie e per gli impianti tecnologici, corredato da disegni quotati;</corpo>
+                    </el>
+                    <el id="art8-com2-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> certificato del sindaco attestante lo stato di attuazione dei lavori. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9</num>
+                <rubrica>: LIQUIDAZIONE DEI FINANZIAMENTI 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+
+                    <alinea> Il Presidente della Giunta regionale, in attuazione della delibera di cui al <rif
+                            xlink:href="#art8-com1">comma 1 dell'art. 8</rif>, dispone, con proprio decreto, la liquidazione dei finanziamenti di cui all'<rif xlink:href="#art4">art. 4</rif> previa acquisizione della seguente documentazione: 
+ 
+</alinea>
+                    <el id="art9-com1-leta">
+                        <num>a)</num>
+                        <corpo> certificato di ultimazione dei lavori e di conformità degli stessi al progetto approvato, rilasciato dal  sindaco del Comune competente per territorio;</corpo>
+                    </el>
+                    <el id="art9-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> relazione redatta e giurata dal direttore dei lavori sull'avvenuta realizzazione delle opere murarie e acquisizione di arredi, impianti ed attrezzature; per detti beni deve essere indicata la spesa sostenuta nonché la data di acquisto;</corpo>
+                    </el>
+                    <el id="art9-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> copia del provvedimento di classifica alberghiera rilasciata dagli EE.PP.TT. competenti per territorio; la mancata allegazione di detto documento vale come attestazione di classifica pari a quella precedentemente posseduta;</corpo>
+                    </el>
+                    <el id="art9-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> copia delle autorizzazioni amministrative relative all'esercizio dell'attività per la quale si richiedono i finanziamenti;</corpo>
+                    </el>
+                    <el id="art9-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> dichiarazione, resa ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1968-01-04;15#art4">art. 4 della legge 4 gennaio 1968, n. 15</rif>, attestante che la stessa iniziativa non ha beneficiato di contributi statali, regionali o di altri Enti;</corpo>
+                    </el>
+                    <el id="art9-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> atto comprovante che l'immobile oggetto delle provvidenze è stato vincolato alla specifica destinazione per la durata di dieci anni;</corpo>
+                    </el>
+                    <el id="art9-com1-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> certificato antimafia rilasciato dalla competente Prefettura;</corpo>
+                    </el>
+                    <el id="art9-com1-leth">
+                        <num> 
+ 
+h)</num>
+                        <corpo> certificato societario - fallimentare del Tribunale;</corpo>
+                    </el>
+                    <el id="art9-com1-leti">
+                        <num> 
+ 
+i)</num>
+                        <corpo> certificato dei carichi pendenti rilasciato dalla Procura della Repubblica;</corpo>
+                    </el>
+                    <el id="art9-com1-letl">
+                        <num> 
+ 
+l)</num>
+                        <corpo> computo metrico analitico giurato dalle opere realizzate a cura del direttore dei lavori. </corpo>
+                    </el>
+                </comma>
+                <comma id="art9-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Qualora dalla predetta documentazione venga rilevata una diminuzione della spesa riconosciuta ammissibile in fase istruttoria, si provvederà contestualmente alla proporzionale riduzione dei finanziamenti. </corpo>
+                </comma>
+                <comma id="art9-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Possono essere corrisposti in corso d'opera acconti fino ad un massimo del 70% del contributo concesso previa presentazione dei documenti di cui alle lettere b), f), g), h), i), l) del presente articolo. </corpo>
+                </comma>
+                <comma id="art9-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Il contributo concesso non potrà subire aumenti di costi di qualsiasi tipo e per qualsiasi motivo. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10</num>
+                <rubrica>: VINCOLO DI DESTINAZIONE 
+ </rubrica>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+                    <corpo> Le strutture, le attrezzature, gli impianti e gli arredi realizzati con i finanziamenti previsti dalla presente legge sono vincolati alla specifica destinazione per un periodo di dieci anni a partire dalla data di erogazione del contributo. </corpo>
+                </comma>
+                <comma id="art10-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Per i beni immobili il vincolo è reso pubblico mediante trascrizione presso la competente conservatoria dei registri immobiliari. </corpo>
+                </comma>
+                <comma id="art10-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Per i beni mobili di cui alle lettere g) ed h) dell'<rif xlink:href="#art3">articolo 3</rif> i beneficiari si obbligano, con atto soggetto a registrazione, a mantenere la continuità della destinazione. Gli stabilimenti balneari, per la natura stessa della concessione demaniale cui sono subordinati, vengono considerati, agli effetti del presente articolo, come beni mobili, e pertanto soggetti ad atto di registrazione. </corpo>
+                </comma>
+                <comma id="art10-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Le spese di registrazione sono a carico dei beneficiari. </corpo>
+                </comma>
+                <comma id="art10-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> L'eventuale cancellazione anticipata del vincolo è autorizzata dalla Giunta regionale quando sia dimostrata l'impossibilità o la non economicità della destinazione delle opere e comporta l'obbligo della preventiva restituzione del contributo erogato, maggiorato di un interesse pari al tasso ufficiale di sconto valutato al momento della restituzione e conteggiato a partire dalla data di concessione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11</num>
+                <rubrica>: INTERVENTI PER IL SUPERAMENTO DELLE BARRIERE ARCHITETTONICHE PER ADEGUAMENTI IGIENICO SANITARI E PER I SERVIZI TECNOLOGICI 
+ </rubrica>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Negli edifici e negli impianti esistenti delle aziende organizzate per l'esercizio delle attività ricettive e degli altri servizi di cui al <rif
+                            xlink:href="#art3-com1">comma 1 dell'articolo 3</rif> devono essere effettuati gli interventi per il superamento delle barriere architettoniche, ai sensi della <rif xlink:href="urn:nir:stato:legge:1989-01-09;13">legge n. 13 del 9 gennaio 1989</rif> e successive modificazioni. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12</num>
+                <rubrica>: OBBLIGHI DEI BENEFICIARI 
+ </rubrica>
+                <comma id="art12-com1">
+                    <num>
+1.</num>
+                    <corpo> I soggetti che facciano domanda per ottenere o abbiano ottenuto la concessione dei finanziamenti previsti dalla presente legge hanno l'obbligo, su richiesta dei competenti Uffici regionali, entro il termine indicato nella richiesta, di fornire tutti i dati, le informazioni e i documenti che la Regione ritenga utili in ordine all'erogazione dei finanziamenti richiesti compresi quelli concernenti la situazione patrimoniale, fiscale, di bilancio e di gestione del personale dipendente. </corpo>
+                </comma>
+                <comma id="art12-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> La mancata ottemperanza agli obblighi di cui al <rif xlink:href="#art12-com1">comma 1</rif> comporta l'esclusione o la decadenza delle provvidenze. </corpo>
+                </comma>
+                <comma id="art12-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La Giunta regionale può disporre accertamenti ed ispezioni anche a campione, al fine di verificare il rispetto della presente legge, tramite la struttura tecnica del Settore Lavori Pubblici. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13</num>
+                <rubrica>: REVOCA 
+ </rubrica>
+                <comma id="art13-com1">
+                    <num>
+1.</num>
+                    <corpo> Ferme restanti le ipotesi di decadenza precedentemente contemplate, la Giunta regionale delibera la revoca dei finanziamenti concessi qualora non vengano rispettate le prescrizioni contenute nella presente legge e nell'atto di concessione dei finanziamenti stessi. </corpo>
+                </comma>
+                <comma id="art13-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Il provvedimento di revoca del contributo comporta il recupero delle somme erogate con le maggiorazioni previste dal <rif xlink:href="#art10-com5">comma 5 dell'articolo 10</rif>. 
+ 
+Titolo II: INCENTIVAZIONE DEL TURISMO RURALE 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14</num>
+                <rubrica>: DEFINIZIONE DI TURISMO RURALE 
+ </rubrica>
+                <comma id="art14-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Per Turismo rurale si intende l'attività di ospitalità e di ristorazione esercitata negli ambiti territoriali individuati ai sensi del <rif xlink:href="#art16">successivo art. 16</rif>, svolta in edifici già esistenti, con caratteristiche proprie dell'edilizia tradizionale della zona, ed ubicati all'esterno del territorio urbanizzato, così come delimitato dagli strumenti urbanistici comunali. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>Art. 15</num>
+                <rubrica>: ATTIVITÀ DI TURISMO RURALE 
+ </rubrica>
+                <comma id="art15-com1">
+                    <num>
+1.</num>
+                    <alinea> L'attività di Turismo rurale deve essere esercitata nel rispetto delle seguenti condizioni e tipologie: 
+ 
+</alinea>
+                    <el id="art15-com1-leta">
+                        <num>a)</num>
+                        <corpo> offerta di ricettività in esercizi alberghieri ed extralberghieri limitata a 15 camere per ogni singola unità di ospitalità;</corpo>
+                    </el>
+                    <el id="art15-com1-letb">
+                        <num> 
+ 
+b)</num>
+
+                        <corpo> offerta di ristorazione limitata a 60 coperti per ogni singola unità individuata dall'<rif xlink:href="urn:nir:stato:legge:1991-08-25;287#art5">art. 5, lettera a), della legge 25 agosto 1991, n. 287</rif>, basata su un'offerta gastronomica tipica della zona in cui l'edificio è ubicato, preparata con l'utilizzazione di materie prime provenienti, in prevalenza, da aziende agricole locali. Limitatamente alle zone di confine con altre Regioni può essere ammessa l'offerta di pasti e bevande aventi caratteristiche interregionali;</corpo>
+                    </el>
+                    <el id="art15-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> offerta di servizi di organizzazione e di supporto ad attività all'aria aperta e per tempo libero. </corpo>
+                    </el>
+                </comma>
+                <comma id="art15-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Gli esercizi di cui al comma precedente dovranno avere dotazione di arredi e servizi consoni alle tradizioni locali e, in particolare, alla cultura rurale della zona. </corpo>
+                </comma>
+                <comma id="art15-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Gli esercizi indicati alla <rif xlink:href="#art15-com1-leta">lettera a) del comma 1</rif> assumono la denominazione di &lt;&lt;DIMORA RURALE&gt;&gt;. </corpo>
+                </comma>
+                <comma id="art15-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Sono altresì compresi nelle attività di Turismo rurale servizi per il tempo libero, finalizzati alla corretta fruizione dei beni naturalistici, ambientali e culturali del territorio, e per l'esercizio di pratiche sportive e del tempo libero individuali e collettive. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>Art. 16</num>
+                <rubrica>: AMBITI TERRITORIALI 
+ </rubrica>
+                <comma id="art16-com1">
+                    <num>
+1.</num>
+                    <alinea> L'esercizio del turismo rurale è consentito esclusivamente nei seguenti ambiti territoriali: 
+ 
+</alinea>
+                    <el id="art16-com1-leta">
+                        <num>a)</num>
+
+                        <corpo> nelle aree montane a bassa densità abitativa e comunque in borghi ed aggregati urbani con caratteristiche storiche e antropiche rurali, così come individuate nel piano di sviluppo del turismo rurale di cui all'<rif xlink:href="#art24">art. 24</rif> della presente legge;</corpo>
+                    </el>
+                    <el id="art16-com1-letb">
+                        <num> 
+ 
+b)</num>
+
+                        <corpo> nelle aree interne e contigue ai Parchi e alle riserve, istituiti con leggi regionali o nazionali ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1991-12-08;394#art32">art. 32 della legge 8 dicembre 1991, n. 394</rif>. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>Art. 17</num>
+                <rubrica>: OPERATORI DEL TURISMO RURALE 
+ </rubrica>
+                <comma id="art17-com1">
+                    <num>
+1.</num>
+                    <alinea> Sono ammessi a svolgere attività di Turismo rurale i seguenti operatori: 
+ 
+</alinea>
+                    <el id="art17-com1-leta">
+                        <num>a)</num>
+                        <corpo> gestori di strutture ricettive alberghiere, extralberghiere e di ristorazione, singoli o associati, regolarmente autorizzati all'esercizio dell'attività ai sensi delle vigenti leggi nazionali e regionali ed iscritti agli appositi registri delle Camere di Commercio;</corpo>
+                    </el>
+                    <el id="art17-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> gestori di servizi di organizzazione e supporto alle attività all'aria aperta e per il tempo libero, regolarmente iscritti negli appositi albi professionali e negli specifici registri delle Camere di Commercio. </corpo>
+                    </el>
+                </comma>
+                <comma id="art17-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> I soggetti di cui alle lettere precedenti devono essere residenti in un Comune del Molise da almeno 12 mesi, a far data dalle richieste inoltrate, a qualsiasi titolo, relative all'accesso ai benefici di cui alla presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>Art. 18</num>
+                <rubrica>: ELENCO DEGLI OPERATORI DEL TURISMO RURALE 
+ </rubrica>
+                <comma id="art18-com1">
+                    <num>
+1.</num>
+                    <alinea> È istituito &lt;&lt;l'Elenco regionale degli operatori del Turismo rurale&gt;&gt;, suddiviso nelle seguenti sezioni: 
+ 
+</alinea>
+                    <el id="art18-com1-leta">
+                        <num>a)</num>
+                        <corpo> esercizi alberghieri ed extralberghieri denominati &lt;&lt;DIMORA RURALE&gt;&gt;;</corpo>
+                    </el>
+                    <el id="art18-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> esercizi di ristorazione;</corpo>
+                    </el>
+                    <el id="art18-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> esercizi di gestione di servizi a supporto delle attività del tempo libero e all'aria aperta. </corpo>
+                    </el>
+                </comma>
+                <comma id="art18-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> L'elenco è suddiviso in sezioni provinciali ed è tenuto dalle competenti Amministrazioni provinciali. </corpo>
+                </comma>
+                <comma id="art18-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> All'elenco possono essere iscritti i soggetti gestori di strutture aventi i requisiti di cui ai precedenti articoli. </corpo>
+                </comma>
+                <comma id="art18-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> La domanda di iscrizione all'elenco è presentata, in duplice copia, all'Amministrazione provinciale competente per territorio. </corpo>
+                </comma>
+                <comma id="art18-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> L'Amministrazione provinciale accerta ai fini dell'iscrizione il possesso dei requisiti richiesti. </corpo>
+                </comma>
+                <comma id="art18-com6">
+                    <num>
+ 
+6.</num>
+
+                    <corpo> Entro 60 giorni dalla presentazione della domanda, l'Amministrazione provinciale dispone gli accertamenti di cui al <rif xlink:href="#art18-com5">comma 5</rif> e decide sull'iscrizione. Qualora i 60 giorni trascorrano senza che sia adottato dall'Amministrazione provinciale nessun provvedimento la domanda si ritiene accolta. </corpo>
+                </comma>
+                <comma id="art18-com7">
+                    <num>
+ 
+7.</num>
+
+                    <corpo> Il provvedimento che accoglie o respinge la domande è comunicato, entro 5 giorni dall'adozione, agli interessati. 
+ 
+Ove la domanda debba ritenersi accolta per la decorrenza dei termini di cui al <rif
+                            xlink:href="#art18-com6">comma 6</rif>, gli interessati possono richiedere all'Amministrazione provinciale, che la rilascia entro 10 giorni dalla richiesta, espressa dichiarazione al riguardo; in suo difetto tiene luogo del provvedimento di iscrizione la copia della domanda contenente l'indicazione della data di ricevimento da parte dell'Amministrazione di cui al <rif xlink:href="#art18-com4">comma 4</rif>. </corpo>
+                </comma>
+                <comma id="art18-com8">
+                    <num>
+ 
+8.</num>
+                    <corpo> Ogni tre mesi le Province provvedono ad inoltrare ai Comuni competenti per territorio copia degli elenchi degli esercizi nell'elenco regionale. </corpo>
+                </comma>
+                <comma id="art18-com9">
+                    <num>
+ 
+9.</num>
+                    <corpo> Le Province, entro il 31 gennaio di ogni anno, provvedono a trasmettere alla Regione copia degli elenchi provinciali degli operatori del Turismo rurale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art19">
+                <num>Art. 19</num>
+                <rubrica>: VERIFICHE, SOSPENSIONE E REVOCA DELL'ISCRIZIONE 
+ </rubrica>
+                <comma id="art19-com1">
+                    <num>
+1.</num>
+                    <corpo> L'Amministrazione provinciale effettua almeno ogni due anni verifiche sul mantenimento dei requisiti richiesti dalla presente legge per l'iscrizione all'Elenco regionale degli operatori del Turismo rurale. </corpo>
+                </comma>
+                <comma id="art19-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La perdita dei requisiti è contestata per iscritto agli interessati, che possono rispondere e controdedurre entro 30 giorni dalla data di comunicazione. </corpo>
+                </comma>
+                <comma id="art19-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> L'accertata perdita dei requisiti di legge comporta la cancellazione dall'elenco regionale. </corpo>
+                </comma>
+                <comma id="art19-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> La cancellazione dall'elenco, sopravvenuta entro cinque anni dalla concessione dai finanziamenti previsti dalla presente legge, comporta la revoca dei contributi e la restituzione degli stessi, con le modalità di cui all'<rif xlink:href="#art13">articolo 13</rif> della presente legge. </corpo>
+                </comma>
+                <comma id="art19-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> In caso di trasferimento della gestione o della titolarità di un esercizio iscritto nell'elenco regionale, il subentrante è tenuto a ripresentare alla Provincia competente per territorio la documentazione richiesta per la nuova iscrizione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art20">
+                <num>Art. 20</num>
+                <rubrica>: COMPETENZE DEI COMUNI 
+ </rubrica>
+                <comma id="art20-com1">
+                    <num>
+1.</num>
+                    <corpo> Restano in vigore tutte le competenze affidate ai Comuni e previste dalle vigenti leggi nazionali e regionali in materia di esercizi alberghieri, extralberghieri e di pubblici esercizi. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art21">
+                <num>Art. 21</num>
+                <rubrica>: OBBLIGHI AMMINISTRATIVI 
+ </rubrica>
+                <comma id="art21-com1">
+                    <num>
+1.</num>
+                    <alinea> Gli operatori autorizzati allo svolgimento dell'attività del Turismo rurale hanno i seguenti obblighi: 
+ 
+</alinea>
+                    <el id="art21-com1-leta">
+                        <num>a)</num>
+                        <corpo> esporre al pubblico il documento comprovante l'iscrizione nell'elenco regionale degli operatori del Turismo rurale;</corpo>
+                    </el>
+                    <el id="art21-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> rispettare i limiti e le modalità indicate nella autorizzazione medesima;</corpo>
+                    </el>
+                    <el id="art21-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> rispettare le norme vigenti in materia di attività alberghiera, extralberghiera e di pubblico esercizio dettate dalla legislazione nazionale e regionale;</corpo>
+                    </el>
+                    <el id="art21-com1-letd">
+                        <num> 
+ 
+d)</num>
+
+                        <corpo> affiggere il simbolo regionale di cui al <rif
+                                xlink:href="#art22">successivo articolo 22</rif>, ed adottare la denominazione di &lt;&lt;DIMORA RURALE&gt;&gt; ai sensi del <rif xlink:href="#art15-com3">comma 3 dell'art. 15</rif>. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art22">
+                <num>Art. 22</num>
+                <rubrica>: SIMBOLO DEL TURISMO RURALE 
+ </rubrica>
+                <comma id="art22-com1">
+                    <num>
+1.</num>
+                    <corpo> Con atto successivo, la Giunta adotterà il simbolo di contrassegno degli esercizi iscritti all'elenco regionale degli operatori del Turismo rurale. </corpo>
+                </comma>
+                <comma id="art22-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> L'utilizzo del simbolo è riservato agli esercizi regolarmente autorizzati ed iscritti all'elenco regionale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art23">
+                <num>Art. 23</num>
+                <rubrica>: CONTRIBUTI FINANZIARI 
+ </rubrica>
+                <comma id="art23-com1">
+                    <num>
+1.</num>
+
+                    <corpo> A favore degli imprenditori iscritti nell'elenco regionale degli operatori del Turismo rurale è prevista la concessione di contributi finanziari ai sensi dell'<rif xlink:href="#art4-com2">art. 4, comma 2</rif>, della presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art24">
+                <num>Art. 24</num>
+                <rubrica>: COMPETENZE DELLA REGIONE 
+ </rubrica>
+                <comma id="art24-com1">
+                    <num>
+1.</num>
+                    <alinea> Ai fini dell'attuazione della presente legge, alla Regione sono attribuiti i seguenti compiti: 
+ 
+</alinea>
+                    <el id="art24-com1-leta">
+                        <num>a)</num>
+                        <corpo> catalogazione delle tipologie architettoniche rurali ed individuazione delle aree a vocazione di turismo rurale;</corpo>
+                    </el>
+                    <el id="art24-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> emanazione dei regolamenti attuativi e direttive tecniche per l'attuazione della legge;</corpo>
+                    </el>
+                    <el id="art24-com1-letc">
+                        <num> 
+ 
+c)</num>
+
+                        <corpo> istituzione del &lt;&lt;Marchio di qualità&gt;&gt; regionale di cui al <rif xlink:href="#art25">successivo art. 25</rif>. </corpo>
+                    </el>
+                </comma>
+                <comma id="art24-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La Regione provvede altresì, con periodicità triennale, alla redazione di un piano organico di sviluppo del turismo e, in particolare, di turismo rurale, cui farà riferimento per la valutazione dell'ammissibilità delle iniziative di turismo rurale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art25">
+                <num>Art. 25</num>
+                <rubrica>: ISTITUZIONE DEL MARCHIO DI QUALITÀ PER LE AZIENDE DEL TURISMO RURALE 
+ </rubrica>
+                <comma id="art25-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione istituisce un &lt;&lt;Marchio di qualità&gt;&gt; per le aziende del Turismo rurale. </corpo>
+                </comma>
+                <comma id="art25-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Entro un anno dall'entrata in vigore della presente legge, la Giunta regionale approva il regolamento per l'assegnazione del Marchio di qualità. Il Regolamento deve contenere le norme, i parametri di valutazione delle caratteristiche degli esercizi e le procedure per l'attivazione, la verifica, il mantenimento e la revoca del Marchio stesso. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art26">
+                <num>Art. 26</num>
+                <rubrica>: RISTRUTTURAZIONE DEGLI EDIFICI DESTINATI ALL'ESERCIZIO DEL TURISMO RURALE 
+ </rubrica>
+                <comma id="art26-com1">
+                    <num>
+1.</num>
+                    <corpo> Per la realizzazione delle strutture ricettive e dei relativi servizi ed accessori di cui alla presente legge sono utilizzabili gli edifici, o parte di essi, esistenti in zona agricola. </corpo>
+                </comma>
+                <comma id="art26-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Per la realizzazione delle strutture ricettive possono essere effettuate esclusivamente gli interventi di manutenzione ordinaria e straordinaria, di restauro di risanamento conservativo e di ristrutturazione edilizia per il recupero del patrimonio edilizio esistente. Tali interventi sono finalizzati, oltre che al recupero igienico e funzionale dell'edificio, alla rigorosa salvaguardia degli elementi tipologici, formali e strutturali di pregio presenti nell'organismo edilizio stesso. Modesti ampliamenti sono ammessi quando siano indispensabili ad assicurare l'efficienza dell'edificio sotto il profilo tecnico - funzionale, nel rispetto ed in quanto coerenti con la preesistenza. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art27">
+                <num>Art. 27</num>
+                <rubrica>: FORMAZIONE PROFESSIONALE 
+ </rubrica>
+                <comma id="art27-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione promuove e coordina corsi di aggiornamento per tecnici e personale degli Enti delegati, preposti all'espletamento di funzioni in materia di Turismo rurale. </corpo>
+                </comma>
+                <comma id="art27-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La Regione promuove iniziative di formazione professionale finalizzate al Turismo rurale anche attraverso convenzioni con istituti tecnici e professionali per l'agricoltura ed istituti alberghieri. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art28">
+                <num>Art. 28</num>
+                <rubrica>: OBBLIGHI FISCALI E TRIBUTARI 
+ </rubrica>
+                <comma id="art28-com1">
+                    <num>
+1.</num>
+                    <corpo> L'attività di Turismo rurale è soggetta al pagamento delle tasse dovute e prescritte dalle vigenti leggi nazionali e regionali in materia di ricettività e di esercizi pubblici. 
+ 
+Titolo III: NORME TRANSITORIE E FINALI 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art29">
+                <num>Art. 29 </num>
+                <comma id="art29-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art29-com1-mod1"> La <rif xlink:href="urn:nir:regione.molise:legge:1977-09-02;31">legge regionale 2 settembre 1977, n. 31</rif>, e le successive leggi di modifica e di integrazione sono abrogate. </mod>
+                    </corpo>
+                </comma>
+                <comma id="art29-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>
+                        <mod
+                                id="art29-com2-mod2"> Le domande, già presentate ai sensi delle leggi abrogate dal <rif
+                                xlink:href="#art29-com1">comma 1</rif>, restano valide ed i relativi contributi vengono concessi secondo le disposizioni di cui alla presente legge. Se i richiedenti sono stati inseriti nei piani di ripartizione dei fondi e non hanno ancora ottenuto la ripartizione del saldo finale, i termini di cui all'<rif xlink:href="#art7-com2">art. 7, comma 2</rif>, decorrono dalla data di entrata in vigore della presente legge. 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art30">
+                <num>Art. 30</num>
+                <rubrica>: COPERTURA FINANZIARIA 
+ </rubrica>
+                <comma id="art30-com1">
+                    <num>
+1.</num>
+                    <corpo> Agli oneri derivanti dall'attuazione della presente legge, si provvede con i fondi previsti nel bilancio 1995. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge &#xE8; dichiarata urgente ai sensi dell'art. 127 della Costituzione e dall'art. 38 dello Statuto ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise. 
+ 
+ &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

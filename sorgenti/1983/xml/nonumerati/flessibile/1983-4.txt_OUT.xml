@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19831116" num="22" tipo="BURM"/>
+                <entratainvigore norm="19831201"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1983-11-03;19"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 22 del 16/11/83 
+ 
+Oggetto 
+Regione - Personale - Trattamento economico - Acconto - Determinazione e liquidazione 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato uno 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19831103">3 Novembre 1983</dataDoc>, n. <numDoc>19</numDoc>
+            <titoloDoc>Determinazione e liquidazione dell'acconto sul trattamento economico derivante dall'applicazione della disciplina contenuta nell'accordo relativo ai dipendenti delle Regioni e degli Enti pubblici non economici da esse dipendenti per i quali già si applicano le normative regionali in vigore 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato uno</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

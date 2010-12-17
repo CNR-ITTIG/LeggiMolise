@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19960316" num="5" tipo="BURM"/>
+                <entratainvigore norm="19960331"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1996-03-13;18"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 05 del 16/03/96 
+ 
+Oggetto 
+Nomine e designazioni di competenza regionale - Criteri temporali Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19960313">13 Marzo 1996</dataDoc>, n. <numDoc>18</numDoc>
+            <titoloDoc>Norme modificative della <rif xlink:href="urn:nir:regione.molise:legge:1993-04-22;11">legge regionale 22 aprile 1993, n.11</rif>, e sue modificazioni. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art1-com1-mod1">
+1. Al <rif
+                                xlink:href="urn:nir:regione.molise:legge:1993-04-22;11#art8-com1">comma 1 dell'art. 8 della legge regionale n. 11 del 22 aprile 1993</rif> come modificato dal <rif
+                                xlink:href="urn:nir:regione.molise:legge:1993-12-10;24#art2-com1">1° comma dell'art. 2 della legge regionale n. 24 del 10 dicembre 1993</rif> sono soppresse le parole &lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir1">al 1° mese dell'anno</virgolette>&gt;&gt; e sostituite dalle seguenti &lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir2">al 5° mese dell'anno</virgolette>&gt;&gt;. 
+ 
+2. Al <rif
+                                xlink:href="urn:nir:regione.molise:legge:1993-04-22;11#art8-com6">comma 6 dell'art. 8 della legge regionale n. 11 del 22 aprile 1993</rif> come modificato dall'<rif xlink:href="urn:nir:regione.molise:legge:1993-12-10;24#art2">art. 2 della legge regionale n. 24 del 10 dicembre 1993</rif> sono soppresse le parole &lt;&lt;alla fine del 1° mese dell'anno successivo alla scadenza della legislatura&gt;&gt; e sono sostituite dalle seguenti &lt;&lt;alla fine del 5° mese dell'anno successivo alla scadenza della legislatura&gt;&gt;.</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+1. La presente legge è dichiarata urgente ai sensi del <rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">2 comma dell'art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello statuto regionale</rif>, ed entra in vigore il giorno stesso della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error 2. &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20051216" num="39" tipo="BURM"/>
+                <entratainvigore norm="20051231"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2005-12-06;49"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 27.Procedimento amministrativo, semplificazione amministrativa, semplificazione del sistema normativo 
+21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 39 del 16 dicembre 2005 
+ 
+Oggetto 
+Notifica alla Commisione dell'Unione Europea delle proposte di legge regionale che istituiscono o modificano regimi di aiuto - Procedura. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20051206">6 dicembre 2005</dataDoc>, n. <numDoc>49</numDoc>. 
+ 
+<titoloDoc>Disposizioni sulla notifica delle proposte di legge regionale alla Commissione dell'Unione europea ai sensi dell'articolo 88 del Trattato istitutivo. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+(Procedura di notifica alla Commissione dell'Unione europea ai sensi dell'articolo 88, paragrafo 3, del Trattato) 
+ 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>1. Le proposte di legge regionale che istituiscono o modificano regimi di aiuto sono notificate alla Commissione dell'Unione europea, ai sensi dell'articolo 88, paragrafo 3, del Trattato, dal Presidente della Giunta regionale. 
+ 
+2. Le commissioni consiliari, ai fini dell'esame preliminare delle proposte di legge che istituiscono o modificano regimi di aiuto, si avvalgono della collaborazione delle direzioni generali regionali competenti per materia. 
+ 
+3. Le proposte di legge, non appena se ne è formato il testo che la competente commissione consiliare ritiene di dover sottoporre all'approvazione dell'Assemblea, sono trasmesse dal Presidente della stessa commissione al Presidente della Giunta, il quale, previa istruttoria a cura della direzione generale competente per materia, provvede all'adempimento della notifica. 
+ 
+4. Il Presidente della Giunta regionale provvede altresì, con le stesse modalità di cui al comma 3, a comunicare alla Commissione dell'Unione europea le modifiche che dovessero essere apportate al testo delle proposte già notificate.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+(Efficacia delle disposizioni di legge regionale che istituiscono o modificano regimi di aiuto) 
+ 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>1. Le disposizioni di legge regionale che istituiscono o modificano regimi di aiuto sono applicabili a decorrere dal giorno successivo alla pubblicazione nel Bollettino Ufficiale della Regione della comunicazione, da parte del Presidente della Giunta regionale, concernente l'intervenuto parere favorevole della Commissione dell'Unione europea. 
+ 
+2. La comunicazione di cui al <rif xlink:href="#art2-com1">comma 1</rif> è effettuata in sede di pubblicazione della legge se l'esito positivo della procedura di notifica si è verificato prima della promulgazione della legge stessa. 
+ 
+3. Le leggi approvate dal Consiglio regionale prima che sia concluso l'esame di compatibilità da parte della Commissione dell'Unione europea devono contenere la clausola di sospensione dell'efficacia delle disposizioni che istituiscono o modificano regimi di aiuto sino alla pubblicazione nel Bollettino Ufficiale della Regione della comunicazione di esito favorevole.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+(Entrata in vigore) 
+ 
+</rubrica>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>1. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione MOLISE. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

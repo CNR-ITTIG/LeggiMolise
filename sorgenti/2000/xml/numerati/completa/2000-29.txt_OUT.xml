@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20000401" num="7" tipo="BURM"/>
+                <entratainvigore norm="20000416"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-03-24;20"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+ 
+Bollettino 
+Bollettino Ufficiale n. 07 del 1 aprile 2000 
+ 
+Oggetto 
+Diritto allo studio - Interventi a favore degli studenti affetti da patologie immunodeficitarie. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20000324">24 marzo 2000</dataDoc>, n. <numDoc>20</numDoc>. 
+ 
+<titoloDoc>Interventi a favore degli studenti affetti da patologie che non consentono la frequenza dei corsi di studio. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art.1 </num>
+                <rubrica>
+ 
+(Finalità)  
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione, al fine di concorrere a rendere effettivo* il diritto allo studio in ogni ordine e grado dell'istruzione, adotta interventi a favore di studenti affetti da patologie immunodeficitarie che non consentono la normale frequenza dei corsi di studio e l'inserimento nelle strutture scolastiche della scuola dell'obbligo. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art.2 </num>
+                <rubrica>
+ 
+(Interventi) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Gli interventi consistono nell'erogazione di contributi alle scuole presso le quali sono iscritti gli studenti che presentano le patologie di cui all'<rif xlink:href="#art1">articolo 1</rif>. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> I contributi di cui al <rif xlink:href="#art2-com1">comma 1</rif> sono distintamente quantificati dalla Giunta regionale in misura idonea a coprire le spese sostenute dalla locale Istituzione scolastica per l'erogazione a domicilio del servizio di istruzione secondo i programmi adottati. </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Le Istituzioni scolastiche interessate fanno domanda all'Assessorato regionale all'Istruzione, il quale provvede, entro trenta giorni, agli adempimenti istruttori compresi i necessari accertamenti in ordine all'effettiva necessità del beneficio da parte dello studente. </corpo>
+                </comma>
+                <comma id="art2-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Le modalità di dettaglio per l'espletamento dell'istruttoria sono stabilite con proprio atto dalla Giunta regionale entro trenta giorni dall'entrata in vigore della presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art.3 </num>
+                <rubrica>
+ 
+(Disposizioni finanziarie) 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> Agli oneri derivanti dall'attuazione della presente legge per l'esercizio finanziario 2000 si provvederà mediante istituzione di appositi capitoli di spesa con legge approvativa o di variazione di bilancio. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Per gli esercizi finanziari successivi si provvederà con le rispettive leggi approvative di bilancio. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

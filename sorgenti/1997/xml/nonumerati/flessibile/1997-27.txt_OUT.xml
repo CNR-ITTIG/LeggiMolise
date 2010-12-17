@@ -1,0 +1,1848 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19970416" num="8" tipo="BURM"/>
+                <entratainvigore norm="19970501"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1997-04-08;7"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 08 del 16/04/1997 
+ 
+Oggetto 
+Amministrazione regionale - Principi - Disposizioni 
+ 
+Abrogazioni 
+Abrogato art.  dalla legge n. / art.  
+Abrogato art. 24 dalla legge n. 6/2002 art. 18 
+Abrogato art. 31 dalla legge n. 6/2002 art. 18 
+Abrogato art. tabella B dalla legge n. 6/2002 art. 18 
+ 
+Modifiche 
+Modificato art. 7-bis dalla legge n. 6/2002 art. 1 
+Modificato art. 9 dalla legge n. 6/2002 art. 2 
+Modificato art. 10 dalla legge n. 6/2002 art. 3 
+Modificato art. 13 dalla legge n. 12/2008 art. 18 
+Modificato art. 14 dalla legge n. 6/2002 art. 5 
+Modificato art. 14 dalla legge n. 19/2002 art. 1 
+Modificato art. 18 dalla legge n. 6/2002 art. 6 
+Modificato art. 18 dalla legge n. 19/2002 art. 2 
+Modificato art. 18, comma 4, lettera b) dalla legge n. 4/2002 art. 43 
+Modificato art. 18, comma 5 dalla legge n. 6/2002 art. 6 
+Modificato art. 18, comma 5 dalla legge n. 19/2002 art. 2 
+Modificato art. 20 dalla legge n. 12/2008 art. 17 
+Modificato art. 21 dalla legge n. 6/2002 art. 7 
+Modificato art. 22 dalla legge n. 6/2002 art. 8 
+Modificato art. 25, comma 2 dalla legge n. 6/2002 art. 18, comma 1 
+Modificato art. 25 interamente sostituito dalla legge n. 15/2005 art. 1 
+Modificato art. 26 dalla legge n. 6/2002 art. 9 
+Modificato art. 29 dalla legge n. 6/2002 art. 10 
+Modificato art. 29-bis dalla legge n. 6/2002 art. 11 
+Modificato art. 29-bis dalla legge n. 30/2005 art. 1 
+Modificato art. 29-bis dalla legge n. 30/2005 art. 2 
+Modificato art. 29-bis dalla legge n. 33/2006 art. 1 
+Modificato art. 29-bis dalla legge n. 33/2006 art. 2 
+Modificato art. 29-bis dalla legge n. 1/2009 art. 3 
+Modificato art. 32 dalla legge n. 6/2002 art. 12 
+Modificato art. 32 dalla legge n. 19/2002 art. 3 
+Modificato art. 33-bis dalla legge n. 6/2002 art. 13 
+Modificato art. 33-bis dalla legge n. 24/2007 art. 7 
+Modificato art. 36 dalla legge n. 19/2002 art. 4 
+Modificato art. 47, comma 2, lettera n) dalla legge n. 28/1999 art. 1 
+Modificato art. tabella A dalla legge n. 6/2002 art. 14 
+Modificato art. tabella A dalla legge n. 19/2002 art. 5 
+Modificato art. tabella A dalla legge n. 12/2008 art. 17 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19970408">8 Aprile 1997</dataDoc>, n. <numDoc>7</numDoc>
+
+            <titoloDoc>Norme sulla riorganizzazione dell'ammistrazione regionale secondo i principi stabiliti dal <rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29">decreto legislativo 3 febbraio 1993, n.29</rif> 
+ 
+TITOLO I: PRINCIPI GENERALI 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: FINALITÀ 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <alinea> 
+1. La presente legge adegua l'ordinamento dell'amministrazione della Regione Molise ai principi espressi nel <rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29">decreto legislativo 3 febbraio 1993, n. 29</rif> e sue successive modificazioni, recante la razionalizzazione dell'organizzazione delle amministrazioni pubbliche e la revisione della disciplina in materia di pubblico impiego. Essa persegue i fini di:  
+ 
+</alinea>
+                    <el id="art1-com1-leta">
+                        <num>a)</num>
+                        <corpo> attivare un processo di accrescimento dell'efficienza del sistema organizzativo regionale;</corpo>
+                    </el>
+                    <el id="art1-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> stabilire le condizioni per l'economicità, la speditezza e l'incisività di intervento dell'azione amministrativa;</corpo>
+                    </el>
+                    <el id="art1-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> razionalizzare la spesa per il personale ed il funzionamento dell'amministrazione;</corpo>
+                    </el>
+                    <el id="art1-com1-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo> promuovere una cultura del servizio fondata sull'autonomia responsabile dei pubblici dipendenti e sulla preminenza dei diritti e delle esigenze dei cittadini;</corpo>
+                    </el>
+                    <el id="art1-com1-lete">
+                        <num>  
+ 
+e)</num>
+                        <corpo> integrare la disciplina del pubblico impiego con quella del lavoro privato;</corpo>
+                    </el>
+                    <el id="art1-com1-letf">
+                        <num> 
+ 
+f)</num>
+
+                        <corpo> favorire - anche tramite la presenza dell'amministrazione sul territorio delle province e nel rispetto della <rif
+                                xlink:href="urn:nir:stato:legge:1994-01-31;97">legge 31 gennaio 1994 n. 97</rif> - la maggiore rispondenza dell'azione amministrativa e della programmazione regionale alle istanze ed alle potenzialità locali.  
+ 
+2. Il perseguimento dei fini di cui al <rif xlink:href="#art1-com1">comma 1</rif> dovrà necessariamente integrarsi con un organico ed esaustivo programma concernente la delega e l'attribuzione delle funzioni amministrative regionali alle Province, ai Comuni ed agli altri Enti Locali. Alla definizione di tale programma la Regione provvederà con legge entro 12 mesi dall'entrata in vigore della presente legge.</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+                <rubrica>: FONTI 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo> 
+1. L'organizzazione degli uffici della Regione Molise è disciplinata da disposizioni di legge e di regolamento nonché, sulla base delle medesime, da atti di organizzazione.  
+ 
+2. Il rapporto di lavoro dei dipendenti è disciplinato secondo le disposizioni dell'<rif
+                            xlink:href="#art2">art. 2</rif>, commi 2, 2 bis e 3 del <rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29">decreto legislativo 3 febbraio 1993, n.29</rif> nonché dei contratti collettivi nazionali di lavoro stipulati ai sensi del titolo III dello stesso decreto legislativo. 
+ 
+3. Per quanto non previsto o specificato dalla presente legge valgono le disposizioni del <rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29">decreto legislativo 3 febbraio 1993, n. 29</rif> e successive modificazioni purché suscettibili di diretta applicazione.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3</num>
+                <rubrica>: PRINCIPI DI ORGANIZZAZIONE 
+</rubrica>
+                <comma id="art3-com1">
+                    <num/>
+                    <alinea> 
+1. L'organizzazione dell'amministrazione regionale si conforma ai criteri:  
+ 
+</alinea>
+                    <el id="art3-com1-leta">
+                        <num>a)</num>
+                        <corpo> della programmazione dell'attività;</corpo>
+                    </el>
+                    <el id="art3-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> della flessibilità, anche nella gestione delle risorse umane;</corpo>
+                    </el>
+                    <el id="art3-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> del controllo dei risultati;</corpo>
+                    </el>
+                    <el id="art3-com1-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo> della separazione di funzioni e responsabilità tra organi istituzionali e dirigenza.  
+ 
+2. Le norme e gli atti di organizzazione devono garantire la parità e la pari opportunità tra uomini e donne per l'accesso al lavoro e per il trattamento sul lavoro, nonché l'applicazione prioritaria, nelle forme possibili e compatibili, dell'impiego flessibile a favore dei dipendenti in situazione di svantaggio e di quelli impegnati in attività di volontariato, nel rispetto delle norme statali e regionali.  
+ 
+3. Gli organi di direzione politica definiscono gli obiettivi ed i programmi da attuare e verificano la rispondenza dei risultati della gestione amministrativa alle direttive generali impartite.  
+ 
+4. Ai dirigenti, nei limiti dell'incarico loro conferito, spetta la gestione finanziaria, tecnica e amministrativa, compresa l'adozione degli atti che impegnano l'amministrazione verso l'esterno, mediante autonomi poteri di spesa, di organizzazione delle risorse umane, strumentali e di controllo. Essi sono responsabili della gestione e dei risultati e sono tenuti a garantire l'imparzialità e il buon andamento dell'amministrazione nonché l'osservanza dei canoni della economicità della gestione, dell'efficacia dell'azione amministrativa e della semplificazione e trasparenza delle procedure.  
+ 
+5. La Giunta Regionale e l'Ufficio di Presidenza del Consiglio sovrintendono, per le rispettive competenze, al funzionamento dell'apparato organizzativo.  
+ 
+6. Il Presidente della Giunta Regionale assicura l'unità di indirizzo delle strutture, coordinando con proprie direttive l'esercizio delle funzioni amministrative, organizzative e di gestione delle risorse umane e strumentali attribuite dalla presente legge a diversi livelli di responsabilità.</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+                <rubrica>: POTERI DI ORGANIZZAZIONE 
+</rubrica>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art4-com1-mod1"> 
+1. Gli organi regionali e i dirigenti, nell'ambito delle rispettive competenze, assumono ogni determinazione per l'organizzazione delle strutture. Nelle materie soggette alla disciplina del <rif
+                                xlink:href="urn:nir:stato:codice.civile:1942-03-16;262">codice civile</rif>, delle leggi sul lavoro e dei contratti collettivi, gli stessi operano con i poteri del privato datore di lavoro, adottando tutte le misure inerenti all'organizzazione e alla gestione dei rapporti di lavoro.  
+ 
+2. La costituzione e la soppressione delle strutture organizzative,nonché la definizione delle rispettive competenze sono stabilite dalla Giunta Regionale con atto di organizzazione, fatta eccezione per le direzioni generali e le strutture speciali indicate nelle allegate tabelle che sono invece istituite e soppresse con legge regionale. Sempre con atto di organizzazione la Giunta Regionale provvede alla istituzione e alla disciplina delle funzioni dirigenziali di consulenza, di ispezione e vigilanza o di studio e ricerca.  
+ 
+3. I provvedimenti di cui al <rif
+                                xlink:href="#art4-com2">secondo comma</rif>, quando attengono a strutture o a funzioni di staff poste a supporto del Consiglio Regionale, sono adottati dalla Giunta d'intesa con l'Ufficio di Presidenza, che avanza la proposta.  
+ 
+4. Alla costituzione e soppressione delle unità operative organiche di cui all'<rif xlink:href="#art25">articolo 25</rif> provvedono, ciascuno per l'ambito organizzativo di proprio interesse, la Giunta Regionale e l'Ufficio di Presidenza, su proposta del direttore generale o del segretario generale competente, con atto di organizzazione.  
+ 
+5. In sede di prima applicazione della presente legge, la Giunta Regionale propone al Consiglio Regionale, con specifico provvedimento, i criteri per l'articolazione delle strutture organizzative; il Consiglio Regionale delibera entro 45 giorni dalla trasmissione della proposta.</mod>
+                    </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num/>
+                    <corpo>TITOLO II: INDIRIZZO POLITICO AMMINISTRATIVO 
+ </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+                <rubrica>: COMPETENZE DEGLI ORGANI DI DIREZIONE POLITICA 
+</rubrica>
+                <comma id="art5-com1">
+                    <num/>
+                    <alinea> 
+1. Al Consiglio Regionale, alla Giunta Regionale ed al suo Presidente, nell'ambito delle rispettive attribuzioni statutarie, competono: 
+ 
+</alinea>
+                    <el id="art5-com1-leta">
+                        <num>a)</num>
+                        <corpo> la definizione degli obiettivi e dei programmi da attuare con le relative priorità e l'emanazione periodica delle direttive generali per l'azione amministrativa;</corpo>
+                    </el>
+                    <el id="art5-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> la finalizzazione delle risorse finanziarie;</corpo>
+                    </el>
+                    <el id="art5-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> l'assegnazione a ciascun direttore generale ed a ciascun segretario generale di una quota parte del bilancio regionale destinata al finanziamento degli atti e dei procedimenti di rispettiva competenza nonché degli oneri per il personale e per le risorse strumentali di rispettiva assegnazione;</corpo>
+                    </el>
+                    <el id="art5-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> la verifica dei risultati della gestione in relazione alle direttive generali impartite, sulla base delle valutazioni espresse dal Nucleo di valutazione;</corpo>
+                    </el>
+                    <el id="art5-com1-lete">
+                        <num>  
+ 
+e)</num>
+                        <corpo> la definizione dei criteri per l'erogazione di risorse a soggetti esterni pubblici o privati;</corpo>
+                    </el>
+                    <el id="art5-com1-letf">
+                        <num>  
+ 
+f)</num>
+                        <corpo> la definizione dei criteri per il rilascio di autorizzazioni, licenze, concessioni e provvedimenti analoghi;</corpo>
+                    </el>
+                    <el id="art5-com1-letg">
+                        <num>  
+ 
+g)</num>
+                        <corpo> la determinazione di tariffe, canoni, rette e tributi;</corpo>
+                    </el>
+                    <el id="art5-com1-leth">
+                        <num>  
+ 
+h)</num>
+                        <corpo> l'affidamento di incarichi di consulenza per esigenze degli organi regionali;</corpo>
+                    </el>
+                    <el id="art5-com1-leti">
+                        <num>  
+ 
+i)</num>
+                        <corpo> le nomine dei rappresentanti regionali in seno ad enti ed organismi esterni;</corpo>
+                    </el>
+                    <el id="art5-com1-letl">
+                        <num>  
+ 
+l)</num>
+                        <corpo> le autorizzazioni a dipendenti regionali per l'espletamento di incarichi esterni;</corpo>
+                    </el>
+                    <el id="art5-com1-letm">
+                        <num>  
+ 
+m)</num>
+                        <corpo> gli atti di controllo sugli enti dipendenti previsti dalla legge;</corpo>
+                    </el>
+                    <el id="art5-com1-letn">
+                        <num>  
+ 
+n)</num>
+                        <corpo> la rappresentanza generale e la rappresentanza in giudizio della Regione;</corpo>
+                    </el>
+                    <el id="art5-com1-leto">
+                        <num>  
+ 
+o)</num>
+                        <corpo> gli atti di straordinaria amministrazione;</corpo>
+                    </el>
+                    <el id="art5-com1-letp">
+                        <num>  
+ 
+p)</num>
+                        <corpo> l'autorizzazione dei contratti sulla base dei progetti elaborati dai dirigenti;</corpo>
+                    </el>
+                    <el id="art5-com1-letq">
+                        <num>  
+ 
+q)</num>
+
+                        <corpo> ogni altro atto ad essi riservato dalla legge o dallo <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto</rif>.  
+ 
+2. La funzione di indirizzo politico-amministrativo si esplica attraverso atti adottati dagli organi istituzionali periodicamente e, comunque, ogni anno entro trenta giorni dall'approvazione del bilancio.  
+ 
+3. I singoli componenti della Giunta Regionale, nell'esercizio delle funzioni di titolarità politica e di rappresentanza istituzionale e sulla base delle decisioni assunte dall'organo collegiale, promuovono l'attività delle strutture organizzative che svolgono compiti attinenti alle materie ad essi rispettivamente delegate e la indirizzano al perseguimento degli obiettivi prefissati.</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6</num>
+                <rubrica>: COMITATO LEGISLATIVO E PER LA PROGRAMMAZIONE 
+</rubrica>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo> 
+1. Al fine di collaborare a livello tecnico-scientifico per la definizione delle linee strategiche degli interventi regionali è istituito, ad integrazione delle strutture organizzative previste dalla presente legge, nonché quale supporto della Giunta Regionale e dei suoi componenti, il Comitato legislativo e per la programmazione presieduto dal Presidente della Giunta o da un suo delegato.  
+ 
+2. La Giunta Regionale, con specifico provvedimento, determina la composizione del Comitato, il numero degli esperti esterni di riconosciuta qualificazione, che non può superare comunque le 5 unità, i criteri di selezione degli stessi, la definizione dei relativi compensi nonché le cause di incompatibilità.  
+ 
+3. Il Comitato, costituito con provvedimento della Giunta Regionale, definisce le modalità di partecipazione dei dirigenti regionali.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7</num>
+                <rubrica>: ASSISTENZA DEI DIRETTORI E DEI SEGRETARI GENERALI ALLE SEDUTE DELLA GIUNTA E DELL'UFFICIO DI PRESIDENZA 
+</rubrica>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo> 
+1. I direttori generali, il Segretario Generale della Presidenza della Giunta e il Segretario Generale del Consiglio presenziano se invitati, per quanto di rispettiva competenza, alle sedute della Giunta Regionale e dell'Ufficio di Presidenza del Consiglio e, previo assenso del presidente del consesso, hanno facoltà di intervento nella discussione al fine di fornire informazioni e chiarimenti utili alle decisioni da adottare.  </corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num/>
+                    <corpo>TITOLO III: DIRIGENZA REGIONALE 
+ </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8</num>
+                <rubrica>: AUTONOMIA DELLA FUNZIONE DIRIGENZIALE 
+</rubrica>
+                <comma id="art8-com1">
+                    <num/>
+                    <alinea> 
+1. Nell'ambito della gestione amministrativa, tecnica e finanziaria ad essi spettante e nell'osservanza degli atti normativi e programmatici nonché delle direttive degli organi di direzione politica, i dirigenti:  
+ 
+</alinea>
+                    <el id="art8-com1-leta">
+                        <num>a)</num>
+                        <corpo> partecipano, formulando proposte ed esprimendo pareri tecnici, alla definizione dell'indirizzo politico-amministrativo e all'elaborazione degli schemi di provvedimento di competenza degli organi di direzione politica, assicurano loro ogni forma utile di assistenza amministrativa e di consulenza professionale ed esprimono parere di legittimità sugli atti da essi proposti;</corpo>
+                    </el>
+                    <el id="art8-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> svolgono analisi e ricerche per una approfondita individuazione dei problemi, dei bisogni e degli interessi della collettività regionale;</corpo>
+                    </el>
+                    <el id="art8-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> adottano, nel rispetto delle direttive generali, gli atti di gestione amministrativa, tecnica e finanziaria, ivi compresi quelli a rilevanza esterna, ed esercitano autonomi poteri di spesa;</corpo>
+                    </el>
+                    <el id="art8-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> presiedono le commissioni di gara e di concorso, sovrintendono alle procedure di appalto e di negoziazione, stipulano i contratti e le convenzioni autorizzate dagli organi di direzione politico-amministrativa;</corpo>
+                    </el>
+                    <el id="art8-com1-lete">
+                        <num>  
+ 
+e)</num>
+                        <corpo> partecipano, su delega, in rappresentanza degli organi della Regione, a commissioni e comitati anche interistituzionali;</corpo>
+                    </el>
+                    <el id="art8-com1-letf">
+                        <num>  
+ 
+f)</num>
+                        <corpo> gestiscono le risorse umane e strumentali ad essi assegnate, attribuiscono i trattamenti economici accessori, esercitano i dovuti controlli ed attivano gli eventuali procedimenti disciplinari;</corpo>
+                    </el>
+                    <el id="art8-com1-letg">
+                        <num>  
+ 
+g)</num>
+                        <corpo> assicurano il coordinamento delle relazioni interfunzionali e l'integrazione interdisciplinare degli apparati amministrativi;</corpo>
+                    </el>
+                    <el id="art8-com1-leth">
+                        <num>  
+ 
+h)</num>
+                        <corpo> sono responsabili della trasparenza e della speditezza dei procedimenti amministrativi, della legittimità degli atti che sottoscrivono e rispondono dei risultati conseguiti e della gestione delle risorse loro affidate. </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9</num>
+                <rubrica>: ORDINAMENTO E ATTI DELLA DIRIGENZA 
+</rubrica>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo> 
+1. La dirigenza regionale è ordinata nell'unica qualifica di &lt;&lt;Dirigente&gt;&gt; ed è articolata secondo graduazione di responsabilità e di poteri.  
+ 
+2. Ai dirigenti sono affidate funzioni di direzione di strutture organizzative o funzioni di consulenza, di ispezione e vigilanza o di studio e ricerca. 
+ 
+3. Le funzioni di direzione sono graduate nell'ordine dei seguenti tre livelli di responsabilità:</corpo>
+                </comma>
+                <comma id="art9-com2">
+                    <num/>
+
+                    <corpo>a) direttore generale;  
+ 
+b) responsabile di servizio;  
+ 
+c) responsabile di sezione.  
+ 
+4. Per la durata dell'incarico il dirigente preposto alla struttura di livello più elevato è sovraordinato al dirigente preposto a struttura di livello inferiore.  
+ 
+5. Ai fini del trattamento retributivo accessorio le funzioni dirigenziali sono valutate in rapporto alla entità e qualità degli incarichi rivestiti e dei risultati conseguiti.  
+ 
+6. Gli incarichi di funzione dirigenziale di consulenza, di ispezione e vigilanza e di studio e ricerca, ai fini della definizione di livello, sono equiparati alle funzioni di direzione di cui alle lettere b) e c) del precedente comma terzo a seconda del grado di professionalità richiesto. 
+ 
+7. Con l'atto di organizzazione di cui all'<rif
+                            xlink:href="#art30">articolo 30</rif> sono individuati gli incarichi di funzione dirigenziale per il cui espletamento sia richiesto il possesso di specifici diplomi di laurea e di eventuale abilitazione professionale o iscrizione all'albo professionale.  
+ 
+8. Gli atti della dirigenza aventi rilevanza esterna assumono la forma di &lt;&lt;determinazione dirigenziale&gt;&gt; e devono contenere i requisiti propri dell'atto amministrativo.  
+ 
+9. Gli atti emessi dai dirigenti, nei limiti delle funzioni loro assegnate, sono definitivi e diventano esecutivi secondo la normativa in materia di controlli sugli atti amministrativi della Regione.  
+ 
+10. Gli atti di competenza dirigenziale sono eccezionalmente avocabili da parte della Giunta o dell'Ufficio di Presidenza in caso di necessità o di urgenza, in relazione alle quali il provvedimento di avocazione deve contenere specifiche motivazioni.  
+ 
+11. L'ingiustificata inerzia del dirigente nell'esercizio delle funzioni e dei poteri attribuitigli, ove determini, o minacci, pregiudizio per l'interesse pubblico, dà luogo al potere sostitutivo della Giunta o dell'Ufficio di Presidenza, i quali, previa diffida, adottano gli atti omessi o ritardati dal dirigente.  
+ 
+12. La Giunta Regionale e l'Ufficio di Presidenza, per le rispettive competenze, all'entrata in vigore della presente legge, disciplinano le procedure concernenti l'adozione delle determinazioni dirigenziali con riguardo alle relazioni funzionali con gli organi regionali.  
+ 
+13. L'elenco dei dirigenti regionali, con il curriculum di ciascun dirigente, è trasmesso al Dipartimento della Funzione Pubblica presso la Presidenza del Consiglio dei Ministri, ai fini di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#art23">articolo 23 del decreto legislativo 3 febbraio 1993, n. 29</rif>.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10</num>
+                <rubrica>: COMPETENZE DEL DIRETTORE GENERALE 
+</rubrica>
+                <comma id="art10-com1">
+                    <num/>
+                    <alinea> 
+1. Il direttore generale esercita al massimo grado di responsabilità le funzioni di direzione, organizzazione e vigilanza delle attività facenti capo alla struttura di propria competenza. Al direttore generale compete:  
+ 
+</alinea>
+                    <el id="art10-com1-leta">
+                        <num>a)</num>
+                        <corpo> formulare proposte alla Giunta, anche ai fini della elaborazione di programmi, direttive, schemi di progetti di legge o di altri atti a contenuto generale, anche riguardanti gli assetti organizzativi;</corpo>
+                    </el>
+                    <el id="art10-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> curare l'attuazione dei programmi definiti dai competenti organi regionali e adottare, a tal fine, progetti la cui gestione è attribuita ai dirigenti, indicando le risorse occorrenti per la loro realizzazione;</corpo>
+                    </el>
+                    <el id="art10-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> esercitare i poteri di acquisizione delle entrate;</corpo>
+                    </el>
+                    <el id="art10-com1-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo> esercitare i poteri di spesa nei limiti della quota parte di bilancio loro assegnata, definendo i limiti di valore delle spese che i dirigenti funzionalmente dipendenti possono impegnare;</corpo>
+                    </el>
+                    <el id="art10-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> adottare gli atti di organizzazione e di gestione del personale, nell'ambito dei criteri fissati dalla Giunta, provvedere all'attribuzione dei trattamenti economici accessori secondo quanto stabilito dai contratti collettivi per il personale e disporre i conferimenti degli incarichi di responsabilità delle unità operative organiche;</corpo>
+                    </el>
+                    <el id="art10-com1-letf">
+                        <num>  
+ 
+f)</num>
+                        <corpo> adottare misure organizzative idonee a consentire la rilevazione e l'analisi dei costi e dei rendimenti dell'attività amministrativa, della gestione e delle decisioni organizzative;</corpo>
+                    </el>
+                    <el id="art10-com1-letg">
+                        <num>  
+ 
+g)</num>
+                        <corpo> ripartire tra le strutture amministrative sottordinate le risorse umane, finanziarie e strumentali sulla base dei piani di lavoro predisposti dai dirigenti;</corpo>
+                    </el>
+                    <el id="art10-com1-leth">
+                        <num>  
+ 
+h)</num>
+                        <corpo> definire l'orario di servizio, l'orario di apertura al pubblico e l'articolazione dell'orario di lavoro in relazione alle esigenze funzionali delle strutture cui sono preposti e nell'ambito degli indirizzi generali definiti dalla Giunta;</corpo>
+                    </el>
+                    <el id="art10-com1-leti">
+                        <num>  
+ 
+i)</num>
+                        <corpo> disciplinare le relazioni e dirimere eventuali conflitti di competenza tra i dirigenti funzionalmente dipendenti;</corpo>
+                    </el>
+                    <el id="art10-com1-letl">
+                        <num>  
+ 
+l)</num>
+                        <corpo> coordinare le attività dei responsabili dei procedimenti operanti nelle strutture cui sono preposti;</corpo>
+                    </el>
+                    <el id="art10-com1-letm">
+                        <num>  
+ 
+m)</num>
+                        <corpo> verificare e controllare le attività dei dirigenti sottoposti, anche con potere sostitutivo in caso di inerzia degli stessi;</corpo>
+                    </el>
+                    <el id="art10-com1-letn">
+                        <num>  
+ 
+n)</num>
+                        <corpo> fornire risposte ai rilievi degli organi di controllo sugli atti di propria competenza;</corpo>
+                    </el>
+                    <el id="art10-com1-leto">
+                        <num>  
+ 
+o)</num>
+                        <corpo> proporre agli organi di direzione politica le conferenze di servizi per le materie di competenza della direzione generale e partecipare alle conferenze di servizi indette da altre amministrazioni;</corpo>
+                    </el>
+                    <el id="art10-com1-letp">
+                        <num>  
+ 
+p)</num>
+                        <corpo> stipulare i contratti autorizzati dalla Giunta o previsti da norme;</corpo>
+                    </el>
+                    <el id="art10-com1-letq">
+                        <num>  
+ 
+q)</num>
+                        <corpo> provvedere al riconoscimento di debito, alle rinunce, alle transazioni nonché promuovere liti attive e determinare decisioni in tema di liti passive;</corpo>
+                    </el>
+                    <el id="art10-com1-letr">
+                        <num>  
+ 
+r)</num>
+                        <corpo> espletare ogni altra funzione espressamente prevista dalla legge.  
+ 
+2. Per la verifica dell'andamento delle attività della direzione generale e dello stato di attuazione dei programmi ed al fine della migliore cooperazione tra le strutture, il direttore generale convoca, almeno ogni due mesi, la conferenza dei dirigenti assegnati alla direzione generale.</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11</num>
+                <rubrica>: COMPETENZE DEI DIRIGENTI 
+</rubrica>
+                <comma id="art11-com1">
+                    <num/>
+                    <alinea> 
+1. Ai dirigenti con incarico di livello inferiore a direttore generale, nei limiti delle funzioni loro conferite, competono:  
+ 
+</alinea>
+                    <el id="art11-com1-leta">
+                        <num>a)</num>
+                        <corpo> la direzione di un servizio o di una sezione e del relativo personale;</corpo>
+                    </el>
+                    <el id="art11-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> l'espletamento di incarichi di funzioni consultive, di ispezione e vigilanza o di studio e ricerca;</corpo>
+                    </el>
+                    <el id="art11-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> l'esercizio dei poteri di spesa, per quanto di competenza, nonché dei poteri di gestione inerenti alla realizzazione dei progetti adottati dal direttore generale o dal segretario generale;</corpo>
+                    </el>
+                    <el id="art11-com1-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo> la ripartizione delle risorse umane, finanziarie e strumentali assegnate e la verifica periodica del carico di lavoro e della produttività della struttura, anche con riferimento ad ogni singolo dipendente, nonché l'adozione delle iniziative, anche disciplinari, nei confronti del personale, ivi comprese, in caso di insufficiente rendimento o per situazioni di esubero, le iniziative per il trasferimento ad altra struttura o per il collocamento in mobilità;</corpo>
+                    </el>
+                    <el id="art11-com1-lete">
+                        <num>  
+ 
+e)</num>
+                        <corpo> l'attribuzione di trattamenti economici accessori, per quanto di competenza, nel rispetto dei contratti collettivi;</corpo>
+                    </el>
+                    <el id="art11-com1-letf">
+                        <num> 
+ 
+f)</num>
+
+                        <corpo> la responsabilità dei procedimenti nonché l'individuazione, in base alla <rif xlink:href="urn:nir:stato:legge:1990-08-07;241">legge 7 agosto 1990, n. 241</rif>, dei responsabili dei procedimenti che fanno capo alla struttura e la verifica, anche su richiesta di terzi interessati, del rispetto dei termini e degli altri adempimenti;</corpo>
+                    </el>
+                    <el id="art11-com1-letg">
+                        <num>  
+ 
+g)</num>
+                        <corpo> le risposte ai rilievi degli organi di controllo sugli atti di propria competenza;</corpo>
+                    </el>
+                    <el id="art11-com1-leth">
+                        <num>  
+ 
+h)</num>
+                        <corpo> la proposizione di quesiti e l'emissione di pareri nelle materie di propria competenza, dandone comunicazione al direttore generale o al segretario generale nel caso in cui tali atti impegnino l'amministrazione regionale nei confronti di altre amministrazioni;</corpo>
+                    </el>
+                    <el id="art11-com1-leti">
+                        <num>  
+ 
+i)</num>
+                        <corpo> la formulazione di proposte al direttore generale o al segretario generale, anche in ordine all'adozione di progetti ed ai criteri generali di organizzazione degli uffici;</corpo>
+                    </el>
+                    <el id="art11-com1-letl">
+                        <num>  
+ 
+l)</num>
+                        <corpo> ogni altra funzione espressamente prevista dalla legge.  
+ 
+2. Ai dirigenti con incarico di responsabile di servizio compete verificare e controllare le attività dei sottoposti responsabili di sezione, anche con potere sostitutivo in caso di inerzia degli stessi.</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12</num>
+                <rubrica>: SEFRETARI GENERALI DEL CONSIGLIO E DELLA PRESIDENZA DELLA GIUNTA 
+</rubrica>
+                <comma id="art12-com1">
+                    <num/>
+
+                    <corpo> 
+1. Gli apparati amministrativi funzionalmente dipendenti dall'Ufficio di Presiden-za del Consiglio Regionale e dal Presidente della Giunta, di cui all'<rif
+                            xlink:href="#art26">articolo 26</rif>, sono coordinati rispettivamente dal Segretario Generale del Consiglio e dal Segretario Generale della Presidenza della Giunta. 
+ 
+2. I Segretari Generali di cui al <rif xlink:href="#art12-com1">primo comma</rif>, nell'esercizio delle funzioni di coordinamento, hanno le medesime attribuzioni e competenze previste per i direttori generali. Ad essi è integralmente applicata la disciplina che la presente legge stabilisce per i direttori generali.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13</num>
+                <rubrica>: CONFERIMENTO DEGLI INCARICHI DIRIGENZIALI 
+</rubrica>
+                <comma id="art13-com1">
+                    <num/>
+
+                    <corpo> 
+1. I conferimenti degli incarichi dirigenziali si conformano ai criteri della temporaneità, della rotazione e della revocabilità, in funzione dell'efficienza dei servizi. 
+ 
+2. L'attribuzione di ciascun incarico dirigenziale deve essere motivata, nel rispetto di quanto disposto dal contratto collettivo nazionale e sulla base dei principi in materia dettati dal <rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29">decreto legislativo 3 febbraio 1993, n. 29</rif>, secondo i seguenti parametri valutativi:</corpo>
+                </comma>
+                <comma id="art13-com2">
+                    <num/>
+
+                    <corpo>a) formazione culturale;  
+ 
+b) requisiti professionali adeguati alle funzioni da svolgere;  
+ 
+c) grado di aggiornamento raggiunto nella materia; 
+ 
+d) attitudine ad assumere le responsabilità connesse con le funzioni da svolgere;  
+ 
+e) capacità di organizzazione del lavoro e capacità di gestione delle risorse umane e strumentali;  
+ 
+f) risultati conseguiti nello svolgimento delle attività rilevanti agli effetti dell'incarico da conferire. 
+ 
+3. L'incarico di direttore generale viene conferito dalla Giunta Regionale; l'incarico di Segretario Generale del Consiglio è conferito dall'Ufficio di Presidenza; l'incarico di Segretario Generale della Presidenza della Giunta è conferito dalla Giunta su proposta del suo Presidente.  
+ 
+4. Gli incarichi di cui al <rif xlink:href="#art13-com3">precedente terzo comma</rif> sono conferiti a dirigenti regionali, muniti di laurea, dotati di esperienza pluriennale nelle funzioni dirigenziali e di dimostrate attitudini manageriali.</corpo>
+                </comma>
+                <comma id="art13-com3">
+                    <num/>
+
+                    <corpo>Possono essere conferiti altresì a persone estranee all'amministrazione regionale, munite di laurea, in possesso di documentata professionalità manageriale acquisita operando in funzioni dirigenziali presso altre pubbliche amministrazioni o altri enti pubblici o aziende pubbliche o private. Al reperimento delle candidature per gli incarichi da conferire ad estranei si procede mediante avviso pubblicato su quotidiani a diffusione nazionale. 
+ 
+5. L'incarico di direttore generale o di segretario generaleè conferito con contratto di diritto privato a tempo determinato per un periodo non superiore a cinque anni; è rinnovabile per una sola volta ed è revocabile in qualsiasi momento previa valutazione dei risultati. I dirigenti regionali nominati direttori generali o segretari generali sono collocati per il periodo dell'incarico in aspettativa senza assegni. Il periodo di aspettativa resta utile ai fini della maturazione dei diritti connessi all'anzianità di servizio.  
+ 
+6. Gli incarichi di direttore generale e di segretario generale scadono comunque decorsi centoventi giorni dalla elezione della Giunta Regionale o dell'Ufficio di Presidenza in conseguenza del rinnovo del Consiglio Regionale.  
+ 
+7. Gli incarichi di responsabile di servizio, di responsabile di sezione e di funzione dirigenziale di consulenza, di ispezione e vigilanza o di studio e ricerca sono conferiti dalla Giunta Regionale o dall'Ufficio di Presidenza a dirigenti regionali, anche assunti con le modalità di cui all'<rif
+                            xlink:href="#art20">articolo 20</rif>, su proposta del direttore generale o del segretario generale competente.  
+ 
+8. Gli incarichi di cui al precedente comma settimo durano cinque anni, sono rinnovabili e sono revocabili in qualsiasi momento, previa valutazione dei risultati, su proposta motivata del direttore generale o del segretario generale competente. 
+ 
+9. Per esigenze connesse all'efficacia dell'azione amministrativa o all'efficienza delle strutture organizzative, sentito il direttore generale o il segretario generale competente, può essere disposta in qualsiasi momento la rotazione degli incarichi dirigenziali precedentemente attribuiti. 
+ 
+10. I provvedimenti di conferimento, di rotazione e di revoca degli incarichi dirigenziali sono pubblicati nel Bollettino Ufficiale della Regione.  
+ 
+11. I dirigenti privi di incarico sono posti a disposizione per il periodo massimo di un anno con le conseguenze di cui al comma ottavo dell'articolo 18. Inutilmente decorso tale periodo, i dirigenti sono collocati in soprannumero e vengono sottoposti ai processi di mobilità, secondo la disciplina di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#art22-com2">articolo 22, secondo comma del decreto legislativo 3 febbraio 1993, n. 29</rif> e successive modificazioni.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14</num>
+                <rubrica>: TRATTAMENTO ECONOMICO DEI DIRETTORI GENERALI E DEI SEGRETARI GENERALI 
+</rubrica>
+                <comma id="art14-com1">
+                    <num/>
+                    <corpo> 
+1. Il trattamento economico dei direttori generali e dei segretari generali è determinato, in relazione allo specifico incarico, in sede di contrattazione individuale assumendo come tetto massimo l'ottanta per cento della retribuzione fissata per i direttori generali delle aziende unità sanitarie locali.  </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>Art. 15</num>
+                <rubrica>: ORARIO DI LAVORO DEI DIRIGENTI 
+</rubrica>
+                <comma id="art15-com1">
+                    <num/>
+                    <corpo> 
+1. Il dirigente organizza il proprio orario di lavoro adattandolo flessibilmente agli impegni derivanti dal suo incarico e rendendolo compatibile con l'orario di servizio della struttura da lui diretta.  </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>Art. 16</num>
+                <rubrica>: ASSENZA, IMPEDIMENTO E VACANZA 
+</rubrica>
+                <comma id="art16-com1">
+                    <num/>
+
+                    <corpo> 
+1. In relazione agli incarichi di direzione di struttura, la Giunta Regionale o l'Ufficio di Presidenza del Consiglio, entro gli ambiti organizzativi di rispettiva competenza, individuano in via preventiva, per il caso di assenza o impedimento di ciascun responsabile, un altro dirigente per la sostituzione.  
+ 
+2. In caso di vacanza degli incarichi di cui al <rif xlink:href="#art16-com1">primo comma</rif>, la Giunta Regionale o l'Ufficio di Presidenza del Consiglio provvedono di volta in volta, entro gli ambiti organizzativi di rispettiva competenza, a nominare un reggente temporaneo tra i dirigenti con incarico di pari livello.  
+ 
+3. Ove, per strutture del Consiglio Regionale, le esigenze di sostituzione o di reggenza non possano soddisfarsi con dirigenti in servizio nell'ambito organizzativo dello stesso Consiglio, i provvedimenti necessari vengono adottati dalla Giunta Regionale su proposta dell'Ufficio di Presidenza.  
+ 
+4. La supplenza e la reggenza di cui ai commi primo e secondo non danno luogo a compensi aggiuntivi per durate pari o inferiori a sessanta giorni consecutivi. 
+ 
+5. La Giunta Regionale, fatta salva la disciplina definita dal contratto collettivo nazionale, stabilisce i casi di assenza dal servizio, diversi dal congedo ordinario, che danno luogo alla sospensione della retribuzione accessoria dirigenziale e alla nomina di un altro dirigente nonché i compensi aggiuntivi per le supplenze e le reggenze di durata superiore a sessanta giorni.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>Art. 17</num>
+                <rubrica>: MOBILITÀ DEI DIRIGENTI 
+</rubrica>
+                <comma id="art17-com1">
+                    <num/>
+
+                    <corpo> 
+1. Con le stesse modalità e secondo i medesimi criteri previsti per il conferimento degli incarichi di funzione, il dirigente può essere trasferito ad altro incarico con motivato provvedimento.  
+ 
+2. La mobilità dei dirigenti è disposta per esigenze di buon funzionamento dell'Amministrazione. Può avere luogo anche su istanza dei dirigenti stessi per motivi di incompatibilità ambientale o di arricchimento professionale.  
+ 
+3. I provvedimenti di mobilità di dirigenti nell'ambito delle strutture e funzioni di interesse del Consiglio Regionale competono all'Ufficio di Presidenza del Consiglio stesso.  
+ 
+4. La mobilità da e verso gli incarichi di cui al terzo comma è disposta dalla Giunta Regionale dietro richiesta dell'Ufficio di Presidenza del Consiglio ovvero previo assenso dell'Ufficio medesimo quando l'iniziativa è di Giunta. Il diniego di assenso da parte dell'Ufficio di Presidenza deve essere puntualmente motivato in relazione a profili attitudinali del dirigente interessato e ad esigenze funzionali di obiettivo rilievo.  
+ 
+5. La mobilità esterna del personale dirigenziale è disciplinata dalla Giunta Regionale con le modalità di cui al <rif
+                            xlink:href="#art32-com1">comma primo dell'articolo 32</rif> in armonia con le disposizioni del <rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29">decreto legislativo 3 febbraio 1993, n. 29</rif> e successive modificazioni nonché del contratto collettivo nazionale.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>Art. 18</num>
+                <rubrica>: RESPONSABILITÀ E VALUTAZIONE DEI DIRIGENTI 
+</rubrica>
+                <comma id="art18-com1">
+                    <num/>
+                    <corpo> 
+1. I dirigenti sono responsabili del risultato dell'attività svolta dalle strutture alle quali sono preposti o delle funzioni individuali che sono loro assegnate. Sono altresì responsabili della realizzazione dei programmi e dei progetti loro affidati in relazione agli obiettivi, dei rendimenti e dei risultati della gestione finanziaria, tecnica e amministrativa, incluse le decisioni organizzative e di gestione del personale riservate alla loro competenza.  </corpo>
+                </comma>
+                <comma id="art18-com2">
+                    <num/>
+                    <corpo>Entro il mese di gennaio di ogni anno i direttori generali, i segretari generali e gli altri dirigenti presentano, alla Giunta o all'Ufficio di Presidenza, una relazione sull'attività svolta nell'anno precedente. 
+ 
+2. Restano ferme le disposizioni vigenti in materia di responsabilità penale, civile, amministrativa, contabile e disciplinare prevista per i dipendenti delle amministrazioni pubbliche. A fronte del rischio, gravante sui dirigenti, di danno patrimoniale all'Amministrazione o a terzi la Regione adotta idonee iniziative per la relativa copertura assicurativa.  
+ 
+3. Entro centottanta giorni dall'entrata in vigore della presente legge, la Giunta Regionale, d'intesa con l'Ufficio di Presidenza, istituisce e disciplina con atto di organizzazione un nucleo di valutazione che rimane in carica per un periodo di tre anni.</corpo>
+                </comma>
+                <comma id="art18-com3">
+                    <num/>
+                    <corpo>Il nucleo di valutazione è composto da due esperti in tecniche di valutazione e nel controllo di gestione, esterni all'Amministrazione regionale, da selezionare mediante convenzione con ditte o società specializzate.  </corpo>
+                </comma>
+                <comma id="art18-com4">
+                    <num/>
+                    <corpo>Del nucleo di valutazione fanno parte, altresì, su designazione della Giunta Regionale in relazione alle problematiche da esaminare, il Segretario Generale della Presidenza della Giunta Regionale e il Direttore regionale dell'organizzazione e del personale. Il Segretario Generale della Presidenza della Giunta Regionale e il Direttore regionale dell'organizzazione e del personale non partecipano all'attività di valutazione quando questa riguardi il loro operato.  
+ 
+4. La Giunta Regionale e l'Ufficio di Presidenza del Consiglio Regionale si avvalgono del nucleo di valutazione per:</corpo>
+                </comma>
+                <comma id="art18-com5">
+                    <num/>
+
+                    <corpo>a) le valutazioni di cui a successivi commi settimo e ottavo;  
+ 
+b) la verifica, mediante comparazione dei costi e dei rendimenti, della realizzazione degli obiettivi, della corretta ed economica gestione delle risorse pubbliche, dell'imparzialità e del buon andamento dell'azione amministrativa.  
+ 
+5. Il nucleo di valutazione opera in posizione di autonomia e risponde esclusivamente alla Giunta Regionale e all'Ufficio di Presidenza del Consiglio Regionale. Esso è coadiuvato, per le incombenze di carattere istruttorio, da una sezione costituita con l'atto di organizzazione di cui al <rif
+                            xlink:href="#art30-com1">comma primo dell'articolo 30</rif>.  
+ 
+6. Il Nucleo di valutazione ha accesso ai documenti amministrativi presso tutte le strutture dell'Amministrazione regionale e può richiedere informazioni alle strutture stesse. Esso riferisce trimestralmente sui risultati della sua attività alla Giunta Regionale ed all'Ufficio di Presidenza del Consiglio.  
+ 
+7. Oltre quanto previsto dai commi quinto e ottavo dell'<rif xlink:href="#art13">articolo 13</rif>, la valutazione dei dirigenti può essere effettuata in ogni momento.  
+ 
+8. Ove, in esito alla valutazione, venga accertata l'inosservanza delle direttive generali o il risultato negativo della gestione, viene disposta l'assegnazione del dirigente, se ritenuto idoneo, ad altro incarico ovvero il collocamento a disposizione per il periodo massimo di un anno con conseguente perdita del trattamento economico accessorio connesso alle funzioni. In caso di responsabilità particolarmente grave o reiterata, viene disposto il licenziamento.</corpo>
+                </comma>
+                <comma id="art18-com6">
+                    <num/>
+
+                    <corpo>Quando la valutazione negativa riguardi un dirigente assunto con il contratto di cui all'<rif xlink:href="#art20">articolo 20</rif>, è disposta in ogni caso la risoluzione del contratto. Per effetto del collocamento a disposizione non si può procedere alla copertura dei corrispondenti posti in organico.  
+ 
+9. I provvedimenti di collocamento a disposizione e di licenziamento di cui al comma precedente vengono assunti dalla Giunta Regionale. Essi vengono adottati sulla base delle risultanze del procedimento di valutazione che si conclude, a seconda del diretto interesse, con un atto formale della Giunta Regionale o dell'Ufficio di Presidenza del Consiglio Regionale.  
+ 
+10. I provvedimenti di cui all'ottavo comma, a pena di nullità, devono essere adottati:</corpo>
+                </comma>
+                <comma id="art18-com7">
+                    <num/>
+
+                    <corpo>a) previa contestazione al dirigente della valutazione negativa ampiamente motivata; 
+ 
+b) previa acquisizione delle controdeduzioni, per le quali deve essere concesso al dirigente termine non inferiore a giorni quindici dalla comunicazione della valutazione;  
+ 
+c) nel pieno rispetto delle disposizioni in materia dettate dal contratto collettivo nazionale di comparto per l'area dirigenziale.  
+ 
+11. Per quanto non previsto dal presente articolo, si fa rinvio al <rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262">codice civile</rif> ed al contratto collettivo nazionale di comparto per l'area dirigenziale.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art19">
+                <num>Art. 19</num>
+                <rubrica>: ACCESSO ALLA QUALIFICA DIRIGENZIALE 
+</rubrica>
+                <comma id="art19-com1">
+                    <num/>
+                    <alinea> 
+1. L'accesso alla qualifica di dirigente avviene:  
+ 
+</alinea>
+                    <el id="art19-com1-leta">
+                        <num>a)</num>
+                        <corpo> per concorso pubblico per esami;</corpo>
+                    </el>
+                    <el id="art19-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> per corso-concorso selettivo di formazione presso enti, istituti o organismi convenzionati con la Regione ovvero presso la Scuola Superiore della Pubblica Amministrazione;</corpo>
+                    </el>
+                    <el id="art19-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> con le modalità di cui al <rif
+                                xlink:href="#art20">successivo articolo 20</rif>.  
+ 
+2. Al concorso per esami sono ammessi i dipendenti di ruolo delle pubbliche amministrazioni di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#art1-com2">articolo 1, secondo comma del decreto legislativo 3 febbraio 1993, n. 29</rif> e successive modificazioni, già dirigenti o, in possesso del diploma di laurea attinente al posto messo a concorso, che abbiano maturato almeno cinque anni di servizio effettivo di ruolo in qualifiche direttive e che abbiano avuto accesso a tali qualifiche tramite concorso.  
+ 
+3. Al corso-concorso selettivo di formazione sono ammessi, in numero maggiorato, rispetto ai posti disponibili, del trenta per cento, candidati in possesso del diploma di laurea e di età non superiore a trentacinque anni. Per i dipendenti di ruolo di cui al comma secondo il limite di età è elevato a quarantacinque anni.  
+ 
+4. Il corso ha la durata di diciotto mesi ed è seguito, previo superamento di esame-concorso intermedio, da un semestre di applicazione presso amministrazioni pubbliche o private. Al periodo di applicazione sono ammessi candidati in numero maggiorato,rispetto ai posti messi a concorso, del quindici per cento. Al termine, i candidati sono sottoposti ad un esame-concorso finale limitato ai soli posti messi a concorso. 
+ 
+5. I posti di dirigente che si rendono disponibili sono riservati, per il quaranta per cento, al corso-concorso.  
+ 
+6. Ai partecipanti al corso ed al periodo di applicazione è corrisposta una borsa di studio a carico della Regione di ammontare pari a quella erogata dalla Scuola Superiore della Pubblica Amministrazione nell'ambito dei corsi-concorsi per l'Amministrazione Statale.  
+ 
+7. Con apposito regolamento sono definiti, per entrambe le modalità di accesso, i criteri per la composizione e la nomina delle commissioni esaminatrici nonché le modalità di svolgimento delle selezioni.</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art20">
+                <num>Art. 20</num>
+                <rubrica>: ASSUNZIONI DI DIRIGENTI CON CONTRATTO A TEMPO DETERMINATO 
+</rubrica>
+                <comma id="art20-com1">
+                    <num/>
+                    <corpo> 
+1. Con provvedimento motivato della Giunta Regionale, anche su proposta dell'Ufficio di Presidenza del Consiglio, possono autorizzarsi assunzioni di personale nella qualifica di dirigente con contratto di diritto privato a tempo determinato di durata non superiore a cinque anni, rinnovabile per una sola volta, nei limiti del dieci per cento dei posti liberi e disponibili della relativa dotazione organica.  
+ 
+2. Requisiti imprescindibili per l'assunzione sono:</corpo>
+                </comma>
+                <comma id="art20-com2">
+                    <num/>
+
+                    <corpo>a) il possesso del diploma di laurea attinente al posto da ricoprire; 
+ 
+b) documentata esperienza professionale maturata in almeno cinque anni di espletamento delle funzioni di dirigente nella pubblica amministrazione, in enti pubblici anche economici, in aziende pubbliche o private, ovvero in almeno dieci anni di esercizio effettivo di una libera professione.  
+ 
+3. Con il provvedimento di cui al <rif xlink:href="#art20-com1">comma primo</rif> viene stabilito il livello dell'incarico di funzione dirigenziale cui l'assunzione è finalizzata ed al quale resta vincolata per l'intera durata del rapporto.  
+ 
+4. Il trattamento economico è rapportato all'incarico di funzione cui l'assunzione è finalizzata.  
+ 
+5. I dirigenti assunti con le modalità di cui al presente articolo sono soggetti all'integrale disciplina della funzione dirigenziale prevista dalla presente legge.</corpo>
+                </comma>
+                <comma id="art20-com3">
+                    <num/>
+                    <corpo>TITOLO IV: ASSETTO ORGANIZZATIVO 
+ </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art21">
+                <num>Art. 21</num>
+                <rubrica>: ARTICOLAZIONE IN STRUTTURE 
+</rubrica>
+                <comma id="art21-com1">
+                    <num/>
+                    <alinea> 
+1. L'apparato organizzativo della Regione Molise si articola in:  
+ 
+</alinea>
+                    <el id="art21-com1-leta">
+                        <num>a)</num>
+                        <corpo> direzioni generali;</corpo>
+                    </el>
+                    <el id="art21-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> servizi;</corpo>
+                    </el>
+                    <el id="art21-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> sezioni.  
+ 
+2. Nell'ambito dei servizi e delle sezioni possono essere costituite unità operative organiche denominate uffici.</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art22">
+                <num>Art. 22</num>
+                <rubrica>: DIREZIONE GENERALE 
+</rubrica>
+                <comma id="art22-com1">
+                    <num/>
+
+                    <corpo> 
+1. La direzione generale è struttura apicale di coordinamento delle attività afferenti ad un complesso di materie, funzioni o progetti tra loro omogenei, connessi o interdipendenti.  
+ 
+2. Con la presente legge vengono istituite le direzioni generali di cui all'allegata tabella &lt;&lt;B&gt;&gt;. Le competenze di ciascuna direzione generale sono definiti con l'atto di organizzazione di cui all'<rif xlink:href="#art30">articolo 30</rif>.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art23">
+                <num>Art. 23</num>
+                <rubrica>: SERVIZIO 
+</rubrica>
+                <comma id="art23-com1">
+                    <num/>
+                    <corpo> 
+1. Il servizio, struttura normalmente subordinata alla direzione generale, della quale costituisce articolazione, è sede delle attività di gestione di una specifica materia istituzionale, di una funzione strumentale o di progetti di grande rilevanza ed è affidato alla responsabilità di un dirigente che opera, con compiutezza e rilevanza esterna di atti, nell'ambito delle direttive o deleghe emesse da un direttore generale o da altra autorità apicale funzionalmente sovraordinata.  
+ 
+2. Il servizio è strumento operativo degli organi istituzionali per l'esercizio delle funzioni di governo regionale.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art24">
+                <num>Art. 24</num>
+                <rubrica>: SEZIONE 
+</rubrica>
+                <comma id="art24-com1">
+                    <num/>
+                    <corpo> 
+1. La sezione, articolazione di base del servizio, è sede delle attività connesse con specifiche branche di una materia istituzionale o di una funzione strumentale ed è affidata alla responsabilità di un dirigente che opera, anche con rilevanza esterna di atti, nell'ambito delle direttive o deleghe emesse dal responsabile del servizio. 
+ 
+2. La sezione partecipa, quale unità organizzativa specializzata, ad attività amministrative complesse contribuendo a renderne funzionale la gestione.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art25">
+                <num>Art. 25</num>
+                <rubrica>: Ufficio 
+</rubrica>
+                <comma id="art25-com1">
+                    <num/>
+                    <corpo> 
+1. L'ufficio viene costituito con le modalità di cui all'articolo 4, comma 4, negli ambiti dei servizi o delle sezioni, quando si manifesti la necessità, anche temporanea, di una unità operativa organica di dimensioni funzionali all'assolvimento tecnico o specialistico di compiti omogeneamente ordinati da affidarsi alla responsabilità di un funzionario dell'ottava qualifica funzionale.  
+ 
+2. Gli uffici non possono superare il numero di sei per ciascun servizio e di due per ciascuna sezione.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art26">
+                <num>Art. 26</num>
+                <rubrica>: STRUTTURE SPECIALI 
+</rubrica>
+                <comma id="art26-com1">
+                    <num/>
+                    <corpo> 
+1. Sono strutture speciali, ed operano sotto il coordinamento dei Segretari Generali del Consiglio Regionale e della Presidenza della Giunta, i servizi indicati nell'allegata tabella &lt;&lt; A &gt;&gt;.  </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art27">
+                <num>Art. 27</num>
+                <rubrica>: ORGANIZZAZIONE FUNZIONALE 
+</rubrica>
+                <comma id="art27-com1">
+                    <num/>
+
+                    <corpo> 
+1. Le direzioni generali dipendono funzionalmente dalla Giunta Regionale. 
+ 
+2. Le strutture speciali, di cui all'<rif
+                            xlink:href="#art26-com1">articolo 26, comma primo</rif>, secondo le aggregazioni indicate nell'allegata tabella &lt;&lt; A &gt;&gt;, dipendono funzionalmente dall'Ufficio di Presidenza del Consiglio Regionale e dal Presidente della Giunta. 
+ 
+3. Le competenze e le dotazioni organiche, distinte per qualifiche funzionali, delle strutture di cui ai commi primo e secondo sono determinate con l'atto di organizzazione di cui al <rif
+                            xlink:href="#art30">successivo articolo 30</rif>.  
+ 
+4. Le funzioni dirigenziali di consulenza, di ispezione e vigilanza e di studio e ricerca fanno capo alle direzioni generali o ai segretari generali. All'individuazione delle posizioni dirigenziali di staff e alla determinazione, nei limiti dell'organico, del relativo personale di supporto, provvede la Giunta con l'atto di organizzazione di cui all'<rif xlink:href="#art30">articolo 30</rif>.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art28">
+                <num>Art. 28</num>
+                <rubrica>: GRUPPI DI LAVORO 
+</rubrica>
+                <comma id="art28-com1">
+                    <num/>
+                    <alinea> 
+1. Possono essere costituiti gruppi di lavoro:  
+ 
+</alinea>
+                    <el id="art28-com1-leta">
+                        <num>a)</num>
+                        <corpo> per realizzare progetti operativi o di studio che interessano più settori o più direzioni generali;</corpo>
+                    </el>
+                    <el id="art28-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> per assolvere ad esigenze di integrazione funzionale;</corpo>
+                    </el>
+                    <el id="art28-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> per attuare il collegamento tra settori appartenenti a distinte aree operative.  
+ 
+2. La costituzione compete alla Giunta Regionale ovvero all'Ufficio di Presidenza per i servizi del Consiglio Regionale, su proposta dei direttori generali o del segretario generale competente. 
+ 
+3. I responsabili di servizio, nell'ambito delle strutture da essi dirette, possono ricorrere a forme di lavoro di gruppo per il conseguimento degli obiettivi loro assegnati.</corpo>
+                    </el>
+                </comma>
+                <comma id="art28-com2">
+                    <num/>
+                    <corpo>TITOLO V: DEFINIZIONE DELLE STRUTTURE, DETERMINAZIONE E DELL'ORGANICO E GESTIONE DEL PERSONALE 
+ </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art29">
+                <num>Art. 29</num>
+                <rubrica>: QUALIFICHE FUNZIONALI 
+</rubrica>
+                <comma id="art29-com1">
+                    <num/>
+                    <corpo> 
+1. Il personale della Regione è inquadrato in unico organico, che ricomprende una qualifica dirigenziale ed otto qualifiche non dirigenziali.  </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art30">
+                <num>Art. 30</num>
+                <rubrica>: PRIMA DETERMINAZIONE DELLE STRUTTURE E DELLE DOTAZIONI ORGANICHE 
+</rubrica>
+                <comma id="art30-com1">
+                    <num/>
+
+                    <alinea> 
+1. Entro centottanta giorni dall'entrata in vigore della presente legge, la Giunta Regionale approva l'atto di organizzazione ai sensi dell'<rif
+                            xlink:href="#art4">art. 4</rif>, previa misurazione dei carichi di lavoro,sentito, per quanto di competenza, l'Ufficio di Presidenza del Consiglio Regionale ed esperita informazione alle organizzazioni sindacali maggiormente rappresentative, nel rispetto dei criteri di organizzazione degli uffici enunciati nel <rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29">decreto legislativo 3 febbraio 1993, n. 29</rif> e successive modificazioni. Con tale atto di organizzazione, la Giunta Regionale:  
+ 
+</alinea>
+                    <el id="art30-com1-leta">
+                        <num>a)</num>
+                        <corpo> approva la rilevazione di tutto il personale in servizio, distinto per sedi e per qualifiche funzionali, evidenziante le posizioni di ruolo numerarie e soprannumerarie, non di ruolo, fuori ruolo, comando, distacco e con contratto a tempo determinato e a tempo parziale;</corpo>
+                    </el>
+                    <el id="art30-com1-letb">
+                        <num>  
+ 
+b)</num>
+
+                        <corpo> determina l'articolazione in sezioni delle strutture speciali di cui al <rif xlink:href="#art26-com1">comma primo dell'articolo 26</rif>;</corpo>
+                    </el>
+                    <el id="art30-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> costituisce i servizi e le sezioni in cui ciascuna direzione generale si articola;</corpo>
+                    </el>
+                    <el id="art30-com1-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo> definisce le competenze di ciascuna struttura;</corpo>
+                    </el>
+                    <el id="art30-com1-lete">
+                        <num>  
+ 
+e)</num>
+                        <corpo> definisce e disciplina, in numero non superiore a dieci, gli incarichi dirigenziali di consulenza, di ispezione e vigilanza e di studio e ricerca;</corpo>
+                    </el>
+                    <el id="art30-com1-letf">
+                        <num> 
+ 
+f)</num>
+
+                        <corpo> ridetermina la pianta organica, di cui alla <rif
+                                xlink:href="urn:nir:regione.molise:legge:1988-11-23;24">legge regionale 23 novembre 1988, n. 24</rif>, secondo le risultanze della misurazione dei carichi di lavoro individuando, altresì, le riserve di cui al <rif
+                                xlink:href="urn:nir:stato:decreto.legislativo:1993-12-23;546">D.lgs. 546 del 23 dicembre 1993</rif> - <rif
+                                xlink:href="#art19">art.19</rif> -, modificativo della <rif xlink:href="urn:nir:stato:legge:1968-04-02;482">legge 2 aprile 1968, n. 482</rif>, e tutte le altre misure previste dalla vigente normativa;</corpo>
+                    </el>
+                    <el id="art30-com1-letg">
+                        <num>  
+ 
+g)</num>
+                        <corpo> ripartisce la nuova pianta organica in dotazione dirigenziale e dotazione non dirigenziale e definisce, per ciascuna qualifica non dirigenziale, il relativo contingente;</corpo>
+                    </el>
+                    <el id="art30-com1-leth">
+                        <num>  
+ 
+h)</num>
+                        <corpo> ripartisce l'organico complessivo e i contingenti di qualifica tra le direzioni generali, i servizi, le sezioni, i supporti alle funzioni dirigenziali di staff e le segreterie dei direttorigenerali e dei segretari generali;</corpo>
+                    </el>
+                    <el id="art30-com1-leti">
+                        <num>  
+ 
+i)</num>
+                        <corpo>
+                            <mod
+                                    id="art30-com1-leti-mod2"> dichiara gli esuberi e le carenze per ciascuna qualifica. 
+ 
+2. Entro trenta giorni dal conferimento degli incarichi di direttore generale e di segretario generale, vengono costituiti gli uffici. Successivamente, in qualunque tempo gli uffici possono essere costituiti, soppressi o modificati.  
+ 
+3. Dalla ridefinizione delle strutture e della pianta organica di cui al presente articolo deve conseguirsi una riduzione per accorpamento delle preesistenti strutture dirigenziali e, corrispondentemente, della preesistente dotazione organica dirigenziale in misura non inferiore al trenta per cento.  
+ 
+4. La prima determinazione di strutture ed organici deve rispettare il limite della spesa per il personale rilevata al 31 dicembre 1995.  
+ 
+5. Sino alla prima definizione dell'organico ai sensi del presente articolo resta ferma la rideterminazione provvisoria di cui all'<rif xlink:href="urn:nir:stato:legge:1993-12-24;537#art3-com6">articolo 3, comma sesto, della legge 24 dicembre 1993, n. 537</rif>.  
+ 
+6. I provvedimenti di cui ai commi precedenti sono pubblicati nel Bollettino Ufficiale della Regione.</mod>
+                        </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art31">
+                <num>Art. 31</num>
+                <rubrica>: REVISIONI BIENNALI 
+</rubrica>
+                <comma id="art31-com1">
+                    <num/>
+
+                    <corpo> 
+1. Con le stesse modalità e procedure di cui al <rif xlink:href="#art30">precedente articolo 30</rif>, a scadenza biennale, la Giunta Regionale, sulla base di apposita rilevazione dei carichi di lavoro, provvede alla verifica e all'eventuale rideterminazione della struttura organizzativa e della pianta organica.  
+ 
+2. Le revisioni biennali si conformano ad esigenze di adeguamento dell'assetto organizzativo a modificazioni istituzionali e funzionali, a sopraggiunte deleghe di funzioni a soggetti esterni nonché all'esigenza di evitare sovrapposizioni o duplicazioni di funzioni.  
+ 
+3. Ove comportino maggiori spese, alle rideterminazioni biennali si provvede con legge.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art32">
+                <num>Art. 32</num>
+                <rubrica>: MOBILITÀ DEL PERSONALE 
+</rubrica>
+                <comma id="art32-com1">
+                    <num/>
+
+                    <corpo> 
+1. La mobilità esterna del personale anche conseguente a delega di funzioni agli enti locali, è disciplinata dalla Giunta Regionale con atto di organizzazione, previa informazione alle organizzazioni sindacali maggiormente rappresentative, in armonia con le disposizioni del <rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29">decreto legislativo 3 febbraio 1993, n. 29</rif> e successive modificazioni. La Regione, per conto anche degli enti strumentali e dipendenti, aderisce alla mobilità nazionale secondo le disposizioni di legge dello Stato vigenti nel tempo.  
+ 
+2. La Giunta Regionale, con le modalità di cui al <rif xlink:href="#art32-com1">comma primo</rif>, disciplina altresì la mobilità interna secondo criteri di:</corpo>
+                </comma>
+                <comma id="art32-com2">
+                    <num/>
+
+                    <corpo>a) salvaguardia dell'interesse della Regione all'ottimale utilizzo del personale dipendente, in relazione ai fabbisogni operativi delle strutture organizzative, alle professionalità ed attitudini dei dipendenti e alle qualifiche da questi rivestite;  
+ 
+b) rispetto, sin dove possibile, delle necessità personali, di salute e familiari dei dipendenti;  
+ 
+c) considerazione dell'anzianità di servizio;  
+ 
+d) rigorosa garanzia delle pari opportunità tra i dipendenti;  
+ 
+e) puntuale, dettagliata e concreta motivazione dei trasferimenti.  
+ 
+3. I trasferimenti interni sono disposti d'ufficio o a domanda. Vi provvede la Giunta Regionale, salvi i casi in cui sono competenti i segretari generali o i direttori generali.  
+ 
+4. I trasferimenti nell'ambito delle strutture di supporto al Consiglio Regionale competono al Segretario Generale del Consiglio. I trasferimenti da e verso le strutture suddette sono disposti dalla Giunta Regionale previa richiesta dell'Ufficio di Presidenza ovvero previo assenso dell'Ufficio stesso quando l'iniziativa è di Giunta. Il diniego di assenso da parte dell'Ufficio di Presidenza deve essere puntualmente motivato in relazione a profili attitudinali del dipendente interessato ed esigenze funzionali di obiettivo rilievo.  
+ 
+5. I trasferimenti tra strutture dipendenti dal Presidente della Giunta sono disposti dal Segretario Generale della Presidenza della Giunta.  
+ 
+6. I trasferimenti tra strutture della stessa direzione generale sono disposti dal direttore generale competente.  
+ 
+7. Fatti salvi i casi di evidente incompatibilità ambientale e di comprovato disagio del dipendente per gravi motivi familiari o di salute, la mobilità interna è disposta sulla base di elenchi di carenze ed esuberi distinti per direzionegenerale e per servizio nonché di graduatorie per la mobilità a domanda, che vengono aggiornati annualmente a cura della struttura competente al personale e pubblicati sul B.U.R.M.  
+ 
+8. Il personale che non ottemperi al trasferimento d'ufficiodisposto in caso di esubero, anche ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#art32-com2">articolo 32, comma 2 del decreto legislativo 3 febbraio 1993, n.29</rif>, è collocato in disponibilità a norma del titolo VI, capo II, del T.U. approvato con <rif xlink:href="urn:nir:presidente.repubblica:decreto:1957-01-10;3">D.P.R. 10 gennaio 1957, n. 3</rif>.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art33">
+                <num>Art. 33</num>
+                <rubrica>: FORMAZIONE ED AGGIORNAMENTO PROFESSIONALE DEI DIPENDENTI 
+</rubrica>
+                <comma id="art33-com1">
+                    <num/>
+                    <corpo> 
+1. La formazione e l'aggiornamento professionale dei dipendenti sono strumento di perfezionamento organizzativo, contribuiscono all'ottimale utilizzo delle risorse umane, anche tramite processi di riconversione professionale, e promuovono l'elevazione culturale e professionale nonché le pari opportunità.  
+ 
+2. Entro il mese di settembre di ogni anno la Giunta Regionale approva il piano annuale delle attività formative redatto dal direttore generale preposto agli affari del personale sulla base delle proposte dei responsabili di tutti i servizi operanti nell'amministrazione.  
+ 
+3. Le iniziative formative sono programmate in funzione di risultati di immediata applicazione operativa e tenendo conto di concrete esigenze funzionali delle strutture.  
+ 
+4. Per la formazione e l'aggiornamento del personale la Regione può avvalersi di soggetti esterni di estrema e comprovata qualificazione, anche tramite convenzioni e adesioni ad iniziative associative o consortili.</corpo>
+                </comma>
+                <comma id="art33-com2">
+                    <num/>
+                    <corpo>TITOLO VI: RAPPORTO DI LAVORO 
+ </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art34">
+                <num>Art. 34</num>
+                <rubrica>: ACCESSO ALL'IMPIEGO 
+</rubrica>
+                <comma id="art34-com1">
+                    <num/>
+
+                    <corpo> 
+1. Ferma restando la disciplina delle assunzioni dei dirigenti prevista dalla presente legge, l'accesso all'impiego regionale è disciplinato dagli articoli 36, 37, 41, 42, e 43 del <rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29">decreto legislativo 3 febbraio 1993, n. 29</rif>.  
+ 
+2. Nei concorsi per il reclutamento di personale nelle qualifiche non dirigenziali, il cinquanta per cento dei posti, con arrotondamento all'unità superiore, è riservato al personale interno, inquadrato nella qualifica funzionale immediatamente inferiore, in possesso del titolo di studio richiesto per l'accesso dall'esterno.  
+ 
+3. Alle selezioni di cui al precedente comma è altresì ammessa, senza diritto alla riserva, la partecipazione del personale interno inquadrato nella qualifica funzionale immediatamente inferiore:</corpo>
+                </comma>
+                <comma id="art34-com2">
+                    <num/>
+                    <corpo>a) con titolo di studio del livello di appartenenza e con almeno tre anni di servizio effettivo prestato nella qualifica stessa e nella medesima area professionale dei posti messi a concorso;  
+ 
+b) con titolo di studio del livello di appartenenza e con almeno cinque anni di servizio effettivo prestato nella qualifica stessa ed in aree professionali diverse da quella dei posti messi a concorso.  </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art35">
+                <num>Art. 35</num>
+                <rubrica>: RAPPORTO DI LAVORO E TRATTAMENTO ECONOMICO 
+</rubrica>
+                <comma id="art35-com1">
+                    <num/>
+
+                    <corpo> 
+1. I rapporti individuali di lavoro del personale regionale sono regolati per contratto.  
+ 
+2. La Regione Molise osserva come obbligatorie le disposizioni di cui ai contratti collettivi stipulati ai sensi del <rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#tit3">titolo III del decreto legislativo 3 febbraio 1993, n. 29</rif> e successive modificazioni.  
+ 
+3. Il trattamento economico del personale regionale è definito dai contratti collettivi. A parità di qualifica e, nell'ambito della stessa qualifica, a parità di funzioni o di mansioni, deve corrispondere parità di trattamento economico, anche accessorio. I dipendenti di enti pubblici o dell'Amministrazione Statale che accedono all'impiego presso la Regione Molise per concorso o trasferimento di ruolo conservano il trattamento economico di anzianità in godimento presso l'amministrazione di provenienza.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art36">
+                <num>Art. 36</num>
+                <rubrica>: INCOMPATIBILITÀ, CUMULO DI IMPIEGHI E INCARICHI 
+</rubrica>
+                <comma id="art36-com1">
+                    <num/>
+
+                    <corpo> 
+1. In materia di incompatibilità, cumulo di impieghi e conferimento di incarichi si applica l'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#art58">articolo 58 del decreto legislativo 3 febbraio 1993 n. 29</rif> e successive modificazioni.  
+ 
+2. Il dipendente regionale non può esercitare alcun commercio, industria o professione nè assumere impieghi alle dipendenze di privati o di enti pubblici o incarichi remunerati. 
+ 
+3. Su richiesta dell'interessato, la Giunta Regionale, acquisito il parere del direttore generale o del segretario generale competente, può autorizzare l'accettazione di incarichi temporanei ed occasionali da enti pubblici o da associazioni o enti privati non aventi fini di lucro.  
+ 
+4. Nei casi stabiliti dalla legge, al dipendente regionale sono conferiti incarichi negli enti o nelle aziende di cui all'<rif xlink:href="urn:nir:regione.molise:statuto:#art49">articolo 49 dello Statuto Regionale</rif>. 
+ 
+5. Il dipendente che si trovi in una delle situazioni di incompatibilità di cui al presente articolo è sottoposto a procedimento disciplinare se la situazione di incompatibilità non cessa nel termine indicato in apposita diffida da effettuarsi a cura del direttore generale o segretario generale competente.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art37">
+                <num>Art. 37</num>
+                <rubrica>: MANSIONI 
+</rubrica>
+                <comma id="art37-com1">
+                    <num/>
+
+                    <corpo> 
+1. Il dipendente regionale deve essere adibito alle mansioni proprie della qualifica di appartenenza. 
+ 
+2. Fatte salve le funzioni dirigenziali, il dipendente, ai fini della pienezza dei risultati operativi, è tenuto all'espletamento dei compiti complementari o strumentali alle mansioni proprie della qualifica di appartenenza.  
+ 
+3. Il dirigente può occasionalmente chiedere al proprio collaboratore di svolgere, in misura non prevalente, mansioni della qualifica superiore ovvero mansioni immediatamente inferiori senza che a ciò consegua alcuna variazione di trattamento economico.  
+ 
+4. L'attribuzione temporanea di mansioni superiori è disciplinata dalle disposizioni di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#art57">articolo 57 del decreto legislativo 3 febbraio 1993, n. 29</rif> ed è disposta dai dirigenti.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art38">
+                <num>Art. 38</num>
+                <rubrica>: RESPONSABILITÀ E SANSIONI DISCIPLINARI 
+</rubrica>
+                <comma id="art38-com1">
+                    <num/>
+
+                    <corpo> 
+1. Per i dipendenti della Regione Molise resta ferma la disciplina in materia di responsabilità civile, amministrativa, penale e contabile prevista per i dipendenti delle amministrazioni pubbliche. Agli stessi si applicano l'<rif
+                            xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2106">articolo 2106 del codice civile</rif> e l'<rif
+                            xlink:href="#art7">articolo 7</rif>, commi primo, quarto e ottavo, della <rif
+                            xlink:href="urn:nir:stato:legge:1970-05-20;300">legge 20 maggio 1970, n. 300</rif>.  
+ 
+2. Fatte salve le disposizioni sulla responsabilità dirigenziale e salvo quanto previsto dall'<rif xlink:href="#art36">articolo 36</rif>, la tipologia e l'entità delle infrazioni disciplinari e delle relative sanzioni sono definite dai contratti collettivi.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art39">
+                <num>Art. 39</num>
+                <rubrica>: PROCEDIMENTO DISCIPLINARE 
+</rubrica>
+                <comma id="art39-com1">
+                    <num/>
+                    <corpo> 
+1. Il procedimento disciplinare si conforma a quanto in materia previsto dai contratti collettivi nazionali vigenti nel tempo.  
+ 
+2. Competenti alla contestazione degli addebiti, da effettuarsi in forma scritta, sono:</corpo>
+                </comma>
+                <comma id="art39-com2">
+                    <num/>
+                    <corpo>a) i dirigenti nei confronti dei dipendenti assegnati alle rispettive strutture;  
+ 
+b) i direttori generali e segretari generali nei confronti dei dirigenti e dei diretti collaboratori da essi dipendenti;  
+ 
+c) il Presidente della Giunta, la Giunta Regionale e l'Ufficio di Presidenza del Consiglio Regionale, per quanto di rispettiva competenza, nei confronti dei direttori generali e dei segretari generali;  
+ 
+d) il direttore generale preposto agli affari del personale, nei confronti del personale delle segreterie particolari.  
+ 
+3. Alla contestazione seguono la convocazione scritta per la difesa e l'audizione del dipendente che può avvalersi dell'assistenza di un sindacato di categoria.  
+ 
+4. Gli adempimenti di cui ai commi secondo e terzo non si effettuano quando la sanzione da irrogare sia il rimprovero verbale.  
+ 
+5. Sino al rimprovero scritto, competente all'irrogazione della sanzione è lo stesso soggetto competente alla contestazione. Ove il competente alla contestazione ritenga che per il fatto debba essere comminata una sanzione più grave del rimprovero scritto, trasmette gli atti, unitamente alle proprie osservazioni scritte, al direttore generale preposto agli affari del personale, dandone notizia all'interessato.  
+ 
+6. Il direttore generale preposto agli affari del personale, valutati i fatti, può:</corpo>
+                </comma>
+                <comma id="art39-com3">
+                    <num/>
+                    <corpo>a) disporre la chiusura del procedimento, dandone comunicazione all'interessato, ove ritenga che non vi sia luogo a procedere disciplinarmente;  
+ 
+b) esperire ulteriore istruttoria e contestare nuovi addebiti disponendo una nuova convocazione dell'interessato;  
+ 
+c) procedere all'audizione del dipendente;  
+ 
+d) irrogare le sanzioni disciplinari più gravi del rimprovero scritto.  
+ 
+7. Su richiesta del dipendente, in ogni fase del procedimento, può essere concordata l'irrogazione della sanzione immediatamente inferiore a quella corrispondente all'infrazione contestata, fatti salvi i casi di illecito disciplinare di massima gravità. La sanzione ridotta non è suscettibile di impugnazione.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art40">
+                <num>Art. 40</num>
+                <rubrica>: COLLEGIO ARBITRALE DI DISCIPLINA 
+</rubrica>
+                <comma id="art40-com1">
+                    <num/>
+
+                    <corpo> 
+1. Il Collegio arbitrale di disciplina opera secondo le disposizioni di cui ai commi settimo e ottavo dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#art59">articolo 59 del decreto legislativo 3 febbraio 1993,n. 29</rif> e successive modificazioni. Le stesse disposizioni regolano il procedimento dinanzi al Collegio.  
+ 
+2. Il Collegio, che resta in carica due anni, è composto da due rappresentanti dell'Amministrazione, da due rappresentanti del personale e da un avvocato, con funzioni di presidente, iscritto all'albo professionale da almeno cinque anni.  
+ 
+3. Il Collegio opera a rotazione dei componenti nominati ai sensi del successivo comma quarto. I procedimenti vengono assegnati uno per volta, a rotazione degli organici collegiali, secondo l'ordine cronologico di ricevimento delle impugnazioni.  
+ 
+4. Per la composizione degli organici collegiali, la Giunta nomina cinque rappresentanti dell'Amministrazione e cinque rappresentanti del personale, questi ultimi designati congiuntamente dalle rappresentanze sindacali firmatarie del Contratto Collettivo Nazionale di Lavoro, nonché tre presidenti scelti tra i designati dai Consigli dell'Ordine degli avvocati di Campobasso, Isernia e Larino. Con gli stessi provvedimenti, per ciascuno dei rappresentanti dell'Amministrazione e del personale nonché per ciascun presidente, viene nominato un supplente.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art41">
+                <num>Art. 41</num>
+                <rubrica>: CONTRATTAZIONE DECENTRATA 
+</rubrica>
+                <comma id="art41-com1">
+                    <num/>
+
+                    <corpo> 
+1. La contrattazione collettiva decentrata è disciplinata dalle disposizioni di cui al <rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#tit3">titolo III del decreto legislativo 3 febbraio 1993, n.29</rif> e successive modificazioni, per quanto applicabili.  
+ 
+2. La delegazione di parte pubblica è composta dal Presidente della Giunta Regionale o dall'Assessore delegato, che la presiede, dal direttore generale preposto agli affari del personale o da altro dirigente da lui delegato e dai dirigenti interessati alle materie e oggetto di contrattazione. 
+ 
+3. La sottoscrizione dei contratti collettivi è autorizzata dalla Giunta Regionale.</corpo>
+                </comma>
+                <comma id="art41-com2">
+                    <num/>
+                    <corpo>TITOLO VII: DISPOSIZIONI VARIE, TRANSITORIE E FINALI; 
+ </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art42">
+                <num>Art. 42</num>
+                <rubrica>: ESTENSIONE AGLI ENTI DIPENDENTI 
+</rubrica>
+                <comma id="art42-com1">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art42-com1-mod3"> 
+1. Le disposizioni di cui alla presente legge sono estese, per quanto compatibili con i fini istituzionali e con l'ordinamento interno, agli enti pubblici non economici dipendenti dalla Regione Molise, compresi gli istituti autonomi per le case popolari.  
+ 
+2. I provvedimenti organizzativi per i quali la presente legge prevede la competenza del Consiglio o della Giunta Regionale sono adottati dagli organi istituzionali di ciascun ente secondo le competenze previste dai rispettivi ordinamenti.  
+ 
+3. Salvo diverse disposizioni di legge, gli organi direttivi degli enti di cui al <rif
+                                xlink:href="#art42-com1">comma primo</rif>, entro centottanta giorni dall'entrata in vigore della presente legge, presentano al Consiglio Regionale un progetto di ridefinizione della dotazione organica e della struttura organizzativa, nel rispetto del limite massimo della dotazione esistente. Alla scadenza del suddetto termine, il progetto è redatto dalla Giunta Regionale.  
+ 
+4. La dotazione di personale amministrativo, distinta per qualifiche, dell'Istituto Regionale per gli Studi Storici del Molise, di cui all'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1977-09-02;26#art4">articolo 4 della legge regionale 2 settembre 1977, n. 26</rif>, è stabilita, sulla base della revisione dei carichi di lavoro, dalla Giunta Regionale con l'atto di organizzazione di cui all'<rif
+                                xlink:href="#art30">articolo 30</rif> ed è periodicamente rivista a norma dell'<rif
+                                xlink:href="#art31">articolo 31</rif>.  
+ 
+5. Con le modalità di cui al comma quarto si provvede alla determinazione della struttura organizzativa e della dotazione organica, distinta per qualifiche, anche dirigenziali, dell'Ente per il diritto allo studio universitario (E.S.U.),secondo quanto previsto dagli articoli 25 e 26 della <rif
+                                xlink:href="urn:nir:regione.molise:legge:1995-01-09;1">legge regionale 9 gennaio 1995, n.1</rif>. 
+ 
+6. Con effetto dall'esecutività dei provvedimenti organizzativi adottati dagli enti di cui al <rif
+                                xlink:href="#art42-com1">comma primo</rif> ai sensi dell'<rif xlink:href="#art30">articolo 30</rif> della presente legge, sono abrogate le disposizioni di legge regionale che determinano le strutture organizzative e le piante organiche degli Enti stessi.</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art43">
+                <num>Art. 43</num>
+                <rubrica>: DELEGAZIONI COMPRENSORIALI 
+</rubrica>
+                <comma id="art43-com1">
+                    <num/>
+
+                    <corpo> 
+1. Per l'espletamento delle funzioni di cui al <rif xlink:href="#art43-com2">secondo comma</rif>, sono istituite le delegazioni comprensoriali dell'Alto Molise e del Molise Centrale e del Basso Molise, con sedi rispettivamente in Isernia, Campobasso e Termoli.  
+ 
+2. Le delegazioni hanno compiti di:</corpo>
+                </comma>
+                <comma id="art43-com2">
+                    <num/>
+
+                    <corpo>a) raccordo tra la Regione e gli enti locali del comprensorio, quali soggetti di programmazione, per la cura dei rapporti previsti dall'<rif xlink:href="urn:nir:stato:legge:1990-06-08;142#art3">art. 3 della Legge 8 giugno 1990, n.142</rif>.  </corpo>
+                </comma>
+                <comma id="art43-com3">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art43-com3-mod4">b) impulso, analisi e verifica in ordine all'attuazione, in ambito comprensoriale, della programmazione regionale nonché rilevazione di dati per il miglioramento dell'efficacia dei provvedimenti regionali finalizzati allo sviluppo socioeconomico o comunque concernenti le attività economiche, la gestione del territorio e la progettazione e gestione dei servizi pubblici;  
+ 
+c) sportello unico decentrato per tutti i servizi amministrativi regionali; 
+ 
+d) ufficio decentrato per le relazioni con il pubblico organizzato secondo i criteri di cui all'<rif
+                                xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#art12">articolo 12 del decreto legislativo 3 febbraio 1993, n. 29</rif> e sue successive modificazioni.  
+ 
+3. Le delegazioni dipendono funzionalmente dal direttore generale competente alla programmazione ed ai rapporti con gli enti locali ed operano, per quanto occorra all'espletamento delle loro funzioni, in sinergia con tutti i servizi dell'amministrazione regionale. 
+ 
+4. Entro novanta giorni dall'entrata in vigore della presente legge, il Consiglio regionale, su proposta della Giunta, provvede a definire gli ambiti di competenza territoriale delle tre delegazioni.  
+ 
+5. Con l'atto di organizzazione di cui all'<rif
+                                xlink:href="#art30">articolo 30</rif>, la Giunta regionale provvede a definire l'organizzazione strutturale e le dotazioni organiche delle tre delegazioni, nei limiti della pianta organica determinata ai sensi della presente legge.  
+ 
+6. In attesa di trasferimenti ed attribuzioni di compiti e funzioni agli Enti locali in attuazione della <rif
+                                xlink:href="urn:nir:stato:legge:1990;142">Legge n. 142 del 1990</rif>, restano operanti tutte le strutture periferiche attualmente esistenti, ad eccezione di quelle palesemente in contrasto con i principi informatori della presente legge. Le dotazioni organiche delle strutture eventualmente soppresse vanno utilizzate per i compiti di cui al <rif xlink:href="#art43-com2">precedente comma 2</rif>.</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art44">
+                <num>Art. 44</num>
+                <rubrica>: DISPOSIZIONI TRANSITORIE PER LA DIRIGENZA, PER L'ASSEGNAZIONE DEL PERSONALE E PER LA VERIFICA DI EFFICIENZA DEL NUOVO SISTEMA ORGANIZZATIVO 
+</rubrica>
+                <comma id="art44-com1">
+                    <num/>
+
+                    <corpo> 
+1. Entro trenta giorni dalla conseguita efficacia dell'atto di organizzazione di cui all'<rif
+                            xlink:href="#art30-com1">articolo 30, comma primo</rif>, sono conferiti gli incarichi di direttore generale e di segreta-rio generale del Consiglio e della Presidenza della Giunta.  
+ 
+2. Entro i successivi trenta giorni sono conferiti gli incarichi di direzione dei servizi e delle sezioni e gli incarichi di funzione dirigenziale di consulenza, di ispezione e vigilanza e di studio e ricerca. 
+ 
+3. Gli incarichi dirigenziali ed il funzionamento delle strutture in essere ai sensi del pregresso ordinamento cessano con effetto dal giorno dell'assunzione dei nuovi incarichi conferiti a norma del precedente comma secondo. A decorrere dallo stesso giorno ha inizio il periodo di collocamento a disposizione dei dirigenti che risultino privi di incarico.  
+ 
+4. Gli incarichi di direzione ed il funzionamento delle unità operative organiche in essere ai sensi del pregresso ordinamento cessano con effetto dal giorno dell'assunzione dei nuovi incarichi attribuiti a norma dell'<rif
+                            xlink:href="#art10-com1-lete">articolo 10, comma 1, lettera e)</rif>, ovvero al verificarsi della mobilità interna prevista al comma 7. 
+ 
+5. I dirigenti in servizio che risultino privi di incarico in sede di prima applicazione della presente legge, anche decorso il periodo di collocamento a disposizione, hanno titolo al conferimento degli incarichi dirigenziali che dovessero rendersi vacanti, fatte salve diverse motivate valutazioni degli organi competenti al conferimento.  
+ 
+6. Per il tempo di tre anni dall'entrata in vigore della presente legge non può procedersi ad assunzioni di personale nella qualifica dirigenziale ove risultino in servizio dirigenti in posizione di sponibilità o sovrannumero.  
+ 
+7. Entro il termine di cui al secondo comma, tutto il personale dipendente delle qualifiche non dirigenziali è assegnato alle nuove strutture nel rispetto dei criteri e secondo la disciplina della mobilità interna di cui all'<rif
+                            xlink:href="#art32">articolo 32</rif> ed all'atto di organizzazione ivi previsto.  
+ 
+8. Sino alla scadenza di un anno dall'adozione dell'atto di organizzazione di cui all'<rif
+                            xlink:href="#art30">articolo 30</rif>, il Comitato Consultivo della Giunta costituito a norma dell'<rif xlink:href="#art6">articolo 6</rif>, necessariamente integrato da almeno due esperti esterni in materia di organizzazione amministrativa, svolge anche funzioni di verifica della efficienza del nuovo sistema organizzativo nonché di proposte di eventuali modifiche da apportare alla presente legge o agli atti amministrativi ad essa conseguenti.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art45">
+                <num>Art. 45</num>
+                <rubrica>: UTUILIZZAZIONE DELLE GRADUATORIE DI CONCORSO E DEFINIZIONE DEI CONSORSI IN ATTO 
+</rubrica>
+                <comma id="art45-com1">
+                    <num/>
+
+                    <corpo> 
+1. In sede di prima applicazione della presente legge, la Regione procede alla copertura del 50% dei posti vacanti - per le qualifiche funzionali non dirigenziali - utilizzando prioritariamente le graduatorie degli idonei dei concorsi già espletati. Il numero dei posti vacanti è determinato con riferimento all'ultimo rilievo della dotazione organica della Regione, effettuata ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1993-11-24;537#art3-com6">art. 3, comma 6, della legge 537 del 24 novembre 1993</rif>. La Regione procede alla loro copertura nel termine di giorni 60 dalla pubblicazione della presente legge.  
+ 
+2. Le procedure concorsuali in atto alla data dell'entrata in vigore della presente legge sono portate a compimento con le modalità e secondo le disposizioni richiamate nei relativi bandi.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art46">
+                <num>Art. 46</num>
+                <rubrica>: PERSONALE IN POSIZIONE DI COMANDO 
+</rubrica>
+                <comma id="art46-com1">
+                    <num/>
+
+                    <corpo> 
+1. Il personale in posizione di comando presso la Regione Molise alla data di approvazione in Giunta della proposta di legge n. 78, viene inquadrato nel ruolo regionale nei modi e nei limiti di cui ai successivi commi. 
+ 
+2. Gli inquadramenti ai sensi del <rif
+                            xlink:href="#art46-com1">comma 1</rif> sono disposti nel limite del novanta per cento dei posti di qualifica, che risultino liberi e disponibili nella pianta organica come rideterminata in sede di prima applicazione della presente legge, destinati ad essere coperti per mobilità da altri enti od amministrazioni.  
+ 
+3. Gli inquadramenti sono disposti dietro istanza degli interessati, da presentarsi, a pena di decadenza, entro 60 giorni dall'entrata in vigore della presente legge, previo assenso degli enti od amministrazioni di rispettiva appartenenza.  
+ 
+4. Qualora la disponibilità dei posti, quantificata ai sensi del <rif xlink:href="#art46-com2">comma 2</rif>, risulti inferiore al numero dei comandati che abbiano richiesto l'inquadramento in ruolo, gli inquadramenti sono disposti, sino a concorrenza dei posti disponibili nel rispetto delle seguenti precedenze:</corpo>
+                </comma>
+                <comma id="art46-com2">
+                    <num/>
+
+                    <corpo>a) comprovate situazioni tutelate ai sensi degli articoli 21 e 33 della <rif
+                            xlink:href="urn:nir:stato:legge:1992-02-05;104">Legge 5 febbraio 1992, n. 104</rif>;  
+ 
+b) comprovato motivo di ricongiungimento al coniuge lavoratore;  
+ 
+c) maggiore anzianità di servizio effettivo e continuativo in posizione di comando presso la Regione con riferimento al periodo di servizio in corso alla data di entrata in vigore della presente legge. A parità di titoli prevalgono nell'ordine l'anzianità di servizio per periodo continuativo in posizione di comando e l'età.  
+ 
+5. La decorrenza degli inquadramenti è fissata al giorno successivo a quello della conseguita efficacia del provvedimento di rideterminazione della pianta organica.  
+ 
+6. I comandi di coloro che richiedano l'inquadramento ai sensi del presente articolo sono prorogati, previo assenso degli enti od amministrazioni di appartenenza sino alla decorrenza iniziale dell'inquadramento stesso.  
+ 
+7. Restano salvi gli effetti della <rif
+                            xlink:href="urn:nir:regione.molise:legge:1995-02-28;9">legge regionale 28 febbraio 1995, n. 9</rif>, anche a beneficio dei destinatari della legge stessa che, alla data di entrata in vigore della presente legge, non si trovino in servizio in posizione di comando presso la Regione Molise. I relativi inquadramenti saranno disposti con precedenza rispetto a quelli disciplinati dal presente articolo, ma comunque nel rispetto del limite di cui al <rif xlink:href="#art46-com2">comma 2</rif>.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art47">
+                <num>Art. 47</num>
+                <rubrica>: ABROGAZIONI 
+</rubrica>
+                <comma id="art47-com1">
+                    <num/>
+                    <alinea>
+                        <mod id="art47-com1-mod5"> 
+1. Sono abrogate le seguenti disposizioni di legge regionale in materia di organizzazione:  
+ 
+</mod>
+                    </alinea>
+                    <el id="art47-com1-leta">
+                        <num>a)</num>
+                        <corpo>
+                            <mod id="art47-com1-leta-mod6">
+                                <rif
+                                    xlink:href="urn:nir:regione.molise:legge:1976-06-25;21">legge regionale 25 giugno 1976, n. 21</rif>: Interamente abrogata con effetto dall'adozione dell'atto di organizzazione ai sensi dell'<rif xlink:href="#art30">art. 30</rif> della presente legge;</mod>
+                        </corpo>
+                    </el>
+                    <el id="art47-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo>
+                            <mod id="art47-com1-letb-mod7">
+                                <rif
+                                    xlink:href="urn:nir:regione.molise:legge:1977-12-19;47">legge regionale 19 dicembre 1977, n. 47</rif>: Interamente abrogata con effetto dall'adozione dell'atto di organizzazione ai sensi dell'<rif xlink:href="#art30">art.30</rif> della presente legge;</mod>
+                        </corpo>
+                    </el>
+                    <el id="art47-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo>
+                            <mod id="art47-com1-letc-mod8">
+                                <rif
+                                    xlink:href="urn:nir:regione.molise:legge:1985-04-29;13">legge regionale 29 aprile 1985, n. 13</rif>: con effetto dall'adozione dell'atto di organizzazione ai sensi dell'<rif
+                                    xlink:href="#art30">articolo 30</rif> della presente legge, abrogate la prima e la seconda qualifica di cui all'elenco successivo all'alinea del <rif
+                                    xlink:href="#art14-com1">comma 1 dell'articolo 14</rif>; abrogati i paragrafi dell'allegato &lt;&lt;<virgolette
+                                    id="art47-com1-letc-mod8-vir3"> A </virgolette>&gt;&gt; recanti i seguenti titoli: &lt;&lt;<virgolette
+                                    id="art47-com1-letc-mod8-vir4">Funzione dirigenziale - finalità</virgolette>&gt;&gt;, &lt;&lt;<virgolette
+                                    id="art47-com1-letc-mod8-vir5">Attribuzioni e compiti dei dirigenti regionali</virgolette>&gt;&gt;, &lt;&lt;<virgolette
+                                    id="art47-com1-letc-mod8-vir6">Responsabilità dei dirigenti</virgolette>&gt;&gt;, &lt;&lt;<virgolette
+                                    id="art47-com1-letc-mod8-vir7">Prima qualifica dirigenziale</virgolette>&gt;&gt;, &lt;&lt;<virgolette
+                                    id="art47-com1-letc-mod8-vir8">Seconda qualifica dirigenziale</virgolette>&gt;&gt;, abrogata la Tabella &lt;&lt;<virgolette id="art47-com1-letc-mod8-vir9">C</virgolette>&gt;&gt;;</mod>
+                        </corpo>
+                    </el>
+                    <el id="art47-com1-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo>
+                            <mod id="art47-com1-letd-mod9">
+                                <rif
+                                    xlink:href="urn:nir:regione.molise:legge:1985-04-29;14">legge regionale 29 aprile 1985, n. 14</rif>: Interamente abrogata con effetto dall'adozione dell'atto di organizzazione ai sensi dell'<rif xlink:href="#art30">art. 30</rif> della presente legge;</mod>
+                        </corpo>
+                    </el>
+                    <el id="art47-com1-lete">
+                        <num>  
+ 
+e)</num>
+                        <corpo>
+                            <mod id="art47-com1-lete-mod10">
+                                <rif
+                                    xlink:href="urn:nir:regione.molise:legge:1987-08-18;12">legge regionale 18 agosto 1987, n. 12</rif>: Interamente abrogata con effetto dall'adozione dell'atto di organizzazione ai sensi dell'<rif xlink:href="#art30">art. 30</rif> della presente legge;</mod>
+                        </corpo>
+                    </el>
+                    <el id="art47-com1-letf">
+                        <num>  
+ 
+f)</num>
+                        <corpo>
+                            <mod id="art47-com1-letf-mod11">
+                                <rif
+                                    xlink:href="urn:nir:regione.molise:legge:1988-04-26;12">legge regionale 26 aprile 1988, n. 12</rif>: Interamente abrogata con effetto dall'adozione dell'atto di organizzazione ai sensi dell'<rif xlink:href="#art30">art. 30</rif> della presente legge;</mod>
+                        </corpo>
+                    </el>
+                    <el id="art47-com1-letg">
+                        <num>  
+ 
+g)</num>
+                        <corpo>
+                            <mod id="art47-com1-letg-mod12">
+                                <rif
+                                    xlink:href="urn:nir:regione.molise:legge:1988-11-23;24">legge regionale 23 novembre 1988, n.24</rif>: con effetto dall'adozione dell'atto di organizzazione ai sensi dell'<rif
+                                    xlink:href="#art30">articolo 30</rif> della presente legge, abrogati articolo 54 e Tabella &lt;&lt;<virgolette id="art47-com1-letg-mod12-vir10">A</virgolette>&gt;&gt;;</mod>
+                        </corpo>
+                    </el>
+                    <el id="art47-com1-leth">
+                        <num>  
+ 
+h)</num>
+                        <corpo>
+                            <mod id="art47-com1-leth-mod13">
+                                <rif
+                                    xlink:href="urn:nir:regione.molise:legge:1992-05-05;14">legge regionale 5 maggio 1992, n. 14</rif>:con effetto dall'adozione dell'atto di organizzazione ai sensi dell'<rif
+                                    xlink:href="#art30">art. 30</rif> della presente legge, abrogato <rif xlink:href="#art14">articolo 14</rif>;</mod>
+                        </corpo>
+                    </el>
+                    <el id="art47-com1-leti">
+                        <num>  
+ 
+i)</num>
+                        <corpo>
+                            <mod id="art47-com1-leti-mod14">
+                                <rif
+                                    xlink:href="urn:nir:regione.molise:legge:1993-03-22;7">legge regionale 22 marzo 1993, n. 7</rif>: Interamente abrogata con effetto dall'adozione dell'atto di organizzazione ai sensi dell'<rif xlink:href="#art30">art. 30</rif> della presente legge;</mod>
+                        </corpo>
+                    </el>
+                    <el id="art47-com1-letl">
+                        <num>  
+ 
+l)</num>
+                        <corpo>
+                            <mod id="art47-com1-letl-mod15">
+                                <rif
+                                    xlink:href="urn:nir:regione.molise:legge:1995-03-30;10">legge regionale 30 marzo 1995, n. 10</rif>: con effetto dall'adozione dell'atto di organizzazione ai sensi dell'<rif
+                                    xlink:href="#art30">articolo 30</rif> della presente legge, abrogati i commi 1 e 2 dell'<rif
+                                    xlink:href="#art32">articolo 32</rif>; eliminate dal comma 3 dell'articolo 32 le parole &lt;&lt;<virgolette
+                                    id="art47-com1-letl-mod15-vir11">con apporti anche esterni</virgolette>&gt;&gt; abrogati i commi 3, 4 e 5 dell'<rif
+                                    xlink:href="#art34">articolo 34</rif>; abrogati gli allegati &lt;&lt;<virgolette
+                                    id="art47-com1-letl-mod15-vir12">A</virgolette>&gt;&gt;, &lt;&lt;<virgolette
+                                    id="art47-com1-letl-mod15-vir13">B</virgolette>&gt;&gt; e &lt;&lt;<virgolette
+                                    id="art47-com1-letl-mod15-vir14">C</virgolette>&gt;&gt;.  
+ 
+2. Ferme restando le abrogazioni disposte al <rif xlink:href="#art47-com1">primo comma</rif> del presente articolo, sono abrogate le seguenti disposizioni di legge regionale in materia di stato giuridico ed economico del personale:</mod>
+                        </corpo>
+                    </el>
+                </comma>
+                <comma id="art47-com2">
+                    <num/>
+                    <corpo>
+                        <mod id="art47-com2-mod16">a) <rif
+                                xlink:href="urn:nir:regione.molise:legge:1974-08-31;11">legge regionale 31 agosto 1974, n. 11</rif>: interamente abrogata ad eccezione degli articoli 46, 47 e 78;  
+ 
+b) <rif
+                                xlink:href="urn:nir:regione.molise:legge:1974-08-31;12">legge regionale 31 agosto 1974, n. 12</rif>: interamente abrogata;  
+ 
+c) <rif
+                                xlink:href="urn:nir:regione.molise:legge:1977-09-02;32">legge regionale 2 settembre 1977, n. 32</rif>: interamente abrogata;  
+ 
+d) <rif
+                                xlink:href="urn:nir:regione.molise:legge:1978-03-09;7">legge regionale 9 marzo 1978, n.7</rif>: interamente abrogata;  
+ 
+e) <rif
+                                xlink:href="urn:nir:regione.molise:legge:1979-05-02;15">legge regionale 2 maggio 1979, n. 15</rif>: interamente abrogata;  
+ 
+f) <rif
+                                xlink:href="urn:nir:regione.molise:legge:1980-05-08;12">legge regionale 8 maggio 1980, n. 12</rif>: interamente abrogata ad eccezione degli articoli 18, 19, 20, 21, 22, 23, 24, 25, 32, 44, 45, 46, 47, 48, 49, 50, 51, 52, 55, 56 e ad eccezione della Tabella &lt;&lt;<virgolette
+                                id="art47-com2-mod16-vir15">C</virgolette>&gt;&gt;;  
+ 
+g) <rif
+                                xlink:href="urn:nir:regione.molise:legge:1980-11-04;34">legge regionale 4 novembre 1980, n. 34</rif>: interamente abrogata;  
+ 
+h) <rif
+                                xlink:href="urn:nir:regione.molise:legge:1981-06-08;10">legge regionale 8 giugno 1981, n. 10</rif>: interamente abrogata;  
+ 
+i) <rif
+                                xlink:href="urn:nir:regione.molise:legge:1981-12-21;26">legge regionale 21 dicembre 1981, n. 26</rif>: interamente abrogata;  
+ 
+l) <rif
+                                xlink:href="urn:nir:regione.molise:legge:1985-04-29;13">legge regionale 29 aprile 1985, n. 13</rif>: interamente abrogata ad eccezione degli articoli 9 e 10, entrambi abrogati con effetto dall'adozione dell'atto di organizzazione di cui all'<rif
+                                xlink:href="#art32">articolo 32</rif> della presente legge, e ad eccezione degli articoli 22, comma 1, lettere d), f) e i), 24, 29, 30, 31 e 32;  
+ 
+m) <rif
+                                xlink:href="urn:nir:regione.molise:legge:1988-04-26;11">legge regionale 26 aprile 1988, n. 11</rif>: interamente abrogata;  
+ 
+n) <rif
+                                xlink:href="urn:nir:regione.molise:legge:1988-11-23;24">legge regionale 23 novembre 1988, n. 24</rif>: interamente abrogata ad eccezione del comma 14 dell'articolo 4, dei commi 19, 20, 21 e 22 dell'<rif
+                                xlink:href="#art6">articolo 6, dell'articolo 7</rif>, degli articoli 12, 13, 16, 17, 25, 26, 27, del <rif
+                                xlink:href="#art47-com1">comma 1</rif>, lettere f) e g) dell'<rif
+                                xlink:href="#art29">articolo 29</rif>, degli articoli 32, 33 e 47;  
+ 
+o) <rif
+                                xlink:href="urn:nir:regione.molise:legge:1990-12-14;31">legge regionale 14 dicembre 1990, n. 31</rif>: interamente abrogata ad eccezione dell'<rif
+                                xlink:href="#art2-com1">articolo 2, del comma 1 dell'articolo 7</rif>, degli articoli 8, 13, 14, 15, 17, 21, 22, 23, 24, 25, 27, 28, 32, 33, 34, dell'<rif
+                                xlink:href="#art36">articolo 36</rif>, abrogato con effetto dall'adozione dell'atto di organizzazione ai sensi dell'<rif
+                                xlink:href="#art18-com3">articolo 18, comma 3</rif> della presente legge, degli articoli 40, 41, 43, 46, 47 e 48 e della Tabella 1;  
+ 
+p) <rif
+                                xlink:href="urn:nir:regione.molise:legge:1990-12-14;32">legge regionale 14 dicembre 1990, n. 32</rif>: interamente abrogata ad eccezione del <rif
+                                xlink:href="#art47-com1">comma 1</rif>, numeri 1) e 4) dell'<rif
+                                xlink:href="#art1">articolo 1</rif>;  
+ 
+q) <rif
+                                xlink:href="urn:nir:regione.molise:legge:1991-09-12;15">legge regionale 12 settembre 1991, n.15</rif>: abrogato <rif xlink:href="#art7">articolo 7</rif>.  
+ 
+3. È abrogata altresì ogni altra disposizione di legge regionale o di regolamento che contrasti o sia incompatibile con la presente legge.</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art48">
+                <num>Art. 48</num>
+                <rubrica>: NORMA FINANZIARIA 
+</rubrica>
+                <comma id="art48-com1">
+                    <num/>
+                    <corpo> 
+1. Agli oneri derivanti dall'applicazione della presente legge si fa fronte con gli appositi stanziamenti iscritti nel bilancio regionale per l'esercizio in corso e con quelli che verranno iscritti nei bilanci regionali per gli esercizi successivi.  </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art49">
+                <num>Art. 49</num>
+                <rubrica>: DICHIARAZIONE DI URGENZA 
+</rubrica>
+                <comma id="art49-com1">
+                    <num/>
+
+                    <corpo> 
+1. La presente legge è pubblicata nel Bollettino Ufficiale della Regione. Essa è dichiarata urgente ai sensi del <rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">secondo comma dell'articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione.  
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+        <annessi>
+            <annesso id="ann1">
+                <testata>
+                    <denAnnesso>
+                        <h:p>Tabella A</h:p>
+                    </denAnnesso>
+                    <titAnnesso>
+                        <h:p/>
+                    </titAnnesso>
+                    <preAnnesso>
+                        <h:p/>
+                    </preAnnesso>
+                </testata>
+                <DocumentoNIR nome="">
+                    <meta>
+                        <descrittori>
+                            <pubblicazione norm="" num="" tipo="GU"/>
+                            <entratainvigore norm=""/>
+                            <redazione id="ann1-red1" nome="" norm=""/>
+                            <urn valore=""/>
+                        </descrittori>
+                    </meta>
+                    <intestazione/>
+                    <formulainiziale/>
+                    <contenitore id="ann1-" nome="">
+                        <h:p/>
+                        <h:p>STRUTTURE SPECIALI AI SENSI DELL'<rif xlink:href="#art26-com1">ART. 26, c. I</rif>
+                        </h:p>
+                        <h:p>CONSIGLIO REGIONALE 
+ 
+</h:p>
+                        <h:p>1) Servizio per gli affari istituzionali, comunitari, legislativi e per la Segreteria del Consiglio.  
+</h:p>
+                        <h:p> 
+2) Servizio per gli affari amministrativi.  
+</h:p>
+                        <h:p> 
+PRESIDENZA DELLA GIUNTA REGIONALE  
+ 
+</h:p>
+                        <h:p>1) Servizio per il Gabinetto del Presidente della Giunta e per gli affari istituzionali.  
+</h:p>
+                        <h:p> 
+2) Servizio per la Segreteria della Giunta.  
+</h:p>
+                        <h:p> 
+3) Servizio per l'Avvocatura Regionale e per gli affari legislativi.  
+</h:p>
+                        <h:p/>
+                    </contenitore>
+                    <formulafinale/>
+                    <conclusione/>
+                </DocumentoNIR>
+            </annesso>
+            <annesso id="ann2">
+                <testata>
+                    <denAnnesso>
+                        <h:p>Tabella B</h:p>
+                    </denAnnesso>
+                    <titAnnesso>
+                        <h:p/>
+                    </titAnnesso>
+                    <preAnnesso>
+                        <h:p/>
+                    </preAnnesso>
+                </testata>
+                <DocumentoNIR nome="">
+                    <meta>
+                        <descrittori>
+                            <pubblicazione norm="" num="" tipo="GU"/>
+                            <entratainvigore norm=""/>
+                            <redazione id="ann2-red1" nome="" norm=""/>
+                            <urn valore=""/>
+                        </descrittori>
+                    </meta>
+                    <intestazione/>
+                    <formulainiziale/>
+                    <contenitore id="ann2-" nome="">
+                        <h:p/>
+                        <h:p>DIREZIONI GENERALI AI SENSI DELL'<rif xlink:href="#art22">ART. 22</rif>
+                        </h:p>
+                        <h:p>I - Direzione generale della programmazione, del coordinamento e dei rapporti con l'Unione Europea, con gli enti locali, con il pubblico e con i massmedia.  
+</h:p>
+                        <h:p> 
+II - Direzione generale degli affari generali, del personale, dell'organizzazione, delle risorse finanziarie e strumentali e del contenzioso.  
+</h:p>
+                        <h:p> 
+III - Direzione generale delle politiche agricole, alimentari e forestali. 
+</h:p>
+                        <h:p> 
+IV - Direzione generale delle politiche del territorio, dei trasporti e della casa.  
+</h:p>
+                        <h:p> 
+V - Direzione generale delle politiche sanitarie, della tutela ambientale e della sicurezza sociale.  
+</h:p>
+                        <h:p> 
+VI - Direzione generale delle attività produttive e delle politiche del lavoro, della formazione professionale, del turismo, della cultura nonché delle attività all'estero della Regione. 
+</h:p>
+                        <h:p/>
+                    </contenitore>
+                    <formulafinale/>
+                    <conclusione/>
+                </DocumentoNIR>
+            </annesso>
+        </annessi>
+    </LeggeRegionale>
+</NIR>

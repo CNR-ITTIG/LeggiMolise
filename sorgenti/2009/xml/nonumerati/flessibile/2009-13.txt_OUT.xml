@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20090616" num="13" tipo="BURM"/>
+                <entratainvigore norm="20090701"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1997-05-14;11"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 13 del 16 giugno 2009 
+ 
+Oggetto 
+Disciplina del Servizio sanitario nella Regione Molise - ?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>L.R. </tipoDoc>
+            <dataDoc
+                    norm="19970514">14 maggio 1997</dataDoc>n. <numDoc>11</numDoc> - <titoloDoc>Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+<rif
+                    xlink:href="urn:nir:regione.molise:legge:2009-06-12;19">LEGGE REGIONALE 12 giugno 2009, n. 19</rif>.  
+ 
+Modifiche all'<rif
+                    xlink:href="urn:nir:regione.molise:legge:1997-05-14;11#art5">articolo 5 della legge regionale 14 maggio 1997, n. 11</rif> (disciplina del servizio sanitario nella Regione Molise - Abrogazione della <rif xlink:href="urn:nir:regione.molise:legge:1995-01-13;2">legge regionale 13 gennaio 1995, n. 2</rif>).  
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1  </num>
+                <rubrica>
+ 
+(Modifiche all'<rif xlink:href="urn:nir:regione.molise:legge:1997-05-14;11#art5">articolo 5 della legge regionale 14 maggio 1997, n. 11</rif>)  
+ 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+                    <alinea>1.  All'<rif xlink:href="urn:nir:regione.molise:legge:1997-05-14;11#art5">articolo 5 della legge regionale 14 maggio 1997, n. 11</rif>, sono apportate le seguenti modifiche:  
+ 
+</alinea>
+                    <el id="art1-com1-leta">
+                        <num> a)</num>
+                        <corpo>
+                            <mod
+                                    id="art1-com1-leta-mod1">  al comma 3 il periodo "<virgolette
+                                    id="art1-com1-leta-mod1-vir1"
+                                    tipo="parola">Il regolamento dovrà prevedere in ogni caso che la Conferenza proceda alle votazioni deliberando a maggioranza assoluta; per la determinazione della maggioranza, ogni sindaco rappresenta un numero di voti pari al numero dei  consiglieri del proprio Consiglio.</virgolette>" è sostituito dal seguente "<virgolette
+                                    id="art1-com1-leta-mod1-vir2" tipo="parola">Il regolamento deve prevedere che, ai fini della determinazione della maggioranza nelle votazioni, ogni sindaco rappresenta un numero di voti pari al numero dei consiglieri del proprio Consiglio comunale.</virgolette>";</mod>
+                        </corpo>
+                    </el>
+                    <el id="art1-com1-letb">
+                        <num>  
+ 
+ b)</num>
+                        <corpo>
+                            <mod id="art1-com1-letb-mod2"> il comma 6 è abrogato.  </mod>
+                        </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2  </num>
+                <rubrica>
+ 
+(Entrata in vigore)  
+ 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>1.  La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

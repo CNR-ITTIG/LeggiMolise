@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20051231" num="41" tipo="BURM"/>
+                <entratainvigore norm="20060115"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2005-12-16;52"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 41 del 31 dicembre 2005 
+ 
+Oggetto 
+PROTEZIONE ED INCREMENTO FAUNA ITTICA - NORME PER L'ESERCIZIO DELLA PESCA IN ACQUE INTERNE - MODIFICHE  
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20051216">16 dicembre 2005</dataDoc>, n. <numDoc>52</numDoc>. 
+ 
+<titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7">legge regionale 30 luglio 1998, n. 7</rif>, avente ad oggetto: "Norme per la protezione e l'incremento della fauna ittica e per l'esercizio della pesca nelle acque interne" come modificata dalle leggi regionali n. 5/2003, n. 16/2003 e n. 30/2003. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ARTICOLO 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art1-com1-mod1">
+1. Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art21-com2">comma 2 dell'articolo 21 della legge regionale 30 luglio 1998, n. 7</rif>, come sostituito dal <rif
+                                xlink:href="urn:nir:regione.molise:legge:2003-01-27;5#art1-com14">comma 14 dell'articolo 1 della legge regionale 27 gennaio 2003, n. 5</rif>, dal <rif
+                                xlink:href="urn:nir:regione.molise:legge:2003-05-07;16#art2-com1">comma 1 dell'articolo 2 della legge regionale 7 maggio 2003, n. 16</rif>, e dal <rif
+                                xlink:href="urn:nir:regione.molise:legge:2003-11-21;30#art1-com1">comma 1 dell'articolo 1 della legge regionale 21 novembre 2003, n. 30</rif>, è sostituito dal seguente: 
+ 
+"<virgolette
+                                id="art1-com1-mod1-vir1" tipo="struttura">
+                                <comma id="art1-com1-mod1-vir1-com0">
+                                    <num>2.</num>
+                                    <corpo> L'ammontare delle autorizzazioni concesse per ciascuna Provincia non può avere un'estensione complessiva superiore al 25% della lunghezza di ciascun tratto di categoria A, B e C per corpo idrico, con il limite massimo di km. 8 per le Associazioni riconosciute a livello nazionale ed operanti nella re-gione e di km. 4 per le Associazioni locali organizzate nel Molise. La distanza minima tra due tratti di corpi idrici deve essere di almeno un chilometro. Nei tratti in concessione è vietato consentire lo svolgimento di gare di pesca da parte di altre Associazioni od Organizzazioni. Le concessioni su laghi e bacini naturali o artificiali non devono superare il 50% della loro lunghezza perimetrale complessiva. In caso di più autorizzazioni concesse deve essere garantita una distanza minima tra esse non inferiore al 10% della loro lunghezza perimetrale complessiva, destinata alla libera pesca. Per i bacini naturali o artificiali, con lunghezza perimetrale complessiva inferiore a 6 chilometri, fermo restando quanto previsto dal presente comma, non può essere rilasciata più di una concessione e la restante superficie deve essere destinata alla libera pesca</corpo>
+                                </comma>
+                            </virgolette>". </mod>
+                    </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+                    <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

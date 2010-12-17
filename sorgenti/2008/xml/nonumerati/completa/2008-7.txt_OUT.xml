@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20081115" num="26" tipo="BURM"/>
+                <entratainvigore norm="20081130"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2008-11-04;29"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 26 del 15 novembre 2008 
+ 
+Oggetto 
+Dipendenti Regione Molise - Esodo volontario - Destinatari - Interpretazione autentica 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20081104">4 novembre 2008</dataDoc>, n. <numDoc>29</numDoc>.  
+ 
+<titoloDoc>Interpretazione autentica dell'<rif xlink:href="urn:nir:regione.molise:legge:2006-07-07;15#art3-com2">articolo 3, comma 2, della legge regionale 7 luglio 2006, n. 15</rif>, recante: "Norme per favorire l'esodo volontario dei dipendenti della Regione Molise".  
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+1. L'<rif xlink:href="urn:nir:regione.molise:legge:2006-07-07;15#art3-com2">articolo 3, comma 2, della legge regionale 7 luglio 2006, n. 15</rif>, recante: "Norme per favorire l'esodo volontario dei dipendenti della Regione Molise", deve essere interpretato nel senso che le disposizioni della stessa legge possono essere applicate, in regime di autonomia per quanto concerne valutazioni e scelte di carattere organizzativo e finanziario, da tutti gli enti e le aziende dipendenti dalla Regione Molise, ivi compresa l'Azienda speciale regionale "Molise acque", a condizione che i rispettivi organici siano dotati di personale dipendente il cui rapporto di lavoro è regolato dal contratto collettivo nazionale del comparto Regioni-Autonomie locali.  </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+                    <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.  
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

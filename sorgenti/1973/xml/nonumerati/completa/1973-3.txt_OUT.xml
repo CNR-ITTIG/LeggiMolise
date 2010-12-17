@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19731222" num="33" tipo="BURM"/>
+                <entratainvigore norm="19740106"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1973-12-04;30"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+ 
+Bollettino 
+Bollettino Ufficiale n. 33 del 22/12/73 
+ 
+Oggetto 
+Bilancio 1972 della Regione - Variazioni 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale  </tipoDoc>
+            <dataDoc norm="19731204">4 Dicembre 1973</dataDoc>, n. <numDoc>30</numDoc>
+
+            <titoloDoc>Variazioni al bilancio preventivo per l'esercizio finanziario 1972 in conseguenza della ripartizione dei fondi per la costruzione di Asili-Nido Comunali - <rif xlink:href="urn:nir:stato:legge:1971-12-06;1044">Legge 6 dicembre 1971, n. 1044</rif>. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

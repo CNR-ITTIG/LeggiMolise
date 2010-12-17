@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19821030" num="23" tipo="BURM"/>
+                <entratainvigore norm="19821114"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1982-10-25;23"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 23 del 30/10/82 
+ 
+Oggetto 
+Assistenza sanitaria sociale e scolastica - Servizi - Gestione - Strutture - Disciplina - Modifiche - Collegio dei Revisori - Composizione - Funzionamento 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>del <dataDoc norm="19821025">25 Ottobre 1982</dataDoc>, n. <numDoc>23</numDoc>
+            <titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1979-12-07;35">legge regionale 7 dicembre 1979, n. 35</rif> e norme per la disciplina dei compiti e del funzionamento del Collegio dei Revisori delle Unità Locali 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: Organi delle Unità Locali 
+ 
+L'<rif xlink:href="urn:nir:regione.molise:legge:1979-12-07;35#art3">art. 3 della legge regionale n. 35 del 7 dicembre 1979</rif> è così modificato: 
+ 
+&lt;&lt;Sono organi delle Unità Locali: 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1)</num>
+                    <corpo> l'Assemblea generale; 
+ </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+2)</num>
+                    <corpo> il Comitato di gestione e il suo Presidente; 
+ </corpo>
+                </comma>
+                <comma id="art1-com3">
+                    <num>
+3)</num>
+                    <corpo> il Collegio dei revisori&gt;&gt;. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+                <rubrica>: Composizione e nomina del Collegio dei Revisori 
+ 
+Il Collegio dei Revisori è composto di tre membri, esperti in materia di contabilità pubblica, di cui uno designato dal Ministero del Tesoro, uno eletto dal Consiglio Regionale e uno eletto dall'Assemblea dell'Unità Locale. 
+ 
+Alla nomina del Collegio dei revisori provvede con proprio decreto il Presidente della Giunta Regionale. 
+ 
+Il componente del Collegio dei Revisori eletto dal Consiglio Regionale assume la presidenza del Collegio stesso. 
+ 
+Il Collegio dura in carica tre anni ed esercita i suoi compiti fino al suo rinnovo. I componenti del Collegio dei Revisori possono essere riconfermati per un solo successivo mandato. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3</num>
+
+                <rubrica>: Ineleggibilità ed incompatibilità 
+ 
+Non può essere nominato revisore, e, se nominato, decade dall'ufficio: 
+ 
+a) chi si trova in uno dei casi di ineleggibilità o di incompatibilità a componente del Comitato di gestione dell'Unità Locale; 
+ 
+b) chi ha ascendenti o discendenti, ovvero parenti o affini fino al 2° grado, che coprano nell'Amministrazione dell'Unità Locale l'Ufficio di Presidente o Componente del Comitato di Gestione, componente dell'Ufficio di Direzione, ovvero coprano posti nell'Istituto di Credito che svolge funzione di Tesoriere nell'Unità Locale; 
+ 
+c) chi è fornitore dell'Unità Locale; 
+ 
+d) i componenti del Comitato di Gestione e i dipendenti dell'Unità Locale; 
+ 
+e) gli amministratori ed i dipendenti di istituzioni sanitarie di carattere privato, ubicati nell'ambito della Regione e coloro che, a qualsiasi titolo, svolgono in modo continuativo attività retribuite presso le istituzioni predette; 
+ 
+f) chi ha liti pendenti per questioni attinenti l'attività dell'Unità Locale, ovvero, avendo un debito liquido ed esigibile nei confronti della medesima, sia stato regolarmente costituito in mora ai sensi dell'<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art1219">art.1219 codice civile</rif> o si trovi nelle condizioni previste dal 2° comma dello stesso articolo. 
+ 
+L'Ufficio di revisore non può essere contemporaneamente ricoperto in più di una Unità Locale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+
+                <rubrica>: Compiti del Collegio dei Revisori 
+ 
+Il Collegio dei Revisori dei conti vigila perché sia assicurata la regolarità della gestione relativa al patrimonio ed al bilancio dell'Unità Locale. 
+ 
+In particolare: 
+ 
+a) esamina i conti consuntivi, redigendo al riguardo una relazione da allegare alla deliberazione di approvazione degli atti suddetti; 
+ 
+b) accerta la regolarità delle scritture e delle operazioni contabili; 
+ 
+c) effettua i riscontri sulla consistenza di cassa e, almeno una volta all'anno, sull'esistenza dei valori e dei titoli in proprietà, deposito, cauzione e custodia. 
+ 
+Il Collegio dei revisori riferisce all'assemblea dell'Unità Locale sui risultati dell'attività svolta, ed esprime in tale sede le proprie motivate valutazioni in ordine ai livelli di economicità ed efficienza conseguiti nella gestione della spesa, proponendo altresì, ogni qualvolta ne rilevi l'opportunità, l'adozione di provvedimenti o disposizioni di qualsiasi specie nell'interesse della gestione finanziaria dell'Unità Locale. 
+ 
+Il Collegio dei revisori è tenuto, annualmente, in particolare, a sottoscrivere i rendiconti di cui all'<rif xlink:href="urn:nir:stato:legge:1978-12-23;833#art50-com2">art. 50, secondo comma, della legge 23 dicembre 1978, n. 833</rif>, ed a redigere trimestralmente una relazione sulla gestione amministrativo-contabile dell'Unità Locale da trasmettere alla Regione ed ai Ministeri del Tesoro e della Sanità. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+
+                <rubrica>: Funzionamento del Collegio - Indennità 
+ 
+Il collegio dei revisori si riunisce almeno una volta al mese. I componenti il collegio assistono alle riunioni dell'assemblea e del comitato di gestione dell'Unità Locale. 
+ 
+Ai componenti il collegio dei revisori spetta un'indennità di carica annuale non superiore al 70% per il Presidente ed al 60% per gli altri componenti di quella corrisposta ai componenti del   Comitato di Gestione, nonché il rimborso delle spese secondo quanto stabilità dall'<rif xlink:href="urn:nir:stato:legge:1974-04-26;169#art7">art. 7 della legge 26 aprile 1974, n. 169</rif>. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+
+                <rubrica>
+ 
+La presente legge è dichiarata urgente, ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel   Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

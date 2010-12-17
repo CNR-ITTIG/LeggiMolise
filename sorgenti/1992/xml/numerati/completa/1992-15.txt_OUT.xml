@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19920401" num="6" tipo="BURM"/>
+                <entratainvigore norm="19920416"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1992-03-20;12"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 14.Governo del territorio, urbanistica, edilizia 
+ 
+Bollettino 
+Bollettino Ufficiale n. 06 del 01/04/92 
+ 
+Oggetto 
+Procedure per la formazione ed approvazione dei piani territoriali paesistico-ambientali di area vasta 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19920320">20 Marzo 1992</dataDoc>, n. <numDoc>12</numDoc>
+            <titoloDoc>Modifica dell'<rif xlink:href="urn:nir:regione.molise:legge:1989-12-01;24#art7">art. 7 della legge regionale 1 dicembre 1989, n.24</rif>
+            </titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+I commi 3, 4 e 5 dell'<rif xlink:href="urn:nir:regione.molise:legge:1989-12-01;24#art7">art. 7 della legge regionale 1 dicembre 1989, n. 24</rif> sono modificati come segue: 
+ 
+3. I progetti dei Piani adottati sono trasmessi ai Comuni territorialmente interessati che, previo avviso da affiggersi all'Albo Pretorio e da divulgarsi con ogni altro mezzo ritenuto idoneo, provvedendo entro 5 giorni dal ricevimento degli atti a depositarli in pubblica visione nelle singole  segreterie comunali per un periodo di 90 giorni durante i quali chiunque può prendere visione. 
+ 
+4. Nel periodo di deposito i proprietari interessati o gli altri aventi titolo possono presentare opposizione e, chiunque, osservazioni di pubblico interesse. Entro tale periodo, inoltre, possono pervenire eventuali pareri di amministrazioni ed aziende autonome dello Stato, di Enti Territoriali ed Associazioni interessate. 
+ 
+5. Ciascun Comune entro e non oltre 180 giorni dal ricevimento dei progetti dei Piani, con deliberazione Consiliare si esprime in merito alle opposizioni e/o osservazioni pervenute e formula contestualmente il proprio parere. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+
+                <rubrica>
+ 
+La presente legge è dichiarata urgente ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel   Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti  di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

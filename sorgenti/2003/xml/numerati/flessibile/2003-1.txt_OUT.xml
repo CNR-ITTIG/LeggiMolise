@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20031231" num="28" tipo="BURM"/>
+                <entratainvigore norm="20040115"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2003-12-30;37"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 28 del 31 dicembre 2003 
+ 
+Oggetto 
+Commissione per l'autoriforma del Molise - Proroga dei termini. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20031230">30 dicembre 2003</dataDoc>, n. <numDoc>37</numDoc>. 
+ 
+<titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:2002-04-22;3">legge regionale 22 aprile 2002 n. 3</rif>, ad oggetto: "Commissione per l'autoriforma del Molise" 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ARTICOLO 1 </num>
+                <rubrica>
+ 
+(Proroga termini) 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art1-com1-mod1"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:2002-04-22;3#art1-com3">comma 3 dell'articolo 1 della legge regionale 22 aprile 2002 n. 3</rif>, è così modificato: 
+ 
+"<virgolette
+                                id="art1-com1-mod1-vir1" tipo="struttura">
+                                <comma id="art1-com1-mod1-vir1-com0">
+                                    <num>3.</num>
+                                    <corpo>  La Commissione dura in carica dalla data di entrata in vigore della presente legge fino al 31 dicembre 2004. Il Presidente, il Vicepresidente ed il Segretario, in carica all'entrata in vigore della presente legge, decadono il 30 giugno 2004, al fine di consentire l'alternanza del Presidente e dell'Ufficio di Presidenza</corpo>
+                                </comma>
+                            </virgolette>". 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ARTICOLO 2 </num>
+                <rubrica>
+ 
+(Norma finanziaria) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Per la copertura degli oneri relativi al funzionamento, ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:2002-04-22;3">legge regionale 22 aprile 2002 n. 3</rif>, nello stato di previsione della spesa del bilancio regionale per l'esercizio finanziario 2004, è inserita apposita U.P.B. dotata dello stanziamento di ? 100.000,00 in termini di competenza e cassa. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>ARTICOLO 3 </num>
+                <rubrica>
+ 
+(Pubblicazione) 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge entra in vigore il giorno successivo alla sua pubblicazione sul Bollettino Ufficiale della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

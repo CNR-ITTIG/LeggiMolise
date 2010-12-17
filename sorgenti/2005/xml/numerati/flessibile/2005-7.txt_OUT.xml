@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20051216" num="39" tipo="BURM"/>
+                <entratainvigore norm="20051231"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2005-12-06;46"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 30.Promozione e organizzazione di attivit&#xE0; culturali e delle tradizioni locali, associazionismo 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 39 del 16 dicembre 2005 
+ 
+Oggetto 
+Istituzione della giornata regionale  della donazione del midollo osseo dedicata a Carolina Sabatelli. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20051206">6 dicembre 2005</dataDoc>, n. <numDoc>46</numDoc>. 
+ 
+<titoloDoc>Istituzione della giornata regionale della donazione del midollo osseo dedicata a Carolina Sabatelli. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+Istituzione della giornata regionale della donazione del midollo osseo dedicata a Carolina Sabatelli 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione Molise istituisce la "Giornata regionale della donazione del midollo osseo dedicata a Carolina Sabatelli" allo scopo di accrescere, in particolare tra i ragazzi ed i giovani, la consapevolezza sociale e culturale in ordine ai temi della donazione del midollo osseo. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La "Giornata regionale della donazione del midollo osseo dedicata a Carolina Sabatelli" si svolge l'ultimo sabato del mese di maggio di ogni anno. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+Modalità di realizzazione 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <alinea> In occasione della "Giornata regionale della donazione del midollo osseo" la Regione promuove la realizzazione delle seguenti attività: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> realizzazione della borsa di studio "Carolina Sabatelli", rivolta agli alunni ed agli studenti delle scuole di ogni ordine e grado della regione Molise; 
+ 
+- incontri ed eventi di sensibilizzazione sul tema della donazione; 
+ 
+- iniziative mirate a contribuire in modo positivo alla diffusione della cultura della solidarietà e della gratuità. </corpo>
+                    </ep>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> La Giunta regionale nomina una Commissione giudicatrice per l'assegnazione della borsa di studio di cui al <rif xlink:href="#art2-com1">comma 1</rif>; della Commissione medesima fa parte un componente della famiglia Sabatelli. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+Disposizioni finanziarie 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> Agli oneri derivanti dall'applicazione della presente legge, quantificati in euro 10.000.00, si farà fronte, a partire dall'anno 2006, con le leggi approvative del bilancio regionale. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione MOLISE 
+
+?>
+    </LeggeRegionale>
+</NIR>

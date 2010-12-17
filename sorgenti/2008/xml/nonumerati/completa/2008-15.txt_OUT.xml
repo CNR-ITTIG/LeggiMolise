@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20080721" num="17" tipo="BURM"/>
+                <entratainvigore norm="20080805"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2007-12-31;32"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 17 del 21 luglio 2008 
+ 
+Oggetto 
+Gestioni liquidatorie delle Aziende Sanitarie locali - ?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>l.r. </tipoDoc>
+            <dataDoc
+                    norm="20071231">31 dicembre 2007</dataDoc>n. <numDoc>32</numDoc> - <titoloDoc>Proroga dei termini  
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+<rif xlink:href="urn:nir:regione.molise:legge:2008-07-18;21">LEGGE REGIONALE 18 luglio 2008, n. 21</rif>.  
+ 
+Proroga delle gestioni liquidatorie delle disciolte Aziende sanitarie regionali. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo>
+1. Le gestioni liquidatorie delle disciolte Aziende sanitarie locali della Regione Molise - ZONE -, istituite con <rif
+                            xlink:href="urn:nir:regione.molise:legge:1997-05-14;11">legge regionale del 14 maggio 1997, n. 11</rif>, poste in liquidazione con <rif
+                            xlink:href="urn:nir:regione.molise:legge:2005-04-01;9">legge regionale del 1° aprile 2005, n. 9</rif> e già prorogate al 30 giugno 2008 con <rif xlink:href="urn:nir:regione.molise:legge:2007-12-31;32">legge regionale del 31 dicembre 2007, n. 32</rif>, sono ulteriormente prorogate al 31 dicembre 2008.  </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+1. A decorrere dal 1° gennaio 2009 la gestione liquidatoria delle disciolte Aziende sanitarie è svolta dalla A.S.Re.M..  </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+
+                    <corpo>
+1. A far data dal 1° gennaio 2009, ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1995-12-28;549#art2-com14">articolo 2, comma 14, legge 28 dicembre 1995, n. 549</rif> sono attribuite al Direttore Generale A.S.Re.M. le funzioni di Commissario Liquidatore delle disciolte Aziende sanitarie regionali.  </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo>
+Entrata in vigore 
+ 
+1. La presente legge entra in vigore il giorno della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione.  
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19780801" num="14" tipo="BURM"/>
+                <entratainvigore norm="19780816"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1978-07-27;18"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 14 del 01/08/78 
+ 
+Oggetto 
+Aziende agricole - Costituzione - Promozione - Contributi - Procedure 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19780727">27 Luglio 1978</dataDoc>, n. <numDoc>18</numDoc>
+            <titoloDoc>Mutui a tasso agevolato per lo sviluppo della proprietà diretto-coltivatrice. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+
+                <rubrica>
+ 
+La Regione Molise, allo scopo di incoraggiare la costituzione di aziende agricole valide ed efficienti sotto il profilo tecnico-economico, concede un contributo negli interessi sui mutui trentennali contratti ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:legge:1928-07-05;1760#art3">art. 3 della legge 5 luglio 1928, n 1760</rif> per l'acquisto di fondi rustici rispondenti ai criteri ed alle finalità di cui alla <rif
+                        xlink:href="urn:nir:stato:legge:1965-05-26;590">legge 26 maggio 1965, n.590</rif> e successive modificazioni ed integrazioni ed alla <rif xlink:href="urn:nir:stato:legge:1968-03-06;377">legge 6  marzo 1968, n. 377</rif>. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+
+                <rubrica>
+ 
+Il tasso d'interesse sui mutui di cui all'<rif
+                        xlink:href="#art1">art. 1</rif> da porsi a carico dei beneficiari è stabilito nella misura del 4%. 
+ 
+Il concorso della Regione per dette operazioni è calcolato in conformità di quanto previsto dall'<rif xlink:href="urn:nir:stato:legge:1961-06-02;454#art34">art. 34 della legge 2 giugno 1961, n. 454</rif>  e successive modificazioni ed integrazioni. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+I benefici di cui all'<rif
+                        xlink:href="#art1">art. 1</rif> sono estesi alle cooperative agricole, quando ricorrono i presupposti di cui all'<rif
+                        xlink:href="urn:nir:stato:legge:1971-08-14;817#art16">art. 16 della legge 14 agosto 1971, n. 817</rif>, alle società promosse tra imprese familiari   diretto-coltivatrici, ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:legge:1977-12-27;984#art7">art. 7 della legge 27 dicembre 1977, n. 984</rif>, ed ai coltivatori di cui all'<rif xlink:href="urn:nir:stato:legge:1965-05-26;590#art1">art. 1 della legge 26 maggio 1965, n. 590</rif> emigrati da non più di 5 anni. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+
+                <rubrica>
+ 
+I benefici previsti dalla presente legge per le operazioni di cui alla <rif xlink:href="urn:nir:stato:legge:1968-03-06;377">legge 6 marzo 1968, n. 377</rif> sono concessi ai tecnici agricoli di età non superiore agli anni 35, limite elevabile ad anni 40 per i laureati in agraria, e che non svolgono attività di lavoro subordinato. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+Nella concessione dei mutui di cui all'<rif xlink:href="#art1">art. 1</rif>, deve essere data preferenza, nell'ordine appresso indicato: 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1)</num>
+
+                    <corpo> alle operazioni di acquisto proposte nell'esercizio del diritto di prelazione o riscatto, previsto dall'<rif xlink:href="urn:nir:stato:legge:1965-05-26;590#art8">art. 8 della legge 26 maggio 1965, n. 590</rif> e successive modificazioni ed integrazioni; 
+ </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+2)</num>
+                    <corpo> alle operazioni che, realizzando un accorpamento di fondi rustici, rivestono finalità di ricomposizione fondiaria, indipendentemente dall'estensione dei terreni acquisibili, purché  destinate ad ampliare le proprietà ed a formare aziende valide sotto il profilo sia tecnico che economico; 
+ </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num>
+3)</num>
+
+                    <corpo> alle operazioni di acquisto proposte da cooperative agricole, ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:legge:1971-10-14;817#art16">art. 16 della legge 14 ottobre 1971, n. 817</rif>, e dalle società promosse tra imprese diretto-coltivatrici, ai sensi della   <rif xlink:href="urn:nir:stato:legge:1977-12-27;984">legge 27 dicembre 1977, n. 984</rif>; 
+ </corpo>
+                </comma>
+                <comma id="art5-com4">
+                    <num>
+4)</num>
+
+                    <corpo> agli acquisti da parte di coltivatori già emigrati da non più di cinque anni e che all'atto dell'emigrazione avevano i requisiti previsti dalla <rif xlink:href="urn:nir:stato:legge:1965-05-26;590">legge 26 maggio 1965, n. 590</rif> e successive   modificazioni ed integrazioni. 
+ 
+Nell'ambito di tali preferenze prevalgono le domande presentate da giovani coltivatori, singoli o associati, di età inferiore ai 35 anni. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+
+                <rubrica>
+ 
+Le domande per ottenere la concessione dei benefici di cui all'<rif xlink:href="#art1">art. 1</rif> devono essere indirizzate all'Assessorato all'Agricoltura e Foreste, il quale, compiuta la relativa istruttoria, le invierà alla Giunta Regionale per i provvedimenti di competenza. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+
+                <rubrica>
+ 
+Il contributo regionale agli Istituti di credito sarà liquidato con deliberazione della Giunta Regionale su presentazione di elenchi conformi al disposto dell'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1967-05-22;446#art7">art. 7 del D.P.R. 22 maggio   1967, n. 446</rif>, in annualità posticipate. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>
+ 
+Ai mutui previsti dall'<rif
+                        xlink:href="#art1">art. 1</rif> si applicano le disposizioni di cui all'<rif xlink:href="urn:nir:stato:legge:1961-06-02;454#art36">art. 36 della legge 2 giugno 1961, n. 454</rif> e successive modificazioni ed integrazioni. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <rubrica>
+ 
+Gli interventi di cui all'<rif xlink:href="#art1">art. 1</rif> della presente legge si applicano anche alle richieste pervenute dal 1° gennaio 1977. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <rubrica>
+ 
+Per quanto non previsto nella presente legge regionale si applicano le disposizioni di cui alle leggi 26 maggio 1965, n. 590 e 6 marzo 1968, n. 377 e successive modificazioni ed integrazioni. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art10-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+
+                <rubrica>
+ 
+Ai fini della concessione del concorso nel pagamento degli interessi sui mutui di cui alla presente legge, autorizzati dalla Regione ed erogati da istituti ed enti esercenti il credito agrario ai sensi della <rif
+                        xlink:href="urn:nir:stato:legge:1928-07-05;1760">legge 5 luglio 1928, n. 1760</rif> e successive modificazioni ed integrazioni, è stabilito un limite d'impegno annuo di L. 200.000.000 a partire dall'esercizio 1978 e fino al 2007. 
+ 
+L'onere della spesa derivante dalla presente legge è finanziato con quota parte dei fondi attribuiti alla Regione ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1970-05-16;281#art9">art. 9 della legge 16 maggio 1970, n. 281</rif>. 
+ 
+Al rifinanziamento della presente legge, negli esercizi successivi si provvederà con apposito stanziamento di bilancio. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art11-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12 </num>
+                <rubrica>
+ 
+Nello stato di previsione della spesa del bilancio regionale per l'esercizio finanziario 1978 sono introdotte le variazioni negli stanziamenti di competenza e nelle dotazioni di cassa nella misura   indicata nel prospetto &lt;&lt;A&gt;&gt; annesso alla presente legge. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art12-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13 </num>
+
+                <rubrica>
+ 
+La presente legge è dichiarata urgente ed entra in vigore, ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto</rif>, il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art13-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

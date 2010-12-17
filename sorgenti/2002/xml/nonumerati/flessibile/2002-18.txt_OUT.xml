@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20021031" num="23" tipo="BURM"/>
+                <entratainvigore norm="20021115"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2002-10-28;28"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 23 del 31 ottobre 2002 
+ 
+Oggetto 
+Istituzione del servizio delle professioni sanitarie infermieristiche tecniche della riabilitazione della prevenzione e della professione ostetrica - Organizzazione - Disciplina. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20021028">28 ottobre 2002</dataDoc>, n. <numDoc>28</numDoc>. 
+ 
+<titoloDoc>Istituzione del servizio delle professioni sanitarie infermieristiche, tecniche, della riabilitazione, della prevenzione e della professione ostetrica. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+(Finalità) 
+ 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo>1.  La Regione Molise, al fine di promuovere e concorrere alla formazione del personale sanitario infermieristico, tecnico, della riabilitazione, della prevenzione e della professione ostetrica, nonché la cura e il sostegno degli individui, delle famiglie e delle collettività ed al fine di valorizzare e di responsabilizzare le funzioni ed il ruolo delle professioni in attuazione della <rif
+                            xlink:href="urn:nir:stato:legge:2000-08-10;251">legge 10 agosto 2000 n. 251</rif>, istituisce il "Servizio delle professioni sanitarie infermieristiche, tecniche, della riabilitazione, della prevenzione e della professione ostetrica" quale struttura organizzativa complessa dotata di autonomia tecnico/organizzativa nell'ambito dei compiti e delle funzioni ad esso affidate dal <rif xlink:href="#art2">successivo articolo 2</rif>. 
+ 
+2.  Al servizio è assegnato tutto il personale, ovunque operante:</corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+                    <corpo>a)  delle categorie BS, D e DS delle professioni sanitarie infermieristiche, tecniche, della riabilitazione, della   prevenzione e della professione ostetrica; 
+ 
+ b)  della categoria B profilo professionale di operatore tecnico addetto all'assistenza; 
+ 
+ c)  della categoria A profilo professionale di ausiliario specializzato, così come classificato nell'allegato 1 al CCNL   1998/2001: "Declaratoria delle categorie e dei profili". </corpo>
+                </comma>
+            </articolo>
+            <capo id="cap1">
+                <num>CAPO I </num>
+                <rubrica>
+ 
+ESERCIZIO DELLE FUNZIONI 
+ 
+</rubrica>
+                <articolo id="art2">
+                    <num>Art. 2 </num>
+                    <rubrica>
+ 
+(Compiti e funzioni) 
+ 
+</rubrica>
+                    <comma id="art2-com1">
+                        <num/>
+
+                        <alinea>1.  Al servizio è attribuita la diretta responsabilità e la gestione dell'attività di assistenza, in conformità alle linee guide di cui all'<rif xlink:href="urn:nir:stato:legge:2000;251#art1-com3">articolo 1, comma 3 della legge n. 251/2000</rif>; in particolare svolge i seguenti compiti e funzioni: 
+ 
+</alinea>
+                        <el id="art2-com1-leta">
+                            <num> a)</num>
+                            <corpo>  concorre alla programmazione e alla realizzazione  degli obiettivi delle ASL per gli aspetti ad esse inerenti;</corpo>
+                        </el>
+                        <el id="art2-com1-letb">
+                            <num> 
+ 
+ b)</num>
+                            <corpo> identifica, attraverso un monitoraggio costante, i fabbisogni di assistenza  e formula i relativi obiettivi;</corpo>
+                        </el>
+                        <el id="art2-com1-letc">
+                            <num> 
+ 
+ c)</num>
+                            <corpo>  organizza e gestisce le risorse umane e materiali ai fini dell'erogazione dell'assistenza e dei servizi offerti, sia in  regime di ricovero che sul territorio, anche attraverso piani di mobilità regionali ed interregionali;</corpo>
+                        </el>
+                        <el id="art2-com1-letd">
+                            <num> 
+ 
+ d)</num>
+                            <corpo>  promuove la ricerca e la sperimentazione di nuovi modelli organizzativi e di nuovi protocolli operativi, al fine di   migliorare la soluzione dei problemi di tecnica assistenziale;</corpo>
+                        </el>
+                        <el id="art2-com1-lete">
+                            <num> 
+ 
+ e)</num>
+                            <corpo>  promuove progetti di ricerca relativamente all'area professionale di competenza, anche in collaborazione con   l'Istituzione universitaria;</corpo>
+                        </el>
+                        <el id="art2-com1-letf">
+                            <num> 
+ 
+ f)</num>
+
+                            <corpo>  organizza e gestisce ogni altra attività svolta a perseguire le finalità di cui all'<rif xlink:href="#art1">articolo 1</rif>, nonché quella di gestione,  controllo e verifica della qualità dell'assistenza erogata, mediante la definizione di protocolli valutativi e l'adozione di  specifici indicatori;</corpo>
+                        </el>
+                        <el id="art2-com1-letg">
+                            <num> 
+ 
+ g)</num>
+                            <corpo> promuove la personalizzazione dell'assistenza attraverso l'adozione di un modello concettuale di riferimento nel   rispetto delle differenze valoriali, etniche, sociali e culturali manifestate da qualsiasi persona assistita;</corpo>
+                        </el>
+                        <el id="art2-com1-leth">
+                            <num> 
+ 
+ h)</num>
+                            <corpo>  promuove progetti di formazione per adeguare le competenze necessarie ai fini del miglioramento dell'assistenza e  della professionalità. </corpo>
+                        </el>
+                    </comma>
+                </articolo>
+            </capo>
+            <capo id="cap2">
+                <num>CAPO II </num>
+                <rubrica>
+ 
+ORGANIZZAZIONE DEL SERVIZIO 
+ 
+</rubrica>
+                <articolo id="art3">
+                    <num>Art. 3 </num>
+                    <rubrica>
+ 
+(Struttura organizzativa del servizio) 
+ 
+</rubrica>
+                    <comma id="art3-com1">
+                        <num/>
+                        <corpo>1.  L'articolazione organizzativa dei servizi è demandata alle singole Aziende sanitarie locali che, nell'esercizio degli autonomi poteri di natura gestionale, tecnica ed organizzativa, emaneranno appositi regolamenti entro  90 giorni dalla emanazione della presente legge. 
+ 
+2.  Le Aziende sanitarie locali nel regolamento dovranno prevedere un'articolazione del Servizio coerente con l'organizzazione aziendale. Per la realizzazione degli obiettivi della presente legge tale articolazione deve necessariamente prevedere:</corpo>
+                    </comma>
+                    <comma id="art3-com2">
+                        <num/>
+
+                        <corpo>a)  l'attribuzione della direzione del servizio ad un responsabile (Direttore) nominato dal Direttore generale, con contratto triennale secondo le procedure indicate dall'<rif
+                                xlink:href="urn:nir:stato:legge:2000-08-10;251#art7">articolo 7  della legge 10 agosto 2000, n. 251</rif> e dal <rif xlink:href="#art4">successivo articolo 4</rif>; 
+ 
+b)  la previsione di direzioni distrettuali, dipartimentali ed ospedaliere coerenti con le specifiche articolazioni organizzative di ogni singola ASL. Tali direzioni opereranno  in linea con il Direttore e in staff con i dirigenti medici dei corrispondenti livelli di direzione; 
+ 
+c)  l'attribuzione ad un "collaboratore professionale sanitario" (categoria D) dell'attività di coordinamento e gestione del personale nell'ambito di ogni struttura operativa semplice. </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art4">
+                    <num>Art. 4 </num>
+                    <rubrica>
+ 
+(Responsabilità del servizio) 
+ 
+</rubrica>
+                    <comma id="art4-com1">
+                        <num/>
+
+                        <corpo>1.  La responsabilità del servizio, in attesa del compimento dei corsi universitari di cui all'<rif xlink:href="urn:nir:stato:legge:2000;251#art5">articolo 5 della legge n. 251/2000</rif>, è affidata dal Direttore generale della ASL ad un direttore in possesso dei requisiti di esperienza e qualificazione, di cui ai successivi commi 2 e 3 . </corpo>
+                    </comma>
+                    <comma id="art4-com2">
+                        <num/>
+
+                        <corpo>Entro sessanta giorni dall'entrata in vigore della presente legge, i Direttori generali delle Aziende sanitarie locali attribuiscono l'incarico del servizio ad un responsabile (Direttore delle professioni sanitarie infermieristiche, tecniche, della riabilitazione, della prevenzione e della professione ostetrica) con contratto a tempo determinato, di durata triennale, rinnovabile, da stipulare secondo le modalità di cui all'<rif xlink:href="urn:nir:stato:legge:2000;251#art7-com1">articolo 7, comma 1 della legge n. 251/2000</rif>. </corpo>
+                    </comma>
+                    <comma id="art4-com3">
+                        <num/>
+                        <corpo>L'incarico è affidato attraverso idonea procedura selettiva per soli titoli tra i candidati in possesso dei requisiti di esperienza e qualificazione professionale. 
+ 
+2.  Per requisiti di esperienza devono intendersi:</corpo>
+                    </comma>
+                    <comma id="art4-com4">
+                        <num/>
+
+                        <corpo>a) esperienza professionale non inferiore a dieci anni di servizio a tempo indeterminato, maturata nella categoria D, ivi  compreso il livello economico DS, dello specifico profilo professionale (ex livello VII ed VIII bis). 
+ 
+3.  Per qualificazione deve intendesi almeno il possesso del diploma di "Dirigente assistenza infermieristica" (DAI) rilasciato dalle ex scuole dirette a fini speciali o del diploma di formazione manageriale, conseguito in corsi di perfezionamento o similari, rilasciato da Università  o da altre Istituzioni pubbliche o equiparate, attestante un percorso formativo che, per contenuti e durata, sia ritenuto idoneo come requisito dal regolamento regionale di cui all'<rif xlink:href="#art5">articolo 5</rif>. 
+ 
+4.  Le Unità sanitarie locali affideranno incarichi di direzione infermieristica distrettuale, dipartimentale ed ospedaliera di durata triennale, rinnovabili.</corpo>
+                    </comma>
+                    <comma id="art4-com5">
+                        <num/>
+
+                        <corpo>Fino alla data di completamento dei corsi universitari, di cui all'<rif xlink:href="urn:nir:stato:legge:2000;251#art5">articolo 5 della legge n. 251/2000</rif> tali incarichi sono attribuiti, previa procedura selettiva per soli titoli, a professionisti in possesso degli stessi requisiti di esperienza e qualificazione di cui ai commi  2 e 3 del presente articolo o, in mancanza, dei requisiti previsti nell'allegato 1 al CCNL per l'accesso dall'interno alla categoria D super. Nell'ambito delle Unità operative semplici gli incarichi di coordinamento saranno affidati dal Direttore delle professioni sanitarie infermieristiche, tecniche, della riabilitazione, della prevenzione e della professione ostetrica, sentito il Dirigente medico responsabile di struttura, a collaboratori professionali di categoria D. </corpo>
+                    </comma>
+                </articolo>
+            </capo>
+            <capo id="cap3">
+                <num>CAPO III  </num>
+                <rubrica>
+ 
+NORME FINALI  
+ 
+</rubrica>
+                <articolo id="art5">
+                    <num>Art. 5 </num>
+                    <rubrica>
+ 
+(Norme finali) 
+ 
+</rubrica>
+                    <comma id="art5-com1">
+                        <num/>
+                        <corpo>1. Nel rispetto della <rif xlink:href="urn:nir:stato:legge:2000;251">legge n. 251/2000</rif> le ASL sono obbligate la rispetto delle norme che definiscono le modifiche degli organici per la creazione del Dirigente del Servizio delle professioni sanitarie infermieristiche, tecniche, della riabilitazione, della prevenzione e della professione ostetrica. La Giunta regionale entro quarantacinque giorni emanerà apposito regolamento. </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art6">
+                    <num>Art. 6 </num>
+                    <rubrica>
+ 
+(Pubblicazione) 
+ 
+</rubrica>
+                    <comma id="art6-com1">
+                        <num/>
+                        <corpo>1. La presente legge è dichiarata urgente ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. 
+</corpo>
+                    </comma>
+                </articolo>
+            </capo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error 2. &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

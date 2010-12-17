@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20080301" num="5" tipo="BURM"/>
+                <entratainvigore norm="20080316"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2008-02-27;6"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N.5  del 1 marzo 2008 
+ 
+Oggetto 
+Esercizio provvisorio del bilancio regionale 2008 - Autorizzazione - Proroga 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20080227">27 febbraio 2008</dataDoc>, n. <numDoc>6</numDoc>.  
+ 
+<titoloDoc>Proroga dell'autorizzazione all'esercizio provvisorio del bilancio regionale per l'esercizio finanziario 2008.  
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> L'autorizzazione di cui alla <rif xlink:href="urn:nir:regione.molise:legge:2007-12-31;30">legge regionale 31 dicembre 2007, n. 30</rif> "Autorizzazione all'esercizio provvisorio del bilancio regionale per l'esercizio finanziario 2008" è prorogata fino al 30 aprile 2008.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> La proroga di cui all'<rif xlink:href="#art1">articolo 1</rif> della presente legge è estesa agli Enti dipendenti della Regione.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+Entrata in vigore 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge entra in vigore il giorno della sua pubblicazione sul Bollettino Ufficiale della Regione.  </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise.  
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

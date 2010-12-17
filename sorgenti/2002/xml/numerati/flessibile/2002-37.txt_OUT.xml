@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20020615" num="13" tipo="BURM"/>
+                <entratainvigore norm="20020630"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2002-06-07;9"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 13 del 15 giugno 2002 
+ 
+Oggetto 
+Zootecnia - Finanziamenti - Libri genealogici - Controlli funzionali 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20020607">7 giugno 2002</dataDoc>, n. <numDoc>9</numDoc> . 
+ 
+<titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1997-04-10;8">legge regionale 10 aprile 1997 n. 8</rif>, ad oggetto: " Costituzione di un fondo straordinario per il finanziamento temporaneo delle attività di tenuta dei libri genealogici e di effettuazione dei controlli funzionali demandate alle Associazioni provinciali degli allevatori". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ARTICOLO 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> "L'<rif
+                            xlink:href="urn:nir:regione.molise:legge:1997-04-10;8#art1">articolo 1 della legge regionale 10 aprile 1997 n. 8</rif>, è così modificato: 
+ 
+Finalità 
+ 
+1. Per garantire una efficace funzionalità delle Associazioni provinciali degli allevatori, la Regione Malise costituisce, presso la Tesoreria regionale, un fondo straordinario al fine di consentire il tempestivo avvio dei programmi annuali, previsti a favore del comparto zootecnico, per la tenuta dei libri genealogici e l'effettuazione dei controlli funzionali alle stesse demandate ai sensi dell'<rif
+                            xlink:href="urn:nir:regione.molise:legge:1979-09-04;27#art5">art. 5 della legge regionale 4 settembre 1979, n. 27</rif> e successive modificazioni.  
+ 
+2. Il fondo di cui al <rif
+                            xlink:href="#art1-com1">comma 1</rif> può essere attivato presso la Tesoreria regionale anche tramite apertura, da parte delle Associazioni interessate, di apposito conto corrente vincolato, infruttifero per le stesse e regolato da convenzione tra le parti (Regione, Associazioni degli allevatori e Tesoreria regionale).  
+ 
+3. Il fondo straordinario di cui al <rif xlink:href="#art1-com1">comma 1</rif> ha la durata di dieci anni dall'anno della sua costituzione e rientrerà nelle disponibilità della Regione Molise maggiorato degli interessi maturati presso la Tesoreria regionale, ovvero sul conto corrente vincolato di cui al precedente comma" .  
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

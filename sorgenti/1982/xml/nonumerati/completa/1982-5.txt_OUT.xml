@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19820916" num="19" tipo="BURM"/>
+                <entratainvigore norm="19821001"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1982-09-02;21"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 11.Enti locali, comunit&#xE0; montane 
+ 
+Bollettino 
+Bollettino Ufficiale n. 19 del 16/09/82 
+ 
+Oggetto 
+Enti comunali di assistenza - Personale - assegnazione ai Comuni - Inquadramento nei ruoli organici dei Comuni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19820902">2 Settembre 1982</dataDoc>, n. <numDoc>21</numDoc>
+            <titoloDoc>Personale degli Enti Comunali di Assistenza Immissione nei ruoli organici 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+Il personale di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1978-07-27;17#art4">art. 4 della legge regionale 27 luglio 1978, n. 17</rif> è inquadrato nei ruoli organici dei Comuni ai quali risulta essere assegnato. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+
+                    <corpo>Al predetto personale vengono estese le norme di cui al <rif
+                            xlink:href="urn:nir:presidente.repubblica:decreto:1979-06-01;191">D.P.R. n. 191 dell'1° giugno 1979</rif> e n. 810 del 7 novembre 1980, riguardanti la disciplina del rapporto di lavoro del personale degli Enti locali, qualora le stesse non risultino in contrasto con la <rif xlink:href="urn:nir:regione.molise:legge:1978-07-27;17">legge regionale n. 17 del 27 luglio 1978</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+L'attribuzione dei livelli ai dipendenti di cui al precedente articolo avverrà prendendo a base quelli attribuiti dagli ex E.C.A., in estensione del contratto unico nazionale 5 marzo 1979 relativo agli Enti locali, e con le procedure adottate per gli altri dipendenti comunali; sarà, ad ogni modo, assicurata, per posizioni che, in applicazione del contratto nazionale 5 marzo 1974, risultavano essere analoghe. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

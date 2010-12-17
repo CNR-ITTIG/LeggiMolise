@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19961031" num="21" tipo="BURM"/>
+                <entratainvigore norm="19961115"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1996-10-25;33"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 02.Artigianato 
+ 
+Bollettino 
+Bollettino Ufficiale n. 21 del 31/10/96 
+ 
+Oggetto 
+Artigianato - Provvidenze - Procedure - Modifiche 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 31/2000 art. art. 1, primo comma, lettera ccc) 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19961025">25 Ottobre 1996</dataDoc>, n. <numDoc>33</numDoc>
+            <titoloDoc>Modifiche ed integrazioni alle leggi regionali 20 giugno 1981, n. 12, "Ulteriori provvidenze a favore dell'artigianato" e 7 gennaio 1985, n. 2, "Modifiche alla legge regionale n. 20 giugno 1981, n. 12, e ulteriori provvidenze a favore dell'artigianato" 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 31/2000 art. art. 1, primo comma, lettera ccc)</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione>
+            <dataeluogo codice="00100"
+                    norm="19961025">AVVERTENZA 
+ 
+In sede di apposizione del visto alla <rif xlink:href="urn:nir:regione.molise:legge:1996-10-25">legge regionale 25 ottobre 1996</rif>, </dataeluogo><?error n. 33, ?>
+            <firma tipo="sottoscrizione">il Commissario del Governo ha riportato quanto segue: 
+ 
+VIST0: fermo restando l'obbligo da parte della Regione Molise di adeguarsi ad eventuali rilievi dell' Unione Europea. 
+
+</firma>
+        </conclusione>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19991220" num="24" tipo="BURM"/>
+                <entratainvigore norm="20000104"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1999-12-20;43"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+ 
+Bollettino 
+Bollettino Ufficiale n. 24 del 20 dicembre 1999 
+ 
+Oggetto 
+Mutui contratti dalla Regione Molise; Disciplina - Modifica. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="19991220">20 dicembre 1999</dataDoc>, n. <numDoc>43</numDoc>. 
+ 
+<titoloDoc>Norme di modifica e di attuazione della <rif xlink:href="urn:nir:regione.molise:legge:1999;7">legge Regionale n. 7/1999</rif>, ad oggetto: "Rinegoziazione dei mutui contratti dalla Regione". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art.1 </num>
+                <rubrica>
+ 
+All'<rif xlink:href="urn:nir:regione.molise:legge:1999-02-11;7#art1">art. 1 della Legge regionale 11 febbraio 1999, n. 7</rif> (Rinegoziazione mutui contratti dalla Regione) le parole "non oltre il 15 febbraio 1999" e le parole "di variazione di bilancio" sono abrogate. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art.2 </num>
+                <rubrica>
+ 
+In attuazione dell'art. 1 della Legge regionale 11 febbraio 19997 n. 7, le somme derivanti dai minori esborsi finanziari susseguenti la rinegoziazione dei mutui contratti dalla Regione saranno utilizzate per le finalità individuate, annualmente, con la rispettiva legge di bilancio. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art.3 </num>
+
+                <rubrica>
+ 
+Per l'esercizio finanziario 2000 le somme annuali di cui all'<rif xlink:href="#art2">art. 2</rif> sono quantificate in Lire 8.348.290.906 così suddivise per singolo capitolo ed importo: 
+ 
+- 53900                                         Lire         69.451.078 
+ 
+- 56000                                         Lire       166.743.560 
+ 
+- 54100 e 54110                              Lire</rubrica>
+                <comma id="art3-com1">
+                    <num>     1.</num>
+                    <corpo>567.022.467 
+ 
+- 56200 e 56210                             Lire     1.123.348.054 
+ 
+- 54130                                         Lire       619.299.563 
+ 
+- 56220                                        Lire     1.750.596.206 
+ 
+- 54131                                         Lire     1.245.422.722 
+ 
+- 56226                                        Lire       905.243.969 
+ 
+- 54150 e 56228                            Lire        901.163.287 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+(Pubblicazione) 
+ 
+La presente legge è dichiarata urgente ed entra in vigore nello stesso giorno della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19750616" num="22" tipo="BURM"/>
+                <entratainvigore norm="19750701"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1975-06-05;45"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 22 del 16/06/75 
+ 
+Oggetto 
+Prodotti agricoli e zootecnici - Raccolta conservazione trasformazione e vendita - Contributi - Destinatari - Procedure 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 31/2000 art. 1, primo comma, lettera h) 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19750605">5 Giugno 1975</dataDoc>, n. <numDoc>45</numDoc>
+            <titoloDoc>Interventi per la commercializzazione dei prodotti agricoli. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 31/2000 art. 1, primo comma, lettera h)</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

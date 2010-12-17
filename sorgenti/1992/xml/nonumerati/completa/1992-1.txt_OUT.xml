@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19921231" num="27" tipo="BURM"/>
+                <entratainvigore norm="19930115"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1992-12-21;26"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 18.Lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa 
+01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 27 del 31/12/92 
+ 
+Oggetto 
+Contributi 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 31/2000 art. 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19921221">21 Dicembre 1992</dataDoc>, n. <numDoc>26</numDoc>
+            <titoloDoc>Modifiche ed integrazioni alla <rif xlink:href="urn:nir:regione.molise:legge:1978-02-10;5">legge regionale 10 febbraio 1978, n. 5</rif>. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 31/2000 art. 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti, di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

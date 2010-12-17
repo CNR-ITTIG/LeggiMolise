@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20000429" num="9" tipo="BURM"/>
+                <entratainvigore norm="20000514"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-04-26;36"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 05.Commercio, fiere e mercati, camere di commercio 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE n.9 del 29 aprile 2000 
+ 
+Oggetto 
+Fiere e mercati - Istituzione - Disposizioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20000426">26 aprile 2000</dataDoc>, n.<numDoc>36</numDoc>
+            <titoloDoc>Modifica alla <rif
+                    xlink:href="urn:nir:regione.molise:legge:1999-09-27;33">legge regionale 27 settembre 1999, n.33</rif> ad oggetto: "Disciplina regionale del commercio, in attuazione del <rif
+                    xlink:href="urn:nir:stato:decreto.legislativo:1998-03-31;114">Decreto Legislativo 31 marzo 1998, n.114</rif>, recante: "Riforma della disciplina relativa al settore del commercio, a norma dell'<rif xlink:href="urn:nir:stato:legge:1997-03-18;59#art4-com4">art.4, comma 4 della legge 18 marzo 1997, n.59</rif>". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art.1 </num>
+                <rubrica>
+ 
+(Modifica all'<rif xlink:href="urn:nir:regione.molise:legge:1999;33#art31">art.31 della Legge Regionale n.33/1999</rif>) 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art1-com1-mod1"> La <rif
+                                xlink:href="urn:nir:regione.molise:legge:1999;33#art31-com1-letg">lettera g) del comma 1 dell'art. 31 della Legge Regionale n. 33/1999</rif> è così sostituita: 
+ 
+"<virgolette
+                                id="art1-com1-mod1-vir1" tipo="struttura">
+                                <el id="art1-com1-mod1-vir1-let">
+                                    <num>g)</num>
+                                    <corpo> è fatto divieto di istituire nuovi mercati e nuove fiere nei giorni di Natale, Capodanno, Pasqua, 1° maggio e 25 aprile</corpo>
+                                </el>
+                            </virgolette>". 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art.2 </num>
+                <rubrica>
+ 
+(Dichiarazione di urgenza) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19901215" num="23" tipo="BURM"/>
+                <entratainvigore norm="19901230"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1990-12-14;32"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 23 del 15/12/1990 
+ 
+Oggetto 
+Stato giuridico ed economico del personale della Regione e degli enti dipendenti - Integrazioni 
+ 
+Abrogazioni 
+Abrogato art. intera legge tranne il comma 1, numeri 3) e 4)  dell'art. 1 dalla legge n. 7/1997 art. art. 47, comma 2, lettera p) 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19901214">14 Dicembre 1990</dataDoc>, n. <numDoc>32</numDoc>
+            <titoloDoc>Integrazioni e modifiche alla legge regionale &lt;&lt;Stato giuridico e trattamento economico del personale regionale e degli Enti pubblici dipendenti dalla Regione Molise - Triennio 1988-1990&gt;&gt;. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ART. 1 </num>
+                <rubrica>
+ 
+Alla legge regionale concernente &lt;&lt;Stato giuridico e trattamento economico del Personale regionale e degli Enti dipendenti dalla Regione Molise -triennio 1988/1990&gt;&gt; approvata dal Consiglio Regionale nella seduta del 6 novembre 1990 sono apportate le seguenti modifiche ed integrazioni: 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+
+                    <corpo> All'articolo 33 viene aggiunto il seguente comma: 5° Il livello economico differenziato previsto dal <rif
+                            xlink:href="#art1-com1">1 comma</rif> non può essere attribuito al personale di cui all'articolo 32, comma 3 della presente legge. 
+ 
+Tale personale non concorre a determinare la percentuale di cui al <rif xlink:href="#art1-com4">comma 4</rif>. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+ 2.</num>
+                    <corpo>
+                        <mod
+                                id="art1-com2-mod1"> All'ultimo comma dell'articolo 36 viene aggiunto &lt;&lt;<virgolette id="art1-com2-mod1-vir1">da attuarsi con provvedimento legislativo</virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+                <comma id="art1-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo>
+                        <mod
+                                id="art1-com3-mod2"> Al 1° comma dell'articolo 42, terzultimo rigo, viene soppressa l'espressione &lt;&lt;<virgolette id="art1-com3-mod2-vir2">ed i contributi di   riscatto</virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+                <comma id="art1-com4">
+                    <num>
+ 
+4.</num>
+                    <alinea> All'art.43 vengono apportate le seguenti modifiche: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo>
+                            <mod id="art1-com4-mod3">
+                                <rif xlink:href="#art1-com3">comma 3</rif>, dopo la parola &lt;&lt;durata&gt;&gt; viene aggiunto &lt;&lt;inferiore&gt;&gt;; 
+ 
+- comma 9, l'espressione &lt;&lt;il presente decreto&gt;&gt; viene sostituita con &lt;&lt;la presente legge&gt;&gt;; 
+ 
+- viene soppresso il comma 10°. </mod>
+                        </corpo>
+                    </ep>
+                </comma>
+                <comma id="art1-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo>
+                        <mod
+                                id="art1-com5-mod4"> All'articolo 47 viene aggiunto il seguente comma: 
+ 
+&lt;&lt;<virgolette
+                                id="art1-com5-mod4-vir3"
+                                    tipo="parola">L'elemento aggiuntivo della retribuzione di cui al contratto collettivo nazionale di lavoro 1983/1985 riguardante il personale dei Consorzi industiali e degli I.A.<rif xlink:href="urn:nir:stato:codice.penale:1930-10-19;1398">C.P.</rif>, già liquidato nella misura ridotta di cui all'articolo 35, comma 5°, dell'accordo del 28 aprile 1987 per il personale di cui all'articolo 1, cessa di essere corrisposto dalla data di entrata in vigore della presente legge e, comunque, non oltre il 1 luglio 1990</virgolette>&gt;&gt;. 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ART. 2</num>
+
+                <rubrica>: DICHIARAZIONE D'URGENZA 
+ 
+La presente legge è dichiarata urgente ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

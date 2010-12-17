@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20070915" num="21" tipo="BURM"/>
+                <entratainvigore norm="20070930"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2007-09-12;24"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 21 del 15 settembre 2007 
+ 
+Oggetto 
+Legge regionale n.8/2007 - Programma di razionalizzazione della spesa  - Attuazione 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 12 dalla legge n. 31/2007 art. 1 
+Modificato art. 12 dalla legge n. 8/2008 art. 1 
+Modificato art. 12 dalla legge n. 26/2008 art. 1 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20070912">12 settembre 2007</dataDoc>, n. <numDoc>24</numDoc>. 
+ 
+<titoloDoc>Primo intervento per l'attuazione del programma di razionalizzazione della spesa previsto dalla <rif xlink:href="urn:nir:regione.molise:legge:2007-03-22;8">legge regionale 22 marzo 2007, n. 8</rif>. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+(Oggetto) 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+
+                    <alinea> La presente legge detta disposizioni di prima attuazione del programma di razionalizzazione della spesa di cui alla <rif xlink:href="urn:nir:regione.molise:legge:2007-03-22;8">legge regionale 22 marzo 2007, n. 8</rif>, e in particolare prevede:  
+ 
+</alinea>
+                    <el id="art1-com1-leta">
+                        <num>a)</num>
+                        <corpo> modifiche agli ordinamenti degli enti regionali per i quali è prevista la riduzione del numero dei componenti dei Consigli di amministrazione e dei Collegi dei revisori dei conti;</corpo>
+                    </el>
+                    <el id="art1-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo>
+                            <mod id="art1-com1-letb-mod1"> la soppressione del Comitato regionale di controllo e delle sue Sezioni;</mod>
+                        </corpo>
+                    </el>
+                    <el id="art1-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> la riduzione del numero dei componenti di alcuni organismi disciplinati da leggi regionali.  
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1995-01-09;1">legge regionale 9 gennaio 1995, n. 1</rif> 
+ 
+(Nuove norme per l'attuazione  del diritto allo studio universitario) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art2-com1-mod2"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:1995-01-09;1#art22-com1">comma 1 dell'articolo 22 della legge regionale 9 gennaio 1995, n. 1</rif>, è sostituito dal seguente: "<virgolette
+                                id="art2-com1-mod2-vir1" tipo="struttura">
+                                <comma id="art2-com1-mod2-vir1-com0">
+                                    <num>1.</num>
+                                    <corpo> Il Consiglio di amministrazione dell'E.S.U. è composto dal Presidente e da tre membri, di cui un rappresentante dell'Università, designato di concerto dalla componente docente e dalla componente studentesca, e due rappresentanti della Regione eletti dal Consiglio regionale. In caso di parità di voti la maggioranza è determinata dal voto del Presidente.</corpo>
+                                </comma>
+                            </virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>
+                        <mod id="art2-com2-mod3"> Al <rif
+                                xlink:href="urn:nir:regione.molise:legge:1995;1#art22-com2">comma 2 dell'articolo 22 della legge regionale n. 1/1995</rif> sono soppresse le parole da "<virgolette
+                                id="art2-com2-mod3-vir2">salvo</virgolette>" ad "<virgolette id="art2-com2-mod3-vir3">Ateneo</virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo>
+                        <mod id="art2-com3-mod4"> Al <rif xlink:href="urn:nir:regione.molise:legge:1995;1#art22-com4">comma 4 dell'articolo 22 della legge regionale n. 1/1995</rif> è soppresso il secondo periodo.  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art2-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo>
+                        <mod id="art2-com4-mod5"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:1995;1#art23-com1">comma 1 dell'articolo 23 della legge regionale n. 1/1995</rif> è sostituito dal seguente: "<virgolette
+                                id="art2-com4-mod5-vir4" tipo="struttura">
+                                <comma id="art2-com4-mod5-vir4-com0">
+                                    <num>1.</num>
+                                    <corpo> Il Presidente è nominato dal Presidente della Regione, su conforme delibera della Giunta regionale</corpo>
+                                </comma>
+                            </virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:2004-11-23;27">legge regionale 23 novembre 2004, n. 27</rif> 
+ 
+(Istituzione dell'Agenzia regionale per lo sviluppo e l'innovazione dell'agricoltura nel Molise "Giacomo SEDATI" - ARSIAM) 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art3-com1-mod6"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:2004-11-23;27#art6-com1">comma 1 dell'articolo 6 della legge regionale 23 novembre 2004, n. 27</rif>, è sostituito dal seguente: "<virgolette
+                                id="art3-com1-mod6-vir5" tipo="struttura">
+                                <comma id="art3-com1-mod6-vir5-com0">
+                                    <num>1.</num>
+                                    <corpo> Il Consiglio di amministrazione è composto da tre membri, eletti dal Consiglio regionale, e dal Presidente. Alle riunioni del Consiglio di amministrazione partecipa, senza diritto di voto, il direttore generale dell'ARSIAM. Un funzionario dell'ARSIAM svolge le mansioni di segretario.</corpo>
+                                </comma>
+                            </virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>
+                        <mod id="art3-com2-mod7"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:2004;27#art6-com4">comma 4 dell'articolo 6 della legge regionale n. 27/2004</rif> è sostituito dal seguente: "<virgolette
+                                id="art3-com2-mod7-vir6" tipo="struttura">
+                                <comma id="art3-com2-mod7-vir6-com0">
+                                    <num>4.</num>
+                                    <corpo> Per la validità delle sedute del Consiglio di amministrazione è necessaria la presenza del Presidente e di almeno due componenti. In caso di parità di voti la maggioranza è determinata dal voto del Presidente.</corpo>
+                                </comma>
+                            </virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo>
+                        <mod id="art3-com3-mod8"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:2004;27#art8-com1">comma 1 dell'articolo 8 della legge regionale n. 27/2004</rif> è sostituito dal seguente: "<virgolette
+                                id="art3-com3-mod8-vir7" tipo="struttura">
+                                <comma id="art3-com3-mod8-vir7-com0">
+                                    <num>1.</num>
+                                    <corpo> Il Collegio dei revisori si compone di tre membri individuati tra soggetti iscritti all'albo dei revisori dei conti. Il Collegio è nominato con decreto del Presidente della Giunta regionale ed i suoi componenti sono eletti dal Consiglio regionale che individua il Presidente.</corpo>
+                                </comma>
+                            </virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37">legge regionale 1 dicembre 1999, n. 37</rif> 
+ 
+(Istituzione dell'Azienda speciale regionale, denominata: "MOLISE ACQUE") 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art4-com1-mod9"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art9-com1">comma 1 dell'articolo 9 della legge regionale 1 dicembre 1999, n. 37</rif>, è sostituito dal seguente: "<virgolette
+                                id="art4-com1-mod9-vir8" tipo="struttura">
+                                <comma id="art4-com1-mod9-vir8-com0">
+                                    <num>1.</num>
+                                    <corpo> Il Consiglio di amministrazione è composto da tre membri eletti dal Consiglio regionale e dal Presidente.  </corpo>
+                                </comma>
+                                <comma id="art4-com1-mod9-vir8-com1">
+                                    <num>
+ 
+1.</num>
+                                    <corpo> In caso di parità di voti la maggioranza è determinata dal voto del Presidente</corpo>
+                                </comma>
+                            </virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>
+                        <mod id="art4-com2-mod10"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art9-com2">comma 2 dell'articolo 9 della legge regionale 1 dicembre 1999, n. 37</rif>, è sostituito dal seguente: "<virgolette
+                                id="art4-com2-mod10-vir9" tipo="struttura">
+                                <comma id="art4-com2-mod10-vir9-com0">
+                                    <num>2.</num>
+                                    <corpo> Il Presidente è nominato con decreto del Presidente della Giunta regionale su conforme deliberazione della Giunta stessa</corpo>
+                                </comma>
+                            </virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art4-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo>
+                        <mod id="art4-com3-mod11"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:1999;37#art13-com1">comma 1 dell'articolo 13 della legge regionale n. 37/1999</rif>, è sostituito dal seguente: "<virgolette
+                                id="art4-com3-mod11-vir10" tipo="struttura">
+                                <comma id="art4-com3-mod11-vir10-com0">
+                                    <num>1.</num>
+                                    <corpo> Il Collegio sindacale si compone di tre membri eletti dal Consiglio regionale</corpo>
+                                </comma>
+                            </virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art4-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo>
+                        <mod id="art4-com4-mod12"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:1999;37#art13-com2">comma 2 dell'articolo 13 della legge regionale n. 37/1999</rif>, è sostituito dal seguente: "<virgolette
+                                id="art4-com4-mod12-vir11" tipo="struttura">
+                                <comma id="art4-com4-mod12-vir11-com0">
+                                    <num>2.</num>
+                                    <corpo> Il Presidente del Collegio è nominato con decreto del Presidente della Giunta regionale tra i componenti eletti dal Consiglio</corpo>
+                                </comma>
+                            </virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1999-08-03;27">legge regionale 3 agosto 1999, n. 27</rif> 
+ 
+(Organizzazione delle politiche regionali del lavoro e del sistema regionale dei servizi per l'impiego) 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art5-com1-mod13"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:1999-08-03;27#art12-com1">primo periodo del comma 1 dell'articolo 12 della legge regionale 3 agosto 1999, n. 27</rif>, è sostituito dal seguente: "<virgolette
+                                id="art5-com1-mod13-vir12" tipo="struttura">
+                                <comma id="art5-com1-mod13-vir12-com0">
+                                    <num>1.</num>
+                                    <corpo> Il Collegio dei revisori dei conti è composto da tre membri, compreso il Presidente, iscritti nel registro dei revisori ufficiali</corpo>
+                                </comma>
+                            </virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:2004-12-17;33">legge regionale 17 dicembre 2004, n. 33</rif> 
+ 
+(Riordinamento dell'Istituto regionale per gli studi storici del Molise "Vincenzo CUOCO" - IRESMO) 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art6-com1-mod14"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:2004-12-17;33#art5-com1">comma 1 dell'articolo 5 della legge regionale 17 dicembre 2004, n. 33</rif>, è sostituito dal seguente: "<virgolette
+                                id="art6-com1-mod14-vir13" tipo="struttura">
+                                <comma id="art6-com1-mod14-vir13-com0">
+                                    <num>1.</num>
+                                    <corpo> Il Presidente è nominato dal Presidente della Regione su conforme delibera della Giunta regionale.</corpo>
+                                </comma>
+                            </virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>
+                        <mod id="art6-com2-mod15"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:2004;33#art6-com1">comma 1 dell'articolo 6 della legge regionale n. 33/2004</rif> è sostituito dal seguente: "<virgolette
+                                id="art6-com2-mod15-vir14" tipo="struttura">
+                                <comma id="art6-com2-mod15-vir14-com0">
+                                    <num>1.</num>
+                                    <corpo> Il Consiglio direttivo è composto dal Presidente dell'Istituto e da tre componenti eletti dal Consiglio regionale. In caso di parità di voti la maggioranza è determinata dal voto del Presidente.</corpo>
+                                </comma>
+                            </virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+Sostituzione dell'<rif
+                        xlink:href="urn:nir:regione.molise:legge:1997-04-08;7#art33bis">articolo 33-bis della legge regionale 8 aprile 1997, n. 7</rif> 
+ 
+(Norme sulla riorganizzazione dell'amministrazione regionale secondo i principi stabiliti dal <rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29">decreto legislativo 3 febbraio 1993, n. 29</rif>) 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art7-com1-mod16"> L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1997-04-08;7#art33bis">articolo 33-bis della legge regionale 8 aprile 1997, n. 7</rif>, aggiunto dall'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2002-05-28;6#art13">articolo 13 della legge regionale 28 maggio 2002, n. 6</rif>, è sostituito dal seguente: 
+ 
+"<virgolette
+                                id="art7-com1-mod16-vir15" tipo="struttura">
+                                <articolo id="art0">
+                                    <num>Art. 33-bis </num>
+                                    <rubrica>Scuola regionale di formazione 
+ </rubrica>
+                                    <comma id="art0-com1">
+                                    <num>
+1.</num>
+                                    <corpo> Per le finalità di cui all'articolo 33, è istituita la Scuola regionale di formazione continua dlla Pubblica Amministrazione, che ha il compito di formare, aggiornare e specializzare i dipendenti dell'amministrazione regionale e delle amministrazioni locali. </corpo>
+                                    </comma>
+                                    <comma id="art0-com2">
+                                    <num>
+ 
+2.</num>
+                                    <corpo> La Scuola è amministrata da un Comitato di gestione costituito da tre componenti, eletti dal Consiglio regionale, e dal Presidente. Il Presidente del Comitato è nominato dal Presidente della Regione su conforme delibera della Giunta regionale. In caso di parità di voti la maggioranza è determinata dal voto del Presidente.  </corpo>
+                                    </comma>
+                                    <comma id="art0-com3">
+                                    <num>
+ 
+3.</num>
+                                    <corpo> L'organizzazione e il funzionamento della Scuola sono disciplinati con apposito Regolamento regionale.</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>
+ 
+Soppressione del Comitato regionale di controllo e delle Sezioni provinciali di Campobasso e Isernia 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art8-com1-mod17"> Il Comitato regionale di controllo e le Sezioni provinciali di Campobasso e Isernia sono soppressi.  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Le funzioni di consulenza agli enti locali, già attribuite agli organismi di cui al <rif
+                            xlink:href="#art8-com1">comma 1</rif> per effetto dell'<rif
+                            xlink:href="#art4-com2">articolo 4, comma 2</rif>, sesto alinea, della <rif xlink:href="urn:nir:regione.molise:legge:1999-09-29;34">legge regionale 29 settembre 1999, n. 34</rif>, sono svolte dalle strutture regionali e con le modalità individuate con provvedimento della Giunta regionale.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <rubrica>
+ 
+Controllo sugli atti degli Enti dipendenti 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+                    <alinea>
+                        <mod
+                                id="art9-com1-mod18"> Fino all'approvazione delle rispettive disposizioni di riordino, il controllo sugli atti degli enti dipendenti che alla data di entrata in vigore della presente legge sono soggetti al controllo degli organismi soppressi dall'<rif
+                                xlink:href="#art8">articolo 8</rif> è esercitato dalla Giunta regionale con le modalità previste dalla <rif
+                                xlink:href="urn:nir:regione.molise:legge:1990-04-10;19">legge regionale 10 aprile 1990, n. 19</rif>, <rif xlink:href="#art1">articolo 1</rif>, limitatamente ai seguenti atti:  
+ 
+</mod>
+                    </alinea>
+                    <el id="art9-com1-leta">
+                        <num>a)</num>
+                        <corpo> statuti;</corpo>
+                    </el>
+                    <el id="art9-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> assunzioni di personale, dotazioni organiche e relative variazioni;</corpo>
+                    </el>
+                    <el id="art9-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> costituzione di aziende, partecipazione a società di capitale, atti costitutivi e modificativi di forme associative, atti dispositivi del patrimonio, contratti di importo superiore a 500.000,00 euro;</corpo>
+                    </el>
+                    <el id="art9-com1-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo> contrazione di mutui, emissioni di prestiti obbligazionari, assunzione di obbligazioni di garanzia in favore di terzi.  </corpo>
+                    </el>
+                </comma>
+                <comma id="art9-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea>
+                        <mod
+                                id="art9-com2-mod19"> I bilanci di previsione e le relative variazioni ed i rendiconti sono approvati dalla Giunta regionale, con le stesse modalità di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1990-04-10;19#art1">articolo 1 della legge regionale 10 aprile 1990, n. 19</rif>. Sono abrogati:  
+ 
+</mod>
+                    </alinea>
+                    <el id="art9-com2-leta">
+                        <num>a)</num>
+                        <corpo> la <rif xlink:href="urn:nir:regione.molise:legge:1992-05-26;15">legge regionale 26 maggio 1992, n. 15</rif>;</corpo>
+                    </el>
+                    <el id="art9-com2-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> l'<rif xlink:href="urn:nir:regione.molise:legge:1990-04-10;19#art2">articolo 2 della legge regionale 10 aprile 1990, n. 19</rif>.  
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <rubrica>
+ 
+Riduzione 
+ 
+del numero dei componenti di organismi disciplinati da leggi regionali 
+ </rubrica>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+                    <alinea> Alla <rif xlink:href="urn:nir:regione.molise:legge:1982-01-04;3">legge regionale 4 gennaio 1982, n. 3</rif>, sono apportate le seguenti modificazioni:  
+ 
+</alinea>
+                    <el id="art10-com1-leta">
+                        <num>a)</num>
+                        <corpo>
+                            <mod
+                                    id="art10-com1-leta-mod20"> al terzo comma dell'articolo 1, la lettera e) è sostituita dalla seguente: "<virgolette
+                                    id="art10-com1-leta-mod20-vir16" tipo="struttura">
+                                    <el id="art10-com1-leta-mod20-vir16-letb">
+                                    <num>e)</num>
+                                    <corpo> da 1 (uno) esperto in materia di edilizia ed urbanistica nominato da Consiglio regionale;</corpo>
+                                    </el>
+
+                                </virgolette>" e la lettera f) è sostituita dalla seguente: "<virgolette
+                                    id="art10-com1-leta-mod20-vir17" tipo="struttura">
+                                    <el id="art10-com1-leta-mod20-vir17-letb">
+                                    <num>f)</num>
+                                    <corpo> da 2 (due) esperti in materia di agricoltura e foreste nominati dal Consiglio regionale scelti tra nominativi proposti dalle associazioni sindacali agricole maggiormente rappresentative;</corpo>
+                                    </el>
+                                </virgolette>";</mod>
+                        </corpo>
+                    </el>
+                    <el id="art10-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo>
+                            <mod
+                                    id="art10-com1-letb-mod21"> al secondo comma dell'articolo 5, dopo le parole "<virgolette
+                                    id="art10-com1-letb-mod21-vir18">in materia di Agricoltura e foreste</virgolette>", le parole "<virgolette
+                                    id="art10-com1-letb-mod21-vir19">e di almeno uno degli esperti</virgolette>" sono sostituite dalle parole "<virgolette id="art10-com1-letb-mod21-vir20">e dall'esperto</virgolette>".  </mod>
+                        </corpo>
+                    </el>
+                </comma>
+                <comma id="art10-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> Alla <rif
+                            xlink:href="urn:nir:regione.molise:legge:1980-12-11;37">legge regionale 11 dicembre 1980, n. 37</rif>, <rif xlink:href="#art9-com2">articolo 9, secondo comma</rif>, sono apportate le seguenti modificazioni:  
+ 
+</alinea>
+                    <el id="art10-com2-leta">
+                        <num>a)</num>
+                        <corpo>
+                            <mod
+                                    id="art10-com2-leta-mod22"> la lettera d) è sostituita dalla seguente: "<virgolette id="art10-com2-leta-mod22-vir21">d) da 3 esperti eletti dal Consiglio regionale;</virgolette>";</mod>
+                        </corpo>
+                    </el>
+                    <el id="art10-com2-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo>
+                            <mod
+                                    id="art10-com2-letb-mod23"> la lettera e) è sostituita dalla seguente: "<virgolette
+                                    id="art10-com2-letb-mod23-vir22" tipo="struttura">
+                                    <el id="art10-com2-letb-mod23-vir22-letb">
+                                    <num>e)</num>
+                                    <corpo> da 3 rappresentanti di Enti locali, effettivamente gestori di servizi, eletti dal Consiglio regionale;</corpo>
+                                    </el>
+                                </virgolette>".  
+ 
+</mod>
+                        </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione partecipa alle Assemblee del FORMEZ e dell'AICCRE. La Giunta Regionale è delegata a stabilirne le modalità, d'intesa con l'Ufficio di Presidenza per le prerogative del Consiglio, e la quantificazione economica.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12 </num>
+                <rubrica>
+ 
+Disposizioni finali 
+ </rubrica>
+                <comma id="art12-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Le modifiche agli ordinamenti degli enti regionali introdotte dalla presente legge sono efficaci a decorrere dall'effettuazione delle nomine ai sensi dell'<rif xlink:href="urn:nir:regione.molise:legge:2007-03-22;8#art4-com1">articolo 4, comma 1, della legge regionale 22 marzo 2007, n. 8</rif>.  </corpo>
+                </comma>
+                <comma id="art12-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Gli enti regionali, entro quindici giorni dall'entrata in vigore della presente legge, adottano i conseguenti adeguamenti statutari e li inviano alla Giunta regionale per l'approvazione.  </corpo>
+                </comma>
+                <comma id="art12-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> I componenti supplenti in carica del Collegio sindacale dell'Azienda speciale regionale "Molise Acque" decadono il quindicesimo giorno successivo a quello di entrata in vigore della presente legge.  </corpo>
+                </comma>
+                <comma id="art12-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Le disposizioni di cui all'<rif xlink:href="#art6">articolo 6</rif>, riguardanti la composizione del Consiglio direttivo dell'Istituto regionale per gli studi storici del Molise, sono efficaci dall'effettuazione delle nomine conseguenti alla scadenza del Consiglio direttivo attualmente in carica. Dalla medesima data decorrono gli effetti dei relativi adeguamenti statutari.  </corpo>
+                </comma>
+                <comma id="art12-com5">
+                    <num>
+ 
+5.</num>
+
+                    <corpo> Sino all'entrata in vigore delle leggi regionali sul riordinamento del sistema regionale della promozione turistica e sulla nuova disciplina dell'assistenza abitativa, e non oltre il 31 dicembre 2007, sono prorogate le amministrazioni straordinarie degli Enti provinciali per il turismo di Campobasso e di Isernia, dell'Azienda autonoma di soggiorno e turismo di Termoli e degli Istituti autonomi per le case popolari di Campobasso e di Isernia. I Collegi dei revisori dei conti degli Enti di cui al primo periodo sono comunque ricostituiti nel termine previsto all'<rif xlink:href="urn:nir:regione.molise:legge:2007-03-22;8#art4-com1">articolo 4, comma 1, primo periodo, della legge regionale 22 marzo 2007, n. 8</rif>, e successive modificazioni. Gli stessi Collegi sono ricostituiti con il numero di tre componenti, alla cui elezione provvede il Consiglio regionale che indivua altresì i rispettivi Presidenti.  </corpo>
+                </comma>
+                <comma id="art12-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione.  
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

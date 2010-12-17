@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19841116" num="23" tipo="BURM"/>
+                <entratainvigore norm="19841201"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1984-10-26;28"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 03.Assistenza abitativa 
+ 
+Bollettino 
+Bollettino Ufficiale n. 23 del 16/11/84 
+ 
+Oggetto 
+Edilizia residenziale pubblica - Alloggi - Assegnazione - Canoni Disciplina 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 12/1998 art. 31 
+ 
+Modifiche 
+Modificato art. 2 dalla legge n. 18/1989 art. 12 
+Modificato art. 28 dalla legge n. 18/1989 art. 3 
+Modificato art. 28 dalla legge n. 10/1987 art. 1 
+Modificato art. 29 dalla legge n. 10/1987 art. 2 
+Modificato art. 29 dalla legge n. 18/1989 art. 6 
+Modificato art. 30 dalla legge n. 10/1987 art. 3 
+Modificato art. 32 dalla legge n. 18/1989 art. 2 
+Modificato art. 39 dalla legge n. 18/1989 art. 10 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19841026">26 Ottobre 1984</dataDoc>, n. <numDoc>28</numDoc>
+
+            <titoloDoc>Norme di disciplina dei criteri generali per l'assegnazione e la fissazione dei canoni degli alloggi di edilizia residenziale pubblica ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1978-08-05;457#art2-com2">art. 2, comma 2° della legge 5 agosto 1978, n. 457</rif>, in attuazione della deliberazione del CIPE pubblicata sulla Gazzetta Ufficiale n. 348 in data 19 dicembre 1981 
+ 
+Titolo I: NORME DI DISCIPLINA DEI CRITERI GENERALI PER L'ASSEGNAZIONE E LA REVOCA DEGLI ALLOGGI DI EDILIZIA RESIDENZIALE PUBBLICA 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 12/1998 art. 31</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

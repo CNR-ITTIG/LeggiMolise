@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20040601" num="11" tipo="BURM"/>
+                <entratainvigore norm="20040616"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2004-05-20;14"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 30.Promozione e organizzazione di attivit&#xE0; culturali e delle tradizioni locali, associazionismo 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 11 del 1 giugno 2004 
+ 
+Oggetto 
+Osservatorio Permanente per l'Immigrazione afro-asiatica in Italia - Riconoscimento quale soggetto culturale di interesse regionale 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20040520">20 maggio 2004</dataDoc>, n. <numDoc>14</numDoc>. 
+ 
+<titoloDoc>Riconoscimento come soggetto culturale di interesse regionale dell'Osservatorio Permanente per l'Immigrazione afro-asiatica in Italia. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+Nel quadro delle iniziative che la Regione Molise intende programmare e realizzare, l'individuazione di temi e soggetti di fattori immigratori nel territorio regionale, a partire da quello molisano e dei territori limitrofi, assumono rilevanza di interesse regionale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+
+                <rubrica>
+ 
+L'Osservatorio Permanente per l'Immigrazione afro-asiatica in Italia, di seguito chiamato Osservatorio, istituito presso la cattedra di Diritto dell'Antico Oriente Mediterraneo, del Dipartimento di Scienze Giuridiche, Sociali e dell'Amministrazione, della Facoltà di Giurisprudenza dell'Università degli Studi del Molise, viene riconosciuto come soggetto di interesse pubblico regionale incaricato per l'attuazione di quanto previsto all'<rif xlink:href="#art1">articolo 1</rif> della presente legge. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+L'Osservatorio, entro il 31 marzo di ogni anno, propone, per il tramite della cattedra di Diritto dell'Antico Oriente Mediterraneo, il programma annuale delle attività, quantificandone il costo. La Giunta regionale, su proposta del Presidente, entro i trenta giorni successivi, ne delibera l'eventuale approvazione ed impegna contestualmente la relativa somma. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+L'onere derivante dall'applicazione della presente legge è imputato alle U.P.B. 300 (capitoli nn. 38620/38622) e 307 del Bilancio regionale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19770901" num="16" tipo="BURM"/>
+                <entratainvigore norm="19770916"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1977-08-13;23"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 34.Trasporti e viabilit&#xE0;, navigazione nelle acque interne 
+ 
+Bollettino 
+Bollettino Ufficiale n. 16 del 01/09/77 
+ 
+Oggetto 
+Strade classificate provinciali - Manutenzione - Contributo regionale 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19770813">13 Agosto 1977</dataDoc>, n. <numDoc>23</numDoc>
+            <titoloDoc>Contributi alle Province per la manutenzione della rete viabile 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+
+                <rubrica>
+ 
+A decorrere dall'anno 1977 la Regione corrisponderà alle Province, per ciascun chilometro di strada classificata provinciale successivamente all'entrata in vigore della <rif xlink:href="urn:nir:stato:legge:1958-02-12;126">legge 12 febbraio 1958,   n. 126</rif>, un contributo annuo di L.1.000.000 (unmilione) a titolo di concorso nelle spese di manutenzione e sistemazione. 
+ 
+L'ammontare dei contributi dovuti a ciascuna Provincia per il titolo di cui al comma precedente sarà determinato e corrisposto alle Province entro il 30 giugno di ogni anno, con decreto del   Presidente della Giunta Regionale, in proporzione al chilometraggio delle strade che risulteranno classificate tra le provinciali successivamente all'entrata in vigore della citata legge n. 126 con provvedimenti emanati entro il 31 dicembre dell'anno precedente. 
+ 
+Dal computo del chilometraggio ammissibile a contributo verrà detratto quello delle strade già classificate provinciali e che siano state successivamente assunte in diretta e totale manutenzione da parte dell'ANAS a seguito di nuova classificazione disposta entro il 31 dicembre dell'anno precedente. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+
+                <rubrica>
+ 
+Alla copertura degli oneri derivanti dalla presente legge, calcolato per l'anno 1977 in L. 250.000.000 (duecentocinquantamilioni), si farà fronte con i fondi iscritti al capitolo 920 dello stato di previsione della spesa. 
+ 
+Per gli anni successivi, si provvederà con adeguati stanziamenti da iscriversi nel corrispondente capitolo di bilancio, al cui finanziamento sarà destinata quota parte dei fondi che perverranno alla Regione ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1970-05-16;281#art9">art. 9 della legge 16 maggio 1970, n. 281</rif>. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+
+                <rubrica>
+ 
+La presente legge è dichiarata urgente ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore lo stesso giorno della sua pubblicazione nel Bollettino  Ufficiale della Regione. 
+ 
+È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

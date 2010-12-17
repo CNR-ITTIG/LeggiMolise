@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20000201" num="2" tipo="BURM"/>
+                <entratainvigore norm="20000216"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-01-18;6"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 02 del 1 febbraio 2000 
+ 
+Oggetto 
+Patrimonio forestale regionale - Valorizzazione economica - Tutela ambientale - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20000118">18 gennaio 2000</dataDoc>, n. <numDoc>6</numDoc>. 
+ 
+<titoloDoc>Legge forestale della Regione Molise. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art.1 </num>
+                <rubrica>
+ 
+Finalità  
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <alinea> La presente legge persegue, nel quadro degli obiettivi di sviluppo economico e sociale del Molise, le seguenti finalità: 
+ 
+</alinea>
+                    <el id="art1-com1-leta">
+                        <num>a)</num>
+                        <corpo> la conservazione, il miglioramento e l'ampliamento del bosco, l'utilizzo e l'incremento della produzione legnosa, la valorizzazione delle bellezze naturali e paesaggistiche, la tutela degli habitat naturali, in sinergia con quella di altre risorse concorrenti allo sviluppo delle popolazioni rurali e alla promozione della qualità della vita;</corpo>
+                    </el>
+                    <el id="art1-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> la difesa del suolo e la sistemazione idraulico-forestale, la prevenzione e la difesa dei boschi da incendi e cause avverse;</corpo>
+                    </el>
+                    <el id="art1-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> la conservazione ed il miglioramento dei pascoli;</corpo>
+                    </el>
+                    <el id="art1-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> la massima occupazione della manodopera, rapportata alle singole realtà territoriali. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art.2 </num>
+                <rubrica>
+ 
+Natura degli interventi 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <alinea> Per il conseguimento delle finalità di cui alla presente legge, si attuano i seguenti interventi: 
+ 
+</alinea>
+                    <el id="art2-com1-leta">
+                        <num>a)</num>
+                        <corpo> redazione del Piano ed Inventario Forestale Regionale;</corpo>
+                    </el>
+                    <el id="art2-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> ampliamento delle superfici forestali con imboschimenti a fini protettivi e produttivi nonché conservazione e miglioramento del patrimonio boschivo;</corpo>
+                    </el>
+                    <el id="art2-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> sistemazione idraulico-forestale dei corsi d'acqua, delle pendici e consolidamento delle dune litorali nonché tutela delle zone umide e lacuali;</corpo>
+                    </el>
+                    <el id="art2-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> produzione vivaistica forestale nonché controllo del commercio di semi e di piante da rimboschimento;</corpo>
+                    </el>
+                    <el id="art2-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> prevenzione e difesa dei boschi dagli incendi, da agenti patogeni e cause avverse;</corpo>
+                    </el>
+                    <el id="art2-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> miglioramento della fruibilità forestale con creazione e manutenzione di aree attrezzate e di sentieri silvo-pastorali anche a fini turistici;</corpo>
+                    </el>
+                    <el id="art2-com1-letg">
+                        <num>  
+ 
+g)</num>
+                        <corpo> realizzazione di opere di interesse pubblico di bonifica montana nonché recupero, ai fini forestali, di aree dissestate, di cave dismesse e di discariche abbandonate; recupero e valorizzazione di aree di particolare interesse ambientale; arredo verde di scarpate di svincoli stradali, di aree di raccolta di rifiuti solidi urbani e depuratori;</corpo>
+                    </el>
+                    <el id="art2-com1-leth">
+                        <num> 
+ 
+h)</num>
+                        <corpo> conservazione, miglioramento ed ampliamento del verde pubblico; 
+ 
+l) tutela della biodiversità e degli ecosistemi esistenti; 
+ 
+m) sviluppo e regolamentazione delle attività di utilizzazione, trasformazione e commercializzazione dei prodotti legnosi e di sottobosco;  
+ 
+n) riconoscimento e tutela delle aree naturali protette. 
+ 
+</corpo><?error Marker Warning 102 (last lettera:8 next:12)?>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art.3 </num>
+                <rubrica>
+ 
+Programma degli interventi 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> Il Piano forestale regionale, da approvare entro diciotto mesi dalla pubblicazione della presente legge, è sottoposto a revisione ogni cinque anni. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il Programma degli interventi è redatto annualmente in base alle priorità indicate nel Piano forestale regionale ed ai flussi finanziari.  </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Al fine di coordinare l'utilizzazione dei flussi finanziari e di armonizzare i programmi d'intervento, è costituita la Conferenza Permanente per la Programmazione Forestale, quale Organo consultivo dell'Assessorato alle Foreste. Ne fanno parte i Presidenti degli Enti con funzioni e compiti in materia forestale in base alla <rif xlink:href="urn:nir:regione.molise:legge:1999;29">Legge Regionale n. 29/1999</rif> o loro delegati.  
+ 
+Alla Conferenza partecipano i rappresentanti delle parti sociali, le associazioni cooperative, le organizzazioni professionali agricole maggiormente rappresentative e le associazioni ambientaliste. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art.4 </num>
+                <rubrica>
+ 
+Commissione Tecnica Forestale 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <alinea> È istituita con deliberazione di Giunta Regionale la Commissione Tecnica Forestale per il coordinamento tecnico degli interventi previsti dalla presente legge. Essa è presieduta dall'Assessore competente o suo delegato ed è così composta: 
+ 
+</alinea>
+                    <el id="art4-com1-leta">
+                        <num>a)</num>
+                        <corpo> un dirigente dell'assessorato all'Agricoltura e Foreste o suo delegato;</corpo>
+                    </el>
+                    <el id="art4-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> un dirigente del settore Beni Ambientale o suo delegato;</corpo>
+                    </el>
+                    <el id="art4-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> un dirigente del settore Pianificazione Territoriale e Urbanistica o suo delegato;</corpo>
+                    </el>
+                    <el id="art4-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> un dirigente del settore Protezione Civile o suo delegato;</corpo>
+                    </el>
+                    <el id="art4-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> un dirigente della struttura forestale dell'Ente Comunità Montana territorialmente interessata, ovvero per territori non compresi in ambiti comunitari, dal dirigente responsabile della Provincia;</corpo>
+                    </el>
+                    <el id="art4-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> i coordinatori provinciali del CC.FF.SS., o loro delegati, competenti per territorio. </corpo>
+                    </el>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Le sedute della Commissione sono convocate dal Presidente o su richiesta di almeno tre componenti. Le riunioni sono valide con la presenza della maggioranza dei convocati e le decisioni sono assunte col voto favorevole della maggioranza degli intervenuti. In caso di parità prevale il voto del Presidente. </corpo>
+                </comma>
+                <comma id="art4-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Il Presidente, per la trattazione di peculiari problemi, può invitare alle sedute della Commissione, quali esperti senza diritto di voto, altri funzionari regionali o consulenti esterni all'Amministrazione. Questi ultimi dovranno rendere parere scritto, entro un termine non superiore a 20 giorni, sulla questione ad essi sottoposta ed illustrarla nella seduta della Commissione, cui hanno obbligo di partecipare. Agli aspetti esterni all'Amministrazione spetta il compenso previsto dalle rispettive tariffe professionali. </corpo>
+                </comma>
+                <comma id="art4-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> La Sezione "Tutela del Patrimonio Forestale" del Settore Foreste provvede alla tenuta degli atti della Commissione ed ai compiti di segreteria. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art.5 </num>
+                <rubrica>
+ 
+Definizione di bosco  
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <alinea> Agli effetti della presente legge si considera bosco qualunque superficie ricoperta da specie legnose forestali a portamento arboreo od arbustivo, di origine naturale od artificiale, in qualunque stadio di sviluppo. Conservano qualità di bosco le superfici private, per qualsiasi causa, della copertura forestale. Si considerano, altresì, come bosco: 
+ 
+</alinea>
+                    <el id="art5-com1-leta">
+                        <num>a)</num>
+                        <corpo> i castagneti da frutto;</corpo>
+                    </el>
+                    <el id="art5-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> i popolamenti ripari e rupestri;</corpo>
+                    </el>
+                    <el id="art5-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> la vegetazione dunale litoranea;</corpo>
+                    </el>
+                    <el id="art5-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> qualsiasi radura purché la superficie sia inferiore a mq. 2.000;</corpo>
+                    </el>
+                    <el id="art5-com1-lete">
+                        <num>  
+ 
+e)</num>
+                        <corpo> qualsiasi radura che sviluppandosi secondo una direzione prevalente e di qualsiasi superficie, abbia una larghezza inferiore a m. 20;</corpo>
+                    </el>
+                    <el id="art5-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> impianti arborei di specie autoctone, realizzati secondo una normativa o autorizzazione regionale, statale o comunitaria che prevede un vincolo di destinazione del soprassuolo a bosco. </corpo>
+                    </el>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> Ai fini della presente legge non sono da considerarsi bosco: 
+ 
+</alinea>
+                    <el id="art5-com2-leta">
+                        <num>a)</num>
+
+                        <corpo> le aree che, pur avendo i requisiti di cui al <rif xlink:href="#art5-com1">primo comma</rif>, hanno una superficie inferiore a mq. 2.000, purché ubicate ad una distanza non inferiore a m. 70 da altre superfici boscate 
+ 
+b) i pioppeti artificiali; 
+ 
+c) i noccioleti ed i noceti da frutto; 
+ 
+d) le colture di specie legnose a rapido accrescimento o per la produzione di legname pregiato e gli impianti arborei realizzati secondo una normativa o autorizzazione regionale, statale o comunitaria che prevede l'età o turno per l'utilizzazione definitiva dell'impianto; 
+ 
+e) i filari e le fasce di piante, purché la loro larghezza non sia superiore a m. 20; 
+ 
+f) i terreni abbandonati e cespugliati, i pascoli ed i prati, sui quali l'insediamento della copertura di interesse forestale, intesa come proiezione al suolo delle chiome, non superi il 25% dell'area; 
+ 
+g) i giardini ed i parchi urbani; 
+ 
+h) qualsiasi popolamento arbustivo od arboreo insediatosi sui tratturi.  
+ 
+3. La Giunta Regionale per specifiche e notevoli esigenze di carattere ambientale o biologico può sottoporre alla disciplina dei boschi anche le superfici non considerate bosco dal presente articolo. 
+ 
+</corpo><?error Marker Warning 102 (last lettera:1 next:3)?>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art.6 </num>
+                <rubrica>
+ 
+Gestione dei beni silvo-pastorali 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <corpo> I beni silvo-pastorali sono gestiti ed utilizzati in conformità dei Piani di Assestamento forestali. </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> 1 beni silvo-pastorali con superfici forestali inferiori a 100 Ha sono gestiti con Piani di taglio sulla base di un documento di ricognizione e verifica delle proprietà boscate. </corpo>
+                </comma>
+                <comma id="art6-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Nei piani di cui al <rif xlink:href="#art6-com1">comma 1</rif>, predisposti dagli Enti possono essere inclusi anche i boschi privati, purché i rispettivi proprietari ne facciano esplicita richiesta e dichiarino di assoggettarsi ai conseguenti obblighi. È ammessa la costituzione di Consorzi Forestali tra privati e tra questi e l'Ente pubblico che hanno i boschi confinanti tra loro, per la redazione del Piano e la sua gestione. </corpo>
+                </comma>
+                <comma id="art6-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> In assenza del Piano le utilizzazioni boschive possono essere effettuate nei limiti di cui all'<rif xlink:href="#art9">art. 9</rif>. </corpo>
+                </comma>
+                <comma id="art6-com5">
+                    <num>
+ 
+5.</num>
+
+                    <corpo> I Piani di Assestamento Forestale sono considerati Piani di ambito in base alla <rif
+                            xlink:href="urn:nir:regione.molise:legge:1989;24">Legge Regionale n. 24/1989</rif>, <rif
+                            xlink:href="#art11">art. 11</rif> e sono parificati, ad ogni effetto di legge, alle Prescrizioni di Massima e di Polizia Forestale di cui al <rif xlink:href="urn:nir:stato:regio.decreto:1923-12-30;3267">Regio Decreto 30 dicembre 1923, n. 3267</rif>. </corpo>
+                </comma>
+                <comma id="art6-com6">
+                    <num>
+ 
+6.</num>
+
+                    <corpo> La Regione contribuisce alle spese per la redazione dei Piani nei limiti che di volta in volta saranno posti nei programmi di intervento di cui all'<rif xlink:href="#art3">art. 3</rif>.  </corpo>
+                </comma>
+                <comma id="art6-com7">
+                    <num>
+ 
+7.</num>
+
+                    <corpo> La Commissione tecnica forestale di cui all'<rif
+                            xlink:href="#art4">articolo 4</rif> verifica che gli interventi previsti nei Piani siano compatibili con la conservazione, la tutela ed il ripristino della flora e della fauna e che, pertanto, ad essi possa applicarsi il disposto dell'<rif xlink:href="urn:nir:regione.molise:legge:1994;16#art4">articolo 4 lettera e) della Legge Regionale n. 16/1994</rif>. </corpo>
+                </comma>
+                <comma id="art6-com8">
+                    <num>
+ 
+8.</num>
+                    <corpo> La Giunta, entro sei mesi dall'entrata in vigore della presente legge, su parere della Commissione tecnica forestale, approva il regolamento tecnico amministrativo nonché il prezzario relativo alla compilazione dei Piani. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art.7 </num>
+                <rubrica>
+ 
+Taglio dei boschi di proprietà pubblica 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <corpo> Le utilizzazioni forestali, comunque previste dal Piano di taglio o Assestamento Forestale, devono essere effettuate in conformità di un progetto di taglio (martellata) redatto da un libero professionista, Agronomo o Forestale, o da un funzionario dipendente dell'Ente proprietario o gestore, professionalmente competente, a seguito di incarico conferito dall'Ente medesimo. </corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Sia le matricine nei boschi cedui sia le piante nelle fustaie coetanee o disetanee, cadenti al taglio, devono essere individuate con l'impronta del martello forestale del professionista, dell'Ente proprietario o gestore ovvero del C.F.S.. </corpo>
+                </comma>
+                <comma id="art7-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> L'assegno delle aie per la carbonizzazione, delle piste di servizio e delle relative piante, inevitabilmente cadenti al taglio per la loro realizzazione è effettuato dal tecnico progettista. </corpo>
+                </comma>
+                <comma id="art7-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> L'assegno delle piante sottoposte ed il relativo verbale con il valore, stimato sulla base del prezzo di aggiudicazione, è redatto dal tecnico progettista. Il valore del danno deve essere quadruplicato per la parte che, in sede di collaudo, viene riconosciuta come danno evitabile. </corpo>
+                </comma>
+                <comma id="art7-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> L'Ente, ultimata l'utilizzazione, provvede all'accertamento di regolare esecuzione dei lavori di taglio. </corpo>
+                </comma>
+                <comma id="art7-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> Le operazioni di martellata, assegno ed accertamento finale devono essere comunicate al C.F.S. almeno dieci giorni prima allo scopo di permettere l'eventuale partecipazione di un incaricato per verifiche e controlli di Polizia Forestale. </corpo>
+                </comma>
+                <comma id="art7-com7">
+                    <num>
+ 
+7.</num>
+                    <corpo> Per ogni introito derivante dall'attività di gestione dei beni forestali deve essere accantonata, su un apposito capitolo di bilancio dell'Ente gestore, almeno il 10% dello stesso, da utilizzare per la cura del patrimonio forestale con particolare riguardo alla redazione del Piano di gestione, ai rimboschimenti a carattere protettivo con specie autoctone o anche al recupero di manufatti di interesse paesaggistico culturale legati al bosco. I depositi ancora attivi, allo stesso titolo, giacenti presso la Camera di Commercio, Industria, Artigianato ed Agricoltura, sono trasferiti sul capitolo di bilancio dell'Ente. </corpo>
+                </comma>
+                <comma id="art7-com8">
+                    <num>
+ 
+8.</num>
+                    <corpo> La Commissione Tecnica Forestale provvede a proporre per l'approvazione della Giunta Regionale, entro dodici mesi dall'entrata in vigore della legge il regolamento, il Capitolato tipo di appalto, gli elaborati tra cui il piedilista di martellata sia per le piante matricine sia per le piante dei soprassuoli coetanei o disetanei, per la redazione dei progetti di taglio dei boschi. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art.8 </num>
+                <rubrica>
+ 
+Taglio dei boschi di proprietà privata 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+                    <corpo> Ogni privato che intende effettuare un taglio di bosco deve comunicare, 30 giorni prima dell'inizio del taglio, al Comune, alla Comunità Montana ed al C.F.S. competente per territorio, la volontà ad effettuare il taglio del bosco e deve allegare le informazioni tecniche relativamente alle piante da rilasciare o tagliare e della relativa superficie e particella catastale. Dalla comunicazione decorre il termine di due anni per effettuare la tagliata. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art.9 </num>
+                <rubrica>
+ 
+Norme comuni a tutti i boschi 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+                    <corpo> Tutti i tagli dei boschi devono essere effettuati in conformità dei Piani di Assestamento ed, in assenza, delle presenti norme e delle Prescrizioni di Massima e Polizia Forestale. </corpo>
+                </comma>
+                <comma id="art9-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> I boschi pubblici, in assenza di Piano di assestamento vigente, possono essere assoggettati a taglio per superfici maggiori di quindici ettari, a condizione che non venga superata la media dell'ultimo decennio. </corpo>
+                </comma>
+                <comma id="art9-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Per i boschi, sia pubblici che privati non provvisti di Piano, sono possibili i tagli di utilizzazione che percorrano una superficie massima della proprietà di ettari 15, comprese le tagliate effettuate nei precedenti tre anni. </corpo>
+                </comma>
+                <comma id="art9-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> I boschi cedui, puri o misti, a prevalenza di faggio o di specie quercine, di età superiore ad anni trenta, in presenza di stazione favorevole, devono essere convertiti ad alto fusto. 
+ 
+Qualora la stazione non consente detto intervento, o nel caso di boschi di superfici inferiori ad un ettaro, ubicati in più ampi complessi governati a ceduo, la conservazione del governo a ceduo è consentita a condizione che sia autorizzata dalla Commissione Tecnica Forestale. </corpo>
+                </comma>
+                <comma id="art9-com5">
+                    <num>
+ 
+5.</num>
+
+                    <alinea> Nelle superfici boschive non è dovuta l'autorizzazione ex <rif xlink:href="urn:nir:stato:legge:1939;1497#art7">art. 7 della Legge n. 1497/1939</rif> per i seguenti interventi: 
+ 
+</alinea>
+                    <el id="art9-com5-leta">
+                        <num>a)</num>
+
+                        <corpo> gli interventi previsti nei Piani di cui all'<rif xlink:href="#art6">art. 6</rif>;</corpo>
+                    </el>
+                    <el id="art9-com5-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> il taglio colturale previsto dalla <rif
+                                xlink:href="urn:nir:stato:legge:1985;431">Legge n. 431/1985</rif> ovvero i tagli eseguiti in conformità delle norme di cui alla presente legge e per le operazioni silvo-colturali previste dalla <rif xlink:href="urn:nir:regione.molise:legge:1994;16">Legge Regionale n. 16/ 1994</rif>, primo comma, lett. b), ivi compreso il taglio dei boschi cedui con il rilascio di matricine come da P.M.P.F. ed i tagli a raso autorizzati dalla Commissione Tecnica Forestale esclusivamente per motivi colturali;</corpo>
+                    </el>
+                    <el id="art9-com5-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> gli interventi colturali e di risanamento (succisione, tramarratura, ecc...) dei boschi danneggiati da incendi;</corpo>
+                    </el>
+                    <el id="art9-com5-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> interventi di miglioramento boschi, conversioni, diradamenti, operazioni selvicolturali, lavori di difesa forestale o connessi alla regimazione delle acque di soprassuolo e sotterranee, piccoli manufatti per il consolidamento delle aree e opere di bioingegneria;</corpo>
+                    </el>
+                    <el id="art9-com5-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> la manutenzione delle piste forestali esistenti;</corpo>
+                    </el>
+                    <el id="art9-com5-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> la realizzazione di piste di servizio esclusivamente a fondo naturale, della larghezza massima di ml. 3, onde consentire l'avviamento dei materiali legnosi sul piazzale di carico, da realizzare con modesti movimenti di terra e senza alcuna opera d'arte o demolizione di muretti a secco o opere preesistenti. A fine lavorazione il terreno deve essere ripristinato allo scopo di favorire l'insediamento e la ricostituzione naturale di un tappeto vegetale. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art.10 </num>
+                <rubrica>
+ 
+Realizzazione degli interventi 
+ </rubrica>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+                    <corpo> Gli Enti a cui la <rif xlink:href="urn:nir:regione.molise:legge:1999;29">Legge Regionale n. 29/1999</rif> delega funzioni e compiti in campo forestale promuovono la redazione dei Piani di Assestamento e redigono un programma di interventi in armonia con il Piano di assestamento e col Piano forestale regionale, dando priorità agli interventi di difesa fitopatologica, ambientale ed idrogeologica. </corpo>
+                </comma>
+                <comma id="art10-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Per la realizzazione degli interventi gli stessi Enti procederanno prioritariamente con il sistema in economia, con diritto di precedenza nell'assunzione, ai sensi del contratto nazionale di settore (CCNL Forestali), della manodopera che abbia maturato detto diritto per lavori realizzati dalla Regione, nonché mediante affidamento ai soggetti di cui all'<rif xlink:href="urn:nir:stato:legge:1994;97#art17">art. 17 della Legge n. 97/1994</rif>. </corpo>
+                </comma>
+                <comma id="art10-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Gli interventi di cui al comma precedente sono diretti a garantire un numero di giornate lavorative pro-capite non inferiore a 151 su base annua.  </corpo>
+                </comma>
+                <comma id="art10-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> Per gli interventi di imboschimento e quelli di cui all'<rif
+                            xlink:href="#art9-com5">art. 9, comma 5</rif>, su terreni gravati da uso civico, non occorre seguire le procedure di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1980;6">Legge Regionale n. 6/1980</rif>. </corpo>
+                </comma>
+                <comma id="art10-com5">
+                    <num>
+ 
+5.</num>
+
+                    <corpo> Per gli interventi di cui sopra non occorre l'autorizzazione alla trasformazione di terreni saldi o per movimento di terreno di cui al <rif xlink:href="urn:nir:stato:regio.decreto:1926-05-16;1126">Regio Decreto 16 maggio 1926, n. 1126</rif> e successive modifiche ed integrazioni.  </corpo>
+                </comma>
+                <comma id="art10-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> Possono essere previsti anche interventi di verde urbano o di aree attrezzate di fruizione ambientale, purché gli interventi siano compatibili con la gestione forestale del bosco. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art.11 </num>
+                <rubrica>
+ 
+Definizione ed esercizio del pascolo 
+ </rubrica>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+                    <corpo> Si definiscono pascoli, agli effetti della presente legge, i terreni ricoperti da un manto erboso, parzialmente anche arborati o cespugliati, adibiti permanentemente alla produzione foraggera utilizzata dal bestiame mediante il pascolamento. </corpo>
+                </comma>
+                <comma id="art11-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Sono da considerare superfici pascolive anche le superfici boscate da poter utilizzare, nel rispetto delle norme fissate dalle Prescrizioni di Massima e Polizia Forestale, per la pratica del pascolo. </corpo>
+                </comma>
+                <comma id="art11-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> L'esercizio del pascolo deve essere praticato in conformità del Piano di gestione di cui all'<rif xlink:href="#art8">art. 8</rif>, ovvero di un regolamento pascoli redatto a cura dell'Ente stesso. In assenza l'esercizio del pascolo deve essere effettuato in conformità delle Prescrizioni di Massima e Polizia Forestale.  </corpo>
+                </comma>
+                <comma id="art11-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Sui terreni pascolivi e sugli incolti produttivi percorsi da incendio, ancor più se cespugliati, l'esercizio del pascolo è vietato per i dodici mesi immediatamente successivi alla data di verifica dell'evento.  </corpo>
+                </comma>
+                <comma id="art11-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> Nei terreni boscati percorsi da incendio, il pascolo è vietato per gli otto anni successivi a quello dell'evento e comunque non prima che il novellame abbia raggiunto l'altezza minima di metri 1 per gli ovini e di metri 2,50 per i bovini e gli equini. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art.12 </num>
+                <rubrica>
+ 
+Divieti di transito e di sosta 
+ </rubrica>
+                <comma id="art12-com1">
+                    <num>
+1.</num>
+                    <corpo> Sulle superfici boscate e sui pascoli degli Enti, sono vietati il transito e la sosta dei mezzi motorizzati, ad eccezione di quelli autorizzati dall'Ente gestore per comprovati motivi di lavoro ed in via eccezionale, per lo svolgimento di sagre e feste popolari. </corpo>
+                </comma>
+                <comma id="art12-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> È vietato il transito dei mezzi motorizzati nelle piste e strade forestali. Sulle piste e strade di servizio e di penetrazione forestale il Comune, anche su segnalazione dell'Ente gestore, appone opportuni segnali di divieto al transito e regolamenta l'accesso di mezzi motorizzati in modo da consentirlo solo ai soggetti autorizzati dall'Ente gestore per comprovati motivi di lavoro ed, in via eccezionale, per lo svolgimento di sagre e feste popolari. </corpo>
+                </comma>
+                <comma id="art12-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Nelle aree di cui sopra è comunque autorizzato il transito dei mezzi motorizzati necessari all'esercizio di pubblici servizi ed ai proprietari dei terreni confinanti, nonché ai pastori autorizzati alla transumanza e al pascolo. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art.13 </num>
+                <rubrica>
+ 
+Difesa fitopatologica 
+ </rubrica>
+                <comma id="art13-com1">
+                    <num>
+1.</num>
+                    <corpo> Nell'ambito degli interventi per la difesa e conservazione del patrimonio forestale la Regione programma e sostiene la prevenzione e la cura dei danni provocati da parassiti, malattie ed altre cause anche avvalendosi della collaborazione degli Enti delegati e di strutture pubbliche o private esterne. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art.14 </num>
+                <rubrica>
+ 
+Difesa delle superfici forestali dagli incendi 
+ </rubrica>
+                <comma id="art14-com1">
+                    <num>
+1.</num>
+                    <corpo> La difesa delle superfici forestali dagli incendi viene attuata in conformità delle prescrizioni del Piano regionale antincendio e del Piano antincendio annuale approvato dal Consiglio Regionale. </corpo>
+                </comma>
+                <comma id="art14-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Nei boschi percorsi da incendio o danneggiati da cause meteoriche e biologiche ovvero nelle radure che eventualmente restano dopo il taglio di utilizzazione, è vietato qualsiasi tipo di insediamento edilizio o mutamento di destinazione d'uso. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>Art.15 </num>
+                <rubrica>
+ 
+Abrogazione di norme 
+ </rubrica>
+                <comma id="art15-com1">
+                    <num>
+1.</num>
+                    <alinea> Le disposizioni della presente legge: 
+ 
+</alinea>
+                    <el id="art15-com1-leta">
+                        <num>a)</num>
+                        <corpo> abrogano l'<rif
+                                xlink:href="#art4-com1-letb">art. 4, comma 1, lettera b</rif>, ultima parte, della <rif xlink:href="urn:nir:regione.molise:legge:1994-09-12;16">legge regionale 12 settembre 1994, n. 16</rif>, così trascritta "... e per il taglio raso per superfici superiori ad un ettaro nel caso di boschi cedui.";</corpo>
+                    </el>
+                    <el id="art15-com1-letb">
+                        <num>  
+ 
+b)</num>
+
+                        <corpo> sostituiscono ogni altra norma, prevista dal <rif
+                                xlink:href="urn:nir:stato:regio.decreto.legge:1923-12-30;3267">Regio Decreto Legge 30 dicembre 1923, n. 3267</rif>, dal <rif
+                                xlink:href="urn:nir:stato:regio.decreto:1926-05-16;1126">Regio Decreto 16 maggio 1926, n. 1126</rif>, dalla <rif xlink:href="urn:nir:stato:legge:1967-10-09;950">legge 9 ottobre 1967, n. 950</rif>, dalle leggi 1° marzo 1975, n. 47 e 4 agosto 1984, n. 424, incompatibili con le disposizioni contenute nella presente legge. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>Art. 16 </num>
+                <rubrica>
+ 
+Istituzione dell'Albo regionale delle Imprese boschive 
+ </rubrica>
+                <comma id="art16-com1">
+                    <num>
+1.</num>
+                    <corpo> È costituito l'Albo regionale delle Imprese boschive. </corpo>
+                </comma>
+                <comma id="art16-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> L'iscrizione all'Albo è obbligatoria per le Imprese residenti nella Regione, al fine di partecipare alle gare per l'acquisto dei materiali legnosi messi in vendita dagli Enti Pubblici. Le Imprese residenti in altre Regioni debbono essere in regola con le norme delle Regioni di appartenenza. </corpo>
+                </comma>
+                <comma id="art16-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La Commissione Tecnica Forestale, entro 12 mesi dall'entrata in vigore della presente legge, sottopone all'approvazione della Giunta Regionale la proposta di regolamento dell'Albo Regionale delle ditte boschive. </corpo>
+                </comma>
+                <comma id="art16-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Il certificato di iscrizione all'Albo viene rilasciato dal Presidente della Commissione Tecnica Forestale, con validità di un anno e viene rinnovato a seguito di istanza della ditta interessata. </corpo>
+                </comma>
+                <comma id="art16-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> Le norme relative all'iscrizione all'Albo entrano in vigore decorso tre mesi dall'approvazione del regolamento. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>Art.17 </num>
+                <rubrica>
+ 
+Norma di rinvio 
+ </rubrica>
+                <comma id="art17-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Per quanto non previsto dalla presente legge, valgono le disposizioni di cui al <rif xlink:href="urn:nir:stato:regio.decreto.legge:1923-12-30;3267">Regio Decreto Legge 30 dicembre 1923, n. 3267</rif> e successive modificazioni ed integrazioni. La Giunta regionale, entro sei mesi dalla pubblicazione della presente legge, elabora, su parere della Commissione Tecnico Forestale, una proposta di legge concernente "Norme di polizia forestale e di prescrizioni di massima". 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>Art.18 </num>
+                <rubrica>
+ 
+Norma finanziaria  
+ </rubrica>
+                <comma id="art18-com1">
+                    <num>
+1.</num>
+                    <corpo> Agli oneri derivanti dall'attuazione della presente legge per l'esercizio finanziario 2000 si provvederà mediante istituzione di apposito capitolo di spesa con la legge approvativa del bilancio. </corpo>
+                </comma>
+                <comma id="art18-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Per i successivi esercizi finanziari si provvederà con le rispettive leggi approvative di bilancio. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art19">
+                <num>Art.19 </num>
+                <rubrica>
+ 
+Dichiarazione d'urgenza 
+ 
+La presente legge è dichiarata urgente ed entra in vigore lo stesso giorno della sua pubblicazione sul Bollettino Ufficiale della Regione.  
+ 
+È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art19-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

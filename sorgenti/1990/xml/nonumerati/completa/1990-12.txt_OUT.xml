@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19900601" num="10" tipo="BURM"/>
+                <entratainvigore norm="19900616"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1990-05-25;25"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 10 del 01/06/1990 
+ 
+Oggetto 
+Zone rurali - Servizio elettrico e telefonico - Integrazioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19900525">25 Maggio 1990</dataDoc>, n. <numDoc>25</numDoc>
+            <titoloDoc>Modifiche ed integrazioni alla <rif xlink:href="urn:nir:regione.molise:legge:1990;4">legge regionale n.4/90</rif>
+            </titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art1-com1-mod1">
+1. All'art. 2, comma 2, dopo la parola &lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir1">E.N.E.L</virgolette>&gt;&gt;, sono aggiunte le seguenti parole: &lt;&lt;<virgolette id="art1-com1-mod1-vir2"> alle   competenti Aziende comunali, ove esistono</virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art2-com1-mod2">
+1. All'<rif
+                                xlink:href="#art3">art. 3</rif> il <rif
+                                xlink:href="#art2-com1">comma 1</rif> è così modificato: 
+ 
+&lt;&lt;<virgolette
+                                id="art2-com1-mod2-vir3" tipo="parola">L'E.N.E.L e le Aziende comunali, di cui al precedente articolo, predispongono i progetti per   la distribuzione dell'energia elettrica al servizio dell'agricoltura fino alle singole utenze</virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art3-com1-mod3">
+1. All'<rif
+                                xlink:href="#art4-com1">art. 4, comma 1</rif> dopo la parola &lt;&lt;<virgolette
+                                id="art3-com1-mod3-vir4">E.N.E.L</virgolette>&gt;&gt; sono aggiunte le seguenti parole: &lt;&lt;<virgolette id="art3-com1-mod3-vir5">e alle predette Aziende comunali</virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art4-com1-mod4">
+1. All'<rif
+                                xlink:href="#art5-com1">art. 5, comma 1</rif>, dopo la parola &lt;&lt;<virgolette
+                                id="art4-com1-mod4-vir6">E.N.E.L</virgolette>&gt;&gt; sono aggiunte le seguenti parole: &lt;&lt;<virgolette id="art4-com1-mod4-vir7">e dalle   Aziende comunali</virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art5-com1-mod5">
+1. L'<rif
+                                xlink:href="#art6">art. 6</rif> è così sostituito: &lt;&lt;<virgolette
+                                id="art5-com1-mod5-vir8" tipo="parola">L'esecuzione delle opere di elettrificazione è affidata all'E.N.E.L.. Essa è, invece, affidata alle competenti Aziende comunali, ove esistono. I rapporti tra la Regione e l'E.N.E.L. e quelli tra la Regione e le Aziende comunali sono disciplinati da apposita convenzione, il cui schema è approvato dalla Giunta Regionale</virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <comma id="art6-com1">
+                    <num/>
+
+                    <corpo>
+1. La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">articolo 127 della Costituzione</rif> e   dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua   pubblicazione sul Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error 2. &#xC8; fatto obbligo, a chiunque spetti, di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

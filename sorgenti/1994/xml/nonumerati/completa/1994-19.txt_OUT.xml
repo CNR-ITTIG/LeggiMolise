@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19940616" num="12" tipo="BURM"/>
+                <entratainvigore norm="19940701"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1994-06-10;5"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+ 
+Bollettino 
+Bollettino Ufficiale n. 12 del 16/06/94 
+ 
+Oggetto 
+Rifinanziamento delle leggi regionali di settore 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19940610">10 Giugno 1994</dataDoc>, n. <numDoc>5</numDoc>
+            <titoloDoc>Provvedimenti di rifinanziamento e modifiche di leggi regionali relative a diversi settori di intervento. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione>
+            <dataeluogo codice="00100" norm="">3, 4 e 8 della <rif xlink:href="urn:nir:regione.molise:legge:1988-03-10">legge regionale 10 marzo 
+ 
+            1988</rif>, </dataeluogo>
+        </conclusione><?error n.6. Finanziamento legge n.64 del 
+ 
+            1&#xF8; marzo 1986 art.9. 
+ 
+ 
+
+?>
+    </LeggeRegionale>
+</NIR>

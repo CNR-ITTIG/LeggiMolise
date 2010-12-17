@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19990816" num="15" tipo="BURM"/>
+                <entratainvigore norm="19990831"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1990-05-11;22"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="-"/>
+                </materie>
+            </descrittori>
+        </meta><?error 03.Assistenza abitativa 
+ 
+Bollettino 
+Bollettino Ufficiale n. 15 del 16/08/99 
+ 
+Oggetto 
+modifiche alla ?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>L.R. </tipoDoc>
+            <dataDoc norm="19900511">11 maggio 1990</dataDoc>n. <numDoc>22</numDoc>
+
+            <titoloDoc>sull'edilizia abitativa 
+ 
+Abrogazioni 
+Abrogata intera legge dalla <rif
+                    xlink:href="urn:nir:stato:legge:2010;13">legge n. 13/2010</rif> art. allegato 1 
+ 
+Modifiche 
+ 
+ 
+<rif
+                    xlink:href="urn:nir:regione.molise:legge:1999-08-03;24">LEGGE REGIONALE 3 agosto 1999, n 24</rif>. 
+ 
+Modifiche ed integrazioni all'<rif
+                    xlink:href="urn:nir:regione.molise:legge:1990-05-11#art3-com4">articolo 3 - comma quarto, della Legge Regionale 11 maggio 1990</rif> - n. 22, concernente: "Interventi per l'edilizia abitativa". 
+ 
+LEGGE REGIONALE :3 agosto 1999, n 24. 
+ 
+Modifiche ed integrazioni all'<rif xlink:href="urn:nir:regione.molise:legge:1990-05-11#art3-com4">articolo 3 - comma quarto, della Legge Regionale 11 maggio 1990</rif> - n. 22, concernente: "Interventi per l'edilizia abitativa". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art1-com1-mod1">
+1. All'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1990-05-11#art3-com4">articolo 3 - comma quarto, della legge regionale 11 maggio 1990</rif> - n. 22, dopo le parole: "<virgolette
+                                id="art1-com1-mod1-vir1"
+                                tipo="parola">?limitatamente alla prima applicazione della presente legge</virgolette>", sono aggiunte le parole: "<virgolette
+                                id="art1-com1-mod1-vir2" tipo="parola">L'alloggio per il quale, al momento della presentazione dell'istanza, è stato esibito il preliminare di compravendita, può essere acquistato anche successivamente alla data di scadenza dei termini per la presentazione delle domande e, comunque, non oltre il 30 dicembre 1997</virgolette>". </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+1. L'<rif
+                            xlink:href="#art1">articolo 1</rif> della presente legge trova applicazione anche per le istanze presentate a seguito dell'avviso pubblico approvato dalla Giunta regionale con deliberazione n. 4006 del l0 Settembre 1990. 
+ 
+2. Le istanze di tutti coloro che risulteranno aver acquistato l'immobile in data successiva al termine previsto per la presentazione delle domande, fissato dall'avviso pubblico richiamato al comma precedente, verranno collocate, ricorrendone tutti gli altri presupposti, in apposita specifica graduatoria aggiuntiva delle domande ammissibili e i benefici della <rif xlink:href="urn:nir:regione.molise:legge:1990-05-11">legge regionale dell'11 maggio 1990</rif> - n. 22, verranno concessi solo dopo aver esaurito tutte le altre graduatorie.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+
+                    <corpo>
+1. Per le istanze di tutte le categorie d'intervento previsto dalla <rif xlink:href="urn:nir:regione.molise:legge:1990-05-11">legge regionale 11 maggio 1990</rif> - n. 22, la presentazione/integrazione o rettifica della documentazione finale per l'erogazione del contributo deve avvenire perentoriamente entro e non oltre 90 giorni dal ricevimento della richiesta da parte della struttura regionale competente, da effettuarsi dopo l'approvazione della presente legge regionale. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <corpo>La presente legge sarà pubblicata nel Bollettino Ufficiale della È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>
