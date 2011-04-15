@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19790716" num="13" tipo="BURM"/>
+                <entratainvigore norm="19790731"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1979-07-14;19"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="17.lavori pubblici e acquedotti"/>
+                </materie>
+            </descrittori>
+        </meta><?error 17.Lavori pubblici e acquedotti 
+ 
+Bollettino 
+Bollettino Ufficiale n. 13 del 16/07/79 
+ 
+Oggetto 
+Opere pubbliche di interesse regionale - Esecuzione - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 2 dalla legge n. 12/1993 art. 2 
+Modificato art. 3 dalla legge n. 12/1993 art. 3 
+Modificato art. 3 dalla legge n. 1/1985 art. 1 
+Modificato art. 3 dalla legge n. 20/1980 art. 2 
+Modificato art. 8 dalla legge n. 12/1993 art. 4 
+Modificato art. 9 dalla legge n. 20/1980 art. 3 
+Modificato art. 10 dalla legge n. 14/1995 art. 2 
+Modificato art. 10 dalla legge n. 20/1980 art. 4 
+Modificato art. 11 dalla legge n. 20/1980 art. 5 
+Modificato art. 13 dalla legge n. 20/1980 art. 6 
+Modificato art. 14 dalla legge n. 20/1980 art. 7 
+Modificato art. 15 dalla legge n. 12/1993 art. 5 
+Modificato art. 18 dalla legge n. 20/1980 art. 8 
+Modificato art. 19 dalla legge n. 20/1980 art. 9 
+Modificato art. art. 24-bis dalla legge n. 20/1980 art. 10 
+Modificato art. 25-bis dalla legge n. 4/1986 art. 3 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19790714">14 Luglio 1979</dataDoc>, n. <numDoc>19</numDoc>
+            <titoloDoc>Norme per l'esecuzione dei lavori e delle opere pubbliche di interesse regionale 
+ 
+TITOLO I: NORME GENERALI 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: Ambito di applicazione della legge 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo> 
+Le norme della presente legge, in applicazione dei principi fondamentali di cui alla <rif xlink:href="urn:nir:stato:legge:1978-01-03">legge dello Stato 3 gennaio 1978</rif>. n. 1, disciplinano la esecuzione dei lavori e delle opere pubbliche di   interesse regionale. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+
+                    <corpo>Esse si applicano alle opere ed ai lavori pubblici di interesse regionale eseguiti dalla Regione, dalle Province, dalle Comunitï¿½ Montane, dai Consorzi di Bonifica, dai Comuni e dagli Enti locali   e loro Consorzi nonchï¿½, ove si tratti di lavori assistiti dai contributi previsti dalla <rif xlink:href="urn:nir:regione.molise:legge:1975-01-21;10">legge regionale 21 gennaio 1975, n. 10</rif>, a quelli eseguiti dagli altri Enti di cui all'art. 1 della stessa legge. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+                <rubrica>: Norme per la compilazione dei progetti 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo> 
+I progetti delle opere di cui all'<rif xlink:href="#art1">art. 1</rif> sono compilati di norma dagli Uffici Tecnici degli Enti; qualora l'Ente non disponga di Ufficio Tecnico adeguato all'opera da realizzare o in caso di motivata necessitï¿½, esso potrï¿½ avvalersi dell'opera di liberi professionisti, con i quali dovrï¿½ preventivamente stipulare apposita convenzione, redatta sulla base di uno schema da approvare dalla Giunta Regionale entro sei mesi dall'entrata in vigore della presente legge. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+                    <corpo>Fino all'approvazione dello schema di convenzione di cui al comma precedente, gli Enti disciplineranno con propri atti i rapporti con i liberi professionisti. </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num/>
+
+                    <corpo>I progetti dovranno essere ispirati a criteri di sana economia con strutture dimensionate sulla base di necessitï¿½ accertate e documentate e dovranno essere compilati nel rispetto delle norme   tecniche vigenti in materia di opere pubbliche. Nei capitolati speciali la determinazione del tempo utile per l'esecuzione dei lavori dovrï¿½ tener conto di quanto stabilito dal <rif xlink:href="#art11-com2">secondo comma del   successivo art. 11</rif>. </corpo>
+                </comma>
+                <comma id="art2-com4">
+                    <num/>
+                    <corpo>Eccezionalmente, per documentate particolari esigenze di carattere locale, fermo restando l'applicazione dei criteri generali tecnico-costruttivi e delle norme tecniche essenziali, potranno essere consentiti particolari adeguamenti delle norme in materia di edilizia scolastica di cui al D.M. 18 dicembre 1975. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3</num>
+                <rubrica>: Approvazione dei progetti 
+</rubrica>
+                <comma id="art3-com1">
+                    <num/>
+
+                    <alinea> 
+I progetti di tutte le opere e lavori, di cui all'<rif xlink:href="#art1">art. 1</rif>, sono approvati dal competente organo dell'Ente: 
+ 
+</alinea>
+                    <el id="art3-com1-leta">
+                        <num>a)</num>
+                        <corpo> senza alcun parere consultivo, per lavori di importo fino a L.50.000.000 o se trattasi di progetti, di qualsiasi importo, che siano fedeli stralci di progetti generali giï¿½ approvati precedentemente ovvero per lavori di qualsiasi importo che non usufruiscono di contributi regionali o statali;</corpo>
+                    </el>
+                    <el id="art3-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> sentito il parere del Capo Ufficio Tecnico dell'Ente, se di importo fino a L. 300.000.000; qualora l'Ente non disponga di Ufficio Tecnico o nel caso in cui il Capo dello stesso non sia   professionalmente competente, il parere verrï¿½ dato dall'Assessore sentito il Responsabile del Settore Regionale competente per la materia purchï¿½ munito del necessario titolo professionale, oppure sentito il parere di altro tecnico di livello direttivo del settore medesimo, delegato dal Responsabile del Settore;</corpo>
+                    </el>
+                    <el id="art3-com1-letc">
+                        <num> 
+ 
+c)</num>
+
+                        <corpo> sentito il parere del Comitato Tecnico Amministrativo, di cui al <rif xlink:href="#art10">successivo art. 10</rif>, per progetti di importo superiore a L. 300.000.000. </corpo>
+                    </el>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <corpo>
+                        <mod id="art3-com2-mod1">I progetti di opere che interessano la bonifica, l'irrigazione, lo sport ed il tempo libero, debbono pervenire tramite rispettivamente: il Settore Agricoltura e Bonifica, il Settore Irrigazione ed il Settore Turismo, Sport e Tempo libero, che li dovranno corredare di preliminare parere favorevole. 
+ 
+ï¿½ soppressa ogni approvazione tecnica da parte degli Organi della Regione giï¿½ prevista dalle vigenti disposizioni statali e regionali.</mod>
+                    </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num/>
+                    <corpo>Nei provvedimenti di approvazione dei progetti dovranno essere stabiliti i termini per l'inizio ed il compimento dei lavori e delle espropriazioni. </corpo>
+                </comma>
+                <comma id="art3-com4">
+                    <num/>
+                    <corpo>Gli organi consultivi di cui sopra sono tenuti ad emettere il parere entro 60 giorni dalla ricezione della richiesta, che, se favorevole, sarï¿½ comunicato telegraficamente all'Ente. </corpo>
+                </comma>
+                <comma id="art3-com5">
+                    <num/>
+                    <corpo>In assenza di parere espresso nei termini o di richieste istruttorie, le procedure amministrative dell'Ente riprendono il loro corso, prescindendo dall'eventuale parere anche tardivamente   pronunziato. </corpo>
+                </comma>
+                <comma id="art3-com6">
+                    <num/>
+                    <corpo>In ogni caso l'istruttoria ed il parere da parte degli organi aditi vanno definiti entro 60 giorni dalla data di ricevimento delle notizie o degli atti richiesti dagli organi stessi. </corpo>
+                </comma>
+                <comma id="art3-com7">
+                    <num/>
+                    <corpo>Gli organi regionali consultivi riferiranno annualmente alla Presidenza della Giunta Regionale in ordine alla applicazione della detta norma, indicando le ragioni che hanno eventualmente   impedito l'osservanza dei termini previsti per i pareri. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+                <rubrica>: Dichiarazione di pubblica utilitï¿½ e di urgenza 
+</rubrica>
+                <comma id="art4-com1">
+                    <num/>
+
+                    <corpo> 
+L'approvazione dei progetti effettuata ai sensi del <rif xlink:href="#art3">precedente art.3</rif> equivale a dichiarazione di pubblica utilitï¿½ e di urgenza ed indifferibilitï¿½ delle opere stesse. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num/>
+                    <corpo>Rimangono ferme le disposizioni contenute in leggi speciali regolanti la materia stessa. </corpo>
+                </comma>
+                <comma id="art4-com3">
+                    <num/>
+                    <corpo>Gli effetti della dichiarazione di pubblica utilitï¿½ e di urgenza ed indifferibilitï¿½ cessano se le opere non hanno avuto inizio nel triennio successivo all'approvazione del progetto. </corpo>
+                </comma>
+                <comma id="art4-com4">
+                    <num/>
+                    <corpo>Nei casi in cui lo strumento urbanistico vigente contenga destinazioni specifiche di aree per la realizzazione di servizi pubblici, l'approvazione di progetti di opere pubbliche da parte del Consiglio Comunale, anche se non conformi alle specifiche destinazioni di piano, non comporta necessitï¿½ di varianti allo strumento urbanistico medesimo. </corpo>
+                </comma>
+                <comma id="art4-com5">
+                    <num/>
+
+                    <corpo>Nel caso in cui le opere ricadono su aree che negli strumenti urbanistici approvati non sono destinate a pubblici servizi, la deliberazione del Consiglio Comunale di approvazione del progetto,   costituisce adozione di variante degli strumenti stessi e non necessita di autorizzazione regionale preventiva. Essa viene approvata con le modalitï¿½ previste dagli <rif xlink:href="urn:nir:stato:legge:1962-04-18;167#art6">art. 6 e seguenti della   legge 18 aprile 1962, n. 167</rif> e successive modificazioni ed integrazioni. </corpo>
+                </comma>
+                <comma id="art4-com6">
+                    <num/>
+
+                    <corpo>Il Presidente della Giunta Regionale emana il decreto di approvazione entro 60 giorni dal ricevimento degli atti.Le disposizioni di cui ai precedenti 4ï¿½ e <rif xlink:href="#art4-com5">5ï¿½ comma</rif> si applicano altresï¿½ alle opere da realizzare da parte di associazioni o consorzi di comuni, province, consorzi di bonifica e consorzi per i nuclei di sviluppo industriale; tali enti dovranno comunque ottenere dall'amministrazione comunale competente l'approvazione dei progetti ai fini urbanistici. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+                <rubrica>: Stati di consistenza ai fini dell'occupazione temporanea 
+</rubrica>
+                <comma id="art5-com1">
+                    <num/>
+
+                    <corpo> 
+Le funzioni amministrative regionali concernenti le occupazioni temporanee e di urgenza e le operazioni di cui agli artt. 7 e 16 della <rif xlink:href="urn:nir:stato:legge:1865-06-25;2359">legge 25 giugno 1865, n. 2359</rif>, preordinate alle opere di cui   alla presente legge ed alla formazione di strumenti urbanistici esecutivi, sono delegate al Comune nel cui territorio ricadono le opere da eseguire. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num/>
+
+                    <corpo>Per le opere dichiarate urgenti ed indifferibili, lo stato di consistenza del fondo, prescritto dagli artt. 71, <rif
+                            xlink:href="#art5-com1">1ï¿½ comma</rif>, e 76 della <rif xlink:href="urn:nir:stato:legge:1965-06-25;2359">legge 25 giugno 1965, n. 2359</rif>, va compilato, dopo che sia stata disposta l'occupazione temporanea o d'urgenza, a cura dell'Ente espropriante o dei suoi concessionari che vi provvederanno in concomitanza con la redazione del verbale di immissione nel possesso. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num/>
+                    <corpo>Detto verbale deve essere redatto in contraddittorio con il proprietario o, in sua assenza, con l'intervento di due testimoni che non siano dipendenti dell'espropriante o del concessionario; al contraddittorio sono ammessi il fittavolo, il mezzadro, il colono o il compartecipante. </corpo>
+                </comma>
+                <comma id="art5-com4">
+                    <num/>
+                    <corpo>Il relativo avviso contenente l'indicazione del luogo, del giorno e dell'ora, ï¿½ notificato almeno venti giorni prima al proprietario del fondo secondo le risultanze catastali, ed entro lo stesso termine ï¿½ affisso, per almeno venti giorni, all'albo del Comune o dei Comuni in cui sono siti gli immobili. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6</num>
+                <rubrica>: Attraversamenti e spostamenti 
+</rubrica>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo> 
+Per le opere dichiarate urgenti ed indifferibili e per le quali sia stata disposta l'occupazione temporanea o d'urgenza, tutti gli Enti pubblici o societï¿½ private che gestiscono servizi pubblici, e   siano titolari del potere di autorizzazione o di concessione di attraversamento, sono tenuti a pronunziarsi entro 60 giorni dalla richiesta, indipendentemente dal perfezionamento delle pratiche amministrative e dal versamento delle somme dovute, sulle quali, in caso di ritardo, saranno corrisposti gli interessi legali.Entro lo stesso termine ed alle stesse condizioni, i soggetti di cui al comma precedente debbono pronunziarsi sugli spostamenti loro richiesti e devono provvedervi nei termini tecnici minimi, necessari alla realizzazione della specifica opera pubblica. </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num/>
+
+                    <corpo>Entro lo stesso termine ed alle stesse condizioni di cui al <rif xlink:href="#art6-com1">primo comma</rif>, e comunque prima dell'appalto dei lavori, gli Enti pubblici che ne hanno la competenza devono pronunziarsi sulle richieste di rimozione dei vincoli di qualsiasi natura che comunque possano ostacolare l'inizio delle opere. </corpo>
+                </comma>
+                <comma id="art6-com3">
+                    <num/>
+                    <corpo>Ove il parere di cui ai precedenti commi spetti alla Regione, esso ï¿½ esercitato dal Presidente della Giunta che emana i relativi decreti. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7</num>
+                <rubrica>: Aree destinate alla edilizia scolastica 
+</rubrica>
+                <comma id="art7-com1">
+                    <num/>
+
+                    <corpo> 
+L'ampiezza minima delle aree destinate all'edilizia scolastica puï¿½ essere inferiore di non oltre il 20% di quella stabilita dalle norme tecniche emanate in applicazione dell'<rif
+                            xlink:href="urn:nir:stato:legge:1967-07-28;641#art11">art. 11 della legge 28 luglio 1967, n. 641</rif>, e dall'<rif xlink:href="urn:nir:stato:legge:1975-08-05;412#art9">art. 9 della legge 5 agosto 1975, n. 412</rif>, a condizione che la deliberazione comunale di individuazione dell'area sia adottata entro un anno dall'entrata in vigore della presente legge. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8</num>
+                <rubrica>: Appalto dei lavori 
+</rubrica>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo> 
+L'appalto dei lavori puï¿½ avvenire o mediante licitazione privata o mediante appalto-concorso o mediante trattativa privata o concessione. </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num/>
+
+                    <corpo>Licitazione privata: 
+ 
+La licitazione privata, sistema normalmente da adottare, ï¿½ esperita in conformitï¿½ alle leggi statali 2 febbraio 1973, n. 14 e, per gli appalti di importo superiore ad un miliardo, anche alla   <rif xlink:href="urn:nir:stato:legge:1977-08-08;584">legge 8 agosto 1977, n. 584</rif> e successive modificazioni. Qualora il primo esperimento d'appalto sia andato deserto, esso puï¿½ essere ripetuto con l'ammissione di offerte in aumento e con   l'inserimento nella lettera d'invito di apposita clausola con cui l'Amministrazione appaltante si riserva la facoltï¿½, qualora non reperisca i mezzi finanziari per far fronte all'aumento richiesto,   di ridurre l'importo dei lavori a quello posto a base d'appalto. </corpo>
+                </comma>
+                <comma id="art8-com3">
+                    <num/>
+
+                    <corpo>Appalto-concorso 
+ 
+L'accollo dei lavori mediante il sistema dell'appalto concorso deve avvenire nel rispetto delle disposizioni, in quanto applicabili, di cui all'<rif xlink:href="urn:nir:stato:regio.decreto:1923-11-18;2440#art4">art. 4 del R.D. 18 novembre 1923, n. 2440</rif> e successive modificazioni, all'art. 3 del D.L. Igt. 6 febbraio 1919, n. 107 e successive modificazioni ed alle altre leggi dello Stato regolanti la materia. </corpo>
+                </comma>
+                <comma id="art8-com4">
+                    <num/>
+                    <alinea>Il bando deve indicare almeno: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> la natura e l'importo presunto dei lavori; 
+ 
+- le modalitï¿½ di visione degli atti relativi all'accertamento della fattibilitï¿½ dell'opera; 
+ 
+- eventuali limiti tecnici che devono essere rispettati e le prescrizioni dello strumento urbanistico applicabili all'opera; 
+ 
+- il termine per la pronuncia sulle proposte; 
+ 
+- le modalitï¿½ e gli allegati perchï¿½ sia ritenuta ammissibile la risposta all'appalto concorso.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art8-com5">
+                    <num/>
+                    <corpo>La Commissione giudicatrice dei progetti-offerta ï¿½ nominata dalla Giunta o dall'Organo esecutivo dell'Ente ed ï¿½ presieduta dal Sindaco, dai Presidente dell'Ente o da un loro delegato.  </corpo>
+                </comma>
+                <comma id="art8-com6">
+                    <num/>
+                    <corpo>La Commissione stessa ï¿½ costituita da non piï¿½ di sette componenti da scegliere tra persone particolarmente esperte nella materia oggetto dello appalto. </corpo>
+                </comma>
+                <comma id="art8-com7">
+                    <num/>
+
+                    <corpo>Trattativa privata 
+ 
+La trattativa privata ï¿½ esperibile solo nei casi ed alle condizioni di cui all'<rif
+                            xlink:href="urn:nir:stato:regio.decreto:1923-11-18;2440#art6">art. 6 del R.D. 18 novembre 1923, n. 2440</rif> e successive modificazioni, all'art. 41 del Regolamento approvato con <rif
+                            xlink:href="urn:nir:stato:regio.decreto:1924-05-23">R.D. 23 maggio 1924</rif> e successive modificazioni, all'<rif
+                            xlink:href="urn:nir:stato:legge:1977-08-08;584#art5">art. 5 della legge 8 agosto 1977, n. 584</rif> ed all'<rif xlink:href="urn:nir:stato:legge:1978-01-03;1#art12">art. 12 della legge 3 gennaio 1978, n. 1</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9</num>
+                <rubrica>: Lavori in economia 
+</rubrica>
+                <comma id="art9-com1">
+                    <num/>
+                    <alinea> 
+Possono essere eseguiti in economia: 
+ 
+</alinea>
+                    <en id="art9-com1-num1">
+                        <num>1)</num>
+
+                        <corpo> i lavori indicati nell'art. 66 del Regolamento 25 maggio 1895, n. 350, rientranti nella competenza della Regione o degli Enti di cui all'<rif xlink:href="#art1">art. 1</rif> della presente legge, senza alcun limite d'importo;</corpo>
+                    </en>
+                    <en id="art9-com1-num2">
+                        <num> 
+ 
+2)</num>
+                        <corpo> i lavori di rimboschimento, di rinsaldamento di pendici, le   opere costruttive immediatamente connesse ed ogni altra opera di sistemazione idraulico-forestale purchï¿½ di importo non superiore a L. 30 milioni;</corpo>
+                    </en>
+                    <en id="art9-com1-num3">
+                        <num> 
+ 
+3)</num>
+
+                        <corpo> ogni altro lavoro di importo non superiore a quello di cui al precedente <rif xlink:href="#art9-com1-num2">numero 2</rif>. </corpo>
+                    </en>
+                </comma>
+                <comma id="art9-com2">
+                    <num/>
+                    <corpo>L'esecuzione in economia per i lavori di cui al punto n. 1 e 2 avverrï¿½ in amministrazione diretta o mediante cottimi. </corpo>
+                </comma>
+                <comma id="art9-com3">
+                    <num/>
+                    <corpo>Per i lavori di cui al punto n. 3 l'esecuzione in economia deve sempre avvenire mediante cottimo da stipulare con il vincitore di apposita gara ufficiosa, alla quale debbono essere invitate non   meno di dieci Ditte con preavviso telegrafico di almeno dieci giorni, riducibili a cinque nei casi di particolare urgenza. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10</num>
+                <rubrica>: Comitato tecnico-amministrativo 
+</rubrica>
+                <comma id="art10-com1">
+                    <num/>
+                    <alinea> 
+Presso l'Assessorato ai LL.PP. ï¿½ istituito il Comitato tecnico amministrativo. Esso ï¿½ nominato con decreto dal Presidente della Giunta Regionale ed ï¿½ composto dai seguenti membri: 
+ 
+</alinea>
+                    <en id="art10-com1-num1">
+                        <num>1)</num>
+                        <corpo> Assessore ai LL.PP. che lo presiede;</corpo>
+                    </en>
+                    <en id="art10-com1-num2">
+                        <num> 
+ 
+2)</num>
+                        <corpo> Coordinatore dell'Assessorato ai LL.PP.;</corpo>
+                    </en>
+                    <en id="art10-com1-num3">
+                        <num> 
+ 
+3)</num>
+                        <corpo> Responsabile del Settore Edilizia Pubblica;</corpo>
+                    </en>
+                    <en id="art10-com1-num4">
+                        <num> 
+ 
+4)</num>
+                        <corpo> Responsabile del Settore Lavori Pubblici Regionali e degli Enti locali;</corpo>
+                    </en>
+                    <en id="art10-com1-num5">
+                        <num> 
+ 
+5)</num>
+                        <corpo> Responsabile del Settore Schemi Idrici intersettoriali ed acque pubbliche;</corpo>
+                    </en>
+                    <en id="art10-com1-num6">
+                        <num> 
+ 
+6)</num>
+                        <corpo> Responsabile del Settore Viabilitï¿½;</corpo>
+                    </en>
+                    <en id="art10-com1-num7">
+                        <num> 
+ 
+7)</num>
+                        <corpo> Responsabile del Settore Edilizia Residenziale;</corpo>
+                    </en>
+                    <en id="art10-com1-num8">
+                        <num> 
+ 
+8)</num>
+                        <corpo> Responsabile del Settore Urbanistica;</corpo>
+                    </en>
+                    <en id="art10-com1-num9">
+                        <num> 
+ 
+9)</num>
+                        <corpo> Responsabile del Servizio Programmazione e Pianificazione Territoriale;</corpo>
+                    </en>
+                    <en id="art10-com1-num10">
+                        <num> 
+ 
+10)</num>
+                        <corpo> Responsabile del Servizio Affari Legislativi, giuridici e legali. </corpo>
+                    </en>
+                </comma>
+                <comma id="art10-com2">
+                    <num/>
+                    <alinea>Quando il Comitato debba trattare argomenti che interessano: 
+ 
+</alinea>
+                    <el id="art10-com2-leta">
+                        <num>a)</num>
+                        <corpo> l'edilizia scolastica;</corpo>
+                    </el>
+                    <el id="art10-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> le opere igieniche e sanitarie;</corpo>
+                    </el>
+                    <el id="art10-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> le opere di bonifica e difesa del suolo;</corpo>
+                    </el>
+                    <el id="art10-com2-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> impianti sportivi; 
+ </corpo>
+                    </el>
+                </comma>
+                <comma id="art10-com3">
+                    <num/>
+                    <alinea>esso ï¿½ integrato rispettivamente con: 
+ 
+</alinea>
+                    <el id="art10-com3-leta">
+                        <num>a)</num>
+                        <corpo> il Responsabile del Settore Istruzione e Cultura ed il Provveditore agli studi della Provincia interessata o un suo delegato;</corpo>
+                    </el>
+                    <el id="art10-com3-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> il Responsabile del Settore Igiene ed Ecologia, il Responsabile del Settore Sanitï¿½ ed il Medico Provinciale della Provincia interessata;</corpo>
+                    </el>
+                    <el id="art10-com3-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> il Responsabile del Settore Agricoltura e Bonifica, il Responsabile del Settore Foreste ed il Responsabile del Settore Irrigazione;</corpo>
+                    </el>
+                    <el id="art10-com3-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> il Responsabile del Settore Turismo, Sport e Tempo Libero.Il Presidente, eccezionalmente per la trattazione di problemi particolarmente complessi, puï¿½ chiamare a far parte del Comitato di volta in volta, quali esperti senza diritto di voto, altri funzionari regionali di livello direttivo o consulenti esterni all'Amministrazione Regionale; questi ultimi dovranno rendere parere scritto, entro un termine non superiore a 20 giorni, sulla questione ad essi sottoposta ed illustrarla nella seduta del Comitato, cui hanno obbligo di   partecipare. </corpo>
+                    </el>
+                </comma>
+                <comma id="art10-com4">
+                    <num/>
+                    <corpo>In assenza dell'Assessore, il Comitato ï¿½ presieduto dal Coordinatore o da altro componente delegato dall'Assessore. </corpo>
+                </comma>
+                <comma id="art10-com5">
+                    <num/>
+                    <corpo>Agli esperti estranei all'Amministrazione spetta il compenso previsto dalle rispettive tariffe professionali. </corpo>
+                </comma>
+                <comma id="art10-com6">
+                    <num/>
+                    <corpo>Le funzioni di Segretario del Comitato sono assolte da un funzionario, avente qualifica non inferiore a Consigliere, nominato dall'Assessore ai LL.PP. </corpo>
+                </comma>
+                <comma id="art10-com7">
+                    <num/>
+                    <corpo>Le adunanze del Comitato sono valide con la presenza di almeno 5 componenti ed i pareri sono validi se adottati con il voto della maggioranza assoluta dei presenti. </corpo>
+                </comma>
+                <comma id="art10-com8">
+                    <num/>
+                    <corpo>Gli Enti di cui all'<rif xlink:href="#art1">art. 1</rif> inviano all'Assessorato Regionale competente la richiesta di parere corredata dai necessari atti tecnici ed amministrativi. </corpo>
+                </comma>
+                <comma id="art10-com9">
+                    <num/>
+                    <corpo>Il Responsabile del Settore, entro 20 giorni, previa verifica della completezza degli atti li inoltra, corredandoli con la relazione della compiuta istruttoria preliminare, al Comitato che deve esprimersi entro i successivi 40 giorni. </corpo>
+                </comma>
+                <comma id="art10-com10">
+                    <num/>
+                    <alinea>Il Comitato ï¿½ competente a pronunziarsi: 
+ 
+</alinea>
+                    <en id="art10-com10-num1">
+                        <num>1)</num>
+                        <corpo> sui progetti di cui alla lettera c) del 2ï¿½ comma del precedente art. 3;</corpo>
+                    </en>
+                    <en id="art10-com10-num2">
+                        <num> 
+ 
+2)</num>
+                        <corpo> sui progetti di edilizia scolastica di qualsiasi importo nel caso che prevedano deroghe alle norme di cui al D.M. 18 dicembre 1975;</corpo>
+                    </en>
+                    <en id="art10-com10-num3">
+                        <num> 
+ 
+3)</num>
+                        <corpo> sulle proposte di inclusione o cancellazione di abitati tra quelli da consolidare o da trasferire;</corpo>
+                    </en>
+                    <en id="art10-com10-num4">
+                        <num> 
+ 
+4)</num>
+
+                        <corpo> sulle proposte relative a modifiche ed aggiornamento del piano regolatore degli acquedotti di cui all'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616#art90">art. 90 del D.P.R. 24 luglio 1977, n. 616</rif>;</corpo>
+                    </en>
+                    <en id="art10-com10-num5">
+                        <num> 
+ 
+5)</num>
+                        <corpo> sulle dichiarazioni di pubblica utilitï¿½, urgenza, ed indifferibilitï¿½ delle opere relative alle concessioni di piccole derivazioni di acqua pubblica;</corpo>
+                    </en>
+                    <en id="art10-com10-num6">
+                        <num> 
+ 
+6)</num>
+                        <corpo> sulle autorizzazioni di linee di distribuzione di energia elettrica di tensione fino a 150 Kv;</corpo>
+                    </en>
+                    <en id="art10-com10-num7">
+                        <num> 
+ 
+7)</num>
+
+                        <corpo> sulle proposte di demolizione di opere o di parte di esse eseguite in violazione alle norme di cui alla <rif
+                                xlink:href="urn:nir:stato:legge:1974-02-02">legge 2 febbraio 1974</rif>. n. 64 e delle norme tecniche di cui agli <rif xlink:href="#art1">art. 1</rif> e 3 della stessa legge, nonchï¿½ sui progetti di adeguamento concernenti l'esecuzione di modifiche idonee a rendere le opere conformi alle norme stesse;</corpo>
+                    </en>
+                    <en id="art10-com10-num8">
+                        <num> 
+ 
+8)</num>
+                        <corpo> sulla classificazione e declassificazione di strade;</corpo>
+                    </en>
+                    <en id="art10-com10-num9">
+                        <num>9)</num>
+                        <corpo> sui piani generali di Bonifica;</corpo>
+                    </en>
+                    <en id="art10-com10-num10">
+                        <num> 
+ 
+10)</num>
+                        <corpo> sulle proposte di risoluzione e rescissione di contratti nonchï¿½ sulla determinazione di nuovi prezzi per i lavori di competenza della Regione, sia se eseguiti direttamente sia in concessione;</corpo>
+                    </en>
+                    <en id="art10-com10-num11">
+                        <num> 
+ 
+11)</num>
+
+                        <corpo> sui collaudi sui conteggi definitivi dei compensi spettanti alle imprese per revisione prezzi relativamente ai lavori di cui al punto c) del <rif
+                                xlink:href="#art3">precedente art. 3</rif>, nonchï¿½ sulle vertenze e riserve   per i lavori di cui al <rif xlink:href="#art10-com10-num10">n. 10</rif> precedente e per quelli che comunque beneficiano di contributo regionale;</corpo>
+                    </en>
+                    <en id="art10-com10-num12">
+                        <num> 
+ 
+12)</num>
+                        <corpo> sugli affari per i quali la Giunta Regionale e l'Assessore ai LL.PP., ritengano di richiedere il parere. </corpo>
+                    </en>
+                </comma>
+                <comma id="art10-com11">
+                    <num/>
+
+                    <corpo>Il Comitato, inoltre, assolve a tutte le sue funzioni, giï¿½ di competenza del Capo dell'Ufficio Tecnico e del C.T.A. del Provveditorato alle OO.PP. per la definizione dei procedimenti   amministrativi trasferiti alla Regione in virtï¿½ dell'<rif
+                            xlink:href="urn:nir:stato:decreto.legge:1975-08-13;376#art17">art. 17 del D.L. 13 agosto 1975, n. 376</rif>, convertito in legge con <rif xlink:href="urn:nir:stato:legge:1975-10-16;492">legge 16 ottobre 1975, n. 492</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11</num>
+                <rubrica>: Esecuzione dei lavori in genere 
+</rubrica>
+                <comma id="art11-com1">
+                    <num/>
+
+                    <corpo> 
+Per tutto quanto non diversamente disposto dalla presente legge, l'esecuzione dei lavori deve avvenire in conformitï¿½ del Regolamento 25 maggio 1895, n. 350 e del Capitolato Generale   d'Appalto approvato con <rif xlink:href="urn:nir:presidente.repubblica:decreto:1962-07-16;1063">D.P.R. 16 luglio 1962, n. 1063</rif> con la precisazione che, qualora l'Ente non abbia nominato un Ingegnere  Capo, le funzioni ad esso attribuite dalle norme sopra citate, ad   eccezione della conferma del certificato di regolare esecuzione, possono essere esplicate dal Direttore dei Lavori per i contratti di importo non superiore a L. 50.000.000. </corpo>
+                </comma>
+                <comma id="art11-com2">
+                    <num/>
+                    <corpo>Le sospensioni dei lavori disposte per avverse condizioni atmosferiche non possono differire il termine fissato nel contratto per l'ultimazione dei lavori. </corpo>
+                </comma>
+                <comma id="art11-com3">
+                    <num/>
+                    <corpo>Le eventuali proroghe, di cui all'art. 31 del Capitolato Generale d'Appalto, sono concesse dalla Giunta o dal Comitato direttivo dell'Ente committente, solo se giustificate da comprovate   circostanze eccezionali ed imprevedibili. </corpo>
+                </comma>
+                <comma id="art11-com4">
+                    <num/>
+                    <corpo>I componenti del collegio arbitrale, di cui alle lettere c) e d) dell'art. 45 del Capitolato stesso, sono rispettivamente sostituiti da un componente tecnico del Comitato Tecnico Amministrativo   Regionale nominato dal Presidente del Comitato stesso e da un funzionario direttivo dell'Amministrazione Regionale del Molise nominato dal Presidente della Giunta Regionale. </corpo>
+                </comma>
+                <comma id="art11-com5">
+                    <num/>
+
+                    <corpo>L'elevazione dei limiti di importo di cui all'<rif
+                            xlink:href="urn:nir:stato:legge:1978-01-03;1#art17">art. 17 della legge dello Stato 3 gennaio 1978, n. 1</rif> si applica alle opere eseguite direttamente dalla Regione o dagli Enti di cui all'<rif
+                            xlink:href="#art1">art. 1</rif>, salvo, per questi ultimi, il disposto del <rif xlink:href="#art13-com5">5ï¿½ comma del successivo art. 13</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12</num>
+                <rubrica>: Lavori in concessione 
+</rubrica>
+                <comma id="art12-com1">
+                    <num/>
+                    <corpo> 
+L'esecuzione dei lavori oggetto della presente legge puï¿½ essere dall'Ente obbligato affidata in concessione ad altro Ente pubblico, ad Ente privato, ad impresa, a consorzio di imprese nonchï¿½ a cooperative edilizie e loro consorzi. </corpo>
+                </comma>
+                <comma id="art12-com2">
+                    <num/>
+                    <corpo>L'affidamento in concessione avverrï¿½ sulla base di apposita convenzione, previa gara indetta con apposito bando, nella quale i partecipanti dovranno fornire la dimostrazione delle proprie   capacitï¿½ tecniche ed economiche. </corpo>
+                </comma>
+                <comma id="art12-com3">
+                    <num/>
+                    <corpo>Qualora la concessione sia assentita a comuni o loro consorzi ed associazioni, Province, Comunitï¿½ Montane, Consorzi di Bonifica, Consorzi per i nuclei di sviluppo industriale non si farï¿½ luogo alla gara di cui al precedente comma e al concessionario potranno essere conferite tutte le attribuzioni dell'Ente concedente necessari per la realizzazione dell'opera, ivi comprese quelle   dell'approvazione dei progetti. Al predetto concessionario compete altresï¿½, a titolo di rimborso delle spese generali sostenute, un compenso forfettario ed in percentuale, da convenire tra le parti nell'atto di concessione. Il detto compenso non potrï¿½ essere superiore a quello previsto dal primo comma del successivo articolo 15. </corpo>
+                </comma>
+                <comma id="art12-com4">
+                    <num/>
+                    <alinea>La convenzione di cui ai commi precedenti dovrï¿½ fra l'altro prevedere: 
+ 
+</alinea>
+                    <en id="art12-com4-num1">
+                        <num>1)</num>
+                        <corpo> le procedure relative alla elaborazione da parte del concessionario del progetto generale e dei progetti esecutivi delle singole opere, nonchï¿½ le procedure per l'approvazione dei progetti medesimi;</corpo>
+                    </en>
+                    <en id="art12-com4-num2">
+                        <num> 
+ 
+2)</num>
+                        <corpo> la facoltï¿½ di utilizzare nella progettazione e nella esecuzione delle opere sistemi industriali ed economicamente vantaggiosi anche sotto il profilo energetico alternativo;</corpo>
+                    </en>
+                    <en id="art12-com4-num3">
+                        <num> 
+ 
+3)</num>
+                        <corpo> le modalitï¿½ di appalto dei lavori e delle forniture da parte del concessionario e quelle relative alla contabilizzazione delle opere e delle forniture;</corpo>
+                    </en>
+                    <en id="art12-com4-num4">
+                        <num> 
+ 
+4)</num>
+                        <corpo> le modalitï¿½ per le forniture e per la esecuzione dei lavori che il concessionario potrï¿½ effettuare in proprio ovvero tramite le imprese collegate;</corpo>
+                    </en>
+                    <en id="art12-com4-num5">
+                        <num> 
+ 
+5)</num>
+                        <corpo> i criteri per la vigilanza sull'esecuzione dei lavori e il collaudo definitivo delle opere;</corpo>
+                    </en>
+                    <en id="art12-com4-num6">
+                        <num> 
+ 
+6)</num>
+                        <corpo> i criteri di determinazione delle singole componenti che concorrono a formare il costo complessivo di ogni singolo intervento e le modalitï¿½ e i tempi del relativo pagamento al   concessionario;</corpo>
+                    </en>
+                    <en id="art12-com4-num7">
+                        <num> 
+ 
+7)</num>
+                        <corpo> le penali per i ritardi, le ipotesi di decadenza della concessione e la procedura della relativa dichiarazione, nonchï¿½ i tempi e le modalitï¿½ per la consegna all'Ente concedente delle opere e degli impianti giï¿½ eseguiti;</corpo>
+                    </en>
+                    <en id="art12-com4-num8">
+                        <num> 
+ 
+8)</num>
+                        <corpo> i criteri e le modalitï¿½ di eventuali anticipazioni da parte del concessionario;</corpo>
+                    </en>
+                    <en id="art12-com4-num9">
+                        <num> 
+ 
+9)</num>
+
+                        <corpo> la facoltï¿½ di conferire al giudizio di un collegio arbitrale, composto ai sensi del <rif xlink:href="#art11-com4">quarto comma del precedente art. 11</rif>, le eventuali controversie relative alla applicazione delle norme della presente legge e della convenzione;</corpo>
+                    </en>
+                    <en id="art12-com4-num10">
+                        <num> 
+ 
+10)</num>
+                        <corpo> i termini entro i quali devono essere esperite le procedure di cui ai precedenti numeri 1) e 3). </corpo>
+                    </en>
+                </comma>
+                <comma id="art12-com5">
+                    <num/>
+                    <corpo>Per i lavori beneficianti del contributo regionale, la convenzione deve essere approvata dalla Giunta Regionale. </corpo>
+                </comma>
+                <comma id="art12-com6">
+                    <num/>
+
+                    <corpo>Per le modalitï¿½ di appalto di cui al n. 3 del comma precedente la licitazione privata ï¿½ esperita, in deroga alle formalitï¿½ prescritte dal <rif
+                            xlink:href="urn:nir:stato:regio.decreto:1923-11-18;2440">Regio Decreto 18 novembre 1923, n. 2440</rif> e successive   modificazioni ed integrazioni, a norma del paragrafo a) dell'<rif xlink:href="urn:nir:stato:legge:1973-02-02;14#art1">art. 1 della legge 2 febbraio 1973, n. 14</rif>, direttamente dal concessionario sulla base del progetto esecutivo approvato e l'aggiudicazione avverrï¿½ al miglior offerente. </corpo>
+                </comma>
+                <comma id="art12-com7">
+                    <num/>
+                    <corpo>L'Ente concedente puï¿½ delegare il concessionario ad espletare le attivitï¿½ relative al procedimento espropriativo previsto dalle vigenti leggi; le conseguenti espropriazioni sono effettuate in favore dell'Ente concedente. </corpo>
+                </comma>
+                <comma id="art12-com8">
+                    <num/>
+
+                    <corpo>Nel caso di impugnativa del provvedimento di occupazione temporanea e di urgenza o di esproprio, si applicano le norme di cui all'<rif xlink:href="urn:nir:stato:legge:1975-05-27;166#art8">art. 8 della legge 27 maggio 1975, n. 166</rif>. </corpo>
+                </comma>
+                <comma id="art12-com9">
+                    <num/>
+                    <corpo>TITOLO II: LAVORI DI COMPETENZA DELLA REGIONE E LAVORI  BENEFICIANTI DEL CONTRIBUTO REGIONALE 
+ </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13</num>
+                <rubrica>: Lavori di competenza regionale dati in concessione e lavori con contributi regionali 
+</rubrica>
+                <comma id="art13-com1">
+                    <num/>
+
+                    <corpo> 
+La Giunta Regionale puï¿½ dare in concessione i lavori di competenza propria della Regione a norma del <rif xlink:href="#art12">precedente art. 12</rif> e, se concessi ad Ente pubblico non avente finalitï¿½ di lucro, il   relativo provvedimento di concessione ï¿½ emesso dal Presidente della Giunta, previa presentazione da parte dell'Ente concessionario del progetto esecutivo dell'opera debitamente   approvata dai competenti organi dell'Ente stesso. </corpo>
+                </comma>
+                <comma id="art13-com2">
+                    <num/>
+                    <corpo>Con il predetto provvedimento verrï¿½ messa a disposizione dell'Ente concessionario la somma prevista per la realizzazione dei lavori con le stesse procedure e modalitï¿½ specificate al successivo art. 16. </corpo>
+                </comma>
+                <comma id="art13-com3">
+                    <num/>
+
+                    <corpo>I lavori di competenza regionale dati in concessione e quelli di competenza degli Enti di cui all'<rif
+                            xlink:href="#art1">art. 1</rif> della presente legge ammessi al contributo regionale a norma della <rif xlink:href="urn:nir:regione.molise:legge:1975-01-21;10">legge regionale 21 gennaio 1975, n. 10</rif> e delle altre legge regionali e statali vigenti, si eseguono sotto la diretta responsabilitï¿½ dell'Ente concessionario o beneficiario del contributo che dovrï¿½ assumere ogni iniziativa e determinazione per la rapida e regolare realizzazione dell'opera. </corpo>
+                </comma>
+                <comma id="art13-com4">
+                    <num/>
+                    <corpo>In caso di gravi inadempienze la Giunta Regionale, d'intesa con la competente Commissione Consiliare, dopo aver sentito il Sindaco o il Presidente dell'Ente potrï¿½ revocare la concessione o   il contributo assegnato. </corpo>
+                </comma>
+                <comma id="art13-com5">
+                    <num/>
+                    <corpo>In ogni caso non saranno riconosciute eventuali maggiori spese conseguenti ad atti e comportamenti illegittimi o illeciti dell'Ente beneficiario del contributo regionale o del   concessionario. </corpo>
+                </comma>
+                <comma id="art13-com6">
+                    <num/>
+
+                    <corpo>Per i lavori il cui importo netto risultante dallo stato finale non sia superiore al L. 100.000.000 l'Ente concessionario o beneficiario del contributo regionale ha facoltï¿½, a norma dell'<rif xlink:href="urn:nir:stato:regio.decreto:1923-02-08;422#art19">art. 19 del R. D. 8 febbraio 1923, n. 422</rif>, di sostituire il formale atto di collaudo con certificato di regolare esecuzione che dovrï¿½ essere, in ogni caso, confermato dall'Ingegnere Capo dell'Ufficio Tecnico dell'Ente o da altro Ingegnere che ha esplicato le mansioni di Ingegnere Capo dei lavori. </corpo>
+                </comma>
+                <comma id="art13-com7">
+                    <num/>
+
+                    <corpo>Il collaudo dei lavori di cui al presente articolo viene affidato dall'Assessore regionale competente, a tecnici scelti tra gli iscritti nell'albo di cui al <rif xlink:href="#art14">successivo art. 14</rif>. Gli onorari e le   spese di collaudo sono a carico dell'Ente concessionario o beneficiario del contributo. </corpo>
+                </comma>
+                <comma id="art13-com8">
+                    <num/>
+
+                    <corpo>Qualora l'incarico sia affidato a tecnici in servizio presso lo Stato, la Regione o altri Enti locali, ad essi spetta l'onorario ridotto a norma dell'<rif xlink:href="urn:nir:stato:regio.decreto:1925-10-23;2537#art62">ultimo comma dell'art. 62 del R.D. 23 ottobre 1925, n. 2537</rif>. </corpo>
+                </comma>
+                <comma id="art13-com9">
+                    <num/>
+                    <corpo>Per il collaudo affidato a tecnici in servizio presso la Regione da Enti diversi dalla Regione, ï¿½ necessaria l'autorizzazione dell'Assessore regionale competente, il quale ne dï¿½ comunicazione   alla Commissione Affari Istituzionali e Generali. </corpo>
+                </comma>
+                <comma id="art13-com10">
+                    <num/>
+                    <corpo>Gli atti di collaudo ed il rendiconto finale delle spese sostenute sono approvati dalla Giunta Regionale. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14</num>
+                <rubrica>: Albo regionale dei collaudatori 
+</rubrica>
+                <comma id="art14-com1">
+                    <num/>
+                    <corpo> 
+ï¿½ istituito presso la Giunta Regionale uno speciale albo dei collaudatori le cui modalitï¿½ di formazione, di istituzione e tenuta sono stabilite con provvedimento della stessa Giunta   Regionale pubblicato nel Bollettino Ufficiale della Regione. </corpo>
+                </comma>
+                <comma id="art14-com2">
+                    <num/>
+                    <alinea>All'Albo possono essere iscritti, su domanda corredata da curriculum ed adeguata documentazione distinti per specialitï¿½ e competenza professionale, i seguenti tecnici laureati o   diplomati ed abilitati all'esercizio professionale da almeno cinque anni: 
+ 
+</alinea>
+                    <el id="art14-com2-leta">
+                        <num>a)</num>
+
+                        <corpo> laureati in ingegneria, architettura, geologia, scienze forestali, scienze agrarie, nonchï¿½ diplomati degli Istituti tecnici, agrari, per geometri, industriali e nautici che si trovino nei ruoli del personale della Regione, degli Enti locali e degli Enti pubblici di cui al <rif xlink:href="#art1">precedente art. 1</rif>, o che giï¿½ dipendenti delle predette amministrazioni, si trovino in posizione di quiescenza;</corpo>
+                    </el>
+                    <el id="art14-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> laureati in ingegneria, architettura, geologia, scienze agrarie, scienze forestali, nonchï¿½ diplomati degli Istituti tecnici, agrari, per geometri, industriali, nautici, iscritti nei rispettivi ordini o collegi professionali. 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

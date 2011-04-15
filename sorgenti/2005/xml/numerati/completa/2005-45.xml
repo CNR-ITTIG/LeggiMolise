@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20051216" num="39" tipo="BURM"/>
+                <entratainvigore norm="20051231"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2005-12-06;45"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 39 del 16 dicembre 2005 
+ 
+Oggetto 
+Istituzione del Comitato Regionale per le comunicazioni (Co.Re.Com.) - Modifiche ed integrazioni. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20051206">6 dicembre 2005</dataDoc>, n. <numDoc>45</numDoc>. 
+ 
+<titoloDoc>Modifiche ed integrazioni alla <rif xlink:href="urn:nir:regione.molise:legge:2002-08-26;18">legge regionale 26 agosto 2002, n. 18</rif>, ad oggetto: "Istituzione, organizzazione e funzionamento del Comitato Regionale per le Comunicazioni (CO.RE.COM.)". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ARTICOLO 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art1-com1-mod1"> L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2002-08-26;18#art11">articolo 11 della legge regionale 26 agosto 2002, n. 18</rif>, ï¿½ sostituito dal seguente: 
+ 
+"<virgolette
+                                id="art1-com1-mod1-vir1" tipo="struttura">
+                                <articolo id="art0">
+                                    <num>ARTICOLO 11 </num>
+                                    <rubrica>
+ 
+Compensi 
+ </rubrica>
+                                    <comma id="art0-com1">
+                                    <num>
+1.</num>
+
+                                    <corpo> Ai componenti del Comitato ï¿½ corrisposta un'indennitï¿½ di funzione mensile pari al 25 per cento di quella determinata, ai sensi dell'articolo 82, commi 8, 9 e 10, del <rif xlink:href="urn:nir:stato:decreto.legislativo:2000-08-18;267">decreto legislativo 18 agosto 2000, n. 267</rif>, per i sindaci dei comuni di dimensione demografica pari a quella della Regione Molise. </corpo>
+                                    </comma>
+                                    <comma id="art0-com2">
+                                    <num>
+ 
+2.</num>
+                                    <corpo> Al Presidente ed al Vicepresidente l'indennitï¿½ di funzione di cui al comma 1 ï¿½ corrisposta, per la durata dell'incarico, in una misura aumentata rispettivamente del 50 per cento e del 25 per cento. </corpo>
+                                    </comma>
+                                    <comma id="art0-com3">
+                                    <num>
+ 
+3.</num>
+                                    <corpo> Le indennitï¿½ mensili del Presidente, del Vicepresidente e dei componenti sono ridotte del 25 per cento per ogni assenza non giustificata da gravi motivi personali o da impegni istituzionali. </corpo>
+                                    </comma>
+                                    <comma id="art0-com4">
+                                    <num>
+ 
+4.</num>
+                                    <corpo> Al Presidente, al Vicepresidente ed ai componenti spetta il trattamento di missione dei dirigenti regionali per le giornate di riunione del Comitato e per le trasferte effettuate nell'esercizio delle loro funzioni</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette>". 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ARTICOLO 2 </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione MOLISE. 
+
+?>
+    </LeggeRegionale>
+</NIR>

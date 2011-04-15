@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20090416" num="8" tipo="BURM"/>
+                <entratainvigore norm="20090501"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2009-04-06;13"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 8 del 16 aprile 2009 
+ 
+Oggetto 
+Impianti serricoli e tunnel serre - Disciplina - Modifiche ed integrazioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20090406">6 aprile 2009</dataDoc>, n. <numDoc>13</numDoc>. 
+ 
+<titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:2008-02-26;5">legge regionale 26 febbraio 2008, n. 5</rif>, recante: "Disposizioni relative all'installazione di impianti serricoli e di tunnel serre". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art1-com1-mod1">
+1. Al comma 3 dell'articol 4 della <rif
+                                xlink:href="urn:nir:regione.molise:legge:2008-02-26;5">legge regionale 26 febbraio 2008, n. 5</rif> (Disposizioni relative all'installazione di impianti serricoli e di tunnel serre), le parole "<virgolette
+                                id="art1-com1-mod1-vir1"
+                                    tipo="parola">e della <rif
+                                xlink:href="urn:nir:stato:legge:1976;319">legge n. 319/1976</rif>, e successive modificazioni ed integrazioni</virgolette>" sono sostituite dalle parole "<virgolette
+                                id="art1-com1-mod1-vir2"
+                                    tipo="parola">nonchï¿½ delle disposizioni del <rif xlink:href="urn:nir:stato:decreto.legislativo:2006-04-03;152">decreto legislativo 3 aprile 2006, n. 152</rif>, concernenti la tutela delle acque dall'inquinamento</virgolette>".  </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art2-com1-mod2">
+1. L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2008;5#art6">articolo 6 della legge regionale n. 5/2008</rif> ï¿½ sostituito dal seguente:  
+ 
+"<virgolette
+                                id="art2-com1-mod2-vir3" tipo="struttura">
+                                <articolo id="art0">
+                                    <num>Art. 6 </num>
+                                    <rubrica/>
+                                    <comma id="art0-com1">
+                                    <num/>
+                                    <corpo>
+1. Salvo quanto previsto ai commi 2 e 3, la realizzazione degli impianti di cui alla presente legge ï¿½ subordinata al rilascio del permesso di costruire.  </corpo>
+                                    </comma>
+                                    <comma id="art0-com0">
+                                    <num>
+ 
+2.</num>
+                                    <corpo> Qualora gli impianti non comportino trasformazione permanente del suolo la loro realizzazione ï¿½ consentita mediante denuncia di inizio attivitï¿½ (DIA), fermo restando il rispetto dei vincoli imposti da leggi statali e regionali e delle prescrizioni degli strumenti urbanistici.  </corpo>
+                                    </comma>
+                                    <comma id="art0-com0">
+                                    <num>
+ 
+3.</num>
+                                    <corpo> Si considerano non comportanti trasformazione permanente del suolo gli impianti realizzati con strutture leggere a carattere precario ancorate al terreno senza strutture fondali fisse, non pavimentate internamente, destinate alla coltivazione temporanea o stagionale.  </corpo>
+                                    </comma>
+                                    <comma id="art0-com0">
+                                    <num>
+ 
+4.</num>
+                                    <corpo> Il permesso di costruire di cui al comma 1 ï¿½ subordinato alla presentazione di un atto unilaterale d'obbligo con il quale l'interessato si impegna a non mutare la destinazione di uso agricolo dei manufatti</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette>".  </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art3-com1-mod3">
+1. L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2008;5#art7">articolo 7 della legge regionale n. 5/2008</rif> ï¿½ sostituito dal seguente:  
+ 
+"<virgolette
+                                id="art3-com1-mod3-vir4" tipo="struttura">
+                                <articolo id="art0">
+                                    <num>Art. 7 </num>
+                                    <rubrica/>
+                                    <comma id="art0-com1">
+                                    <num/>
+                                    <corpo>
+1. Ai fini sanzionatori si applicano le disposizioni di legge vigenti.</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette>".  </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo>
+1. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. La presente legge sarï¿½ pubblicata nel Bollettino Ufficiale della Regione. ï¿½ fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

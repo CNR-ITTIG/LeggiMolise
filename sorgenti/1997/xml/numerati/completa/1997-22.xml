@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19971031" num="21" tipo="BURM"/>
+                <entratainvigore norm="19971115"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1997-10-21;22"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="14.governo del territorio, urbanistica, edilizia"/>
+                </materie>
+            </descrittori>
+        </meta><?error 14.Governo del territorio, urbanistica, edilizia 
+ 
+Bollettino 
+Bollettino Ufficiale n. 21 del 31/10/97 
+ 
+Oggetto 
+Edilizia - Edifici di culto e attrezzature per i servizi religiosi Realizzazione - Finanziamento - Modalit&#xE0; e procedure 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale  </tipoDoc>
+            <dataDoc norm="19971021">21 Ottobre 1997</dataDoc>, n. <numDoc>22</numDoc>
+            <titoloDoc>Norme per gli edifici di culto e per le attrezzature destinate ai servizi religiosi. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: FINALITï¿½ 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La Regione ed i Comuni Molisani concorrono a promuovere, conformemente ai criteri di cui alla presente legge, la realizzazione di attrezzature di interesse comune destinate a servizi religiosi, da effettuarsi da parte degli Enti istituzionalmente competenti in materia di culto della Chiesa   Cattolica, e delle altre confessioni religiose, i cui rapporti con lo Stato siano disciplinati ai sensi dell'<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art8-com3">articolo 8, terzo comma, della Costituzione</rif>, e che giï¿½ abbiamo una presenza organizzata nell'ambito dei comuni ove potranno essere realizzati gli interventi previsti dalla presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+                <rubrica>: AMBITO DI APPLICAZIONE 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <alinea> Ai sensi e per gli effetti dell'articolo 3, secondo comma, lettera b) del decreto del Ministro dei lavori pubblici 2 aprile 1968, n. 1144, sono attrezzature di interesse comune per servizi religiosi: 
+ 
+</alinea>
+                    <el id="art2-com1-leta">
+                        <num>a)</num>
+                        <corpo> gli immobilo destinati al culto se articolati in piï¿½ edifici;</corpo>
+                    </el>
+                    <el id="art2-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> gli immobili destinati all'abitazione dei ministri del culto, del personale di servizio, nonchï¿½ quelli destinati ad attivitï¿½ di formazione religiosa;</corpo>
+                    </el>
+                    <el id="art2-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> nell'esercizio del ministero pastorale, gli immobili adibiti alle attivitï¿½ educative, culturali, sociali, ricreative e di ristoro, che non abbiano fini di lucro. </corpo>
+                    </el>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> In relazione al disposto dell'<rif xlink:href="urn:nir:stato:legge:1964-09-29;847#art4">art.4 della legge 29 settembre 1964, n. 847</rif> e successive modificazioni, le attrezzature di cui al precedente comma costituiscono opere di urbanizzazione secondaria ad ogni effetto. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3</num>
+                <rubrica>: MODALITï¿½ E PROCEDURE DI FINANZIAMENTO 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+
+                    <corpo> In ciascun comune, almeno l'8% delle somme effettivamente riscosse per oneri di urbanizzazione secondaria ï¿½, ogni anno, accantonato in apposito fondo destinato alla realizzazione delle attrazzature indicate al <rif xlink:href="#art2">precedente articolo 2</rif>, nonchï¿½ per interventi di manutenzione, restauro e ristrutturazione, ampliamento e dotazione di impianti, ovvero all'acquisto delle aree necessarie. 
+ 
+I comuni hanno, altresï¿½, facoltï¿½ di incrementare il fondo sopracitato anche calcolando gli oneri di urbanizzazione secondaria non introitati per effetto dello scomputo riconosciuto ai titolari della concessione edilizia per l'esecuzione diretta delle opere di urbanizzazione secondaria e/o per la cessione delle relative aree. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> I contributi sono corrisposti alle confessioni religiose che ne facciano richiesta e che abbiano le caratteristiche di cui al <rif xlink:href="#art1">precedente articolo 1</rif>. </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> A tal fine, le competenti autoritï¿½ religiose trasmettono ai comuni entro il 31 luglio di ogni anno un programma degli interventi da effettuare, danno prioritï¿½ alle opere di restauro e di risanamento conservativo del patrimonio artistico-architettonico esistente, corredato delle relative previsioni di spesa. </corpo>
+                </comma>
+                <comma id="art3-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> Entro il successivo 30 novmbre il comune, dopo aver verificato che gli interventi previsti nei programmi presentati rientrano tra quelli di cui al <rif xlink:href="#art2-com1">precedente articolo 2 primo comma</rif>, ripartisce i predetti contributi finanziando in tutto o in parte i programmi a tal fine presentati. Tali contributi devono essere utilizzati entro tre anni dalla loro assegnazione. </corpo>
+                </comma>
+                <comma id="art3-com5">
+                    <num>
+ 
+5.</num>
+
+                    <corpo> ï¿½ in facoltï¿½ delle competenti autoritï¿½ religiose di regolare i rapporti con il comune attraverso apposite convenzioni nel caso in cui il comune stesso o i soggetti attuatori di piani urbanistici esecutivi provvedano alla realizzazione diretta delle attrezzature di cui al <rif xlink:href="#art2">precedente articolo 2</rif>. </corpo>
+                </comma>
+                <comma id="art3-com6">
+                    <num>
+ 
+6.</num>
+
+                    <corpo> Nel caso in cui non vengano presentate istanze ai sensi del <rif xlink:href="#art3-com3">precedente terzo comma</rif>, l'ammontare del fondo ï¿½ utilizzato per altre opere di urbanizzazione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art.4 </num>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+
+                    <corpo> I finanziamenti di cui alla presente legge sono cumulabili con quelli previsti dalla <rif xlink:href="urn:nir:regione.molise:legge:1986-01-27;4">legge regionale 27 gennaio 1986, n. 4</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+La presente legge non comporta oneri finanziari di alcun genere per la Regione Molise. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge sarï¿½ pubblicata sul Bollettino Ufficiale della Regione Molise. </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> ï¿½ fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

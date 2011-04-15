@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20041216" num="28" tipo="BURM"/>
+                <entratainvigore norm="20041231"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2004-12-03;30"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea"/>
+                </materie>
+            </descrittori>
+        </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x96; N. 28 del 16 dicembre 2004 
+ 
+Oggetto 
+Disciplina delle funzioni amministrative e dell'esercizio dell' attivit&#xE0; venatoria e per la salvaguardia del patrimonio faunistico e per la tutela dell'agricoltura e dell'ambiente - Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20041203">3 dicembre 2004</dataDoc>, n. <numDoc>30</numDoc>. 
+ 
+<titoloDoc>Ulteriori modifiche ed integrazioni alla <rif xlink:href="urn:nir:regione.molise:legge:1993-08-10;19">Legge Regionale 10 agosto 1993, n. 19</rif>, recante: "Norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art1-com1-mod1">
+1. L'alinea del <rif
+                                xlink:href="urn:nir:regione.molise:legge:1993-08-10;19#art19-com1">comma 1 dell'articolo 19 della legge regionale 10 agosto 1993, n. 19</rif>, ï¿½ sostituito con il seguente: 
+ 
+"<virgolette
+                                id="art1-com1-mod1-vir1" tipo="struttura">
+                                <comma id="art1-com1-mod1-vir1-com0">
+                                    <num>1.</num>
+                                    <corpo> I Comitati di gestione degli ambiti territoriali per la gestione programmata della caccia sono soggetti privati senza scopo di lucro d'interesse pubblico, sono costituiti con provvedimento della Giunta provinciale competente per territorio e sono cosï¿½ composti:</corpo>
+                                </comma>
+                            </virgolette>". </mod>
+                    </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+                    <corpo>La presente legge sarï¿½ pubblicata nel Bollettino Ufficiale della Regione. ï¿½ fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

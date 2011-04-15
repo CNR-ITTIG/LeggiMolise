@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19820116" num="1" tipo="BURM"/>
+                <entratainvigore norm="19820131"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1982-01-04;3"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="14.governo del territorio, urbanistica, edilizia"/>
+                </materie>
+            </descrittori>
+        </meta><?error 14.Governo del territorio, urbanistica, edilizia 
+ 
+Bollettino 
+Bollettino Ufficiale n. 01 del 16/01/82 
+ 
+Oggetto 
+Valori agricoli medi e indennit&#xE0; di espropriazione - Determinazione - Commissioni - Istituzione - Funzionamento - Organizzazione 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 24/2007 art. 10 
+Modificato art. 5 dalla legge n. 24/2007 art. 10 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19820104">4 Gennaio 1982</dataDoc>, n. <numDoc>3</numDoc>
+            <titoloDoc>Commissioni per la determinazione dei valori agricoli medi e dell'indennitï¿½ di espropriazione - Norme di funzionamento 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+Ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1977-01-28;10#art14">art. 14 della legge 28 gennaio 1977, n. 10</rif> ï¿½ istituita in ogni Provincia la Commissione per la determinazione dei valori agricoli medi e delle indennitï¿½ di espropriazione. 
+ 
+La Commissione ha sede presso l'Ufficio Tecnico Erariale e si avvale, per i compiti di segreteria e per il funzionamento, di personale assegnato dall'Intendente di Finanza. 
+ 
+La Commissione si compone: 
+ 
+a) dal Presidente dell'Amministrazione provinciale o da un suo delegato che la presiede; 
+ 
+b) dall'ingegnere capo dell'Ufficio Tecnico Erariale o da un suo delegato; 
+ 
+c) dal Coordinatore dell'Assessorato regionale ai Lavori pubblici o da un suo delegato; 
+ 
+d) dal Presidente dell'Istituto Autonomo Case Popolari o da un suo delegato; 
+ 
+e) da 2 (due) esperti in materia di edilizia ed urbanistica nominati dal Consiglio Regionale a voto limitato; 
+ 
+f) da 3 (tre) esperti in materia di Agricoltura e Foreste nominati dal Consiglio Regionale e scelti su terne proposte dalle Associazioni sindacali agricole maggiormente rappresentative. 
+ 
+Per la determinazione dell'indennitï¿½ relativa alle aree comprese nei centri edificati, le Commissioni sono integrate dal Sindaco di ciascun Comune interessato o da un suo delegato. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+Gli esperti di nomina regionale durano in carica fino alla scadenza, ordinaria o anticipata, del Consiglio regionale, salvo la proroga fino all'effettiva sostituzione o conferma. 
+ 
+Tali esperti sono dichiarati decaduti, con deliberazione della Giunta regionale, qualora non partecipino, senza giustificato motivo, a 3 (tre) sedute consecutive della Commissione, a tal fine   il Presidente della Commissione ï¿½ tenuto a trasmettere tempestivamente alla giunta regionale la relativa segnalazione. 
+ 
+Alla sostituzione dei componenti dichiarati decaduti si provvede nelle forme proprie dell'elezione di cui al precedente articolo</rubrica>
+                <comma id="art2-com1">
+                    <num> 1.</num>
+
+                    <corpo> 
+ 
+A seguito di analoga segnalazione i componenti della Commissione indicati alle lettere a), b), c), e d) del <rif xlink:href="#art1">precedente art. 1</rif> debbono provvedere alla sostituzione dei loro delegati. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+Le Commissioni stabiliscono periodicamente, in relazione agli affari in scadenza, il calendario dei lavori e lo inviano alla Giunta regionale. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+Il Presidente convoca la Commissione con avviso da recapitare almeno otto giorni prima della seduta e con allegato l'ordine del  giorno degli affari da trattare. 
+ 
+Tale avviso, con allegato ordine del giorno, dovrï¿½ essere altresï¿½ inviato al Presidente della Giunta Regionale ed agli Assessori regionali in materia di Lavori pubblici ed Urbanistica. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+Le sedute della Commissione sono valide con la presenza di metï¿½ piï¿½ uno dei componenti e le deliberazioni sono adottate a maggioranza dei presenti. 
+ 
+Per le deliberazioni relative alla determinazione del valore agricolo medio e dell'indennitï¿½ relativa ad aree comprese nei centri edificati occorre altresï¿½, rispettivamente, la partecipazione di almeno uno degli esperti in materia di Agricoltura e Foreste e di almeno uno degli esperti in materia di Urbanistica ed Edilizia. 
+ 
+I verbali delle adunanze debbono essere redatti dal Segretario e riportati in apposito registro con l'indicazione dei nomi dei componenti presenti. 
+ 
+Il Segretario curerï¿½ altresï¿½ gli adempimenti relativi alle comunicazioni delle decisioni della Commissione all'Ente espropriante, per la successiva notifica ai soggetti interessati, ed alla Giunta Regionale per la pubblicazione per estratto nel Bollettino Ufficiale della Regione. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+
+                <rubrica>
+ 
+Per la partecipazione ad ogni giornata di seduta spetta al Presidente ed ai componenti, compreso il Segretario, un'indennitï¿½ pari al 75% di quella prevista dalla legge regionale per i componenti degli Organi Regionali di Controllo, nonchï¿½ l'eventuale indennitï¿½ di missione nella stessa misura prevista dalla <rif xlink:href="urn:nir:regione.molise:legge:1981;11">legge regionale n.11 del 1981</rif>. 
+ 
+Alla liquidazione provvede l'Amministrazione Regionale su segnalazione mensile dei Presidenti delle Commissioni. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+
+                <rubrica>
+ 
+Al finanziamento degli oneri derivanti dalla presente legge si fa fronte con quota parte dei fondi attribuiti alla Regione ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:legge:1970-05-16;281#art8">art. 8 della legge 16 maggio 1970, n. 281</rif>. 
+ 
+L'onere previsto di L. 5.000.000 per l'anno 1981 ï¿½ posto a carico del nuovo Capitolo di spesa n. 23400 &lt;&lt;Indennitï¿½&gt;&gt; e rimborso di spese ai componenti delle Commissioni Provinciali per la   determinazione dei valori agricoli medi - <rif xlink:href="urn:nir:stato:legge:1977-01-28;10">legge 28 gennaio 1977, n. 10</rif> che viene dotato di uno stanziamento di competenza di 5 milioni e una previsione di cassa di pari importo, previe analoghe riduzioni da apportarsi agli stanziamenti del Capitolo n.55200 della spesa del Bilancio di previsione 1981. 
+ 
+Per gli esercizi futuri la stessa legge approvativa dei bilanci determinerï¿½ l'onere annuale della spesa relativa. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>
+ 
+La presente legge sarï¿½ pubblicata nel Bollettino Ufficiale della Regione. 
+ 
+ï¿½ fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

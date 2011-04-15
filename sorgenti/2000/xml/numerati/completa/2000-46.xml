@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20001130" num="24" tipo="BURM"/>
+                <entratainvigore norm="20001215"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-11-30;46"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="38.valorizzazione dei beni culturali e ambientali, impatto ambientale"/>
+                </materie>
+            </descrittori>
+        </meta><?error 38.Valorizzazione dei beni culturali e ambientali, impatto ambientale 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 24 del 30 novembre 2000 
+ 
+Oggetto 
+ 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20001130">30 novembre 2000</dataDoc>n. <numDoc>46</numDoc>
+            <titoloDoc>Rettifiche all'allegato "A" della <rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;21">legge regionale n. 21 del 24 marzo 2000</rif>, recante: "Disciplina della procedura di impatto ambientale". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+All'allegato "A" alla <rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;21">legge regionale n. 21 del 24 marzo 2000</rif>, pubblicata sul Bollettino Ufficiale della Regione Molise n. 7 del 1ï¿½ aprile 2000, sono apportate le seguenti rettifiche: 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1)</num>
+                    <corpo>
+                        <mod
+                                id="art1-com1-mod1"> alla lettera i) le parole:  
+ 
+"<virgolette
+                                id="art1-com1-mod1-vir1">Impianti di smaltimento e recupero di rifiuti non pericolosi</virgolette>"  
+ 
+sono sostituite dalle seguenti:  
+ 
+"<virgolette id="art1-com1-mod1-vir2">Impianti di smaltimento e recupero di rifiuti pericolosi</virgolette>"; 
+ </mod>
+                    </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 2)</num>
+                    <corpo>
+                        <mod
+                                id="art1-com2-mod2"> alla lettera l) le parole:  
+ 
+"<virgolette
+                                id="art1-com2-mod2-vir3">mediante operazioni di incremento</virgolette>"  
+ 
+sono sostituite dalle seguenti: 
+ 
+"<virgolette id="art1-com2-mod2-vir4">mediante operazioni di incenerimento</virgolette>"; 
+ </mod>
+                    </corpo>
+                </comma>
+                <comma id="art1-com3">
+                    <num>
+ 3)</num>
+                    <corpo>
+                        <mod
+                                id="art1-com3-mod3"> alla lettera t) dopo le parole:  
+ 
+"<virgolette
+                                id="art1-com3-mod3-vir5">risorse geotermiche</virgolette>"  
+ 
+sono aggiunte le seguenti: 
+ 
+"<virgolette id="art1-com3-mod3-vir6">sulla terraferma</virgolette>"; 
+ </mod>
+                    </corpo>
+                </comma>
+                <comma id="art1-com4">
+                    <num>
+ 4)</num>
+                    <corpo>
+                        <mod
+                                id="art1-com4-mod4"> alla lettera u) la parola: 
+ 
+"<virgolette
+                                id="art1-com4-mod4-vir7">elettrodi</virgolette>" 
+ 
+ï¿½ sostituita da: 
+ 
+"<virgolette id="art1-com4-mod4-vir8">elettrodotti</virgolette>"; 
+ </mod>
+                    </corpo>
+                </comma>
+                <comma id="art1-com5">
+                    <num>
+5)</num>
+                    <corpo>
+                        <mod
+                                id="art1-com5-mod5"> alla lettera z) le parole: 
+ 
+"<virgolette
+                                id="art1-com5-mod5-vir9">superiore a 30.000 mc.</virgolette>" 
+ 
+sono sostituite dalle seguenti: 
+ 
+"<virgolette id="art1-com5-mod5-vir10">superiore a 80.000 mc.</virgolette>". 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num> Art. 2 </num>
+                <rubrica>
+ 
+(Dichiarazione d'urgenza) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La presente legge ï¿½ dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione.  
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

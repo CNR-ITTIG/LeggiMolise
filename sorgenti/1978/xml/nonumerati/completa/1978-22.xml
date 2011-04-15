@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19780916" num="17" tipo="BURM"/>
+                <entratainvigore norm="19781001"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1978-09-05;22"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 17 del 16/09/78 
+ 
+Oggetto 
+Servizio di dialisi - Erogazione - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19780905">5 Settembre 1978</dataDoc>, n. <numDoc>22</numDoc>
+            <titoloDoc>Potenziamento del servizio di dialisi e istituzione del servizio di dialisi domiciliare 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: Finalitï¿½ 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <alinea> 
+La Regione Molise, nel quadro delle finalitï¿½ indicate nell'<rif xlink:href="urn:nir:regione.molise:statuto:#art4">art. 4 dello Statuto</rif> concernente la tutela della salute, e in attesa della legge istitutiva del Servizio Sanitario Nazionale, con la presente legge intende assicurare: 
+ 
+</alinea>
+                    <el id="art1-com1-leta">
+                        <num>a)</num>
+                        <corpo> il potenziamento del servizio di dialisi, compresi quelli ambulatoriali e domiciliari;</corpo>
+                    </el>
+                    <el id="art1-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> l'estensione del trattamento gratuito per le prestazioni emodialitiche ambulatoriali e domiciliari anche ai soggetti non assisti(ti) in regime mutualistico e aventi comunque titolo all'assistenza ospedaliera erogata dalla Regione. </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+                <rubrica>: Piano dei servizi di dialisi domiciliare 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo> 
+Allo scopo di favorire l'istituzione del servizio di dialisi domiciliare organizzato e gestito dagli Enti Ospedalieri, la Giunta Regionale ï¿½ autorizzata a concedere contributi fino al 100 per cento della spesa occorrente per l'acquisto della relativa attrezzatura, nonchï¿½, per l'organizzazione dei corsi di addestramento all'esercizio della dialisi domiciliare. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+                    <corpo>La Giunta Regionale predisporrï¿½ a tal fine un piano di programmazione regionale. </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num/>
+
+                    <corpo>Il piano deve indicare gli ospedali presso i quali deve essere istituito il servizio e, per ciascun Ente ospedaliero, l'ammontare dei contributi previsti nel <rif xlink:href="#art2-com1">primo comma</rif>. </corpo>
+                </comma>
+                <comma id="art2-com4">
+                    <num/>
+                    <corpo>L'istituzione del servizio di dialisi, autonomi o aggregati, presso altri Enti ospedalieri, ï¿½ subordinata alla eventuale insufficienza dei servizi esistenti presso l'ospedale &lt;&lt; Cardarelli &gt;&gt;  di Campobasso. </corpo>
+                </comma>
+                <comma id="art2-com5">
+                    <num/>
+                    <corpo>Il piano deve essere presentato al Consiglio Regionale, per la definitiva approvazione, entro 6 mesi dalla data di entrata in vigore della presente legge. </corpo>
+                </comma>
+                <comma id="art2-com6">
+                    <num/>
+                    <corpo>Entro 30 giorni dall'entrata in vigore della presente legge il Consiglio Regionale, su proposta della Giunta, adotta apposito regolamento per disciplinare l'organizzazione del servizio di dialisi domiciliare e dei relativi corsi di addestramento. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3</num>
+                <rubrica>: Modalitï¿½ di erogazione dei contributi 
+</rubrica>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo> 
+Per l'erogazione del contributo di cui all'art. l lettera a) gli Enti Ospedalieri devono presentare apposita istanza corredata della documentazione comprovante le spese occorrenti per l'acquisto   delle attrezzature e per l'organizzazione dei corsi. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <corpo>Alla liquidazione provvede la Giunta Regionale. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+                <rubrica>: Estensione assistenza emodialitica ambulatoriale e domiciliare 
+</rubrica>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo> 
+Gli Enti Ospedalieri presso i quali siano istituiti i servizi di emodialisi sono tenuti a fornire gratuitamente le prestazioni emodialitiche ambulatoriali o domiciliari ai soggetti di cui alla lettera b) dell'art. 1. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+                <rubrica>: Dialisi domiciliare 
+</rubrica>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo> 
+Si intende per dialisi domiciliare l'applicazione dei sistemi depurativi extracorporici al domicilio del paziente uremico. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num/>
+                    <corpo>La dialisi domiciliare viene realizzata senza la presenza di personale medico in locali ad uso singola o collettivo, pubblici o privati riconosciuti idonei. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num/>
+
+                    <corpo>La condotta operativa ï¿½ affidata al paziente che si avvale della collaborazione di un assistente, familiare o terzo al termine di un corso di addestramento positivamente superato da entrambi, secondo la disciplina stabilita nel regolamento di cui al <rif xlink:href="#art2">precedente art. 2</rif>. </corpo>
+                </comma>
+                <comma id="art5-com4">
+                    <num/>
+                    <corpo>Il servizio domiciliare ï¿½ assicurato con rene artificiale attivato presso l'abitazione dell'utente o presso un ambulatorio pubblico, anche con unitï¿½ mobile, con utilizzazione dello stesso sotto la   direzione dell'esistente servizio Nefrologico Divisionale dell'Ospedale &lt;&lt;Cardarelli&gt;&gt; di Campobasso. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6</num>
+                <rubrica>: Corsi di addestramento 
+</rubrica>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo> 
+Presso l'Ente Ospedaliero, autorizzato all'organizzazione dei corsi di addestramento ai sensi del precedente articolo, ï¿½ istituita una commissione con funzione di direzione tecnica organizzativa   presieduta dal responsabile preposto al servizio di emodialisi e composta da due medici esperti in emodialisi e da una assistente sociale, del ruolo dell'Ospedale, con funzione anche di segretaria. </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num/>
+                    <corpo>La Commissione ï¿½ nominata dal Consiglio di Amministrazione dell'Ospedale, su designazione del consiglio dei sanitari. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7</num>
+                <rubrica>: Norme finanziarie 
+</rubrica>
+                <comma id="art7-com1">
+                    <num/>
+                    <alinea> 
+Agli oneri derivanti dalla presente legge si provvede nel modo che segue: 
+ 
+-per gli interventi di cui alla lettera</alinea>
+                    <el id="art7-com1-leta">
+                        <num> a)</num>
+                        <corpo> del <rif xlink:href="#art1">precedente art. 1</rif> mediante prelievo della somma di lire 100.000.000 dal fondo regionale ospedaliero; -cap. 3380 del bilancio regionale 1978 &lt;&lt;spese per investimenti e acquisto attrezzature&gt;&gt;. 
+ 
+-per gli interventi di cui alla lettera b) dell'art. 1 mediante prelievo della somma di L. 20.000.000 dal fondo regionale ospedaliero; Capitolo 3360 del bilancio regionale 1978 &lt;&lt; spese correnti degli enti ospedalieri &gt;&gt;.</corpo>
+                    </el>
+                </comma>
+                <comma id="art7-com2">
+                    <num/>
+                    <corpo>Per gli esercizi successivi le relative spese saranno imputate sui relativi capitoli dei rispettivi bilanci e saranno determinate con la legge di approvazione dei bilanci stessi. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8</num>
+                <rubrica>: Pubblicazione 
+</rubrica>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo> 
+La presente legge sarï¿½ pubblicata sul Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

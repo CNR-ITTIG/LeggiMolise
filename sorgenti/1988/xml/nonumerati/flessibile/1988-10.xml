@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19880416" num="7" tipo="BURM"/>
+                <entratainvigore norm="19880501"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1988-04-13;10"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="06.consiglieri regionali e gruppi consiliari"/>
+                </materie>
+            </descrittori>
+        </meta><?error 06.Consiglieri regionali e gruppi consiliari 
+ 
+Bollettino 
+Bollettino Ufficiale n. 07 del 16/04/88 
+ 
+Oggetto 
+Consiglieri regionali - Assegni vitalizi - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 15/1995 art. 3 
+Modificato art. 2 dalla legge n. 15/1995 art. 4 
+Modificato art. 2 dalla legge n. 30/1996 art. 4 
+Modificato art. 3 dalla legge n. 8/1995 art. 1 
+Modificato art. 5 dalla legge n. 15/1995 art. 5 
+Modificato art. 8 dalla legge n. 2/2006 art. 6 
+Modificato art. 11 dalla legge n. 1/2009 art. 3 
+Modificato art. 14 dalla legge n. 15/1995 art. 6 
+Modificato art. 14 dalla legge n. 16/1995 art. 1 
+Modificato art. 15 dalla legge n. 15/1995 art. 7 
+Modificato art. 18 dalla legge n. 15/1995 art. 8 
+Modificato art. 2 dalla legge n. 3/2010 art. 20 
+Modificato art. 8 dalla legge n. 3/2010 art. 20 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19880413">13 Aprile 1988</dataDoc>, n. <numDoc>10</numDoc>
+            <titoloDoc>Riordino del regime degli assegni vitalizi dei Consiglieri Regionali. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ART. 1</num>
+                <rubrica>: ISTITUZIONE DEL FONDO DI PREVIDENZA 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo> 
+ï¿½ istituito presso il Consiglio regionale il Fondo di previdenza dei Consiglieri della Regione Molise. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+                    <corpo>Il Fondo provvede all'erogazione mensile di un assegno vitalizio ai Consiglieri cessati dal mandato o ad altri aventi diritto, secondo le norme della presente legge. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ART. 2</num>
+                <rubrica>: GESTIONE DEL FONDO 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo> 
+Il bilancio del fondo di previdenza ï¿½ allegato come gestione speciale al bilancio annuale del Consiglio regionale. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+                    <corpo>Entro il 30 settembre di ciascun anno il bilancio tecnico attuariale del fondo ï¿½ presentato all'Ufficio di Presidenza che accerta in modo analitico l'andamento della gestione. </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num/>
+                    <corpo>Dall'inizio di ogni legislatura ovvero a far data dall'entrata in vigore della presente legge per quanto concerne la legislatura in corso l'eventuale disavanzo finanziario del fondo puï¿½ essere ripianato con una contribuzione &lt;&lt;una tantum&gt;&gt; a valere sulle spese di funzionamento del Consiglio regionale in modo da assicurare, entro un quinquennio, il pareggio della gestione tecnico finanziaria del fondo. </corpo>
+                </comma>
+                <comma id="art2-com4">
+                    <num/>
+                    <corpo>Per la legislatura in corso il pareggio della gestione tecnico - finanziaria del fondo ï¿½ assicurato con contribuzione una tantum da ripartire tra gli esercizi 1988 - 1989 e 1990. </corpo>
+                </comma>
+                <comma id="art2-com5">
+                    <num/>
+                    <corpo>Il relativo stanziamento ï¿½ iscritto nel capitolo di spesa del Bilancio del Consiglio Regionale, n. 1 &lt;&lt;indennitï¿½ di carica e di missione spettante ai Consiglieri regionali&gt;&gt;. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>ART. 3</num>
+                <rubrica>: CONTRIBUTI PREVIDENZIALI OBBLIGATORI 
+</rubrica>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo> 
+I Consiglieri regionali sono assoggettati d'ufficio al pagamento dei contributi di previdenza dal giorno della corresponsione dell'indennitï¿½ consiliare. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <corpo>A decorrere dal primo giorno del mese successivo a quello di entrata in vigore della presente legge, i Consiglieri regionali sono assoggettati d'ufficio al pagamento dei contributi di previdenza nella misura del 22% della indennitï¿½ mensile lorda corrisposta che ï¿½ determinata, in rapporto percentuale con l'indennitï¿½ mensile lorda spettante ai membri del Parlamento nazionale, nella   misura del 65%. </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art3-com3-mod1">Con la stessa decorrenza di cui al precedente comma del presente articolo ï¿½ abrogato il <rif xlink:href="urn:nir:regione.molise:legge:1976-07-15;22#art4-com2">secondo comma dell'art. 4 della legge regionale 15 luglio 1976, n. 22</rif>. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>ART. 4</num>
+                <rubrica>: DIRITTO ALL'ASSEGNO VITALIZIO 
+</rubrica>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo> 
+L'assegno vitalizio mensile spetta ai Consiglieri cessati dal mandato che abbiano compiuto 60 anni di etï¿½ ed abbiano corrisposto i contributi per un periodo di almeno 5 anni di mandato esercitato nel Consiglio Regionale del Molise. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>ART. 5</num>
+                <rubrica>: CONSIGLIERI INABILI AL LAVORO O DECEDUTI PER CAUSE NATURALI 
+</rubrica>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo> 
+Hanno diritto all'assegno mensile di previdenza, indipendentemente dall'etï¿½, i Consiglieri cessati dal mandato i quali provino di essere divenuti inabili in modo permanente al lavoro, purchï¿½ abbiano esercitato il mandato consiliare per almeno cinque anni, o abbiano comunque effettuato i versamenti per un corrispondente periodo. L'assegno spetta comunque, indipendentemente   dall'effettiva durata del mandato consiliare o dei versamenti, ai Consiglieri cessati perch? divenuti inabili in modo permanente al lavoro nel corso di detto mandato, nonchï¿½ agli aventi diritto dei Consiglieri deceduti durante il mandato medesimo. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num/>
+                    <corpo>L'assegno spetta esclusivamente qualora l'inabilitï¿½ al  lavoro in modo permanente o il decesso non dipendano da infortunio. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num/>
+                    <corpo>I Consiglieri regionali o i loro aventi diritto hanno perï¿½ facoltï¿½ di ottenere l'attribuzione dell'assegno anche in detta ipotesi, previo versamento al Fondo di Previdenza delle somme ad essi dovute da enti o imprese assicuratrici a seguito dell'infortunio, in dipendenza di contratti   stipulati con oneri a carico della Regione. </corpo>
+                </comma>
+                <comma id="art5-com4">
+                    <num/>
+                    <corpo>L'Ufficio di Presidenza del Consiglio verifica se sussistano i requisiti di cui ai commi precedenti e decide sull'applicabilitï¿½ delle relative disposizioni nel caso di inabilitï¿½ parziale. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>ART. 6</num>
+                <rubrica>: ACCERTAMENTO DELL'INABILITA PERMANENTE 
+</rubrica>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo> 
+L'accertamento di inabilitï¿½ di cui al precedente articolo ï¿½ compiuto da un collegio medico composto di tre membri, di cui due nominati dall'Ufficio di Presidenza del Consiglio e uno indicato dall'interessato. </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num/>
+                    <corpo>Sulle conclusioni del collegio medico delibera l'Ufficio di Presidenza. </corpo>
+                </comma>
+                <comma id="art6-com3">
+                    <num/>
+                    <corpo>Qualora la decisione di cui al comma precedente sia positiva, l'assegno di previdenza compete dal giorno in cui ï¿½ stata presentata la relativa domanda. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>ART. 7</num>
+                <rubrica>: AMMONTARE DELL'ASSEGNO MENSILE DI PREVIDENZA IN CASO DI INABILITï¿½ 
+</rubrica>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo> 
+Nell'ipotesi prevista dal <rif xlink:href="#art5-com2">secondo comma dell'articolo 5</rif>, qualora il Consigliere sia divenuto inabile o sia deceduto nel corso del mandato prima di aver raggiunto il quinto anno di contribuzione, l'ammontare dell'assegno mensile di previdenza ï¿½ diminuito dei dodicesimi corrispondenti salva la facoltï¿½ del Consigliere di integrare i versamenti con contributi volontari. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>ART. 8</num>
+                <rubrica>: CONTRIBUTI VOLONTARI 
+</rubrica>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo> 
+Il Consigliere che abbia versato i contributi previdenziali per un periodo inferiore ai 5 anni, ma non inferiore a 30 mesi, ha facoltï¿½ di continuare, qualora sia rieletto o comunque cessi dal mandato, il versamento stesso per il tempo occorrente a conseguire il diritto all'assegno vitalizio minimo, che decorre dal primo giorno del mese successivo a quello in cui ha compiuto il quinquennio   contributivo e il sessantesimo anno di etï¿½. Il Consigliere regionale che, al momento della cessazione del mandato, abbia compiuto il sessantesimo anno di etï¿½ o lo compia prima del periodo occorrente per il quinquennio contributivo ha facoltï¿½ di versare in unica soluzione le somme corrispondenti alle mensilitï¿½ mancanti per il completamento del quinquennio, purchï¿½   abbia un'anzianitï¿½ contributiva obbligatoria non inferiore a trenta mesi. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>ART. 9</num>
+                <rubrica>: RINUNCIA AI CONTRIBUTI VOLONTARI 
+</rubrica>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo> 
+Il Consigliere che cessi dal mandato prima di aver raggiunto il periodo minimo previsto per il  conseguimento dell'assegno vitalizio e che, pur avendone diritto, non intenda proseguire nel versamento dei contributi necessari per il completamento del periodo minimo stesso, ha diritto alla restituzione dei contributi versati nella misura del 100 per cento, senza attribuzione di interessi. </corpo>
+                </comma>
+                <comma id="art9-com2">
+                    <num/>
+                    <corpo>Analoga facoltï¿½ compete agli aventi diritto del Consigliere nel caso di decesso. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>ART. 10</num>
+                <rubrica>: SOSPENSIONE DELL'ASSEGNO VITALIZIO 
+</rubrica>
+                <comma id="art10-com1">
+                    <num/>
+                    <corpo> 
+Qualora il Consigliere giï¿½ cessato dal mandato rientri a far parte del Consiglio Regionale del Molise, il pagamento dell'assegno vitalizio di cui eventualmente giï¿½ gode ï¿½ sospeso per tutta la durata del nuovo mandato. Alla cessazione di quest'ultimo, l'assegno ï¿½ ripristinato tenendo conto dell'ulteriore periodo di contribuzione. </corpo>
+                </comma>
+                <comma id="art10-com2">
+                    <num/>
+                    <corpo>Il pagamento viene anche sospeso qualora il titolare dell'assegno vitalizio venga eletto al Parlamento Nazionale, al Parlamento Europeo o ad altro Consiglio Regionale. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>ART. 11</num>
+                <rubrica>: MISURA DEGLI ASSEGNI VITALIZI 
+</rubrica>
+                <comma id="art11-com1">
+                    <num/>
+
+                    <corpo> 
+A decorrere dall'entrata in vigore della presente legge,  l'ammontare mensile dell'assegno vitalizio ï¿½ determinato in base alla seguente tabella, in percentuale, rispetto agli anni di contribuzione, sull'indennitï¿½ mensile lorda - di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1976;22">legge regionale n. 22 del 1976</rif> e successive modificazioni - corrisposta ai Consiglieri in carica nello stesso mese cui si riferisce l'assegno vitalizio: 
+ 
+ANNI DI CONTRIBUZIONE % SULLA INDENNITï¿½ MENSILE LORDA 
+ 
+5 30 
+ 
+66 33 
+ 
+7 36 
+ 
+8 39 
+ 
+9 42 
+ 
+10 45 
+ 
+11 48 
+ 
+12 51 
+ 
+13 54 
+ 
+14 57 
+ 
+15 60 
+ 
+16 ed oltre 63 
+ 
+Agli effetti del computo degli anni di contribuzione l'eventuale frazione di anno, non inferiore a sei mesi ed un giorno, viene computata come anno intero. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>ART. 12</num>
+                <rubrica>: DECORRENZA DELL'ASSEGNO VITALIZIO 
+</rubrica>
+                <comma id="art12-com1">
+                    <num/>
+                    <corpo> 
+L'assegno vitalizio ï¿½ corrisposto a partire dal 1 giorno del mese successivo a quello nel quale il Consigliere cessato dal mandato ha compiuto l'etï¿½ richiesta per conseguire il diritto. </corpo>
+                </comma>
+                <comma id="art12-com2">
+                    <num/>
+
+                    <corpo>Nel caso in cui il Consigliere, al momento della cessazione del mandato, sia giï¿½ in possesso dei requisiti di cui all'<rif xlink:href="#art4">art. 4</rif>, l'assegno vitalizio ï¿½ corrisposto a partire dal 1 giorno del mese successivo. </corpo>
+                </comma>
+                <comma id="art12-com3">
+                    <num/>
+                    <corpo>Nel caso di cessazione del mandato per fine legislatura, coloro che abbiano giï¿½ maturato il diritto all' assegno percepiscono l'assegno stesso con decorrenza dal giorno successivo a quello della fine della legislatura stessa. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>ART. 13</num>
+                <rubrica>: ANTICIPAZIONI DELL'ETï¿½ PER LA CORRESPONSIONE  DELL'ASSEGNO VITALIZIO 
+</rubrica>
+                <comma id="art13-com1">
+                    <num/>
+                    <corpo> 
+La corresponsione dell'assegno vitalizio puï¿½ essere anticipata, su richiesta del Consigliere e dopo la cessazione del mandato, al raggiungimento del 55 anno di etï¿½. </corpo>
+                </comma>
+                <comma id="art13-com2">
+                    <num/>
+
+                    <corpo>Per ogni anno di anticipazione le misure dell'assegno vitalizio riportate nella tabella di cui all'<rif xlink:href="#art11">art. 11</rif> sono ridotte, anche ai fini della determinazione dell'assegno vitalizio in relazione al numero di anni di anticipazione, secondo la seguente tabella: 
+ 
+Anni di contribuzione: misura dell'assegno vitalizio ridotto, a seconda degli anni di anticipazione, espressa in percentuale sull'indennitï¿½ lorda del Consigliere. </corpo>
+                </comma>
+                <comma id="art13-com3">
+                    <num/>
+                    <corpo>ETï¿½ DI PENSIONAMENTO COEFFICIENTE DI RIDUZIONE 
+ 
+55 0,7604 
+ 
+56 0,8016 
+ 
+57 0,8460 
+ 
+58 0,8936 
+ 
+59 0,9448 
+ </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>ART. 14</num>
+                <rubrica>: ASSEGNI DI REVERSIBILITï¿½ 
+</rubrica>
+                <comma id="art14-com1">
+                    <num/>
+                    <alinea> 
+In caso di morte del titolare di assegno vitalizio diretto, l'assegno stesso viene riservato a favore: 
+ 
+</alinea>
+                    <el id="art14-com1-leta">
+                        <num>a)</num>
+                        <corpo> del coniuge, finchï¿½ nello stato vedovile, purchï¿½ non sia stata pronunciata sentenza definitiva di divorzio o di separazione personale per sua colpa, salvo diversa disposizione dell'autoritï¿½ giudiziaria; 
+ </corpo>
+                    </el>
+                </comma>
+                <comma id="art14-com2">
+                    <num/>
+                    <corpo>b ) dei figli legittimi o legittimati o adottivi o naturali, riconosciuti, o giudizialmente dichiarati, finchï¿½ minorenni; 
+ 
+c) degli affiliati, in mancanza dei figli di cui alla lettera precedente, finchï¿½ minorenni; 
+ 
+d) dei figli di cui alla lettera b) o, in mancanza, degli affiliati di cui alla lettera c) anche se maggiorenni purchï¿½ studenti sino al compimento del ventesimo anno di etï¿½, o inabili al lavoro in modo permanente che convivevano a carico dell'ex consigliere e che versino in particolari condizioni di bisogno, accertate dall'Ufficio di Presidenza. </corpo>
+                </comma>
+                <comma id="art14-com3">
+                    <num/>
+                    <corpo>Qualora non sopravvivano nï¿½ il coniuge nï¿½ i figli o affiliati aventi diritto, l'assegno di reversibilitï¿½ spetta al padre o in mancanza alla madre, che siano di etï¿½ superiore a 60 anni o inabili a proficuo lavoro. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>ART. 15</num>
+                <rubrica>: ASSEGNO DI REVERSIBILITï¿½ IN CASO DI MORTE PER CAUSE DI SERVIZIO 
+</rubrica>
+                <comma id="art15-com1">
+                    <num/>
+                    <corpo> 
+L'assegno compete agli aventi diritto anche se il Consigliere deceduto non abbia versato contributi per almeno 5 anni, se il decesso avviene per cause di servizio. </corpo>
+                </comma>
+                <comma id="art15-com2">
+                    <num/>
+                    <corpo>L'Ufficio di Presidenza del Consiglio, verifica se sussistono i requisiti di cui al comma precedente. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>ART. 16</num>
+                <rubrica>: CONDIZIONI PER L'ASSEGNO DI REVERSIBILITï¿½ 
+</rubrica>
+                <comma id="art16-com1">
+                    <num/>
+                    <corpo> 
+Le condizioni per la concessione dell'assegno vitalizio di reversibilitï¿½ devono sussistere al momento del decesso del consigliere. Qualora vengano a cessare, l'assegno vitalizio ï¿½ revocato. </corpo>
+                </comma>
+                <comma id="art16-com2">
+                    <num/>
+                    <corpo>L'Ufficio di Presidenza del Consiglio puï¿½ richiedere ai beneficiari di un assegno di reversibilitï¿½ di presentare periodicamente documentazione idonea a dimostrare il perdurare delle condizioni suddette. </corpo>
+                </comma>
+                <comma id="art16-com3">
+                    <num/>
+
+                    <corpo>Nel caso di figli maggiorenni inabili al lavoro permanente puï¿½ inoltre essere loro richiesto di sottoporsi a visita del collegio medico di cui al <rif xlink:href="#art6">precedente art. 6</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>ART. 17</num>
+                <rubrica>: DOCUMENTAZIONE PER OTTENERE L'ASSEGNO DI REVERSIBILITï¿½ 
+</rubrica>
+                <comma id="art17-com1">
+                    <num/>
+                    <alinea> 
+Per la liquidazione dell'assegno di reversibilitï¿½ il coniuge del consigliere invia domanda diretta all'Ufficio di Presidenza del Consiglio corredata dai seguenti documenti: 
+ 
+</alinea>
+                    <en id="art17-com1-num1">
+                        <num>1)</num>
+                        <corpo> certificato di morte del coniuge;</corpo>
+                    </en>
+                    <en id="art17-com1-num2">
+                        <num> 
+ 
+2)</num>
+                        <corpo> certificato di matrimonio;</corpo>
+                    </en>
+                    <en id="art17-com1-num3">
+                        <num> 
+ 
+3)</num>
+                        <corpo> dichiarazione sostitutiva dell'atto di notorietï¿½ dal quale risulti che tra i coniugi non sia stata pronunciata o passata in giudizio sentenza di divorzio o di separazione personale per colpa del coniuge superstite;</corpo>
+                    </en>
+                    <en id="art17-com1-num4">
+                        <num> 
+ 
+4)</num>
+                        <corpo> stato di famiglia. </corpo>
+                    </en>
+                </comma>
+                <comma id="art17-com2">
+                    <num/>
+
+                    <corpo>Per la liquidazione dell'assegno di reversibilitï¿½ a favore dei figli, quando il coniuge manchi o non ne abbia diritto, la domanda di cui al <rif xlink:href="#art17-com1">primo comma</rif> deve essere sottoscritta dai figli stessi se maggiorenni o da chi ne abbia la tutela se minorenni. </corpo>
+                </comma>
+                <comma id="art17-com3">
+                    <num/>
+                    <alinea>Alla domanda devono essere allegati i seguenti documenti: 
+ 
+</alinea>
+                    <en id="art17-com3-num1">
+                        <num>1)</num>
+                        <corpo> certificato di morte del consigliere ovvero di entrambi i coniugi;</corpo>
+                    </en>
+                    <en id="art17-com3-num2">
+                        <num> 
+ 
+2)</num>
+                        <corpo> certificato di nascita dei figli;</corpo>
+                    </en>
+                    <en id="art17-com3-num3">
+                        <num> 
+ 
+3)</num>
+                        <corpo> stato di famiglia; 
+ 
+4 ) certificato dell'Ufficio Distrettuale delle Imposte Dirette; 
+ 
+5) dichiarazione sostitutiva dell'atto di notorietï¿½ da cui risulti per i figli maggiorenni, la convivenza a carico del consigliere defunto.</corpo>
+                    </en>
+                </comma>
+                <comma id="art17-com4">
+                    <num/>
+
+                    <corpo>Per i figli maggiorenni la concessione dell'assegno ï¿½ condizionata all'accertamento dell'inabilitï¿½ al lavoro in modo permanente ai sensi dell'<rif xlink:href="#art6">articolo 6</rif>. </corpo>
+                </comma>
+                <comma id="art17-com5">
+                    <num/>
+                    <corpo>Le domande per la liquidazione dell'assegno di reversibilitï¿½ devono essere inoltrate dagli aventi diritto entro il termine perentorio di un anno dalla data del decesso del dante causa. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>ART. 18</num>
+                <rubrica>: AMMONTARE DELL'ASSEGNO DI REVERSIBILITï¿½ 
+</rubrica>
+                <comma id="art18-com1">
+                    <num/>
+                    <alinea> 
+L'ammontare dell'assegno di reversibilitï¿½ al coniuge, ai figli o agli aventi diritto ï¿½ stabilito in percentuale sull'assegno vitalizio, liquidato o che sarebbe spettato al consigliere nella misura seguente: 
+ 
+</alinea>
+                    <el id="art18-com1-leta">
+                        <num>a)</num>
+                        <corpo> al coniuge superstite, senza figli aventi diritto all'assegno: 50%;</corpo>
+                    </el>
+                    <el id="art18-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> al coniuge superstite, con figli aventi diritto all'assegno: 50% con aumento progressivo del 10% per per ogni figlio fino ad un massimo dell'80%;</corpo>
+                    </el>
+                    <el id="art18-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> al figlio superstite avente diritto all'assegno: 50%;</corpo>
+                    </el>
+                    <el id="art18-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> negli altri casi: 40%. </corpo>
+                    </el>
+                </comma>
+                <comma id="art18-com2">
+                    <num/>
+                    <corpo>L'assegno di reversibilitï¿½ decorre dal primo giorno del mese successivo a quello della morte del titolare. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art19">
+                <num>ART. 19 </num>
+                <comma id="art19-com1">
+                    <num/>
+
+                    <corpo>
+Ferma restando la riduzione prevista dalla tabella di cui al <rif xlink:href="#art11">precedente art. 11</rif> rispetto alla normativa previgente gli assegni vitalizi diretti e di reversibilitï¿½ dei consiglieri cessati dal mandato o che siano tutt'ora in carica, sono ricalcolati con effetto dalla data di entrata in vigore della presente legge. </corpo>
+                </comma>
+                <comma id="art19-com2">
+                    <num/>
+                    <corpo>In tutti i casi, in cui il nuovo calcolo preveda un importo inferiore a quello spettante sulla base delle norme previgenti, la differenza in piï¿½ deve essere mantenuta, a titolo di assegno ad personam, riassorbibile con successivi aumenti dell'assegno vitalizio. </corpo>
+                </comma>
+                <comma id="art19-com3">
+                    <num/>
+                    <corpo>Identico trattamento e riservato a coloro che, avendone titolo, alla stessa data abbiano chiesto di proseguire volontariamente il versamento dei contributi per completare il periodo contributivo minimo di 5 anni. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art20">
+                <num>ART. 20 </num>
+                <comma id="art20-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art20-com1-mod2">
+Sono abrogate le disposizioni contrarie e incompatibili con la presente legge. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art21">
+                <num>ART. 21</num>
+                <rubrica>: PUBBLICAZIONE 
+</rubrica>
+                <comma id="art21-com1">
+                    <num/>
+                    <corpo> 
+La presente legge sarï¿½ pubblicata nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19880801" num="14" tipo="BURM"/>
+                <entratainvigore norm="19880816"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1988-07-22;16"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="02.artigianato"/>
+                </materie>
+            </descrittori>
+        </meta><?error 02.Artigianato 
+ 
+Bollettino 
+Bollettino Ufficiale n. 14 del 01/08/88 
+ 
+Oggetto 
+Imprese artigiane - Tenuta degli albi - Disciplina delle commissioni provinciali e regionale 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 32/2000 art. 45 
+Abrogato art. gli articoli da 23 a 32 dalla legge n. 34/1999 art. 31 
+ 
+Modifiche 
+Modificato art. 15 dalla legge n. 34/1999 art. 31 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19880722">22 Luglio 1988</dataDoc>, n. <numDoc>16</numDoc>
+            <titoloDoc>Norme per la tenuta degli albi delle Imprese artigiane e disciplina delle commissioni provinciali e regionali dell'artigianato. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 32/2000 art. 45</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione>
+            <firma tipo="sottoscrizione">la Commissione provinciale per l'artigianato, con il voto favorevole di almeno i due terzi dei suoi componenti, puï¿½ costituire un gruppo di lavoro permanente composto da sei membri scelti nel proprio seno, presieduto dal presidente, il gruppo riferisce le proprie valutazioni nella seduta plenaria ai fini delle determinazioni collegiali da assumere. 
+ 
+ 
+
+</firma>
+        </conclusione>
+    </LeggeRegionale>
+</NIR>

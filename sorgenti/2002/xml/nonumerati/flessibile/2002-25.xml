@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20021116" num="24" tipo="BURM"/>
+                <entratainvigore norm="20021201"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2002-10-18;25"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="14.governo del territorio, urbanistica, edilizia"/>
+                </materie>
+            </descrittori>
+        </meta><?error 14.Governo del territorio, urbanistica, edilizia 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 24 del 16 novembre 2002 
+ 
+Oggetto 
+Eliminazione barriere architettoniche e localizzative - Disciplina - Disposizioni concernenti l'entrata in vigore della ?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>del <dataDoc
+                    norm="20021018">18 ottobre 2002</dataDoc>n. <numDoc>25</numDoc>. 
+ 
+<titoloDoc>Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+<rif
+                    xlink:href="urn:nir:regione.molise:legge:2002-11-08;35">LEGGE REGIONALE 8 novembre 2002, n. 35</rif>. 
+ 
+Norme sull'entrata in vigore della <rif xlink:href="urn:nir:regione.molise:legge:2002-10-18;25">legge regionale 18 ottobre 2002 n. 25</rif>, ad oggetto: "Eliminazione delle barriere architettoniche". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Articolo 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+La <rif xlink:href="urn:nir:regione.molise:legge:2002-10-18;25">legge regionale 18 ottobre 2002 n. 25</rif>, ad oggetto: "Eliminazione delle barriere architettoniche" entrerï¿½ in vigore dopo l'emanazione da parte della Giunta regionale del relativo regolamento di attuazione. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+                    <corpo>La presente legge sarï¿½ pubblicata nel Bollettino Ufficiale della Regione. ï¿½ fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

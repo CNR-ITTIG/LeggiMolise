@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19761231" num="24" tipo="BURM"/>
+                <entratainvigore norm="19770115"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1976-12-27;41"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="17.lavori pubblici e acquedotti"/>
+                </materie>
+            </descrittori>
+        </meta><?error 17.Lavori pubblici e acquedotti 
+ 
+Bollettino 
+Bollettino Ufficiale n. 24 del 31/12/76 
+ 
+Oggetto 
+Opere pubbliche di competenza della Regione e degli enti locali - Esecuzione - Disciplina - Norme integrative 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 7 dalla legge n. 42/1976 art. 1 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19761227">27 Dicembre 1976</dataDoc>, n. <numDoc>41</numDoc>
+            <titoloDoc>Norme integrative per l'esecuzione di opere pubbliche di competenza della Regione e degli Enti Locali 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo>
+Le norme di cui agli articoli 4, 5, 6, 7, 8 e 9 della <rif xlink:href="urn:nir:regione.molise:legge:1975-04-04;27">legge regionale 4 aprile 1975, n. 27</rif>, sono estese a tutte le opere pubbliche di competenza della Regione e degli Enti Locali, facenti carico in tutto o in parte sul bilancio regionale dell'anno 1976 e successivi. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+                    <corpo>L'importo previsto alle lettera a) e b) del precedente art. 4 -comma 2ï¿½ - ï¿½ elevato a L.200.000.000. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art2-com1-mod1">
+Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:1975-04-04;27#art2-com1">primo comma dell'art. 2 della legge regionale 4 aprile 1975, n. 27</rif> ï¿½ sostituito dal seguente: 
+ 
+&lt;&lt;<virgolette
+                                id="art2-com1-mod1-vir1" tipo="parola">I contributi annui costanti previsti dall'art. 3 della suddetta legge regionale vengono concessi nella misura necessaria a coprire gli oneri del mutuo alle migliori condizioni praticate sul mercato   finanziario e nei limiti della spesa prevista nel bilancio regionale</virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+Le norme di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1976-08-30;25#art11">art. 11 della legge regionale 30 agosto 1976, n. 25</rif> sono estese a tutti i lavori di competenza degli Enti Locali che si eseguono con contributo in conto capitale della Regione; qualora tale contributo sia inferiore al 100% le aliquote percentuali degli acconti, specificate alle lettere a), b), c) del citato articolo sono proporzionalmente ridotte. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+
+                    <corpo>In aggiunta ai precedenti acconti potranno essere corrisposte le ulteriori somme eventualmente necessarie per far fronte agli oneri di cui all'<rif xlink:href="urn:nir:stato:legge:1974-01-12;8#art1">art. 1 della legge  12 gennaio 1974, n. 8</rif>. </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num/>
+
+                    <corpo>Nelle procedure per la liquidazione degli stati di avanzamento si applicano le norme di cui all'<rif xlink:href="urn:nir:stato:legge:1971-06-01;291#art5-com4">art. 5 comma 4ï¿½ della legge 1ï¿½ giugno 1971, n. 291</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo>
+All'<rif xlink:href="urn:nir:stato:legge:1975-01-21;10#art2">art. 2 della legge 21 gennaio 1975, n. 10</rif>, ï¿½ aggiunto: 
+ 
+m) acquisto di fabbricati da adibire a sede di servizi di competenza degli Enti locali. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <comma id="art5-com1">
+                    <num/>
+
+                    <corpo>
+Le norme di cui agli articoli 5, comma 4ï¿½, e 13 della <rif xlink:href="urn:nir:regione.molise:legge:1976-08-30;25">legge regionale 30 agosto 1976, n. 25</rif>, sono estese a tutte le opere di edilizia scolastica  sanitaria ed assistenziale. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art6-com1-mod2">
+L'<rif
+                                xlink:href="urn:nir:stato:legge:1975-01-17;7#art4">art. 4 della legge 17 gennaio 1975, n. 7</rif>ï¿½, ï¿½ sostituito dal seguente: 
+ 
+&lt;&lt;<virgolette
+                                id="art6-com1-mod2-vir2" tipo="parola">per ottenere il contributo di cui alla presente legge i Comuni debbono presentare  ogni anno all'Assessorato dei Lavori Pubblici apposita istanza, corredata da copia degli atti di classifica nonchï¿½ dalla documentazione idonea a determinare la estesa chilometrica delle strade urbane ed extra-urbane per le quali si chiede il contributo. <h:br/>
+                                <h:br/>
+Gli allegati suddetti possono essere omessi qualora il Comune nell'istanza dichiari esplicitamente che non vi sono state variazioni rispetto alla situazione risultante dalla  documentazione presentata negli anni precedenti</virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <comma id="art7-com1">
+                    <num/>
+
+                    <corpo>
+I maggiori oneri derivanti dall'applicazione dell'<rif xlink:href="#art2">art. 2</rif> della presente legge saranno previsti in appositi stanziamenti dei bilanci di previsione degli esercizi futuri. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <comma id="art8-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge ï¿½ dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo alla sua pubblicazione nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

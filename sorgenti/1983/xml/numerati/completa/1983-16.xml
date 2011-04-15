@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19830701" num="12" tipo="BURM"/>
+                <entratainvigore norm="19830716"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1983-06-16;16"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 12 del 01/07/83 
+ 
+Oggetto 
+Acque di vegetazione prodotte dai frantoi oleari - Smaltimento - Centri di servizio - Realizzazione - Approvazione dello studio 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 23/1992 art. 1 
+Modificato art. 2 dalla legge n. 23/1992 art. 1 
+Modificato art. 3 dalla legge n. 23/1992 art. 3 
+Modificato art. 5 dalla legge n. 23/1992 art. 2 
+Modificato art. 6 dalla legge n. 23/1992 art. 4 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19830616">16 Giugno 1983</dataDoc>, n. <numDoc>16</numDoc>
+            <titoloDoc>Approvazione dello studio per la creazione di Centri di servizio per lo smaltimento delle acque di vegetazione prodotte dai frantoi oleari 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+
+                <rubrica>
+ 
+La Regione Molise, nell'ambito degli interventi di pianificazione   settoriale previsti dal piano regionale di risanamento idrico ed in relazione agli obiettivi di tutela del suolo e dell'ambiente   indicati all'<rif
+                        xlink:href="#art4">art. 4</rif> del proprio <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto</rif>, approva l'allegato &lt;&lt;Studio per la creazione nel Molise di centri di servizio per lo smaltimento delle acque di vegetazione prodotte nei frantoi oleari&gt;&gt;. 
+ 
+I Centri di servizio sono localizzati nell'ambito dei territori comunali di Sant'Elia a Pianisi-Colletorto, Trivento, Venafro e Larino-Guglionesi. 
+ 
+La realizzazione e gestione dei predetti Centri sono affidate all'Ente Regionale di Sviluppo Agricolo per il Molise, il quale potrï¿½ promuovere, per la realizzazione degli impianti e per la   gestione del servizio, la costituzione di opportune forme associative fra gli utenti. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+L'elaborato di cui al <rif xlink:href="#art1">precedente art. 1</rif> ï¿½ depositato, a fine di pubblicitï¿½, presso la Segreteria del Consiglio Regionale. 
+ 
+Gli aggiornamenti tecnici all'elaborato sono apportati dalla Giunta Regionale con deliberazione pubblicata sul Bollettino Ufficiale della Regione. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+I progetti per la realizzazione degli impianti di trattamento delle acque di scarico dei frantoi oleari sono approvati dalla Giunta Regionale, sentito il parere della competente Commissione   Consiliare. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+Gli utenti del servizio di raccolta e di trattamento dei reflui degli oleifici sono tenuti al pagamento, all'organismo gestore, di un canone annuo che sarï¿½ determinato dalla Giunta Regionale,   sentita la competente Commissione Consiliare, entro il mese di marzo di ciascun anno, su proposta dell'Ente Regionale di Sviluppo Agricolo per il Molise. 
+ 
+Qualora la deliberazione non venga adottata nel termine indicato, si intendono prorogate le tariffe approvate per l'anno in corso. 
+ 
+I criteri per la determinazione della misura del canone dovuto dagli utenti dovranno essere uniformati, di massima, al principio della copertura delle spese di esercizio del servizio. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+Ad avvenuta realizzazione degli impianti di trattamento previsti dalla presente legge, ï¿½ fatto divieto di scaricare nella pubblica fognatura, nel sottosuolo e sul suolo le acque di vegetazione   provenienti dalla lavorazione delle olive. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+Gli oneri derivanti dall'applicazione della presente legge saranno quantificati, ai sensi dell'art. 6 della legge regionale di contabilitï¿½ 3 dicembre 1977, n. 44, con la stessa legge approvativa dei bilanci di previsione. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+
+                <rubrica>
+ 
+La presente legge ï¿½ dichiarata urgente ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione. 
+ 
+ï¿½ fatto obbligo a chiunque spetti di osservarla e di farla  osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

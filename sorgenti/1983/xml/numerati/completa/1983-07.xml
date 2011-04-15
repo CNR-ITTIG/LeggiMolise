@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19830316" num="5" tipo="BURM"/>
+                <entratainvigore norm="19830331"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1983-03-01;7"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 05 del 16/03/1983 
+ 
+Oggetto 
+Regione - Commissioni e comitati - Componenti - Gettoni di presenza rimborso spese di viaggio ed indennit&#xE0; - Determinazione 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>del <dataDoc norm="19830301">1 Marzo 1983</dataDoc>, n. <numDoc>7</numDoc>
+            <titoloDoc>Gettoni di presenza, rimborso spese di viaggio ed indennitï¿½ di trasferta alle Commissioni, Comitati e Consulte Regionali operanti nel territorio regionale 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+
+                <rubrica>
+ 
+Ai componenti delle Commissioni e Comitati indicati nell'allegato &lt;&lt; A &gt;&gt; della presente legge spetta, per ogni giornata di seduta, un'indennitï¿½ pari al 60% di quella fissata per i componenti degli Organi regionali di controllo, il rimborso delle spese di viaggio  e l'indennitï¿½ di trasferta, se dovuta, a norma dell'<rif xlink:href="urn:nir:regione.molise:legge:1981-06-08;11#art1">art. 1 della  legge regionale n. 11 dell'8 giugno 1981</rif>. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+
+                <rubrica>
+ 
+Ai componenti delle Consulte indicate nell'allegato &lt;&lt; B &gt;&gt; della  presente legge spetta, per ogni giornata di seduta, un'indennitï¿½  pari al 50% di quella fissata per i componenti degli Organi   regionali di controllo, il rimborso delle spese di viaggio e   l'indennitï¿½ di trasferta, se dovuta, a norma dell'<rif xlink:href="urn:nir:regione.molise:legge:1981-06-08;11#art1">art. 1 della  legge regionale n. 11 dell'8 giugno 1981</rif>. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+ï¿½ abrogata ogni disposizione di legge in contrasto con la presente legge. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+
+                <rubrica>
+ 
+All'onere derivante dalla presente legge si fa fronte con quota parte dei fondi che verranno attribuiti alla Regione ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1970-05-16;281#art8">art. 8 della legge 16 maggio 1970, n. 281</rif>. 
+ 
+Con la stessa legge approvativa dei bilanci saranno quantificati gli oneri da porsi a carico dei rispettivi capitoli di spesa, secondo i settori dei servizi corrispondenti. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+
+                <rubrica>
+ 
+La presente legge ï¿½ dichiarata urgente ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+ 
+ï¿½ fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

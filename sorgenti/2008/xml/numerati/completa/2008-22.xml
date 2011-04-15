@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20080721" num="17" tipo="BURM"/>
+                <entratainvigore norm="20080805"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2008-07-18;22"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 17 del 21 luglio 2008 
+ 
+Oggetto 
+Farmacie aperte al pubblico nella Regione Molise - Orario di apertura - Turni e chiusure per riposo Festivit&#xE0; e ferie - Disciplina - Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20080718">18 luglio 2008</dataDoc>, n. <numDoc>22</numDoc>.  
+ 
+<titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:2007-10-19;25">legge regionale 19 ottobre 2007, n. 25</rif>, recante: "Nuova disciplina dell'orario di apertura, dei turni e delle ferie delle farmacie".  
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+(Modifiche all'<rif xlink:href="urn:nir:regione.molise:legge:2007-10-19;25#art3">articolo 3 della legge regionale 19 ottobre 2007, n. 25</rif>) 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art1-com1-mod1"> Al <rif
+                                xlink:href="urn:nir:regione.molise:legge:2007;25#art3-com1">comma 1 dell'articolo 3 della legge regionale n. 25/2007</rif>, dopo le parole "<virgolette
+                                id="art1-com1-mod1-vir1">farmacie urbane</virgolette>" sono inserite le parole "<virgolette id="art1-com1-mod1-vir2">e rurali</virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>
+                        <mod
+                                id="art1-com2-mod2"> I commi 2 e 3 dell'<rif xlink:href="urn:nir:regione.molise:legge:2007;25#art3">articolo 3 della legge regionale n. 25/2007</rif> sono soppressi.  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+(Modifiche all'<rif xlink:href="urn:nir:regione.molise:legge:2007-10-19;25#art4">articolo 4 della legge regionale 19 ottobre 2007, n. 25</rif>) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art2-com1-mod3"> Dopo il <rif
+                                xlink:href="urn:nir:regione.molise:legge:2007;25#art4-com1">comma 1 dell'articolo 4 della legge regionale n. 25/2007</rif> ï¿½ aggiunto il seguente comma: "<virgolette
+                                id="art2-com1-mod3-vir3" tipo="struttura">
+                                <comma id="art2-com1-mod3-vir3-com0">
+                                    <num>1-bis.</num>
+                                    <corpo> Nei comuni di interesse turistico, nei periodi di maggiore incremento delle presenze, il Sindaco puï¿½ autorizzare le farmacie a derogare anche parzialmente alla chiusura infrasettimanale. La domanda ï¿½ inoltrata almeno 30 giorni prima della data in cui si intende utilizzare la deroga ed ï¿½ immediatamente comunicata all'A.S.Re.M. ai fini della definizione dei turni</corpo>
+                                </comma>
+                            </virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+(Modifiche all'<rif xlink:href="urn:nir:regione.molise:legge:2007-10-19;25#art5">articolo 5 della legge regionale 19 ottobre 2007, n. 25</rif>) 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art3-com1-mod4"> L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2007;25#art5">articolo 5 della legge regionale n. 25/2007</rif> ï¿½ sostituito dal seguente: 
+ 
+"<virgolette
+                                id="art3-com1-mod4-vir4" tipo="struttura">
+                                <articolo id="art0">
+                                    <num>Art. 5 </num>
+                                    <rubrica>
+ 
+Servizio pomeridiano feriale 
+ </rubrica>
+                                    <comma id="art0-com1">
+                                    <num>
+1.</num>
+                                    <alinea> Durante l'intervallo pomeridiano dei giorni feriali di cui all'articolo 3, il servizio farmaceutico ï¿½ cosï¿½ assicurato:  
+ 
+</alinea>
+                                    <el id="art0-com1-leta">
+                                    <num>a)</num>
+                                    <corpo> nei Comuni capoluogo di provincia e nei Comuni con popolazione superiore a 25 mila abitanti: una farmacia a battenti aperti a turno tra le farmacie del Comune;</corpo>
+                                    </el>
+                                    <el id="art0-com1-letb">
+                                    <num>  
+ 
+b)</num>
+                                    <corpo> nei Comuni con piï¿½ di una farmacia: una farmacia a chiamata a turno tra le farmacie del Comune;</corpo>
+                                    </el>
+                                    <el id="art0-com1-letc">
+                                    <num>  
+ 
+c)</num>
+                                    <corpo> nei Comuni e frazioni a farmacia unica: una farmacia a chiamata a turno tra le farmacie appartenenti allo stesso bacino di utenza</corpo>
+                                    </el>
+                                    </comma>
+                                </articolo>
+                            </virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+(Modifiche all'<rif xlink:href="urn:nir:regione.molise:legge:2007-10-19;25#art6">articolo 6 della legge regionale 19 ottobre 2007, n. 25</rif>) 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art4-com1-mod5"> L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2007;25#art6">articolo 6 della legge regionale n. 25/2007</rif>, come sostituito dall'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2007-12-31;32#art2">articolo 2 della legge regionale 31 dicembre 2007, n. 32</rif>, ï¿½ sostituito dal seguente:  
+ 
+"<virgolette
+                                id="art4-com1-mod5-vir5" tipo="struttura">
+                                <articolo id="art0">
+                                    <num>Art. 6 </num>
+                                    <rubrica>
+ 
+Servizio festivo 
+ </rubrica>
+                                    <comma id="art0-com1">
+                                    <num>
+1.</num>
+                                    <corpo> Le farmacie urbane e rurali non di turno restano chiuse nei giorni di domenica e di festivitï¿½ infrasettimanale.  </corpo>
+                                    </comma>
+                                    <comma id="art0-com2">
+                                    <num>
+ 
+2.</num>
+                                    <alinea> Nei giorni festivi il servizio farmaceutico ï¿½ cosï¿½ assicurato:  
+ 
+</alinea>
+                                    <el id="art0-com2-leta">
+                                    <num> a)</num>
+                                    <corpo> nel Comune capoluogo di regione: due farmacie, delle quali una effettua il servizio a battenti aperti ininterrottamente dall'apertura antimeridiana fino alle ore 22 e prosegue a battenti chiusi nel  servizio notturno fino all'apertura antimeridiana del successivo giorno feriale; l'altra, di appoggio, osserva a battenti aperti l'orario previsto per i giorni feriali;</corpo>
+                                    </el>
+                                    <el id="art0-com2-letb">
+                                    <num>  
+ 
+ b)</num>
+                                    <corpo> nei Comuni capoluogo di provincia: una farmacia a battenti aperti ininterrottamente dall'apertura antimeridiana fino alle ore 22 e a battenti chiusi nel servizio notturno fino all'orario di apertura antimeridiana del successivo giorno feriale;</corpo>
+                                    </el>
+                                    <el id="art0-com2-letc">
+                                    <num>  
+ 
+ c)</num>
+                                    <corpo> nei Comuni con piï¿½ di una farmacia: una farmacia di turno a battenti aperti per l'orario previsto per i giorni feriali, a chiamata durante l'intervallo pomeridiano e durante l'orario di servizio notturno a  turno tra le farmacie del comune;</corpo>
+                                    </el>
+                                    <el id="art0-com2-letd">
+                                    <num> 
+ 
+ d)</num>
+                                    <corpo> nei Comuni e frazioni a farmacia unica: una farmacia a chiamata a turno tra le farmacie appartenenti allo stesso bacino di utenza. </corpo>
+                                    </el>
+                                    </comma>
+                                    <comma id="art0-com3">
+                                    <num>
+ 
+3.</num>
+                                    <corpo> Nei Comuni di interesse turistico, nei periodi di maggiore incremento delle presenze, il Sindaco puï¿½ autorizzare deroghe anche parziali alla chiusura festiva. La domanda ï¿½ inoltrata almeno 30 giorni prima della data in cui si intende utilizzare la deroga ed ï¿½ immediatamente comunicata all'A.S.Re.M. ai fini della definizione dei turni</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+(Modifiche all'<rif xlink:href="urn:nir:regione.molise:legge:2007-10-19;25#art7">articolo 7 della legge regionale 19 ottobre 2007, n. 25</rif>) 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art5-com1-mod6"> L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2007;25#art7">articolo 7 della legge regionale n. 25/2007</rif> ï¿½ sostituito dal seguente:  
+ 
+"<virgolette
+                                id="art5-com1-mod6-vir6" tipo="struttura">
+                                <articolo id="art0">
+                                    <num>Art. 7 </num>
+                                    <rubrica>
+ 
+Servizio notturno 
+ </rubrica>
+                                    <comma id="art0-com1">
+                                    <num>
+1.</num>
+                                    <alinea> Dalla chiusura pomeridiana all'apertura antimeridiana di qualsiasi giorno feriale o festivo il servizio farmaceutico ï¿½ cosï¿½ assicurato:  
+ 
+</alinea>
+                                    <el id="art0-com1-leta">
+                                    <num> a)</num>
+                                    <corpo> nei Comuni capoluogo di provincia e nei Comuni con popolazione superiore a 25 mila abitanti: una farmacia a battenti aperti fino alle ore 22 e a battenti chiusi fino all'orario di apertura antimeridiana;</corpo>
+                                    </el>
+                                    <el id="art0-com1-letb">
+                                    <num>  
+ 
+ b)</num>
+                                    <corpo> nei Comuni con piï¿½ di una farmacia: una farmacia a chiamata a turno tra le farmacie del Comune;</corpo>
+                                    </el>
+                                    <el id="art0-com1-letc">
+                                    <num>  
+ 
+ c)</num>
+                                    <corpo> nei Comuni e frazioni a farmacia unica: una farmacia a chiamata a turno tra le farmacie appartenenti allo stesso bacino di utenza.  </corpo>
+                                    </el>
+                                    </comma>
+                                    <comma id="art0-com2">
+                                    <num>
+ 
+2.</num>
+                                    <corpo> Il farmacista di turno non obbligato alla permanenza in farmacia ï¿½ tenuto alla effettiva disponibilitï¿½, per la dispensazione dei medicinali, entro venti minuti dalla chiamata</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Solo per la prima applicazione, e fino al 31 ottobre 2008, il termine di cui all'<rif xlink:href="#art2">articolo 2</rif> della presente legge ï¿½ ridotto a giorni cinque.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+Entrata in vigore 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. La presente legge sarï¿½ pubblicata nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

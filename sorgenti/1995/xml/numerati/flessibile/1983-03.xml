@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19950916" num="19" tipo="BURM"/>
+                <entratainvigore norm="19951001"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1983-01-17;3"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xe0;"/>
+                </materie>
+            </descrittori>
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+ 
+Bollettino 
+Bollettino Ufficiale n. 19 del 16/09/95 
+ 
+Oggetto 
+Enti di formazione professionale - ?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>L.r. </tipoDoc>
+            <dataDoc
+                    norm="19830117">17 gennaio 1983</dataDoc>. n. <numDoc>3</numDoc> - <titoloDoc>Interpretazione autentica del comma 4 dell'articolo 21 
+ 
+Abrogazioni 
+Abrogata intera legge dalla <rif
+                    xlink:href="urn:nir:stato:legge:2010;13">legge n. 13/2010</rif> art. allegato uno 
+ 
+Modifiche 
+ 
+ 
+<rif xlink:href="urn:nir:regione.molise:legge:1995-09-11;27">Legge Regionale 11 Settembre 1995, n. 27</rif>
+                <rif xlink:href="urn:nir:regione.molise:legge:1983-01-17;3#art21-com4">Articolo 21, comma 4, della legge regionale 17 gennaio 1983, n. 3</rif>, concernente &lt;&lt;Disciplina della Formazione Professionale nel Molise&gt;&gt; - Interpretazione autentica. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ART. 1 </num>
+                <rubrica>
+ 
+Le disposizioni del <rif
+                        xlink:href="urn:nir:regione.molise:legge:1983-01-17;3#art21-com4">4 comma dell'art. 21 della legge regionale 17 gennaio 1983, n. 3</rif>, cosï¿½ come modificato dall'<rif
+                        xlink:href="urn:nir:regione.molise:legge:1990-05-29;27#art9">art.9 della legge regionale 29 maggio 1990, n.27</rif>, si intendono estese ai periodi di temporanea sospensione dei rapporti convenzionali con gli Enti di Formazione Professionale, se risultano presentati alla Regione preventivi Piani trimestrali di continuazione delle attivitï¿½ e di impegno del personale iscritto all'Albo di cui all'<rif
+                        xlink:href="urn:nir:regione.molise:legge:1995;10#art26">art. 26 della legge regionale n. 10/1995</rif>. 
+ 
+In tali periodi rimane l'obbligo, da parte degli stessi Enti dell'utilizzazione di detto personale nelle attivitï¿½ ed azioni indicate allo stesso <rif xlink:href="urn:nir:regione.molise:legge:1983;3#art21">art. 21 della legge regionale n. 3/1983</rif>. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ART. 2 </num>
+
+                <rubrica>
+ 
+La presente legge ï¿½ dichiarata urgente ai sensi dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo alla sua pubblicazione sul Bollettino Ufficiale della Regione. 
+ 
+ï¿½ fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

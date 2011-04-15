@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19950116" num="1" tipo="BURM"/>
+                <entratainvigore norm="19950131"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1995-01-13;2"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 01 del 16/01/95 
+ 
+Oggetto 
+Disciplina del servizio sanitario regionale 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 11/1997 art. 27 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19950113">13 Gennaio 1995</dataDoc>, n. <numDoc>2</numDoc>
+            <titoloDoc>Nuova disciplina del Servizio Sanitario nella Regione Molise - Decreti legislativi nn. 502/92 e 517/93. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 11/1997 art. 27</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione>
+            <firma tipo="sottoscrizione">Il Direttore amministrativo ed </firma>
+            <firma
+                    tipo="sottoscrizione">il Direttore sanitario sono nominati con provvedimento motivato dal Direttore generale. Ad essi si applica quanto disposto d i commi 6, 7, 8, 9 e 11 dell'art. 3 del D.Lgs. 502 in ordine a rapporto di lavoro, a cessazione, sospensione, decadenza dell'incarico, a requisiti anagrafico - professionali, a funzioni svolte, a contribuzioni, a incompatibilitï¿½ e impedimenti per la nomina. 
+ 
+9. La composizione e le competenze del Collegio dei revisori sono determinati secondo le disposizioni dell'art. 3, comma 13, dl D.Lgs. 502. 
+ 
+10. Il Collegio dei revisori ï¿½ nominato e convocato dal Direttore generale entro dieci giorni dall'acquisizione delle designazioni da parte delle amministrazioni competenti. Il funzionamento del Collegio ï¿½ regolato da apposito <rif xlink:href="urn:nir:regione.molise:statuto:">statuto</rif> proposto dal collegio stesso e adottato dal Direttore generale. Si applicano inoltre per le designazioni ed il funzionamento del Collegio dei revisori le disposizioni dell'art. 3, comma 13, del D.Lgs. 502. 
+ 
+11. </firma>
+            <firma tipo="sottoscrizione">Il Consiglio dei sanitari della Unitï¿½ Sanitaria Locale, di cui all'art. 3, comma 12, del D.Lgs. 502, ï¿½ l'organismo elettivo della Unitï¿½ Sanitaria Locale con funzione di consulenza tecnico - sanitaria. La composizione, le modalitï¿½ di elezione, il funzionamento e composizione, le modalitï¿½ di elezione, il funzionamento e le materie di competenza del Consiglio dei sanitari sono disciplinate da apposito procedimento della Giunta regionale nel rispetto delle disposizioni contenute all'art. 3, comma 12, del D.Lgs. 502. 
+
+</firma>
+        </conclusione>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20081201" num="27" tipo="BURM"/>
+                <entratainvigore norm="20081216"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2008-11-21;33"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 27 del 1 dicembre 2008 
+ 
+Oggetto 
+Piscine pubbliche e private ad uso natatorio - Costruzione manutenzione e vigilanza . Requisiti - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20081121">21 novembre 2008</dataDoc>, n. <numDoc>33</numDoc>.  
+ 
+<titoloDoc>Disciplina in materia di requisiti igienico-sanitari delle piscine ad uso natatorio.  
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1  </num>
+                <rubrica>
+ 
+(Campo di applicazione e finalitï¿½) 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione Molise intende contribuire alla tutela della sicurezza dei bagnanti e del personale addetto alla gestione delle piscine pubbliche e private ad uso natatorio, mediante la definizione dei requisiti per la loro costruzione, le indicazioni per la manutenzione e per le specifiche attivitï¿½ di vigilanza.  </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Le disposizioni della presente legge si applicano esclusivamente alle piscine classificate nelle categorie A, classi A/1, A/2, A/3, A/4 e B, classe B/1, di cui all'<rif
+                            xlink:href="#art3">articolo 3</rif>, ed aventi tipologie di vasche, a), b), c), d), e) ed f) di cui all'<rif xlink:href="#art4">articolo 4</rif>.  </corpo>
+                </comma>
+                <comma id="art1-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Sono escluse dalle disposizioni della presente legge le piscine classificate nella categoria B, classe B/2, e nella categoria C di cui all'<rif xlink:href="#art3">articolo 3</rif>.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2  </num>
+                <rubrica>
+ 
+(Definizioni) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> Si definisce piscina un complesso attrezzato per la balneazione che comporta la presenza di uno o piï¿½ bacini artificiali utilizzati per attivitï¿½ ricreative, formative, sportive e terapeutiche esercitate nell'acqua contenuta nei bacini stessi.  </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> Parti essenziali costituenti il complesso sono:  
+ 
+</alinea>
+                    <el id="art2-com2-leta">
+                        <num>a)</num>
+                        <corpo> sezione vasche;</corpo>
+                    </el>
+                    <el id="art2-com2-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> sezione servizi;</corpo>
+                    </el>
+                    <el id="art2-com2-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> sezione impianti tecnici;</corpo>
+                    </el>
+                    <el id="art2-com2-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo> sezione pubblico;</corpo>
+                    </el>
+                    <el id="art2-com2-lete">
+                        <num>  
+ 
+e)</num>
+                        <corpo> sezione attivitï¿½ complementari.  </corpo>
+                    </el>
+                </comma>
+                <comma id="art2-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Per ï¿½sezione vascheï¿½ si intende l'insieme degli spazi direttamente interessati alle attivitï¿½ natatorie e di balneazione.  </corpo>
+                </comma>
+                <comma id="art2-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Per ï¿½sezione serviziï¿½ si intende l'insieme degli spazi adibiti a spogliatoio, deposito abiti, servizi igienici e docce, deposito attrezzi, primo soccorso, personale istruttore, arbitri e personale di servizio.  </corpo>
+                </comma>
+                <comma id="art2-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> Per ï¿½impianti tecniciï¿½ si intendono la centrale idrica, la centrale termica, gli impianti per il trattamento dell'acqua, gli impianti antincendio, gli impianti di riscaldamento, ventilazione e condizionamento dell'aria, gli impianti di smaltimento delle acque, gli impianti di sicurezza ed allarme. </corpo>
+                </comma>
+                <comma id="art2-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> Per ï¿½sezione pubblicoï¿½ si intende l'insieme degli spazi destinati ad anditi, posti per spettatori, spazi accessori, servizi igienici riservati agli spettatori.  </corpo>
+                </comma>
+                <comma id="art2-com7">
+                    <num>
+ 
+7.</num>
+                    <corpo> Per ï¿½sezione attivitï¿½ complementariï¿½ si intendono gli spazi destinati ad attivitï¿½, anche sportive, diverse dalle attivitï¿½ natatorie e di balneazione, oltre che attivitï¿½ di ristorazione, bar, spazi per attivitï¿½ culturali, riunioni, uffici, sale stampa ed altre attivitï¿½ accessorie comunque denominate. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+(Classificazione delle piscine) 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> Le piscine, ai fini igienico-sanitari, sono classificate in base ai seguenti criteri: destinazione, caratteristiche ambientali e strutturali, tipo di utilizzazione.  </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Le piscine in base alla loro destinazione si distinguono nelle categorie A, B e C, a loro volta suddivise in classi.  </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Alla categoria A appartengono le piscine pubbliche o private destinate ad una utenza pubblica.  </corpo>
+                </comma>
+                <comma id="art3-com4">
+                    <num>
+ 
+4.</num>
+                    <alinea> La categoria A ï¿½ suddivisa nelle seguenti classi:  
+ 
+</alinea>
+                    <el id="art3-com4-leta">
+                        <num>a)</num>
+                        <corpo> A/1: piscine pubbliche o private aperte al pubblico;</corpo>
+                    </el>
+                    <el id="art3-com4-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> A/2: piscine ad uso collettivo inserite in strutture ricettive alberghiere, extralberghire, all'aria aperta e agrituristiche, a disposizione esclusiva degli alloggiati, nonchï¿½ inserite in altre strutture adibite ad uso collettivo quali collegi, convitti, scuole, universitï¿½, comunitï¿½, palestre, circoli e associazioni, a disposizione dei soli ospiti, studenti, clienti o soci;</corpo>
+                    </el>
+                    <el id="art3-com4-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> A/3: impianti finalizzati al gioco acquatico;</corpo>
+                    </el>
+                    <el id="art3-com4-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo> A/4: strutture complesse comprendenti piscine rientranti in piï¿½ di una delle classi di cui alle lettere a), b) e c).  </corpo>
+                    </el>
+                </comma>
+                <comma id="art3-com5">
+                    <num>
+ 
+5.</num>
+
+                    <corpo> Alla categoria B appartengono le piscine costituenti parti comuni dell'edificio, ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art1117">articolo 1117 del codice civile</rif>, e destinate agli abitanti del condominio stesso e le piscine di pertinenza di abitazioni private facenti parte di edificio o complesso residenziale destinate agli abitanti dell'edificio o del complesso stesso e non comprese tra quelle classificate A/2 del <rif xlink:href="#art3-com4">comma 4</rif>.  </corpo>
+                </comma>
+                <comma id="art3-com6">
+                    <num>
+ 
+6.</num>
+                    <alinea> La categoria B ï¿½ suddivisa nelle seguenti classi:  
+ 
+</alinea>
+                    <el id="art3-com6-leta">
+                        <num>a)</num>
+                        <corpo> B/1: piscine facenti parte di condomini o di pertinenza di abitazioni private facenti parte di edificio o complesso residenziale costituiti da piï¿½ di quattro unitï¿½ abitative;</corpo>
+                    </el>
+                    <el id="art3-com6-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> B/2: piscine facenti parte di condomini o di pertinenza di abitazioni private facenti parte di edificio o complesso residenziale costituiti da non piï¿½ di quattro unitï¿½ abitative;  
+ </corpo>
+                    </el>
+                </comma>
+                <comma id="art3-com7">
+                    <num>
+7.</num>
+                    <corpo> La categoria C comprende le piscine destinate ad usi speciali collocate all'interno di strutture di cura, di riabilitazione e termali.  </corpo>
+                </comma>
+                <comma id="art3-com8">
+                    <num>
+ 
+8.</num>
+                    <alinea> In base alle caratteristiche ambientali e strutturali le piscine si distinguono in:  
+ 
+</alinea>
+                    <el id="art3-com8-leta">
+                        <num>a)</num>
+                        <corpo> scoperte, se costituite da complessi con uno o piï¿½ bacini artificiali non confinati entro strutture chiuse permanenti;</corpo>
+                    </el>
+                    <el id="art3-com8-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> coperte, se costituite da complessi con uno o piï¿½ bacini artificiali confinati entro strutture chiuse permanenti;</corpo>
+                    </el>
+                    <el id="art3-com8-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> di tipo misto, se costituite da complessi con uno o piï¿½ bacini artificiali scoperti e coperti utilizzabili anche contemporaneamente;</corpo>
+                    </el>
+                    <el id="art3-com8-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo> di tipo convertibile, se costituite da complessi con uno o piï¿½ bacini artificiali nei quali gli spazi destinati alle attivitï¿½ possono essere aperti o chiusi in relazione alle condizioni atmosferiche.  
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+(Tipologie di vasche)  
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+
+                    <alinea> In base alla loro utilizzazione si individuano nelle categorie di piscine di cui all'<rif xlink:href="#art3">articolo 3</rif> i seguenti tipi di vasche:  
+ 
+</alinea>
+                    <el id="art4-com1-leta">
+                        <num>a)</num>
+                        <corpo> agonistiche, per nuotatori e di addestramento al nuoto, aventi requisiti che consentono l'esercizio delle attivitï¿½ natatorie in conformitï¿½ al genere ed al livello di prestazioni per le quali ï¿½ destinata la piscina, nel rispetto delle norme della Federazione Italiana Nuoto (F.I.N.) e della Federation Internazionale de Natation Amateur (F.I.N.A.);</corpo>
+                    </el>
+                    <el id="art4-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> per tuffi ed attivitï¿½ subacquee, aventi requisiti che consentono l'esercizio delle attivitï¿½ in conformitï¿½ al genere ed al livello di prestazioni per le quali ï¿½ destinata la piscina, nel rispetto delle norme della FIN e della FINA;</corpo>
+                    </el>
+                    <el id="art4-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> ricreative, aventi requisiti morfologici e funzionali che le rendono idonee per il gioco e la balneazione;</corpo>
+                    </el>
+                    <el id="art4-com1-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo> per bambini, aventi requisiti morfologici e funzionali, quali la profonditï¿½ massima di sessanta centimetri, che le rendono idonee per la balneazione dei bambini;</corpo>
+                    </el>
+                    <el id="art4-com1-lete">
+                        <num>  
+ 
+e)</num>
+                        <corpo> polifunzionali, aventi caratteristiche morfologiche e funzionali che consentono l'uso contemporaneo del bacino per attivitï¿½ differenti o che posseggono requisiti di convertibilitï¿½ che le rendono idonee ad usi diversi;</corpo>
+                    </el>
+                    <el id="art4-com1-letf">
+                        <num>  
+ 
+f)</num>
+                        <corpo> ricreative attrezzate, caratterizzate dalla prevalenza di attrezzature accessorie quali acquascivoli, sistemi di formazione di onde, fondi mobili;</corpo>
+                    </el>
+                    <el id="art4-com1-letg">
+                        <num>  
+ 
+g)</num>
+                        <corpo> per usi riabilitativi, aventi requisiti morfologici e funzionali nonchï¿½ dotazione di attrezzature specifiche per l'esercizio esclusivo di attivitï¿½ riabilitative e rieducative sotto il controllo sanitario specialistico;</corpo>
+                    </el>
+                    <el id="art4-com1-leth">
+                        <num>  
+ 
+h)</num>
+                        <corpo> per usi curativi e termali, nelle quali l'acqua viene utilizzata come mezzo terapeutico in relazione alle sue caratteristiche fisico-chimiche intrinseche o alle modalitï¿½ con cui viene in contatto dei bagnanti e nelle quali l'esercizio delle attivitï¿½ di balneazione viene effettuato sotto il controllo sanitario specialistico.  
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+(Parere igienico-sanitario) 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <alinea> ï¿½ necessario acquisire il preventivo parere igienico-sanitario dell'Azienda sanitaria regionale del Molise (A.S.Re.M.) - Ufficio di igiene e sanitï¿½ pubblica territorialmente competente nei seguenti casi:  
+ 
+</alinea>
+                    <el id="art5-com1-leta">
+                        <num>a)</num>
+                        <corpo> costruzione di nuovi impianti natatori;</corpo>
+                    </el>
+                    <el id="art5-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> ristrutturazione e/o ampliamento di impianti esistenti che comportano variazioni distributive o funzionali.  
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+(Inizio attivitï¿½) 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <corpo> L'inizio dell'attivitï¿½ delle piscine di nuova costruzione appartenenti alle classi A/1 ed A/4 ï¿½ subordinato alla comunicazione alla A.S.Re.M. - Ufficio di igiene e sanitï¿½ pubblica territorialmente competente, al fine dell'acquisizione del parere igienico-sanitario successivo alla realizzazione dell'impianto.  </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> L'inizio dell'attivitï¿½ delle piscine appartenenti alle classi A/2, A/3 e B/1 ï¿½ subordinato alla comunicazione alla A.S.Re.M. - Ufficio di igiene e sanitï¿½ pubblica territorialmente competente.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+(Comunicazioni periodiche delle attivitï¿½ stagionali) 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <corpo> I titolari degli impianti realizzati per le attivitï¿½ stagionali, trenta giorni prima dell'attivazione dell'impianto, comunicano alla A.S.Re.M. - Ufficio di igiene e sanitï¿½ pubblica territorialmente competente la riapertura della struttura e le eventuali variazioni degli impianti o del responsabile della piscina, nonchï¿½ la chiusura della struttura, qualora debba verificarsi l'interruzione dell'attivitï¿½.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>
+ 
+(Dotazione di personale) 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+                    <corpo> Il titolare dell'impianto nomina il responsabile della piscina o dichiara formalmente di assumerne personalmente le funzioni al fine di garantire l'igiene, la sicurezza e la funzionalitï¿½ della piscina.  </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> Il responsabile della piscina assicura:  
+ 
+</alinea>
+                    <el id="art8-com2-leta">
+                        <num>a)</num>
+                        <corpo> il corretto funzionamento gestionale, organizzativo e tecnico della struttura;</corpo>
+                    </el>
+                    <el id="art8-com2-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> il rispetto dei requisiti igienico-sanitari e ambientali previsti dalla vigente normativa;</corpo>
+                    </el>
+                    <el id="art8-com2-letc">
+                        <num>  
+ 
+c)</num>
+
+                        <corpo> la corretta esecuzione delle procedure di autocontrollo di cui all'<rif xlink:href="#art12">articolo 12</rif>;</corpo>
+                    </el>
+                    <el id="art8-com2-letd">
+                        <num>  
+ 
+d)</num>
+
+                        <corpo> la pulizia giornaliera dell'intero complesso come definito dall'<rif xlink:href="#art2">articolo 2</rif>.  </corpo>
+                    </el>
+                </comma>
+                <comma id="art8-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Per le piscine di classe B/1, il responsabile della piscina ï¿½ l'amministratore, salvo diversa formale designazione; in mancanza di amministratore o di responsabile designato rispondono i proprietari.  </corpo>
+                </comma>
+                <comma id="art8-com4">
+                    <num>
+ 
+4.</num>
+                    <alinea> Il responsabile della piscina individua le seguenti figure:  
+ 
+</alinea>
+                    <el id="art8-com4-leta">
+                        <num>a)</num>
+                        <corpo> assistente bagnanti;</corpo>
+                    </el>
+                    <el id="art8-com4-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> addetto agli impianti tecnologici.  </corpo>
+                    </el>
+                </comma>
+                <comma id="art8-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> L'assistente bagnanti ï¿½ persona addetta al servizio di salvataggio e primo soccorso, abilitata dalla sezione salvamento della Federazione Italiana Nuoto (F.I.N.) ovvero munita di brevetto di idoneitï¿½ per i salvataggi in mare rilasciato da societï¿½ o ente autorizzato dal Ministero dei trasporti e della navigazione. L'assistente ai bagnanti vigila, ai fini della sicurezza, sulle attivitï¿½ che si svolgono in vasca e negli spazi perimetrali intorno alla vasca. In ogni piscina con bagnanti ï¿½ assicurata la presenza di assistenti bagnanti durante tutto l'orario di funzionamento della piscina, fatti salvi i casi in cui trattasi di piscine classificate B/1.  </corpo>
+                </comma>
+                <comma id="art8-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> L'addetto agli impianti tecnologici ha il compito di garantire il corretto funzionamento degli impianti ai fini del rispetto dei requisiti igienico-sanitari e ambientali.  
+ 
+Tale compito puï¿½ essere assicurato anche mediante appositi contratti con ditte esterne qualificate.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <rubrica>
+ 
+(Utenti) 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+                    <alinea> Gli utenti delle piscine si distinguono in:  
+ 
+</alinea>
+                    <el id="art9-com1-leta">
+                        <num>a)</num>
+                        <corpo> frequentatori: utenti presenti all'interno dell'impianto natatorio;</corpo>
+                    </el>
+                    <el id="art9-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> bagnanti: utenti che si trovano all'interno della sezione vasche delimitata sul posto.  </corpo>
+                    </el>
+                </comma>
+                <comma id="art9-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Il numero massimo di frequentatori e di bagnanti ammissibili ï¿½ determinato, con il regolamento regionale di cui all'<rif xlink:href="#art15">articolo 15</rif>, in relazione alle diverse categorie di piscine.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <rubrica>
+ 
+(Requisiti strutturali) 
+ </rubrica>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+
+                    <alinea> I requisiti strutturali delle parti essenziali del complesso di cui al <rif xlink:href="#art2-com2">comma 2 dell'articolo 2</rif> devono garantire:  
+ 
+</alinea>
+                    <el id="art10-com1-leta">
+                        <num>a)</num>
+                        <corpo> che la potenzialitï¿½ degli impianti di trattamento dell'acqua sia proporzionata al volume dell'acqua delle vasche ed al carico inquinante dovuto all'utilizzazione delle stesse;</corpo>
+                    </el>
+                    <el id="art10-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> che l'attivitï¿½ natatoria, nelle varie forme previste per le diverse categorie e gruppi di piscine e tipi di vasche, possa svolgersi nel rispetto delle esigenze di sicurezza e di sorveglianza degli utenti;</corpo>
+                    </el>
+                    <el id="art10-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> che la fruizione da parte degli utenti e la pulizia ordinaria e straordinaria degli spogliatoi, delle docce e dei servizi igienici e di tutte le aree accessorie e di disimpegno possa avvenire in modo regolare e col minimo rischio per la sicurezza degli utenti;</corpo>
+                    </el>
+                    <el id="art10-com1-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo> che la localizzazione e l'installazione degli impianti, nonchï¿½ la loro gestione, siano tali da assicurare condizioni di sicurezza e di facile accessibilitï¿½;</corpo>
+                    </el>
+                    <el id="art10-com1-lete">
+                        <num>  
+ 
+e)</num>
+                        <corpo> la fruibilitï¿½ da parte dei portatori di handicap, secondo la normativa vigente.  
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+                <rubrica>
+ 
+(Controlli)  
+ </rubrica>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+                    <corpo> I controlli per la verifica del corretto funzionamento del complesso sono distinti in controlli interni, eseguiti a cura del responsabile della piscina, e controlli esterni di competenza dell'A.S.Re.M..  </corpo>
+                </comma>
+                <comma id="art11-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Per le piscine di proprietï¿½ pubblica o privata destinate ad una utenza pubblica di cui alla categoria A dell'<rif
+                            xlink:href="#art3-com3">articolo 3, comma 3</rif>, sono fatti salvi i controlli delle commissioni comunali e provinciali di vigilanza sui locali di pubblico spettacolo di cui al regolamento per l'esecuzione del Testo Unico delle leggi di Pubblica Sicurezza - approvato con <rif
+                            xlink:href="urn:nir:stato:regio.decreto:1940-05-06;635">Regio Decreto 6 maggio 1940, n. 635</rif>, come modificato dal <rif xlink:href="urn:nir:presidente.repubblica:decreto:2001-05-28;311">decreto del Presidente della Repubblica 28 maggio 2001, n. 311</rif>.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12 </num>
+                <rubrica>
+ 
+(Controlli interni)  
+ </rubrica>
+                <comma id="art12-com1">
+                    <num>
+1.</num>
+                    <corpo> Il responsabile della piscina garantisce la corretta gestione sotto il profilo igienico-sanitario di tutti gli elementi funzionali del complesso che concorrono alla sicurezza della piscina.  </corpo>
+                </comma>
+                <comma id="art12-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> I controlli interni sono eseguiti secondo protocolli di gestione e di autocontrollo; a tal fine, il responsabile della piscina redige un documento di valutazione del rischio in cui ï¿½ considerata ogni fase che puï¿½ rivelarsi critica nella gestione dell'attivitï¿½, nel rispetto degli elementi indicati nel regolamento regionale di cui all'<rif xlink:href="#art15">articolo 15</rif>.  </corpo>
+                </comma>
+                <comma id="art12-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Il responsabile della piscina tiene altresï¿½ a disposizione dell'autoritï¿½ incaricata del controllo degli ulteriori documenti indicati nel regolamento regionale di cui all'<rif xlink:href="#art15">articolo 15</rif>.  </corpo>
+                </comma>
+                <comma id="art12-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Il responsabile della piscina garantisce che siano applicate ed aggiornate le procedure previste nel documento di valutazione del rischio.  </corpo>
+                </comma>
+                <comma id="art12-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> La documentazione relativa ai controlli effettuati dal responsabile della piscina ï¿½ a disposizione dell'A.S. Re.M. per un periodo di due anni.  </corpo>
+                </comma>
+                <comma id="art12-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> Qualora il responsabile della piscina, in seguito al controllo interno effettuato, riscontri valori dei parametri igienico-sanitari al di fuori dei limiti previsti dal piano di autocontrollo, provvede alla soluzione del problema ed al ripristino delle condizioni ottimali; nel caso in cui il problema non possa essere tempestivamente eliminato, il responsabile della piscina provvede a darne comunicazione all'A.S.Re.M. - Ufficio di igiene e sanitï¿½ pubblica territorialmente competente, nelle quarantotto ore successive.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13 </num>
+                <rubrica>
+ 
+(Controlli esterni)  
+ </rubrica>
+                <comma id="art13-com1">
+                    <num>
+1.</num>
+
+                    <corpo> I controlli esterni ed i relativi prelievi sono effettuati dalla A.S.Re.M. - Ufficio di igiene e sanitï¿½ pubblica territorialmente competente - secondo modalitï¿½ e frequenza che tengono conto della tipologia degli impianti ed in conformitï¿½ a quanto stabilito dal regolamento regionale di cui all'<rif xlink:href="#art15">articolo 15</rif>.  </corpo>
+                </comma>
+                <comma id="art13-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La A.S.Re.M. - Ufficio di igiene e sanitï¿½ pubblica territorialmente competente - qualora accerti la non conformitï¿½ dell'impianto ai requisiti prescritti dalla vigente normativa, dispone, anche attraverso prescrizioni dirette e fissazione di apposito termine, che siano adottati i provvedimenti necessari finalizzati al ripristino di detti requisiti.  </corpo>
+                </comma>
+                <comma id="art13-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> In caso di inadempienza, nei termini fissati, alle prescrizioni formulate ai sensi del <rif xlink:href="#art13-com2">comma 2</rif>, l'A.S.Re.M. puï¿½ disporre, anche in via temporanea, la chiusura dell'impianto, dandone immediata comunicazione al Comune di ubicazione dell'impianto.  </corpo>
+                </comma>
+                <comma id="art13-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> L'A.S.Re.M. puï¿½ disporre, in via temporanea, la chiusura dell'impianto, anche in assenza di previa prescrizione formulata ai sensi del <rif xlink:href="#art13-com3">comma 3</rif>, ogni qualvolta verifichi condizioni di rischio grave per la salute degli utenti, dandone immediata comunicazione al Comune.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14 </num>
+                <rubrica>
+ 
+(Regolamento interno) 
+ </rubrica>
+                <comma id="art14-com1">
+                    <num>
+1.</num>
+                    <corpo> Il responsabile della piscina adotta un regolamento interno per la disciplina del rapporto con gli utenti, in riferimento agli aspetti igienico-sanitari; in particolare, il regolamento determina elementi comportamentali e di igiene personale che contribuiscano a mantenere idonee le condizioni nell'impianto natatorio, nonchï¿½ il numero massimo di frequentatori e di bagnanti.  </corpo>
+                </comma>
+                <comma id="art14-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Il regolamento interno deve conformarsi alle disposizioni tecniche di sicurezza dettate dal regolamento regionale di cui all'<rif xlink:href="#art15">articolo 15</rif>.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>Art. 15  </num>
+                <rubrica>
+ 
+(Regolamento regionale) 
+ </rubrica>
+                <comma id="art15-com1">
+                    <num>
+1.</num>
+                    <alinea> La Regione, entro centottanta giorni dall'entrata in vigore della presente legge, al fine di assicurare esigenze unitarie ed in conformitï¿½ all'Accordo Stato-Regioni del 16 gennaio 2003, stabilisce con norme regolamentari:  
+ 
+</alinea>
+                    <el id="art15-com1-leta">
+                        <num>a)</num>
+                        <corpo> i requisiti strutturali, gestionali e tecnici dell'impianto di piscine, ivi compresa la specificazione del limite massimo di utenti ammissibili;</corpo>
+                    </el>
+                    <el id="art15-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo> i requisiti fisici, chimico-fisici, chimici e microbiologici delle acque utilizzate in vasca;</corpo>
+                    </el>
+                    <el id="art15-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> gli ulteriori requisiti igienico-ambientali concernenti le sostanze da impiegare per il trattamento dell'acqua, i punti di prelievo, le condizioni termo-igrometriche e di ventilazione, illuminotecniche ed acustiche dell'impianto;</corpo>
+                    </el>
+                    <el id="art15-com1-letd">
+                        <num>  
+ 
+d)</num>
+
+                        <corpo> le modalitï¿½ di comunicazione di inizio delle attivitï¿½ di cui all'<rif xlink:href="#art6">articolo 6</rif>;</corpo>
+                    </el>
+                    <el id="art15-com1-lete">
+                        <num>  
+ 
+e)</num>
+
+                        <corpo> le modalitï¿½, i criteri e la documentazione necessaria ai fini dei controlli interni di cui all'<rif xlink:href="#art12">articolo 12</rif>;</corpo>
+                    </el>
+                    <el id="art15-com1-letf">
+                        <num>  
+ 
+f)</num>
+
+                        <corpo> le modalitï¿½ ed i criteri per i controlli esterni di cui all'<rif xlink:href="#art13">articolo 13</rif>;</corpo>
+                    </el>
+                    <el id="art15-com1-letg">
+                        <num>  
+ 
+g)</num>
+                        <corpo> i materiali e le attrezzature per le attivitï¿½ di primo soccorso;</corpo>
+                    </el>
+                    <el id="art15-com1-leth">
+                        <num>  
+ 
+h)</num>
+
+                        <corpo> le disposizioni tecniche da inserire nel regolamento interno di cui all'<rif xlink:href="#art14">articolo 14</rif>;</corpo>
+                    </el>
+                    <el id="art15-com1-leti">
+                        <num>  
+ 
+i)</num>
+                        <corpo> le deroghe per situazioni specifiche.  
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>Art. 16 </num>
+                <rubrica>
+ 
+(Sanzioni amministrative) 
+ </rubrica>
+                <comma id="art16-com1">
+                    <num>
+1.</num>
+                    <corpo> Fatti salvi i poteri degli ufficiali e degli agenti di polizia giudiziaria, i Comuni esercitano le funzioni amministrative, relativamente all'applicazione delle sanzioni per le violazioni delle norme prescritte dalla presente legge, sulla base dell'accertamento delle violazioni effettuato dalla A.S.Re.M. - Ufficio di igiene e sanitï¿½ pubblica territorialmente competente.  </corpo>
+                </comma>
+                <comma id="art16-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Ai fini dell'applicazione delle sanzioni amministrative, per quanto non diversamente stabilito dalla presente legge si applica la <rif xlink:href="urn:nir:stato:legge:1981-11-24;689">legge 24 novembre 1981, n. 689</rif>, capo I, sezione II, e successive modificazioni.  </corpo>
+                </comma>
+                <comma id="art16-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> La violazione delle disposizioni sulle comunicazioni di cui all'<rif xlink:href="#art7">articolo 7</rif> comporta l'applicazione della sanzione amministrativa da Euro 500,00 a Euro 2.000,00.  </corpo>
+                </comma>
+                <comma id="art16-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> La violazione delle disposizioni sulla nomina del responsabile della piscina o sull'individuazione dell'assistente ai bagnanti e dell'addetto agli impianti tecnologici di cui all'<rif xlink:href="#art8">articolo 8</rif> comporta l'applicazione della sanzione amministrativa da Euro 500,00 a Euro 1.500,00. La sanzione comporta l'immediata chiusura dell'impianto.  </corpo>
+                </comma>
+                <comma id="art16-com5">
+                    <num>
+ 
+5.</num>
+
+                    <corpo> La violazione delle disposizioni sui compiti del responsabile della piscina di cui all'<rif xlink:href="#art8-com2">articolo 8, comma 2</rif>, comporta l'applicazione della sanzione amministrativa da Euro 500,00 a Euro 3.000,00.  </corpo>
+                </comma>
+                <comma id="art16-com6">
+                    <num>
+ 
+6.</num>
+
+                    <corpo> La violazione dei requisiti strutturali di cui all'<rif
+                            xlink:href="#art10">articolo 10</rif> e al regolamento regionale di cui all'<rif xlink:href="#art15">articolo 15</rif> comporta l'applicazione della sanzione amministrativa da Euro 500,00 a Euro 3.000,00.  </corpo>
+                </comma>
+                <comma id="art16-com7">
+                    <num>
+ 
+7.</num>
+                    <corpo> La violazione delle disposizioni sulla redazione del documento di valutazione del rischio comporta l'applicazione della sanzione amministrativa da Euro 1.000,00 a Euro 3.000,00 e la chiusura dell'impianto fino alla redazione del documento.  </corpo>
+                </comma>
+                <comma id="art16-com8">
+                    <num>
+ 
+8.</num>
+
+                    <corpo> La violazione delle disposizioni sulla elaborazione e sulla tenuta degli ulteriori documenti necessari ai fini dei controlli interni, indicati nel regolamento regionale di cui all'<rif xlink:href="#art15">articolo 15</rif>, comporta l'applicazione della sanzione amministrativa da Euro 500,00 a Euro 2.000,00.  </corpo>
+                </comma>
+                <comma id="art16-com9">
+                    <num>
+ 
+9.</num>
+
+                    <corpo> La violazione del numero massimo di frequentatori e di bagnanti ammissibili, indicato nel regolamento regionale di cui all'<rif xlink:href="#art15">articolo 15</rif>, comporta l'applicazione della sanzione da Euro 500,00 a Euro 2.400,00 e la chiusura dell'attivitï¿½ balneare per un massimo di cinque giorni.  </corpo>
+                </comma>
+                <comma id="art16-com10">
+                    <num>
+ 
+10.</num>
+                    <corpo> La violazione delle disposizioni sui requisiti fisici, chimico-fisici, chimici e microbiologici delle acque utilizzate in vasca comporta l'applicazione della sanzione da Euro 500,00 a Euro 2.400,00 e la chiusura dell'attivitï¿½ balneare fino al ripristino delle condizioni la cui violazione ha comportato l'applicazione delle sanzioni.  </corpo>
+                </comma>
+                <comma id="art16-com11">
+                    <num>
+ 
+11.</num>
+                    <corpo> La violazione delle disposizioni sui requisiti igienico-ambientali concernenti le sostanze da impiegare per il trattamento dell'acqua comporta l'applicazione della sanzione da Euro 500,00 a Euro 2.400,00.  </corpo>
+                </comma>
+                <comma id="art16-com12">
+                    <num>
+ 
+12.</num>
+                    <corpo> La violazione delle disposizioni sui requisiti termoigrometrici e di ventilazione, illuminotecnici ed acustici dell'impianto comporta l'applicazione della sanzione da Euro 300,00 a Euro 1.000,00.  </corpo>
+                </comma>
+                <comma id="art16-com13">
+                    <num>
+ 
+13.</num>
+
+                    <corpo> La mancata adozione del regolamento interno di cui all'<rif xlink:href="#art14">articolo 14</rif> comporta l'applicazione della sanzione da Euro 300,00 a Euro 1.000,00.  </corpo>
+                </comma>
+                <comma id="art16-com14">
+                    <num>
+ 
+14.</num>
+
+                    <corpo> L'accertamento della mancanza dei materiali e delle attrezzature per le attivitï¿½ di primo soccorso indicati nel regolamento regionale di cui all'<rif xlink:href="#art15">articolo 15</rif> comporta l'applicazione della sanzione da Euro 300,00 a Euro 1.000,00.  </corpo>
+                </comma>
+                <comma id="art16-com15">
+                    <num>
+ 
+15.</num>
+                    <corpo> La recidiva delle violazioni di cui al presente articolo comporta l'applicazione della relativa sanzione amministrativa in misura non inferiore alla metï¿½ del massimo stabilito e la chiusura dell'attivitï¿½ balneare fino al ripristino delle condizioni stabilite dalla legge e dal regolamento.  </corpo>
+                </comma>
+                <comma id="art16-com16">
+                    <num>
+ 
+16.</num>
+                    <corpo> In ogni caso restano ferme le vigenti disposizioni relative all'adozione da parte dell'autoritï¿½ sanitaria di provvedimenti contingibili ed urgenti che si rendessero necessari a tutela della salute pubblica.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>Art. 17 </num>
+                <rubrica>
+ 
+(Norme transitorie)  
+ </rubrica>
+                <comma id="art17-com1">
+                    <num>
+1.</num>
+
+                    <corpo> I proprietari ed i responsabili delle piscine provvedono, entro tre anni dall'entrata in vigore della presente legge, ad adeguare le piscine esistenti alle prescrizioni sui requisiti strutturali di cui all'<rif
+                            xlink:href="#art10">articolo 10</rif> ed al regolamento regionale di cui all'<rif xlink:href="#art15">articolo 15</rif>.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>Art. 18 </num>
+                <rubrica>
+ 
+(Abrogazioni)  
+ </rubrica>
+                <comma id="art18-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod
+                                id="art18-com1-mod1"> A decorrere dalla data di entrata in vigore del regolamento regionale di cui all'<rif xlink:href="#art15">articolo 15</rif> sono abrogate tutte le norme regionali di contenuto difforme.  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art19">
+                <num>Art. 19 </num>
+                <rubrica>
+ 
+(Applicabilitï¿½ delle norme)  
+ </rubrica>
+                <comma id="art19-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Le disposizioni della presente legge si applicano dalla data di entrata in vigore del regolamento regionale di cui all'<rif xlink:href="#art15">articolo 15</rif>.  
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.  
+ 
+ 
+
+?>
+    </LeggeRegionale>
+</NIR>

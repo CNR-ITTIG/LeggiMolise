@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1972-03-31;3"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="06.consiglieri regionali e gruppi consiliari"/>
+                </materie>
+            </descrittori>
+        </meta><?error 06.Consiglieri regionali e gruppi consiliari 
+ 
+Bollettino 
+Bollettino Ufficiale Non Indicato 
+ 
+Oggetto 
+Consiglieri regionali - Indennit&#xE0; - Tipologia - Determinazione 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 16/1997 art. 9 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale  </tipoDoc>
+            <dataDoc norm="19720331">31 Marzo 1972</dataDoc>, n. <numDoc>3</numDoc>
+
+            <titoloDoc>Determinazione delle indennitï¿½ spettanti ai Consiglieri Regionali, a norma dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art10">articolo 10 dello Statuto</rif>. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 16/1997 art. 9</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

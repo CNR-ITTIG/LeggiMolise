@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19750127" num="4" tipo="BURM"/>
+                <entratainvigore norm="19750211"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1975-01-21;10"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="17.lavori pubblici e acquedotti"/>
+                </materie>
+            </descrittori>
+        </meta><?error 17.Lavori pubblici e acquedotti 
+ 
+Bollettino 
+Bollettino Ufficiale n. 04 del 27/01/75 
+ 
+Oggetto 
+Opere pubbliche di competenza degli enti locali - Esecuzione - Tipologia - Contributi - Erogazione - Disciplina 
+ 
+Abrogazioni 
+Abrogato art. 7 dalla legge n. 19/1979 art. 25 
+Abrogato art. 8 dalla legge n. 17/1975 art. 1 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 4/1986 art. 1 
+Modificato art. 2 dalla legge n. 41/1976 art. 4 
+Modificato art. 2 dalla legge n. 4/1986 art. 2 
+Modificato art. 10 dalla legge n. 17/1975 art. 2 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale  </tipoDoc>
+            <dataDoc norm="19750121">21 Gennaio 1975</dataDoc>, n. <numDoc>10</numDoc>
+            <titoloDoc>Norme per agevolare l'esecuzione di opere pubbliche di competenza degli enti locali. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo>
+Per la esecuzione delle opere pubbliche indicate nel <rif
+                            xlink:href="#art2">successivo articolo 2</rif> di interesse delle Province, dei Comuni e loro consorzi, delle Comunitï¿½ Montane, delle istituzioni pubbliche di   assistenza e loro consorzi anche se non previste dalla <rif
+                            xlink:href="urn:nir:stato:legge:1890-07-17;697">legge 17 luglio 1890, n.697</rif> 2 e successive modificazioni, nonchï¿½ di altri Enti senza finalitï¿½ di lucro, la Regione, per le materie trasferite ai sensi dell'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1972-01-15;8#art2">articolo 2 del D.P.R. 15 gennaio 1972, n.8</rif>, concede contributi annui costanti ovvero contributi in conto capitale sulla spesa riconosciuta ammissibile. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+                    <corpo>Le spese ammissibili a contributo sono, oltre quelle per lavori, anche quelle per espropriazioni, per revisione prezzi, per oneri fiscali, nonchï¿½ le spese per progettazione, direzione, sorveglianza, contabilitï¿½ e collaudo da determinarsi in base alle vigenti tariffe professionali. </corpo>
+                </comma>
+                <comma id="art1-com3">
+                    <num/>
+
+                    <corpo>Sono altresï¿½ ammissibili a contributo le spese per l'effettuazione di accertamenti e saggi di carattere geologico e geognostico, per studi, ricerche e prove di laboratorio relativi alle opere di cui al <rif xlink:href="#art2">successivo articolo 2</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <alinea>
+Le opere ammissibili a contributo sono le seguenti: 
+ 
+</alinea>
+                    <el id="art2-com1-leta">
+                        <num>a)</num>
+                        <corpo> costruzione, ammodernamento e sistemazione di strade provinciali e comunali classificate o classificabili tali. </corpo>
+                    </el>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+
+                    <corpo>b) costruzione, completamento, ampliamento e sistemazione degli acquedotti; 
+ 
+c) costruzione, completamento, ampliamento, sistemazione e miglioramento degli edifici destinati a ospedali, convalescienziari, luoghi di cura, ambulatori, nonchï¿½ di edifici destinati   all'assistenza della prima infanzia, al ricovero degli invalidi e vecchi indigenti ed in genere a finalitï¿½ di assistenza e beneficenza pubblica; 
+ 
+d) costruzione, completamento, ampliamento, adattamento e riattamento, miglioramento ed arredamento principale di edifici, comprese le palestre e gli impianti sportivi, destinati alle scuole   materne, elementari, secondarie ed artistiche; 
+ 
+e) costruzione, completamento, ampliamento, sistemazione e miglioramento, di fognature, impianti di depurazione delle acque, impianti di trattamento dei rifiuti solidi, mattatoi, cimiteri ed   altre opere igieniche; 
+ 
+f) costruzione, completamento, ampliamento, sistemazione e miglioramento di porti e approdi di seconda categoria dalla seconda classe in poi, anche se non classificati; 
+ 
+g) bcostruzione, completamento, ampliamento, sistemazione e miglioramento delle opere occorrenti per fornire di energia elettrica i Comuni e loro frazioni; 
+ 
+h) costruzione, completamento, ampliamento, miglioramento di sedi municipali; 
+ 
+i) costruzione, completamento, ampliamento, sistemazione e miglioramento di edifici pubblici di proprietï¿½ di, Province, Comuni ed Istituzioni pubbliche di assistenza e loro consorzi anche se non previste dalla <rif xlink:href="urn:nir:stato:legge:1890-07-17;6972">legge 17.7.1890, n. 6972</rif> e successive modificazioni; 
+ 
+l) costruzione, completamento, ampliamento, sistemazione e miglioramento delle opere destinate allo svolgimento di attivitï¿½ sportive, turistiche e termali. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+I contributi annui costanti vengono concessi nella misura percentuale necessaria a coprire tutte le spese per l'ammortamento del mutuo alle condizioni praticate dalla Cassa Depositi e Prestiti   all'atto della promessa. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <corpo>I contributi in conto capitale vengono concessi nella misura del 70% elevabile fino al 100% della spesa riconosciuta necessaria per la realizzazione delle opere per settori e per obiettivi fissati   in sede di bilancio di previsione. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo>
+I contributi in annualitï¿½ sono corrisposti direttamente agli istituti mutuanti ovvero agli enti interessati con decorrenza dalla data di inizio dell'ammortamento dei mutui. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num/>
+                    <corpo>I contributi in conto capitale sono corrisposti agli Enti concessionari sulla base degli stati di avanzamento dei lavori certificati dal direttore dei lavori stessi. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo>
+Le domande per la concessione dei contributi sono presentate nei modi e nei termini stabiliti dalla Giunta Regionale. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num/>
+                    <corpo>La Giunta propone al Consiglio regionale i programmi di ripartizione dei fondi disponibili. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num/>
+                    <corpo>Sulla base della delibera consiliare di approvazione il Presidente della Giunta formula la promessa di contributo ed indica i termini entro i quali l'Ente deve presentare a pena di decadenza la documentazione tecnico-amministrativa necessaria per la formale concessione del contributo. </corpo>
+                </comma>
+                <comma id="art5-com4">
+                    <num/>
+                    <corpo>La decadenza ï¿½ pronunciata con decreto del Presidente della Giunta. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo>
+L'approvazione dei progetti delle opere e la concessione dei relativi contributi hanno luogo con deliberazione della Giunta in conformitï¿½ ai programmi approvati dal Consiglio Regionale. </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num/>
+                    <corpo>L'approvazione dei progetti relativi alle opere ammesse a contributo equivale a dichiarazione di pubblica utilitï¿½, indifferibilitï¿½ ed urgenza delle opere stesse. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo>
+La Giunta, ai fini dell'accelerazione dei tempi di attuazione dei lavori, puï¿½ delegare, con propria deliberazione, l'Assessore competente per la gestione tecnico-amministrativa dei lavori. </corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num/>
+                    <corpo>Rimane comunque alla competenza della Giunta l'approvazione degli atti di collaudo. </corpo>
+                </comma>
+                <comma id="art7-com3">
+                    <num/>
+                    <corpo>La Giunta Regionale provvede alla vigilanza dei lavori per mezzo degli uffici tecnici competenti della Regione. </corpo>
+                </comma>
+                <comma id="art7-com4">
+                    <num/>
+
+                    <corpo>Si intendono sostituiti, nell'ambito delle funzioni trasferite dallo Stato alle Regioni, ai sensi del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1972-01-15;8">D.P.R. 15 gennaio 1972, n. 8</rif>, gli organi centrali e periferici dello Stato con gli organi della Regione in tutti i casi in cui le norme in vigore per i lavori pubblici facciano riferimento a funzioni amministrative degli organi e degli uffici centrali e periferici dello Stato. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <comma id="art8-com1">
+                    <num/>
+
+                    <corpo>
+Alle operazioni di mutui necessari per la realizzazione delle opere contemplate dalla presente legge non si applicano le limitazioni di cui agli articoli 299 e 300 del Testo Unico della legge comunale e provinciale, approvati con <rif xlink:href="urn:nir:stato:regio.decreto:1934-03-03;393">R.D. 3 marzo 1934, n. 393</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo>
+I mutui contratti per la realizzazione delle iniziative ammesse a contributo ai sensi degli articoli 1 e 2 della presente legge, possono essere garantiti, per capitali ed interessi, dalla Regione. </corpo>
+                </comma>
+                <comma id="art9-com2">
+                    <num/>
+                    <corpo>La concessione della garanzia ï¿½ disposta con delibera della Giunta Regionale su proposta dell'Assessore competente. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <comma id="art10-com1">
+                    <num/>
+
+                    <corpo>
+Agli oneri derivanti dall'attuazione della presente legge si fa fronte con i fondi iscritti negli appositi capitoli di bilancio dell'esercizio finanziario 1974 e nei capitoli corrispondenti per i successivi esercizi finanziari, da prelevare sui fondi assegnati alla Regione in base all'<rif xlink:href="urn:nir:stato:legge:1970-05-16;281#art9">articolo 9 della legge 16 maggio 1970, n. 281</rif>. </corpo>
+                </comma>
+                <comma id="art10-com2">
+                    <num/>
+                    <corpo>Le somme stanziate in bilancio, se non impegnate nell'anno di riferimento, possono essere utilizzate nei tre esercizi successivi. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+                <comma id="art11-com1">
+                    <num/>
+
+                    <corpo>
+I provvedimenti adottati in materia dopo il 1ï¿½ gennaio 1974 e prima dell'entrata in vigore della presente legge, potranno essere adeguati, con deliberazione della Giunta regionale, alle nuove   misure dei contributi previsti all'<rif xlink:href="#art3">articolo 3</rif>, se piï¿½ favorevoli. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12 </num>
+                <comma id="art12-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge ï¿½ dichiarata urgente ai sensi dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38-com2">articolo 38 -secondo comma- dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino   Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

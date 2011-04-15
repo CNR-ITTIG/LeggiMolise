@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19750419" num="34" tipo="BURM"/>
+                <entratainvigore norm="19750504"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1975-04-28;34"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="17.lavori pubblici e acquedotti"/>
+                </materie>
+            </descrittori>
+        </meta><?error 17.Lavori pubblici e acquedotti 
+ 
+Bollettino 
+Bollettino Ufficiale n. 34 del 19/04/75 
+ 
+Oggetto 
+Opere pubbliche di competenza della Regione e degli enti locali - Disciplina - Modifica 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19750428">28 Aprile 1975</dataDoc>, n. <numDoc>34</numDoc>
+            <titoloDoc>Modifiche alla legge regionale contenente: &lt;&lt;Norme per l'acceleramento del programma delle opere pubbliche di competenza della Regione e degli Enti Locali&gt;&gt;. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art1-com1-mod1">
+L'art. 12 della legge regionale approvata il 6 marzo 1975, concernente: &lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir1"
+                                tipo="parola">Norme per l'acceleramento del programma delle opere pubbliche di competenza della Regione e degli Enti locali</virgolette>&gt;&gt; ï¿½ sostituito dal seguente: 
+ 
+&lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir2" tipo="struttura"><?error Le spese derivanti dai contributi in annualit&#xE0; di cui al precedente articolo 2 sono imputate, per l'anno 1975, ai fondi di cui al Titolo II, Sezione V, Rubrica VI, Capitolo 1561, la cui denominazione viene cos&#xEC; modificata: 
+ 
+&lt;&lt;Contributi in annualit&#xE0; per la esecuzione dei piani di opere pubbliche di competenza degli Enti locali" con lo stanziamento di L.3.030.000.000. 
+ 
+Per gli anni successivi, si provveder&#xE0; con adeguati stanziamenti,  ai sensi dell'art. 10 della legge regionale 21 gennaio 1975, n. 10. 
+ 
+Agli stati di previsione del bilancio regionale per l'esercizio 1975, sono apportate le seguenti variazioni: 
+ 
+a) Stato di previsione delle entrate iscrizione al Titolo V del nuovo capitolo 360 con la denominazione "Mutui passivi per la esecuzione di opere pubbliche di competenza degli Enti locali" L. 6.000.000.000. 
+ 
+b) Stato di previsione della spesa 1) Al Titolo I, Rubrica VIII &#xE8; istituito il nuovo Capitolo 1195 con la denominazione: "Quota di interessi per ammortamento di mutui da contrarsi per l'esecuzione di opere pubbliche di competenza degli Enti locali", con uno stanziamento di L. 520 milioni ed al   Titolo III &#xE8; istituito il nuovo Capitolo 1715 con la denominazione: "Quote capitali ammortamento mutui per l'esecuzione di opere pubbliche di competenza di Enti locali" con un fondo di L. 21.000.000. 
+ 
+2) Al Titolo II, Sezione V, Rubrica VI &#xE8; istituito il Capitolo 1562 con la denominazione: "Contributi in conto capitale per la esecuzione dei piani di opere pubbliche di competenza degli Enti locali", di cui alla legge regionale 21 gennaio 1975, n.10, con una dotazione di L.9.000.000.000. 
+ 
+3) Al Titolo III, Categoria I, Capitolo 1718 "Fondo di rotazione per anticipazioni di cui al secondo comma dell'art. 6 della legge di acceleramento del programma delle opere pubbliche di competenza della Regione e degli Enti locali - 1975", con una dotazione di lire L.900.000.000. 
+ 
+All'onere derivante dalla presente legge, si fa fronte: 
+ 
+a) per L. 3.571 milioni con i fondi iscritti al Cap. 1561 del bilancio 1975; 
+ 
+b) per L. 6.000 milioni con i proventi dei mutui da contrarsi ai sensi dell'art. 10 della presente legge; 
+ 
+c) per L. 3.900 milioni con i fondi del bilancio 1974 di cui all'art. 10 della legge regionale 21 gennaio 1975, n.10, ai sensi della legge 27 febbraio 1955, n. 64&gt;&gt;. 
+ 
+?>
+                                <articolo id="art0">
+                                    <num>Art. 2 </num>
+                                    <rubrica/>
+                                    <comma id="art0-com1">
+                                    <num/>
+
+                                    <corpo>
+La presente legge ï¿½ dichiarata urgente ai sensi del <rif
+                                    xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">secondo comma dell'articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+ 
+ï¿½ fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette><?error Marker Warning 106?>
+                        </mod>
+                    </corpo>
+                </comma>
+            </articolo><?error Marker Warning 105?>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

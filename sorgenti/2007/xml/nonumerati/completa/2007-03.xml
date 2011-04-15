@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20070201" num="4" tipo="BURM"/>
+                <entratainvigore norm="20070216"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2007-01-26;3"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 04 del 1 febbraio 2007 
+ 
+Oggetto 
+Consiglio regionale - Commissioni a carattere temporaneo - Istituzione della "Commissione per la cooperazione interregionale nell'area adriatica"  
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 16/2010 art. 6 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20070126">26 gennaio 2007</dataDoc>, n. <numDoc>3</numDoc>. 
+ 
+<titoloDoc>Istituzione della Commissione per la cooperazione interregionale nell'area adriatica. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 16/2010 art. 6</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19890401" num="6" tipo="BURM"/>
+                <entratainvigore norm="19890416"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1989-03-10;5"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 06 del 01/04/89 
+ 
+Oggetto 
+Regione - Personale inquadrato - Reinquadramento - Procedure 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19890310">10 Marzo 1989</dataDoc>, n. <numDoc>5</numDoc>
+            <titoloDoc>Reinquadramento del personale giï¿½ inquadrato alla Regione con leggi regionali: nn. 11/74, 12/74, 12/80, 1O/81, 26/81, 1/83, 3/85. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ART. 1</num>
+                <rubrica>: FINALITï¿½  DELLA LEGGE 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Il personale inquadrato alla Regione ai sensi delle leggi regionali nn. 11/74, 12/74, 12/80, 10/81, 26/81, 1/83 e 3/85 in alternativa all'inquadramento giï¿½ effettuato, ai sensi della <rif
+                            xlink:href="urn:nir:regione.molise:legge:1981;10">legge regionale 10/1981</rif>, puï¿½ a domanda, essere reinquadrato secondo i criteri di cui ai successivi  articoli della presente legge, in relazione ai titoli posseduti alla data del 31 gennaio 1981, come previsto dalla <rif
+                            xlink:href="urn:nir:regione.molise:legge:1983-01-03;1">legge regionale n. 1 del 3 gennaio 1983</rif>, <rif xlink:href="#art5">art. 5</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ART. 2</num>
+                <rubrica>: TITOLI VALUTABILI 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <alinea> In relazione alla finalitï¿½ di cui al precedente articolo i titoli valutabili sono i seguenti: 
+ 
+</alinea>
+                    <el id="art2-com1-leta">
+                        <num>a)</num>
+                        <corpo> anzianitï¿½ di servizio per un massimo di punti 48 
+ 
+b) titoli di studio per un massimo di punti 45 
+ 
+c) concorsi vinti o per i quali ï¿½ stata conseguita l'idoneitï¿½ per un massimo di punti 10 
+ 
+d) titoli di specializzazione per un massimo di punti 10. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>ART. 3</num>
+                <rubrica>: VALUTAZIONE DELL'ANZIANITï¿½ 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> Il servizio prestato presso l'Ente di provenienza e presso l'Amministrazione regionale viene valutato punti 1,50 per ogni trimestre. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il periodo massimo complessivo valutabile ï¿½ di anni 8. </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Non vengono valutate le frazioni di anno inferiori a quarantacinque giorni procedendo, in ogni altro caso, all'arrotondamento al trimestre per difetto o per eccesso. </corpo>
+                </comma>
+                <comma id="art3-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> Al punteggio conseguente all'applicazione dei precedenti commi saranno apportate le stesse riduzioni percentuali applicate all'anzianitï¿½ di servizo a norma dell'<rif xlink:href="urn:nir:regione.molise:legge:1974-08-31;11#art89">art. 89 della legge regionale n. 11 del 31 agosto 1974</rif> e successive modifiche ed integrazioni con riferimento alla qualifica o livello rivestito nell'ordinamento di provenienza in relazione al livello funzionale superiore   richiesto. </corpo>
+                </comma>
+                <comma id="art3-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> Per l'inquadramento al VII e VIII livello funzionale il servizio comunque prestato in carriera di concetto ï¿½ valutato al settantacinque per cento. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>ART. 4</num>
+                <rubrica>: VALUTAZIONE TITOLI DI STUDIO 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <alinea> I titoli di studio, conseguiti a norma dell'ordinamento scolastico italiano, sono valutati: 
+ 
+</alinea>
+                    <el id="art4-com1-leta">
+                        <num>a)</num>
+                        <corpo> diploma di laurea: punti 45;</corpo>
+                    </el>
+                    <el id="art4-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> diploma di scuola media di II grado: punti 30;</corpo>
+                    </el>
+                    <el id="art4-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> licenza di scuola media dell'obbligo: punti 20. </corpo>
+                    </el>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> ï¿½ valutabile un solo titolo di studio ed il titolo di studio superiore assorbe quello inferiore. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>ART. 5</num>
+                <rubrica>: VALUTAZIONE DEI CONCORSI SUPERATI 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <alinea> I concorsi superati valutabili sono soltanto quelli per esami o per titoli ed esami e sono valutati nella seguente misura: 
+ 
+</alinea>
+                    <el id="art5-com1-leta">
+                        <num>a)</num>
+                        <alinea> concorsi a posti per la carriera direttiva: 
+ 
+</alinea>
+                        <en id="art5-com1-leta-num1">
+                            <num>1)</num>
+                            <corpo> vincitore punti 5 
+ </corpo>
+                        </en>
+                    </el>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+2)</num>
+                    <alinea> idoneo punti 3 
+ 
+b) concorsi a posti per la carriera di concetto: 
+ 
+</alinea>
+                    <en id="art5-com2-num1">
+                        <num>1)</num>
+                        <corpo> vincitore punti 4 
+ 
+2) idoneo punti 2 
+ 
+c) concorsi a posti per la carriera esecutiva e della carriera ausiliaria ed operaia: 
+ 
+1) vincitore punti 3 
+ 
+2) idoneo punti 1,5. 
+ 
+2. Sono complessivamente valutabili solo due concorsi superati; nell'ipotesi di un numero superiore a due si valutano quelli piï¿½ favorevoli. 
+ 
+</corpo>
+                    </en><?error Marker Warning 101 (last comma:2 next:2)?>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>ART. 6</num>
+                <rubrica>: VALUTAZIONI DELLE SPECIALIZZAZIONI 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <alinea> I titoli di cui alla lettera d) del precedente articolo 2 sono i seguenti: certificazioni e/o attestazioni di specializzazione: 
+ 
+</alinea>
+                    <el id="art6-com1-leta">
+                        <num>a)</num>
+                        <corpo> corsi di studio annuali: punti 2 
+ 
+b) corsi di studio biennali: punti 4 
+ 
+c) corsi di studio triennali: punti 6 
+ 
+d) abilitazione all'esercizio della professione: punti 2 
+ 
+e) abilitazione all'insegnamento: punti 2. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>ART. 7</num>
+                <rubrica>: INQUADRAMENTO NEI LIVELLI 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Il personale che raggiunge un punteggio complessivo, risultante dalla somma dei punti dei titoli posseduti di cui all'<rif
+                            xlink:href="#art2">articolo 2</rif>, non inferiore al minimo indicato per ciascuno dei livelli funzionali sotto riportati, previsti dalla <rif xlink:href="urn:nir:regione.molise:legge:1980-05-08;12">legge regionale dell'8 maggio 1980 n. 12</rif>, ï¿½ ritenuto idoneo all'inquadramento nel livello medesimo: 
+ 
+livello II  punti 10 
+ 
+livello III punti 18 
+ 
+livello IV  punti 30 
+ 
+livello V punti 40 
+ 
+livello VI  punti 50 
+ 
+livello VII  punti 55 
+ 
+livello VIII punti 78. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>ART. 8</num>
+                <rubrica>: NORME DI ATTUAZIONE 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+                    <corpo> I benefici della presente legge non possono comportare l'attribuzione di piï¿½ di due passaggi di   livello. </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Per il personale inquadrato ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:1981-06-08;10">legge   regionale n. 10 dell'8 giugno 1981</rif>, nei livelli dal II al IV, non ï¿½ consentito piï¿½ di un passaggio di livello. </corpo>
+                </comma>
+                <comma id="art8-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Al personale proveniente dallo Stato, giï¿½ appartenente alla ex carriera di concetto, che in sede di applicazione della <rif
+                            xlink:href="urn:nir:stato:legge:1980-07-11;312">legge 11 luglio 1980, n. 312</rif>, <rif xlink:href="#art4">articolo 4</rif>, ï¿½ stato inquadrato nella settima qualifica funzionale, non ï¿½ consentito piï¿½ di un passaggio di livello. </corpo>
+                </comma>
+                <comma id="art8-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> L'accesso alla carriera direttiva non ï¿½ comunque consentito ai dipendenti che non posseggano il diploma di scuola media di II grado. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>ART. 9</num>
+                <rubrica>: DOMANDA DI REINQUADRAMENTO 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+                    <corpo> Il personale di cui all'<rif xlink:href="#art1">articolo 1</rif>, che ai sensi della presente legge ritenga di avere diritto ad un   inquadramento piï¿½ favorevole, ha facoltï¿½ di richiederlo a pena di decadenza, nel termine di trenta giorni dalla data d'entrata in vigore della stessa. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>ART. 10</num>
+                <rubrica>: DECORRENZA INQUADRAMENTO 
+ </rubrica>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+                    <corpo> Il reinquadramento, anche in sovrannumero, decorre agli effetti giuridici dalla data del primo inquadramento e agli effetti economici dalla data d'entrata in vigore della presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>ART. 11</num>
+                <rubrica>: NORMA FINANZIARIA 
+ </rubrica>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+                    <corpo> Il maggior onere occorrente per l'applicazione della presente legge, previsto in lire duecentomilioni, graverï¿½, in termini di competenza e di cassa, sullo stanziamento del Capitolo n. 4000 &lt;&lt;Stipendi ed altri assegni fissi al personale&gt;&gt; del bilancio per l'esercizio 1988. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>ART. 12</num>
+
+                <rubrica>: ENTRATA IN VIGORE 
+ 
+La presente legge ï¿½ dichiarata urgente ai sensi del <rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">II   comma dell'art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+ 
+ï¿½ fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art12-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

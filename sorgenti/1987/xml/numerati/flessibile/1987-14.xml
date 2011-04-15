@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19871115" num="21" tipo="BURM"/>
+                <entratainvigore norm="19871130"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1987-10-28;14"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xe0;"/>
+                </materie>
+            </descrittori>
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+ 
+Bollettino 
+Bollettino Ufficiale n. 21 del 15/11/87 
+ 
+Oggetto 
+Formazione professionale - Disciplina - Modifiche 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 10/1995 art. 38 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19871028">28 Ottobre 1987</dataDoc>, n. <numDoc>14</numDoc>
+            <titoloDoc>Modifiche ed integrazioni alla <rif
+                    xlink:href="urn:nir:regione.molise:legge:1983-01-17;3">legge regionale n. 3 del 17 gennaio 1983</rif> ed abrogazione della <rif xlink:href="urn:nir:regione.molise:legge:1985-04-19;8">legge regionale n. 8 del 19 aprile 1985</rif>. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 10/1995 art. 38</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

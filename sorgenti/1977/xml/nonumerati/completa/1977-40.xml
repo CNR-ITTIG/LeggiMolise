@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19771116" num="21" tipo="BURM"/>
+                <entratainvigore norm="19771201"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1977-11-09;40"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 21 del 16/11/77 
+ 
+Oggetto 
+Ente Regionale di Sviluppo agricolo per il Molise - Organizzazione - Funzionamento - Disciplina 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19771109">9 Novembre 1977</dataDoc>, n. <numDoc>40</numDoc>
+            <titoloDoc>Norme per l'organizzazione dell'Ente Regionale di Sviluppo agricolo per il Molise. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione>
+            <firma tipo="sottoscrizione">l'Amministrazione dell'Ente decide sull'opposizione, sentita </firma>
+            <firma tipo="sottoscrizione">la Commissione di cui all'articolo precedente. 
+
+</firma>
+        </conclusione>
+    </LeggeRegionale>
+</NIR>

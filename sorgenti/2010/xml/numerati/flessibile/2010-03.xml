@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20100126" num="2" tipo="BURM"/>
+                <entratainvigore norm="20100210"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2010-01-22;3"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="07.contabilit&amp;#xe0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
+                </materie>
+            </descrittori>
+        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 2 del 26 gennaio 2010. 
+ 
+Oggetto 
+Regione Molise - Legge finanziaria 2010 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 18 dalla legge n. 14/2010 art. 1 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20100122">22 gennaio 2010</dataDoc>, n. <numDoc>3</numDoc>. 
+ 
+<titoloDoc>Legge finanziaria regionale 2010.  
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <titolo id="tit1">
+                <num>TITOLO I  </num>
+                <rubrica>
+ 
+DI S POS I Z ION I GE N E R A L I  
+ 
+</rubrica>
+                <articolo id="art1">
+                    <num>Art. 1  </num>
+                    <rubrica>
+ 
+(Rifinanziamento di leggi regionali e  iscrizione di residui di stanziamento)  
+ </rubrica>
+                    <comma id="art1-com1">
+                        <num>
+1.</num>
+                        <corpo> ï¿½ autorizzato per l'esercizio finanziario 2010 il rifinanziamento delle leggi regionali di spesa relative a diversi settori di intervento, per gli importi indicati nella tabella "A" allegata alla presente legge. Per gli esercizi 2011 e 2012 la copertura finanziaria ï¿½ assicurata dagli stanziamenti iscritti nel bilancio pluriennale.  </corpo>
+                    </comma>
+                    <comma id="art1-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> ï¿½ autorizzata l'iscrizione, nella competenza e nella cassa dello stato di previsione della spesa del bilancio regionale per l'esercizio finanziario 2010, delle somme riferite all'anno 2008 costituenti residui di stanziamento, ai sensi dell'<rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art61">articolo 61 della legge regionale 7 maggio 2002, n. 4</rif> (Nuovo ordinamento contabile della Regione Molise).  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit2">
+                <num>TITOLO II  </num>
+                <rubrica>
+ 
+DISPOSIZIONI DI NATURA FINANZIARIA E PATRIMONIALE 
+ 
+</rubrica>
+                <articolo id="art2">
+                    <num>Art. 2  </num>
+                    <rubrica>
+ 
+(Disposizioni per le imprese creditrici verso la Regione ed altri enti e per le imprese debitrici verso il sistema creditizio)  
+ </rubrica>
+                    <comma id="art2-com1">
+                        <num>
+1.</num>
+
+                        <alinea> Al fine di conseguire un pronto ed efficace smobilizzo dei crediti vantati dalle imprese verso la Regione Molise e verso gli enti pubblici da questa finanziati, nell'ambito delle operazioni previste dal piano Anticrisi ed in linea con i contenuti dell'<rif
+                                xlink:href="urn:nir:stato:decreto.legge:2008-11-29;185#art9-com3bis">articolo 9, comma 3-bis, del decreto-legge 29 novembre 2008, n. 185</rif>, convertito, con modificazioni, dalla <rif xlink:href="urn:nir:stato:legge:2009-01-28;2">legge 28 gennaio 2009, n. 2</rif>, la Giunta regionale definisce con proprio atto, entro trenta giorni dall'entrata in vigore della presente legge, disposizioni riferite a:  
+ 
+</alinea>
+                        <el id="art2-com1-leta">
+                            <num>a)</num>
+                            <corpo> rilascio della certificazione del credito in coerenza con lo schema previsto dal Decreto del Ministro dell'Economia del 19 maggio 2009;</corpo>
+                        </el>
+                        <el id="art2-com1-letb">
+                            <num>  
+ 
+b)</num>
+                            <corpo> validitï¿½ ed utilizzo della certificazione medesima;</corpo>
+                        </el>
+                        <el id="art2-com1-letc">
+                            <num>  
+ 
+c)</num>
+                            <corpo> accordi con gli Istituti previdenziali ed assicurativi INPS, INAIL, Cassa Edile nonchï¿½ con l'Agenzia delle Entrate per la definizione delle procedure che permettano eventuali compensazioni di debiti contributivi da parte di soggetti debitori con i crediti vantati verso l'Amministrazione regionale;</corpo>
+                        </el>
+                        <el id="art2-com1-letd">
+                            <num>  
+ 
+d)</num>
+                            <corpo> modalitï¿½ e termini dell'anticipazione dei crediti. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art2-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Al fine di dare supporto alle aziende in difficoltï¿½ nell'attuale congiuntura, la Regione Molise aderisce alle previsioni dell'Avviso comune per la sospensione dei debiti delle piccole e medie imprese verso il sistema creditizio, sottoscritto il 3 agosto 2009 tra il Ministro dell'Economia, l'Associazione Bancaria Italiana e le altre associazioni di rappresentanza delle imprese. L'ambito di applicazione dell'Avviso ï¿½ esteso anche ai finanziamenti ed operazioni creditizie e finanziarie con agevolazioni nella forma del contributo in conto interessi.  </corpo>
+                    </comma>
+                    <comma id="art2-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> La Giunta regionale definisce, entro trenta giorni dall'entrata in vigore della presente legge, apposito atto con le condizioni e le modalitï¿½ di attuazione delle disposizioni di cui ai commi precedenti e verifica, sempre nell'ambito delle finalitï¿½ e dello spirito dell'Avviso, la fattibilitï¿½ di un'autonoma iniziativa di sospensione dei debiti delle piccole e medie imprese, anche dell'artigianato e del commercio, riferibili a interventi o leggi regionali di incentivazione, finanziati esclusivamente con risorse regionali.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art3">
+                    <num>Art. 3  </num>
+                    <rubrica>
+ 
+(Beni trasferiti alla Regione con la cessazione dell'AsMez)  
+ </rubrica>
+                    <comma id="art3-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Gli immobili pervenuti alla Regione dalla AsMez, ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1976-05-02;183#art6-com5">articolo 6, quinto comma, della legge 2 maggio 1976, n. 183</rif>, destinati all'uso di edilizia scolastica per l'educazione dell'infanzia in etï¿½ prescolare, sono trasferiti ai Comuni nei cui territori sono ubicati, nello stato in cui si trovano alla data di entrata in vigore della presente legge.  </corpo>
+                    </comma>
+                    <comma id="art3-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> I Comuni conservano agli immobili la destinazione originaria.  </corpo>
+                    </comma>
+                    <comma id="art3-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Ove l'uso al quale i beni sono destinati non sia possibile, per il decremento della popolazione in etï¿½ scolare o per altre oggettive ragioni, i Comuni destinano gli immobili in via prioritaria ad altri servizi per l'educazione, anche non scolastica e, subordinatamente, a servizi sociali.  </corpo>
+                    </comma>
+                    <comma id="art3-com4">
+                        <num>
+ 
+4.</num>
+
+                        <corpo> I soggetti diversi dai Comuni che, in virtï¿½ di valido ed efficace atto concessorio o di provvedimento di pari effetto, detengono gli immobili di cui al <rif xlink:href="#art3-com1">comma 1</rif>, utilizzandoli ai fini di educazione dell'infanzia in etï¿½ prescolare, ne conservano la detenzione e l'uso sino al venir meno dello scopo per il quale il bene ï¿½ stato loro affidato.  </corpo>
+                    </comma>
+                    <comma id="art3-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> Le competenti strutture regionali provvedono, entro sei mesi dall'entrata in vigore della presente legge, alla ricognizione della consistenza e dello stato dei beni, nonchï¿½ alle formalitï¿½ di legge per il trasferimento, a tutti gli effetti, della proprietï¿½ in capo ai destinatari.  </corpo>
+                    </comma>
+                    <comma id="art3-com6">
+                        <num>
+ 
+6.</num>
+                        <alinea> Entro il medesimo termine, la Giunta regionale provede, mediante l'approvazione di appositi elenchi, alla distinta individuazione, nell'ambito delle altre opere realizzate dalla AsMez e trasferite alla Regione:  
+ 
+</alinea>
+                        <el id="art3-com6-leta">
+                            <num>a)</num>
+
+                            <corpo> delle opere che possono essere oggetto di passaggio ai Comuni, ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1976-05-02;183#art6">articolo 6 della legge 2 maggio 1976, n. 183</rif>;</corpo>
+                        </el>
+                        <el id="art3-com6-letb">
+                            <num>  
+ 
+b)</num>
+                            <corpo> delle opere che non sono suscettibili di alcuna utilizzazione, per fatiscenza, obsolescenza o per essere state sostituite con adeguate nuove opere;</corpo>
+                        </el>
+                        <el id="art3-com6-letc">
+                            <num>  
+ 
+c)</num>
+                            <corpo> delle aree derivanti da reliquati di strade o di opere idrauliche non piï¿½ ad uso pubblico.  </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art3-com7">
+                        <num>
+ 
+7.</num>
+                        <corpo> I beni di cui al <rif xlink:href="#art3-com6-leta">comma 6, lettera a)</rif>, sono trasferiti ai Comuni nello stato in cui si trovano alla data di approvazione del relativo elenco.  </corpo>
+                    </comma>
+                    <comma id="art3-com8">
+                        <num>
+ 
+8.</num>
+                        <corpo> I beni di cui al <rif xlink:href="#art3-com6">comma 6</rif>, lettere b) e c), possono essere ceduti a prezzo di mercato ai Comuni nel cui territorio sono ubicati, nel rispetto del diritto di prelazione o, in mancanza di esercizio di quest'ultimo, a terzi interessati, secondo procedure e modalitï¿½ definite con deliberazione della Giunta regionale.  </corpo>
+                    </comma>
+                    <comma id="art3-com9">
+                        <num>
+ 
+9.</num>
+                        <corpo> Tutti gli oneri relativi alle operazioni di trasferimento o di cessione dei beni di cui al presente articolo, ivi compresi gli eventuali oneri relativi alla stima del valore dei beni, sono a carico dei beneficiari.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art4">
+                    <num>Art. 4  </num>
+                    <rubrica>
+ 
+(Societï¿½ partecipate dalla Regione)  
+ </rubrica>
+                    <comma id="art4-com1">
+                        <num>
+1.</num>
+                        <corpo>
+                            <mod id="art4-com1-mod1"> Al <rif
+                                    xlink:href="urn:nir:regione.molise:legge:2009-01-13;1#art5-com3">comma 3 dell'articolo 5 della legge regionale 13 gennaio 2009, n. 1</rif>, dopo la parola "<virgolette
+                                    id="art4-com1-mod1-vir2">risanamento</virgolette>" sono aggiunte le parole "<virgolette id="art4-com1-mod1-vir3">, nonchï¿½ statuti e relative modifiche</virgolette>".  </mod>
+                        </corpo>
+                    </comma>
+                    <comma id="art4-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Le societï¿½ di capitali, i consorzi e le societï¿½ consortili a capitale interamente pubblico o misto, partecipate direttamente o indirettamente dalla Regione Molise, che svolgono in via prevalente attivitï¿½ di produzione di beni e servizi strumentali rispetto alle finalitï¿½ istituzionali della Regione medesima, devono operare unicamente con la Regione Molise e non possono svolgere prestazioni a favore di altri soggetti pubblici o privati, nï¿½ in affidamento diretto nï¿½ mediante gara e non possono partecipare ad altre societï¿½ o enti aventi sede nel territorio nazionale, fatta eccezione per quelle che svolgono attivitï¿½ di intermediazione finanziaria previste dal testo unico di cui al <rif xlink:href="urn:nir:stato:decreto.legislativo:1993-09-01;385">decreto legislativo 1 settembre 1993, n. 385</rif>. Al fine di assicurare l'effettivitï¿½ delle disposizioni che precedono, la Giunta regionale ï¿½ delegata a predisporre idonei interventi che possono, alternativamente, prevedere la configurazione di tali societï¿½ in societï¿½ domestiche o in "house providing", previa trasformazione eterogenea dei consorzi e delle societï¿½ consortili, di cui al presente comma, in societï¿½ lucrative, ovvero la cessione a terzi della partecipazione detenuta in tali societï¿½ o, infine, l'esercizio del diritto di recesso per la totalitï¿½ della partecipazione detenuta.  </corpo>
+                    </comma>
+                    <comma id="art4-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> A decorrere dal 1ï¿½ gennaio 2010 le attivitï¿½ di direzione, indirizzo e controllo delle societï¿½ partecipate, direttamente o indirettamente dalla Regione, sono di competenza del Servizio Amministrazione beni demaniali e patrimoniali. Il Servizio esercita per le partecipate in house le funzioni di controllo analogo.  </corpo>
+                    </comma>
+                    <comma id="art4-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> ï¿½ autorizzato il trasferimento alla UPB n. 193 di tutti i finanziamenti destinati alle partecipate regionali in house. Per gli interventi finanziari regionali giï¿½ attivati dalla Finmolise S.p.A. ï¿½ autorizzata l'iscrizione, per oneri 2010 e pregressi, della somma di euro 3.917.085.66, oggetto di recupero, che pertanto ï¿½ iiscritta per pari importo nella parte dell'entrata, alla UPB n. 069.  </corpo>
+                    </comma>
+                    <comma id="art4-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> Il Direttore generale e i dirigenti regionali, prima di procedere a percorsi di affidamento di servizi all'esterno, devono accertarsi della disponibilitï¿½ all'offerta da parte delle societï¿½ regionali. Solo ad accertamento avvenuto con esito negativo e previa motivata giustificazione, si puï¿½ procedere con affidamento all'esterno.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art5">
+                    <num>Art. 5  </num>
+                    <rubrica>
+ 
+(Patrimonio dell'ASReM)  
+ </rubrica>
+                    <comma id="art5-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Il patrimonio dell'ASReM, ai sensi del <rif xlink:href="urn:nir:stato:decreto.legislativo:1999-06-19;229">decreto legislativo 19 giugno 1999, n. 229</rif>, e successive modificazioni ed integrazioni, ï¿½ costituito da tutti i beni mobili e immobili ad essa appartenenti o trasferiti, in virtï¿½ di leggi o di provvedimenti amministrativi, ivi compresi i beni, giï¿½ comunali, destinati ad attivitï¿½ sanitaria delle ex Unitï¿½ ed Aziende sanitarie locali.  </corpo>
+                    </comma>
+                    <comma id="art5-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Al fine di semplificare le procedure gestionali e di reperire risorse per procedere anche alla copertura dell'eventuale disavanzo del sistema sanitario regionale, l'ASReM, entro novanta giorni dall'approvazione della presente legge, provvede a redigere ed inviare alla Regione l'elenco di tutti i beni immobili di cui al <rif xlink:href="#art5-com1">comma 1</rif> ed a perfezionare tutti gli adempimenti connessi.  </corpo>
+                    </comma>
+                    <comma id="art5-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> La Regione, entro i successivi sessanta giorni, approva con deliberazione della Giunta regionale il programma di valorizzazione del patrimonio immobiliare, autorizzando anche l'eventuale alienazione a terzi di immobili non utilizzabili per finalitï¿½ sanitarie.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art6">
+                    <num>Art. 6  </num>
+                    <rubrica>
+ 
+(Indebitamento)  
+ </rubrica>
+                    <comma id="art6-com1">
+                        <num>
+1.</num>
+                        <corpo> Nello stato di previsione delle entrate del bilancio regionale, alla UPB n. 230, ï¿½ iscritto un mutuo di 26,5 milioni di euro destinato alla copertura finanziaria delle spese di investimento descritte nella tabella n. 6 allegata al bilancio di previsione 2010.  </corpo>
+                    </comma>
+                    <comma id="art6-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> L'utilizzo delle somme ï¿½ subordinato all'effettiva con trazione del mutuo.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit3">
+                <num>TITOLO III  </num>
+                <rubrica>
+ 
+DISPOSIZIONI IN MATERIA ECONOMICO-PRODUTTIVA 
+ 
+</rubrica>
+                <articolo id="art7">
+                    <num>Art. 7  </num>
+                    <rubrica>
+ 
+(Rifinanziamento della <rif xlink:href="urn:nir:regione.molise:legge:2000-04-26;32">legge regionale 26 aprile 2000, n. 32</rif>)  
+ </rubrica>
+                    <comma id="art7-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Al fine di favorire interventi regionali finalizzati al superamento della congiuntura economica in atto ed in attuazione delle disposizioni di cui alla <rif xlink:href="urn:nir:regione.molise:legge:2000-04-26;32">legge regionale 26 aprile 2000, n. 32</rif> (Riordino della disciplina in materia di artigianato), la Giunta regionale ï¿½ autorizzata a stipulare apposita convenzione con Artigiancassa S.p.A. e con le cooperative artigiane di garanzia per incentivi in conto interessi.  </corpo>
+                    </comma>
+                    <comma id="art7-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Nello stato di previsione della spesa del bilancio regionale per l'esercizio finanziario 2010, alla UPB n. 211, sono iscritti i finanziamenti, per la somma complessiva di euro 4.862.489,00, alimentati con le risorse liberate del POR Molise 2000/2006 rinvenienti dai disimpegni di pari importo che saranno effettuati a cura dell'autoritï¿½ di gestione del POR Molise 2000/ 2006.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art8">
+                    <num>Art. 8  </num>
+                    <rubrica>
+ 
+(Patrimonializzazione del "Fidi Molise")  
+ </rubrica>
+                    <comma id="art8-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Al fine di attuare la patrimonializzazione del Consorzio regionale di garanzia fidi di secondo grado (Fidi Molise), come previsto dalla <rif xlink:href="urn:nir:regione.molise:legge:2008-05-09;12">legge regionale 9 maggio 2008, n. 12</rif>, favorendo l'avvio delle attivitï¿½, in una logica di superamento della congiuntura economica, ï¿½ autorizzata l'iscrizione della somma di euro 250.000, alimentata con le risorse liberate del POR Molise 2000/2006 rinvenienti dai disimpegni di pari importo che saranno effettuati a cura dell'autoritï¿½ di gestione del POR Molise 2000/2006, nella UPB n. 106, capitolo 13480.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit4">
+                <num>TITOLO IV  </num>
+                <rubrica>
+ 
+DISPOSIZIONI CONCERNENTI LE COMUNITï¿½ MONTANE 
+ 
+</rubrica>
+                <articolo id="art9">
+                    <num>Art. 9  </num>
+
+                    <rubrica>
+ 
+(Provvedimenti urgenti per le Comunitï¿½ montane sottoposte a riordino ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:2008-06-27;19">legge regionale 27 giugno 2008, n. 19</rif>)  
+ </rubrica>
+                    <comma id="art9-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Al fine di consentire un piï¿½ efficace processo di razionalizzazione della gestione e delle attivitï¿½ delle comunitï¿½ montane sottoposte a riordino ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:2008-06-27;19">legge regionale 27 giugno 2008, n. 19</rif>, la costituzione dei nuovi enti comunitari ï¿½ sospesa sino al 31 ottobre 2010. </corpo>
+                    </comma>
+                    <comma id="art9-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Sino alla data di cui al <rif
+                                xlink:href="#art9-com1">comma 1</rif> ï¿½ altresï¿½ sospeso l'insediamento degli organi rappresentativi dei nuovi enti comunitari, anche se giï¿½ in condizione di operare ai sensi dell'<rif xlink:href="urn:nir:regione.molise:legge:2008;19#art9-com5">articolo 9, comma 5, secondo periodo, della legge regionale n. 19/2008</rif>.  </corpo>
+                    </comma>
+                    <comma id="art9-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Entro trenta giorni dall'entrata in vigore della presente legge, il Presidente della Giunta regionale, con proprio decreto, nomina, per ciascuno dei dieci enti comunitari in via di estinzione, un amministratore straordinario dotato di pieni poteri in relazione alle attivitï¿½ afferenti all'esercizio dei compiti e delle funzioni dell'ente, alle attivitï¿½ gestionali ed ai relativi atti contabili, ivi compresi il bilancio, le relative variazioni ed il rendiconto. I compensi degli amministratori straordinari sono stabiliti nello stesso decreto di nomina e sono a carico dei bilanci degli enti comunitari.  </corpo>
+                    </comma>
+                    <comma id="art9-com4">
+                        <num>
+ 
+4.</num>
+
+                        <corpo> L'amministratore straordinario, nei termini e secondo le modalitï¿½ stabiliti nel decreto di nomina, predispone un piano per il subentro nei rapporti attivi e passivi, con riguardo alla situazione patrimoniale dell'ente, alle risorse umane, finanziarie e strumentali, al ripiano dell'eventuale indebitamento pregesso con i mezzi consentiti dalla legge, nonchï¿½ a funzioni e compiti amministrativi di competenza dell'ente stesso. Il piano ricomprende la ricognizione del contenzioso amministrativo e civile in atto, con la valutazione, per ciascuna lite in corso, del rischio di soccombenza e della relativa potenziale incidenza sullo stato del debito dell'ente nonchï¿½ del grado di convenienza dell'eventuale componimento transattivo. Il piano ricomprende, altresï¿½, anche con riferimento all'<rif xlink:href="urn:nir:regione.molise:legge:2008-06-27;19#art10">articolo 10 della legge regionale 27 giugno 2008, n. 19</rif>, la ricognizione del personale in servizio presso l'ente nonchï¿½ la stima del fabbisogno di risorse umane, per qualifiche e profili, operata tenendo conto delle attivitï¿½ sopprimibili o riducibili e degli accorpamenti organizzativi connessi alla riduzione numerica degli enti comunitari. Ai fini delle predette valutazioni di fabbisogno gli amministratori straordinari operano, ove occorra, in collaborazione tra loro.  </corpo>
+                    </comma>
+                    <comma id="art9-com5">
+                        <num>
+ 
+5.</num>
+
+                        <corpo> Entro il 30 giugno 2010, la Giunta regionale approva i piani di cui al <rif xlink:href="#art9-com4">comma 4</rif> e propone al Consiglio regionale un provvedimento legislativo concernente le modalitï¿½ della successione a ciascuno degli enti comunitari in via di estinzione ed i soggetti destinatari, in tutto o in parte, dei rispettivi complessi di funzioni, compiti, risorse e rapporti attivi e passivi. </corpo>
+                    </comma>
+                    <comma id="art9-com6">
+                        <num>
+ 
+6.</num>
+                        <corpo> Nello stesso termine di cui al <rif xlink:href="#art9-com3">comma 3</rif>, il Presidente della Giunta regionale, su conforme deliberazione della Giunta, emana una direttiva che disciplina in dettaglio l'attivitï¿½ degli amministratori straordinari nominati in attuazione del presente articolo.  </corpo>
+                    </comma>
+                    <comma id="art9-com7">
+                        <num>
+ 
+7.</num>
+
+                        <corpo> Per il coordinamento delle attivitï¿½ degli amministratori straordinari e la valutazione tecnica dei piani di cui al <rif
+                                xlink:href="#art9-com4">comma 4</rif>, e piï¿½ in generale per le relazioni Regione-Enti Locali, ï¿½ costituita, presso la presidenza della Giunta regionale, una cabina di regia. La cabina di regia ï¿½ coordinata dal Presidente della Giunta regionale, o da un suo delegato, ed ï¿½ composta da non piï¿½ di cinque esperti nelle materie delle autonomie locali, della gestione delle risorse umane e della gestione finanziaria e contabile, scelti tra dirigenti regionali e tra soggetti esterni all'amministrazione regionale, e da una segreteria tecnica con compiti di supporto ed assistenza. A capo della segreteria tecnica ï¿½ nominato un dirigente della Regione o un dirigente di enti locale operante nel territorio regionale. Il capo della segreteria tecnica, qualora dirigente di ente locale, ï¿½ assunto con contratto a tempo determinato ai sensi dell'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1997-04-08;7#art20">articolo 20 della legge regionale 8 aprile 1997, n. 7</rif>, anche in deroga alle disposizioni relative alle disponibilitï¿½ del posto in organico, ed ï¿½ soggetto all'integrale disciplina della funzione dirigenziale prevista dalla richiamata <rif
+                                xlink:href="urn:nir:regione.molise:legge:1997;7">legge regionale n. 7/1997</rif>. Il contratto si risolve contestualmente alla cessazione delle funzioni della cabina di regia. Spetta al Presidente della Giunta regionale, con proprio decreto, la nomina dei componenti della cabina di regia, della segreteria tecnica e la determinazione dei compensi dovuti ai componenti estranei all'amministrazione regionale. La cabina di regia interloquisce direttamente con gli amministratori straordinari degli enti comunitari, fornendo loro indicazioni e pareri circa l'applicazione delle disposizioni del presente articolo e della direttiva di cui al <rif
+                                xlink:href="#art9-com6">comma 6</rif>, promuove l'adozione di protocolli d'intesa tra la Regione e gli enti locali anche in materia di conferimento di funzioni e compiti amministrativi, formula proposte tecniche per l'individuazione dei livelli territoriali ottimali di cui all'articolo 33 del Testo unico delle leggi sull'ordinamento degli enti locali emanato con <rif xlink:href="urn:nir:stato:decreto.legislativo:2000-08-18;267">decreto legislativo 18 agosto 2000, n. 267</rif>, e formula pareri, ove richiesti dal Presidente della Giunta regionale.  </corpo>
+                    </comma>
+                    <comma id="art9-com8">
+                        <num>
+ 
+8.</num>
+                        <corpo> Sino alla data di cui al <rif
+                                xlink:href="#art9-com1">comma 1</rif>, gli enti comunitari sottoposti al riordino di cui alla <rif xlink:href="urn:nir:regione.molise:legge:2008;19">legge regionale n. 19/ 2008</rif> non possono effettuare nuove assunzioni di personale nï¿½ disporre investimenti di qualsiasi natura.  </corpo>
+                    </comma>
+                    <comma id="art9-com9">
+                        <num>
+ 
+9.</num>
+
+                        <corpo> Per il sostegno alla gestione delle Comunitï¿½ montane in via di estinzione ï¿½ costituito per l'esercizio finanziario 2010 un apposito fondo, nello stato di previsione della spesa del bilancio regionale, della consistenza di un milione di euro. Il fondo ï¿½ alimentato con risorse proprie della Regione. Sono, altresï¿½, assegnate alle Comunitï¿½ montane di cui ai commi che precedono, per l'esercizio 2010, le risorse ancora disponibili e non assegnate con riferimento alla <rif
+                                xlink:href="urn:nir:stato:legge:1994-01-31;97">legge 31 gennaio 1994, n. 97</rif>, nonchï¿½ quelle di cui alla <rif
+                                xlink:href="urn:nir:regione.molise:legge:2004-12-03;32">legge regionale 3 dicembre 2004, n. 32</rif>, ed altre disponibilitï¿½ iscritte nel bilancio regionale nella gestione dei residui passivi. Le risorse di cui al presente comma sono destinate alla copertura delle spese correnti, limitatamente alle spese per il personale ed a quelle strettamente di gestione degli uffici e dei servizi, e sono ripartite tra i dieci enti comunitari in via di estinzione secondo i criteri che la Giunta regionale provvede a stabilire nella direttiva di cui al <rif xlink:href="#art9-com6">comma 6</rif>.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit5">
+                <num>TITOLO V  </num>
+                <rubrica>
+ 
+INTERVENTI DI RAZIONALIZZAZIONE DEL TRASPORTO PUBBLICO LOCALE 
+ 
+</rubrica>
+                <articolo id="art10">
+                    <num>Art. 10  </num>
+                    <rubrica>
+ 
+(Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;19">legge regionale 24 marzo 2000, n. 19</rif>)  
+ </rubrica>
+                    <comma id="art10-com1">
+                        <num>
+1.</num>
+                        <alinea> All'<rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;19#art5">articolo 5 della legge regionale 24 marzo 2000, n. 19</rif> (Norme integrative della disciplina in materia di trasporto pubblico locale), e successive modificazioni ed integrazioni, sono apportate le seguenti modifiche:  
+ 
+</alinea>
+                        <el id="art10-com1-leta">
+                            <num>a)</num>
+                            <corpo>
+                                <mod
+                                    id="art10-com1-leta-mod2"> la lettera d) del comma 1 ï¿½ sostituita dalla seguente:  
+ 
+"<virgolette
+                                    id="art10-com1-leta-mod2-vir5" tipo="struttura">
+                                    <el id="art10-com1-leta-mod2-vir5-letc">
+                                    <num>d)</num>
+                                    <corpo>individua la rete dei servizi minimi del trasporto pubblico locale di area extraurbana ed urbana, tenuto conto degli elementi elencati nell'articolo 11, comma 1, lettere a), b), c), d), e) ed f) della presente legge</corpo>
+                                    </el>
+                                    </virgolette>";</mod>
+                            </corpo>
+                        </el>
+                        <el id="art10-com1-letb">
+                            <num>  
+ 
+b)</num>
+                            <corpo>
+                                <mod id="art10-com1-letb-mod3"> il <rif
+                                    xlink:href="#art10-com2">comma 2</rif> ï¿½ sostituito dal seguente:  
+ 
+"<virgolette
+                                    id="art10-com1-letb-mod3-vir6" tipo="struttura">
+                                    <comma id="art10-com1-letb-mod3-vir6-com0">
+                                    <num>2.</num>
+
+                                    <corpo> Gli atti e i provvedimenti concernenti l'esercizio delle funzioni di cui alle lettere a), b), c), e) del precedente comma sono adottati dal Consiglio regionale su proposta della Giunta regionale. Per le restanti funzioni di cui alle altre lettere dello stesso comma e per i compiti delegati dallo Stato ai sensi degli articoli 9 e 10 del <rif xlink:href="urn:nir:stato:decreto.legislativo:1997;422">decreto legislativo n. 422/1997</rif>, ï¿½ delegata la Giunta regionale;</corpo>
+                                    </comma>
+                                    </virgolette>".  </mod>
+                            </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art10-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo>
+                            <mod id="art10-com2-mod4"> All'<rif
+                                    xlink:href="urn:nir:regione.molise:legge:2000;19#art7">articolo 7 della legge regionale n. 19/2000</rif>, la <rif
+                                    xlink:href="#art10-com1-leta">lettera a) del comma 1</rif> ï¿½ sostituita dalla seguente: "<virgolette
+                                    id="art10-com2-mod4-vir7" tipo="struttura">
+                                    <el id="art10-com2-mod4-vir7-letc">
+                                    <num>a)</num>
+                                    <corpo> l'organizzazione e la gestione dei servizi di trasporto pubblico locale di area urbana, sia della rete dei servizi minimi essenziali a carico del bilancio regionale, individuata dalla Giunta regionale in conformitï¿½ all'articolo 5, comma 1, lett. d), della presente legge, sia degli eventuali servizi aggiuntivi a carico del bilancio comunale;</corpo>
+                                    </el>
+                                </virgolette>".  </mod>
+                        </corpo>
+                    </comma>
+                    <comma id="art10-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo>
+                            <mod id="art10-com3-mod5"> All'<rif
+                                    xlink:href="urn:nir:regione.molise:legge:2000;19#art11">articolo 11 della legge regionale n. 19/2000</rif>, il <rif
+                                    xlink:href="#art10-com1">comma 1</rif> ï¿½ sostituito dal seguente:  
+ 
+"<virgolette
+                                    id="art10-com3-mod5-vir8" tipo="struttura">
+                                    <comma id="art10-com3-mod5-vir8-com0">
+                                    <num>1.</num>
+                                    <alinea> La Giunta regionale definisce i servizi minimi tenendo conto, anche in modo tra loro alternativo, di ciascuno dei seguenti elementi:  
+ 
+</alinea>
+                                    <el id="art10-com3-mod5-vir8-com0-leta">
+                                    <num>a)</num>
+                                    <corpo> necessaria integrazione tra le reti di trasporto;</corpo>
+                                    </el>
+                                    <el id="art10-com3-mod5-vir8-com0-letb">
+                                    <num>  
+ 
+b)</num>
+                                    <corpo> pendolarismo scolastico e lavorativo;</corpo>
+                                    </el>
+                                    <el id="art10-com3-mod5-vir8-com0-letc">
+                                    <num>  
+ 
+c)</num>
+                                    <corpo> fruibilitï¿½ dei servizi amministrativi, socio-sanitari e culturali;</corpo>
+                                    </el>
+                                    <el id="art10-com3-mod5-vir8-com0-letd">
+                                    <num>  
+ 
+d)</num>
+                                    <corpo> esigenze di trasporto per persone con ridotta capacitï¿½ motoria;</corpo>
+                                    </el>
+                                    <el id="art10-com3-mod5-vir8-com0-lete">
+                                    <num>  
+ 
+e)</num>
+                                    <corpo> necessaria riduzione della congestione e dell'inquinamento;</corpo>
+                                    </el>
+                                    <el id="art10-com3-mod5-vir8-com0-letf">
+                                    <num>  
+ 
+f)</num>
+                                    <corpo> effettivo utilizzo, in termini di passeggeri trasportati, dei servizi di linea di area extraurbana ed urbana autorizzati.</corpo>
+                                    </el>
+                                    </comma>
+                                </virgolette>".  </mod>
+                        </corpo>
+                    </comma>
+                    <comma id="art10-com4">
+                        <num>
+ 
+4.</num>
+                        <alinea> All'<rif xlink:href="urn:nir:regione.molise:legge:2000;19#art13">articolo 13 della legge regionale n. 19/2000</rif> sono apportate le seguenti modifiche:  
+ 
+</alinea>
+                        <el id="art10-com4-leta">
+                            <num>a)</num>
+                            <corpo>
+                                <mod id="art10-com4-leta-mod6"> il <rif
+                                    xlink:href="#art10-com1">comma 1</rif> ï¿½ sostituito dal seguente: 
+ 
+"<virgolette
+                                    id="art10-com4-leta-mod6-vir9" tipo="struttura">
+                                    <comma id="art10-com4-leta-mod6-vir9-com0">
+                                    <num>1.</num>
+                                    <corpo> Allo scopo di incentivare il superamento degli assetti monopolistici e di introdurre regole di concorrenzialitï¿½ nella gestione dei servizi di trasporto pubblico locale di area extraurbana ed urbana, per l'affidamento delle rispettive reti dei servizi minimi, la Regione Molise ed i Comuni, secondo la competenza attribuita dalla presente legge, fanno ricorso alle procedure concorsuali per la scelta del gestore dei servizi in conformitï¿½ alla normativa comunitaria e nazionale sugli appalti pubblici di servizi.</corpo>
+                                    </comma>
+                                    </virgolette>";</mod>
+                            </corpo>
+                        </el>
+                        <el id="art10-com4-letb">
+                            <num>  
+ 
+b)</num>
+                            <corpo>
+                                <mod id="art10-com4-letb-mod7"> il <rif
+                                    xlink:href="#art10-com2">comma 2</rif>, ï¿½ sostituito dal seguente:  
+ 
+"<virgolette
+                                    id="art10-com4-letb-mod7-vir10" tipo="struttura">
+                                    <comma id="art10-com4-letb-mod7-vir10-com0">
+                                    <num>2.</num>
+
+                                    <corpo> L'affidamento del servizio di trasporto pubblico locale di area extraurbana ed urbana ha luogo mediante l'esperimento di una gara a procedura ristretta e l'aggiudicazione ï¿½ effettuata secondo il criterio dell'offerta economicamente piï¿½ vantaggiosa, ai sensi del <rif
+                                    xlink:href="urn:nir:stato:decreto.legislativo:2006-04-12;163">decreto legislativo 12 aprile 2006, n. 163</rif>, e successive modificazioni e integrazioni. La rete extraurbana dei servizi minimi di trasporto pubblico locale, individuata dalla Giunta regionale ai sensi dell'articolo 5, comma 1, lett. d), della presente legge, ï¿½ messa a gara in un unico lotto. Analogamente, per il servizio di trasporto pubblico locale di area urbana, i Comuni, per l'affidamento dei servizi di competenza, svolgono le procedure concorsuali per l'individuazione del soggetto gestore cui affidare la rete dei servizi minimi essenziali individuata dalla Giunta regionale ai sensi dell'articolo 5, comma 1, lett. d), della presente legge. I soggetti ammessi a partecipare alla gara ed i requisiti per la partecipazione sono quelli previsti dal <rif xlink:href="urn:nir:stato:decreto.legislativo:2006-04-12;163">decreto legislativo 12 aprile 2006, n. 163</rif>.</corpo>
+                                    </comma>
+                                    </virgolette>".  
+ 
+</mod>
+                            </corpo>
+                        </el>
+                    </comma>
+                </articolo>
+                <articolo id="art11">
+                    <num>Art. 11  </num>
+                    <rubrica>
+ 
+(Rete dei servizi minimi)  
+ </rubrica>
+                    <comma id="art11-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La Giunta regionale, al fine dell'indizione della procedura concorsuale per la scelta del gestore dei servizi, disposta dall'<rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;19#art13">articolo 13 della legge regionale 24 marzo 2000, n. 19</rif>, definisce la rete dei servizi minimi del trasporto pubblico locale di area extraurbana ed urbana, in conformitï¿½ alle disposizioni di cui all'articolo 5, comma 1, lett. d), della stessa legge regionale, come modificata dalla presente legge, d'intesa con la Commissione consiliare permanente da rendersi entro trenta giorni dalla richiesta, entro e non oltre trenta giorni decorrenti dalla data di entrata in vigore della presente legge.  </corpo>
+                    </comma>
+                    <comma id="art11-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Ai fini della definizione della rete dei servizi minimi del trasporto pubblico locale di area extraurbana ed urbana di cui al <rif
+                                xlink:href="#art11-com1">comma 1</rif>, ï¿½ ridotto di un terzo l'ammontare chilometrico complessivo dei servizi di linea che risultano autorizzati alla data di entrata in vigore della presente legge. L'effettivo utilizzo, di cui alla <rif xlink:href="urn:nir:regione.molise:legge:2000;19#art11-com1-letf">lettera f) del comma 1 dell'articolo 11 della legge regionale n. 19/2000</rif>, come modificata dalla presente legge, ï¿½ accertato in relazione ai servizi di linea di area extraurbana ed urbana che risultano autorizzati alla data di entrata in vigore della presente legge.  </corpo>
+                    </comma>
+                    <comma id="art11-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Al fine di assicurare la completa corrispondenza tra oneri per servizi e risorse disponibili, al netto dei proventi tariffari, i contratti di servizio, da stipularsi con le aziende di trasporto per l'anno 2010 e sino alla data di affidamento del servizio al gestore a seguito di avvenuta aggiudicazione della procedura concorsuale, devono obbligatoriamente indicare le caratteristiche dei servizi offerti ed il programma di esercizio di ciascuna azienda, cosï¿½ come risultanti dalla rete dei servizi minimi del trasporto pubblico locale di area extraurbana ed urbana definita dalla Giunta regionale.  </corpo>
+                    </comma>
+                    <comma id="art11-com4">
+                        <num>
+ 
+4.</num>
+
+                        <corpo> I contratti di servizio stipulati in difformitï¿½ dalle disposizioni di cui al <rif xlink:href="#art11-com3">comma 3</rif> sono nulli. La Giunta regionale provvede, nel corso dell'esercizio finanziario 2010, ad adottare ogni possibile provvedimento teso ad adeguare il finanziamento ai livelli di spesa nei limiti delle necessitï¿½ che emergono dall'applicazione delle disposizioni del presente articolo.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit6">
+                <num>TITOLO VI  </num>
+                <rubrica>
+ 
+DISPOSIZIONI IN MATERIA DI TRIBUTI  
+ 
+</rubrica>
+                <articolo id="art12">
+                    <num>Art. 12  </num>
+
+                    <rubrica>
+ 
+(Istituzione dell'imposta regionale sulle attivitï¿½ produttive (IRAP) ai sensi dell'<rif xlink:href="urn:nir:stato:legge:2007-12-24;244#art1-com43">articolo 1, comma 43, della legge 24 dicembre 2007, n. 244</rif>)  
+ </rubrica>
+                    <comma id="art12-com1">
+                        <num>
+1.</num>
+
+                        <corpo> In attuazione di quanto disposto dall'<rif
+                                xlink:href="urn:nir:stato:legge:2007-12-24;244#art1-com43">articolo 1, comma 43, della legge 24 dicembre 2007, n. 244</rif> (Legge finanziaria 2008) e dall'<rif
+                                xlink:href="urn:nir:stato:decreto.legge:2008-12-30;207#art42-com7">articolo 42, comma 7, del decreto legge 30 dicembre 2008, n. 207</rif>, convertito, con modificazioni, dalla <rif xlink:href="urn:nir:stato:legge:2009-02-27;14">legge 27 febbraio 2009, n. 14</rif>, a decorrere dal 1ï¿½ gennaio 2010 l'imposta regionale sulle attivitï¿½ produttive (IRAP) ï¿½ istituita quale tributo proprio della Regione Molise.  </corpo>
+                    </comma>
+                    <comma id="art12-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Fino all'emanazione del regolamento regionale di cui all'<rif
+                                xlink:href="urn:nir:stato:legge:2007;244#art1-com45">articolo 1, comma 45, della legge n. 244/2007</rif>, lo svolgimento delle attivitï¿½ di liquidazione, accertamento e riscossione dell'IRAP prosegue nelle forme e nei modi previsti dalla <rif xlink:href="urn:nir:regione.molise:legge:2002-12-30;45">legge regionale 30 dicembre 2002, n. 45</rif> (Disposizioni in materia di Imposta regionale sulle attivitï¿½ produttive I.R.A.P.) e successive modifiche ed integrazioni.  </corpo>
+                    </comma>
+                    <comma id="art12-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> L'IRAP rimane disciplinata dal <rif xlink:href="urn:nir:stato:decreto.legislativo:1997-12-15;446">decreto legislativo 15 dicembre 1997, n. 446</rif>, e successive modificazioni ed integrazioni, nonchï¿½ dagli altri provvedimenti statali e regionali in materia.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art13">
+                    <num>Art. 13  </num>
+                    <rubrica>
+ 
+(Compensazione delle minori entrate per gli enti dell'area del cratere sismico)  
+ </rubrica>
+                    <comma id="art13-com1">
+                        <num>
+1.</num>
+                        <corpo> In applicazione del <rif
+                                xlink:href="urn:nir:stato:decreto.legge:2008-11-29;185">decreto-legge 29 novembre 2008, n. 185</rif>, convertito, con modificazioni, dalla <rif xlink:href="urn:nir:stato:legge:2009-01-28;2">legge 28 gennaio 2009, n. 2</rif>, e delle previgenti norme relative agli eventi sismici che, nel 2002, hanno interessato la regione Molise, sono istituiti, negli stati di previsione dell'entrata e della spesa del bilancio regionale, appositi capitoli con una dotazione complessiva pari a 6 milioni di euro destinata a compensare gli enti destinatari dei minori introiti a titolo di tributi. L'utilizzo delle predette risorse ï¿½ subordinto alla verifica dell'esigibilitï¿½ della relativa entrata.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit7">
+                <num>TITOLO VII  </num>
+                <rubrica>
+ 
+SPESE DI FUNZIONAMENTO DEGLI ENTI DI PENDENTI  
+ 
+</rubrica>
+                <articolo id="art14">
+                    <num>Art. 14  </num>
+                    <rubrica>
+ 
+(Contributi agli enti dipendenti dalla Regione)  
+ </rubrica>
+                    <comma id="art14-com1">
+                        <num>
+1.</num>
+                        <alinea> I contributi regionali per le spese di funzionamento degli enti dipendenti dalla Regione sono quantificati, per l'anno 2010, negli importi di seguito specificati e di fianco ad ogni ente evidenziati:  
+ 
+</alinea>
+                        <el id="art14-com1-leta">
+                            <num>a)</num>
+                            <corpo> Enti turistici (EPT di Campobasso, EPT di Isernia, AAST di Termoli), euro 700.000,00;</corpo>
+                        </el>
+                        <el id="art14-com1-letb">
+                            <num>  
+ 
+b)</num>
+                            <corpo> Agenzia regionale per lo sviluppo e l'innovazione dell'agricoltura nel Molise (ARSIAM), euro 5.000.000,00;</corpo>
+                        </el>
+                        <el id="art14-com1-letc">
+                            <num>  
+ 
+c)</num>
+                            <corpo> Ente per il diritto allo studio universitario (ESU), euro 1.500.000,00;</corpo>
+                        </el>
+                        <el id="art14-com1-letd">
+                            <num>  
+ 
+d)</num>
+                            <corpo> Istituto regionale per gli studi storici del Molise (IRESMO), euro 50.000,00;</corpo>
+                        </el>
+                        <el id="art14-com1-lete">
+                            <num>  
+ 
+e)</num>
+                            <corpo> Agenzia regionale per la protezione ambientale del Molise (ARPAM), euro 1.500.000,00;</corpo>
+                        </el>
+                        <el id="art14-com1-letf">
+                            <num>  
+ 
+f)</num>
+                            <corpo> Agenzia regionale "Molise Lavoro", euro 100.000,00;  
+ 
+</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit8">
+                <num>TITOLO VIII  </num>
+                <rubrica>
+ 
+DISPOSIZIONI PER IL CONTENIMENTO DELLA SPESA  
+ 
+</rubrica>
+                <articolo id="art15">
+                    <num>Art. 15  </num>
+                    <rubrica>
+ 
+(Centrale regionale di committenza)  
+ </rubrica>
+                    <comma id="art15-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Le procedure di acquisto regionali e degli enti dipendenti, inclusa l'ASReM, sono esperite anche mediante l'utilizzo di sistemi e di strumenti telematici, come previsti dalla normativa nazionale, ovvero facendo ricorso a infrastrutture tecnologiche appositamente predisposte nonchï¿½ avvalendosi di modalitï¿½ centralizzate di acquisto, all'interno della Centrale regionale di committenza, istituita con l'<rif xlink:href="urn:nir:regione.molise:legge:2008-05-09;12#art23">articolo 23 della legge regionale 9 maggio 2008, n. 12</rif>.  </corpo>
+                    </comma>
+                    <comma id="art15-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Le procedure sono attuate nel rispetto dei principi di tutela della riservatezza e della concorrenza, di concentrazione, semplificazione, trasparenza ed economicitï¿½ dell'azione amministrativa nonchï¿½ di paritï¿½ di trattamento dei partecipanti. Il coordinamento e la gestione delle procedure sono affidate alla Molise Dati S.p.A., che opera come Centrale regionale di committenza.  </corpo>
+                    </comma>
+                    <comma id="art15-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> La Giunta regionale con proprio atto disciplina il funzionamento della Centrale di committenza, entro sessanta giorni dalla entrata in vigore della presente legge.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art16">
+                    <num>Art. 16  </num>
+                    <rubrica>
+ 
+(Disposizioni concernenti l'<rif xlink:href="urn:nir:regione.molise:legge:2006-12-28;42#art2">articolo 2 della legge regionale 28 dicembre 2006, n. 42</rif>)  
+ </rubrica>
+                    <comma id="art16-com1">
+                        <num>
+1.</num>
+                        <corpo> Le disposizioni di cui all'<rif xlink:href="urn:nir:regione.molise:legge:2006-12-28;42#art2">articolo 2 della legge regionale 28 dicembre 2006, n. 42</rif> (Misure di contenimento della spesa pubblica regionale ed interventi in materia di tributi regionali), e successive modificazioni ed integrazioni, valgono anche per l'esercizio finanziario 2010.  </corpo>
+                    </comma>
+                    <comma id="art16-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo>
+                            <mod id="art16-com2-mod8"> Al <rif
+                                    xlink:href="urn:nir:regione.molise:legge:2006;42#art2-com2quinquies">comma 2-quinquies dell'articolo 2 della legge regionale n. 42/2006</rif> ï¿½ aggiunto il seguente periodo: "<virgolette
+                                    id="art16-com2-mod8-vir12" tipo="parola">Il divieto non si applica ad importi inferiori ad euro 100.000,00</virgolette>".  
+ 
+</mod>
+                        </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art17">
+                    <num>Art. 17  </num>
+                    <rubrica>
+ 
+(Patto di stabilitï¿½)  
+ </rubrica>
+                    <comma id="art17-com1">
+                        <num>
+1.</num>
+
+                        <corpo> Per garantire il conseguimento degli obiettivi di tutela dell'unitï¿½ economica fissati per le Regioni dall'<rif
+                                xlink:href="#art1">articolo 1</rif>, commi da 655 a 672, della <rif
+                                xlink:href="urn:nir:stato:legge:2006-12-27;296">legge 27 dicembre 2006, n. 296</rif>, la Giunta regionale ï¿½ autorizzata, nel corso dell'esercizio 2010, a rideterminare il livello di impegni e pagamenti autorizzabili nell'anno al fine di contenerli entro i limiti previsti nel medesimo <rif
+                                xlink:href="#art1">articolo 1</rif>, commi da 655 a 672, della <rif xlink:href="urn:nir:stato:legge:2006;296">legge n. 296/ 2006</rif>.  </corpo>
+                    </comma>
+                    <comma id="art17-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Per l'esercizio finanziario 2010 sono riconfermati, per gli enti dipendenti dalla Regione, i limiti imposti dalla <rif xlink:href="urn:nir:regione.molise:legge:2006-12-28;42">legge regionale 28 dicembre 2006, n. 42</rif>.  </corpo>
+                    </comma>
+                    <comma id="art17-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> Ogni dirigente nell'esercizio delle sue funzioni ï¿½ tenuto a effettuare il monitoraggio e la verifica interna di natura finanziaria al fine di evitare, per la propria unitï¿½ previsionale di base, il superamento dei limiti previsti dal presente articolo e dalla normativa vigente in ordine al rispetto del patto di stabilitï¿½. Il risultato di tale attivitï¿½ ï¿½ oggetto di valutazione ai fini della retribuzione di risultato.  </corpo>
+                    </comma>
+                    <comma id="art17-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Per motivate esigenze di natura straordinaria e previa autorizzazione del Direttore generale, il dirigente responsabile dell'unitï¿½ previsionale di base puï¿½ superare i limiti di cui al comma precedente a condizione che il superamento venga compensato da pari disponibilitï¿½ realizzatasi in altra unitï¿½ previsionale di base della stessa Direzione.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art18">
+                    <num>Art. 18  </num>
+                    <rubrica>
+ 
+(Personale)  
+ </rubrica>
+                    <comma id="art18-com1">
+                        <num>
+1.</num>
+
+                        <alinea> Al fine di raggiungere gli obiettivi di contenimento delle spese per il personale in armonia con quanto previsto dalla piï¿½ recente legislazione in materia di finanza pubblica che ha introdotto per gli enti sottoposti al Patto di stabilitï¿½ interno un articolato livello di restrizioni ed obblighi procedurali, oltre a specifici obiettivi differenziati di risparmio, alla <rif xlink:href="urn:nir:regione.molise:legge:2006-07-07;15">legge regionale 7 luglio 2006, n. 15</rif>, sono apportate le seguenti modifiche:  
+ 
+</alinea>
+                        <el id="art18-com1-leta">
+                            <num>a)</num>
+                            <corpo>
+                                <mod id="art18-com1-leta-mod9"> il <rif
+                                    xlink:href="#art2-com2">comma 2 dell'articolo 2</rif> ï¿½ sostituito dal seguente:  
+ 
+"<virgolette
+                                    id="art18-com1-leta-mod9-vir13" tipo="struttura">
+                                    <comma id="art18-com1-leta-mod9-vir13-com0">
+                                    <num>2.</num>
+                                    <corpo> La Giunta regionale, nell'ambito della pianificazione delle iniziative finalizzate al contenimento della spesa per il personale, anche attraverso la contrazione della propria dotazione organica, definisce i criteri generali di disciplina dell'istituto della risoluzione consensuale del rapporto di lavoro del personale di ruolo con qualifica non dirigenziale ed applica, con cadenza periodica, l'istituto medesimo previa verifica delle complessive esigenze organizzative e funzionali e della presupposta compatibilitï¿½ economico-finanziaria.</corpo>
+                                    </comma>
+                                    </virgolette>";</mod>
+                            </corpo>
+                        </el>
+                        <el id="art18-com1-letb">
+                            <num>  
+ 
+b)</num>
+                            <corpo>
+                                <mod id="art18-com1-letb-mod10"> il <rif
+                                    xlink:href="#art5-com1">comma 1 dell'articolo 5</rif> ï¿½ sostituito dal seguente:  
+ 
+"<virgolette
+                                    id="art18-com1-letb-mod10-vir14" tipo="struttura">
+                                    <comma id="art18-com1-letb-mod10-vir14-com0">
+                                    <num>1.</num>
+                                    <corpo> I posti che in esito all'applicazione della presente legge risultano essersi resi vacanti possono essere ricoperti in misura comunque non superiore al 50 per cento, nel rispetto delle norme di settore in materia di reclutamento di personale.</corpo>
+                                    </comma>
+                                    </virgolette>".  </mod>
+                            </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art18-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Le disposizioni della <rif
+                                xlink:href="urn:nir:regione.molise:legge:2006-07-07;15">legge regionale 7 luglio 2006, n. 15</rif>, come modificata ai sensi del <rif xlink:href="#art18-com1">comma 1</rif>, si applicano al personale del comparto regionale e al personale del servizio sanitario regionale in coerenza con la legislazione nazionale e regionale vigente.  </corpo>
+                    </comma>
+                    <comma id="art18-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> L'Amministrazione regionale, entro l'anno 2010, provvede a ridimensionare la propria dotazione organica esistente al 31 dicembre 2009, rideterminandola secondo principi di efficienza, razionalitï¿½ ed economicitï¿½ ed operando una riduzione almeno del 50 per cento dei posti liberi e disponibili.  </corpo>
+                    </comma>
+                    <comma id="art18-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> La Giunta regionale adotta con proprio atto una nuova disciplina riguardante le spese per i buoni pasto spettanti al personale dipendente dell'Ammnistrazione regionale, prevedendo annualmente l'utilizzo di non piï¿½ di 120 buoni pasto per ogni dipendente. Al personale con mansioni di autista ï¿½ assegnata una quota aggiuntiva calcolata su base storica in relazione al servizio svolto.  </corpo>
+                    </comma>
+                    <comma id="art18-com5">
+                        <num>
+ 
+5.</num>
+
+                        <corpo> Per l'anno 2010, la Giunta regionale e l'Ufficio di Presidenza del Consiglio sospendono l'attivazione o il rinnovo di rapporti di utilizzazione di personale proveniente da altre pubbliche amministrazioni (comandi) con onere finanziario a carico del bilancio regionale ad eccezione dei comandi attivati ai sensi dell'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1991-09-12;15#art8">articolo 8 della legge regionale 12 settembre 1991, n. 15</rif>, come sostituito dall'<rif xlink:href="urn:nir:regione.molise:legge:2009-04-06;15#art1">articolo 1 della legge regionale 6 aprile 2009, n. 15</rif>.  </corpo>
+                    </comma>
+                    <comma id="art18-com6">
+                        <num>
+ 
+6.</num>
+                        <corpo> La spesa sostenuta per i contratti di collaborazione coordinata e continuativa, fermo restando il rispetto dei presupposti normativi e delle procedure regolamentari adottate dalla Giunta regionale per il reclutamento, nell'anno 2010 non puï¿½ superare quella sostenuta nel 2009 diminuita del 20 per cento.  </corpo>
+                    </comma>
+                    <comma id="art18-com7">
+                        <num>
+ 
+7.</num>
+                        <corpo>
+                            <mod id="art18-com7-mod11"> Il <rif
+                                    xlink:href="urn:nir:regione.molise:legge:2009-01-13;1#art3-com6">comma 6 dell'articolo 3 della legge regionale 13 gennaio 2009, n. 1</rif> (Legge finanziaria regionale 2009) ï¿½ sostituito dal seguente:  
+ 
+"<virgolette
+                                    id="art18-com7-mod11-vir15" tipo="struttura">
+                                    <comma id="art18-com7-mod11-vir15-com0">
+                                    <num>6.</num>
+
+                                    <corpo> Nelle more della revisione dei sistemi di incentivazione della qualitï¿½ delle prestazioni lavorative di cui al <rif
+                                    xlink:href="urn:nir:stato:decreto.legislativo:2009-10-27;150">decreto legislativo 27 ottobre 2009, n. 150</rif>, con effetto dal 1ï¿½ gennaio 2010 e fino al 30 giugno 2010 sono ripristinate le misure percentuali delle indennitï¿½ dell'istituto di cui all'<rif
+                                    xlink:href="urn:nir:regione.molise:legge:1997-04-08;7#art29bis">articolo 29-bis della legge regionale 8 aprile 1997, n. 7</rif>, cosï¿½ come rideterminate dall'<rif xlink:href="urn:nir:regione.molise:legge:2006-10-02;33#art1">articolo 1 della legge regionale 2 ottobre 2006, n. 33</rif>.</corpo>
+                                    </comma>
+                                </virgolette>".  </mod>
+                        </corpo>
+                    </comma>
+                    <comma id="art18-com8">
+                        <num>
+ 
+8.</num>
+
+                        <alinea> La revisione dell'istituto di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7#art29bis">articolo 29-bis della legge regionale 8 aprile 1997, n. 7</rif>, e successive modificazioni ed integrazioni, ï¿½ effettuata con atto di Giunta regionale nel rispetto dei seguenti principi:  
+ 
+</alinea>
+                        <el id="art18-com8-leta">
+                            <num>a)</num>
+                            <corpo> definizione ed assegnazione ai beneficiari di specifici obiettivi da raggiungere annualmente collegati agli obiettivi assegnati ai rispettivi dirigenti;</corpo>
+                        </el>
+                        <el id="art18-com8-letb">
+                            <num>  
+ 
+b)</num>
+                            <corpo> ampliamento della percentuale soggetta a valutazione;</corpo>
+                        </el>
+                        <el id="art18-com8-letc">
+                            <num>  
+ 
+c)</num>
+                            <corpo> riduzione dei contingenti, facendo comunque salvi i diritti acquisiti.  </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art18-com9">
+                        <num>
+ 
+9.</num>
+
+                        <corpo> Nello stato di previsione della spesa del bilancio regionale per il 2010, nell'ambito della UPB n. 500, ï¿½ istituito un capitolo con una previsione di competenza e di cassa pari a 500.000 euro con la seguente denominazione: "Oneri per il finanziamento della <rif xlink:href="urn:nir:regione.molise:legge:2009-04-06;15">legge regionale 6 aprile 2009, n. 15</rif>".  </corpo>
+                    </comma>
+                    <comma id="art18-com10">
+                        <num>
+ 
+10.</num>
+
+                        <corpo> Entro trenta giorni dall'entrata in vigore della presente legge, la Giunta regionale e l'Ufficio di Presidenza del Consiglio regionale, per gli ambiti di rispettiva competenza, determinano gli stanziamenti ai sensidell'<rif xlink:href="urn:nir:regione.molise:legge:2009-04-06;15#art1-com3">articolo 1, comma 3, della legge regionale 6 aprile 2009, n. 15</rif>. In assenza dei predetti provvedimenti le disposizioni della citata legge non trovano applicazione.  </corpo>
+                    </comma>
+                    <comma id="art18-com11">
+                        <num>
+ 
+11.</num>
+
+                        <corpo> La Giunta regionale ï¿½ autorizzata a definire ed attivare le procedure per la stabilizzazione dei soggetti operanti presso la Regione Molise, selezionati con procedura concorsuale, indetta dalla stessa amministrazione in attuazione dell'<rif xlink:href="urn:nir:stato:legge:1999-05-17;144#art1">articolo 1 della legge 17 maggio 1999, n. 144</rif>, ed aventi almeno sette anni di esperienza continuativa a servizio della Regione Molise nelle materie di cui alla citata normativa nazionale.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art19">
+                    <num>Art. 19  </num>
+                    <rubrica>
+ 
+(Disposizioni sull'organizzazione del Servizio sanitario regionale)  
+ </rubrica>
+                    <comma id="art19-com1">
+                        <num>
+1.</num>
+
+                        <corpo> I contratti del personale di tutto il Servizio sanitario regionale, utilizzato ai sensi del <rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art36-com2">comma 2 dell'articolo 36 del decreto legislativo 30 marzo 2001, n. 165</rif>, o assunto a tempo determinato oppure con rapporto di collaborazione coordinata e continuativa, possono essere prorogati, in caso di riscontrata carenza di organico, per la durata massima del Piano di rientro cosï¿½ come prevista dall'intesa tra il Governo, le Regioni e le Province autonome concernente il nuovo patto per la salute per gli anni 2010/2012, nel rispetto dei relativi limiti annuali di spesa.  </corpo>
+                    </comma>
+                    <comma id="art19-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Ai fini dello svolgimento temporaneo delle funzioni di direttore di unitï¿½ operativa complessa, in mancanza della copertura del posto a tempo indeterminato, per il periodo corrispondente al Piano di rientro e per un termine di sei mesi rinnovabile una sola volta, l'Azienda sanitaria regionale per il Molise puï¿½ prorogare gli incarichi giï¿½ conferiti a seguito di apposita selezione.  </corpo>
+                    </comma>
+                    <comma id="art19-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> L'Azienda sanitaria regionale del Molise predispone, entro trenta giorni dall'entrata in vigore della presente legge, un piano di riorganizzazione del personale coerente con il piano di riassetto della rete ospedaliera e con il Piano di rientro, anche ai fini dell'applicazione dell'<rif xlink:href="urn:nir:regione.molise:legge:2009-01-13;1#art3">articolo 3 della legge regionale 13 gennaio 2009, n. 1</rif>.  </corpo>
+                    </comma>
+                    <comma id="art19-com4">
+                        <num>
+ 
+4.</num>
+
+                        <corpo> La Regione Molise, ai fini dell'attuazione di progetti di ricerca sanitaria o di progetti finalizzati alla realizzazione degli obiettivi di carattere prioritario e di rilievo nazionale ex <rif
+                                xlink:href="#art1">articolo 1</rif>, commi 34 e 34-bis, della <rif
+                                xlink:href="urn:nir:stato:legge:1996-12-23;662">legge 23 dicembre 1996, n. 662</rif>, e per gli interventi finanziati ai sensi dell'<rif
+                                xlink:href="urn:nir:stato:decreto.legge:2008-06-25;112#art79-com1sexies">articolo 79, comma 1-sexies, del decreto-legge 25 giugno 2008, n. 112</rif>, convertito, con modificazioni, dalla <rif
+                                xlink:href="urn:nir:stato:legge:2008-08-06;133">legge 6 agosto 2008, n. 133</rif>, e successive modificazioni ed integrazioni, puï¿½ stipulare i contratti previsti dall'<rif xlink:href="urn:nir:stato:decreto.legislativo:1992-12-30;502#art15octies">articolo 15-octies del decreto legislativo 30 dicembre 1992, n. 502</rif>.  </corpo>
+                    </comma>
+                    <comma id="art19-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo> Ai fini del controllo della spesa farmaceutica e di una corretta informazione sulle prescrizioni farmaceutiche da parte dei medici, la Giunta regionale promuove e disciplina le funzioni dell'informatore medicoscientifico aziendale.  </corpo>
+                    </comma>
+                    <comma id="art19-com6">
+                        <num>
+ 
+6.</num>
+
+                        <corpo> Le disposizioni di cui all'articolo 30, commi 4 e 5, della <rif
+                                xlink:href="urn:nir:regione.molise:legge:2008-06-24;18">legge regionale 24 giugno 2008, n. 18</rif>, si applicano fino al termine delle procedure di accreditamento definitivo per le strutture sanitarie private fissato per il 31 dicembre 2010. Nello stesso periodo, per tutte le attivitï¿½ del servizio ispettivo regionale e per i controlli sulle strutture e sulle prestazioni sanitarie, la Regione Molise si avvale delle disposizioni di cui al richiamato articolo 30, comma 5, nonchï¿½ del <rif xlink:href="urn:nir:stato:decreto.legislativo:2001;165#art36-com2">comma 2 dell'articolo 36 del decreto legislativo n. 165/2001</rif>. Per le medesime finalitï¿½ la Regione Molise puï¿½ stipulare accordi con altre Regioni nonchï¿½ con l'ASReM per l'utilizzo di personale del servizio sanitario laddove sia necessario lo svolgimento coordinato di funzioni di verifica, di controllo o ispettive o per la migliore gestione di procedimenti amministrativi complessi.  </corpo>
+                    </comma>
+                    <comma id="art19-com7">
+                        <num>
+ 
+7.</num>
+
+                        <corpo> In attuazione di quanto stabilito dall'<rif
+                                xlink:href="urn:nir:stato:decreto.legge:2007-10-01;159#art4-com2">articolo 4, comma 2, del decreto-legge 1 ottobre 2007, n. 159</rif>, relativamente alle modalitï¿½ organizzative dell'attivitï¿½ del commissario ad acta e del subcommissario, nominati dal Consiglio dei ministri per il Piano di rientro, ï¿½ applicabile l'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1991-09-12;15#art8">articolo 8 della legge regionale 12 settembre 1991, n. 15</rif>, come modificata dalla <rif xlink:href="urn:nir:regione.molise:legge:2009-04-06;15">legge regionale 6 aprile 2009, n. 15</rif>. ï¿½ autorizzata l'imputazione della spesa per il compenso spettante al subcommissario ad acta alla UPB n. 198, capitolo 2100.  </corpo>
+                    </comma>
+                    <comma id="art19-com8">
+                        <num>
+ 
+8.</num>
+                        <corpo> Il disavanzo non coperto del Sistema sanitario regionale per l'anno 2009 troverï¿½ copertura, nell'anno 2010, con le risorse regionali.  
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit9">
+                <num>TITOLO IX  </num>
+                <rubrica>
+ 
+DISPOSIZIONI VARIE E FINALI  
+ 
+</rubrica>
+                <articolo id="art20">
+                    <num>Art. 20  </num>
+                    <rubrica>
+ 
+(Disposizioni varie)  
+ </rubrica>
+                    <comma id="art20-com1">
+                        <num>
+1.</num>
+                        <corpo> Per il pagamento delle spettanze del Presidente della Giunta regionale e dei componenti della Giunta medesima ï¿½ autorizzata l'iscrizione della somma dovuta alla UPB n. 198. Il pagamento delle suddette spettanze, unitamente a quelle dei consiglieri, degli assegni vitalizi, diretti o di reversibilitï¿½, da corrispondere agli ex consiglieri regionali e agli ex assessori regionali non consiglieri, avviene, a partire dal 1ï¿½ gennaio 2010, mediante sistema di pagamento RID. La competente struttura regionale provvede ai conseguenti adempimenti.  </corpo>
+                    </comma>
+                    <comma id="art20-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> Le risorse finanziarie assegnate ai sensi della <rif xlink:href="urn:nir:stato:legge:1997-03-13;59">legge 13 marzo 1997, n. 59</rif>, concernente i trasferimenti di funzioni e compiti dallo Stato alle Regioni, nelle more della piena applicazione del federalismo amministrativo, sono utilizzate nell'intero ambito funzionale di riferimento.  </corpo>
+                    </comma>
+                    <comma id="art20-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Le variazioni in aumento di canoni di locazione del patrimonio di edilizia residenziale pubblica, derivanti dall'applicazione del <rif xlink:href="urn:nir:regione.molise:regolamento:2008-10-10;5">regolamento regionale 10 ottobre 2008, n. 5</rif>, si applicano, dal 1ï¿½ gennaio 2010, nella misura del 50 per cento e, dal 1ï¿½ gennaio 2011, nella misura del 100 per cento.  </corpo>
+                    </comma>
+                    <comma id="art20-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Per l'acquisizione dei suoli ritenuti di demanio marittimo, occupati da privati possessori anche con costruzioni urbanisticamente regolari e per i quali gli enti proprietari siano disposti ad una cessione transattiva, la Giunta regionale ï¿½ autorizzata a concedere agli interessati contributi in conto interessi su mutui stipulati con gli istituti bancari abilitati. Le modalitï¿½ di intervento sono disciplinate con provvedimento della Giunta, attuato anche tramite convenzioni da stipulare con gli istituti medesimi.  </corpo>
+                    </comma>
+                    <comma id="art20-com5">
+                        <num>
+ 
+5.</num>
+                        <corpo>
+                            <mod id="art20-com5-mod12"> All'<rif
+                                    xlink:href="#art2-com1">articolo 2, comma 1</rif>, ed all'<rif
+                                    xlink:href="urn:nir:regione.molise:legge:2009-12-11;30#art3-com1">articolo 3, comma 1, della legge regionale 11 dicembre 2009, n. 30</rif>, le parole "<virgolette
+                                    id="art20-com5-mod12-vir17">al 29 giugno 2009</virgolette>" e le parole "<virgolette
+                                    id="art20-com5-mod12-vir18">alla data del 29 giugno 2009</virgolette>" sono sostituite dalle parole "<virgolette id="art20-com5-mod12-vir19">alla data di entrata in vigore della presente legge</virgolette>".  </mod>
+                        </corpo>
+                    </comma>
+                    <comma id="art20-com6">
+                        <num>
+ 
+6.</num>
+                        <corpo>
+                            <mod id="art20-com6-mod13"> All'<rif
+                                    xlink:href="urn:nir:regione.molise:legge:2009-12-16;30#art11">articolo 11 della legge regionale 16 dicembre 2009, n. 30</rif>, ï¿½ aggiunto il seguente comma:  
+ 
+"<virgolette
+                                    id="art20-com6-mod13-vir20" tipo="struttura">
+                                    <comma id="art20-com6-mod13-vir20-com0">
+                                    <num>7-bis.</num>
+                                    <corpo> Per i Comuni nei quali, entro il termine di cui al comma 3, interviene il decreto prefettizio di scioglimento del Consiglio comunale, il termine perentorio di cui innanzi decorre dal giorno di insediamento del Consiglio comunale eletto nelle consultazioni elettorali all'uopo convocate.</corpo>
+                                    </comma>
+                                </virgolette>".  </mod>
+                        </corpo>
+                    </comma>
+                    <comma id="art20-com7">
+                        <num>
+ 
+7.</num>
+                        <corpo>
+                            <mod id="art20-com7-mod14"> All'<rif
+                                    xlink:href="urn:nir:regione.molise:legge:2009-12-11;30#art14">articolo 14 della legge regionale 11 dicembre 2009, n. 30</rif>, ï¿½ aggiunto il seguente comma: "<virgolette
+                                    id="art20-com7-mod14-vir21" tipo="struttura">
+                                    <comma id="art20-com7-mod14-vir21-com0">
+                                    <num>1-bis.</num>
+                                    <corpo> Relativamente agli interventi di cui agli articoli 2 e 3, qualora il richiedente abbia inoltrato richiesta di condono edilizio ai sensi delle leggi n. 47/1985, n. 724/ 1994 e n. 326/2003, per il fabbricato o parte dello stesso per il quale intende fruire delle agevolazioni di cui agli articoli soprarichiamati e l'Amministrazione comunale non abbia ancora rilasciato la concessione in sanatoria, il Comune provvede nel termine perentorio di sessanta giorni a completare l'istruttoria della richiesta di concessione. Durante tale fase, i termini della DIA sono sospesi.</corpo>
+                                    </comma>
+                                </virgolette>".  </mod>
+                        </corpo>
+                    </comma>
+                    <comma id="art20-com8">
+                        <num>
+ 
+8.</num>
+                        <corpo>
+                            <mod id="art20-com8-mod15"> All'<rif
+                                    xlink:href="urn:nir:regione.molise:legge:2009-12-11;30#art16">articolo 16 della legge regionale 11 dicembre 2009, n. 30</rif>, ï¿½ aggiunto il seguente comma;  
+ 
+"<virgolette
+                                    id="art20-com8-mod15-vir22" tipo="struttura">
+                                    <comma id="art20-com8-mod15-vir22-com0">
+                                    <num>1-bis.</num>
+                                    <corpo> ï¿½ istituito, con decreto del Presidente della Giunta regionale, presso l'Assessorato all'Urbanistica, un Comitato tecnico formato da dirigenti e funzionari regionali coadiuvati da tre rappresentanti designati dagli Ordini provinciali dei geometri, degli ingegneri e degli architetti, al fine di supportare le amministrazioni locali per l'applicazione della presente legge.</corpo>
+                                    </comma>
+                                </virgolette>".  </mod>
+                        </corpo>
+                    </comma>
+                    <comma id="art20-com9">
+                        <num>
+ 
+9.</num>
+                        <corpo>
+                            <mod id="art20-com9-mod16"> Il <rif
+                                    xlink:href="urn:nir:regione.molise:legge:2005-05-05;14#art8-com1">comma 1 dell'articolo 8 della legge regionale 5 maggio 2005, n. 14</rif>, ï¿½ sostituito dal seguente:  
+ 
+"<virgolette
+                                    id="art20-com9-mod16-vir23" tipo="struttura">
+                                    <comma id="art20-com9-mod16-vir23-com0">
+                                    <num>1.</num>
+                                    <corpo> Gli alloggi costruiti da almeno cinque anni sono alienabili al prezzo di mercato sulla base di apposita stima e parere dell'Ufficio tecnico dell'Istituto Autonomo Case Popolari e, ove necessario, attraverso la revisione delle rendite catastali. Il prezzo di vendita tiene conto delle eventuali migliorie apportate dal conduttore durante la locazione, le quali dovranno essere decurtate dal valore determinato. Gli oneri della perizia sono a carico dell'acquirente. I soggetti di cui all'articolo 2 stipulano apposite convenzioni con l'Istituto Autonomo Case Popolari. Per data di costruzione si intende quella del rilascio del certificato di abitabilitï¿½ o, in subordine, quella della certificazione di fine lavori o di prima assegnazione in locazione dell'alloggio stesso.</corpo>
+                                    </comma>
+                                </virgolette>".  </mod>
+                        </corpo>
+                    </comma>
+                    <comma id="art20-com10">
+                        <num>
+ 
+10.</num>
+                        <corpo>
+                            <mod id="art20-com10-mod17"> All'<rif
+                                    xlink:href="urn:nir:regione.molise:legge:1999-01-27;2#art8bis">articolo 8-bis della legge regionale 27 gennaio 1999, n. 2</rif> (Norme sull'autonomia organizzativa, funzionale e contabile del Consiglio regionale), e successive modificazioni ed integrazioni, ï¿½ aggiunto il seguente comma:  
+ 
+"<virgolette
+                                    id="art20-com10-mod17-vir24" tipo="struttura">
+                                    <comma id="art20-com10-mod17-vir24-com0">
+                                    <num>4-bis.</num>
+                                    <corpo> Il trattamento economico di cui al comma 4 puï¿½ essere utilizzato in parte per assicurare allo stesso portavoce la collaborazione di soggetti individuati nei modi previsti dal presente articolo.</corpo>
+                                    </comma>
+                                </virgolette>".  </mod>
+                        </corpo>
+                    </comma>
+                    <comma id="art20-com11">
+                        <num>
+ 
+11.</num>
+                        <corpo>
+                            <mod id="art20-com11-mod18"> All'<rif
+                                    xlink:href="urn:nir:regione.molise:legge:1988-04-13;10#art2">articolo 2 della legge regionale 13 aprile 1988, n. 10</rif>, e successive modificazioni ed integrazioni, ï¿½ aggiunto il seguente comma: "<virgolette
+                                    id="art20-com11-mod18-vir25"
+                                    tipo="parola">Con legge di approvazione del bilancio regionale annualmente ï¿½ assicurato lo stanziamento per il pareggio della gestione tecnico-finanziaria del fondo di cui alla presente legge ed ï¿½ iscritto nel relativo capitolo e UPB quale </virgolette>"spesa obbligatoria"<virgolette id="art20-com11-mod18-vir26">.</virgolette>".  </mod>
+                        </corpo>
+                    </comma>
+                    <comma id="art20-com12">
+                        <num>
+ 
+12.</num>
+                        <corpo>
+                            <mod id="art20-com12-mod19"> All'<rif
+                                    xlink:href="urn:nir:regione.molise:legge:1988-04-13;10#art8">articolo 8 della legge regionale 13 aprile 1988, n. 10</rif>, e successive modificazioni ed integrazioni, sono aggiunti i seguenti commi: "<virgolette
+                                    id="art20-com12-mod19-vir27" tipo="parola">Il consigliere o l'assessore che ha versato i contributi per un periodo inferiore a cinque anni ed abbia maturato almeno trenta mesi di anzianitï¿½ contributiva in una legislatura, ha facoltï¿½ di completare, in unica soluzione o ratealmente, il versamento della quota di contribuzione relativa al periodo di tempo occorrente a completare l'ulteriore quinquennio contributivo, anche se versato in legislature diverse e per periodi inferiori ai trenta mesi. La domanda per l'ammissione alla contribuzione volontaria deve pervenire al competente ufficio del Consiglio a decorrere dal giorno successivo alla pubblicazione della presente legge. I soggetti ammessi al versamento dei contributi volontari, qualora cessino di corrisponderli, sono messi in mora dal competente ufficio del Consiglio, con invito a riprendere la contribuzione. Decorsi inutilmente sei mesi, lo stesso ufficio revoca l'ammissione alla contribuzione volontaria e procede alla restituzione dei contributi versati. La facoltï¿½ stabilita al terzo comma si applica ai consiglieri ed agli assessori regionali in carica. I contributi relativi alla cassa di previdenza da versare sono calcolati in base all'aliquota percentuale vigente all'atto della cessazione del mandato consiliare.</virgolette>".  </mod>
+                        </corpo>
+                    </comma>
+                    <comma id="art20-com13">
+                        <num>
+ 
+13.</num>
+
+                        <corpo> Le risorse attribuite alla Regione, ai sensi della <rif
+                                xlink:href="urn:nir:stato:legge:1995-12-28;549">legge 28 dicembre 1995, n. 549</rif>, attinenti le concessioni per la coltivazione degli idrocarburi, sono destinate a finanziare un programma di investimenti da attuarsi, nel Comune dove avviene la coltivazione, con accordo di programma da stipularsi ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:1999-06-11;17">legge regionale 11 giugno 1999, n. 17</rif>, nel limite di 1,5 milioni di euro per l'esercizio 2010. Nello stato di previsione della spesa del bilancio di previsione, nell'ambito della UPB n. 202, ï¿½ istituto specifico capitolo.  </corpo>
+                    </comma>
+                    <comma id="art20-com14">
+                        <num>
+ 
+14.</num>
+                        <corpo> La Giunta regionale ï¿½ autorizzata a cofinanziare, entro il limite del 50 per cento, i lavori di riattazione ed adeguamento funzionale dell'immobile sito in San Martino in Pensilis colpito dall'evento calamitoso del 6 giugno 2008, cosï¿½ come accertato e riconosciuto dalla struttura tecnica della Protezione civile regionale, a valere sulle risorse di cui al PAR FAS cosï¿½ come previste alla UPB n. 202, capitolo 12603.  </corpo>
+                    </comma>
+                    <comma id="art20-com15">
+                        <num>
+ 
+15.</num>
+
+                        <corpo> La Giunta regionale ï¿½ autorizzata a cofinanziare, con apposito piano ed entro il limite del 50 per cento della spesa, l'acquisto o la ricostruzione degli immobili distrutti a seguito degli eventi meteorologici del 23, 24 e 25 gennaio 2003 non ripristinabili in loco, ai sensi dell'<rif xlink:href="urn:nir:presidente.consiglio.ministri:ordinanza:2005-03-18;3414#art1-com2">articolo 1, comma 2, dell'ordinanza del Presidente del Consiglio dei Ministri n. 3414 del 18 marzo 2005</rif>, a valere sul capitolo n. 12603 della UPB n. 202.  </corpo>
+                    </comma>
+                    <comma id="art20-com16">
+                        <num>
+ 
+16.</num>
+
+                        <corpo> La Giunta regionale ï¿½ autorizzata a cofinanziare, con apposito piano ed entro il limite del 50 per cento della spesa, l'acquisto o la ricostruzione degli immobili dichiarati inagibili a seguito dell'evento franoso in contrada Vivara di Trivento nell'anno 2008, non ripristinabili in loco, ai sensi dell'<rif xlink:href="urn:nir:presidente.consiglio.ministri:ordinanza:2009-01-16;3734#art1-com2">articolo 1, comma 2, dell'ordinanza del Presidente del Consiglio dei Ministri n. 3734 del 16 gennaio 2009</rif>, a valere sul capitolo n. 12603 della UPB n. 202.  </corpo>
+                    </comma>
+                    <comma id="art20-com17">
+                        <num>
+ 
+17.</num>
+                        <corpo> Entro trenta giorni dall'entrata in vigore della presente legge, la Giunta regionale provvede a disporre l'aggiornamento sui siti telematici istituzionali della pubblicazione di tutti gli atti amministrativi, ivi inclusi i provvedimenti direttoriali e le determinazioni dirigenziali. Entro il medesimo termine la Giunta regionale, di concerto con l'Ufficio di presidenza del Consiglio regionale, dispone la registrazione audiovideo e la trasmissione in diretta delle sedute del Consiglio regionale sul portale istituzionale della Regione mediante l'istituzione di un canale telematico di comunicazione istituzionale.  </corpo>
+                    </comma>
+                    <comma id="art20-com18">
+                        <num>
+ 
+18.</num>
+                        <corpo> Entro trenta giorni dall'entrata in vigore della presente legge, la Giunta regionale adotta una disciplina in materia di organizzazione e di funzionamento della Centrale di committenza, sentita la competente Commissione consiliare permanente.  </corpo>
+                    </comma>
+                    <comma id="art20-com19">
+                        <num>
+ 
+19.</num>
+                        <corpo> Ai sensi e per gli effetti della <rif xlink:href="urn:nir:regione.molise:legge:2008-11-04;30">legge regionale 4 novembre 2008, n. 30</rif>, nell'ambito della UPB n. 289 ï¿½ istituito apposito capitolo con la seguente denominazione: "Finanziamento dell'Ente parco dell'ulivo di Venafro" con uno stanziamento di competenza e di cassa pari ad euro 150.000, reperito attraverso pari diminuzione del capitolo n. 39783 della UPB n. 289.  </corpo>
+                    </comma>
+                    <comma id="art20-com20">
+                        <num>
+ 
+20.</num>
+                        <alinea> Ai sensi e per gli effetti della legg regionale 3 marzo 2009, n. 9 (Incentivi a favore dei piccoli Comuni molisani atti a contrastarne lo spopolamento ed a favorirne la ripopolazione), nell'ambito della UPB n. 526 ï¿½ istituito apposito capitolo con la seguente denominazione: "Incentivi a favore dei piccoli Comuni molisani atti a contrastarne lo spopolamento ed a favorirne la ripopolazione", con uno stanziamento di competenza e di cassa pari ad euro 300.000, reperito attraverso pari diminuzione dei seguenti capitoli:  
+ 
+</alinea>
+                        <el id="art20-com20-leta">
+                            <num>a)</num>
+                            <corpo> 16022, per euro 100.000;</corpo>
+                        </el>
+                        <el id="art20-com20-letb">
+                            <num>  
+ 
+b)</num>
+                            <corpo> 16025, per euro 150.000;</corpo>
+                        </el>
+                        <el id="art20-com20-letc">
+                            <num>  
+ 
+c)</num>
+                            <corpo> 15900, per euro 50.000.  </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art20-com21">
+                        <num>
+ 
+21.</num>
+                        <corpo>
+                            <mod id="art20-com21-mod20"> Al <rif
+                                    xlink:href="urn:nir:regione.molise:legge:2008-03-12;7#art2-com2">comma 2 dell'articolo 2 della legge regionale 12 marzo 2008, n. 7</rif>, concernente: "<virgolette
+                                    id="art20-com21-mod20-vir30"
+                                    tipo="parola">Disposizioni transitorie in materia di coltivazione ed uso in agricoltura di organismi geneticamente modificati (OGM)</virgolette>" le parole "<virgolette
+                                    id="art20-com21-mod20-vir31">entro l'anno 2009</virgolette>" sono sostituite dalle parole "<virgolette id="art20-com21-mod20-vir32">entro il 31 dicembre 2011</virgolette>".  </mod>
+                        </corpo>
+                    </comma>
+                    <comma id="art20-com22">
+                        <num>
+ 
+22.</num>
+                        <corpo>
+                            <mod id="art20-com22-mod21"> Il <rif
+                                    xlink:href="urn:nir:regione.molise:legge:2008-02-26;5#art6-com4">comma 4 dell'articolo 6 della legge regionale 26 febbraio 2008, n. 5</rif> (Disposizioni relative all'installazione di impianti serricoli e di tunnel serre), ï¿½ sostituito dal seguente: "<virgolette
+                                    id="art20-com22-mod21-vir33" tipo="struttura">
+                                    <comma id="art20-com22-mod21-vir33-com0">
+                                    <num>4.</num>
+                                    <corpo> L'autorizzazione di cui al comma 2 ï¿½ altresï¿½ subordinata alla presentazione di un'autocertificazione che preveda il mantenimento della destinazione dell'impianto a servizio dell'attivitï¿½ agricola.</corpo>
+                                    </comma>
+                                </virgolette>".  
+ 
+</mod>
+                        </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art21">
+                    <num>Art. 21  </num>
+                    <rubrica>
+ 
+(Specificazione e classificazione delle spese)  
+ </rubrica>
+                    <comma id="art21-com1">
+                        <num>
+1.</num>
+                        <corpo>
+                            <mod
+                                    id="art21-com1-mod22"> Per effetto delle modifiche apportate nel corso dell'esercizio finanziario 2009 all'Atto di organizzazione delle strutture dirigenziali delle direzioni generali, la classificazione della spesa del bilancio regionale 2009 ï¿½ integrata e modificata secondo quanto riportato nell'allegato "<virgolette
+                                    id="art21-com1-mod22-vir34">D</virgolette>", tabella n. 3, del bilancio medesimo, ferme restando la specificaizone e la classificazione della spesa ai sensi dell'<rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art18">articolo 18 della legge regionale 7 maggio 2002, n. 4</rif>.  
+ 
+</mod>
+                        </corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art22">
+                    <num>Art. 22  </num>
+                    <rubrica>
+ 
+(Entrata in vigore)  
+ </rubrica>
+                    <comma id="art22-com1">
+                        <num>
+1.</num>
+                        <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. La presente legge sarï¿½ pubblicata nel Bollettino Ufficiale della Regione. ï¿½ fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.  
+ 
+Tabella "A" 
+ 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

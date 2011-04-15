@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19741221" num="38" tipo="BURM"/>
+                <entratainvigore norm="19750105"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1974-11-29;22"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="04.assistenza sociale, volontariato"/>
+                </materie>
+            </descrittori>
+        </meta><?error 04.Assistenza sociale, volontariato 
+ 
+Bollettino 
+Bollettino Ufficiale n. 38 del 21/12/74 
+ 
+Oggetto 
+Assistenza - Minori vecchi ed inabili indigenti - Ricovero presso istituti - Disciplina - Stato di bisogno - Accertamento - Commissione - Gettone di presenza e indennit&#xE0; sostitutiva - Determinazione 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19741129">29 Novembre 1974</dataDoc>, n. <numDoc>22</numDoc>
+            <titoloDoc>Modifica dell'<rif xlink:href="urn:nir:regione.molise:legge:1972-12-20;22#art4">articolo 4 della legge regionale n. 22 del 20 dicembre 1972</rif>: &lt;&lt; Ricovero di minori, vecchi ed inabili indigenti &gt;&gt;. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20040601" num="11" tipo="BURM"/>
+                <entratainvigore norm="20040616"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2004-05-20;13"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="31.protezione civile, rischio sismico, regime delle acque e rischio idrogeologico"/>
+                </materie>
+            </descrittori>
+        </meta><?error 31.Protezione civile, rischio sismico, regime delle acque e rischio idrogeologico 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x96; N. 11 del 1 giugno 2004 
+ 
+Oggetto 
+Riclassificazione sismica del territorio regionale - Norme tecniche - Disposizioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 2 dalla legge n. 21/2004 art. 1 
+Modificato art. 4 dalla legge n. 17/2004 art. 1 
+Modificato art. 4 dalla legge n. 21/2004 art. 2 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20040520">20 maggio 2004</dataDoc>, n. <numDoc>13</numDoc>. 
+ 
+<titoloDoc>Riclassificazione sismica del territorio regionale e nuova normativa sismica. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ARTICOLO 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo>
+Dichiarazione di sismicitï¿½ 
+ 
+1. Ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art94-com2-leta">articolo 94, comma 2, lettera a) del decreto legislativo n. 112 del 1998</rif> e sulla base dell'<rif xlink:href="urn:nir:presidente.consiglio.ministri:ordinanza:2003-03-20;3274">ordinanza del Presidente del Consiglio dei Ministri n. 3274 del 20 marzo 2003</rif>, pubblicata l'8 maggio 2003 e successive modificazioni, in seguito chiamata Ordinanza, che individua "i primi elementi in materia di criteri generali per la classificazione sismica del territorio nazionale e di normative tecniche per le costruzioni in zona sismica" (e della deliberazione della Giunta regionale n. 1269 del 17 ottobre 2003):</corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+                    <corpo><?error Marker Warning 108?>a) sono dichiarati sismici e appartenenti alla Zona 1, i territori dei seguenti Comuni: 
+ 
+1) Baranello 
+ 
+2) Bojano 
+ 
+3) Campochiaro  
+ 
+4) Cantalupo nel Sannio  
+ 
+5) Carpinone  
+ 
+6) Castel del Giudice  
+ 
+7) Castellino del Biferno 
+ 
+8) Castelpetroso 
+ 
+9) Castelpizzuto 
+ 
+10) Cercemaggiore 
+ 
+11) Cercepiccola  
+ 
+12) Colle d'Anchise   
+ 
+13) Frosolone  
+ 
+14) Guardiaregia 
+ 
+15) Macchiagodena  
+ 
+16) Pettoranello del Molise 
+ 
+17) Roccamandolfi 
+ 
+18) San Giuliano del Sannio  
+ 
+19) San Massimo 
+ 
+20) San Pietro Avellana  
+ 
+21) San Polo Matese   
+ 
+22) Sant'Elena Sannita 
+ 
+23) Santa Maria del Molise 
+ 
+24) Sepino 
+ 
+25) Spinete 
+ 
+26) Vinchiaturo  
+ 
+b) sono dichiarati sismici e appartenenti alla Zona 2, i territori dei seguenti Comuni: 
+ 
+1) Acquaviva d'lsernia 
+ 
+2) Agnone   
+ 
+3) Bagnoli del Trigno 
+ 
+4) Belmonte del Sannio 
+ 
+5) Bonefro 
+ 
+6) Busso 
+ 
+7) Campobasso. 
+ 
+8) Campodipietra 
+ 
+9) Campolieto   
+ 
+10) Capracotta 
+ 
+11) Carovilli   
+ 
+12) Casacalenda  
+ 
+13) Casalciprano 
+ 
+14) Castel San Vincenzo   
+ 
+15) Castelbottaccio   
+ 
+16) Castelmauro  
+ 
+17) Castelverrino 
+ 
+18) Castropignano 
+ 
+19) Cerro al Volturno 
+ 
+20) Chiauci   
+ 
+21) Civitacampomarano 
+ 
+22) Civitanova del Sannio 
+ 
+23) Colli a Volturno 
+ 
+24) Colletorto 
+ 
+25) Conca Casale 
+ 
+26) Duronia 
+ 
+27) Ferrazzano 
+ 
+28) Filignano   
+ 
+29) Forlï¿½ del Sannio 
+ 
+30) Fornelli 
+ 
+31) Fossalto 
+ 
+32) Gambatesa   
+ 
+33) Gildone  
+ 
+34) Guardialfiera 
+ 
+35) Isernia 
+ 
+36) Jelsi   
+ 
+37) Larino  
+ 
+38) Limosano   
+ 
+39) Longano 
+ 
+40) Lucito  
+ 
+41) Lupara  
+ 
+42) Macchia d'Isernia 
+ 
+43) Macchia Valfortore   
+ 
+44) Matrice   
+ 
+45) Mirabello Sannitico  
+ 
+46) Miranda 
+ 
+47) Molise 
+ 
+48) Monacilioni 
+ 
+49) Montagano 
+ 
+50) Montaquila   
+ 
+51) Montelongo   
+ 
+52) Montenero Valcocchiara 
+ 
+53) Monteroduni 
+ 
+54) Montorio nei Frentani 
+ 
+55) Morrone del Sannio 
+ 
+56) Oratino 
+ 
+57) Pesche 
+ 
+58) Pescolanciano   
+ 
+59) Pescopennataro   
+ 
+60) Petrella Tifernina 
+ 
+61) Pietrabbondante  
+ 
+62) Pietracatella  
+ 
+63) Pietracupa   
+ 
+64) Pizzone   
+ 
+65) Poggio Sannita 
+ 
+66) Pozzilli   
+ 
+67) Provvidenti 
+ 
+68) Riccia   
+ 
+69) Rionero Sannitico 
+ 
+70) Ripabottoni  
+ 
+71) Ripalimosani  
+ 
+72) Roccasicura   
+ 
+73) Roccavivara   
+ 
+74) Rocchetta a Volturno  
+ 
+75) Rotello   
+ 
+76) Salcito   
+ 
+77) San Biase  
+ 
+78) San Giovanni in Galdo 
+ 
+79) San Giuliano di Puglia  
+ 
+80) San Martino in Pensilis   
+ 
+81) Sant'Agapito  
+ 
+82) Sant'Angelo del Pesco  
+ 
+83) Sant'Angelo Limosano  
+ 
+84) Sant'Elia a Pianisi   
+ 
+85) Santa Croce di Magliano 
+ 
+86) Scapoli  
+ 
+87) Sessano del Molise 
+ 
+88) Sesto Campano  
+ 
+89) Torella del Sannio 
+ 
+90) Toro  
+ 
+91) Trivento 
+ 
+92) Tufara 
+ 
+93) Ururi 
+ 
+94) Vastogirardi  
+ 
+95) Venafro 
+ 
+c) sono dichiarati sismici e appartenenti alla Zona 3, i territori dei seguenti Comuni: 
+ 
+1) Acquaviva Collecroce 
+ 
+2) Campomarino 
+ 
+3) Guglionesi 
+ 
+4) Mafalda 
+ 
+5) Montecilfone 
+ 
+6) Montefalcone nel Sannio 
+ 
+7) Montemitro   
+ 
+8) Montenero di Bisaccia 
+ 
+9) Palata  
+ 
+10) Petacciato  
+ 
+11) Portocannone  
+ 
+12) San Felice del Molise 
+ 
+13) San Giacomo degli Schiavoni 
+ 
+14) Tavenna 
+ 
+15) Termoli 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ARTICOLO 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+Norme tecniche 
+ 
+1. Alle costruzioni ricadenti nei territori dei Comuni appartenenti alle zone sismiche indicate all'<rif xlink:href="#art1">articolo 1</rif> si applicano le "Norme tecniche per il progetto, la valutazione e l'adeguamento sismico degli edifici", le "Norme tecniche per il progetto sismico dei ponti" e le "Norme tecniche per il progetto sismico delle opere di fondazione e sostegno dei terreni" allegate all'Ordinanza e successive modificazioni.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>ARTICOLO 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+Competenze 
+ 
+1. Il Consiglio regionale, su proposta della Giunta regionale, con atto deliberativo, aggiorna gli elenchi delle zone classificate sismiche dalla presente legge in base ai criteri generali per l'individuazione delle zone sismiche emanati dallo Stato. 
+ 
+2. Il recepimento delle modifiche delle norme tecniche per le costruzioni nelle zone sismiche avviene con atto deliberativo della Giunta regionale.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>ARTICOLO 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo>
+Disposizioni 
+ 
+1. Possono continuare ad applicarsi le norme tecniche e la classificazione sismica vigenti alla data di pubblicazione dell'Ordinanza:</corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num/>
+
+                    <corpo>a) per il completamento degli interventi di riparazione e di ricostruzione in corso; 
+ 
+b) per le costruzioni di privati i cui lavori siano giï¿½ regolarmente iniziati; 
+ 
+c) per i progetti di privati giï¿½ provvisti di permesso di costruire alla data di entrata in vigore della presente legge. 
+ 
+2. Per gli interventi di ricostruzione di immobili esistenti, che prevedano la demolizione totale o parziale, non si applicano le limitazioni, di cui ai punti C2 e C3 del decreto ministeriale 16 gennaio 1996, nonchï¿½ le limitazioni, di cui al punto 4.2 e successive modifiche, delle norme tecniche per le costruzioni in zona sismica allegate all'Ordinanza, nei limiti dei volumi e delle altezze preesistenti. 
+ 
+3. Per le opere e gli edifici pubblici o di uso pubblico provvisti di permesso di costruire, giï¿½ appaltati o in fase di costruzione, nelle zone sismiche di nuova classificazione di cui all'<rif
+                            xlink:href="#art1">articolo 1</rif>, si tiene conto di tale nuova classificazione con la possibilitï¿½, per non oltre 18 mesi a partire dall'8 maggio 2003, di applicare le norme tecniche vigenti alla data di pubblicazione dell'Ordinanza stessa. 
+ 
+4. Per le opere e gli edifici pubblici o di uso pubblico, anche se giï¿½ approvati ma non ancora appaltati e che fruiscano di finanziamento, anche parziale, disposto dalla Regione, si applicano le nuove norme tecniche e la nuova classificazione per le progettazioni sismiche. Per gli edifici e le opere, con riferimento al decreto del Capo del Dipartimento della Protezione Civile del 21 ottobre 2003 - Gazzetta Ufficiale n. 252 del 29 ottobre 2003 - qualunque sia la fonte di finanziamento, si applicano le norme tecniche e la classificazione sismica, di cui all'<rif
+                            xlink:href="urn:nir:presidente.consiglio.ministri:ordinanza:2003;3274">ordinanza P.C.M. n. 3274/2003</rif>. 
+ 
+5. Per le opere e gli edifici di cui al precedente comma 4, giï¿½ appaltate o in corso di costruzione al momento dell'entrata in vigore della presente legge, il tecnico progettista dovrï¿½ dichiarare entro 30 giorni all'Ufficio Tecnico Regionale lo stato dei lavori. Nel caso in cui la struttura risulti giï¿½ completamente realizzata, l'opera potrï¿½ essere ultimata senza adeguamento entro il termine di 18 mesi, salvo procedere a verifica entro i 5 anni previsti dal comma 3 dell'art. 2 dell'Ordinanza per le opere strategiche. Nel caso in cui la struttura non risulti giï¿½ completamente realizzata, occorrerï¿½ procedere all'adeguamento alla nuova normativa sismica ed alla nuova classificazione a meno che il committente non intenda arrestare la realizzazione dell'opera al piano in corso di esecuzione. 
+ 
+6. In tutti i restanti casi, fatti salvi gli edifici e le opere di cui al comma 3 dell'articolo 2 dell'Ordinanza, la progettazione dovrï¿½ essere conforme a quanto prescritto dalla nuova classificazione sismica di cui all'<rif xlink:href="#art1">articolo 1</rif> della presente legge, con la possibilitï¿½, per non oltre 18 mesi, a partire dall'8 maggio 2003, di continuare ad applicare le norme tecniche vigenti per le costruzioni in zona sismica.*</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>ARTICOLO 5 </num>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo>
+Adempimenti 
+ 
+1. Per gli adempimenti, di cui ai commi 3, 4, 5 e 6 dell'articolo 2 dell'Ordinanza si procederï¿½ secondo quanto prescritto dalla stessa Ordinanza. 
+ 
+2. La Regione, sulla base delle verifiche effettuate, predispone un programma finanziario e temporale degli interventi di adeguamento sismico degli edifici.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>ARTICOLO 6 </num>
+                <comma id="art6-com1">
+                    <num/>
+
+                    <corpo>
+Strumenti urbanistici generali ed attuativi 
+ 
+1. Per gli strumenti urbanistici generali ed attuativi, giï¿½ adottati alla data di entrata in vigore della presente legge, si applicano gli adempimenti previsti dagli articoli 1, 2, 3, 4, 5 e 6 della <rif xlink:href="urn:nir:regione.molise:legge:1996-06-06;20">legge regionale n. 20 del 6 giugno 1996</rif>, in conformitï¿½ con quanto prescritto dalla nuova classificazione sismica. 
+ 
+2. Per i Comuni non giï¿½ classificati sismici alla entrata in vigore della presente legge o che hanno subï¿½to una variazione di classificazione sismica, ï¿½ fatto obbligo di procedere entro 3 anni all'adeguamento dello strumento urbanistico alle norme derivanti dalla nuova classificazione. 
+ 
+3. Gli strumenti urbanistici dovranno comunque essere adeguati alle eventuali prescrizioni derivanti dalle indagini esperite per la microzonazione sismica.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>ARTICOLO 7 </num>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo>
+Entrata in vigore 
+ 
+1. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione.</corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num/>
+                    <corpo>La presente legge sarï¿½ pubblicata nel Bollettino Ufficiale della Regione. ï¿½ fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

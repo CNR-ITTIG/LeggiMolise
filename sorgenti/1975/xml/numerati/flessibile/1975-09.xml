@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19750127" num="4" tipo="BURM"/>
+                <entratainvigore norm="19750211"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1975-01-21;9"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 04 del 27/01/75 
+ 
+Oggetto 
+Colture agrarie e patrimoni zootecnici - Danni prodotti da selvaggina stanziale protetta - Contributi - Entit&#xE0; - Procedure 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 6/1983 art. 7 
+ 
+Modifiche 
+Modificato art. 3 dalla legge n. 3/1977 art. 1 
+Modificato art. 4 dalla legge n. 3/1977 art. 2 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19750121">21 Gennaio 1975</dataDoc>, n. <numDoc>9</numDoc>
+            <titoloDoc>Contributi sui danni prodotti alle colture e al bestiame dalla selvaggina stanziale protetta. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 6/1983 art. 7</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20090216" num="3" tipo="BURM"/>
+                <entratainvigore norm="20090303"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-03-24;18"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="04.assistenza sociale, volontariato"/>
+                </materie>
+            </descrittori>
+        </meta><?error 04.Assistenza sociale, volontariato 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 3 del 16 febbraio 2009 
+ 
+Oggetto 
+Riconoscimento e promozione delle societ&#xE0; di mutuo soccorso - ?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge regionale </tipoDoc>
+            <dataDoc
+                    norm="20000324">24 marzo 2000</dataDoc>n. <numDoc>18</numDoc> - <titoloDoc>Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+<rif
+                    xlink:href="urn:nir:regione.molise:legge:2009-02-10;3">LEGGE REGIONALE 10 febbraio 2009, n. 3</rif>. 
+ 
+Modifiche ed integrazioni agli articoli 2, 3, 4, 6 ed 8 della <rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;18">legge regionale 24 marzo 2000, n. 18</rif>, ad oggetto: "Interventi a favore delle Societï¿½ operaie - Societï¿½ operaie di mutuo soccorso operanti nel Molise". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+(Modifiche all'<rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;18#art2">articolo 2 della legge regionale 24 marzo 2000, n. 18</rif>) 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art1-com1-mod1"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:2000-03-24;18#art2-com1">comma 1 dell'articolo 2 della legge regionale 24 marzo  2000, n. 18</rif> (Interventi a favore delle Societï¿½ operaie - Societï¿½ operaie di mutuo soccorso operanti in Molise), ï¿½ sostituito dal seguente:  
+ 
+"<virgolette
+                                id="art1-com1-mod1-vir1" tipo="struttura">
+                                <comma id="art1-com1-mod1-vir1-com0">
+                                    <num>1.</num>
+                                    <corpo> ï¿½ istituita, presso l'Assessorato regionale alle Politiche sociali, la Consulta per la mutualitï¿½ integrativa.</corpo>
+                                </comma>
+                            </virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>
+                        <mod id="art1-com2-mod2"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:2000-03-24;18#art2-com2">comma 2 dell'articolo 2 della legge regionale 24 marzo 2000, n. 18</rif>, ï¿½ sostituito dal seguente:  
+ 
+"<virgolette
+                                id="art1-com2-mod2-vir2" tipo="struttura">
+                                <comma id="art1-com2-mod2-vir2-com0">
+                                    <num>2.</num>
+                                    <corpo> Alla Consulta per la mutualitï¿½ integrativa competono il parere sui progetti e sugli interventi previsti all'articolo 7 nonchï¿½ gli altri compiti ad essa attribuiti dalla presente legge.</corpo>
+                                </comma>
+                            </virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art1-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo>
+                        <mod id="art1-com3-mod3"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:2000-03-24;18#art2-com3">comma 3 dell'articolo 2 della legge regionale 24 marzo 2000, n. 18</rif>, ï¿½ sostituito dal seguente:  
+ 
+"<virgolette
+                                id="art1-com3-mod3-vir3" tipo="struttura">
+                                <comma id="art1-com3-mod3-vir3-com0">
+                                    <num>3.</num>
+                                    <alinea> La Consulta per la mutualitï¿½ integrativa, presieduta dall'Assessore alle politiche sociali o da un suo delegato, ï¿½ costituita dai seguenti componenti:  
+ 
+</alinea>
+                                    <el id="art1-com3-mod3-vir3-com0-leta">
+                                    <num>a)</num>
+                                    <corpo>  il Direttore della Direzione generale competente;</corpo>
+                                    </el>
+                                    <el id="art1-com3-mod3-vir3-com0-letb">
+                                    <num>  
+ 
+b)</num>
+                                    <corpo>  il Responsabile del Servizio programmazione politiche sociali e coordinamento terzo settore;</corpo>
+                                    </el>
+                                    <el id="art1-com3-mod3-vir3-com0-letc">
+                                    <num>  
+ 
+c)</num>
+                                    <corpo>  il Responsabile del Servizio assistenza socio-sanitaria;</corpo>
+                                    </el>
+                                    <el id="art1-com3-mod3-vir3-com0-letd">
+                                    <num>  
+ 
+d)</num>
+                                    <corpo>  il Responsabile del Servizio promozione e tutela dell'occupazione;</corpo>
+                                    </el>
+                                    <el id="art1-com3-mod3-vir3-com0-lete">
+                                    <num>  
+ 
+e)</num>
+                                    <corpo>  un Rappresentante designato dalle associazioni di categoria che raggruppano le S.M.S. operanti nella regione.</corpo>
+                                    </el>
+                                </comma>
+                            </virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+(Modifiche all'<rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;18#art3">articolo 3 della legge regionale 24 marzo 2000, n. 18</rif>) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art2-com1-mod4"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:2000-03-24;18#art3-com1">comma 1 dell'articolo 3 della legge regionale 24 marzo 2000, n. 18</rif>, ï¿½ sostituito dal seguente:  
+ 
+"<virgolette
+                                id="art2-com1-mod4-vir4" tipo="struttura">
+                                <comma id="art2-com1-mod4-vir4-com0">
+                                    <num>1.</num>
+                                    <corpo> ï¿½ istituito, presso l'Assessorato regionale alle politiche sociali, Servizio programmazione politiche sociali e coordinamento Terzo settore, l'Albo regionale delle Societï¿½ operaie - Societï¿½ operaie di mutuo soccorso.</corpo>
+                                </comma>
+                            </virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>
+                        <mod id="art2-com2-mod5"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:2000-03-24;18#art3-com3">comma 3 dell'articolo 3 della legge regionale 24 marzo 2000, n. 18</rif>, ï¿½ sostituito dal seguente:  
+ 
+"<virgolette
+                                id="art2-com2-mod5-vir5" tipo="struttura">
+                                <comma id="art2-com2-mod5-vir5-com0">
+                                    <num>3.</num>
+
+                                    <corpo> Le istanze devono essere indirizzate alla Direzione generale regionale competente, Servizio programmazione politiche sociali e coordinamento Terzo settore, che, nel termine di sessanta giorni dal ricevimento, verifica se la societï¿½ abbia esercitato ed eserciti attivitï¿½ mutualistica e persegua i fini dettati dall'<rif xlink:href="urn:nir:stato:legge:1886-04-15;3886#art1">articolo 1 della legge 15 aprile 1886, n. 3886</rif>, e, qualora sussistano i requisiti, provvede all'iscrizione all'Albo.</corpo>
+                                </comma>
+                            </virgolette>".  </mod>
+                    </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo>
+                        <mod
+                                id="art2-com3-mod6"> I commi 4 e 5 dell'<rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;18#art3">articolo 3 della legge regionale 24 marzo 2000, n. 18</rif>, sono abrogati.  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+(Modifiche all'<rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;18#art4">articolo 4 della legge regionale 24 marzo 2000, n. 18</rif>) 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art3-com1-mod7">  All'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2000-03-24;18#art4-com1-letc">articolo 4, comma 1, lettera c), della legge regionale 24 marzo 2000, n. 18</rif>, dopo le parole: "<virgolette
+                                id="art3-com1-mod7-vir6">agevolazioni regionali</virgolette>" sono aggiunte le parole: "<virgolette id="art3-com1-mod7-vir7">, entro e non oltre il 30 settembre di ogni anno</virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+(Integrazione all'<rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;18#art6">articolo 6 della legge regionale 24 marzo 2000, n. 18</rif>) 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art4-com1-mod8">  All'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2000-03-24;18#art6">articolo 6 della legge regionale 24 marzo 2000, n. 18</rif>, ï¿½ aggiunto il seguente comma:  
+ 
+"<virgolette
+                                id="art4-com1-mod8-vir8" tipo="struttura">
+                                <comma id="art4-com1-mod8-vir8-com0">
+                                    <num>1-bis.</num>
+                                    <corpo> Le SMS iscritte nell'Albo regionale presentano le istanze per l'accesso ai benefici di cui alle lettere b), c) e d) del comma 1 entro e non oltre il 30 settembre di ogni anno.</corpo>
+                                </comma>
+                            </virgolette>".  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+(Abrogazione dell'<rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;18#art8">articolo 8 della legge regionale 24 marzo 2000, n. 18</rif>) 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art5-com1-mod9"> L'<rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;18#art8">articolo 8 della legge regionale 24 marzo 2000, n. 18</rif>, ï¿½ abrogato.  
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+(Rinvio ad atti attuativi) 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Entro novanta giorni dalla data di entrata in vigore della presente legge la Giunta regionale, con propria deliberazione, definisce i criteri e le modalitï¿½ per la concessione dei benefici previsti dall'<rif xlink:href="urn:nir:regione.molise:legge:2000-03-24;18#art6">articolo 6 della legge regionale 24 marzo 2000, n. 18</rif>.  </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> In fase di prima applicazione le istanze per l'accesso ai benefici di cui all'<rif xlink:href="#art4">articolo 4</rif> sono presentate entro 30 giorni dalla data di entrata in vigore della presente legge.  
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

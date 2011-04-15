@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19760601" num="10" tipo="BURM"/>
+                <entratainvigore norm="19760616"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1976-05-26;17"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 10 del 01/06/76 
+ 
+Oggetto 
+Farmacie rurali - Gestione - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 17/1990 art. 1 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale  </tipoDoc>
+            <dataDoc norm="19760526">26 Maggio 1976</dataDoc>, n. <numDoc>17</numDoc>
+            <titoloDoc>Disposizioni sulle farmacie rurali 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo><?error Marker Warning 108?>
+A decorrere dal 1ï¿½ gennaio 1976 l'indennitï¿½ di residenza prevista dalla legge marzo 1968, n. 221 per i titolari, i direttori responsabili e i gestori provvisori di farmacie rurali ubicate in localitï¿½ con popolazione inferiore a 3.000 abitanti ï¿½ fissata nelle seguenti misure: 
+ 
+- L. 2.500.000 annue per popolazione fino a 1.000 abitanti; 
+ 
+- L. 2.000.000 annue per popolazione da 1.001 a 2.000 abitanti; 
+ 
+- L. 1.500.000 annue per popolazione da 2.001 a 3.000 abitanti. 
+ 
+L'indennitï¿½ di cui al precedente comma ï¿½ aumentata del 20% per la durata di cinque anni quando si tratti di nuova farmacia aperta in localitï¿½ sede di centro socio-sanitario di distretto, previsto dal piano regionale, che risulti sprovvisto di servizio farmaceutico. 
+ 
+Il contributo annuo spettante ai Comuni che gestiscono le farmacie rurali, secondo le norme stabilite dal <rif
+                            xlink:href="urn:nir:stato:regio.decreto:1925-10-15;2578">R.D. 15 ottobre 1925 n. 2578</rif> ed in base alla <rif
+                            xlink:href="urn:nir:stato:legge:1968-03-08;221">legge 8 marzo 1968, n. 221</rif>, ï¿½ elevato, in relazione alla popolazione, nella misura delle indennitï¿½ stabilite dai comma precedenti a favore dei farmacisti rurali, maggiorate del 20% e ridotte della quota dovuta dal Comune. 
+ 
+Nulla ï¿½ innovato per quanto concerne le farmacie rurali ubicate in localitï¿½ polazione superiore a 3.000 abitanti, o che siano riconosciute stazioni di cura, soggiorno e turismo e per i soggetti di cui al <rif xlink:href="#art1-com1">primo comma</rif> che esplichino attivitï¿½ lavorativa alle dipendenze di Enti Pubblici o Aziende Private. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+L'indennitï¿½ di gestione prevista dall'<rif xlink:href="urn:nir:stato:legge:1968-03-08;221#art3-com2">art. 3 secondo comma della legge 8 marzo 1968, n. 221</rif> ï¿½ fissata in L. 300.000 annue. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo><?error Marker Warning 108?>
+I titolari, i direttori responsabili, i gestori provvisori di farmacie rurali i sanitari gestori di dispensari farmaceutici aspiranti all'indennitï¿½, devono, entro il 31 marzo del primo anno di ciascun biennio, presentare apposita istanza alla Giunta Regionale conrredata da: 
+ 
+1) un certificato del Sindaco attestante che la farmacia o il dispensario sono regolarmente aperti al pubblico; 
+ 
+2) un certificato del Sindaco attestante la consistenza numerica della popolazione presente al 31 dicembre dell'anno precedente di ogni biennio nel Comune o nella frazione o nell'agglomerato rurale in cui ï¿½ ubicata la farmacia. 
+ 
+Per il 1976 l'istanza di cui sopra deve essere prodotta nel termine di sessanta giorni dall'entrata in vigore della presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+
+                    <corpo>
+L'onere dell'indennitï¿½ di residenza, detratta la parte posta a carico del bilancio del Comune nella misura prevista dall'<rif xlink:href="urn:nir:stato:legge:1968-03-08;221#art6">art. 6 della legge 8 marzo 1968, n. 221</rif>, grava sul bilancio della Regione. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num/>
+                    <corpo>L'onere del contributo a favore del Comune gestore della farmacia rurale graverï¿½ sul bilancio della Regione. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo>
+All'onere derivante dall'applicazione della presente legge previsto in L. 10 milioni, si provvede con i fondi stanziati sul capitolo 1210 del bilancio di previsione per l'esercizio 1976. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <comma id="art6-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge ï¿½ dichiarata urgente ai sensi dell'art. 127 della Costituzion e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto della Regione Molise</rif> ed entra in vigore il giorno successivo a quello della sua  pubblicazione nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

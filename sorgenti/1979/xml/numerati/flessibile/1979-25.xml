@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19790901" num="16" tipo="BURM"/>
+                <entratainvigore norm="19790916"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1979-08-20;25"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 16 del 01/09/79 
+ 
+Oggetto 
+Agricoltura - Funzioni trasferite - Convenzione tra Regione Molise e organizzazioni professionali degli imprenditori agricoli - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19790820">20 Agosto 1979</dataDoc>, n. <numDoc>25</numDoc>
+            <titoloDoc>Convenzione tra la Regione Molise e le organizzazioni professionali degli imprenditori agricoli per la collaborazione nell'espletamento delle funzioni ex U.M.A. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+
+                <rubrica>
+ 
+La Regione stipula apposita convenzione con le organizzazioni professionali maggiormente rappresentative nel Molise al fine di avvalersi della loro collaborazione nell'espletamento delle pratiche inerenti le funzioni trasferite alla Regione dal <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616">D.P.R. 24 luglio 1977, n. 616</rif>. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+Per tale collaborazione la Regione stanzia la somma di L. 20.000.000 che sarï¿½ attribuita alle organizzazione professionali sulla base delle pratiche espletate e con le modalitï¿½ che verranno stabilite da apposita convenzione, il cui testo sarï¿½ predisposto dalla Giunta Regionale ed approvato con atto deliberativo del Consiglio entro 30 giorni dalla promulgazione della presente legge. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+
+                <rubrica>
+ 
+All'onere derivante dalla presente legge si fa fronte con quota parte dei fondi attribuiti alla Regione ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:legge:1970-05-16;281#art8">art. 8 della legge 16 maggio 1970, n. 281</rif>. 
+ 
+Nello stato di previsione della spesa del bilancio regionale per l'esercizio finanziario 1979 viene iscritto al Titolo I - Sezione n. 5 - Rubrica n. 12_Settore n. 2 il nuovo capitolo n. 43970 &lt;&lt; Oneri per collaborazione da parte delle Organizzazioni professionali nell'espletamento delle funzioni ex U.M.A. trasferite alla Regione in attuazione del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616">D.P.R. 24 luglio 1977, n. 616</rif> &gt;&gt; con uno stanziamento di competenza ed una dotazione di cassa di L. 20.000.000 previe analoghe riduzioni da apportarsi a carico del Cap. 47300  &lt;&lt; Spese per l'erogazione di contributi e per la   organizzazione di mercati in occasione di mostre e manifestazioni zootecniche &gt;&gt; (leggi regionali 8 novembre 1972, n. 6-art. 7 e 3 agosto 1973, n. 16). 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+
+                <rubrica>
+ 
+La presente legge ï¿½ dichiarata urgente ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dall'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione. 
+ 
+ï¿½ fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

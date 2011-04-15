@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20021116" num="24" tipo="BURM"/>
+                <entratainvigore norm="20021201"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2002-11-08;32"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x96; N. 24 del 16 novembre 2002 
+ 
+Oggetto 
+Nutrizione artificiale domiciliare - Disciplina. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20021108">8 novembre 2002</dataDoc>, n. <numDoc>32</numDoc>. 
+ 
+<titoloDoc>Nutrizione artificiale domiciliare. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+(Tipologie di pazienti) 
+ 
+La presente legge ï¿½ destinata a tutti i pazienti che, a causa di qualsiasi patologia che renda impossibile, insufficiente o controindicata l'alimentazione per via naturale , tale da mettere a rischio la sopravvivenza, devono essere trattate con nutrizione parenterale totale o con nutrizione enterale, quest'ultima anche con la realizzazione di un accesso artificiale all'apparato digerente. 
+ 
+La NAD puï¿½ essere attivata in via temporanea o permanente quando non sia possibile la nutrizione spontanea orale, in presenza di una delle seguenti patologie: 
+ 
+a) malattie dell'apparato digerente:  
+ 
+ - malattie infiammatorie dell'apparato digerente, acute o croniche (enterite da raggi, schelodermia, morbo di Crohn, colite ulcerosa, ecc.); 
+ 
+- fistole digestive; 
+ 
+- sindrome da intestino corto; 
+ 
+ - neoplasie; 
+ 
+b) patologie neurologiche: 
+ 
+- sclerosi laterale amiotrofica; 
+ 
+- sclerosi multipla; 
+ 
+- ictus; 
+ 
+- demenza senile, Alzheimer; 
+ 
+- neoplasie; 
+ 
+c)  altre forme morbose con grave compromissione metabolico-nutrizionale: 
+ 
+- AIDS; 
+ 
+- errori metabolici congeniti; 
+ 
+- anoressia mentale; 
+ 
+- lesioni da caustici; 
+ 
+- grave insufficienza renale cronica; 
+ 
+d) altre condizioni patologiche non espressamente previste nel succitato elenco previa acquisizione del parere favorevole del Centro di coordinamento regionale. 
+ 
+3.     I pazienti devono accettare espressamente il trattamento a domicilio di cui al comma 1, dopo essere stati opportunamente informati dei rischi eventualmente ad esso connessi. Nel caso di pazienti pediatrici o adulti incapaci di intendere e di volere, tale accettazione deve essere manifestata da almeno un componente del nucleo familiare o da altra persona che ne abbia la legale rappresentanza. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+(Indirizzi organizzativi) 
+ 
+La NAD deve essere realizzata per via enterale e parenterale con l'impiego di nutrienti che siano prodotti, confezionati ed utilizzati secondo la normativa vigente e forniti ai pazienti possibilmente presso il loro domicilio. 
+ 
+Con la presente legge viene istituito un Centro di coordinamento regionale per la NAD che viene identificato nella Unitï¿½ Opertiva di Dietologia e Nutrizione clinica giï¿½ operante nella A.S.L. n. 3 "CENTRO MOLISE", al fine di garantire una gestione adeguata dei bisogni nutrizionali dei pazienti, di cui al precedente articolo, residenti nella Regione ed un razionale impiego delle risorse che a tal fine le Aziende sanitarie locali provvederanno a destinare. 
+ 
+L'Unitï¿½ Operativa su individuata deve svolgere le funzioni di Centro di coordinamento e di Centro di riferimento regionale per la nutrizione artificiale. 
+ 
+I Direttori generali delle A.S.L., ad eccezione della A.S.L. n. 3 "CENTRO MOLISE" sede del Centro di riferimento, entro 3 mesi dall'entrata in vigore della presente legge, individuano, tra il personale giï¿½ in organico, per ogni presidio ospedaliero della propria A.S.L. un dirigente medico in qualitï¿½ di "Referente aziendale" del Centro di coordinamento regionale e ne danno comunicazione all'Assessore regionale alle "Politiche sanitarie" ed al Centro di coordinamento regionale stesso. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+(Compiti del Centro di coordinamento e dei Referenti aziendali) 
+ 
+La richiesta di trattamento nutrizionale artificiale domiciliare proveniente dalle Unitï¿½ Operative ospedaliere o dai medici di medicina generale deve essere indirizzata od al Referente aziendale o direttamente al Centro di coordinamento regionale. 
+ 
+Il Centro di coordinamento regionale ha il compito di: 
+ 
+a) autorizzare il trattamento nutrizionale artificiale domiciliare su richiesta del Referente aziendale. In caso di parere negativo invia a questi ultimi motivazione scritta; 
+ 
+b) valutare l'indicazione alla NAD in caso di richieste pervenute direttamente al Centro; 
+ 
+c) stabilire i fabbisogni nutrizionali del paziente; 
+ 
+d) scegliere il tipo di trattamento piï¿½ idoneo; 
+ 
+e) indicare l'accesso nutrizionale piï¿½ opportuno. 
+ 
+3.    Il Referente aziendale ha il compito di: 
+ 
+a) rivolgersi tempestivamente al responsabile del servizio farmaceutico dell'Azienda sanitaria locale (A.S.L.) facendo richiesta dei nutrienti, dei materiali e delle attrazzature destinati al trattamento nutrizionale; 
+ 
+b) raccogliere l'assenso al trattamento domiciliare del paziente o di chi lo sostituisce o lo rappresenta. 
+ 
+4.     Il Centro di coordinamento regionale ed i Referenti aziendali hanno il compito di sottoporre il paziente o il soggetto che ad esso presta assistenza ad un idoneo corso di preparazione al trattamento. Tale corso di preparazione ï¿½ tenuto di preferenza laddove il trattamento ha luogo, utilizzando materiali ed attrezzature corrispondenti a quelli destinati al paziente per il trattamento. 
+ 
+5.     Il Centro di coordinamento regionale ed il Referente aziendale che ha attivato il trattamento nutrizionale artificiale domiciliare sono responsabili del successivo controllo del paziente, dell'applicazione dei protocolli terapeutici e della raccolta dei dati occorrenti per le elaborazioni e le valutazioni statistiche. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+(Controlli chimici ed ematochimici) 
+ 
+Il controllo dei pazienti per il monitoraggio dei parametri clinici e dei parametri di laboratorio, ritenuti necessari, deve essere preferibilmente realizzato ambulatorialmente o in regime di day hospital e, comunque, con cadenza almeno mensile. Ove il paziente non possa accedere all'ambulatorio, il controllo deve essere effettuato al domicilio del paziente da personale dell'Unitï¿½ Operativa di nutrizione clinica di Campobasso (Centro di coordinamento) o da personale della A.S.L. di appartenenza. 
+ 
+I controlli ematochimici devono essere effettuati dalla A.S.L. di appartenenza del paziente, sulla base delle indicazioni del Centro di coordinamento regionale o del Referente aziendale; non ï¿½ richiesta la prescrizione del medico di base. 
+ 
+Per le visite ambulatoriali e per gli esami di laboratorio il paziente ï¿½ esonerato dalla partecipazione alla spesa sanitaria. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+(Ricovero in urgenza) 
+ 
+ï¿½ consentito ai pazienti nei cui confronti sia stata intrapresa la NAD richiedere con urgenza l'ospedalizzazione in caso di complicanze riconducibili al trattamento nutrizionale ovvero dipendenti dalla malattia di base. 
+ 
+L'ospedalizzazione di cui al comma 1 ï¿½ preferibilmente eseguita, ove possibile, in regime di day hospital presso il Centro di coordinamento regionale o negli ospedali delle A.S.L. di appartenenza. Ove il ricovero presso il Centro di coordinamento non sia possibile, il Referente aziendale provvederï¿½ a comunicare l'avvenuto ricovero al Centro di coordinamento stesso il cui personale ï¿½ autorizzato a seguire il paziente nella struttura ove ï¿½ stato riciverato, in regime di consulenza con il supporto del Referente aziendale interessato. 
+ 
+Le Aziende sanitarie entro sei mesi dall'entrata in vigore della presente legge adotteranno tutte le misure organizzative e regolamentari necessarie al potenziamento, ove esistenti, o alla realizzazione delle strutture assistenziali di cui al comma 2. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+(Conclusione del trattamento)  
+ 
+Il trattamento nutrizionale artificiale domiciliare ï¿½ da ritenere concluso nei seguenti casi: 
+ 
+a) guarigione definitiva del paziente; 
+ 
+b) interruzione del trattamento di durata superiore a tre mesi; 
+ 
+c) rifiuto del trattamento o mancata collaborazione nell'osservanza dei protocolli terapeutici e dei controlli da parte del paziente o di chi gli presta assistenza; 
+ 
+d) riospedalizzazione della durata superiore ad un mese. 
+ 
+2. Entro un mese dalla conclusione del trattamento nutrizionale artificiale domiciliare, i Referenti aziendali sono tenuti a trasmettere la documentazione completa del trattamento cessato al Centro di coordinamento per le relative elaborazioni statistiche. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+(Obblighi dei pazienti) 
+ 
+I pazienti devono seguire il trattamento nutrizionale artificiale domiciliare in conformitï¿½ alle metodiche apprese durante il corso di cui all'articolo 8, comma 4 e sono tenuti ad accettare eventuali mutamenti che siano stati ritenuti necessari dai medici responsabili del programma. 
+ 
+Ai pazienti non ï¿½ consentito apportare variazioni al trattamento intrapreso senza che queste siano state preventivamente concordate con l'unitï¿½ operativa, alla quale i pazienti sono tenuti a segnalare qualsiasi modificazione che sopravvenga nel corso del trattamento praticato. 
+ 
+I pazienti hanno l'obbligo di sottoporsi ai controlli clinici e di laboratorio prescritti dal Centro di coordinamento o dai Referenti  aziendali che li hanno assunti in cura e di attenersi scrupolosamente alle istruzioni ricevute. 
+ 
+I pazienti sono, altresï¿½, tenuti al corretto uso ed alla diligente ed appropriata conservazione degli apparecchi e dei materiali ricevuti nonchï¿½ alla loro restituzione, unitramente ai materiali rimasti eventualmente inutilizzati, al termine della terapia. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>
+ 
+(Ruolo delle A.S.L.) 
+ 
+La A.S.L. competente per territorio ï¿½ tenuta a fornire al paziente - tramite le farmacie ospedaliere - i nutrienti ed i materiali necessari per il trattamento nutrizionale artificiale domiciliare sia enterale che parenterale sulla base della richiesta formulata dal Centro di coordinamento regionale. 
+ 
+Nel caso siano richieste sacche nutrizionali pre-confezionate per la nutrizione parenterale, il responsabile del servizio farmaceutico competente per territorio deve acquisire la richiesta predisposta dal Centro di coordinamento o, su delega di questo, dal Referente aziendale ed inviarla alle farmacie ospedaliere per la fornitura delle sacche e di quanto necessario per l'attuazione della nutrizione artificiale. 
+ 
+Le A.S.L. si adoperano affinchï¿½ il trattamento nutrizionale artificiale domiciliare sia effettuato nel rispetto dei requisiti tecnici ed organizzativi che garantiscano al paziente un servizio sicuro ed efficace. 
+ 
+Il Centro di coordinamento regionale, direttamento o tramite i Referenti aziendali di appartenenza del paziente, ï¿½ tenuto all'istituzione dei pazienti e dei loro familiari sulle procedure e sul corretto uso dei materiali necessari alla NAD di cui all'art. 3, comma 4. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <rubrica>
+ 
+(Ruoli dei direttori generali) 
+ 
+ I Direttori generali delle A.S.L. provvedono, entro sei mesi dall'entrata in vigore della presente legge, a renderla operativa in tutte le sue articolazioni predisponendo a tal fine assetti organizzativi necessari a garantire le risorse umane, logistiche e strumentali adeguate alla realizzazione di un servizio efficiente ed efficace. 
+ 
+ L'attuazione di quanto previsto al comma 1 rappresenterï¿½ criterio di valutazione dei Direttori generali. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+
+                <rubrica>
+ 
+(Attivitï¿½ di formazione del Centro di coordinamento) 
+ 
+Al Centro di coordinamento di cui all'<rif xlink:href="#art2">articolo 2</rif>, commi 2 e 3, sono attribuiti i seguenti compiti formativi: 
+ 
+a) stimolare, nell'ambito dell'attivitï¿½ delle varie A.S.L., l'uso di protocolli di valutazione e di trattamento della NAD, il piï¿½ possibile omogenei; 
+ 
+b) coordinare nell'ambito regionale l'attivitï¿½ di diffusione dell'informazione alle A.S.L., alle strutture di ricovero ed ai medici di base; 
+ 
+c)  raccogliere le informazioni e redigere un rapporto annuale da inviare all'Assessore regionale alle "Politiche sanitarie" della Regione; 
+ 
+d) attivare e gestire, insieme alle unitï¿½ operative, corsi di addestramento e di perfezionamento sulle tecniche della nutrizione artificiale per medici, infermieri e farmacisti di tutte le A.S.L., in modo che ogni struttura sanitaria del territorio regionale possa disporre di personale in grado di collaborare alla realizzazione della nutrizione artificiale r della NAD in particolare. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art10-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+                <rubrica>
+ 
+(Partecipazione di societï¿½ di servizi o strutture private convenzionate) 
+ 
+Le A.S.L. possono avvalersi, sulla base di apposite convenzioni, di societï¿½ di servizi che fornendo personale e materiali occorrenti al trattamento nutrizionale artificiale domiciliare coadiuvino l'attivitï¿½ del Centro di coordinamento regionale sulla base di indirizzi da questo emanati. 
+ 
+In caso di difficoltï¿½ organizzative o di valutazione di maggior economicitï¿½ di esercizio, una convenzione puï¿½ essere stipulata tra le altre A.S.L. regionali e la A.S.L. n. 3 "CENTRO MOLISE" al fine di garantire la fornitura dei prodotti, delle attrezzature e delle competenze professionali necessari all'attuazione del trattamento nutrizionale artificiale domiciliare. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art11-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12 </num>
+                <rubrica>
+ 
+(Pubblicazione) 
+ 
+La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise. 
+ 
+La presente legge sarï¿½ pubblicata nel Bollettino Ufficiale della Regione. ï¿½ fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art12-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

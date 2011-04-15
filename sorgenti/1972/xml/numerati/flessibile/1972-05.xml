@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19720520" num="7" tipo="BURM"/>
+                <entratainvigore norm="19720604"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1972-03-31;5"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 07 del 20/05/1972 
+ 
+Oggetto 
+Regione - Servizio di Tesoreria - Istituzione 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 2 dalla legge n. 28/2003 art. 5 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale  </tipoDoc>
+            <dataDoc norm="19720331">31 Marzo 1972</dataDoc>, n. <numDoc>5</numDoc>
+            <titoloDoc>Istituzione del servizio di Tesoreria della Regione Molise. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+ï¿½ istituito il servizio di Tesoreria della Regione Molise. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+Il servizio di tesoreria viene affidato dalla Giunta Regionale, con apposita convenzione ed a seguito di licitazione privata, ad un Istituto di credito di diritto pubblico, o ad una Banca di   interesse nazionale, o ad altra Azienda di credito, esercenti attivitï¿½ nel territorio della Regione. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+La Giunta Regionale, sentita la competente Commissione Permanente, provvede ad approvare il contratto nel quale dovranno essere indicate le modalitï¿½ e le condizioni di resa del servizio, gli interessi da corrispondere alla Regione sulle somme giacenti in Tesoreria, le norme ed i criteri secondo i quali dovrï¿½ essere esercitata la vigilanza della Regione sul servizio. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+La Tesoreria Regionale ï¿½ tenuta ad effettuare i pagamenti disposti dalla Regione, anche quando si verifichi insufficienza o mancanza di disponibilitï¿½ nel fondo cassa regionale, con anticipazioni aventi carattere eccezionale e temporaneo, secondo le modalitï¿½ e nei limiti da stabilirsi nella convenzione di cui ai precedenti articoli 2 e 3. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+La presente Legge, a norma del <rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">secondo comma dell'articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38-com2">articolo 38/2ï¿½ comma dello Statuto</rif>, ï¿½ dichiarata urgente ed entra in vigore il giorno successivo alla sua pubblicazione. 
+ 
+La stessa sarï¿½ pubblicata sul Bollettino Ufficiale della Regione. 
+ 
+ï¿½ fatto obbligo a chiunque spetti, di osservarla e farla osservare come Legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

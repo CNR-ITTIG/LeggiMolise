@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19940716" num="14" tipo="BURM"/>
+                <entratainvigore norm="19940731"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1994-06-30;10"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 14 del 16/07/94 
+ 
+Oggetto 
+Commissioni di concorso e disposizioni procedurali 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 4 dalla legge n. 19/2002 art. 8 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19940630">30 Giugno 1994</dataDoc>, n. <numDoc>10</numDoc>
+            <titoloDoc>Nomina e composizione delle commissioni per l'accesso all'impiego regionale e per la progressione in carriera 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: COMMISSIONI DI ESAME 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La composizione delle commissioni giudicatrici nei procedimenti di selezione per l'accesso allo impiego e per la progressione di carriera del personale della Regione ï¿½ disciplinato in   conformitï¿½ ai principi contenuti nell' <rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#art8">art. 8 del decreto legislativo 3 febbraio 1993, n. 29</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+                <rubrica>: NOMINA E COMPOSIZIONE DELLE COMMISSIONI PER L'ACCESSO ALL'IMPIEGO REGIONALE 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <alinea> Le commissioni dei concorsi di cui all'<rif xlink:href="#art1">art. 1</rif> sono costituite con decreto del Presidente della   Giunta regionale, previa delibera della Giunta, mediante sorteggio disciplinato dai successivi   commi, e sono cosï¿½ composte: 
+ 
+</alinea>
+                    <el id="art2-com1-leta">
+                        <num>a)</num>
+                        <corpo> concorsi per l'accesso alle qualifiche dirigenziali: 
+ 
+- dirigente regionale con incarico di coordinamento o dirigente generale dell'Amministrazione statale o di Enti Pubblici o docente universitario ordinario o magistrato con qualifica non inferiore a quella di Consigliere di Cassazione o Consigliere di Stato o equiparata con funzioni di Presidente e due esperti nelle materie sulle quali vertono le prove di esame scelti tra dirigenti regionali di seconda qualifica, dirigenti statali o di Enti Pubblici di qualifica equivalente a quella di secondo dirigente regionale o tra docenti universitari con almeno la qualifica di associato;</corpo>
+                    </el>
+                    <el id="art2-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> concorsi per l'accesso alle qualifiche funzionali settima ed ottava: 
+ 
+- dirigente regionale o docente universitario ordinario con funzioni di Presidente e due esperti nelle materie sulle quali vertono le prove di esame scelti tra dirigenti regionali, dello Stato o di altri Enti pubblici o tra docenti universitari almeno con la qualifica di associato, liberi professionisti iscritti agli albi professionali da almeno 10 anni;</corpo>
+                    </el>
+                    <el id="art2-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> concorsi per l'accesso alle qualifiche funzionali quinta e sesta: 
+ 
+- dirigente regionale, dello Stato o di altri Enti Pubblici con funzioni di Presidente e due   componenti esperti nelle materie su cui vertono le prove di esame scelti tra dipendenti regionali,   dello Stato o di altri Enti pubblici appartenenti a qualifica funzionale non inferiore all'ottava o   equiparata;</corpo>
+                    </el>
+                    <el id="art2-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> concorsi per l'accesso alle altre qualifiche: 
+ 
+- dirigente regionale, dello Stato o di altri Enti Pubblici con funzioni di Presidente e due dipendenti regionali, dello Stato o di altri Enti Pubblici con qualifica non inferiore alla settima o equiparata. </corpo>
+                    </el>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Entro tre mesi dalla data di entrata in vigore della presente legge, sono istituiti d'ufficio presso   il Settore Amministrazione e Gestione del Personale, ovvero a domanda, quattro albi per  la composizione delle commissioni giudicatrici di cui alle precedenti lettere a), b), c) e d) di soggetti aventi requisiti di competenza ed esperienza in una delle seguenti aree di attivitï¿½: giuridico   amministrativa ed economica - finanziaria; territorio ed ambiente; sanitï¿½ e servizi sociali; informazione, cultura e istruzione. </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Gli albi di cui al comma precedente contengono rispettivamente un elenco di almeno venti   persone aventi i requisiti di cui al <rif xlink:href="#art2-com1">precedente comma 1</rif> lettere a), b), c) e d) con l'indicazione, a   fianco di ciascun soggetto, dei titoli per assumere le funzioni di presidente e/o componente della   commissione esaminatrice. ï¿½ammessa l'iscrizione a piï¿½ di un elenco ove sussistono le   necessarie competenze. </corpo>
+                </comma>
+                <comma id="art2-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Per la costituzione degli albi previsti dai commi precedenti, il Responsabile del Settore   Amministrazione e Gestione del Personale provvede ad emanare un avviso pubblico, cui verrï¿½ data pubblicitï¿½ nel bollettino ufficiale regionale, su tutta la stampa regionale e su almeno un quotidiano, a tiratura nazionale, indicando le modalita d'iscrizione e le finalitï¿½ della stessa. </corpo>
+                </comma>
+                <comma id="art2-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> La rappresentanza del personale regionale, nelle commissioni di concorsi per l'accesso alle   varie qualifiche, ï¿½ comunque limitata ad una unitï¿½. </corpo>
+                </comma>
+                <comma id="art2-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> I componenti delle commissioni dei concorsi che, per una qualsiasi ragione o impedimento,   non possano assolvere ai compiti loro conferiti ono sostituiti con le stesse procedure previste   dai commi precedenti, fermo restando la validitï¿½ delle operazioni concorsuali ritualmente   effettuate. </corpo>
+                </comma>
+                <comma id="art2-com7">
+                    <num>
+ 
+7.</num>
+                    <corpo> Possono essere nominati Presidenti o componenti delle commissioni giudicatrici, anche   dipendenti regionali dello Stato o di altri Enti pubblici in questione purchï¿½ in possesso dei   prescritti requisiti al momento del collocamento a riposo. </corpo>
+                </comma>
+                <comma id="art2-com8">
+                    <num>
+ 
+8.</num>
+                    <corpo> L'utilizzazione del personale in quiescenza di cui al precedente comma non ï¿½ consentito se il   rapporto di impiego sia stato risolto per motivi disciplinari, per ragioni di salute o per decadenza dall'impiego comunque determinate. </corpo>
+                </comma>
+                <comma id="art2-com9">
+                    <num>
+ 
+9.</num>
+                    <corpo> Non possono far parte delle commissioni dei concorsi i Consiglieri regionali e coloro che   ricoprono cariche politiche o che siano rappresentanti sindacali o designati dalle confederazioni e Organizzazioni sindacali nonchï¿½ coloro che ricoprano incarichi direttivi o esecutivi nei partiti a livello provinciale, regionale o nazionale. </corpo>
+                </comma>
+                <comma id="art2-com10">
+                    <num>
+ 
+10.</num>
+                    <corpo> Al fine di garantire pari opportunitï¿½ tra uomini e donne, almeno un terzo dei posti delle commissioni dei concorsi, salva motivata impossibilitï¿½, ï¿½ riservata alle donne. </corpo>
+                </comma>
+                <comma id="art2-com11">
+                    <num>
+ 
+11.</num>
+                    <corpo> Le funzioni di segretario delle commissioni dei concorsi sono svolte da dipendenti regionali  inquadrati in qualifiche non inferiore alla sesta. </corpo>
+                </comma>
+                <comma id="art2-com12">
+                    <num>
+ 
+12.</num>
+
+                    <corpo> Ogni quattro anni si provvede all'integrazione degli albi previsti dal <rif xlink:href="#art2-com2">precedente comma 2</rif> secondo le procedure sopra indicate e alla cancellazione dei nominativi non piï¿½ in possesso dei requisiti previsti dalla presente legge. </corpo>
+                </comma>
+                <comma id="art2-com13">
+                    <num>
+ 
+13.</num>
+                    <corpo> I componenti delle commissioni esaminatrici devono essere scelti con criteri di rotazione e, in   ogni caso, mai piï¿½ di una volta l'anno. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3</num>
+                <rubrica>: SEMPLIFICAZIONE DELLE PROCEDURE CONCORSUALI E TERMINE DEI LAVORI   CONCORSUALI 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> Le commissioni giudicatrici devono espletare tutte le prove concorsuali e concludere i lavori   entro 210 giorni dalla data di pubblicazione del relativo bando qualora i candidati siano inferiori   o pari a 300, entro 270 giorni qualora siano superiori a 300 ed inferiore o pari a 1.000 ed entro 420 giorni qualora superiori a 1.000. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Ove possibile le prove concorsuali possono essere effettuate con procedure semplificate ed   automatizzate previa espressa previsione del relativo bando. </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Qualora la valutazione delle prove sia effettuata con criteri oggettivi, ï¿½ consentito il ricorso ad enti o societï¿½ specializzate che devono comunque operare nel rispetto delle direttive della commissione giudicatrice. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+                <rubrica>: COMPENSI AI COMPONENTI DELLE COMMISSIONI 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <corpo> Ai componenii delle commissioni dei concorsi ï¿½ corrisposto un compenso cosï¿½ determinato in   base al livello funzionale del posti messi a concorso: 
+ 
+II/IV qualifica funzionale L. 800.000 
+ 
+V/VI qualifica funzionale L. 1.000.000 
+ 
+VII/VIII qualifica funzionale  L. 1.200.000 
+ 
+qualifiche dirigenziali L. 1.500.000. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> Ai predetti compensi va aggiunta una integrazione fissa nella misura di: 
+ 
+</alinea>
+                    <el id="art4-com2-leta">
+                        <num>a)</num>
+                        <corpo> Lire 500.000 nel caso in cui i candidati presenti alla prima prova di esame siano in   numero superiore a 50 ed inferiori a 150;</corpo>
+                    </el>
+                    <el id="art4-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> Lire 1.000.000 nel caso in cui i candidati presenti alla prima prova di esame siano in   numero superiore a 150. </corpo>
+                    </el>
+                </comma>
+                <comma id="art4-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> I compensi di cui ai precedenti commi sono corrisposti anche a personale dipendente dalla   regione chiamato a far parte delle commissioni giudicatrici, purchï¿½ l'attivitï¿½ sia resa al di fuori   del normale orario di lavoro e non sia riconducibile alle mansioni che il dipendente ï¿½  tenuto a svolgere in relazione al posto che occupa o all'incarico ricoperto. </corpo>
+                </comma>
+                <comma id="art4-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> Ai componenti e ai segretari delle predette commissioni, qualora ne ricorrano le condizioni,   in aggiunta ai compensi previsti dal <rif xlink:href="#art4-com1">precedente comma 1</rif>, ï¿½ corrisposto il rimborso delle spese di   viaggio e di pernottamento cosi come stabilito dalle vigenti normative. </corpo>
+                </comma>
+                <comma id="art4-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> Ai componenti dimissionari e subentranti competeranno i compensi di cui ai commi precedenti in misura proporzionale rispetto alle giornate di effettiva partecipazione al lavoro delle commissioni. </corpo>
+                </comma>
+                <comma id="art4-com6">
+                    <num>
+ 
+6.</num>
+
+                    <corpo> Ai segretari delle commissioni dei concorsi ï¿½ corrisposto un compenso pari al 50% degli  importi spettanti a componenti secondo i parametri di cui al <rif xlink:href="#art4-com1">precedente comma 1</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+                <rubrica>: NORME TRANSITORIE PER I CONCORSI IN CORSO DI SVOLGIMENTO 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Le commissioni dei concorsi giï¿½ banditi, nominate prima della data di entrata in vigore della presente legge, sono rinnovate secondo la composizione e la procedura prevista dal <rif xlink:href="#art2">precedente articolo 2</rif>. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> In deroga alle disposizioni dei commi 2, 3 e 4 del <rif
+                            xlink:href="#art2">precedente articolo 2</rif> e al fine di accelerare le   procedure, le commissioni di esame dei concorsi giï¿½ banditi e/o in corso di espletamento sono   nominate secondo le modalitï¿½ dell'<rif xlink:href="#art2-com1">articolo 2 comma 1</rif>, senza attivare le procedure del sorteggio e sentita la competente Commissione Consiliare che dovrï¿½ esprimersi entro il termine di venti giorni, decorso inutilmente il quale la Giunta Regionale potrï¿½ procedere comunque alle nomine. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Le commissioni giudicatrici dei concorsi giï¿½ banditi e previsti dall'<rif
+                            xlink:href="urn:nir:regione.molise:legge:1988-11-23;24#art37">articolo 37 della legge  regionale 23 novembre 1988 n. 24</rif> e dall'<rif xlink:href="urn:nir:regione.molise:legge:1991-09-12;15#art4">articolo 4 della legge regionale 12 settembre 1991 n. 15</rif>   sono integrate da un docente del corso nominato dal Presidente della Giunta Regionale su  conforme delibera della Giunta. </corpo>
+                </comma>
+                <comma id="art5-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Le operazioni concorsuali o selettive giï¿½ espletate alla data di entrata in vigore della presente legge vanno ripetute, ivi compresa la valutazione dei titoli, ad eccezioni di quelle per le quali non sia ancora avvenuta anche in parte, la valutazione dei candidati. In quest'ultimo caso la commissione deve peraltro fare proprie le decisioni giï¿½ assunte dalla precedente commissione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6</num>
+                <rubrica>: ESTENSIONE AGLI ENTI SUB - REGIONALI 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <corpo> Nell'espletamento dei concorsi di rispettiva competenza gli Enti strumentali della regione si   adegueranno alle norme della presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7</num>
+                <rubrica>: NORMA FINALE 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod
+                                id="art7-com1-mod1"> Sono abrogati gli articoli 5 e 6 della <rif
+                                xlink:href="urn:nir:regione.molise:legge:1980-05-08;12">legge regionale n. 12, 8 maggio 1980</rif>, l'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1981-06-08;11#art2">articolo 2 della   legge regionale n. 11, 8 giugno 1981</rif>, l'articolo n.16 della <rif xlink:href="urn:nir:regione.molise:legge:1985-04-29;13">legge regionale n. 13 del 29 aprile 1985</rif>   e qualsiasi norma legislativa o regolamentare incompatibile con la presente legge. 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8</num>
+                <rubrica>: ONERI FINANZIARI 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+                    <corpo> Gli oneri derivanti dall'applicazione della presente legge saranno posti a carico del cap.   5820 del bilancio 1994 e al corrispondente capitolo dei bilanci degli esercizi successivi.                          
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9</num>
+                <rubrica>: DICHIARAZIONE D'URGENZA 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La presente legge ï¿½ dichiarata urgente ai sensi dell' <rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel   Bollettino Ufficiale della Regione. </corpo>
+                </comma>
+                <comma id="art9-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> ï¿½ fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

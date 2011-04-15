@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19930916" num="20" tipo="BURM"/>
+                <entratainvigore norm="19931001"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1993-09-10;20"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 20 del 16/09/1993 
+ 
+Oggetto 
+Contributi per l'attuazione di programmi per favorire le forme associative l'assistenza tecnica e la promozione sociale ed economica dell'agricoltura 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 31/2000 art. 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19930910">10 Settembre 1993</dataDoc>, n. <numDoc>20</numDoc>
+            <titoloDoc>Interventi contributivi in favore delle Organizzazioni Professionali Regionali degli imprenditori agricoli 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 31/2000 art. 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+        <annessi>
+            <annesso id="ann1">
+                <testata>
+                    <denAnnesso>
+                        <h:p>Tabella A</h:p>
+                    </denAnnesso>
+                    <titAnnesso>
+                        <h:p/>
+                    </titAnnesso>
+                    <preAnnesso>
+                        <h:p/>
+                    </preAnnesso>
+                </testata>
+                <DocumentoNIR nome="">
+                    <meta>
+                        <descrittori>
+                            <pubblicazione norm="" num="" tipo="GU"/>
+                            <entratainvigore norm=""/>
+                            <redazione id="ann1-red1" nome="" norm=""/>
+                            <urn valore=""/>
+                        </descrittori>
+                    </meta>
+                    <intestazione/>
+                    <formulainiziale/>
+                    <contenitore id="ann1-" nome="">
+                        <h:p/>
+                        <h:p>DATI PER LA VALUTAZIONE DEL GRADO DI RAPPRESENTATIVITï¿½ 
+</h:p>
+                        <h:p> 
+a) N. Soci 
+ 
+</h:p>
+                        <h:p>b) Pratiche pensionistiche acquisite 
+ 
+</h:p>
+                        <h:p>c) Punteggio realizzato 
+ 
+</h:p>
+                        <h:p>d) N. Denunce dei redditi 
+ 
+</h:p>
+                        <h:p>e) Deleghe 
+ 
+</h:p>
+                        <h:p>f) N. Tesserati 
+ 
+</h:p>
+                        <h:p>g) Contabilitï¿½ IVA 
+ 
+</h:p>
+                        <h:p>h) Attivitï¿½ UMA 
+ 
+</h:p>
+                        <h:p>i) N. dei Corsi Professionali 
+ 
+</h:p>
+                        <h:p>1) Schede rilevamento produzione latte 
+ 
+</h:p>
+                        <h:p>m) N. Domande integrazione olio 
+ 
+</h:p>
+                        <h:p>n) N. Domande integrazione grano 
+ 
+</h:p>
+                        <h:p>o) N. Associati 
+ 
+</h:p>
+                        <h:p>COGNOME E NOME MANSIONI POSIZIONI INPS 
+ 
+</h:p>
+                        <h:p>q) Attivitï¿½ Sindacale: 
+</h:p>
+                        <h:p> 
+Convegni 
+ 
+</h:p>
+                        <h:p>Congressi 
+ 
+</h:p>
+                        <h:p>Tavole rotonde 
+ 
+</h:p>
+                        <h:p>Altre attivitï¿½ Sindacali 
+ 
+</h:p>
+                        <h:p>r) Organi di informazione: 
+</h:p>
+                        <h:p> 
+TESTATA - N. COPIE - DIRETTORE 
+ 
+</h:p>
+                        <h:p>s) Sedi Centrali e Periferiche: 
+</h:p>
+                        <h:p> 
+COMUNE - INDIRIZZO - CONTRATTO DI LOCAZIONE - LOCAZIONE 
+</h:p>
+                    </contenitore>
+                    <formulafinale/>
+                    <conclusione/>
+                </DocumentoNIR>
+            </annesso>
+        </annessi>
+    </LeggeRegionale>
+</NIR>

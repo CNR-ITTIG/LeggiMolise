@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19941201" num="24" tipo="BURM"/>
+                <entratainvigore norm="19941216"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1994-11-28;21"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="34.trasporti e viabilit&amp;#xe0;, navigazione nelle acque interne"/>
+                </materie>
+            </descrittori>
+        </meta><?error 34.Trasporti e viabilit&#xE0;, navigazione nelle acque interne 
+ 
+Bollettino 
+Bollettino Ufficiale n. 24 del 01/12/94 
+ 
+Oggetto 
+Rimborso regionale della differenza di costo - Disposizioni per il rilascio degli abbonamenti 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19941128">28 Novembre 1994</dataDoc>, n. <numDoc>21</numDoc>
+            <titoloDoc>Intervento finanziario per il trasporto in abbonamento dei lavoratori molisani mediante autolinee non di competenza della Regione Molise. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> A favore dei lavoratori molisani che utilizzano in abbonamento autoservizi di linea interurbani   non di competenza della Regione Molise per recarsi al posto di lavoro, la Regione interviene   finanziariamente per compensare la differenza di costo tra l'abbonamento riferito all'autolinea   utilizzata e quello in vigore a livello regionale per analoga percorrenza. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art.2 </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <alinea> Alle imprese che rilasceranno in favore dei lavoratori molisani abbonamenti di costo pari a   quello previsto dagli analoghi titoli di viaggio, in vigore per i servizi di competenza della Regione   Molise, verrï¿½ trimestralmente rimborsata la relativa differenza previo presentazione di   fattura con allegato un elenco in cui a fianco dei lavoratori beneficiari siano indicati: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo>l'autolinea utilizzata; 
+ 
+-l'importo pagato e quello spettante. </corpo>
+                    </ep>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il rimborso ï¿½ disposto con decreto del Presidente della Giunta Regionale o dell'Assessore ai Trasporti se delegato. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> Il rilascio degli abbonamenti speciali di cui alla presente legge ï¿½ subordinato alla condizione che il richiedente documenti di viaggiare, al momento del primo rilascio, per motivi di lavoro. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <corpo> All'onere derivante dall'attuazione della presente legge, valutato per l'anno 1994 in 25   (venticinque) milioni di lire, si fa fronte con i fondi previsti sul capitolo 19410 del Bilancio 1994 (Fondo Nazionale Trasporti). </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Per gli anni successivi si provvederï¿½ con la stessa legge approvativa del bilancio. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La presente legge ï¿½ dichiarata urgente, ai sensi del <rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">2ï¿½ comma dell'articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto regionale</rif>, ed entra in vigore il giorno successivo a quello di pubblicazione sul Bollettino Ufficiale della Regione. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> ï¿½ fatto obbligo a chiunque spetti di osservarla e farla osservare ccme legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

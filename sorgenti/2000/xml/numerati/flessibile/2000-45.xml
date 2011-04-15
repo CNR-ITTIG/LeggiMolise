@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20001116" num="22" tipo="BURM"/>
+                <entratainvigore norm="20001201"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-10-30;45"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="14.governo del territorio, urbanistica, edilizia"/>
+                </materie>
+            </descrittori>
+        </meta><?error 14.Governo del territorio, urbanistica, edilizia 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 22 del 16 novembre 2000 
+ 
+Oggetto 
+Giubileo del 2000 - Opere - Realizzazione - Fissazione di nuovi termini 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato uno 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20001030">30 ottobre 2000</dataDoc>n. <numDoc>45</numDoc>
+            <titoloDoc>Integrazione dell'<rif
+                    xlink:href="urn:nir:regione.molise:legge:2000-02-04;9#art1">articolo 1 della Legge Regionale 4 febbraio 2000, n. 9</rif>, concernente: "Modifica all'<rif
+                    xlink:href="urn:nir:regione.molise:legge:1998-08-04;14#art3">articolo 3 della Legge Regionale 4 agosto 1998, n. 14</rif>, ad oggetto: "Grande Giubileo del 2000 - Snellimento delle procedure urbanistiche ed amministrative". 
+ 
+Il Commissario di Governo 
+ 
+ha apposto il visto ed ha annotato quanto segue: 
+ 
+"Il Governo ha tuttavia osservato che il mancato rispetto dei termini previsti dalla <rif xlink:href="urn:nir:stato:legge:1997;270">Legge n. 270/1997</rif> per il completamento delle opere puï¿½ comportare il definanziamento totale o parziale dell'intervento da parte dello Stato, ai sensi dell'art. 4, comma 2 della citata Legge".  
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato uno</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

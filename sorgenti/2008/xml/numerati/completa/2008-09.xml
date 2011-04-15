@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20080430" num="9" tipo="BURM"/>
+                <entratainvigore norm="20080515"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2008-04-21;9"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N.9  del 30 aprile 2008 
+ 
+Oggetto 
+Animali d'affezione - Istituzione dei cimiteri - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20080421">21 aprile 2008</dataDoc>, n. <numDoc>9</numDoc>.  
+ 
+<titoloDoc>Cimiteri per animali d'affezione.  
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ARTICOLO 1 </num>
+                <rubrica>
+ 
+Finalitï¿½ 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge detta i criteri e disciplina le modalitï¿½ per l'istituzione di cimiteri per animali di affezione, al fine di garantire la tutela dell'igiene pubblica, la salute della comunitï¿½ e dell'ambiente e consentire la continuitï¿½ del rapporto affettivo con gli animali medesimi.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ARTICOLO 2 </num>
+                <rubrica>
+ 
+Destinatari 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> Gli animali che possono beneficiare della sepoltura nelle aree ad essa destinate sono quelli appartenenti alle specie zoofile domestiche, comunemente classificati come animali di affezione di piccola taglia, a condizione che un apposito certificato veterinario escluda la presenza di malattie trasmissibili all'uomo o denunciabili ai sensi del vigente regolamento di polizia veterinaria.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>ARTICOLO 3 </num>
+                <rubrica>
+ 
+Autorizzazione 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> I cimiteri possono essere istituiti e gestiti sia da enti pubblici che da soggetti privati previa autorizzazione dell'autoritï¿½ comunale secondo le procedure definite da apposito regolamento.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>ARTICOLO 4 </num>
+                <rubrica>
+ 
+Inumazione spoglie 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <corpo> Le spoglie di animali di cui all'<rif xlink:href="#art2">art. 2</rif> possono essere inumate unicamente in terra vergine senza opere murarie e con la possibilitï¿½ di posa a terra di una targa lapidea di dimensioni massime di cm. 20x20, nelle fasce di rispetto delle specifiche aree cimiteriali in conformitï¿½ al vigente regolamento di polizia veterinaria ovvero in siti individuati in zona agricola o comunque giudicati idonei dall'autoritï¿½ competente.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>ARTICOLO 5 </num>
+                <rubrica>
+ 
+Riserva 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo> Le presenti norme non si applicano alle spoglie destinate all'incenerimento in impianti autorizzati.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>ARTICOLO 6 </num>
+                <rubrica>
+ 
+Norme di attuazione 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Le modalitï¿½ tecniche, operative, di previsione del registro delle presenze e le sanzioni sono previste nell'apposito regolamento di cui all'<rif xlink:href="#art3">art. 3</rif>.  
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

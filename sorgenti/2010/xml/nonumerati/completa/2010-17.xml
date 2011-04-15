@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20101011" num="29" tipo="BURM"/>
+                <entratainvigore norm="20101026"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2010-10-08;17"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="bollettino"/>
+                </materie>
+            </descrittori>
+        </meta><?error Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 29 del 11 ottobre 2010. 
+ 
+Oggetto 
+Raccolta e commercializzazione dei funghi epigei - Disciplina - Modifiche ed integrazioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20101008">8 ottobre 2010</dataDoc>, n. <numDoc>17</numDoc>. 
+ 
+<titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:2008-02-19;4">Legge Regionale 19 Febbraio 2008, n. 4</rif>, recante 'Nuova Disciplina in Materia di Raccolta e Commercializzazione dei Funghi Epigeï¿½ 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1  </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <alinea>
+1. Alla <rif xlink:href="urn:nir:regione.molise:legge:2008-02-19;4">legge regionale 19 febbraio 2008, n. 4</rif> (Nuova disciplina in materia di raccolta e commercializzazione dei funghi epigei) sono apportate le seguenti modifiche ed integrazioni:  
+ 
+</alinea>
+                    <el id="art1-com1-leta">
+                        <num>a)</num>
+                        <corpo>
+                            <mod id="art1-com1-leta-mod1"> all'<rif
+                                    xlink:href="#art2">articolo 2</rif>, ï¿½ aggiunto il seguente comma: "<virgolette
+                                    id="art1-com1-leta-mod1-vir1" tipo="struttura">
+                                    <comma id="art1-com1-leta-mod1-vir1-com0">
+                                    <num>6-bis.</num>
+                                    <corpo> Sono esonerati dall'obbligo del versamento del contributo amministrativo annuale i raccoglitori residenti nel Molise che abbiano compiuto il sessantacinquesimo anno di etï¿½.</corpo>
+                                    </comma>
+                                </virgolette>";</mod>
+                        </corpo>
+                    </el>
+                    <el id="art1-com1-letb">
+                        <num>  
+ 
+b)</num>
+                        <corpo>
+                            <mod
+                                    id="art1-com1-letb-mod2"> all'articolo 3, comma 1, la <rif
+                                    xlink:href="#art1-com1-letc">lettera c)</rif> ï¿½ sostituita dalla seguente: "<virgolette
+                                    id="art1-com1-letb-mod2-vir2" tipo="struttura">
+                                    <el id="art1-com1-letb-mod2-vir2-letg">
+                                    <num>c)</num>
+                                    <corpo> copia della ricevuta di versamento del contributo amministrativo di cui al comma 4, fatta esclusione per coloro che hanno compiuto il sessantacinquesimo anno di etï¿½.</corpo>
+                                    </el>
+                                </virgolette>";</mod>
+                        </corpo>
+                    </el>
+                    <el id="art1-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo>
+                            <mod
+                                    id="art1-com1-letc-mod3"> all'articolo 4, ï¿½ aggiunto il seguente comma: "<virgolette
+                                    id="art1-com1-letc-mod3-vir3" tipo="struttura">
+                                    <comma id="art1-com1-letc-mod3-vir3-com0">
+                                    <num>5-bis.</num>
+                                    <corpo> In deroga a quanto stabilito all'articolo 2, comma 2, il tesserino d'idoneitï¿½ puï¿½ essere rilasciato a coloro che hanno trasferito la propria residenza nella regione Molise e che siano gia in possesso del titolo abilitativo o autorizzativo o di altro documento previsto dalla normativa della regione di provenienza.</corpo>
+                                    </comma>
+                                </virgolette>";</mod>
+                        </corpo>
+                    </el>
+                    <el id="art1-com1-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo> all'articolo 7, comma 2, dopo le parole ", da installare a sua cura e spese,", aggiungere le parole "previa comunicazione alla Provincia competente per territorio,";</corpo>
+                    </el>
+                    <el id="art1-com1-lete">
+                        <num>  
+ 
+e)</num>
+                        <corpo>
+                            <mod
+                                    id="art1-com1-lete-mod4"> all'articolo 9, il <rif
+                                    xlink:href="#art1-com1">comma 1</rif> ï¿½ sostituito dal seguente: "<virgolette
+                                    id="art1-com1-lete-mod4-vir6" tipo="struttura">
+                                    <comma id="art1-com1-lete-mod4-vir6-com0">
+                                    <num>1.</num>
+                                    <corpo> Per comprovati motivi scientifici o in occasione di mostre e manifestazioni di accertata rilevanza scientifica, il Servizio regionale competente puï¿½ rilasciare speciali autorizzazioni per la raccolta di funghi epigei determinando il periodo di validitï¿½ dell'autorizzazione e le persone autorizzate.</corpo>
+                                    </comma>
+                                </virgolette>";</mod>
+                        </corpo>
+                    </el>
+                    <el id="art1-com1-letf">
+                        <num>  
+ 
+f)</num>
+                        <corpo>
+                            <mod id="art1-com1-letf-mod5"> all'articolo 9, il comma 2 ï¿½ abrogato;</mod>
+                        </corpo>
+                    </el>
+                    <el id="art1-com1-letg">
+                        <num>  
+ 
+g)</num>
+                        <corpo>
+                            <mod
+                                    id="art1-com1-letg-mod6"> all'articolo 18, la rubrica ï¿½ sostituita dalla seguente: "<virgolette id="art1-com1-letg-mod6-vir7">Certificazione sanitaria</virgolette>".  </mod>
+                        </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2  </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+Entrata in vigore  
+ 
+1.La presente legge entra in vigore il giorno sucessivo a quello della sua pubblicazione sul Bollettino ufficiale della Regione Molise. La presente legge sarï¿½ pubblicata nel Bollettino Ufficiale della Regione. ï¿½ fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

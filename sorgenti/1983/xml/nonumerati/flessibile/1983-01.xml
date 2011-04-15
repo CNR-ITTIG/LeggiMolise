@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19830115" num="1" tipo="BURM"/>
+                <entratainvigore norm="19830130"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1983-01-03;1"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 01 del 15/01/83 
+ 
+Oggetto 
+Regione - Personale proveniente dallo Stato e da altri enti - Inquadramento nel ruolo organico 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19830103">3 Gennaio 1983</dataDoc>, n. <numDoc>1</numDoc>
+
+            <titoloDoc>Inquadramento del personale comandato ai sensi delle leggi n. 386/1974, n. 349/1977 e n. 833/1978, e del personale messo a disposizione ai sensi del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977;616">D.P.R. n. 616/1977</rif>
+            </titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: Finalitï¿½ 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+                    <alinea> 
+La presente legge disciplina i criteri e le modalitï¿½ di inquadramento nel ruolo unico regionale del personale di ruolo e non di ruolo proveniente: 
+ 
+</alinea>
+                    <el id="art1-com1-leta">
+                        <num>a)</num>
+
+                        <corpo> dall'Amministrazione statale, a norma del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977;616">D.P.R. n. 616/1977</rif>;</corpo>
+                    </el>
+                    <el id="art1-com1-letb">
+                        <num> 
+ 
+b)</num>
+
+                        <corpo> dagli Enti di cui alla tabella B allegata al predetto decreto presidenziale, a norma della <rif xlink:href="urn:nir:stato:legge:1978;641">legge n. 641/78</rif>. </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+L'inquadramento del personale comandato alla Regione ai sensi della <rif
+                            xlink:href="urn:nir:stato:legge:1974;386">legge n. 386/1974</rif>, della <rif
+                            xlink:href="urn:nir:stato:legge:1977;349">legge n. 349/1977</rif> e della <rif
+                            xlink:href="urn:nir:stato:legge:1978;833">legge n. 833/1978</rif> potrï¿½ effettuarsi secondo quanto previsto dall'<rif xlink:href="urn:nir:regione.molise:legge:1980-09-02;32#art5">art. 5   della legge regionale 2 settembre 1980, n. 32</rif>. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+                    <corpo>Il personale di cui al precedente comma potrï¿½, a richiesta da presentare alla Giunta Regionale nel termine di giorni sessanta dalla pubblicazione della presente legge, essere inquadrato nei   ruoli del personale dipendente dalla Regione con la rinuncia a futuro inquadramento nel ruolo sanitario regionale. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+
+                    <corpo>
+Il personale di cui alla presente legge, sentita la Commissione di inquadramento di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1974;11#art97">art. 97 della legge regionale n. 11/74</rif>, ï¿½ inquadrato d'ufficio nel ruolo unico regionale. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+                <rubrica>: Procedura e decorrenza dell'inquadramento 
+</rubrica>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo> 
+La decorrenza dell'inquadramento ai fini giuridici ed economici ï¿½ fissata al 1ï¿½ febbraio 1981 o alla data, eventualmente posteriore,  in cui il personale ha assunto effettivo servizio. Il periodo di   servizio prestato presso l'Amministrazione di provenienza, nonchï¿½  quello prestato presso la Regione anteriormente alla data del 1ï¿½  febbraio 1981 , ï¿½ considerato come servizio prestato alle   dipendenze organiche della Regione ai soli fini dell'ammissione ai  concorsi. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num/>
+                    <corpo>Il personale di cui all'<rif xlink:href="urn:nir:stato:legge:1980;441#art5">art. 5 della legge n. 441/1980</rif>, sarï¿½ inquadrato ai soli fini giuridici, con effetto dal 1ï¿½ gennaio 1981,  fermo restando tutto quanto specificamente previsto dalla presente legge. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+                <rubrica>: Inquadramento giuridico 
+</rubrica>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo> 
+Il personale ï¿½ inquadrato nel ruolo regionale in conformitï¿½ all'allegata tabella di corrispondenza, sulla base della posizione giuridica rivestita al 31 gennaio 1981, facendo salve le modificazioni sopravvenute in base ad atti formali, ove questi retroagiscano i propri effetti anteriormente ad essa data. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num/>
+                    <corpo>Il personale che riveste qualifiche non espressamente previste nella tabella citata verrï¿½ inquadrato, in via analogica, sulla base dell'equipollenza delle qualifiche stesse. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num/>
+                    <alinea>Ai soli fini del primo inquadramento del personale di cui alla presente legge, si applicano i seguenti criteri integrativi per il passaggio al livello superiore: 
+ 
+</alinea>
+                    <el id="art5-com3-leta">
+                        <num>a)</num>
+
+                        <corpo> per il personale da inquadrare nel ruolo unico regionale trovano applicazione i criteri di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1980;12#art57-com3">art. 57, comma terzo, della legge regionale n. 12/1980</rif>. </corpo>
+                    </el>
+                </comma>
+                <comma id="art5-com4">
+                    <num/>
+
+                    <corpo>Detto personale ha, inoltre titolo a fruire del beneficio di cui all'<rif xlink:href="urn:nir:stato:legge:1980;12#art60">art. 60 della stessa legge n. 12/1980</rif>. </corpo>
+                </comma>
+                <comma id="art5-com5">
+                    <num/>
+                    <corpo>Restano ferme tutte le condizioni e le modalitï¿½ previste dalla suddetta legge regionale, tranne che per le domande di partecipazione ai concorsi, i cui termini di presentazione delle stesse decorrono dalla data di pubblicazione della presente legge. </corpo>
+                </comma>
+                <comma id="art5-com6">
+                    <num/>
+                    <alinea>In particolare detti criteri si applicano al: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+
+                        <corpo> personale proveniente dallo Stato che al momento dell'inquadramento nella Regione non abbia goduto, in virtï¿½ della <rif xlink:href="urn:nir:stato:legge:1980;312">legge n. 312/1980</rif> di un passaggio di posizione tale da essere inquadrato in qualifica corrispondente a carriera superiore a quella di appartenenza in base al vecchio ordinamento di provenienza; 
+ 
+- personale proveniente dagli Enti parastatali ad eccezione di quello di cui alla successiva lettera c).</corpo>
+                    </ep>
+                </comma>
+                <comma id="art5-com7">
+                    <num/>
+                    <corpo>b) il personale cui, in forza dell'<rif xlink:href="urn:nir:stato:legge:1980;312#art4">art. 4 della legge n. 312/1980</rif>, sono applicabili gli scorrimenti di livello previsti dalla normativa medesima, ï¿½ collocato al livello immediatamente superiore a quello conseguito in sede di primo inquadramento, al maturare delle relative anzianitï¿½. Resta escluso il personale che abbia usufruito della norma di cui al precedente punto a). </corpo>
+                </comma>
+                <comma id="art5-com8">
+                    <num/>
+                    <corpo>c) I dipendenti con qualifica di assistente coordinatore, assistente tecnico coordinatore e seconda qualifica professionale con coordinamento, vengono inquadrati nel sesto livello del ruolo   regionale. </corpo>
+                </comma>
+                <comma id="art5-com9">
+                    <num/>
+                    <corpo>I dipendenti con qualifica di collaboratore coordinatore e di collaboratore tecnico coordinatore, in possesso al 31 dicembre 1979 di dieci anni di anzianitï¿½ nella qualifica di collaboratore e della laurea, nonchï¿½ i dipendenti con la qualifica di direttore aggiunto di divisione, in possesso al 31 dicembre 1979 di nove anni e sei mesi di anzianitï¿½ nella carriera direttiva e della laurea, vengono inquadrati nel livello immediatamente superiore a quello previsto nella tabella sopra richiamata. </corpo>
+                </comma>
+                <comma id="art5-com10">
+                    <num/>
+                    <corpo>I dipendenti con la qualifica di commesso nell'ordinamento di provenienza vengono inquadrati nel terzo livello funzionale se in possesso di un'anzianitï¿½ di servizio di almeno otto anni alla data   del 30 settembre 1978. </corpo>
+                </comma>
+                <comma id="art5-com11">
+                    <num/>
+                    <corpo>d) L'applicazione delle predette norme transitorie non puï¿½ in alcun caso comportare l'attribuzione di piï¿½ di un passaggio di livello rispetto alla posizione di provenienza. </corpo>
+                </comma>
+                <comma id="art5-com12">
+                    <num/>
+                    <corpo>e) Ai fini economici l'attribuzione del livello superiore ï¿½ effettuata sulla base del maturato, anche in itinere, spettante alla data di attribuzione del livello, con esclusione della corresponsione della differenza di livello. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6</num>
+                <rubrica>: Posizione economica di inquadramento 
+</rubrica>
+                <comma id="art6-com1">
+                    <num/>
+                    <alinea> 
+Ai fini della determinazione della posizione economica di   inquadramento, si applicano i seguenti criteri: 
+ 
+</alinea>
+                    <en id="art6-com1-num1">
+                        <num>1)</num>
+
+                        <corpo> per i dipendenti che hanno titolo all'applicazione del <rif
+                                xlink:href="urn:nir:presidente.repubblica:decreto:1979;509">D.P.R. numero 509/79</rif>, la posizione economica ï¿½ determinata dallo stipendio in godimento al 31 gennaio 1981, comprensivo di scatti e classi acquisite ed eventuali assegni personali pensionabili, con esclusione dei benefici economici decorrenti dal 1ï¿½febbraio 1981 previsti dagli artt. 19 e 20 della <rif xlink:href="urn:nir:regione.molise:legge:1981-06-08;10">legge regionale 8 giugno 1981, n. 10</rif> per i dipendenti regionali. 
+ 
+2) Per il personale statale la posizione economica ï¿½ determinata dallo stipendio in godimento al 31 gennaio 1981 ivi compresi gli effetti economici del rinnovo contrattuale di provenienza per il   periodo 1ï¿½gennaio 1979 - 31 gennaio 1981; inoltre il personale suddetto utilizza, per la determinazione del maturato economico, anche i miglioramenti economici previsti al 1 febbraio 1981 dall'accordo contrattuale nazionale di provenienza per il triennio 1979-1981 ivi compresi quelli la cui erogazione si attua nel 1982.</corpo>
+                    </en>
+                </comma>
+                <comma id="art6-com2">
+                    <num/>
+                    <corpo>
+                        <mod id="art6-com2-mod1">Non si applicano i benefici economici decorrenti dal 1ï¿½febbraio 1981 spettanti ai dipendenti regionali. 
+ 
+3) Al personale degli Enti soppressi, privi di sviluppo contrattuale per il triennio 1979 - 1981 ed eventualmente per il triennio precedente, si attribuiscono i benefici economici dei contratti della Regione, sia ai fini della determinazione della posizione economica di inquadramento al 1ï¿½febbraio 1981, che per le  competenze relative ai periodi predetti di vuoti contrattuali.</mod>
+                    </corpo>
+                </comma>
+                <comma id="art6-com3">
+                    <num/>
+                    <corpo>
+                        <mod id="art6-com3-mod2">Al personale degli Enti soppressi per cui trovano applicazione le norme relative ai dipendenti statali si applicano le norme contrattuali proprie di tale personale sino al 1ï¿½ febbraio 1981, fermo restando il principio della non cumulabilitï¿½ con i benefici  previsti dagli accordi contrattuali per il personale regionale per lo stesso periodo. </mod>
+                    </corpo>
+                </comma>
+                <comma id="art6-com4">
+                    <num/>
+                    <corpo>La posizione giuridica derivante dall'inquadramento, qualora non sia coincidente con quella economica, ï¿½ data dalla classe o scatto immediatamente inferiore alla posizione economica predetta. </corpo>
+                </comma>
+                <comma id="art6-com5">
+                    <num/>
+
+                    <corpo>Al dipendente viene altresï¿½ riconosciuto il &lt;&lt; maturato in itinere &gt;&gt; con le modalitï¿½ indicate dal <rif xlink:href="urn:nir:regione.molise:legge:1980;12#art58-com3">terzo comma e seguenti dell'art. 58 della legge regionale n. 12/80</rif>, con riferimento alla data del 31 gennaio 1981. </corpo>
+                </comma>
+                <comma id="art6-com6">
+                    <num/>
+
+                    <corpo>Dal 1ï¿½ febbraio 1981 compete al personale la progressione economica  prevista dalla <rif xlink:href="urn:nir:regione.molise:legge:1981;10">legge regionale n. 10/81</rif>. </corpo>
+                </comma>
+                <comma id="art6-com7">
+                    <num/>
+                    <corpo>Sono fatti salvi, fino alla data di entrata in vigore della presente legge, gli effetti economici maturati in virtï¿½ del contratto di provenienza vigente al 1ï¿½ febbraio 1981, se piï¿½  favorevoli. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7</num>
+                <rubrica>: Trattamento assistenziale, previdenziale e di quiescenza 
+</rubrica>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo> 
+Ai fini del trattamento assistenziale, previdenziale e di quiescenza il personale inquadrato a norma della presente legge ï¿½ iscritto alle competenti gestioni per le assicurazioni sociali   obbligatorie contro le malattie all'Istituto Nazionale per l'Assistenza ai Dipendenti degli Enti Locali (INADEL) ed alla Cassa per le Pensioni dei Dipendenti degli Enti Locali (CPDEL). </corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art7-com2-mod3">Agli effetti del trattamento assistenziale, previdenziale e di quiescenza l'iscrizione del personale proveniente da Enti soppressi e riformati, in attuazione del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977;616">D.P.R. n. 616/1977</rif>, ï¿½ eseguita con   effetto dal giorno dell'effettiva messa a disposizione. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8</num>
+                <rubrica>: Revisione degli organici per effetto degli inquadramenti 
+</rubrica>
+                <comma id="art8-com1">
+                    <num/>
+
+                    <corpo> 
+Il personale di cui ai precedenti artt. 1 e 2 ï¿½ inquadrato nel ruolo unico regionale secondo le dotazioni provvisorie dell'organico di cui alla tabella D allegata alla <rif xlink:href="urn:nir:regione.molise:legge:1980;12">legge regionale n. 12/1980</rif> che viene sostituita dalla seguente: 
+ 
+   Livello I                                posti  n. 2 
+ 
+   Livello II                               posti  n. 60 
+ 
+   Livello III                              posti  n. 60 
+ 
+   Livello IV                               posti  n. 220 
+ 
+   Livello V                                posti  n. 260 
+ 
+   Livello VI                               posti  n. 100 
+ 
+   Livello VII                              posti  n. 150 
+ 
+   Livello VIII                             posti  n. 80 
+ 
+                                                    ----- 
+ 
+                                           Totale n. 932 
+ 
+                                                    ----- 
+ </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9</num>
+                <rubrica>: Oneri finanziari 
+</rubrica>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo> 
+All'onere per l'attuazione della presente legge, ivi compresa al maggiore spesa afferente all'anno 1981, si farï¿½ fronte con gli appositi stanziamenti giï¿½ iscritti sul cap. 4000 del bilancio regionale per l'esercizio 1982 e con quelli che verranno iscritti nei bilanci regionali per gli anni successivi. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <comma id="art10-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge ï¿½ dichiarata urgente, ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

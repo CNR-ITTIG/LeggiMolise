@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20100116" num="1" tipo="BURM"/>
+                <entratainvigore norm="20100131"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2010-01-08;1"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xe0;"/>
+                </materie>
+            </descrittori>
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 1 del 16 gennaio 2010. 
+ 
+Oggetto 
+Soggetti con disturbi specifici di apprendimento (DSA) - Interventi 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20100108">8 gennaio 2010</dataDoc>, n. <numDoc>1</numDoc>.  
+ 
+<titoloDoc>Interventi in favore dei soggetti con disturbi specifici di apprendimento (DSA).  
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+(Finalitï¿½) 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <alinea> La presente legge detta norme in materia di interventi in favore di soggetti con disturbi specifici di apprendimento (DSA) mirando a creare un'importante catena di congiunzione tra la Regione, le famiglie, il privato sociale e le istituzioni scolastiche e sanitarie, al fine di prevenire la difficoltï¿½, favorire l'apprendimento scolastico ed un'istruzione adeguata ed auspicata, nonchï¿½ l'inserimento nel mondo del lavoro. In particolare la presente legge persegue le seguenti finalitï¿½:  
+ 
+</alinea>
+                    <el id="art1-com1-leta">
+                        <num> a)</num>
+                        <corpo> ridurre i disagi formativi garantendo un supporto alla formazione dei soggetti interessati;</corpo>
+                    </el>
+                    <el id="art1-com1-letb">
+                        <num>  
+ 
+ b)</num>
+                        <corpo> promuovere l'adozione di forme di verifica e di valutazione adeguate alle necessitï¿½ degli alunni con tale difficoltï¿½;</corpo>
+                    </el>
+                    <el id="art1-com1-letc">
+                        <num>  
+ 
+ c)</num>
+                        <corpo> sensibilizzare e preparare gli insegnanti e i genitori a riconoscere le DSA e ad affrontare le problematiche ad esse legate;</corpo>
+                    </el>
+                    <el id="art1-com1-letd">
+                        <num>  
+ 
+ d)</num>
+                        <corpo> assicurare l'individuazione precoce dei fattori di rischio e favorire la diagnosi tempestiva;</corpo>
+                    </el>
+                    <el id="art1-com1-lete">
+                        <num>  
+ 
+ e)</num>
+                        <corpo> potenziare la comunicazione e la collaborazione tra famiglia, scuola e servizi sanitari durante il periodo di istruzione scolastica.  
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+(Riconoscimento della dislessia e definizioni) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge riconosce la dislessia, la disgrazia/ disortografia e la discalculia, di seguito denominate DSA, quali disturbi specifici di apprendimento che limitano in tutto o in parte la capacitï¿½ di lettura, di scrittura e di calcolo, costituendo una limitazione importante per alcune attivitï¿½ quotidiane per i soggetti che ne soffrono, con pregiudizio della possibilitï¿½ di raggiungere un livello di istruzione adeguato ai potenziali cognitivi e con limitazione delle opportunitï¿½ professionali future.  </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> I disturbi specifici di apprendimento di cui al <rif xlink:href="#art2-com1">comma 1</rif> sono tali se si manifestano in presenza di capacitï¿½ cognitive adeguate e confermate da un quoziente intellettivo non inferiore a -1ds (equivalente a un valore di 85) rispetto ai valori medi attesi per etï¿½ ed in assenza di patologie neurologiche e di deficit sensoriali.  </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> In presenza di DSA la Regione promuove interventi di assistenza idonei. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+(Interventi) 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione promuove accordi con l'Ufficio scolastico regionale, con gli Ordini, gli Albi e le Associazioni professionali, con le strutture sanitarie, con enti ed associazioni del privato sociale e favorisce l'informazione sul tema organizzando convegni e giornate dedicate.  </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+
+                    <alinea> Per realizzare le finalitï¿½ del presente articolo e quelle previste dall'<rif xlink:href="#art1">articolo 1</rif> la Regione costituisce un Comitato tecnico scientifico, nominato previa indicazione degli Enti, Ordini, Albi ed Associazioni interessati, con deliberazione della Giunta regionale e composto da:  
+ 
+</alinea>
+                    <el id="art3-com2-leta">
+                        <num> a)</num>
+                        <corpo> un rappresentante dell'assessorato regionale all'Istruzione;</corpo>
+                    </el>
+                    <el id="art3-com2-letb">
+                        <num>  
+ 
+ b)</num>
+                        <corpo> un rappresentante dell'assessorato regionale alla Sanitï¿½;</corpo>
+                    </el>
+                    <el id="art3-com2-letc">
+                        <num>  
+ 
+ c)</num>
+                        <corpo> un rappresentante dell'assessorato regionale alle Politiche sociali e del lavoro;</corpo>
+                    </el>
+                    <el id="art3-com2-letd">
+                        <num>  
+ 
+ d)</num>
+                        <corpo> il Tutore pubblico dei minori;</corpo>
+                    </el>
+                    <el id="art3-com2-lete">
+                        <num>  
+ 
+ e)</num>
+                        <corpo> un rappresentante dell'Ufficio scolastico regionale;</corpo>
+                    </el>
+                    <el id="art3-com2-letf">
+                        <num>  
+ 
+ f)</num>
+                        <corpo> un rappresentante dell'A.S.Re.M.;</corpo>
+                    </el>
+                    <el id="art3-com2-letg">
+                        <num>  
+ 
+ g)</num>
+                        <corpo> un rappresentante dell'Universitï¿½ degli Studi del Molise;</corpo>
+                    </el>
+                    <el id="art3-com2-leth">
+                        <num>  
+ 
+ h)</num>
+                        <corpo> un rappresentante dei genitori dei bambini con DSA, designato dalle associazioni operanti in ambito regionale;</corpo>
+                    </el>
+                    <el id="art3-com2-leti">
+                        <num>  
+ 
+ i)</num>
+                        <corpo> un medico specialista pediatra di libera scelta designato congiuntamente dagli Ordini dei medici delle due province;</corpo>
+                    </el>
+                    <el id="art3-com2-letl">
+                        <num>  
+ 
+ l)</num>
+                        <corpo> un medico specialista in neuropsichiatria infantile, designato congiuntamente dagli Ordini dei medici delle due province;</corpo>
+                    </el>
+                    <el id="art3-com2-letm">
+                        <num>  
+ 
+ m)</num>
+                        <corpo> uno psicologo designato dall'Ordine degli psicologi del Molise;</corpo>
+                    </el>
+                    <el id="art3-com2-letn">
+                        <num>  
+ 
+ n)</num>
+                        <corpo> un logopedista designato dall'Associazione dei logopedisti del Molise;</corpo>
+                    </el>
+                    <el id="art3-com2-leto">
+                        <num>  
+ 
+ o)</num>
+                        <corpo> un pedagogista designato dall'Associazione dei pedagogisti del Molise;</corpo>
+                    </el>
+                    <el id="art3-com2-letp">
+                        <num>  
+ 
+ p)</num>
+                        <corpo> un grafologo designato dall'Associazione dei grafologi piï¿½ rappresentativa operante nel Molise. </corpo>
+                    </el>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+ 
+3.</num>
+                    <alinea> Il Comitato tecnico scientifico ï¿½ presieduto dal Presidente della Giunta regionale o da un suo delegato; svolge la funzione di segretario un funzionario dipendente della Regione. Il Comitato tecnico scientifico ha il compito di:  
+ 
+</alinea>
+                    <el id="art3-com3-leta">
+                        <num> a)</num>
+                        <corpo> proporre piani formativi del personale scolastico (dirigente e docente), degli operatori della formazione professionale e degli operatori sociali e sanitari sulle problematiche degli alunni con DSA;</corpo>
+                    </el>
+                    <el id="art3-com3-letb">
+                        <num>  
+ 
+ b)</num>
+                        <corpo> promuovere campagne di sensibilizzazione, programmate annualmente sulle problematiche connesse ai DSA ed indirizzate alle famiglie, alle istituzioni sanitarie, alla scuola ed alle organizzazioni imprenditoriali e sindacali del mondo del lavoro;</corpo>
+                    </el>
+                    <el id="art3-com3-letc">
+                        <num>  
+ 
+ c)</num>
+                        <corpo> promuovere attivitï¿½ di identificazione precoce degli alunni a rischio di DSA, documentare e diffondere buone prassi di intervento e iniziative, proporre iniziative ed attivitï¿½ volte a ridurre il disagio delle persone con DSA;</corpo>
+                    </el>
+                    <el id="art3-com3-letd">
+                        <num>  
+ 
+ d)</num>
+                        <corpo> proporre modalitï¿½ di erogazione dei servizi alle famiglie, tenendo conto delle necessitï¿½ di conciliare i tempi delle famiglie con quelli della scuola e delle strutture sanitarie;</corpo>
+                    </el>
+                    <el id="art3-com3-lete">
+                        <num>  
+ 
+ e)</num>
+                        <corpo> coordinare e raccordare l'attuazione degli interventi, monitorarne e valutarne l'applicazione;</corpo>
+                    </el>
+                    <el id="art3-com3-letf">
+                        <num>  
+ 
+ f)</num>
+                        <corpo> curare le rilevazioni dei dati e delle informazioni sulle attivitï¿½ svolte elaborando una relazione annuale per monitorare l'applicazione della legge e dei risultati conseguiti.  </corpo>
+                    </el>
+                </comma>
+                <comma id="art3-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Il Comitato tecnico scientifico rimane in carica per un triennio ed ï¿½ rinnovato con deliberazione della Giunta regionale. I componenti possono essere confermati. La Giunta regionale disciplina altresï¿½ le modalitï¿½ di organizzazione e di funzionamento del Comitato.  </corpo>
+                </comma>
+                <comma id="art3-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> La Regione adotta le misure ritenute opportune e necessarie per contemplare all'interno del proprio sistema sanitario attivitï¿½ per la prevenzione ed il trattamento della dislessia. In particolare, i servizi specialistici sanitari per la tutela dell'etï¿½ evolutiva si dotano di personale adeguato e qualificato per i disturbi, con particolare riferimento alla forma evolutiva in etï¿½ scolare.  </corpo>
+                </comma>
+                <comma id="art3-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> Sono previste attivitï¿½ di rilevazione della casistica su tutto il territorio regionale e di individuazione e monitoraggio di precoci fattori di rischio. A tal fine vengono istituiti accordi tra i pediatri di libera scelta e le figure professionali specifiche (neuropsichiatri infantili, insegnanti, psicologi, logopedisti, pedagogisti, ecc.) per attivare forme di collaborazione professionale affinchï¿½ alcune prestazioni possano essere erogate in modo integrato e multidisciplinare.  </corpo>
+                </comma>
+                <comma id="art3-com7">
+                    <num>
+ 
+7.</num>
+                    <corpo> La Regione puï¿½ erogare appositi contributi alle famiglie in cui si registrino casi di DSA in etï¿½ scolare, per l'acquisto di strumenti compensativi ed ausili tecnologici nonchï¿½ software che sia accompagnato da apposita consulenza specialistica. Puï¿½, inoltre, con appositi contributi concorrere all'organizzazione di eventi straordinari e progetti di particolare interesse promossi dall'Ufficio scolastico regionale, dall'A.S.Re.M. e da organismi culturali e scientifici, sia pubblici e sia privati su scala regionale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+(Interventi di diagnosi, riabilitazione ed istruzione) 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <corpo> ï¿½ compito della scuola di ogni ordine e grado, pubblica o parificata, comprese le scuole dell'infanzia, attuare interventi tempestivi idonei ad individuare gli alunni sospetti o a rischio di DSA, dandone sollecita comunicazione alle famiglie interessate ed attuando una efficace collaborazione alla diagnosi precoce mediante l'invio degli alunni all'equipe diagnostica, previa autorizzazione delle famiglie.  </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> La diagnosi di DSA ï¿½ effettuata, in modo multidisciplinare, nell'ambito degli interventi giï¿½ assicurati dal Servizio sanitario nazionale a legislazione vigente, nonchï¿½ dagli specialisti sanitari neuropsichiatri infantili o psicologi privati, convenzionati e non, purchï¿½ in conformitï¿½ alle "Raccomandazioni per la pratica clinica nei disturbi evolutivi specifici di apprendimento" emerse dalla Consensus Conference 2007. Ancorchï¿½ la diagnosi sia accompagnata dalla richiesta di provvedimenti amministrativi, ex <rif xlink:href="urn:nir:stato:legge:1992;104">legge n. 104/1992</rif>, rimane l'obbligo della validazione da parte del Servizio sanitario nazionale. L'iter diagnostico e l'individuazione dei percorsi di intervento e di recupero sono attuati, di norma, entro sessanta giorni dalla segnalazione.  </corpo>
+                </comma>
+                <comma id="art4-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Gli allievi con segnalazione diagnostica di DSA hanno diritto a fruire di appositi provvedimenti dispensativi e compensativi di flessibilitï¿½ didattica. 4. Al fine di garantire la realizzazione del progetto individualizzato di intervento educativo o riabilitativo appositamente formulato, i familiari, fino al primo grado, di alunni con DSA, dipendenti di ruolo della Regione o di enti da essa dipendenti, possono usufruire della flessibilitï¿½ dell'orario di lavoro, conformemente alle disposizioni del contratto collettivo nazionale di lavoro.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+(Misure per l'inserimento lavorativo) 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo> Alle persone con disturbi di apprendimento sono assicurate uguali opportunitï¿½ di sviluppo delle proprie capacitï¿½ ed uguale accesso al mondo del lavoro.  </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Nei concorsi pubblici indetti dalla Regione e dagli Enti da essa dipendenti ï¿½ prevista la predisposizione di prove personalizzate ed adeguate alle specifiche abilitï¿½ e difficoltï¿½ del concorrente con DSA. In particolare, ï¿½ assicurata la possibilitï¿½ di sostituire le prove scritte con un colloquio orale o di utilizzare strumenti compensativi per le difficoltï¿½ di lettura, scrittura e calcolo; in alternativa possono essere stabiliti tempi differenti per l'espletamento delle prove. Queste ipotesi devono essere esplicitamente previste nei relativi bandi di concorso. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Il concorrente con DSA, per l'espletamento della prova differenziata, dovrï¿½ produrre, con la domanda di partecipazione al concorso, una certificazione sanitaria rilasciata dalla struttura sanitaria pubblica che accerti l'esistenza dei disturbi.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+(Norma finanziaria) 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <corpo> Agli oneri derivanti dall'applicazione della presente legge, quantificati per l'esercizio finanziario 2010 in euro centomila, si provvede mediante apposito stanziamento iscritto nella UPB n. 445, o corrispondente, dello stato di previsione della spesa del bilancio regionale per l'esercizio finanziario 2010.  </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Per gli esercizi successivi si provvede con le rispettive leggi di approvazione del bilancio. La presente legge sarï¿½ pubblicata nel Bollettino Ufficiale della Regione. ï¿½ fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

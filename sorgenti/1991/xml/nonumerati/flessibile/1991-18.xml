@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19911031" num="21" tipo="BURM"/>
+                <entratainvigore norm="19911115"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1991-10-28;18"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="35.tributi"/>
+                </materie>
+            </descrittori>
+        </meta><?error 35.Tributi 
+ 
+Bollettino 
+Bollettino Ufficiale n. 21 del 31/10/91 
+ 
+Oggetto 
+Tassa automobilistica regionale - Aumento 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19911028">28 Ottobre 1991</dataDoc>, n. <numDoc>18</numDoc>
+            <titoloDoc>Tassa automobilistica regionale. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+Con decorrenza dal 1ï¿½ gennaio 1992 la tassa automobilistica regionale viene aumentata del 25   per cento dell'attuale tassa di circolazione. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art2-com1-mod1">
+Sono abrogate le disposizioni di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1972-02-16;2#art18">art. 18 della legge regionale 16 febbraio 1972, n. 2</rif>. </mod>
+                    </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art2-com2-mod2">Le parole &lt;&lt;<virgolette
+                                id="art2-com2-mod2-vir1">tassa regionale di circolazione</virgolette>&gt;&gt; riportate negli artt. 17 e 19 della predetta legge n.2   sono sostituite dalle seguenti &lt;&lt;<virgolette id="art2-com2-mod2-vir2">tassa automobilistica regionale</virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+
+                    <corpo>
+La predetta legge ï¿½ dichiarata urgente ai sensi degli articoli 127 della Costituzione e 38 dello   <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione sul   Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione  Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

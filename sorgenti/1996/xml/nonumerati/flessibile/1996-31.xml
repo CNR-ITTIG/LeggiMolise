@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19961001" num="19" tipo="BURM"/>
+                <entratainvigore norm="19961016"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1996-09-20;31"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+            <redazionale>
+                <nota id="n1">
+                    <h:p>
+ 
+AVVERTENZA 
+ 
+In  sede  di apposizione del visto alla legge regionale 20 settembre 1996, n. 31, il Commissario del Governo ha riportato quanto segue: 
+ 
+&lt;&lt;VISTO: anche ai fini dell'assenso all'anticipata entrata in vigore della legge ai sensi del II comma dell'art. 127 della Costituzione nell'intesa che le convenzioni per le collaborazioni e le consulenze di cui all'art. 3, terzo comma vengano stipulate nel rispetto delle condizioni di cui all'art. 7, sesto comma del Decreto Legislativo 29/1993&gt;&gt;. 
+</h:p>
+                </nota>
+            </redazionale>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 19 del 01/10/96 
+ 
+Oggetto 
+Servizio fitosanitario regionale - Istituzione - Competenze - Organizzazione - Sanzioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 10/1997 art. 1 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19960920">20 Settembre 1996</dataDoc>, n. <numDoc>31</numDoc>
+            <titoloDoc>Istituzione del Servizio fitosanitario regionale. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: FINALITï¿½ 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo> 
+1 In attuazione della <rif xlink:href="urn:nir:comunita.europee:direttiva:1991;91-683-cee">direttiva 91/683/CEE, del decreto legislativo</rif>
+                        <rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1992-12-30;536">30 dicembre 1992, n. 536</rif>, nonchï¿½ per l'esercizio delle funzioni amministrative trasferite dallo Stato alle Regioni ai sensi del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616">D.P.R. 24 luglio 1977, n. 616</rif>, ï¿½ istituito nella Regione Molise il &lt;&lt;Servizio fitosanitario regionale&gt;&gt;. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+                <rubrica>: COMPETENZE 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+                    <alinea> 
+1. Al Servizio fitosanitario regionale compete: 
+ 
+</alinea>
+                    <el id="art2-com1-leta">
+                        <num>a)</num>
+                        <corpo> l'applicazione sul territorio delle direttive recepite nell'ordinamento nazionale;</corpo>
+                    </el>
+                    <el id="art2-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> l'effettuazione dei controlli fitosanitari, anche  per sondaggio e la vigilanza sui prodotti vegetali, oggetto della direttiva, nelle fasi di produzione e di commercializzazione, nonchï¿½ il controllo e l'autorizzazione al rilascio del &lt;&lt;passaporto delle piante&gt;&gt;;</corpo>
+                    </el>
+                    <el id="art2-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> la certificazione fitosanitaria per i vegetali destinati ai Paesi terzi;</corpo>
+                    </el>
+                    <el id="art2-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> l'effettuazione dei controlli fitosanitari sui punti di entrata del territorio regionale;</corpo>
+                    </el>
+                    <el id="art2-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> la vigilanza sullo stato fitosanitario delle colture agrarie, forestali ed ornamentali nonchï¿½ dei loro prodotti, e sugli esami di laboratorio del materiale vegetale;</corpo>
+                    </el>
+                    <el id="art2-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> la proposta di interventi di lotta obbligatoria ed il controllo sulla loro esecuzione;</corpo>
+                    </el>
+                    <el id="art2-com1-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> la raccolta e la divulgazione di dati relativi alla presenza ed alla diffusione a livello regionale di organismi nocivi ai vegetali e ai prodotti vegetali;</corpo>
+                    </el>
+                    <el id="art2-com1-leth">
+                        <num> 
+ 
+h)</num>
+                        <corpo> la registrazione dei produttori degli importatori dei vegetali e dei prodotti vegetali sottoposti al regime fitosanitario nonchï¿½ la tenuta del registro regionale;</corpo>
+                    </el>
+                    <el id="art2-com1-leti">
+                        <num> 
+ 
+i)</num>
+
+                        <corpo> la effettuazione di indagini sistematiche e periodiche per verificare la presenza di organismi nocivi nelle zone protette di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1992;536#art8">articolo 8, lettera c), del decreto legislativo n. 536/92</rif>, e la   comunicazione al Servizio fitosanitario centrale dell'eventuale scoperta di tali organismi;</corpo>
+                    </el>
+                    <el id="art2-com1-letl">
+                        <num> 
+ 
+l)</num>
+                        <corpo> gli esami diagnostici di laboratorio del materiale vegetale e del terreno riscontrati infetti o infestati da organismi nocivi;</corpo>
+                    </el>
+                    <el id="art2-com1-letm">
+                        <num> 
+ 
+m)</num>
+                        <corpo> l'attivitï¿½ di studio e sperimentazione di idonei mezzi di difesa contro gli organismi nocivi alle piante coltivate;</corpo>
+                    </el>
+                    <el id="art2-com1-letn">
+                        <num> 
+ 
+n)</num>
+                        <corpo> l'assistenza tecnica specialistica coordinata con quella svolta dai divulgatori agricoli e dal Corsorzio Regionale Molisano di Difesa nell'ambito della attuazione dei programmi regionali di   lotta fitosanitaria guidata, integrata e biologica;</corpo>
+                    </el>
+                    <el id="art2-com1-leto">
+                        <num> 
+ 
+o)</num>
+                        <corpo> il controllo, unitamente alle Istituzioni scientifiche, dello stato fitosanitario e la rispondenza genetica dei materiali di propagazione vegetale soggetti alla certificazione volontaria;</corpo>
+                    </el>
+                    <el id="art2-com1-letp">
+                        <num> 
+ 
+p)</num>
+                        <corpo> l'istruttoria per il rilascio delle autorizzazioni per l'esercizio dei vivai, di stabilimenti orticoli e sementieri e per il commercio di piante, parti di piante e semi. </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3</num>
+                <rubrica>: ORGANIZZAZIONE 
+</rubrica>
+                <comma id="art3-com1">
+                    <num/>
+
+                    <corpo> 
+1. L'individuazione e l'ordinamento della struttura regionale competente in materia di Servizio fitosanitario sono demandati ai provvedimenti legislativi e/o amministrativi da emanarsi per il   riordino della organizzazione delle strutture regionali in attuazione del <rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1993;29">decreto legislativo n. 29/93</rif>. 
+ 
+2. In attesa degli adempimenti di cui al <rif xlink:href="#art3-com1">comma 1</rif>, la Regione Molise, per lo svolgimento dei compiti oggetto della presente legge, si avvale del Settore &lt;&lt;Agricoltura&gt;&gt; dell'Assessorato   competente. 
+ 
+3. La Giunta Regionale puï¿½ stipulare, su richiesta della struttura competente, collaborazioni tecnico - scientifiche e consulenze specialistiche nonchï¿½ convenzioni con Istituti di ricerca,   Universitï¿½ e laboratori di analisi, dandone comunicazione alla Commissione Consiliare competente.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+                <rubrica>: UTILIZZAZIONE DEL PERSONALE 
+</rubrica>
+                <comma id="art4-com1">
+                    <num/>
+
+                    <corpo> 
+1. Il Settore Agricoltura, di cui all'art. 3, comma 2, utilizza il proprio personale e quello dipendente dell'ERSAM, ai sensi dell'<rif
+                            xlink:href="urn:nir:regione.molise:legge:1991;15#art1">articolo 1 della legge regionale n. 15/91</rif>. 
+ 
+2. Il personale tecnico e gli Ispettori fitosanitari, operanti presso la struttura regionale competente, di cui all'<rif
+                            xlink:href="#art3-com1">art. 3, comma 1</rif>, sono nominati con provvedimento di Giunta Regionale. 
+ 
+3. Gli Ispettori fitosanitari, di cui al precedente comma: 
+ 
+- svolgono i compiti previsti dall'<rif
+                            xlink:href="#art2">art. 2</rif>; 
+ 
+-esercitano i poteri dei delegati speciali per le malattie delle piante di cui agli articoli 3 e 9 della <rif
+                            xlink:href="urn:nir:stato:legge:1931-06-18;987">legge 18 giugno 1931, n. 987</rif>; 
+ 
+-comminano le sanzioni di cui al <rif
+                            xlink:href="#art6">successivo articolo 6</rif>; 
+ 
+-sono dotati di una tessera di riconoscimento-conforme al fac-simile previsto dalla circolare del Ministero per le Risorse Agricole, Alimentari e Forestali n. 36141 del 26 ottobre 1994-rilasciata dal Presidente della Giunta. 
+ 
+4. I nominativi degli Ispettori fitosanitari sono comunicati al Ministero per le Risorse Agricole, Alimentari e Forestali al fine dell'iscrizione al registro nazionale di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1992-12-30;536#art4">articolo 4 lettera g), del decreto legislativo 30 dicembre 1992, n. 536</rif>. 
+ 
+5. Il Responsabile del Settore Agricoltura, di cui all'art. 3, comma 2, dopo aver fatto effettuare gli opportuni controlli, autorizza le ditte iscritte al Registro dei produttori ad emettere il passaporto delle piante.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+                <rubrica>: QUARANTENA FITOSANITARIA 
+</rubrica>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo> 
+1. Allo scopo di impedire la possibile diffusione di malattie pericolose e diffusibili, il Presidente della Giunta regionale con proprio decreto istituisce la&lt;&lt;quarantena fitosanitaria&gt;&gt;indicando   la localitï¿½ di messa a dimora dei vegetali, il tempo di permanenza, i tempi e le modalitï¿½ dei controlli e quant'altro sia ritenuto utile. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6</num>
+                <rubrica>: SANZIONI AMMINISTRATIVE 
+</rubrica>
+                <comma id="art6-com1">
+                    <num/>
+
+                    <corpo> 
+1. L'Ente competente all'irrogazione delle sanzioni ï¿½ la Regione Molise ed al suo bilancio confluiscono i proventi delle medesime sanzioni. 
+ 
+2. Le sanzioni amministrative sono previste dall'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1992;536#art9">articolo 9 del decreto legislativo n. 536/92</rif> e vengono comminate dagli Ispettori fitosanitari regionali con le modalitï¿½ previste dalla <rif
+                            xlink:href="urn:nir:stato:legge:1981-11-24;689">legge 24   novembre 1981, n. 689</rif>. 
+ 
+3. La Regione Molise puï¿½ revocare o sospendere l'autorizzazione rilasciata ai sensi della <rif xlink:href="urn:nir:stato:legge:3;987">legge 987/3</rif>l nonchï¿½ l'iscrizione al registro dei produttori e l'autorizzazione all'emissione del  passaporto delle piante per uno o piï¿½ dei seguenti casi di inadempienza: 
+ 
+- presenza del 1O% di piante totalmente o parzialmente disseccate da tempo o da piï¿½ stagioni; 
+ 
+- presenza del 5% di piante con sintomi di parassiti da quarantena; 
+ 
+- presenza del 20% di piante con sintomi di altri parassiti pericolosi.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7</num>
+                <rubrica>: NORMA FINANZIARIA 
+</rubrica>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo> 
+1. Le spese per l'acquisto di attrezzature, la gestione del laboratorio, il funzionamento, le consulenze e le convenzioni graveranno sul capitolo n. 40900 del bilancio di previsione 1996   denominato &lt;&lt; Spese per la lotta fitosanitaria, per studi e per sperimentazioni sulle malattie delle piante &gt;&gt;. 
+ 
+2. Le spese per la retribuzione  del personale dipendente dall'ERSAM utilizzato per il Servizio fitosanitario regionale faranno carico al Capitolo di Bilancio n. 4003/96. 
+ 
+3. Per gli esercizi successivi si provvederï¿½, con le rispettive leggi di bilancio, al finanziamento degli oneri previsti al 1ï¿½ e 2ï¿½ comma del presente articolo.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8</num>
+                <rubrica>: NORMA TRANSITORIA 
+</rubrica>
+                <comma id="art8-com1">
+                    <num/>
+
+                    <corpo> 
+1. La Regione Molise comunicherï¿½ alla Regione Abruzzo la risoluzione della convenzione per l'utilizzazione dei servizi e dei mezzi dell'&lt;&lt;Osservatorio per le Malattie delle Piante&gt;&gt; di   Pescara, registrata a Campobasso il 19 dicembre 1980 col numero 1799. 
+ 
+2. La Giunta Regionale, su proposta dell'Assessore all'Agricoltura e Foreste, entro 60 giorni dalla data di entrata in vigore della presente legge provvederï¿½ con propri atti a mettere a disposizione del Servizio fitosanitario regionale i locali idonei per la sede nonchï¿½ il personale previsto all'<rif xlink:href="#art4">articolo 4</rif>. 
+ 
+3. Il trasferimento dei compiti giï¿½ svolti dall'&lt;&lt;Osservatorio per le Malattie delle Piante&gt;&gt; di Pescara ha effetto 60 giorni dopo l'entrata in vigore della presente legge.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9</num>
+                <rubrica>: DICHIARAZIONE DI URGENZA 
+</rubrica>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo> 
+1. La presente legge ï¿½ dichiarata urgente ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise. </corpo>
+                </comma>
+                <comma id="art9-com2">
+                    <num/>
+                    <corpo>La presente legge sarï¿½ pubblicata nel Bollettino Ufficiale della Regione.ï¿½ fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. Servizio fitosanitario regionale&gt;&gt;. </corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

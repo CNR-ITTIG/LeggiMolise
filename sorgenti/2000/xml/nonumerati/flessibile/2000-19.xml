@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20000401" num="7" tipo="BURM"/>
+                <entratainvigore norm="20000416"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-03-24;19"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="34.trasporti e viabilit&amp;#xe0;, navigazione nelle acque interne"/>
+                </materie>
+            </descrittori>
+        </meta><?error 34.Trasporti e viabilit&#xE0;, navigazione nelle acque interne 
+ 
+Bollettino 
+Bollettino Ufficiale n. 07 del 1 aprile 2000 
+ 
+Oggetto 
+Trasporto pubblico locale Disciplina - Integrazioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 13 dalla legge n. 12/2009 art. 1 
+Modificato art. 11 dalla legge n. 1/2004 art. 6 
+Modificato art. 14 dalla legge n. 12/2009 art. 2 
+Modificato art. 5 dalla legge n. 3/2010 art. 10 
+Modificato art. 7 dalla legge n. 3/2010 art. 10 
+Modificato art. 11 dalla legge n. 3/2010 art. 10 
+Modificato art. 13 dalla legge n. 3/2010 art. 10 
+Modificato art. 14 dalla legge n. 16/2010 art. 17 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20000324">24 marzo 2000</dataDoc>, n. <numDoc>19</numDoc>. 
+ 
+<titoloDoc>Norme integrative della disciplina in materia di trasporto pubblico locale. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art.1 </num>
+                <rubrica>
+ 
+(Finalitï¿½) 
+ 
+</rubrica>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo>1. La Regione Molise nell'esercizio delle funzioni e dei compiti conferiti ai sensi della <rif
+                            xlink:href="urn:nir:stato:legge:1997-03-15;59">legge 15 marzo 1997, n. 59</rif> nonchï¿½ del <rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1997-11-19;422">decreto legislativo 19 novembre 1997 n. 422</rif>, nel rispetto della normativa comunitaria vigente e dello <rif
+                            xlink:href="urn:nir:regione.molise:statuto:">Statuto regionale</rif>, riconosce al trasporto pubblico locale un ruolo primario, perseguendo, d'intesa ed in concorso con gli Enti locali il miglioramento del Trasporto regionale ed il riequilibrio modale dei sistemi per la realizzazione di un sistema integrato della mobilitï¿½ e delle relative infrastrutture. 
+ 
+2. Per il perseguimento delle finalitï¿½ di cui al <rif xlink:href="#art1-com1">comma 1</rif>, la Regione attua misure idonee a:</corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+
+                    <corpo>a) conferire, mediante delega alle Province e attribuzione ai Comuni, tutte le funzioni ed i compiti regionali in materia di trasporto pubblico locale, ai sensi dell'<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art117">art. 117 della Costituzione</rif>, che non richiedano l'esercizio unitario a livello regionale; 
+ 
+b) raggiungere un adeguato rapporto tra le risorse finanziarie destinate all'esercizio e quelle finalizzate agli investimenti, ivi compresa l'introduzione di tecnologie avanzate; 
+ 
+c) incentivare il miglioramento della mobilitï¿½ urbana attraverso la razionalizzazione del traffico privato, il riassetto della rete e la riorganizzazione dei servizi di trasporto pubblico; 
+ 
+d) determinare, di intesa con gli Enti Locali, il livello dei servizi qualitativamente e quantitativamente sufficienti a soddisfare la domanda di mobilitï¿½ dei cittadini; 
+ 
+e) incentivare il superamento degli assetti monopolistici mediante il ricorso alle procedure concorsuali per la scelta del gestore, introducendo la piena concorrenzialitï¿½ nella gestione dei servizi di trasporto regionale e locale; 
+ 
+f) introdurre i contratti di servizio per la gestione dei complessi funzionali e di reti nell'ambito dei diversi bacini di traffico improntati a principi di economicitï¿½ ed efficienza per consentire la massima quantitï¿½ dei servizi esercitabili in base alle risorse disponibili, al netto dei proventi tariffari e contenenti gli importi da corrispondere alle imprese affidatarie per le prestazioni oggetto del contratto con l'indicazione delle espresse modalitï¿½ di pagamento; 
+ 
+g) effettuare il monitoraggio della mobilitï¿½ regionale favorendo il flusso di informazioni tra gli Enti territoriali, le aziende e gli utenti del trasporto pubblico. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art.2 </num>
+                <rubrica>
+ 
+(Trasporto pubblico) 
+ 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>1. Per trasporto pubblico locale e regionale si intende il servizio di trasporto di persone e merci attribuiti alla Regione ed agli Enti Locali, che comprendono l'insieme dei sistemi di mobilitï¿½ terrestri. marittimi, lacuali, fluviali ed aeree e che operano in modo continuativo o periodico, con itinerari, orari, frequenze e tariffe prestabilite, ad offerta indifferenziata ed a condizioni prestabilite, nell'ambito del territorio regionale o infraregionale, dei quali le Amministrazioni competenti si assumono l'onere economico a garanzia dei livelli di mobilitï¿½ sociale ritenuti indispensabili. 
+ 
+2. I servizi pubblici di trasporto di cui al <rif xlink:href="#art2-com1">comma 1</rif> sono effettuati:</corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+                    <corpo>a) su strada; 
+ 
+b) per ferrovia; 
+ 
+c) per vie d'acqua; 
+ 
+d) per vie aeree. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art.3 </num>
+                <rubrica>
+ 
+(Servizio pubblico su strada) 
+ 
+</rubrica>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>1. I servizi di trasporto pubblico su strada si distinguono in complessi di servizi di rete od in servizi di linea, a seconda che siano destinati a soddisfare finalitï¿½ di spostamento di area o di specifiche destinazioni. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <corpo>I complessi dei servizi di rete possono essere urbani o provinciali di bacino.  </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num/>
+                    <corpo>I servizi di linea possono essere provinciali di interbacino regionali o interregionali. </corpo>
+                </comma>
+                <comma id="art3-com4">
+                    <num/>
+                    <corpo>Si considerano servizi di rete urbana l'insieme dei collegamenti svolti nell'ambito del territorio di un comune, ivi compresi quelli che collegano il territorio di un comune con zone limitrofe. </corpo>
+                </comma>
+                <comma id="art3-com5">
+                    <num/>
+                    <corpo>Si considerano servizi di rete di bacino l'insieme dei servizi che assicurano i livelli di mobilitï¿½ programmati dagli enti locali interessati all'interno dei bacini di traffico definiti nell'ambito di ciascuna Provincia.  </corpo>
+                </comma>
+                <comma id="art3-com6">
+                    <num/>
+                    <corpo>Si considerano servizi di linea provinciali quelli che, per finalitï¿½ di destinazione, collegano il territorio di due o piï¿½ Comuni compresi in bacini diversi nell'ambito della stessa Provincia, oppure singoli Comuni con il capoluogo provinciale. </corpo>
+                </comma>
+                <comma id="art3-com7">
+                    <num/>
+                    <corpo>Si considerano servizi di linea regionali quelli che collegano il territorio di due o piï¿½ Province all'interno della Regione. </corpo>
+                </comma>
+                <comma id="art3-com8">
+                    <num/>
+                    <corpo>Si considerano servizi di linea interregionali quelli che collegano il territorio regionale con quello di una regione limitrofa. 
+ 
+2. Il Consiglio regionale, su proposta della Giunta regionale provvede alla individuazione e distinzione dei servizi di trasporto pubblico nel Piano Regionale Trasporti.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art.4 </num>
+                <rubrica>
+ 
+(Classificazione dei servizi su strada) 
+ 
+</rubrica>
+                <comma id="art4-com1">
+                    <num/>
+                    <alinea>1. I servizi di trasporto pubblico o di linea su strada sono suddivisi in:  
+ 
+</alinea>
+                    <el id="art4-com1-leta">
+                        <num>a)</num>
+                        <corpo> trasporti ordinari, svolti con sistemi di mobilitï¿½ e offerti alla generalitï¿½ degli utenti, secondo le normali condizioni di trasporto;</corpo>
+                    </el>
+                    <el id="art4-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> trasporti a chiamata, effettuati in territori a domanda debole su percorsi fissi o variabili;</corpo>
+                    </el>
+                    <el id="art4-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> trasporti speciali riservati a soggetti portatori di handicap e a mobilitï¿½ ridotta. 
+ 
+2. I servizi di linea possono anche essere esercitati ad offerta libera da parte di imprese professionali sulla base di programmi di esercizio espressamente indicati. Le Amministrazioni competenti secondo la tipologia dei servizi richiesti sono tenute ad accertare la sussistenza dei requisiti tecnici, organizzativi ed economici in capo alle imprese richiedenti ed a rilasciare le relative autorizzazioni una volta compiuto positivamente tale accertamento. 
+ 
+3. I servizi di linea ad offerta libera possono integrare il sistema dei servizi minimi di trasporto pubblico locale in modo da concentrare la destinazione delle risorse pubbliche al soddisfacimento piï¿½ generale dei servizi non gestibili senza l'intervento economico degli enti committenti.</corpo>
+                    </el>
+                </comma>
+                <comma id="art4-com2">
+                    <num/>
+                    <corpo>Qualora tali servizi siano diretti a realizzare collegamenti interni ad un complesso di rete di bacino, la relativa autorizzazione ï¿½ subordinata all'effettuazione da parte della stessa impresa affidataria della rete di bacino, oppure alla valutazione della inesistenza di un qualsiasi effetto pregiudizievole sulla rete di bacino dei servizi minimi commissionati. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art.5 </num>
+                <rubrica>
+ 
+(Funzioni della Regione)  
+ 
+</rubrica>
+                <comma id="art5-com1">
+                    <num/>
+                    <alinea>1. La Regione esercita, in materia di trasporto pubblico locale, i compiti e le funzioni che attengono ad esigenze di carattere unitario ed in particolare: 
+ 
+</alinea>
+                    <el id="art5-com1-leta">
+                        <num>a)</num>
+                        <corpo> definisce le linee generali di indirizzo per la pianificazione dei trasporti locali e per i piani di bacino predisposti dalle Province;</corpo>
+                    </el>
+                    <el id="art5-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> redige il piano regionale di trasporti ed i periodici aggiornamenti;</corpo>
+                    </el>
+                    <el id="art5-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> sottoscrive appositi accordi di programma con gli enti locali e predispone la programmazione degli investimenti raccordandola con quella dello stato;</corpo>
+                    </el>
+                    <el id="art5-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> individua la rete dei servizi minimi d'intesa con le Province e gli altri Enti locali, definendo anche gli eventuali servizi sostitutivi che, in individuate aree a domanda debole, possono essere affidati al di fuori delle procedure ordinarie di assegnazione, ad imprese che esercitano professionalmente servizi di trasporto collettivo di persone su strada con altre tipologie di veicoli;</corpo>
+                    </el>
+                    <el id="art5-com1-lete">
+                        <num> 
+ 
+e)</num>
+
+                        <corpo> adotta, l'intesa con gli Enti locali e sentite le organizzazioni sindacali confederali e le associazioni dei consumatori i programmi triennali dei servizi di trasporto pubblico locale, ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1997;422#art14-com3">art. 14, comma 3 del decreto legislativo n. 422/1997</rif>;</corpo>
+                    </el>
+                    <el id="art5-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> stabilisce le modalitï¿½ per la determinazione delle tariffe realizzando l'integrazione tariffaria dei diversi modi di trasporto uniformando, per quanto possibile, il costo dei biglietti e degli abbonamenti per tutti i trasporti urbani regionali, anche tenendo conto delle fasce deboli, nonchï¿½ l'ammontare delle sanzioni amministrative per i viaggiatori trovati sprovvisti di valido documento di viaggio;</corpo>
+                    </el>
+                    <el id="art5-com1-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> svolge funzioni di direttiva, vigilanza e sostituzione sulle attivitï¿½ delegate alle Province;</corpo>
+                    </el>
+                    <el id="art5-com1-leth">
+                        <num> 
+ 
+h)</num>
+                        <corpo> svolge le funzioni di cui all'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1999-09-29;34#art90">articolo 90 della legge regionale 29 settembre 1999, n. 34</rif>. 
+ 
+2. Gli atti e i provvedimenti concernenti l'esercizio delle funzioni di cui alle lettere a), b), c), d), e) del precedente comma sono adottati dal Consiglio regionale su proposta della Giunta regionale. Per le altre funzioni e compiti delegati dallo Stato ai sensi degli articoli 9 e 10 del <rif xlink:href="urn:nir:stato:decreto.legislativo:1997;422">decreto legislativo n. 422/1997</rif> provvede la Giunta regionale nel rispetto degli indirizzi e della programmazione adottata dal Consiglio mediante piani, direttive ed atti a contenuto puntuale.</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art.6 </num>
+                <rubrica>
+ 
+(Funzioni delle Province) 
+ 
+</rubrica>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo>1. Per effetto di quanto previsto dall'<rif xlink:href="urn:nir:stato:decreto.legislativo:1997;422#art7">art. 7 del decreto legislativo n. 422/1997</rif> la Regione Molise delega alle Province tutte le funzioni e i compiti regionali in materia di trasporto pubblico locale che non richiedono l'esercizio unitario a livello regionale. 
+ 
+2. Le Province esercitano le funzioni amministrative riguardanti:</corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num/>
+                    <corpo>a) predisposizione dei piani di bacino nell'ambito del proprio territorio, sulla base dei servizi minimi e degli indirizzi della Regione; 
+ 
+b) approvazione della programmazione provinciale per definire il livello dei servizi minimi dei rispettivi bacini, privilegiando la integrazione tra le varie modalitï¿½ di trasporto, favorendo il minore impatto ambientale e scegliendo la soluzione che, a paritï¿½ di prestazione, offra costi minori; 
+ 
+c) erogazione delle risorse finanziarie per far fronte agli impegni derivanti dai contratti di servizio per lo svolgimento dei servizi minimi; 
+ 
+d) assegnazione ai comuni facenti parte di bacini di competenza delle risorse finanziarie per assicurare i servizi minimi urbani ed interurbani; 
+ 
+e) rilascio delle autorizzazioni per effettuare servizi di gran turismo su gomma secondo quanto richiesto dalle imprese interessate; 
+ 
+f) svolgimento delle procedure concorsuali per l'affidamento dei servizi di competenza per la scelta degli affidatari dei servizi e la stipula dei contratti di servizio. 
+ 
+3. La Regione definisce entro sei mesi dall'entrata in vigore della presente legge le modalitï¿½ del conferimento previsto nel presente articolo.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art.7 </num>
+                <rubrica>
+ 
+(Competenze dei Comuni) 
+ 
+</rubrica>
+                <comma id="art7-com1">
+                    <num/>
+                    <alinea>1. In materia di trasporto pubblico locale sono di competenza dei Comuni: 
+ 
+</alinea>
+                    <el id="art7-com1-leta">
+                        <num>a)</num>
+                        <corpo> l'organizzazione e la gestione dei servizi di trasporto pubblico locale di area urbana sia della rete dei servizi minimi essenziali a carico del bilancio regionale sia degli eventuali servizi aggiuntivi a carico del bilancio comunale. </corpo>
+                    </el>
+                </comma>
+                <comma id="art7-com2">
+                    <num/>
+                    <corpo>Tale organizzazione deve ispirarsi al principio della massima integrazione dei servizi di area urbana e dei servizi di bacino con particolare attenzione alla organizzazione coordinata dell'offerta di trasporto nelle aree a domanda forte con fenomeni di elevato pendolarismo verso i centri urbani. La programmazione dei servizi aggiuntivi ha il solo limite della compatibilitï¿½ con la rete dei servizi minimi; 
+ 
+b) la predisposizione dei piani urbani del traffico sulla base degli indirizzi regionali e l'attuazione delle procedure di verifica della compatibilitï¿½ dei piani con la programmazione di bacino provinciale; 
+ 
+c) la gestione delle risorse trasferite a titolo di investimenti e di spesa corrente per l'esercizio delle funzioni delegate secondo i principi generali stabiliti dalle leggi regionali in materia di organizzazione del trasporto e di investimenti e le scelte della programmazione regionale di bacino ed integrativa; 
+ 
+d) lo svolgimento delle procedure concorsuali per l'individuazione del soggetto gestore e l'affidamento dei servizi di trasporto pubblico locale di competenza sulla base dei principi e delle normative stabiliti dalla Regione; 
+ 
+e) la stipula dei contratti di servizio relativi ai livelli minimi di servizio stabiliti d'intesa con la regione e sentite le OO.SS., nonchï¿½ di eventuali servizi integrativi con onere a carico dei propri bilanci; 
+ 
+f) l'applicazione della politica tariffaria sulla base dei principi e criteri stabiliti dalla regione; 
+ 
+g) il monitoraggio dei contratti di servizio anche attraverso sistemi informatizzati di controllo della qualitï¿½ basati sugli indicatori stabiliti dalla regione; 
+ 
+h) l'applicazione del sistema delle agevolazioni tariffarie stabilite dalle leggi regionali e nel Piano Regionale dei Trasporti; 
+ 
+i) lo svolgimento dei compiti di vigilanza amministrativa e finanziaria previsti dalle normative regionali e nazionali sulle aziende di trasporto compresi quelli relativi al personale. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art.8 </num>
+                <rubrica>
+ 
+(Piano regionale trasporti) 
+ 
+</rubrica>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo>1. La Regione Molise nell'esercizio delle funzioni di programmazione redige di concerto con gli Enti Locali il "Piano regionale dei trasporti" configurando un sistema coordinato di trasporti funzionale alle previsioni di sviluppo socio-economico e di riequilibrio territoriale a breve e medio termine. 
+ 
+2. Il Piano regionale dei trasporti ï¿½ approvato dal Consiglio regionale previa audizione delle associazioni degli utenti e degli esercenti il trasporto pubblico e privato. 
+ 
+3. Il Piano definisce i limiti territoriali dei bacini di traffico e contiene tutti gli indirizzi per la pianificazione dei trasporti locali necessari per la successiva elaborazione dei piani di bacino da parte delle province e dei piani urbani del traffico da parte dei comuni.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art.9 </num>
+                <rubrica>
+ 
+(Piani urbani del traffico) 
+ 
+</rubrica>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo>1. I Comuni regionali con popolazione superiore a 10.000 abitanti, nonchï¿½ ; quelli con popolazione residente inferiore individuati dalla regione sulla base di comprovate esigenze adottano i "Piani urbani del traffico" predisposti nel rispetto delle direttive emanate dal Ministero dei Lavori Pubblici nonchï¿½ degli indirizzi della programmazione regionale. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art.10 </num>
+                <rubrica>
+ 
+(Piani di bacino territoriali) 
+ 
+</rubrica>
+                <comma id="art10-com1">
+                    <num/>
+
+                    <corpo>1. Il bacino di traffico ï¿½ l'area territoriale entro la quale opera un sistema di trasporto pubblico integrato predisposto in funzione di obiettivi fabbisogni di mobilitï¿½. Ad ogni sistema di bacino corrisponde una rete di servizi minimi ai sensi del <rif xlink:href="#art12">successivo articolo 12</rif>. I bacini di traffico e le corrispondenti reti di servizi minimi hanno una estensione provinciale o infraprovinciale a seconda dei fabbisogni di mobilitï¿½ da soddisfare. 
+ 
+2. I piani di bacino sono adottati dalle Province in coerenza con il piano regionale dei trasporti e con il programma triennale regionale. 
+ 
+3. Mediante i piani di bacino vengono individuati anche i necessari interventi sulle infrastrutture, affinchï¿½ queste risultino adeguate per un efficiente sistema di trasporto pubblico locale.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art.11 </num>
+                <rubrica>
+ 
+(Servizi minimi) 
+ 
+</rubrica>
+                <comma id="art11-com1">
+                    <num/>
+                    <alinea>1. La Regione definisce i servizi minimi tenendo conto dei seguenti fattori: 
+ 
+</alinea>
+                    <en id="art11-com1-num1">
+                        <num>1)</num>
+                        <corpo> necessaria integrazione tra le reti di trasporto;</corpo>
+                    </en>
+                    <en id="art11-com1-num2">
+                        <num> 
+ 
+2)</num>
+                        <corpo> pendolarismo scolastico e lavorativo;</corpo>
+                    </en>
+                    <en id="art11-com1-num3">
+                        <num> 
+ 
+3)</num>
+                        <corpo> fruibilitï¿½ dei servizi amministrativi, socio-sanitari e culturali;</corpo>
+                    </en>
+                    <en id="art11-com1-num4">
+                        <num>  
+ 
+4)</num>
+                        <corpo> esigenze di trasporto per persone con ridotta capacitï¿½ motoria;</corpo>
+                    </en>
+                    <en id="art11-com1-num5">
+                        <num>  
+ 
+5)</num>
+
+                        <corpo> necessaria riduzione della congestione e dell'inquinamento. 
+ 
+2. I servizi minimi, i cui costi sono a carico del bilancio regionale sono definiti per ciascun bacino di traffico in coerenza con quanto previsto dal Piano regionale dei trasporti e dai programmi triennali di cui al <rif
+                                xlink:href="#art5-com1">precedente articolo 5, comma 1</rif>, nonchï¿½ ai sensi dell'<rif
+                                xlink:href="urn:nir:stato:decreto.legislativo:1997;422#art16">articolo 16 del decreto legislativo n. 422/1997</rif>. 
+ 
+3. L'intesa di cui al <rif
+                                xlink:href="urn:nir:stato:decreto.legislativo:1997;422#art16-com2">comma 2 dell'articolo 16 del decreto legislativo n. 422/1997</rif> ï¿½ raggiunta, per ciascun bacino di traffico dei trasporti su gomma, mediante stipulazione, tra la Regione e gli Enti locali interessati, a norma dell'<rif xlink:href="urn:nir:stato:legge:1990-06-08;142#art27">articolo 27 della legge 8 giugno 1990, n. 142</rif>, di un accordo di programma di validitï¿½ triennale che definisce quantitï¿½ e standard di qualitï¿½ dei servizi. 
+ 
+4. Gli accordi di programma vengono stipulati entro il 31 ottobre dell'anno che precede il periodo di riferimento. In difetto alla definizione degli standard provvede la Giunta regionale sulla base delle disponibilitï¿½ di bilancio. 
+ 
+5. Alle autolinee statali che assicurano comunque relazioni regionali possono essere erogati contributi chilometrici di esercizio limitatamente alle percorrenze svolte nell'ambito della Regione Molise.</corpo>
+                    </en>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art.12 </num>
+                <rubrica>
+ 
+(Programmi triennali)  
+ 
+</rubrica>
+                <comma id="art12-com1">
+                    <num/>
+
+                    <alinea>1. La Regione al fine di regolamentare i servizi di trasporto pubblico locale, con riferimento ai servizi minimi di cui all'<rif xlink:href="#art11">articolo 11</rif>, approva i programmi triennali dei servizi di trasporto pubblico locale predisposti dalle Province e contenenti: 
+ 
+</alinea>
+                    <el id="art12-com1-leta">
+                        <num>a)</num>
+                        <corpo> la rete e l'organizzazione dei servizi;</corpo>
+                    </el>
+                    <el id="art12-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> l'integrazione modale e tariffaria;</corpo>
+                    </el>
+                    <el id="art12-com1-letc">
+                        <num>  
+ 
+c)</num>
+                        <corpo> le risorse da destinare all'esercizio e agli investimenti;</corpo>
+                    </el>
+                    <el id="art12-com1-letd">
+                        <num>  
+ 
+d)</num>
+                        <corpo> le modalitï¿½ di determinazione delle tariffe;</corpo>
+                    </el>
+                    <el id="art12-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> il sistema di monitoraggio dei servizi;</corpo>
+                    </el>
+                    <el id="art12-com1-letf">
+                        <num>  
+ 
+f)</num>
+                        <corpo> le azioni finalizzate alla riduzione della congestione del traffico e dell'inquinamento ambientale. </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art.13 </num>
+                <rubrica>
+ 
+(Procedure per l'affidamento dei servizi) 
+ 
+</rubrica>
+                <comma id="art13-com1">
+                    <num/>
+
+                    <corpo>1. Allo scopo di incentivare il superamento degli assetti monopolistici e di introdurre regole di concorrenzialitï¿½ nella gestione, per l'affidamento dei servizi di trasporto facenti parte della rete dei servizi minimi, la Regione Molise, le Province ed i Comuni, a decorrere dal 1ï¿½ gennaio 2004, in base alla rispettiva competenza attribuita ai sensi della presente legge, fanno ricorso alle procedure concorsuali per la scelta del gestore dei servizi in conformitï¿½ alla normativa comunitaria e nazionale sugli appalti pubblici e sulla costituzione di societï¿½ miste. 
+ 
+2. Ai fini di cui al <rif
+                            xlink:href="#art13-com1">comma 1</rif> l'affidamento dei servizi avviene mediante contratto di servizio di cui al <rif xlink:href="#art14">successivo art. 14</rif> secondo le procedure amministrative proprie dell'ordinamento dell'Ente affidante considerando che:</corpo>
+                </comma>
+                <comma id="art13-com2">
+                    <num/>
+
+                    <corpo>a) per la scelta del gestore dei servizi si applica la procedura ristretta, di cui all'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1995-03-17;158#art12-com2-letb">art. 12, comma 2, lettera b) del Decreto legislativo 17 marzo 1995, n. 158</rif>; 
+ 
+b) per quanto riguarda l'aggiudicazione, si tiene conto del criterio dell'offerta economicamente piï¿½ vantaggiosa, ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1995;158#art24-com1-letb">art. 24, comma 1 lettera b) del Decreto Legislativo n. 158/1995</rif>; 
+ 
+c) per la scelta dei soci privati delle societï¿½ miste si applica il procedimento di confronto concorrenziale previsto dal D.P.R. 16 settembre, n. 53; 
+ 
+d) alle gare saranno ammesse, oltre alle ditte individuali ed ai consorzi, anche riunioni temporanee di imprese costituitesi secondo i criteri di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1995-03-17;158#art23">art. 23 del Decreto legislativo 17 marzo 1995 n. 158</rif>; 
+ 
+e) per la partecipazione alle gare di ditte in forma singola o associata o quali componenti di un consorzio regolarmente costituito, si fa esplicito riferimento a quanto previsto dall'art 23 del suddetto decreto n 158/1995. </corpo>
+                </comma>
+                <comma id="art13-com3">
+                    <num/>
+                    <corpo>La Giunta regionale, sentita la Commissione consiliare competente, approva lo schema - tipo del contratto di servizio e del capitolato d'appalto. 
+ 
+3. Ai fini dell'aggiudicazione dei servizi alle ditte individuali ed a quelle associate con le modalitï¿½ indicate al precedente punto 2, dovranno essere presi in considerazione e valutati i seguenti elementi:</corpo>
+                </comma>
+                <comma id="art13-com4">
+                    <num/>
+                    <alinea>a) requisiti economici consistenti nella comparazione del corrispettivo richiesto dalle diverse imprese concorrenti; 
+ 
+b) requisiti di capacitï¿½ tecnico - organizzativa che potrï¿½ essere provata sulla base dei seguenti dati: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> aver svolto per ciascuno degli ultimi tre anni almeno un percorrenza annua di 400 000 chilometri per servizi abilitati al trasporto pubblico; 
+ 
+- descrizione dell'attrezzatura tecnica in disponibilitï¿½ dell'impresa;  
+ 
+- indicazione dell'organico in dotazione all'impresa relativamente al numero medio annuo di dipendenti impiegati negli ultimi tre anni, in modo da consentire una verifica delle dimensioni strutturali del concorrente; 
+ 
+- capacitï¿½ economica finanziaria; 
+ 
+- fatturato globale degli ultimi tre anni dell'impresa relativo alla sola attivitï¿½ del trasporto pubblico locale e comunque non inferiore al 35% della base d'asta.</corpo>
+                    </ep>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art.14 </num>
+                <rubrica>
+ 
+(Durata e contenuto dei contratti di servizio) 
+ 
+</rubrica>
+                <comma id="art14-com1">
+                    <num/>
+
+                    <corpo>1. I contratti di servizio regolano l'esercizio dei servizi del trasporto pubblico locale in qualsiasi forma affidati e con qualsiasi modalitï¿½ effettuati. Essi vengono stipulati a decorrere dal 1ï¿½ gennaio 2004. 
+ 
+2. I contratti di servizio devono prevedere un incremento del rapporto " R" tra ricavi da traffico e costi operativi che dovrï¿½ raggiungere un valore non inferiore a 0,35 a decorrere dal 1ï¿½ gennaio 2004. 
+ 
+3. I contratti di servizio devono contenere tutti gli elementi previsti dall'<rif xlink:href="urn:nir:stato:decreto.legislativo:1997;422#art19">art. 19 del Decreto Legislativo n. 422/1997</rif>, compresa la clausola di revisione annuale di cui al comma 4 dello stesso articolo. Devono inoltre definire:</corpo>
+                </comma>
+                <comma id="art14-com2">
+                    <num/>
+
+                    <corpo>a) il periodo di validitï¿½ comunque non superiore a sei anni, rinnovabile per un biennio, previa revisione del contratto di servizio; 
+ 
+b) le caratteristiche dei servizi offerti ed il relativo programma analitico di esercizio; 
+ 
+c) l'obbligo dell'affidatario ad utilizzare personale qualificato e mezzi idonei a garantire la sicurezza del servizio; 
+ 
+d) gli standard qualitativi minimi del servizio, in termini di etï¿½, manutenzione, confort e pulizia dei veicoli utilizzati, nonchï¿½ in termini di regolaritï¿½ e affidabilitï¿½ dei servizi di puntualitï¿½ delle singole corse di comunicazione con l'utenza, di rispetto per l'ambiente e di osservanza della carta dei servizi; 
+ 
+e) la struttura tariffaria adottata ed i sistemi per il rilevamento automatizzato della utenza; 
+ 
+f) gli importi dovuti dall'Ente affidante all'impresa di trasporto affidataria, per le prestazioni oggetto del contratto, tenuto conto anche degli obblighi di servizio di cui all'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1997;422#art17">art 17 del Decreto legislativo n. 422/ 1997</rif>, nonchï¿½ le modalitï¿½ ed i tempi dei rispettivi pagamenti; 
+ 
+g) l'obbligo di fornire la rendicontazione annuale; 
+ 
+h) i casi di revisione degli importi di cui al punto precedente ed i limiti percentuali entro cui puï¿½ essere prevista la revisione; 
+ 
+i) le modalitï¿½ di modificazione dei contratti successivamente alla conclusione, anche per tener conto dei mutamenti imprevedibili; 
+ 
+j) le garanzie che devono essere prestate dall'impresa di trasporto affidataria del servizio; 
+ 
+k) i casi di risoluzione del contratto; 
+ 
+l) la ridefinizione dei rapporti, relativamente ai lavoratori dipendenti ed al capitale investito dall'affidatario, in caso di notevole discontinuitï¿½ nell'entitï¿½ dei servizi durante il periodo di validitï¿½ del contratto di servizio, fatto salvo quanto previsto dalla lett. m); 
+ 
+m) l'obbligo di applicare, per le singole tipologie di servizio, i rispettivi contratti collettivi di lavoro; 
+ 
+n) la disciplina da applicare nel caso di sub-affidamento dei servizi;  
+ 
+o) l'obbligo dell'affidatario di fornire i dati su supporto cartaceo ed informatico; 
+ 
+p) le modalitï¿½ di svolgimento delle funzioni di vigilanza e di controllo da parte dell'Ente affidante; 
+ 
+q) le procedure da osservare in caso di controversie e il Foro competente in caso di contenzioso; 
+ 
+r) l'obbligo di applicare le disposizioni di cui al <rif xlink:href="urn:nir:stato:decreto.legislativo:1994-09-19;626">Decreto legislativo 19 settembre 1994, n. 626</rif>. 
+ 
+4. Le imprese aggiudicatarie sono tenute ad apporre sul frontale e sulle fiancate dei veicoli adibiti al servizio di trasporto pubblico di rete sovracomunale, lo stemma della Regione e la scritta "Regione Molise". 
+ 
+5. Nessun indennizzo, a qualsivoglia titolo, ï¿½ dovuto al gestore alla scadenza del contratto di servizio.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>Art.15 </num>
+                <rubrica>
+ 
+(Norma transitoria per l'affidamento dei servizi) 
+ 
+</rubrica>
+                <comma id="art15-com1">
+                    <num/>
+
+                    <corpo>1. Sino al 31 dicembre 2003, e non oltre tale data, per i servizi urbani, extraurbani e interregionali in corso alla data di entrata in vigore della presente legge vi ï¿½ la facoltï¿½ di mantenere gli affidamenti agli attuali concessionari, fermo restando l'obbligo previsto nel comma 3/bis dell'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1997;422#art18">articolo 18 del decreto legislativo n. 422/1997</rif>, e successive modificazioni ed integrazioni. 
+ 
+2. Entro il 30 giugno 2003, le imprese private concessionarie dei servizi abilitati al trasporto pubblico che sviluppano una percorrenza annua inferiore a 400.000 chilometri possono far pervenire alla Regione propria dichiarazione con la quale manifestano l'intenzione di abbandonare il servizio di trasporto, previo contributo del 20% sull'importo del costo standardizzato aggiornato al 31 dicembre 2002, in relazione alle percorrenze chilometriche sviluppate. Il contributo grava sull'apposito capitolo di cui all'<rif
+                            xlink:href="#art21">articolo 21</rif> della presente legge. 
+ 
+3. L'impresa che subentra a qualunque titolo ai servizi esercitati ï¿½ ; obbligata a rilevare le attrezzature ed il materiale mobile strumentale all'esercizio a prezzo di mercato, e comunque al netto dei contributi erogati dalla Regione, ed a rilevare il personale inerente i servizi medesimi con tutti i diritti maturati. 
+ 
+4. Qualora le imprese che sviluppano una percorrenza annua inferiore a 400.000 chilometri non esercitino la facoltï¿½ di cui al comma 2 del presente articolo, possono continuare nell'esercizio in associazione con altre imprese ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legge:1995;258#art23">art.23 del decreto legge n. 258/1995</rif>, per la gestione di servizi nelle aree che saranno indicate dalla Regione. 
+ 
+5. Dal 1ï¿½ gennaio 2004 la Regione, le Province ed i Comuni stipulano contratti di servizio di durata quinquennale preferendo, in prima applicazione ed a paritï¿½ di condizioni, le precedenti imprese private concessionarie giï¿½ operanti nelle aree interessate che singolarmente o in forma aggregata, sviluppano una percorrenza annua di almeno 400.000 chilometri.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>Art.16  </num>
+                <rubrica>
+ 
+(Servizi ulteriori ed integrativi) 
+ 
+</rubrica>
+                <comma id="art16-com1">
+                    <num/>
+
+                    <corpo>1. Oltre quelli costituenti le reti dei servizi minimi i cui costi sono a carico del bilancio regionale, possono essere autorizzati ulteriori servizi di trasporto pubblico locale ad offerta libera ad imprese esercenti la professione di trasportatore di viaggiatori su strada nel settore dei trasporti nazionali ed internazionali che ne facciano istanza. 
+ 
+2. Per le autorizzazioni di cui al <rif xlink:href="#art16-com1">comma 1</rif>, le amministrazioni competenti sono tenute ad accertare la sussistenza in capo alle imprese delle adeguate capacitï¿½ tecniche, organizzative ed economiche. 
+ 
+3. I servizi ulteriori possono integrare il sistema dei servizi minimi di trasporto locale. Essi, qualora realizzino collegamenti interni ad una rete di bacino devono svolgersi secondo modalitï¿½ tali da non arrecare pregiudizio ai servizi di rete giï¿½ assegnati. 
+ 
+4. La Regione Molise puï¿½ istituire un servizio elicotteristico di collegamento da disciplinarsi secondo le procedure di affidamento dei servizi di cui alla presente legge. 
+ 
+5. Le province possono autorizzare i Comuni appartenenti a Comunitï¿½ Montane o a territori a domanda debole ad effettuare servizi integrativi di quelli minimi utilizzando veicoli adibiti ad uso proprio, fermo restando l'obbligo del possesso dei requisiti professionali per l'esercizio del trasporto pubblico di persone.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>Art.17 </num>
+                <rubrica>
+ 
+(Esercizio straordinario e sperimentale) 
+ 
+</rubrica>
+                <comma id="art17-com1">
+                    <num/>
+
+                    <corpo>1. Per motivi di straordinaria urgenza, nonchï¿½ ai fini sperimentali, Regione, Province e Comuni, tramite procedure negoziate senza pubblicazione del bando, ai sensi dell'art. 13, comma 1 lettera b) e d) del <rif xlink:href="urn:nir:stato:decreto.legislativo:1995;158">Decreto legislativo n. 158/1995</rif>, possono stipulare contratti provvisori con imprese in possesso dei requisiti di cui al DMT n. 448/1991. 
+ 
+2. I contratti relativi ai servizi straordinari hanno validitï¿½ non superiore a tre mesi e quelli relativi ai servizi sperimentali non superiore a sei. Entrambi sono rinnovabili per una sola volta.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>Art.18 </num>
+                <rubrica>
+ 
+(Agevolazioni tariffarie) 
+ 
+</rubrica>
+                <comma id="art18-com1">
+                    <num/>
+
+                    <corpo>1. La Regione Molise stabilisce nel Piano Regionale dei Trasporti quali categorie hanno diritto al rilascio dei biglietti e agli abbonamenti a tariffa ridotta per i servizi di trasporto pubblico ordinari di competenza regionali e per quelli attribuiti alle Province, ai sensi del <rif xlink:href="urn:nir:stato:decreto.legislativo:1997;422">decreto legislativo n. 422/1997</rif>. La riduzione tariffaria, concessa limitatamente a una sola relazione di viaggio con inizio dal Comune di residenza, ï¿½ determinata nella misura del 50% della tariffa ordinaria. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art19">
+                <num>Art.19 </num>
+                <rubrica>
+ 
+(Interventi sostitutivi)  
+ 
+</rubrica>
+                <comma id="art19-com1">
+                    <num/>
+
+                    <corpo>1. In caso di perdurante mancato svolgimento da parte delle Amministrazioni provinciali delle funzioni e dei compiti delegati ai sensi del <rif xlink:href="#art7">precedente art. 7</rif>, la Giunta Regionale, previa diffida e fissazione di un congruo termine, dispone specifici interventi sostitutivi. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art20">
+                <num>Art.20 </num>
+                <rubrica>
+ 
+(Osservatorio regionale dei trasporti) 
+ 
+</rubrica>
+                <comma id="art20-com1">
+                    <num/>
+                    <corpo>1. Nell'ambito della direzione generale competente ai trasporti ï¿½ istituito l'osservatorio regionale dei trasporti avente i compiti di monitorare i servizi di trasporto pubblico su tutto il territorio regionale, di organizzare e gestire la banca dati del trasporto pubblico del Molise, di fornire supporto informativo e tecnico alla programmazione della regione e degli enti locali in materia di trasporto pubblico, di redigere proposte tecniche per la predisposizione del piano regionale dei trasporti, dei programmi triennali di trasporto e degli accordi di programma, di organizzare ed erogare informazioni in materia di trasporto pubblico locale mediante la periodica pubblicazione di un bollettino nonchï¿½ dietro specifica richiesta degli enti locali, delle organizzazioni sindacali, delle associazioni dei consumatori e degli utenti. 
+ 
+2. I gestori dei servizi di pubblico trasporto sono tenuti a fornire all'osservatorio i dati necessari alla sua funzione secondo le modalitï¿½ stabilite nel contratto di servizio.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art21">
+                <num>Art.21 </num>
+                <rubrica>
+ 
+(Fondo regionale trasporti) 
+ 
+</rubrica>
+                <comma id="art21-com1">
+                    <num/>
+                    <alinea>1. Il fondo regionale trasporti ï¿½ determinato nel suo ammontare con legge di bilancio ed ï¿½ alimentato: 
+ 
+</alinea>
+                    <el id="art21-com1-leta">
+                        <num>a)</num>
+
+                        <corpo> dalle risorse finanziarie trasferite annualmente dallo Stato relative all'espletamento delle funzioni conferite dallo Stato stesso ai sensi del <rif xlink:href="urn:nir:stato:decreto.legislativo:1997;422">decreto legislativo n. 422/1997</rif>;</corpo>
+                    </el>
+                    <el id="art21-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> da risorse proprie della regione. 
+ 
+2. La consistenza annuale del fondo ï¿½ utilizzata per il pagamento dei corrispettivi previsti nei contratti di servizio relativi ai servizi minimi i cui costi sono a carico del bilancio regionale.</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art22">
+                <num>Art.22 </num>
+                <rubrica>
+ 
+(Dichiarazione d'urgenza) 
+ 
+</rubrica>
+                <comma id="art22-com1">
+                    <num/>
+
+                    <corpo>1. La presente legge ï¿½ dichiarata urgente ai sensi del <rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">secondo comma dell'articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della pubblicazione sul Bollettino Ufficiale della Regione. ï¿½ fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

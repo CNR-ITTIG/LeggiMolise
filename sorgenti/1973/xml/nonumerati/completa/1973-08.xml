@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19730528" num="14" tipo="BURM"/>
+                <entratainvigore norm="19730612"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1973-05-22;8"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="11.enti locali, comunit&amp;#xe0; montane"/>
+                </materie>
+            </descrittori>
+        </meta><?error 11.Enti locali, comunit&#xE0; montane 
+ 
+Bollettino 
+Bollettino Ufficiale n. 14 del 28/05/73 
+ 
+Oggetto 
+Montagne - Zone omogenee - Delimitazione - Ripartizione in zone omogenee 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 12/2002 art. 45 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 19/1999 art. 1 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19730522">22 Maggio 1973</dataDoc>, n. <numDoc>8</numDoc>
+
+            <titoloDoc>Delimitazione delle zone omogenee in applicazione dell'<rif xlink:href="urn:nir:stato:legge:1971-12-03;1102#art3">art. 3 della legge 3 dicembre 1971, n. 1102</rif>. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 12/2002 art. 45</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo, a chiunque spetti, di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

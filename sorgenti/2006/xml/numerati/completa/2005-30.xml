@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20060901" num="25" tipo="BURM"/>
+                <entratainvigore norm="20060916"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2005-09-26;30"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 25 del 1 settembre 2006 
+ 
+Oggetto 
+Amministrazione regionale - ?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge regionale </tipoDoc>
+            <dataDoc
+                    norm="20050926">26 settembre 2005</dataDoc>n. <numDoc>30</numDoc> - <titoloDoc>Modifiche ed integrazioni 
+ 
+Abrogazioni 
+Abrogata intera legge dalla <rif
+                    xlink:href="urn:nir:stato:legge:2006;33">legge n. 33/2006</rif> art. 2 
+ 
+Modifiche 
+ 
+ 
+<rif
+                    xlink:href="urn:nir:regione.molise:legge:2006-08-29;22">LEGGE REGIONALE 29 agosto 2006, n. 22</rif>. 
+ 
+Modifiche ed integrazioni all'<rif xlink:href="urn:nir:regione.molise:legge:2005-09-26;30#art2">articolo 2 della legge regionale 26 settembre 2005, n. 30</rif>. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art1-com1-mod1"> All'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2005-09-26;30#art2-com11">articolo 2, comma 11, della legge regionale 26 settembre 2005, n. 30</rif>, le parole "<virgolette
+                                id="art1-com1-mod1-vir1"
+                                tipo="parola">I dipendenti accedono all'indennitï¿½ di cui al comma 5 al maturare di due anni di servizio nella categoria e profilo professionale </virgolette>"Dl"<virgolette
+                                id="art1-com1-mod1-vir2"> e </virgolette>"D3"<virgolette
+                                id="art1-com1-mod1-vir3"
+                                tipo="parola"> e nel limite del contingente di posti pari a: n. 195 della categoria e profilo professionale </virgolette>"Dl"<virgolette
+                                id="art1-com1-mod1-vir4"> e n. 196 della categoria e profilo professionale </virgolette>"D3"<virgolette
+                                id="art1-com1-mod1-vir5"
+                                tipo="parola">, corrispondente al personale di ruolo in servizio alla data del 31 dicembre 2004;</virgolette>" sono sostituite dalle parole "<virgolette
+                                id="art1-com1-mod1-vir6"
+                                tipo="parola"> I dipendenti accedono all'indennitï¿½ di cui al comma 5 al maturare di un anno di servizio nella categoria e profilo professionale </virgolette>"D1"<virgolette
+                                id="art1-com1-mod1-vir7"> e </virgolette>"D3"<virgolette
+                                id="art1-com1-mod1-vir8"
+                                tipo="parola"> e nel limite dei contingenti di posti pari a: n. 195 della categoria e profilo professionale </virgolette>"D1"<virgolette
+                                id="art1-com1-mod1-vir9"> e n. 320 della categoria e profilo professionale </virgolette>"D3"<virgolette
+                                id="art1-com1-mod1-vir10" tipo="parola">ï¿½. <h:br/>
+                                <h:br/>
+2. All'<rif xlink:href="urn:nir:regione.molise:legge:2005-09-26;30#art2">articolo 2 della legge regionale 26 settembre 2005,n. 30</rif>, dopo il comma 11 ï¿½ inserito il seguente: <h:br/>
+
+                                <h:br/>
+ ï¿½11-bis. I dipendenti giï¿½ appartenenti alla categoria e profilo professionale </virgolette>"D1"<virgolette
+                                id="art1-com1-mod1-vir11"
+                                tipo="parola">, che acquistano il possesso della categoria e profilo professionale </virgolette>"D3"<virgolette
+                                id="art1-com1-mod1-vir12"
+                                tipo="parola"> prima della maturazione di un anno nella categoria di provenienza, accedono all'indennitï¿½ di cui al comma 5 alla data di maturazione di un anno nella categoria </virgolette>"D"<virgolette
+                                id="art1-com1-mod1-vir13"
+                                tipo="parola">. A tale data gli aventi diritto vengono inseriti nella graduatoria della categoria e profilo professionale </virgolette>"Dl"<virgolette
+                                id="art1-com1-mod1-vir14"
+                                tipo="parola"> fino alla maturazione di un anno nella categoria e profilo professionale </virgolette>"D3"<virgolette
+                                id="art1-com1-mod1-vir15" tipo="struttura"><?error , secondo le disposizioni di cui al comma 11.&#xBB;. 
+ 
+?>
+                                <articolo id="art0">
+                                    <num>Art. 2 </num>
+                                    <rubrica/>
+                                    <comma id="art0-com1">
+                                    <num>
+1.</num>
+                                    <corpo> Ai maggiori oneri derivanti dall'applicazione della presente legge si provvede con norma di variazione in sede di approvazione dell'assestamento di bilancio 2006. 
+ 
+</corpo>
+                                    </comma>
+                                </articolo>
+                                <articolo id="art1">
+                                    <num>Art. 3 </num>
+                                    <rubrica/>
+                                    <comma id="art1-com1">
+                                    <num>
+1.</num>
+
+                                    <corpo> Gli effetti della presente legge decorrono dalla data di entrata in vigore della <rif xlink:href="urn:nir:regione.molise:legge:2005-09-26;30">legge regionale 26 settembre 2005, n. 30</rif>. </corpo>
+                                    </comma>
+                                    <comma id="art1-com2">
+                                    <num>
+ 
+2.</num>
+                                    <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione. 
+ 
+ La presente legge sarï¿½ pubblicata nel Bollettino Ufficiale della Regione. ï¿½ fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette><?error Marker Warning 106?>
+                        </mod>
+                    </corpo>
+                </comma>
+            </articolo><?error Marker Warning 105?>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

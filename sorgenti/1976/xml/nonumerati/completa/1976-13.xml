@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19760515" num="9" tipo="BURM"/>
+                <entratainvigore norm="19760530"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1976-05-10;13"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 09 del 15/05/76 
+ 
+Oggetto 
+Regione - Adesione all'Associazione Italiana per il Consiglio dei Comuni d'Europa - A.I.C.C.R.C. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19760510">10 Maggio 1976</dataDoc>, n. <numDoc>13</numDoc>
+            <titoloDoc>Adesione della Regione Molise all'Associazione Italiana per il Consiglio dei Comuni d'Europa - A.I.C.C.R.C. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+La Regione Molise aderisce all'Associazione Italiana per il Consiglio dei Comuni d'Europa (A.I.C.C.E.) - Sezione Italiana del Consiglio dei Comuni d'Europa - con sede in Roma e ne   approva i fini statutari. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+La Regione Molise si obbliga al pagamento, in favore dell'Associazione di cui all'<rif
+                            xlink:href="#art1">art. 1</rif>, della quota associativa annua, determinata in <rif xlink:href="urn:nir:stato:legge:1950;2">L. 2,50</rif> per abitante residente nella regione, secondo le risultanze dell'ultimo censimento. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+
+                    <corpo>
+L'onere derivante dall'applicazione della presente legge, ammontante, per l'anno  1976, a L.799.517, farï¿½ carico al Cap. 590 dello stato di previsione della spesa dello schema di bilancio 1976, del quale ï¿½ stato autorizzato l'esercizio provvisorio con <rif xlink:href="urn:nir:regione.molise:legge:1976-01-15;4">legge regionale 15 gennaio 1976, n.4</rif>. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <corpo>Per gli esercizi successivi la spesa farï¿½ carico ai corrispondenti capitoli di bilancio regionale. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge ï¿½ dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

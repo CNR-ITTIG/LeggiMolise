@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20021016" num="22" tipo="BURM"/>
+                <entratainvigore norm="20021031"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2002-10-07;23"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xe0;"/>
+                </materie>
+            </descrittori>
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 22 del 16 ottobre 2002 
+ 
+Oggetto 
+Edilizia scolastica - Interventi - Disciplina - Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20021007">7 ottobre 2002</dataDoc>, n. <numDoc>23</numDoc>. 
+ 
+<titoloDoc>Modifica della <rif xlink:href="urn:nir:regione.molise:legge:1980-02-26;7">legge regionale 26 febbraio 1980 n. 7</rif>, ad oggetto: " Interventi per l'edilizia scolastica". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ARTICOLO 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art1-com1-mod1"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:1980;7#art1-com2">secondo comma dell'art. 1 della legge regionale n. 7/1980</rif> ï¿½ sostituito dal seguente: 
+ 
+"<virgolette
+                                id="art1-com1-mod1-vir1" tipo="struttura">
+                                <comma id="art1-com1-mod1-vir1-com0">
+                                    <num> 2.</num>
+                                    <corpo> I contributi sono commisurati alla spesa riconosciuta ammissibile dalla Regione e sono concessi nella misura massima del 100% ai Comuni, alle Province ed agli altri enti</corpo>
+                                </comma>
+                            </virgolette>". </mod>
+                    </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>
+                        <mod id="art1-com2-mod2"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:1980;7#art1-com3">terzo comma dell'art. 1 della legge regionale n. 7/1980</rif> ï¿½ sostituito dal seguente: 
+ 
+"<virgolette
+                                id="art1-com2-mod2-vir2" tipo="struttura">
+                                <comma id="art1-com2-mod2-vir2-com0">
+                                    <num>3.</num>
+                                    <corpo> L'importo totale del finanziamento regionale, comprensivo del contributo alle spese generali determinato nella misura massima del 10% omnicomprensivo, non puï¿½ superare 
+ 
+LA SOMMA DI 
+ 
+Euro 72.000.  
+ 
+ï¿½ obbligo dell'ente attuatore farsi carico delle spese eccedenti, a qualsiasi titolo, il contributo</corpo>
+                                </comma>
+                            </virgolette>". 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ARTICOLO 2 </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

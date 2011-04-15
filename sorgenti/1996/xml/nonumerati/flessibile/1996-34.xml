@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19961103" num="23" tipo="BURM"/>
+                <entratainvigore norm="19961118"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1996-11-27;34"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xe0;"/>
+                </materie>
+            </descrittori>
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+ 
+Bollettino 
+Bollettino Ufficiale n. 23 del 03/11/96 
+ 
+Oggetto 
+Diritto allo studio universitario - Piano annuale straordinario per studenti portatori di handicap 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19961127">27 Novembre 1996</dataDoc>, n. <numDoc>34</numDoc>
+            <titoloDoc>Modifiche ed integrazioni alla <rif xlink:href="urn:nir:regione.molise:legge:1995-01-09;1">legge regionale 9 gennaio 1995, n. 1</rif>, recante &lt;&lt; Nuove norme per l'attuazione del diritto allo studio universitario &gt;&gt;. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+All'<rif
+                            xlink:href="urn:nir:regione.molise:legge:1995-01-09;1#art12">art. 12 della legge regionale 9 gennaio 1995, n. 1</rif>, sono aggiunti i seguenti commi: 
+ 
+3. La Giunta Regionale, per il conseguimento delle finalitï¿½ di cui ai commi precedenti, approva, su proposta dell'ESU, un piano annuale di interventi, ricompresi tra quelli elencati all'<rif xlink:href="urn:nir:regione.molise:legge:1995-01-09;1#art5">art. 5 della legge regionale 9 gennaio 1995, n. 1</rif>, a favore degli studenti portatori di handicap, che ï¿½ parte integrante del piano di indirizzo previsto dall'art. 27 della legge regionale medesima. 
+ 
+4. Il piano annuale di cui al comma precedente deve prevedere prioritariamente:</corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+
+                    <corpo>a) contributi per spese di trasporto degli studenti svantaggiati dal domicilio personale alla sede universitaria per un ammontare massimo annuo individuale di L. 1.000.000 (unmilione); 
+ 
+b) titolo di precedenza nell'assegnazione del contributo per il servizio alloggio di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1995-01-09;1#art6">art. 6 della legge regionale 9 gennaio 1995, n. 1</rif>, fino alla concorrenza delle richieste presentate dagli studenti portatori di handicap; 
+ 
+c) un contributo pari al cinquanta per cento della spesa sostenuta per il pagamento delle tasse di immatricolazione ed iscrizione all'Universitï¿½, previa esibizione delle relative ricevute di versamento; 
+ 
+d) l'acquisto di ausili strumentali per le attivitï¿½ didattiche, sia d'uso collettivo che individuale, rispondenti alle diverse tipologie di handicap; 
+ 
+e) assegnazione di buoni-pasto secondo criteri specifici in deroga a quelli previsti dal bando di concorso generale. 
+ 
+5. Gli interventi predetti sono erogati agli studenti portatori di handicap non oltre il quinto anno successivo alla scadenza legale del corso di studio universitario al quale sono iscritti.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+1. La presente legge ï¿½ dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error 2. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

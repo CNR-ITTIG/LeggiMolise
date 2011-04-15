@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19961031" num="21" tipo="BURM"/>
+                <entratainvigore norm="19961115"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1996-10-25;32"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="36.turismo e industria alberghiera"/>
+                </materie>
+            </descrittori>
+        </meta><?error 36.Turismo e industria alberghiera 
+ 
+Bollettino 
+Bollettino Ufficiale n. 21 del 31/10/96 
+ 
+Oggetto 
+Agenzie di viaggi e turismo - Apertura ed esercizio - Requisiti - Procedure 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19961025">25 Ottobre 1996</dataDoc>, n. <numDoc>32</numDoc>
+            <titoloDoc>Disciplina dell'esercizio delle attivitï¿½ professionali delle agenzie di viaggio e turismo. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: FINALITï¿½ DELLA LEGGE 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+
+                    <corpo>Con la presente legge la Regione Molise in attuazione del <rif
+                            xlink:href="urn:nir:presidente.repubblica:decreto:1972-01-14;6">D.P.R. 14 gennaio 1972, n. 6</rif> e nel rispetto dei principi sanciti dagli artt. 9,10 e 11 della <rif
+                            xlink:href="urn:nir:stato:legge:1983-05-17;217">legge 17 maggio 1983, n. 217</rif>, della convenzione internazionale relativa ai contratti di viaggio ratificata con <rif
+                            xlink:href="urn:nir:stato:legge:1977-12-27;1084">legge 27 dicembre 1977, n. 1084</rif>, nonchï¿½ del <rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1991-11-23;392">D.L.vo 23 novembre 1991 n. 392</rif> e del <rif xlink:href="urn:nir:stato:decreto.legislativo:1995-03-17;111">D. L.vo 17 marzo 1995 n. 111</rif>, disciplina l'esercizio delle agenzie di viaggi e turismo. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+                <rubrica>: AGENZIE DI VIAGGI E TURISMO 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> Sono agenzie di viaggi e turismo le imprese che esercitano congiuntamente o disgiuntamente le attivitï¿½ di organizzazione/produzione di viaggi e turismo e di intermediazione vendita dei predetti servizi. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art.3</num>
+                <rubrica>: ATTIVITï¿½ DELLE AGENZIE DI VIAGGI E TURISMO 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Sono attivitï¿½ proprie delle agenzie di viaggi e turismo l'organizzazione e la vendita di pacchetti turistici, cosï¿½ come definiti dal <rif xlink:href="urn:nir:stato:decreto.legislativo:1995-03-11;111">D.L.vo 11 marzo 1995, n. 111</rif>. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> Le agenzie di viaggi possono svolgere le seguenti attivitï¿½ complementari, fornendo le garanzie e dotandosi degli eventuali titoli autorizzativi secondo quanto previsto dalle normative che disciplinano le singole attivitï¿½: 
+ 
+</alinea>
+                    <el id="art3-com2-leta">
+                        <num>a)</num>
+                        <corpo> emissione e vendita di biglietti di trasporto;</corpo>
+                    </el>
+                    <el id="art3-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> organizzazione di escursioni locali individuali o collettive e giri di cittï¿½ con ogni mezzo di trasporto;</corpo>
+                    </el>
+                    <el id="art3-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> accoglienza di clienti nei porti, aereoporti, stazioni di partenza e di arrivo dei mezzi collettivi di trasporto;</corpo>
+                    </el>
+                    <el id="art3-com2-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> prenotazione dei servizi di albergo, residence, villaggi turistici, campegggi o di ristoranti ovvero vendita di buoni di credito per detti servizi emessi anche da altri operatori nazionali ed esteri;</corpo>
+                    </el>
+                    <el id="art3-com2-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> attivitï¿½ di informazione e propaganda di iniziative turistiche;</corpo>
+                    </el>
+                    <el id="art3-com2-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> inoltro, ritiro e deposito di bagagli per conto e nell'interesse dei propri clienti;</corpo>
+                    </el>
+                    <el id="art3-com2-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> noleggio di autovetture e/o di altri mezzi di trasporto;</corpo>
+                    </el>
+                    <el id="art3-com2-leth">
+                        <num> 
+ 
+h)</num>
+                        <corpo> emissioni di polizze turistiche per viaggiatori, a garanzia di infortuni, di assistenza malattia e di furto e/o danni al bagagliaio, ecc.;</corpo>
+                    </el>
+                    <el id="art3-com2-leti">
+                        <num> 
+ 
+i)</num>
+                        <corpo> prenotazione e vendita di biglietti per spettacoli, fiere e manifestazioni; 
+ 
+1) assistenza per il rilascio di passaporti e visti consolari; 
+ 
+m) rilascio e pagamento di assegni turistici, di assegni circolari e altri titoli di credito per viaggiatori, di lettere di credito e di cambio valuta; 
+ 
+n) distribuzione e vendita di pubblicazioni utili al turismo quali guide, opere illustrative, ecc. 
+ 
+</corpo>
+                    </el><?error Marker Warning 101 (last comma:2 next:1)?>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+                <rubrica>: ATTIVITï¿½ DELLE AGENZIE FUORI DELLA SEDE 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <corpo> ï¿½ consentita la vendita di pacchetti e di altri servizi turistici da parte delle agenzie di viaggi e turismo al di fuori della propria sede. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Le agenzie di viaggi e turismo possono prestare servizi ad imprese ed organismi vari direttamente presso la sede degli stessi anche mediante la dislocazione di terminali remoti &lt;&lt;in - plant&gt;&gt; che comportino o meno la presenza di personale dell'agenzia. 
+ 
+L' attivitï¿½ ï¿½ soggetta a comunicazione alla Regione - Assessorato al Turismo - ed al Comune territorialmente competente entro il termine di 30 giorni dall'avvio della stessa. L'attivitï¿½   &lt;&lt;in-plant&gt;&gt; ï¿½ limitata all'ambito del territorio della Regione. </corpo>
+                </comma>
+                <comma id="art4-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Le agenzie di viaggi e turismo possono prestare i propri servizi temporaneamente in occasione di mostre, borse e fiere, nella sede in cui si tengono tali manifestazioni, dandone preventiva comunicazione alla Regione- Assessorato al Turismo. I servizi possono essere prestati limitatamente alle manifestazioni che si svolgono nell'ambito del territorio regionale. </corpo>
+                </comma>
+                <comma id="art4-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> La vendita dei servizi di agenzie per corrispondenza o mediante strumenti telematici, o mediante promotori commerciali porta a porta, ï¿½ subordinata alle norme sul diritto di recesso da   parte dell'acquirente (tutela del consumatore). </corpo>
+                </comma>
+                <comma id="art4-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> I promotori commerciali devono essere muniti di documento di identificazione rilasciato dall'agenzia; di tali promotori l'agenzia deve tenere un elenco presso la propria sede a disposizione dell'autoritï¿½ di vigilanza. </corpo>
+                </comma>
+                <comma id="art4-com6">
+                    <num>
+ 
+6.</num>
+                    <corpo> L'attivitï¿½ di vendita mediante strumenti telematici o per corrispondenza, puï¿½ essere svolta su tutto il territorio nazionale. </corpo>
+                </comma>
+                <comma id="art4-com7">
+                    <num>
+ 
+7.</num>
+                    <corpo> L'attivitï¿½ di vendita mediante promotori commerciali porta a porta ï¿½ limitata all'ambito provinciale in cui ha sede l'agenzia o filiale o succursale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+                <rubrica>: OPUSCOLI INFORMATIVI 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo> Gli opuscoli informativi concernenti i pacchetti turistici e quelli concernenti i viaggi, crociere, escursioni e soggiorni, devono essere redatti in conformitï¿½ a quanto previsto dall'art. 9 del D.L.v n. 111/1995. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Gli opuscoli informativi non sono soggetti ad approvazione preventiva, nï¿½ devono essere trasmessi all'Ente di vigilanza. La  pubblicazione di opuscoli informativi redatti in modo non conforme a quanto sopra indicato, ï¿½ sanzionato amministrativamente. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6</num>
+                <rubrica>: REQUISITI PROFESSIONALI 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Il titolare dell'agenzia deve offrire, anche mediante persone da lui preposte alla conduzione dell'agenzia, garanzie di capacitï¿½ professionale per la direzione delle stesse, nonchï¿½ di   onorabilitï¿½ e assenza di fallimento (<rif xlink:href="urn:nir:stato:decreto.legislativo:1991-11-23;392">D.L.vo 23 novembre 1991, n. 392</rif>). </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> La prova del possesso delle capacitï¿½ professionali per la direzione dell'agenzia ï¿½ fornita, al momento della richiesta dell'apertura della stessa o di variazioni successive, presentando la certificazione che comprovi che ï¿½ stata prestata attivitï¿½ in agenzie di viaggi e turismo secondo quanto disposto dall'<rif xlink:href="urn:nir:stato:decreto.legislativo:1991;392#art4">art. 4 del D.L.vo n.392/91</rif>. </corpo>
+                </comma>
+                <comma id="art6-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Tale procedura si applica sia ai cittadini comunitari che ai cittadini italiani. </corpo>
+                </comma>
+                <comma id="art6-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> In subordine alla presentazione dei titoli, la prova del possesso delle capacitï¿½ professionali puï¿½ essere fornita sostenendo l'esame previsto dall'<rif xlink:href="#art10">art. 10</rif> della presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7</num>
+                <rubrica>: REQUISITI STRUTTURALI 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <corpo> L'agenzia deve disporre di strutture ed attrezzature idonee allo svolgimento delle attivitï¿½ autorizzate, nonchï¿½, nel caso di vendita al pubblico, di locali facilmente accessibili, anche ai disabili, convenientemente arredati e distinti da quelli di altri esercizi commerciali. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8</num>
+                <rubrica>: PRODUTTORI DI SERVIZI TURISTICI E RICETTIVI 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+                    <corpo> I produttori di servizi turistici e ricettivi, singolarmente o tra loro associati nelle forme previste dalla legge, possono prenotare e vendere direttamente al pubblico i loro servizi, anche organizzati in forma di pacchetto turistico. Nel pacchetto si combinano gli elementi dell'alloggio, dei servizi turistici e del trasporto; quest'ultimo, perï¿½ non deve costituire la parte piï¿½ significativa del pacchetto (sono ammessi i transfert locali). </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> L'esercizio di tale attivitï¿½ non ï¿½ soggetto alla stessa autorizzazione di agenzia di viaggi e turismo, ma deve rispettare, per quanto applicabile, le norme che regolano la responsabilitï¿½ contrattuale e le garanzie al consumatore. I produttori di tali servizi sono tenuti alla sola denuncia dell'inizio dell'attivitï¿½, secondo quanto previsto dalla normativa vigente in materia. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9</num>
+                <rubrica>: OBBLIGHI DEL TITOLARE E DEL DIRETTORE TECNICO 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+                    <corpo> Il direttore tecnico deve prestare la propria opera professionale alle dipendenze di una sola agenzia o filiale o succursale autonoma, con carattere di continuitï¿½ ed esclusivitï¿½. </corpo>
+                </comma>
+                <comma id="art9-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> In caso di inosservanza degli obblighi di cui al comma precedente la Giunta Regionale, su proposta dell'Assessore al Turismo, provvede alla sospensione dall'esercizio della professione. </corpo>
+                </comma>
+                <comma id="art9-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La Giunta Regionale, inoltre, su proposta dell'Assessore al Turismo, puï¿½ disporre la sospensione o, nei casi piï¿½ gravi, la revoca dell'autorizzazione anche nei confronti dei titolari, per inosservanza degli obblighi discendenti dalla presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10</num>
+                <rubrica>: ESAME DI ABILITAZIONE 
+ </rubrica>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+                    <alinea> Ai fini della ammissione all'esame di abilitazione gli aspiranti devono essere in possesso dei seguenti requisiti: 
+ 
+</alinea>
+                    <el id="art10-com1-leta">
+                        <num>a)</num>
+                        <corpo> licenza di scuola media superiore o titolo equipollente;</corpo>
+                    </el>
+                    <el id="art10-com1-letb">
+                        <num>b)</num>
+                        <corpo> non aver riportato condanne penali. </corpo>
+                    </el>
+                </comma>
+                <comma id="art10-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> I requisiti devono essere posseduti alla data di presentazione della domanda. </corpo>
+                </comma>
+                <comma id="art10-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Le modalitï¿½ ed i termini dell'esame di abilitazione vengono definiti con apposito bando della Giunta Regionale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11</num>
+                <rubrica>: DOMANDA DI PARTECIPAZIONE ALL'ESAME 
+ </rubrica>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+                    <alinea> Coloro che intendano partecipare all'esame di abilitazione devono inoltrare domanda in carta legale alla Regione Molise, Assessorato al Turismo, e devono dichiarare: 
+ 
+</alinea>
+                    <el id="art11-com1-leta">
+                        <num>a)</num>
+                        <corpo> cognome, nome, luogo e data di nascita;</corpo>
+                    </el>
+                    <el id="art11-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> luogo di residenza;</corpo>
+                    </el>
+                    <el id="art11-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> titolo di studio posseduto;</corpo>
+                    </el>
+                    <el id="art11-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> l'assenza di condanne penali;</corpo>
+                    </el>
+                    <el id="art11-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> le lingue straniere, almeno due sulle quali intendono sostenere gli esami, scelte tra queIle maggiormente diffuse;</corpo>
+                    </el>
+                    <el id="art11-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> il recapito presso il quale dovranno essere inviate le comunicazioni inerenti l'esame e recapito telefonico. </corpo>
+                    </el>
+                </comma>
+                <comma id="art11-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La firma in calce alla domanda deve essere autenticata nei modi di legge. </corpo>
+                </comma>
+                <comma id="art11-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> In caso di superamento dell'esame il richiedente deve produrre la certificazione attinente i requisiti di cui agli artt.10 e 11. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12</num>
+                <rubrica>: PROVA DI ESAME 
+ </rubrica>
+                <comma id="art12-com1">
+                    <num>
+1.</num>
+                    <corpo> L'esame di abilitazione all'esercizio della professione di direttore tecnico di agenzia di viaggi e turismo consiste: 
+ 
+1ï¿½ Prova scritta: 
+ 
+- tecnica turistica, amministrazione ed organizzazione delle agenzie di viaggio e turismo; 
+ 
+-principi di legislazione turistica; 
+ 
+-geografia turistica. 
+ 
+2ï¿½ Prova scritta: 
+ 
+-traduzione di una lettera a contenuto commerciale nelle lingue straniere scelte dal candidato. 
+ 
+Prova orale: 
+ 
+-colloquio sulle materie delle prove scritte e su due lingue straniere, compresa quella oggetto della prova scritta. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13</num>
+                <rubrica>: COMMISSIONE DI ESAME 
+ </rubrica>
+                <comma id="art13-com1">
+                    <num>
+1.</num>
+                    <corpo> La Commissione d'esame per l'abilitazione all'esercizio di Direttore Tecnico ï¿½ cosï¿½ composta: 
+ 
+- il responsabile del Settore Turismo che la presiede; 
+ 
+- un insegnante o esperto di tecnica turistica e di organizzazione delle agenzie di viaggi e turismo; 
+ 
+- un insegnante o esperto di legislazione turistica; 
+ 
+- un rappresentante degli EE.PP.T.; 
+ 
+- un insegnante o esperto in geografia turistica. 
+ 
+2. Della Commissione fanno parte di volta in volta membri aggiunti laureati nelle lingue straniere richieste dai candidati. 
+ 
+3. Le funzioni di segretario sono svolte da un funzionario in servizio presso il settore Turismo. 
+ 
+4. La Comissione ï¿½ nominata con deliberazione della Giunta Regionale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14</num>
+                <rubrica>: AUTORIZZAZIONE ALL'APERTURA E ALL'ESERCIZIO DELLE ATTIVITï¿½ DELLE AGENZIE DI VIAGGI E TURISMO 
+ </rubrica>
+                <comma id="art14-com1">
+                    <num>
+1.</num>
+
+                    <corpo> L'apertura delle agenzie di viaggi e turismo e l'esercizio delle attivitï¿½ di cui all'<rif xlink:href="#art3">art. 3</rif> della presente legge, sono soggette ad autorizzazione dell'Amministrazione Regionale, da concedersi con Decreto del Presidente della Giunta Regionale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>Art. 15</num>
+                <rubrica>: DOMANDA PER IL RILASCIO DELL'AUTORIZZAZIONE 
+ </rubrica>
+                <comma id="art15-com1">
+                    <num>
+1.</num>
+                    <alinea> Coloro che intendano ottenere l'autorizzazione all' apertura ed all'esercizio di un'agenzia di viaggi e turismo, devono produrre domanda in carta legale alla Regione Molise_Assessorato al Turismo_indicando in essa: 
+ 
+</alinea>
+                    <el id="art15-com1-leta">
+                        <num>a)</num>
+                        <corpo> le complete generalitï¿½ e la cittadinanza del titolare o del legale rappresentante nel caso di societï¿½;</corpo>
+                    </el>
+                    <el id="art15-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> le complete generalitï¿½ della persona che assume la direzione tecnica dell'agenzia di viaggi e turismo, se persona diversa dal titolare;</corpo>
+                    </el>
+                    <el id="art15-com1-letc">
+                        <num> 
+ 
+c)</num>
+
+                        <corpo> le attivitï¿½ che congiuntamente o disgiuntamente si intendono esercitare ai sensi del <rif xlink:href="#art3">precedente art. 3</rif>;</corpo>
+                    </el>
+                    <el id="art15-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> la qualitï¿½ di agenzia principale o filiale;</corpo>
+                    </el>
+                    <el id="art15-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> l'ubicazione dei locali in cui si intende esercitare l'attivitï¿½;</corpo>
+                    </el>
+                    <el id="art15-com1-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> l'organizzazione e le attrezzature previste per la gestione dei servizi;</corpo>
+                    </el>
+                    <el id="art15-com1-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> il possesso dei requisiti soggettivi previsti dal T.U. delle leggi di P.S. 18 giugno 1931, n. 773. </corpo>
+                    </el>
+                </comma>
+                <comma id="art15-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> Alla domanda deve essere allegata la seguente documentazione: 
+ 
+</alinea>
+                    <el id="art15-com2-leta">
+                        <num>a)</num>
+                        <corpo> certificato di cittadinanza;</corpo>
+                    </el>
+                    <el id="art15-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> copia autenticata dell'atto costitutivo nel caso di societï¿½;</corpo>
+                    </el>
+                    <el id="art15-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> certificato generale del casellario giudiziale, in data non anteriore a tre mesi, riguardante il titolare o il legale rappresentante della societï¿½;</corpo>
+                    </el>
+                    <el id="art15-com2-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> attestato di abilitazione della persona che assume la direzione tecnica dell'agenzia. </corpo>
+                    </el>
+                </comma>
+                <comma id="art15-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Salvo che si tratti di agenzie che non svolgono attivitï¿½ di vendita diretta al pubblico, la domanda deve essere altresï¿½, corredata dal progetto di sistemazione dei locali, da una relazione tecnico-illustrativa e dalle relative pianimetrie. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>Art. 16</num>
+                <rubrica>: DENOMINAZIONE DELL'AGENZIA 
+ </rubrica>
+                <comma id="art16-com1">
+                    <num>
+1.</num>
+                    <corpo> Nella domanda di cui al <rif xlink:href="#art15">precedente art. 15</rif> devono essere indicati la denominazione prescelta per l'agenzia e l'eventuale marchio. </corpo>
+                </comma>
+                <comma id="art16-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> L'Assessorato al Turismo accerta che la denominazione ed il marchio prescelti non siano uguali o simili ad altri adottati da agenzie giï¿½ operanti nel territorio nazionale o comunque tali da ingenerare confusione. </corpo>
+                </comma>
+                <comma id="art16-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Non puï¿½ essere adottata denominazione di Comuni o Regioni italiane. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>Art. 17</num>
+                <rubrica>: ISTRUTTORIA PRELIMINARE PER L'APERTURA DELL'AGENZIA 
+ </rubrica>
+                <comma id="art17-com1">
+                    <num>
+1.</num>
+
+                    <corpo> L'istruttoria preliminare viene effettuata tramite gli Enti Turistici competenti per territorio, che esprimono il relativo parere dopo aver provveduto ad acquisire il nulla-osta dell'autoritï¿½ di Pubblica Sicurezza per quanto attiene l'accertamento del possesso dei requisiti di cui agli artt. 11 e 12 del T.U. approvato con <rif xlink:href="urn:nir:stato:regio.decreto:1931-06-18;773">R.D. 18 giugno 1931, n. 773</rif> e successive modificazioni. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>Art. 18</num>
+                <rubrica>: DECRETO DI AUTORIZZAZIONE 
+ </rubrica>
+                <comma id="art18-com1">
+                    <num>
+1.</num>
+                    <corpo> L'autorizzazione all'apertura dell'agenzia di viaggi e turismo ï¿½ concessa con decreto del Presidente della Giunta Regionale, previa conforme deliberazione della Giunta stessa, e previo accertamento, d'intesa con l'organo turistico periferico, della idoneitï¿½ dei locali, in cui si intende esercitare l'attivitï¿½. </corpo>
+                </comma>
+                <comma id="art18-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il decreto di autorizzazione deve indicare espressamente le attivitï¿½ per l'esercizio delle quali l'autorizzazione stessa ï¿½ concessa e le generalitï¿½ della persona titolare dell'agenzia o del  legale rappresentante nel caso di societï¿½. Deve indicare inoltre espressamente le generalitï¿½ della persona alla quale ï¿½ affidata la responsabilitï¿½ tecnica dell'agenzia stessa. </corpo>
+                </comma>
+                <comma id="art18-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Trascorsi sei mesi dalla data del decreto del Presidente della Giunta Regionale senza che il titolare abbia iniziato l'attivitï¿½ dell'agenzia, l'autorizzazione decade di diritto. </corpo>
+                </comma>
+                <comma id="art18-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> L'autorizzazione all'apertura ed all'esercizio di agenzia di viaggi e turismo si intende tacitamente rinnovata con il pagamento della tassa di concessione regionale. </corpo>
+                </comma>
+                <comma id="art18-com5">
+                    <num>
+ 
+5.</num>
+
+                    <corpo> Per il rilascio dell'autorizzazione di agenzia di viaggi e turismo a persone fisiche e giuridiche straniere si applicano le disposizioni previste dall'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616#art58">art. 58 del D.P.R. 24 luglio 1977, n. 616</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art19">
+                <num>Art. 19</num>
+                <rubrica>: TASSA DI CONCESSIONE REGIONALE 
+ </rubrica>
+                <comma id="art19-com1">
+                    <num>
+1.</num>
+                    <corpo> L'autorizzazione di cui all <rif
+                            xlink:href="#art18">art. 18</rif> della presente legge ï¿½ soggetta alla tassa di rilascio nonchï¿½ alla tassa annuale nella misura prevista dal n. 23 della tariffa annessa al <rif xlink:href="urn:nir:stato:decreto.legislativo:1991-06-22;230">D.L.vo 22 giugno 1991, n. 230</rif>. </corpo>
+                </comma>
+                <comma id="art19-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La tassa per il rinnovo deve essere versata entro il 31 gennaio di ogni anno. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art20">
+                <num>Art. 20</num>
+                <rubrica>: ATTIVITï¿½ NON SOGGETTE AD AUTORIZZAZIONE 
+ </rubrica>
+                <comma id="art20-com1">
+                    <num>
+1.</num>
+                    <corpo> L'attivitï¿½ di emissione e vendita di biglietti di trasporto ferroviario, automobilistico, marittimo, fluviale, lacuale, filoferroviario, che non comporti anche l'organizzazione di viaggi, soggiorno, crociere, gite ed escursioni, comprendenti prestazioni e servizi oltre al trasporto, non ï¿½ soggetta ad autorizzazione. </corpo>
+                </comma>
+                <comma id="art20-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> L'attivitï¿½ di emissione e vendita di biglietti di trasporto aereo non ï¿½ soggetta ad autorizzazione, qualora sia svolta direttamente dalle imprese di trasporto, anche per conto di altre imprese, o dalle imprese aereo portuali. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art21">
+                <num>Art. 21</num>
+                <rubrica>: APERTURA DI SUCCURSALI E FILIALI 
+ </rubrica>
+                <comma id="art21-com1">
+                    <num>
+1.</num>
+                    <corpo> L'apertura nell'ambito regionale di succursali e filiali di agenzie di viaggi e turismo e le domande di trasferimento della sede di agenzia di viaggio e turismo e di succursali e filiali da 
+ 
+Comune diverso da quello in cui hanno la sede, sono soggette alle procedure di cui alla presente legge. </corpo>
+                </comma>
+                <comma id="art21-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Le succursali o filiali a gestione non autonoma sono escluse dall'obbligo del pagamento dela tassa di concessione regionale. 3. La Regione Molise puï¿½ autorizzare l'apertura stagionale di succursali o filiali di agenzie autorizzate nelle localitï¿½ di particolare interesse turistico in cui non operino agenzie di viaggi e turismo per un periodo non superiore a tre mesi con deliberazione della Giunta Regionale, senza l'osservanza delle prescrizioni di cui alla presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art22">
+                <num>Art. 22</num>
+                <rubrica>: CHIUSURA TEMPORANEA DELL'AGENZIA 
+ </rubrica>
+                <comma id="art22-com1">
+                    <num>
+1.</num>
+                    <corpo> Il titolare che intenda procedere alla chiusura temporanea di una sede dell'agenzia deve informare, indicandone i motivi, il periodo e la durata, l'Assessorato Regionale al Turismo e l'Ente turistico periferico di competenza. </corpo>
+                </comma>
+                <comma id="art22-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il termine di chiusura non puï¿½ essere superiore a tre mesi nell'anno. ï¿½ ammessa una sola proroga di non piï¿½ di tre mesi per comprovate ragioni. </corpo>
+                </comma>
+                <comma id="art22-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> I provvedimenti vengono concessi con delibera della Giunta Regionale, su proposta dell'Assessorato al Turismo. </corpo>
+                </comma>
+                <comma id="art22-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> Nel caso che la chiusura avvenga senza l'avviso di cui al <rif xlink:href="#art22-com1">primo comma</rif> o che l'ufficio non sia riaperto decorso il termine di proroga, la Giunta Regionale, su proposta dell'Assessorato al Turismo, delibera la revoca dell'autorizzazione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art23">
+                <num>Art. 23</num>
+
+                <rubrica>: MUTAMENTI NELL'ORGANIZZAZIONE DELL'AGENZIA 
+ 
+l. Qualsiasi mutamento alle condizioni originarie in base alle quali ï¿½ stata rilasciata l'autorizzazione di cui all'<rif
+                        xlink:href="#art18">art. 18</rif> della presente legge, deve essere autorizzato con deliberazione della Giunta Regionale, su proposta dell'Assessore al Turismo. A tal fine, ogni mutamento deve essere tempestivamente comunicato all'Assessorato Regionale al Turismo. 
+ 
+2. L'inosservanza della prescrizione di cui al comma precedente puï¿½ comportare la sospensione o, nei casi piï¿½ gravi, la revoca dell'autorizzazione. 
+ 
+3. Qualsiasi variazione che comporti modifiche alla titolaritï¿½ dell'agenzia ï¿½ soggetta alla tassa di rilascio nella misura prevista dal <rif xlink:href="urn:nir:stato:decreto.legislativo:1991-06-22;230">D.L.vo 22 giugno 1991, n. 230</rif>. 
+ 
+4. ï¿½ prevista la sospensione dell'autorizzazione nel caso in cui la sostituzione del titolare o del direttore tecnico non avvenga nel termine di tre mesi. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art23-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art24">
+                <num>Art. 24</num>
+                <rubrica>: SOSPENSIONE E REVOCA DELL'AUTORIZZAZIONE 
+ </rubrica>
+                <comma id="art24-com1">
+                    <num>
+1.</num>
+                    <corpo> Quando l'attivitï¿½ dell'agenzia o dei suoi titolari sia ritenuta dannosa o contraria agli interessi del turismo, o quando siano modificate le condizioni originarie per il rilascio dell'autorizzazione, o quando si rilevino gravi irregolaritï¿½ di ordine amministrativo, salvo quanto previsto dalle norme di 
+ 
+Pubblica Sicurezza, la Regione Molise, sentito l'Ente turistico competente, puï¿½ procedere, con deliberazione della Giunta Regionale, su proposta dell'Assessore al Turismo, alla sospensione fino a sei mesi e, in caso di recidiva, alla revoca dell'autorizzazione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art25">
+                <num>Art. 25</num>
+                <rubrica>: REGISTRO REGIONALE DELLE AGENZIE DI VIAGGI E TURISMO 
+ </rubrica>
+                <comma id="art25-com1">
+                    <num>
+1.</num>
+                    <corpo> Le agenzie di viaggi e turismo e le rispettive succursali e filiali autorizzate ai sensi della presente legge, sono iscritte nell'apposito registro regionale istituito presso l'Assessorato Regionale al Turismo che provvede alla sua tenuta e aggiornamento. </corpo>
+                </comma>
+                <comma id="art25-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Nel registro sono riportati i dati relativi alla denominazione dell'agenzia, il tipo di attivitï¿½ autorizzata, il nome o la ragione sociale del titolare ed il nome dell'eventuale direttore tecnico, nonchï¿½ tutti i provvedimenti assunti dalla Giunta Regionale ai sensi della presente legge. </corpo>
+                </comma>
+                <comma id="art25-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Il registro regionale consta di una apposita sezione dove sono iscritte le agenzie di viaggi e turismo straniere autorizzate. </corpo>
+                </comma>
+                <comma id="art25-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> L'elenco delle agenzie di viaggi e turismo iscritte al registro regionale ï¿½ pubblicato ogni anno sul Bollettinc Ufficiale della Regione Molise. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art26">
+                <num>Art. 26</num>
+                <rubrica>: ASSICURAZIONE 
+ </rubrica>
+                <comma id="art26-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Le agenzie di viaggi e turismo sono tenute a stipulare polizze assicurative di responsabilitï¿½ civile a garanzia dell'esatto adempimento degli obblighi assunti verso i clienti con il contratto di viaggio ed in relazione al costo complessivo dei servizi, nell'osservanza delle disposizioni previste in materia dalla convenzione internazionale relativa al contratto di viaggio (CCV) di cui alla <rif xlink:href="urn:nir:stato:legge:1977-12-27;1084">legge 27 dicembre 1977, n. 1084</rif>. </corpo>
+                </comma>
+                <comma id="art26-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Le suddette polizze devono prevedere, per espressa menzione, la garanzia assicurativa per infortuni sopravvenuti durante il periodo di prestazione dell'attivitï¿½ professionale in favore delle guide turistiche interpreti ed accompagnatori turistici abilitati della cui opera le agenzie di viaggi e turismo si avvalgono. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art27">
+                <num>Art. 27</num>
+                <rubrica>: ASSOCIAZIONI SENZA SCOPO DI LUCRO OPERANTI IN MODO CONTINUATIVO ED ORGANIZZATO 
+ </rubrica>
+                <comma id="art27-com1">
+                    <num>
+1.</num>
+                    <corpo> Le associazioni senza scopo di lucro che operano a livello nazionale per finalitï¿½ ricreative, culturali, religiose o sociali, sono autorizzate a svolgere, in modo continuativo ed organizzato, le attivitï¿½ di organizzazione e vendita di viaggi e turismo esclusivamente per i propri associati. </corpo>
+                </comma>
+                <comma id="art27-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> Per poter svolgere l'attivitï¿½ le Associazioni devono dimostrare di possedere i seguenti requisiti: 
+ 
+</alinea>
+                    <el id="art27-com2-leta">
+                        <num>a)</num>
+                        <corpo> numero di soci non inferiore a 5000;</corpo>
+                    </el>
+                    <el id="art27-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> presenza organizzata in almeno tre regioni;</corpo>
+                    </el>
+                    <el id="art27-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> costituzioni ed operativitï¿½ continuativa da almeno un triennio nelle attivitï¿½ sociali statutarie;</corpo>
+                    </el>
+                    <el id="art27-com2-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> riconoscimento associativo ai sensi della vigente normativa nazionale concernente il riconoscimento della personalitï¿½ giuridica;</corpo>
+                    </el>
+                    <el id="art27-com2-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> assenza di qualsiasi forma di lucro desumibile anche dai bilanci sociali, nonchï¿½ di qualsiasi dipendenza da soggetti ed organismi esercenti attivitï¿½ imprenditoriali;</corpo>
+                    </el>
+                    <el id="art27-com2-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> organizzazione e funzionamento secondo criteri di democraticitï¿½;</corpo>
+                    </el>
+                    <el id="art27-com2-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> fruizione dei servizi solo da parte degli associati. </corpo>
+                    </el>
+                </comma>
+                <comma id="art27-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Alle attivitï¿½ delle Associazioni si applicano le disposizioni sulla responsabilitï¿½ e sugli obblighi previsti dal CCV (<rif
+                            xlink:href="urn:nir:stato:legge:1977-12-27;1084">legge 27 dicembre 1977, n. 1084</rif>) nonchï¿½ del <rif xlink:href="urn:nir:stato:decreto.legislativo:1995-03-17;111">D.L.vo 17 marzo 1995, n. 111</rif>. </corpo>
+                </comma>
+                <comma id="art27-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Le Associazioni devono stipulare polizze assicurative a copertura delle responsabilitï¿½ di cui al comma precedente assunte nei confronti dei propri associati con la prestazione dei servizi. </corpo>
+                </comma>
+                <comma id="art27-com5">
+                    <num>
+ 
+5.</num>
+
+                    <corpo> Gli opuscoli informativi concernenti pacchetti turistici e quelli concernenti viaggi, crociere, escursioni e soggiorni, devono essere redatti in conformitï¿½ a quanto previsto dall'<rif xlink:href="urn:nir:stato:decreto.legislativo:1995;111#art9">art. 9 del D. L.vo n.111/1995</rif> e formare oggetto di diffusione esclusivamente in ambito associativo. </corpo>
+                </comma>
+                <comma id="art27-com6">
+                    <num>
+ 
+6.</num>
+
+                    <corpo> Le Associazioni nazionali devono trasmettere alla Regione nel cui territorio hanno sede legale, una dichiarazione, agli effetti dell'<rif xlink:href="urn:nir:stato:legge:1990;241#art19">art. 19 della legge n. 241/1990</rif>, che attesti il possesso dei requisiti sopra indicati, nonchï¿½ trasmettere annualmente una relazione concernente il programma di attivitï¿½ di organizzazione e vendita del turismo che intendono svolgere e che indica il numero dei soci. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art28">
+                <num>Art. 28</num>
+                <rubrica>: ASSOCIAZIONI, ENTI E SODALIZI SENZA SCOPO DI LUCRO OPERANTI A LIVELLO REGIONALE 
+ </rubrica>
+                <comma id="art28-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Le Associazioni, gli Enti e i sodalizi senza scopo di lucro, aventi finalitï¿½ ricreative, culturali, religiose o sociali, operanti a livello regionale, possono svolgere le attivitï¿½ di cui all'<rif xlink:href="#art3">art. 3</rif> della presente legge. </corpo>
+                </comma>
+                <comma id="art28-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> I sodalizi e le Associazioni possono liberamente organizzare ed effettuare, senza scopo di lucro e senza carattere di professionalitï¿½, gite occasionali riservate ai propri associati. </corpo>
+                </comma>
+                <comma id="art28-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> ï¿½ esclusa dalla disciplina della presente legge l'organizzazione di viaggi da parte di Enti, istituti, od organismi pubblici nell'ambito dello svolgimento delle proprie attivitï¿½ istituzionali. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art29">
+                <num>Art. 29</num>
+                <rubrica>: ATTIVITA TURISTICHE ESERCITATE DALLE IMPRESE DI TRASPORTI PUBBLICI 
+ </rubrica>
+                <comma id="art29-com1">
+                    <num>
+1.</num>
+                    <corpo> Le imprese che, esercitando l'attivitï¿½ di trasporto terrestre, marittimo, aereo o di altro tipo, assumono direttamente anche l'organizzazione di viaggi, soggiorni, crociere ed escursioni comprendenti prestazioni e servizi resi oltre il servizio di trasporto, sono assoggettate alle disposizioni della presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art30">
+                <num>Art. 30</num>
+                <rubrica>: VIGILANZA E CONTROLLO 
+ </rubrica>
+                <comma id="art30-com1">
+                    <num>
+1.</num>
+                    <corpo> Le funzioni di vigilanza e controllo sulle agenzie di viaggi e turismo sono esercitate dall'Ente Turistico periferico competente per territorio. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art31">
+                <num>Art. 31</num>
+                <rubrica>: ESERCIZIO ABUSIVO DELLE ATTIVITï¿½ 
+ </rubrica>
+                <comma id="art31-com1">
+                    <num>
+1.</num>
+                    <corpo> Chiunque intraprenda o svolga in forma continuativa od occasionale, anche senza scopo di lucro, le attivitï¿½ di cui alla presente legge, senza aver ottenuto 1e prescritte autorizzazioni, ï¿½ soggetto alla sanzione amministrativa del pagamento di una somma da L. 3.000.000 a L. 15.000.000, tenuto conto delle attivitï¿½ abusivamente esercitate. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art32">
+                <num>Art. 32</num>
+                <rubrica>: SANZIONI 
+ </rubrica>
+                <comma id="art32-com1">
+                    <num>
+1.</num>
+                    <corpo> Ferma restando l'applicazione delle sanzioni previste specificatamente nei singoli articoli della presente legge, l'esercizio delle attivitï¿½ difformi da quelle per le quali ï¿½ stata ottenuta l'autorizzazione nonchï¿½ l'inosservanza di quanto previsto negli altri articoli, comporta la sanzione pecunaria da L. 2.000.000 a L. 5.000.000. </corpo>
+                </comma>
+                <comma id="art32-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> L'accertamento delle infrazioni e l'irrogazione delle sanzioni sono effettuate in base alla presente legge e con le modalitï¿½ e procedure previste dalle norme vigenti in materia. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art33">
+                <num>Art. 33</num>
+                <rubrica>: QUALIFICAZIONE PROFESSIONALE DEL PERSONALE 
+ </rubrica>
+                <comma id="art33-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione Molise promuove l'organizzazione di corsi di formazione professionale attinenti le specifiche materie oggetto della presente legge, ai fini della migliore qualificazione tecnica del personale da applicare ai servizi delle Agenzie di viaggi e turismo. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art34">
+                <num>Art. 34</num>
+                <rubrica>: ESCURSIONI E VIAGGI LUNGO PERCORSI SERVITI DA AUTOLINEE IN CONCESSIONE 
+ </rubrica>
+                <comma id="art34-com1">
+                    <num>
+1.</num>
+                    <corpo> Per l'organizzazione di viaggi, gite ed escursioni lungo percorsi serviti da autolinee in concessione, le agenzie di viaggi e turismo autorizzate devono osservare le disposizioni vigenti in materia. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art35">
+                <num>Art. 35</num>
+                <rubrica>: USO DELLA DENOMINAZIONE 
+ </rubrica>
+                <comma id="art35-com1">
+                    <num>
+1.</num>
+                    <corpo> Le denominazioni di &lt;&lt;Agenzie di viaggi&gt;&gt;, di &lt;&lt;Agenzie turistiche&gt;&gt; e simili, nonchï¿½ le corrispondenti espressioni in lingue straniere, sono riservate alle aziende che hanno ottenuto 
+ 
+l'autorizzazione prevista dalla presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art36">
+                <num>Art. 36</num>
+                <rubrica>: NORMA FINANZIARIA 
+ </rubrica>
+                <comma id="art36-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Il funzionamento della commissione per l'abilitazione all'esercizio della professione di direttore tecnico, di cui all'<rif xlink:href="#art13">art. 13</rif> della presente legge grava sul capitolo 53511 del bilancio di previsione della Regione Molise per l'esercizio finanziario 1996. </corpo>
+                </comma>
+                <comma id="art36-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Allo stanziamento dei fondi necessari per gli anni successivi si provvederï¿½ con la legge di approvazione del bilancio dei rispettivi esercizi finanziari. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art37">
+                <num>Art. 37</num>
+                <rubrica>: NORMA TRANSITORIA 
+ </rubrica>
+                <comma id="art37-com1">
+                    <num>
+1.</num>
+
+                    <corpo> I direttori tecnici di agenzie riconosciuti idonei ai sensi del <rif
+                            xlink:href="urn:nir:stato:regio.decreto.legge:1936-11-23;2523">R.D.L. 23 novembre 1936, n. 2523</rif> non sono tenuti a sostenere l'esame di abilitazione di cui all'<rif xlink:href="#art10">art. 10</rif> e seguenti della presente legge per l'assunzione della direzione tecnica dell'Agenzia di viaggi e turismo. </corpo>
+                </comma>
+                <comma id="art37-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> I titolari o amministratori di agenzie di viaggi e turismo operanti nella Regione possono conseguire l'idoneitï¿½ a direttore tecnico delle agenzie che esercitano le attivitï¿½ di cui all'<rif
+                            xlink:href="#art3">art 3</rif>, previo superamento di esame-colloquio vertente nelle materie di cui all'<rif xlink:href="#art12">art. 12</rif> della presente legge. </corpo>
+                </comma>
+                <comma id="art37-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> A tal fine gli interessati devono, entro novanta giorni dall'entrata in vigore della presente legge, presentare domanda alla Regione Molise, Assessorato al Turismo, ai sensi del <rif xlink:href="#art11">precedente art. 11</rif> e, in caso di superamento dell'esame devono produrre le relative certificazioni. </corpo>
+                </comma>
+                <comma id="art37-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> Le agenzie di viaggi e turismo giï¿½ operanti ai sensi del <rif
+                            xlink:href="urn:nir:stato:regio.decreto.legge:1936-11-23;2523">R.D.L. 23 novembre 1936, n. 2523</rif> devono, entro sei mesi dalla data dell'entrata in vigore della presente legge, richiedere l'iscrizione all'Albo regionale di cui al <rif
+                            xlink:href="#art25">precedente art. 25</rif> e comunicare all'Assessorato Regionale al Turismo, per le relative autorizzazioni da concedersi con deliberazione della Giunta stessa, le attivitï¿½ tra quelle indicate all'<rif xlink:href="#art3">art. 3</rif> della presente legge che esse intendono svolgere. </corpo>
+                </comma>
+                <comma id="art37-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> Per il rilascio dell'autorizzazione sostitutiva di altra precedentemente concessa, il titolare della stessa ï¿½ esonerato precedentemente concessa, il titolare della stessa ï¿½ esonerato dall'obbligo del pagamento di una nuova tassa di rilascio. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art38">
+                <num>Art. 38 </num>
+                <comma id="art38-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La presente legge ï¿½ dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise. </corpo>
+                </comma>
+                <comma id="art38-com2">
+                    <num>
+ 
+ 2.</num>
+                    <corpo> ï¿½ fatto obbligo a chiunque di osservarla e di farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

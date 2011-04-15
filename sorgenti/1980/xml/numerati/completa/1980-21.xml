@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19800531" num="11" tipo="BURM"/>
+                <entratainvigore norm="19800615"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1980-05-26;21"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="16.iniziativa popolare e referendum, diritti dei cittadini, dei consumatori e degli utenti"/>
+                </materie>
+            </descrittori>
+        </meta><?error 16.Iniziativa popolare e referendum, diritti dei cittadini, dei consumatori e degli utenti 
+ 
+Bollettino 
+Bollettino Ufficiale n. 11 del 31/05/80 
+ 
+Oggetto 
+Condizione giovanile - Consulta regionale giovanile - Istituzione 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19800526">26 Maggio 1980</dataDoc>, n. <numDoc>21</numDoc>
+            <titoloDoc>Istituzione della consulta regionale giovanile 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+Per assicurare la piï¿½ ampia partecipazione dei giovani alle scelte culturali, sociali ed economiche riguardanti la condizione giovanile, ï¿½ istituita presso la Regione Molise la &lt;&lt;Consulta regionale giovanile&gt;&gt;. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+La Consulta potrï¿½: 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1)</num>
+
+                    <corpo> presentare ai titolari dell'iniziativa legislativa proposte per l'adeguamento della legislazione regionale alle finalitï¿½ di cui al <rif xlink:href="#art1">precedente art. 1</rif>; 
+ </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+2)</num>
+
+                    <corpo> formulare osservazioni e proposte sui progetti di legge regionale e sulle deliberazioni relative al <rif xlink:href="#art1">precedente art. 1</rif>; 
+ </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num>
+3)</num>
+                    <corpo> proporre ai competenti organi regionali indagini e ricerche sulla condizione giovanile nella Regione; 
+ </corpo>
+                </comma>
+                <comma id="art2-com4">
+                    <num>
+4)</num>
+
+                    <corpo> promuovere ogni altra iniziativa utile in relazione agli scopi di cui al <rif xlink:href="#art1">precedente art. 1</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+Nella predisposizione degli atti aventi attinenza alla condizione giovanile, la Giunta e il Consiglio Regionale possono avvalersi della collaborazione della Consulta o richiederne il parere. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+La Consulta ï¿½ composta da: 
+ 
+a) un rappresentante ogni 10 mila voti o frazione di 10 mila conseguiti nelle elezioni regionali da partiti rappresentati nel Consiglio Regionale designati tra gli iscritti alle organizzazioni giovanili dei rispettivi partiti; 
+ 
+b) da tre giovani designati da ciascun distretto scolastico ed eletti dal rispettivo Consiglio con voto limitato a due; 
+ 
+c) da 3 giovani designati dalle organizzazioni sindacali maggiormente rappresentative in campo regionale; 
+ 
+d) da 3 rappresentanti delle organizzazioni femminili maggiormente rappresentative esistenti ed operanti nella regione; 
+ 
+e) da 3 rappresentanti delle organizzazioni culturali e sportive esistenti nella regione. 
+ 
+Ai lavori della Consulta partecipa di diritto il Presidente della Giunta Regionale o un Assessore da lui delegato. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+
+                <rubrica>
+ 
+Entro trenta giorni dall'entrata in vigore della presente legge i soggetti di cui al <rif
+                        xlink:href="#art4">precedente art. 4</rif> comunicano i rispettivi rappresentanti al Presidente della Giunta Regionale che procede alla costituzione della Consulta anche qualora siano pervenute designazioni pari alla metï¿½ piï¿½ uno dei componenti la Consulta stessa. 
+ 
+I componenti la Consulta durano in carica tre anni, e sono rieleggibili. Agli stessi ï¿½ corrisposto, a titolo di rimborso di spese, la indennitï¿½ nella misura prevista dall'<rif xlink:href="urn:nir:regione.molise:legge:1977-09-02;27#art2">art. 2 della legge regionale 2 settembre 1977, n. 27</rif>. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+Entro trenta giorni dalla costituzione, la Consulta elegge nel proprio seno il Presidente ed adotta a maggioranza assoluta dei componenti il proprio regolamento interno. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+La Giunta Regionale ï¿½ autorizzata a fornire i locali ed i mezzi per l'espletamento dell'attivitï¿½ della Consulta. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>
+ 
+L'entitï¿½ della spesa sarï¿½ determinata con la stessa legge approvativa del bilancio di previsione. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <rubrica>
+ 
+La presente legge regionale sarï¿½ pubblicata nel Bollettino Ufficiale della Regione Molise. 
+ 
+ï¿½ fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

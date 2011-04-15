@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19721122" num="15" tipo="BURM"/>
+                <entratainvigore norm="19721207"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1972-10-13;12"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="06.consiglieri regionali e gruppi consiliari"/>
+                </materie>
+            </descrittori>
+        </meta><?error 06.Consiglieri regionali e gruppi consiliari 
+ 
+Bollettino 
+Bollettino Ufficiale n. 15 del 22/11/72 
+ 
+Oggetto 
+Gruppi consiliari - Funzionamento - Dotazione - Finanziamento 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 21/1978 art. 6 
+Abrogato art. 4 dalla legge n. 17/1974 art. 4 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 17/1974 art. 1 
+Modificato art. 2 dalla legge n. 17/1974 art. 2 
+Modificato art. 3 dalla legge n. 17/1974 art. 3 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale  </tipoDoc>
+            <dataDoc norm="19721013">13 Ottobre 1972</dataDoc>, n. <numDoc>12</numDoc>
+            <titoloDoc>Norme relative alla dotazione dei mezzi necessari per il funzionamento dei Gruppi Consiliari. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 21/1978 art. 6</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

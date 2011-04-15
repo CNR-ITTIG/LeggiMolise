@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19910316" num="5" tipo="BURM"/>
+                <entratainvigore norm="19910331"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1991-03-05;3"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 05 del 16/03/91 
+ 
+Oggetto 
+Nuovi contratti di affitto - Determinazione della durata 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>del <dataDoc norm="19910305">5 Marzo 1991</dataDoc>, n. <numDoc>3</numDoc>
+            <titoloDoc>Norme sui contratti agrari - Determinazione delle zone ove la durata minima ï¿½ ridotta a sei anni. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo>
+1. La Regione, in attuazione della delega contenuta all'<rif
+                            xlink:href="urn:nir:stato:legge:1982-05-03;203#art3">art. 3 della legge 3 maggio 1982, n. 203</rif>,   acquisito il parere delle Comunitï¿½ Montane, stabilisce che la riduzione a sei anni della durata   minima dei nuovi contratti di affitto si applica alle zone del territorio regionale dichiarato montano ai sensi della <rif
+                            xlink:href="urn:nir:stato:legge:1971-12-03;1102">legge 3 dicembre 1971, n. 1102</rif>. 
+ 
+2. Le ulteriori condizioni previste dallo stesso <rif xlink:href="urn:nir:stato:legge:1982-05-03;203#art3">art.3 della legge 3 maggio 1982, n. 203</rif> per la   riduzione ai sei anni della durata minima dei nuovi contratti di affitto sono comunque sussistenti e vengono espressamente richiamate.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+1. La presente legge ï¿½ dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38-com2">art. 38,   secondo comma dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua   pubblicazione sul Bollettino Ufficiale della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error 2. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

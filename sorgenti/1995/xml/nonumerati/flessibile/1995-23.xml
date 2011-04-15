@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19950516" num="11" tipo="BURM"/>
+                <entratainvigore norm="19950531"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1995-05-08;23"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea"/>
+                </materie>
+            </descrittori>
+        </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
+ 
+Bollettino 
+Bollettino Ufficiale n. 11 del 16/05/95 
+ 
+Oggetto 
+Danni provocati da animali di interesse scientifico 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale  </tipoDoc>
+            <dataDoc norm="19950508">8 Maggio 1995</dataDoc>, n. <numDoc>23</numDoc>
+            <titoloDoc>Modifiche ed integrazioni alla <rif xlink:href="urn:nir:regione.molise:legge:1983-02-01;6">legge regionale 1 febbraio 1983, n. 6</rif>. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art1-com1-mod1">
+1. L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1983-02-01;6#art1">articolo 1 della legge regionale 1ï¿½ febbraio 1983, n. 6</rif> viene integrato nel modo seguente: dopo la parola &lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir1">cinghiale </virgolette>&gt;&gt; ï¿½ posta la virgola e vengono aggiunte le parole &lt;&lt;<virgolette id="art1-com1-mod1-vir2">dal cane randagio o rinselvatichito</virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+1. L'<rif xlink:href="urn:nir:regione.molise:legge:1983-02-01;6#art2">articolo 2 della legge regionale 1ï¿½ febbraio 1983, n. 6</rif> e sostituito dal presente: l'accertamento e la valutazione dei danni al patrimonio zootecnico, ai soprassuoli boschivi ed alle colture in atto, sono demandati, rispettivamente, al Servizio Veterinario delle Unitï¿½ Sanitarie Locali, al Corpo Forestale dello Stato ed agli Uffici agricoli di Zona. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art3-com1-mod2">
+1. All'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1983-02-01#art4">articolo 4 della legge regionale 1ï¿½ febbraio 1983</rif>, dopo le parole &lt;&lt;<virgolette
+                                id="art3-com1-mod2-vir3">per i capi dispersi</virgolette>&gt;&gt; viene eliminato il punto e virgola e vengono aggiunte le parole &lt;&lt;<virgolette id="art3-com1-mod2-vir4">o affetti da malattie infettive e infestive</virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo>
+1. L'<rif
+                            xlink:href="urn:nir:regione.molise:legge:1983-02-01;6#art5">articolo 5 della legge regionale 1ï¿½ febbraio 1983, n.6</rif> ï¿½ sostituito dal presente: la domanda intesa ad ottenere il risarcimento dei danni, di cui al <rif
+                            xlink:href="#art2">precedente articolo 2</rif>, con firma dell'interessato autenticata, ai sensi e per gli effetti di <rif xlink:href="urn:nir:stato:legge:1968-01-04;15">legge 4 gennaio 1968, n. 15</rif>, deve essere   indirizzata alla Giunta Regionale del Molise e consegnata, entro e non oltre due giorni dalla data in cui si ï¿½ verificato l'evento, al Servizio Veterinario dell'Unitï¿½ Sanitaria Locale o al Comando Stazione Forestale o all'Ufficio Agricolo di Zona, secondo la materia e la competenza territoriale. 
+ 
+2. I Veterinari, gli Agenti del Corpo Forestale ed i Tecnici dell'Agricoltura effettueranno immediatamente il sopralluogo e la stima dei danni, secondo il prezzario stabilito dalla Giunta Regionale e provvederanno a rimettere, entro i trenta giorni successivi, all'Assessorato  Regionale competente i verbali di accertamento e stima, tramite gli Uffici di rispettiva appartenenza. 
+ 
+3. Limitatamente ai danni provocati dal cinghiale ai prodotti agricoli, qualora, in presenza di numerose contestuali istanze di risarcimento, non sia possibile l'effettuazione di tutti i sopralluoghi di rito, l'accertamento, in via eccezionale, potrï¿½ avvenire a campione a sorteggio sulla base non inferiore al 30% delle istanze pervenute. 
+ 
+4. L'Assessorato al ramo provvederï¿½ a trasmettere gli atti alla Giunta Regionale per la successiva liquidazione.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <comma id="art5-com1">
+                    <num/>
+
+                    <corpo>
+1. La presente legge ï¿½ dichiarata urgente, ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error 2. &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

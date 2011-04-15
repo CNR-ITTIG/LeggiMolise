@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19840901" num="18" tipo="BURM"/>
+                <entratainvigore norm="19840916"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1984-08-24;22"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 18 del 01/09/84 
+ 
+Oggetto 
+Zootecnica - Provvidenze - Destinatari - Modifiche 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 31/2000 art. art. 1, primo comma, lettera gg) 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19840824">24 Agosto 1984</dataDoc>, n. <numDoc>22</numDoc>
+            <titoloDoc>Modifica alla <rif
+                    xlink:href="urn:nir:regione.molise:legge:1983-04-12;14">legge regionale 12 aprile 1983, n. 14</rif> recante modifiche alla <rif xlink:href="urn:nir:stato:legge:1979-09-04;27">legge 4 settembre 1979, n. 27</rif>: Provvedimenti per il potenziamento e lo sviluppo della zootecnia 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 31/2000 art. art. 1, primo comma, lettera gg)</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

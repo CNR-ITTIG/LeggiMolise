@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20010331" num="8" tipo="BURM"/>
+                <entratainvigore norm="20010415"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2001-03-21;6"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="18.lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa"/>
+                </materie>
+            </descrittori>
+        </meta><?error 18.Lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N.8 del 31 marzo 2001 
+ 
+Oggetto 
+Lavori socialmente utili - Normativa regionale 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20010321">21 marzo 2001</dataDoc>, n.<numDoc>6</numDoc>. 
+ 
+<titoloDoc>Normativa regionale in materia di lavori socialmente utili. 
+ 
+<rif xlink:href="urn:nir:regione.molise:legge:2001-03-21;6">LEGGE REGIONALE 21 marzo 2001, n.6</rif>. 
+ 
+Normativa regionale in materia di lavori socialmente utili. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale>
+            <h:p>Il Consiglio Regionale ha approvato; </h:p>
+            <h:p>Il Commissario di Governo ha apposto il </h:p>
+            <preambolo>
+                <h:p>visto: 
+IL PRESIDENTE 
+della 
+GIUNTA REGIONALE</h:p>
+            </preambolo>
+            <h:p>Promulga </h:p>
+            <h:p>la seguente legge: </h:p>
+        </formulainiziale>
+        <articolato>
+            <titolo id="tit1">
+                <num>TITOLO I </num>
+                <rubrica>
+ 
+OCCUPAZIONE DEI SOGGETTI GIï¿½ IMPEGNATI NEI LAVORI SOCIALMENTE UTILI 
+ 
+</rubrica>
+                <articolo id="art1">
+                    <num>Art.1 </num>
+                    <rubrica>
+ 
+Interventi a sostegno del reinserimento professionale 
+ </rubrica>
+                    <comma id="art1-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La Regione Molise sostiene il reinserimento dei lavoratori impegnati nei lavori socialmente utili, favorendo l'adeguamento delle rispettive capacitï¿½ professionali alle esigenze produttive delle aziende disponibili al reinserimento e operanti, in via prioritaria, nelle aree che presentano difficoltï¿½ socio-economiche, come individuate nella normativa comunitaria, ovvero nelle aree dei Patti Territoriali, Contratti d'Area ed in quelle ricadenti nell'ambito dei Programmi Integrati Territoriali.La Regione Molise, gli Enti sub-regionali e gli Enti locali possono applicare la riserva del 50% dei posti vacanti in organico, a favore dei lavoratori socialmente utili di cui al presente articolo, relativamente alle qualifiche di cui all'<rif xlink:href="urn:nir:stato:legge:1987;56#art16">articolo 16 della legge n.56/1987</rif>, e successive modifiche ed integrazioni. </corpo>
+                    </comma>
+                    <comma id="art1-com2">
+                        <num>
+ 
+2.</num>
+
+                        <corpo> I benefici, previsti dalla presente legge, sono finalizzati al reimpiego dei lavoratori impegnati, alla data del 30 aprile 2001, in lavori socialmente utili ai sensi della normativa, di cui ai decreti legislativi n. 468/1997, art.<rif
+                                xlink:href="#art1-com1">1, comma</rif> 2, lett. a), b), c) e d) e n.81/2000 e della <rif xlink:href="urn:nir:regione.molise:legge:1995-05-08;24">legge regionale 8 maggio 1995, n.24</rif>. </corpo>
+                    </comma>
+                    <comma id="art1-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> Nell'ambito delle finalitï¿½, di cui al <rif
+                                xlink:href="#art1-com1">comma 1</rif>, la Regione Molise concede contributi in conto formazione o riqualificazione, finalizzate all'assunzione dei lavoratori, di cui al <rif xlink:href="#art1-com2">comma 2</rif>, ad enti pubblici economici ed imprese, costituite anche in forma cooperativa. </corpo>
+                    </comma>
+                    <comma id="art1-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> I soggetti, di cui al <rif xlink:href="#art1-com3">comma 3</rif>, possono realizzare le iniziative di formazione o riqualificazione dei lavoratori socialmente utili, anche presso altre specifiche aziende di settore, con l'eventuale supporto di Italia Lavoro ? S.p.A. e con il coinvolgimento di associazioni imprenditoriali, singole aziende, enti bilaterali e associazioni sindacali. </corpo>
+                    </comma>
+                    <comma id="art1-com5">
+                        <num>
+ 
+5.</num>
+                        <alinea> I contributi previsti dal <rif xlink:href="#art1-com3">comma 3</rif>, sono stabiliti per ogni soggetto assunto con contratto a tempo indeterminato, nella misura di lire: 
+ 
+</alinea>
+                        <el id="art1-com5-leta">
+                            <num>a)</num>
+                            <corpo> 4 milioni, se il lavoratore ha un'etï¿½ inferiore a 40 anni, elevabili a 6 qualora si tratti di una lavoratrice;</corpo>
+                        </el>
+                        <el id="art1-com5-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> 6 milioni, se il lavoratore ha un'etï¿½ superiore a 40 anni, elevabili a 8 qualora si tratti di una lavoratrice. 
+ 
+</corpo>
+                        </el>
+                    </comma>
+                </articolo>
+                <articolo id="art2">
+                    <num>Art.2 </num>
+                    <rubrica>
+ 
+Interventi a sostegno del reinserimento lavorativo 
+ </rubrica>
+                    <comma id="art2-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La Regione Molise concede ai lavoratori, di cui al <rif xlink:href="#art1-com2">comma 2 dell'art.1</rif> che costituiscono un'impresa, anche in forma cooperativa, in quanto titolari o soci, un contributo aggiuntivo a quello previsto dalla normativa nazionale nella misura di lire 7 milioni. </corpo>
+                    </comma>
+                    <comma id="art2-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> I contributi previsti dal <rif
+                                xlink:href="#art1-com5">comma 5 dell'art.1</rif> sono concessi una tantum, anche agli enti pubblici che procedono, entro 1 anno dall'entrata in vigore della presente legge, alle assunzioni, ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1997;468#art12">articolo 12, del decreto legislativo n. 468/1997</rif>. </corpo>
+                    </comma>
+                    <comma id="art2-com3">
+                        <num>
+ 
+3.</num>
+
+                        <corpo> La Regione Molise concede ai datori di lavoro privati e agli enti pubblici economici, che assumono a tempo pieno e indeterminato i lavoratori autorizzati ai sensi dell'<rif
+                                xlink:href="urn:nir:stato:decreto.legislativo:1997;468#art7">art.7 del decreto legislativo n. 468/1997</rif>, che abbiano svolto 12 mesi di attivitï¿½ in LSU, alla data di pubblicazione della presente legge, un incentivo pari a lire 18 milioni per ogni lavoratore assunto, non cumulabile con gli incentivi previsti all'<rif xlink:href="#art1">art.1</rif>, commi 4 e 5 della presente legge. Se l'assunzione ï¿½ a tempo indeterminato e parziale, l'incentivo ï¿½ concesso in misura proporzionale ridotta. </corpo>
+                    </comma>
+                    <comma id="art2-com4">
+                        <num>
+ 
+4.</num>
+                        <corpo> Ai lavoratori, di cui al <rif
+                                xlink:href="#art2-com3">precedente comma 3</rif>, che dimostrino di aver avviato forme di autoimpiego o di micro imprenditorialitï¿½ ï¿½, a far data dall'entrata in vigore del <rif xlink:href="urn:nir:stato:decreto.legislativo:2000;81">decreto legislativo n.81/2000</rif>, concesso un incentivo pari a lire 18 milioni. </corpo>
+                    </comma>
+                    <comma id="art2-com5">
+                        <num>
+ 
+5.</num>
+
+                        <corpo> La Regione Molise concede contributi agli Enti locali che si occupano di lavoratori socialmente utili, individuando quale misura di stabilizzazione la stipula di contratti di collaborazione coordinata e continuativa, cosï¿½ come previsto nel <rif xlink:href="urn:nir:stato:decreto.legislativo:2000;81">decreto legislativo n.81/2000</rif>. Tale partecipazione economica sarï¿½ pari al contributo INPS, a carico dell'Ente utilizzatore (2/3 del 13% del 95% del compenso mensile) a condizione che tali contratti garantiscano un orario almeno pari a quello dell'attuale impiego. Tali aiuti sono cumulabili con tutti gli altri previsti dalla presente normativa. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art3">
+                    <num>Art.3 </num>
+                    <rubrica>
+ 
+Progetti concertati tra le parti sociali 
+ </rubrica>
+                    <comma id="art3-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La Regione Molise concede contributi finalizzati alla realizzazione di progetti sperimentali di reimpiego dei lavoratori iscritti nelle liste di mobilitï¿½, o di quelli di cui all'<rif xlink:href="#art1-com2">art.1, comma 2</rif> della presente legge. </corpo>
+                    </comma>
+                    <comma id="art3-com2">
+                        <num>
+ 
+2.</num>
+
+                        <alinea> I contributi di cui al comma precedente sono concessi prioritariamente per iniziative da realizzarsi nelle aree di cui al <rif xlink:href="#art1-com1">comma 1 dell'art.1</rif> della presente legge, sulla base di progetti proposti dai seguenti soggetti: 
+ 
+</alinea>
+                        <el id="art3-com2-leta">
+                            <num>a)</num>
+                            <corpo> associazioni imprenditoriali, sulla base di accordi con organizzazioni sindacali dei lavoratori e con Italia Lavoro ? S.p.A.;</corpo>
+                        </el>
+                        <el id="art3-com2-letb">
+                            <num> 
+ 
+b)</num>
+                            <corpo> enti bilaterali composti da associazioni di datori di lavoro ed organizzazioni sindacali;</corpo>
+                        </el>
+                        <el id="art3-com2-letc">
+                            <num> 
+ 
+c)</num>
+                            <corpo> singole aziende. </corpo>
+                        </el>
+                    </comma>
+                    <comma id="art3-com3">
+                        <num>
+ 
+3.</num>
+                        <corpo> I contributi che coprono una percentuale non superiore al 70% delle spese ritenute ammissibili, non possono superare il tetto massimo di lire 100 milioni e sono proporzionati al numero dei lavoratori coinvolti, al grado di innovazione e di sperimentalitï¿½ del progetto ed alla prevista ricaduta occupazionale. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art4">
+                    <num>Art.4 </num>
+                    <rubrica>
+ 
+Riscatto dei periodi di utilizzazione dei Lavoratori Socialmente Utili 
+ </rubrica>
+                    <comma id="art4-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La Regione Molise concede un contributo ai lavoratori di cui all'<rif
+                                xlink:href="#art1-com2">art.1, comma 2</rif>, pari al 30% dell'onere relativo al riscatto della contribuzione prevista dagli articoli 8, comma 19 e 12, comma 5, lettera a), del <rif xlink:href="urn:nir:stato:decreto.legislativo:1997;468">decreto legislativo n. 468/1997</rif>, legata ai periodi di effettivo utilizzo nei progetti ovvero al periodo mancante al raggiungimento dei requisiti per il pensionamento di anzianitï¿½ o di vecchiaia. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art5">
+                    <num>Art.5 </num>
+                    <rubrica>
+ 
+Consorzi di Comuni 
+ </rubrica>
+                    <comma id="art5-com1">
+                        <num>
+1.</num>
+
+                        <corpo> La Regione Molise concede, ai sensi di cui al Regolamento previsto al <rif
+                                xlink:href="#art7">successivo articolo 7</rif>, contributi ai Consorzi di Comuni che attivino forme di stabilizzazione dei lavoratori, di cui all'<rif
+                                xlink:href="#art1-com2">art.1, comma 2</rif> della presente legge, nell'affidamento e gestione dei servizi ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1997;468#art10">art.10 del decreto legislativo n. 468/1997</rif>. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+            <titolo id="tit2">
+                <num>TITOLO II </num>
+                <rubrica>
+ 
+GESTIONE DEGLI INTERVENTI 
+ 
+</rubrica>
+                <articolo id="art6">
+                    <num>Art.6 </num>
+                    <rubrica>
+ 
+Istituzione di uno sportello unico di intervento 
+ </rubrica>
+                    <comma id="art6-com1">
+                        <num>
+1.</num>
+                        <corpo> Al fine di coordinare, supportare e monitorare la realizzazione degli obiettivi della presente legge ï¿½ istituita apposita struttura operativa, presso l'assessorato al "Lavoro", con il coinvolgimento dei Servizi per l'Impiego, di Italia Lavoro ? S.p.A. e di associazioni imprenditoriali, singole aziende, enti bilaterali ed associazioni sindacali. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art7">
+                    <num>Art.7 </num>
+                    <rubrica>
+ 
+Regolamento 
+ </rubrica>
+                    <comma id="art7-com1">
+                        <num>
+1.</num>
+                        <corpo> La Giunta Regionale, entro 30 giorni dalla data di approvazione della presente legge, emana apposito regolamento con il quale sono disciplinati i criteri e le modalitï¿½ di presentazione delle domande e dei progetti per l'accesso ai finanziamenti, i criteri di prioritï¿½ per la loro selezione, nonchï¿½ le modalitï¿½ di liquidazione ed erogazione dei contributi. </corpo>
+                    </comma>
+                    <comma id="art7-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> I contributi previsti nel <rif xlink:href="#tit1">Titolo I</rif> della presente legge sono cumulabili con quelli previsti dalla legislazione statale e regionale vigente, fino al limite massimo consentito dalla normativa comunitaria. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art8">
+                    <num>Art.8 </num>
+                    <rubrica>
+ 
+Obblighi dei beneficiari e norme sanzionatorie 
+ </rubrica>
+                    <comma id="art8-com1">
+                        <num>
+1.</num>
+                        <corpo> I contributi concessi dalla presente legge sono revocati e le somme, eventualmente erogate, recuperate, qualora i beneficiari non realizzino le iniziative previste dalla presente legge. </corpo>
+                    </comma>
+                    <comma id="art8-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Il provvedimento di licenziamento intervenuto, senza giusta causa o giustificato motivo oggettivo, nei tre anni successivi alla costituzione del rapporto di lavoro a tempo indeterminato, comporta la revoca ed il recupero dei contributi concessi al datore di lavoro in relazione a tale rapporto. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art9">
+                    <num>Art.9 </num>
+                    <rubrica>
+ 
+Norma transitoria 
+ </rubrica>
+                    <comma id="art9-com1">
+                        <num>
+1.</num>
+                        <corpo> Per le finalitï¿½, di cui al <rif
+                                xlink:href="urn:nir:stato:decreto.legislativo:1997;468#art12-com4">comma 4 dell'articolo 12 del decreto legislativo n. 468/1997</rif>, ai soggetti, di cui al comma 1 del medesimo articolo 12, sono equiparati i lavoratori, che alla data del 30 aprile 2001, abbiano maturato, comunque, dodici mesi di anzianitï¿½ in attivitï¿½ o progetti di lavori socialmente utili, anche in attuazione della <rif xlink:href="urn:nir:regione.molise:legge:1995;24">Legge regionale n.24/1995</rif>. </corpo>
+                    </comma>
+                    <comma id="art9-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> In attuazione dell'<rif
+                                xlink:href="urn:nir:stato:legge:2000-12-23;388#art78-com6">articolo 78, comma sesto, della legge 23 dicembre 2000, n.388</rif>, la Regione Molise, gli Enti sub-regionali e gli Enti locali, limitatamente all'anno 2001, possono provvedere alla copertura dei posti vacanti in organico, relativamente alle qualifiche previste dall'<rif
+                                xlink:href="urn:nir:stato:legge:1987;56#art16">articolo 16 della legge n.56/1987</rif>, e successive modifiche ed integrazioni, mediante assunzione dei lavoratori socialmente utili di cui al <rif
+                                xlink:href="#art9-com1">comma 1</rif>, fatte salve le disposizioni vigenti in materia di collocamento obbligatorio di cui alla <rif xlink:href="urn:nir:stato:legge:1999;68">legge n.68/1999</rif>. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art10">
+                    <num>Art.10 </num>
+                    <rubrica>
+ 
+Norma finanziaria 
+ </rubrica>
+                    <comma id="art10-com1">
+                        <num>
+1.</num>
+                        <corpo> Agli oneri derivanti dalla attuazione della presente legge si provvederï¿½ mediante l'istituzione di appositi capitoli di spesa con legge di approvazione del bilancio per l'esercizio finanziario 2001 o con successiva legge di variazione. </corpo>
+                    </comma>
+                    <comma id="art10-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> Relativamente agli esercizi finanziari 2002 e successivi si provvederï¿½ con le rispettive leggi di approvazione del bilancio. 
+ 
+</corpo>
+                    </comma>
+                </articolo>
+                <articolo id="art11">
+                    <num>Art.11 </num>
+                    <rubrica>
+ 
+Entrata in vigore 
+ </rubrica>
+                    <comma id="art11-com1">
+                        <num>
+1.</num>
+                        <corpo> Ai sensi dell'<rif
+                                xlink:href="urn:nir:stato:costituzione:1947-12-27#art27">articolo 27 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto Regionale</rif>, la presente legge viene dichiarata urgente ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise. </corpo>
+                    </comma>
+                    <comma id="art11-com2">
+                        <num>
+ 
+2.</num>
+                        <corpo> ï¿½ fatto obbligo, a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+</corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione>
+            <dataeluogo codice="00100" norm="20010321">Data a Campobasso, addï¿½ 21 marzo 2001 
+ 
+</dataeluogo>
+            <firma tipo="sottoscrizione">Il Presidente 
+ 
+DI STASI 
+
+</firma>
+        </conclusione>
+    </LeggeRegionale>
+</NIR>

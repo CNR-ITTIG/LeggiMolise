@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19761231" num="24" tipo="BURM"/>
+                <entratainvigore norm="19770115"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1976-12-27;42"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="17.lavori pubblici e acquedotti"/>
+                </materie>
+            </descrittori>
+        </meta><?error 17.Lavori pubblici e acquedotti 
+ 
+Bollettino 
+Bollettino Ufficiale n. 24 del 31/12/76 
+ 
+Oggetto 
+Opere pubbliche di competenza della Regione e degli enti locali - Esecuzione - Disciplina - Norme integrative 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19761227">27 Dicembre 1976</dataDoc>, n. <numDoc>42</numDoc>
+            <titoloDoc>Norme integrative per l'esecuzione di opere pubbliche di competenza della Regione e degli Enti Locali Modifica alla norma finanziaria 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art1-com1-mod1">
+All'articolo 7 della proposta di legge regionale n. 39 &lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir1"
+                                tipo="parola">norme integrative per l'esecuzione di opere pubbliche di competenza della Regione e degli Enti Locali</virgolette>&gt;&gt;, dopo la parola &lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir2">futuri</virgolette>&gt;&gt; viene aggiunta la virgola e le parole: 
+ 
+&lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir3"
+                                    tipo="parola">e saranno coperti con i fondi attribuiti alla Regione ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1970-05-16;281#art9">articolo 9 della legge 16 maggio 1970, n. 281</rif>
+                            </virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge ï¿½ dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art 127 della Costituzione</rif> dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto</rif> ed entra in vigore lo stesso giorno della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

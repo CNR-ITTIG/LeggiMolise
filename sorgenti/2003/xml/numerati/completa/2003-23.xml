@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20030531" num="11" tipo="BURM"/>
+                <entratainvigore norm="20030615"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2003-05-27;23"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 11 del 31 maggio 2003 
+ 
+Oggetto 
+Contributo straordinario all'Associazione Provinciale Allevatori. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20030527">27 maggio 2003</dataDoc>, n. <numDoc>23</numDoc>. 
+ 
+<titoloDoc>Intervento urgente a sostegno delle attivitï¿½ dell' "A.P.A. - ASSOCIAZIONE PROVINCIALE ALLEVATORI" di Campobasso. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>  Per garantire l'efficienza e l'operativitï¿½ dei controlli funzionali per il miglioramento genetico del bestiame allevato in Molise e lo svolgimento di tutte le attivitï¿½ per la tenuta dei libri genealogici, per l'anno 2003, la Regione Molise concede 
+ 
+UN CONTRIBUTO STRAORDINARIO DI 
+ 
+Euro 500.000,00 
+ 
+(CINQUECENTOMILA/00) 
+ 
+ all'Associazione Provinciale degli Allevatori di Campobasso (A.P.A.) per l'estinzione delle esposizioni debitorie contratte per fini istituzionali. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo>  La Giunta regionale provvede alla concessione ed alla liquidazione dello stanziamento previsto dal <rif xlink:href="#art1-com1">comma 1</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+Norma finanziaria 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo>  Nello stato di previsione della spesa del bilancio regionale per l'esercizio finanziario 2003 ï¿½ apportata la seguente variazione: 
+ 
+ &gt; UPB N. 250 
+ 
+ "Produzioni agricole, zootecniche, pesca ed acquacoltura" 
+ 
+ COMPETENZA: 
+ 
+ Euro 500.000,00 (CINQUECENTOMILA/00) 
+ 
+ CASSA: 
+ 
+ Euro 500.000,00 (CINQUECENTOMILA/00) 
+ 
+ da iscriversi, ai fini della gestione, in apposito capitolo cosï¿½ denominato: 
+ 
+ "Contributo straordinario all'Associazione Provinciale Allevatori di Campobasso (A.P.A.)"; 
+ 
+ &gt; UPB N. 430 
+ 
+ "Assistenza sanitaria e farmaceutica" 
+ 
+ COMPETENZA: 
+ 
+ + Euro 500.000,00 (CINQUECENTOMILA/00) 
+ 
+ CASSA: 
+ 
+ + Euro 500.000,00 (CINQUECENTOMILA/00) 
+ 
+ da prelevarsi, ai fini della gestione, dal capitolo relativo alla "Spesa regionale per il finanziamento della quota regionale del disavanzo relativo all'esercizio 2001 del sistema sanitario nazionale". 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

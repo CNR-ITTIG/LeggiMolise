@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19801115" num="22" tipo="BURM"/>
+                <entratainvigore norm="19801130"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1980-11-04;35"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="31.protezione civile, rischio sismico, regime delle acque e rischio idrogeologico"/>
+                </materie>
+            </descrittori>
+        </meta><?error 31.Protezione civile, rischio sismico, regime delle acque e rischio idrogeologico 
+ 
+Bollettino 
+Bollettino Ufficiale n. 22 del 15/11/80 
+ 
+Oggetto 
+Viabilit&#xE0; provinciale - Movimenti franosi - Consolidamento - Intervento straordinario a favore della Provincia 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19801104">4 Novembre 1980</dataDoc>, n. <numDoc>35</numDoc>
+            <titoloDoc>Intervento straordinario a favore della Provincia di Campobasso per la viabilitï¿½ a scorrimento veloce interessato da movimenti franosi, in localitï¿½ &lt;&lt; Ingotte &gt;&gt; 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

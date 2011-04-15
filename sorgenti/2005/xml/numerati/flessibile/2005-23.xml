@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20050601" num="12" tipo="BURM"/>
+                <entratainvigore norm="20050616"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2005-05-27;23"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="14.governo del territorio, urbanistica, edilizia"/>
+                </materie>
+            </descrittori>
+        </meta><?error 14.Governo del territorio, urbanistica, edilizia 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 12 del 1 giugno 2005 
+ 
+Oggetto 
+Promozione dell'ecoqualit&#xE0; nell'edilizia pubblica e privata - Disciplina generale 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20050527">27 maggio 2005</dataDoc>, n. <numDoc>23</numDoc>. 
+ 
+<titoloDoc>Norme quadro per la promozione dell'eco qualitï¿½ nell'edilizia residenziale pubblica e privata. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+(Finalitï¿½ e principi) 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione Molise con la presente legge intende promuovere lo sviluppo sostenibile nell'edilizia residenziale e l'ecoqualitï¿½ architettonica, al fine di assicurare al processo di trasformazione del territorio regionale l'applicazione di efficaci regole d'intervento finalizzate alla tutela dell'ambiente e della qualitï¿½ della vita. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Si intende per sviluppo sostenibile nell'edilizia la diffusione di una metodologia progettuale che recepisca alla base della ideazione e della realizzazione dell'opera la salvaguardia dell'ambiente ed il miglioramento della qualitï¿½ della vita dell'uomo. </corpo>
+                </comma>
+                <comma id="art1-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Qualitï¿½ e sviluppo sostenibile nell'edilizia residenziale si realizzano attraverso l'adozione di tecniche e di principi costruttivi di bioarchitettura e bioedilizia. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+(Obiettivi degli interventi regionali) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <alinea> Per le finalitï¿½ di cui all'<rif xlink:href="#art1">articolo 1</rif>, la Regione Molise, nell'ambito delle proprie competenze, intende perseguire i seguenti obiettivi: 
+ 
+</alinea>
+                    <el id="art2-com1-leta">
+                        <num>a)</num>
+                        <corpo> elevare la qualitï¿½ abitativa ed ambientale dell'edilizia pubblica e privata, contribuendo cosï¿½ al miglioramento della qualitï¿½ della vita dei cittadini;</corpo>
+                    </el>
+                    <el id="art2-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> promuovere concorsi di idee o di progettazione collaborando con gli Enti locali per la realizzazione di interventi residenziali di bioedilizia sia pubblica che privata, da intendersi come progetti di qualitï¿½ innovativi e produttivi di modelli per un uso ecosostenibile del territorio molisano;</corpo>
+                    </el>
+                    <el id="art2-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> incentivare le iniziative culturali, gli studi, la formazione e la ricerca di tecniche e criteri costruttivi di bioarchitettura e bioedilizia;</corpo>
+                    </el>
+                    <el id="art2-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> favorire l'edilizia ecologica mediante l'adozione di programmi miranti a sostenere con incentivi ed agevolazioni regionali le cooperative edilizie, le imprese di costruzione ed altri soggetti pubblici e privati che intendono edificare con criteri costruttivi di bioarchitettura e bioedilizia e che si propongono di elevare il grado di salubritï¿½ e sicurezza degli ambienti domestici. </corpo>
+                    </el>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> I criteri, le modalitï¿½ e le procedure per la predisposizione e l'attuazione dei programmi di cui alla lettera d) del comma 2 sono stabiliti, nel rispetto delle disposizioni di settore e sugli aiuti di Stato dell'Unione europea, con il regolamento di attuazione della presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+(Osservatorio regionale dello sviluppo sostenibile del sistema abitativo) 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> ï¿½ istituito l'Osservatorio regionale dello sviluppo sostenibile del sistema abitativo, che provvede all'acquisizione, elaborazione, diffusione e valutazione di dati raccolti in ambito comunale, provinciale e regionale concernenti gli interventi di edilizia residenziale pubblica e privata che hanno applicato i criteri costruttivi di bioarchitettura e bioedilizia. L'Osservatorio ha altresï¿½ il compito di monitorare e verificare l'attuazione dei programmi di edilizia ecologica incentivata o agevolata dalla Regione. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La Regione specifica metodi di rilevazione e standard tecnico-operativi omogenei per la costituzione di un sistema nel quale, mediante appositi protocolli, tutti i soggetti pubblici e privati possono contribuire all'attivitï¿½ dell'Osservatorio, avendo garantito l'accesso e la possibilitï¿½ di utilizzo delle informazioni raccolte. </corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> I soggetti pubblici e privati, che intendono fruire degli incentivi e delle agevolazioni regionali nella costruzione di alloggi di edilizia ecologica, devono rispettare le procedure e provvedere tempestivamente a fornire i dati richiesti dall'Osservatorio con le modalitï¿½ stabilite dal regolamento di attuazione della presente legge, fino al collaudo delle opere edilizie. Il mancato adempimento comporta l'esclusione dai benefici regionali e, in caso di precedente concessione, costituisce motivo di sospensione o revoca di qualsiasi contributo regionale in corso di erogazione. </corpo>
+                </comma>
+                <comma id="art3-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> L'Osservatorio regionale provvede al trattamento dei dati raccolti anche con l'ausilio di mezzi informatici. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+(Anagrafe dell'intervento pubblico per lo sviluppo sostenibile del sistema abitativo) 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <corpo> Al fine di disporre di dati riguardanti l'intervento pubblico nel settore dell'edilizia residenziale, la Regione costituisce e gestisce un'apposita anagrafe dello sviluppo sostenibile dell'edilizia residenziale, la cui organizzazione ed il cui funzionamento sono disciplinati con il regolamento di attuazione della presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+(Promozione di iniziative culturali, studi, formazione e ricerca) 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione Molise, mediante intese con l'Universitï¿½, con istituzioni scolastiche, enti di formazione professionale, ordini professionali e le associazioni di categoria interessate, promuove iniziative culturali, studi, formazione e ricerca nel settore dell'edilizia sostenibile, nonchï¿½ eventi finalizzati alla diffusione di una cultura del costruire nel rispetto dell'uomo e dell'ambiente. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>
+ 
+(Comitato tecnico regionale per la promozione e la diffusione della bioedilizia) 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <corpo> La Giunta regionale provvede a costituire il Comitato tecnico regionale per la promozione, diffusione e valorizzazione della bioedilizia nella regione Molise. </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> Il Comitato tecnico ha sede presso l'Assessorato regionale all'urbanistica e svolge i seguenti compiti: 
+ 
+</alinea>
+                    <el id="art6-com2-leta">
+                        <num>a)</num>
+                        <corpo> promuove iniziative culturali e pubblicazioni per la diffusione dei principi costruttivi della bioarchitettura e dell'edilizia bioclimatica nel territorio molisano;</corpo>
+                    </el>
+                    <el id="art6-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> offre consulenza ed assistenza agli Enti locali per la promozione di concorsi di architettura finalizzati alla realizzazione di interventi residenziali di bioedilizia sia pubblica che privata;</corpo>
+                    </el>
+                    <el id="art6-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> cura la costituzione e l'aggiornamento di un centro regionale per la raccolta e la conservazione di documentazione e testi tecnico-scientifici per lo studio e la ricerca nel settore della bioedilizia, nonchï¿½ di un sito web per la consultazione pubblica on-line del materiale raccolto;</corpo>
+                    </el>
+                    <el id="art6-com2-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> collabora con l'Assessorato regionale all'urbanistica nella ricerca di finanziamenti nazionali ed europei nel settore della bioarchitettura e dell'edilizia bioclimatica;</corpo>
+                    </el>
+                    <el id="art6-com2-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> elabora programmi per la promozione del recupero a fini residenziali del patrimonio edilizio esistente adottando principi costruttivi di edilizia bioclimatica;</corpo>
+                    </el>
+                    <el id="art6-com2-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> ricerca criteri, metodi e tecniche per l'ideazione e la realizzazione di progetti di edilizia residenziale pubblica con elevati standard qualitativi ecocompatibili e progetta specifiche normative tecniche regionali;</corpo>
+                    </el>
+                    <el id="art6-com2-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> formula proposte agli assessorati regionali competenti per l'elaborazione del piano di sviluppo regionale di edilizia residenziale sostenibile;</corpo>
+                    </el>
+                    <el id="art6-com2-leth">
+                        <num> 
+ 
+h)</num>
+                        <corpo> collabora ad iniziative comuni con enti pubblici e privati, nazionali ed internazionali, specializzati nella bioarchitettura e bioedilizia, al fine di migliorare la qualitï¿½ dell'ambiente urbano costruito, compreso la progettazione di iniziative di project financing per la realizzazione di complessi residenziali pubblici con tecniche costruttive di bioarchitettura e bioedilizia. </corpo>
+                    </el>
+                </comma>
+                <comma id="art6-com3">
+                    <num>
+ 
+3.</num>
+
+                    <corpo> Il Comitato ï¿½ costituito da tre membri, di cui uno con funzioni di presidente, esperti del settore e idoneamente qualificati, dura in carica tre anni ed ï¿½ nominato dal Presidente della Giunta regionale, su conforme delibera della Giunta stessa, con le procedure di cui alla <rif xlink:href="urn:nir:regione.molise:legge:2002;16">legge regionale n. 16/2002</rif>. La nomina del presidente ï¿½ effettuata contestualmente a quelle dei semplici componenti. </corpo>
+                </comma>
+                <comma id="art6-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Ai componenti del Comitato spetta per ogni giornata di seduta, nel limite massimo di 24 sedute l'anno, una indennitï¿½ di presenza nella misura di Euro 200,00 per il presidente e di Euro 150,00 per i semplici componenti. </corpo>
+                </comma>
+                <comma id="art6-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> A supporto dei lavori e delle attivitï¿½ del Comitato l'amministrazione regionale destina un'unitï¿½ operativa organica dotata di personale in possesso di adeguata professionalitï¿½. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <rubrica>
+ 
+(Piano per la ecoqualitï¿½ delle costruzioni residenziali pubbliche) 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <corpo> L'Assessorato regionale all'urbanistica, l'Assessorato all'ambiente e l'Assessorato ai lavori pubblici, di concerto tra loro, predispongono il Piano per la ecoqualitï¿½ dell'edilizia residenziale pubblica, che viene approvato dalla Giunta regionale. </corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il Piano di cui al <rif xlink:href="#art7-com1">comma 1</rif> ha durata triennale e puï¿½ essere aggiornato nell'arco del triennio, individua le linee di intervento per il conseguimento degli obiettivi indicati dalla presente legge ed in particolare indica per ciascun anno i settori ed i progetti prioritari. </corpo>
+                </comma>
+                <comma id="art7-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Il piano contiene gli indirizzi e le linee-guida per il coordinamento e l'integrazione degli interventi regionali per le politiche abitative con lo sviluppo sostenibile tramite la bioedilizia. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>
+ 
+(Disposizioni finanziarie) 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+                    <corpo> Agli oneri derivanti dall'attuazione della presente legge, che si quantificano in Euro 50.000,00 per ciascuno degli esercizi finanziari 2005, 2006 e 2007, si provvede mediante stanziamento di pari importo con legge di approvazione del bilancio. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <rubrica>
+ 
+(Regolamento di attuazione) 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+                    <corpo> Entro novanta giorni dall'entrata in vigore della presente legge ï¿½ emanato il suo regolamento di attuazione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC9; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19770516" num="10" tipo="BURM"/>
+                <entratainvigore norm="19770531"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1997-05-14;12"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 10 del 16/05/77 
+ 
+Oggetto 
+Aziende Unit&#xE0; Sanitaria Locale - Ordinamento - Organizzazione - Funzionamento 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 8/2010 art. 46 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19970514">14 Maggio 1997</dataDoc>, n. <numDoc>12</numDoc>
+
+            <titoloDoc>Norme sull'assetto programmatorio contabile, gestionale e di controllo delle Aziende Unitï¿½ Sanitarie Locali (ASL) in attuazione del <rif xlink:href="urn:nir:stato:decreto.legislativo:1992-12-30;502">Decreto Legislativo 30 dicembre 1992, n. 502</rif> &lt;&lt; Riordino della disciplina in materia sanitaria e successive integrazioni e modificazioni &gt;&gt;. 
+ 
+Titolo I: PROGRAMMAZIONE E FINANZIAMENTO 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 8/2010 art. 46</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20050416" num="8" tipo="BURM"/>
+                <entratainvigore norm="20050501"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2005-04-01;9"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 8 del 16 aprile 2005 
+ 
+Oggetto 
+Servizio sanitario regionale - Azienda sanitaria regionale (ASREM) - Istituzione - Ordinamento - Organizzazione - Funzionamento 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 3 dalla legge n. 34/2008 art. 1 
+Modificato art. 4 dalla legge n. 34/2008 art. 5 
+Modificato art. 4-bis dalla legge n. 34/2008 art. 2 
+Modificato art. 5 dalla legge n. 12/2008 art. 19 
+Modificato art. 5 dalla legge n. 34/2008 art. 3 
+Modificato art. 6 dalla legge n. 34/2008 art. 4 
+Modificato art. 7 dalla legge n. 34/2008 art. 6 
+Modificato art. 8 dalla legge n. 34/2008 art. 7 
+Modificato art. 9 dalla legge n. 34/2008 art. 8 
+Modificato art. 13 dalla legge n. 34/2008 art. 9 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20050401">1 aprile 2005</dataDoc>, n. <numDoc>9</numDoc>. 
+ 
+<titoloDoc>Riordino del Servizio sanitario regionale. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo>
+Servizio sanitario regionale 
+ 
+1. In attuazione dell'art. 32 ed ai sensi dell'<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art117">art. 117 della Costituzione</rif> la Regione assicura il perseguimento dei livelli essenziali di assistenza attraverso il Servizio sanitario regionale (SSR), nel rispetto delle compatibilitï¿½ finanziarie definite dalla programmazione regionale, con l'obiettivo di favorire il suo sviluppo organico sul territorio, anche mediante l'organizzazione a rete dei servizi.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+Indirizzi, verifica e controllo della Regione 
+ 
+1. La Regione, attraverso gli strumenti di programmazione, individua gli obiettivi da assegnare al Servizio sanitario regionale, ripartisce le relative risorse e verifica il conseguimento degli obiettivi tramite l'impiego di idonei criteri di controllo gestionale e finanziario. 
+ 
+2. Il Consiglio regionale, entro 90 giorni dall'approvazione della presente legge, adotta il Piano sanitario regionale, con la definizione degli obiettivi di politica sanitaria, degli indirizzi per la rete dei servizi e presidi e dei criteri per l'allocazione delle risorse. 
+ 
+3. La Giunta regionale adotta i provvedimenti attuativi del Piano sanitario regionale ed approva gli atti di alta amministrazione adottati dall'Azienda sanitaria regionale del Molise di cui all'<rif
+                            xlink:href="#art3">art. 3</rif>. 
+ 
+4. La Giunta regionale, con propria deliberazione, provvede all'approvazione dell'atto aziendale ed alle eventuali modificazioni dello stesso, nonchï¿½ alla definizione ed approvazione, sulla base di criteri ed obiettivi approvati dal Consiglio regionale, delle articolazioni del bilancio aziendale. 
+ 
+5. Per il governo del sistema sanitario e delle sue interrelazioni con gli altri settori di competenza, la Regione si avvale del sistema informativo regionale integrato di cui alla <rif
+                            xlink:href="urn:nir:regione.molise:legge:1999;3">legge regionale n. 3/1999</rif>. 
+ 
+6. La Giunta regionale istituisce nuovo elenco, aggiornato annualmente, nel quale vengono iscritti i soggetti in possesso dei requisiti di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1992;502#art3bis">art. 3 bis del decreto legislativo n. 502/1992</rif>, e successive modifiche ed integrazioni.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+Azienda sanitaria regionale del Molise  
+ 
+Assetto territoriale 
+ 
+1. La Regione assicura i livelli di assistenza attraverso l'Azienda sanitaria regionale del Molise, in sigla ASREM, corrispondente all'intero territorio regionale. 
+ 
+2. Per garantire i livelli essenziali di assistenza, la ASREM si avvale:</corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+
+                    <corpo>a) dei propri servizi e presidi; 
+ 
+b) dei soggetti erogatori operanti nel Molise, di rilievo nazionale e regionale, accreditati dalla Regione e nei limiti dei contratti stipulati ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1992;502#art8quinquies">art. 8 quinquies del decreto legislativo n. 502/ 1992</rif>, e successive modifiche ed integrazioni. 
+ 
+3. La ASREM, con sede a Campobasso, dotata di personalitï¿½ giuridica pubblica e di autonomia imprenditoriale, ï¿½ articolata in quattro zone territoriali corrispondenti alle Aziende sanitarie locali di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1997-05-14;11">legge regionale 14 maggio 1997, n. 11</rif>. 
+ 
+4. Ogni zona territoriale, relativamente alle attivitï¿½ proprie ed alle funzioni stabilite dall'atto aziendale, ï¿½ dotata di autonomia tecnico-gestionale ed economico-finanziaria, con contabilitï¿½ separata all'interno del bilancio della ASREM, ed ï¿½ soggetta a rendicontazione analitica. 
+ 
+5. In particolare, ogni zona territoriale provvede:</corpo>
+                </comma>
+                <comma id="art3-com3">
+                    <num/>
+
+                    <corpo>a) alla definizione degli obiettivi di salute secondo gli indirizzi delineati dalla programmazione regionale e dalla pianificazione aziendale nonchï¿½ al loro perseguimento attraverso i piani di attivitï¿½ zonali, in sigla PAZ; 
+ 
+b) alla programmazione organizzativa ed operativa per la gestione delle risorse strumentali ed umane dei servizi sanitari di zona; 
+ 
+c) al coordinamento dei servizi di zona relativi ai differenti livelli assistenziali (ospedale, distretti, prevenzione); 
+ 
+d) alla rilevazione, all'orientamento ed alla valutazione della domanda socio-sanitaria, alla verifica del grado di soddisfacimento della stessa, nonchï¿½ alla valutazione complessiva dei consumi; 
+ 
+e) alla distribuzione delle risorse assegnate ed alla corretta utilizzazione delle stesse; 
+ 
+f) all'integrazione, sia a livello programmatorio che di attuazione, dei servizi sanitari con servizi sociali nel rispetto di quanto previsto dall'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1992;502#art3septies">art. 3 septies del decreto legislativo n. 502/1992</rif>, e successive modifiche ed integrazioni; 
+ 
+g) alla gestione dei rapporti di informazione e di collaborazione con la Conferenza dei Sindaci di cui all'<rif
+                            xlink:href="#art9">art. 9</rif>; 
+ 
+h) alla negoziazione con le organizzazioni sindacali, sulla base di indirizzi aziendali, per le intese e gli accordi aventi valenza zonale. 
+ 
+6. Per ogni zona ï¿½ previsto un Direttore, nominato dalla Giunta regionale, sentito il Direttore generale della ASREM, da scegliere tra i soggetti che abbiano i requisiti previsti per la nomina a Direttore generale, ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1992;502#art3bis">art. 3 bis del decreto legislativo n. 502/1992</rif>, e successive modifiche ed integrazioni. 
+ 
+7. ï¿½ istituito il Collegio dei Direttori di zona di cui fanno parte tutti i Direttori di zona; il Collegio ï¿½ presieduto e convocato dal Direttore generale della ASREM, coadiuvato dal Direttore amministrativo e dal Direttore sanitario. Al Collegio possono partecipare, in relazione alle diverse e specifiche tematiche, altri Dirigenti della zona. Il Collegio ha funzioni consultive e propositive nei confronti del Direttore generale in materia di programmazione e di valutazione delle attivitï¿½ tecnico-sanitarie. 
+ 
+8. La zona di Agnone, coincidente con il territorio della ASL n. 1 "Alto Molise", in considerazione delle sue particolari caratteristiche geografiche e socio-economiche, in coerenza con le politiche regionali sulla montagna, ï¿½ costituita con apposito atto della Giunta regionale in "zona montana" a regime speciale, dotata di finanziamento annuo non inferiore al 6% del FSR. La Giunta regionale, nel definire principi e criteri per l'organizzazione della "zona montana", ne stabilisce i rapporti con l'ASREM ed il livello delle prestazioni e dei servizi territoriali ed ospedalieri, anche in deroga ai parametri nazionali e regionali. La "zona montana" ï¿½ indicata per la sperimentazione regionale di politiche socio-sanitarie e formative per l'assistenza alla popolazione anziana. 
+ 
+9. Le zone sono articolate in distretti e comprendono gli stabilimenti ospedalieri ed i presidi ospedalieri, entrambi a gestione diretta. 
+ 
+10. I distretti, le cui dimensioni sono definite nell'atto aziendale, costituiscono il livello in cui si realizza la gestione integrata tra servizi sanitari e socio-assistenziali. I distretti sono strutture complesse con capacitï¿½ di organizzare e di gestire l'insieme dei servizi territoriali in funzione dei bisogni di salute dei cittadini nonchï¿½ di esercitare il controllo della qualitï¿½ degli interventi e l'uso appropriato delle risorse. Il Direttore generale dell'ASREM, su proposta del Direttore di zona, nomina il Direttore del distretto, che viene scelto tra il personale dirigente di ruolo dell'azienda, che abbia maturata esperienza nei servizi territoriali, oppure tra il personale medico convenzionato, ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1999;229#art8-com1">art. 8, comma 1 del decreto legislativo n. 229/1999</rif>, da almeno 10 anni, con contestuale congelamento di un corrispondente posto di organico della dirigenza sanitaria. 
+ 
+11. Il presidio ospedaliero, dotato di autonomia gestionale, ï¿½ l'articolazione organizzativa della zona territoriale che aggrega funzionalmente gli stabilimenti ospedalieri aventi sede nella medesima zona. Il presidio ospedaliero assicura la fornitura di prestazioni specialistiche, di ricovero e ambulatoriali, secondo le caratteristiche qualitative previste dalla programmazione regionale.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+
+                    <corpo>
+Organi dell ASREM 
+ 
+1. Sono organi dell'ASREM il Direttore generale ed il Collegio sindacale. 
+ 
+2. Il Direttore generale, nominato nell'ambito dell'elenco di cui all'art. 2, comma 6, ha la rappresentanza legale dell'ASREM, ï¿½ responsabile della programmazione e della gestione complessiva dell'azienda stessa ed ï¿½ coadiuvato, nell'esercizio delle proprie funzioni, dal Direttore amministrativo e dal Direttore sanitario. 
+ 
+3. Il Collegio sindacale ha la composizione e svolge le funzioni di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1992;502#art3ter">art. 3 ter del decreto legislativo n. 502/1992</rif>, e successive modifiche ed integrazioni. 
+ 
+4. Partecipano, con funzioni consultive e propositive, al governo dell'ASREM:</corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num/>
+
+                    <corpo>a) il Collegio di direzione aziendale; 
+ 
+b) i direttori dei dipartimenti funzionali di cui all'<rif xlink:href="#art6">art. 6</rif>; 
+ 
+c) il Collegio dei direttori di zona. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <comma id="art5-com1">
+                    <num/>
+
+                    <corpo>
+Atto aziendale 
+ 
+1. La ASREM disciplina l'organizzazione ed il funzionamento mediante atto aziendale di diritto privato di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1992;502#art3-com1bis">articolo 3, comma 1 bis, del decreto legislativo n. 502/1992</rif>, e successive modifiche ed integrazioni. 
+ 
+2. Il Direttore generale, entro 90 giorni, elabora la proposta di atto aziendale sulla base degli indirizzi e dei criteri formulati dalla Giunta regionale, nel rispetto dei principi ed obiettivi fissati dal Consiglio regionale. L'atto aziendale ï¿½ approvato dalla Giunta regionale. 
+ 
+3. L'atto aziendale definisce e disciplina:</corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num/>
+                    <corpo>a) l'assetto organizzativo dell'ASREM in modo da assicurare l'esercizio unitario delle funzioni di prevenzione, diagnosi, cura e riabilitazione; 
+ 
+b) il coordinamento dell'attivitï¿½ dei servizi territoriali nelle singole zone con quella dei presidi ospedalieri; 
+ 
+c) il raccordo delle prestazioni sanitarie con gli altri soggetti erogatori pubblici e privati; 
+ 
+d) le funzioni accentrate a livello aziendale; 
+ 
+e) le funzioni decentrate a livello locale; 
+ 
+f) l'organizzazione delle funzioni amministrative, anche decentrate sul territorio per settori dipartimentali. 
+ 
+4. L'atto aziendale puï¿½ trasferire alla zona territoriale, per un periodo limitato, specifici compiti di servizio. 
+ 
+5. La Giunta regionale, nel definire i principi ed i criteri direttivi per l'adozione dell'atto aziendale, deve prevedere:</corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num/>
+                    <corpo>a) l'esercizio delle funzioni di programmazione e di controllo; 
+ 
+b) la costituzione dei dipartimenti zonali, costituiti dalle seguenti strutture: direzione sanitaria dell'ospedale, direzione dei distretti, direzione dei dipartimenti zonali, direzione dei servizi di supporto; 
+ 
+c) l'esercizio a livello accentrato della gestione delle attivitï¿½ amministrative, ivi comprese quelle connesse all'acquisizione dei fattori produttivi, con la previsione di strutture decentrate a livello zonale; 
+ 
+d) l'attivazione, nell'ambito della contabilitï¿½ generale, di cinque contabilitï¿½ sezionali, riferite alle attivitï¿½ accentrate ed a quelle zonali; 
+ 
+e) l'attivazione, a fianco della contabilitï¿½ generale, della contabilitï¿½ analitica, articolata per distretti e presidi ospedalieri; 
+ 
+f) l'attivazione delle procedure di acquisizione dei beni e dei servizi, di norma con articolazione in lotti funzionali relativi alle zone, determinati in base ai rispettivi fabbisogni, con la possibilitï¿½ di accedere alle forniture stesse da parte dei direttori di zona, nei limiti assegnati; 
+ 
+g) la composizione e le funzioni del Collegio di direzione aziendale e dei Collegi di direzione zonali; 
+ 
+h) l'esercizio a livello zonale della gestione delle funzioni sanitarie; 
+ 
+i) l'esercizio a livello zonale o sovra-zonale delle funzioni di supporto a gestione diretta, sulla base della programmazione aziendale; 
+ 
+j) l'organizzazione dei presidi ospedalieri ai sensi dell'art. 3, comma 11; 
+ 
+k) i requisiti per la nomina dei direttori dei distretti da parte del Direttore generale; 
+ 
+l) il compenso del Direttore generale, sanitario ed amministrativo dell'ASREM. 
+ 
+6. Il Direttore generale dell'ASREM, al fine di accelerare il processo interno di ristrutturazione e di riorganizzazione aziendale, favorirï¿½ l'applicazione dell'istituto della "risoluzione consensuale", cosï¿½ come previsto e disciplinato dalla contrattazione collettiva per il personale dirigente del S.S.N., riservandolo in via prioritaria ai responsabili di struttura complessa. Il Direttore generale propone il relativo piano con regolamento attuativo alla Giunta regionale per l'approvazione.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo>
+Dipartimenti 
+ 
+1. L'organizzazione dipartimentale ï¿½ il modello ordinario di gestione operativa di tutte le attivitï¿½ dell'ASREM. 
+ 
+2. L'atto aziendale dell'ASREM delimita la competenza territoriale dei dipartimenti. 
+ 
+3. Il Dipartimento funzionale ospedaliero identifica l'offerta sanitaria dei P.O. della Regione; viene organizzato per patologie aggregate dal Codice MDC, secondo principi e criteri di cui alla presente legge. Il Dipartimento funzionale territoriale ï¿½ costituito dalla somma di tutti i servizi ospedaliero/territoriali della Regione Molise, della medicina generale, dei pediatri di libera scelta della specialistica ambulatoriale. Il dipartimento della prevenzione ed il dipartimento della salute mentale aggregano e coordinano le rispettive attivitï¿½ delle ex AA.SS.LL.. 
+ 
+4. I dipartimenti di prevenzione ed i dipartimenti di salute mentale hanno un'articolazione che garantisce lo svolgimento delle funzioni operative sia a livello zonale che distrettuale.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo>
+Conferenza permanente per la programmazione sanitaria e socio-sanitaria regionale 
+ 
+1. ï¿½ istituita la Conferenza permanente per la programmazione sanitaria e socio-sanitaria regionale, di seguito denominata Conferenza, costituita da:</corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num/>
+                    <corpo>a) il presidente della Conferenza dei Sindaci di zona; 
+ 
+b) i presidenti delle Amministrazioni provinciali o loro delegati; 
+ 
+c) i presidenti delle Comunitï¿½ montane o loro delegati. 
+ 
+2. I componenti della Conferenza sono nominati con decreto del Presidente della Giunta regionale. 
+ 
+3. La Conferenza elegge al suo interno il presidente. 
+ 
+4. Le modalitï¿½ di funzionamento della Conferenza sono fissate con apposito regolamento regionale da emanarsi da parte del Presidente della Giunta regionale, entro novanta giorni dalla data di entrata in vigore della presente legge, anche al fine di garantire la partecipazione degli enti locali alla programmazione sanitaria regionale. 
+ 
+5. La Conferenza esprime parere nei confronti della Giunta regionale sui seguenti documenti:</corpo>
+                </comma>
+                <comma id="art7-com3">
+                    <num/>
+                    <corpo>a) progetto di piano sanitario regionale; 
+ 
+b) proposte di legge e schemi di regolamento in materia sanitaria; 
+ 
+c) schemi di atti relativi all'integrazione socio-sanitaria; 
+ 
+d) accordi con l'Universitï¿½. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <comma id="art8-com1">
+                    <num/>
+
+                    <corpo>
+Conferenza dei Sindaci 
+ 
+1. La Conferenza dei Sindaci, di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1997-05-14;11#art5">art. 5 della legge regionale 14 maggio 1997, n. 11</rif>, ï¿½ trasformata in Conferenza dei Sindaci di zona con compiti consultivi nel settore dell'integrazione tra i servizi di zona ed i servizi socio-assistenziali. 
+ 
+2. In particolare la Conferenza:</corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num/>
+                    <corpo>a) promuove l'integrazione tra i servizi sanitari di zona ed i servizi socio-assistenziali; 
+ 
+b) esprime pareri consultivi sui piani di attivitï¿½ zonali; 
+ 
+c) esprime pareri sul programma delle attivitï¿½ distrettuali. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo>
+Organismi di partecipazione dei cittadini 
+ 
+1. La Regione promuove la partecipazione al sistema sanitario dei cittadini e delle loro associazioni, con particolare riferimento alle associazioni di volontariato ed a quelle di tutela dei diritti. 
+ 
+2. Al fine di assicurare la partecipazione delle associazioni di cui al precedente comma, la ASREM favorisce la loro presenza presso la struttura centrale e quelle di zona.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <comma id="art10-com1">
+                    <num/>
+
+                    <corpo>
+Conferenza dei servizi 
+ 
+1. Il Direttore generale organizza, almeno una volta l'anno, la Conferenza dei servizi sanitari, la cui seduta ï¿½ pubblica, per presentare la programmazione dell'attivitï¿½ sanitaria aziendale; alla Conferenza partecipano, di diritto, i componenti della Conferenza permanente per la programmazione sanitaria e socio-sanitaria regionale, di cui all'<rif
+                            xlink:href="#art7">art. 7</rif> e gli organismi di partecipazione dei cittadini di cui all'<rif xlink:href="#art9">art. 9</rif>.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+                <comma id="art11-com1">
+                    <num/>
+
+                    <corpo>
+Autorizzazione alla realizzazione di strutture ed all'esercizio di attivitï¿½ sanitarie e socio-sanitarie 
+ 
+1. In attuazione dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1992;502#art8ter">art. 8 ter del decreto legislativo n. 502/1992</rif>, e successive modifiche ed integrazioni, la Giunta regionale, con deliberazione da adottare entro novanta giorni dalla data di entrata in vigore della presente legge, stabilisce:</corpo>
+                </comma>
+                <comma id="art11-com2">
+                    <num/>
+                    <corpo>a) i requisiti minimi richiesti per l'esercizio delle attivitï¿½ sanitarie e socio-sanitarie; 
+ 
+b) le procedure per il rilascio delle autorizzazioni. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12 </num>
+                <comma id="art12-com1">
+                    <num/>
+
+                    <corpo>
+Accreditamento istituzionale 
+ 
+1. In attuazione dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1992;502#art8quater">art. 8 quater del decreto legislativo n. 502/1992</rif>, e successive modifiche ed integrazioni, la Giunta regionale, con una o piï¿½ deliberazioni da adottare entro novanta giorni dalla data di entrata in vigore della presente legge, stabilisce:</corpo>
+                </comma>
+                <comma id="art12-com2">
+                    <num/>
+                    <corpo>a) i criteri per il calcolo del fabbisogno di attivitï¿½ sanitarie e socio-sanitarie per le quali puï¿½ essere rilasciato l'accreditamento; 
+ 
+b) i requisiti ulteriori richiesti per l'accreditamento delle strutture sanitarie e socio-sanitarie, pubbliche e private; 
+ 
+c) le procedure per il rilascio dell'accreditamento. 
+ 
+2. Il fabbisogno di attivitï¿½ sanitarie e socio-sanitarie ï¿½ definito periodicamente dalla Giunta regionale, in base agli indirizzi della pianificazione sanitaria, in rapporto a specifici settori di attivitï¿½ e ambiti territoriali.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13 </num>
+                <comma id="art13-com1">
+                    <num/>
+                    <corpo>
+Norme transitorie 
+ 
+1. La costituzione dell'ASREM ï¿½ disposta dalla Giunta regionale entro novanta giorni dalla data di entrata in vigore della presente legge. Gli organi delle attuali Aziende sanitarie decadono dalla data di entrata in funzione dell'ASREM. 
+ 
+2. Le attuali Aziende sanitarie vengono poste in liquidazione alla data di entrata in funzione dell'ASREM. La Giunta regionale, contestualmente alla nomina del Direttore generale dell'ASREM, nomina i Commissari liquidatori delle attuali Aziende sanitarie. L'incarico dei Commissari liquidatori ï¿½ fissato in mesi 12; al termine di tale periodo l'eventuale residua gestione liquidatoria, che puï¿½ essere prorogata per un periodo non superiore ad altri 12 mesi, viene assunta direttamente dalla Regione. 
+ 
+3. La ASREM subentra nella titolaritï¿½ dei beni patrimoniali e nei rapporti di lavoro e contrattuali in essere a decorrere dalla data della sua costituzione. Nessun rapporto derivante dalle gestioni delle attuali Aziende sanitarie puï¿½ essere posto a carico dell'ASREM. 
+ 
+4. I crediti ed i debiti delle attuali Aziende sanitarie restano in capo alla gestione liquidatoria. 
+ 
+5. I commissari liquidatori:</corpo>
+                </comma>
+                <comma id="art13-com2">
+                    <num/>
+                    <corpo>a) adottano gli atti necessari per il trasferimento della titolaritï¿½ dei beni mobili ed immobili, dei rapporti di lavoro e contrattuali in essere in capo alla ASREM; 
+ 
+b) curano la gestione dei rapporti di credito e di debito emersi dalla gestione fino alla data del trasferimento della gestione sanitaria in capo all'ASRF.M. 
+ 
+6. La Giunta regionale, di concerto con la ASREM, promuove l'avvio delle attivitï¿½ connesse alla costituenda Facoltï¿½ di medicina e chirurgia da parte dell'Universitï¿½ del Molise, valorizzando in particolare le competenze pubbliche presenti nel territorio. La Giunta regionale, sentita la Commissione consiliare competente per materia, d'intesa con l'Universitï¿½ del Molise, puï¿½:</corpo>
+                </comma>
+                <comma id="art13-com3">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art13-com3-mod1">a) determinare la costituzione di una Azienda Ospedaliera Policlinico (AOP) con autonomia giuridica, in conformitï¿½ della normativa statale di settore; 
+ 
+b) promuovere la costituzione di dipartimenti misti ASREM? Universitï¿½ del Molise - Centro Universitï¿½ "<virgolette
+                                id="art13-com3-mod1-vir1">Sacro Cuore</virgolette>"? I.R.C.S.S., giï¿½ ricadenti nell'ambito della Regione, finalizzata al piï¿½ alto grado di soddisfacimento dell'utenza; 
+ 
+c) promuovere, unitamente all' Universitï¿½ del Molise? I.R.C.S.S., forme di coinvolgimento della realtï¿½ scientifica e professionale presente nel Molise; 
+ 
+d) istituire apposita fondazione il cui atto costitutivo dovrï¿½ comprendere possibilmente 1' Universitï¿½ del Molise, il Centro Universitï¿½ "<virgolette id="art13-com3-mod1-vir2">Sacro Cuore</virgolette>" e gli I.R.C.S.S. del territorio molisano. 
+ 
+7. La Giunta regionale ï¿½ delegata a modificare l'organizzazione della direzione regionale competente, rendendola funzionale al nuovo assetto istituzionale della sanitï¿½ molisana. 
+ 
+8. Sono abrogate tutte le norme in contrasto con la presente legge.</mod>
+                    </corpo>
+                </comma>
+                <comma id="art13-com4">
+                    <num/>
+                    <corpo>La presente legge sarï¿½ pubblicata nel Bollettino Ufficiale della Regione. ï¿½ fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

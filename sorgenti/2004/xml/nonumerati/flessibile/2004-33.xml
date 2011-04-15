@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20041231" num="29" tipo="BURM"/>
+                <entratainvigore norm="20050115"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2004-12-17;33"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x96; N. 29 del 31 dicembre 2004 
+ 
+Oggetto 
+Istituto Regionale per gli Studi Storici del Molise - Nuovo ordinamento- Attivit&#xE0; 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 5 dalla legge n. 24/2007 art. 6 
+Modificato art. 6 dalla legge n. 24/2007 art. 6 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20041217">17 dicembre 2004</dataDoc>, n. <numDoc>33</numDoc>. 
+ 
+<titoloDoc>Riordinamento dell'Istituto regionale per gli studi storici del Molise "Vincenzo Cuoco" (IRESMO). 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo>
+Istituto regionale per gli studi storici del Molise "Vincenzo Cuoco" (IRESMO) 
+ 
+1. L'Istituto regionale per gli studi storici del Molise "Vincenzo Cuoco" (IRESMO), di seguito denominato: "Istituto", istituito con la <rif xlink:href="urn:nir:regione.molise:legge:1977-09-02;26">legge regionale 2 settembre 1977, n. 26</rif>, ï¿½ strumento di intervento e di programmazione della Regione Molise nel settore storico-culturale. 
+ 
+2. L'Istituto ï¿½ dotato di personalitï¿½ giuridica ed esercita le proprie attivitï¿½ con autonomia scientifica, organizzativa, amministrativa e contabile.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+Attribuzioni dell'Istituto 
+ 
+1. L'Istituto:</corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+                    <corpo>a) promuove, svolge e coordina ricerche, studi e pubblicazioni su tutto ciï¿½ che attiene alla storia della regione, dalle piï¿½ antiche fasi dell'insediamento umano all'epoca contemporanea; 
+ 
+b) propone opportune iniziative didattiche di natura storico-culturale da realizzare in collaborazione con le istituzioni scolastiche ed universitarie; 
+ 
+c) presta la propria collaborazione e consulenza, mediante apposite convenzioni, a soggetti pubblici e privati per quanto attiene alla valorizzazione ed al restauro del patrimonio storico, museale e bibliotecario; 
+ 
+d) costituisce una biblioteca storica della Regione Molise mediante l'acquisizione di volumi e documenti attinenti alla storia ed alla cultura della regione; 
+ 
+e) raccoglie, anche attraverso riproduzioni multimediali, la documentazione scritta, iconografica, cartografica, audiovisiva relativa ai beni storico-culturali costituendo banche dati; 
+ 
+f) realizza il catalogo dei beni culturali della Regione. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+                        <rif
+                            xlink:href="urn:nir:regione.molise:statuto:">Statuto</rif> e regolamento 
+ 
+1. L'Istituto adotta uno <rif
+                            xlink:href="urn:nir:regione.molise:statuto:">statuto</rif> ed un regolamento amministrativo-contabile con i quali stabilisce le norme di funzionamento e di organizzazione disciplinando, in particolare, le attribuzioni degli organi e l'ordinamento dei servizi. 
+ 
+2. Lo <rif xlink:href="urn:nir:regione.molise:statuto:">statuto</rif> ed il regolamento sono approvati dalla Giunta regionale su proposta del Consiglio direttivo dell'Istituto che delibera a maggioranza assoluta dei propri componenti.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo>
+Organi dell'Istituto 
+ 
+1. Sono organi dell'Istituto:</corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num/>
+                    <corpo>a) il Presidente; 
+ 
+b) il Consiglio direttivo; 
+ 
+c) il Collegio dei revisori dei conti. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo>
+Presidente 
+ 
+1. Il Presidente ï¿½ nominato dalla Giunta regionale tra eminenti personalitï¿½ del mondo culturale. 
+ 
+2. Il Presidente dura in carica 3 anni ed ha la rappresentanza legale dell'Istituto.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo>
+Consiglio direttivo 
+ 
+1. Il Consiglio direttivo ï¿½ composto dal Presidente dell'Istituto e da tre componenti eletti dal Consiglio regionale con voto limitato a due. 
+ 
+2. Il Consiglio direttivo dura in carica tre anni.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo>
+Collegio dei revisori dei conti 
+ 
+1. Il Collegio dei revisori dei conti ï¿½ composto da tre componenti eletti dal Consiglio regionale, con voto limitato a due, i quali eleggono il Presidente. 
+ 
+2. Il Collegio resta in carica tre anni.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo>
+Comitato scientifico 
+ 
+1. ï¿½ organo consultivo dell'Istituto il Comitato scientifico, composto dal Presidente, da due docenti universitari di ruolo e da una eminente personalitï¿½ scelta tra esperti di storia ? nominati dal Consiglio direttivo dell'Istituto ? nonchï¿½ dal Soprintendente regionale del Ministero per i beni e le attivitï¿½ culturali. 
+ 
+2. Il Presidente del Comitato scientifico ï¿½ scelto tra i docenti universitari di ruolo. 
+ 
+3. La durata in carica del Comitato scientifico ï¿½ pari a quella del Consiglio direttivo. 
+ 
+4. Il Presidente del Comitato scientifico ï¿½ membro di diritto del Consiglio direttivo.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo>
+Compensi 
+ 
+1. I compensi spettanti al Presidente dell'ente, ai componenti del Comitato direttivo, del Comitato scientifico e del Collegio dei revisori dei conti sono determinati dalla Giunta regionale.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <comma id="art10-com1">
+                    <num/>
+
+                    <corpo>
+Struttura organizzativa 
+ 
+1. La struttura organizzativa dell'Istituto ï¿½ articolata in un'unica unitï¿½ dirigenziale corrispondente ad un "Servizio", ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7">legge regionale 8 aprile 1997, n. 7</rif>, e successive modificazioni ed integrazioni. 
+ 
+2. Con apposito atto di organizzazione, la Giunta regionale, su proposta del Consiglio direttivo dell'Istituto, definisce la denominazione, la declaratoria di funzioni e l'articolazione in unitï¿½ operative organiche della struttura dirigenziale.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+                <comma id="art11-com1">
+                    <num/>
+                    <corpo>
+Dotazione organica 
+ 
+1. La prima dotazione organica dell'Istituto, distinta in qualifiche dirigenziali e qualifiche non dirigenziali, ï¿½ approvata dalla Giunta regionale su proposta del Consiglio direttivo. 
+ 
+2. Le successive variazioni, nel rispetto delle leggi vigenti, sono approvate dalla Giunta regionale, su proposta del Consiglio direttivo, previa analisi dei fabbisogni ed acquisizione del parere della competente Commissione consiliare.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12 </num>
+                <comma id="art12-com1">
+                    <num/>
+
+                    <corpo>
+Personale 
+ 
+1. Il personale dell'Istituto ï¿½ costituito da dipendenti appartenenti al ruolo organico della Regione Molise, assegnati all'Istituto con deliberazione della Giunta regionale. 
+ 
+2. Le disposizioni di cui al <rif
+                            xlink:href="#art12-com1">comma 1</rif> non valgono per l'assunzione delle figure professionali previste dagli articoli 7 e 9 della <rif xlink:href="urn:nir:stato:legge:2000-06-07;150">legge 7 giugno 2000, n. 150</rif>, delle quali l'Istituto puï¿½ autonomamente dotarsi.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13 </num>
+                <comma id="art13-com1">
+                    <num/>
+                    <corpo>
+Segretario 
+ 
+1. Il Consiglio direttivo, con l'atto di organizzazione di cui al comma 2 dell'articolo 10, prevede la figura del Segretario dell'Istituto, e le relative funzioni, scegliendolo tra il personale regionale assegnato dalla Giunta regionale e dotato di competenze tecnico-giuridiche.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14 </num>
+                <comma id="art14-com1">
+                    <num/>
+                    <corpo>
+Entrate 
+ 
+1. Nello stato di previsione del bilancio della Regione Molise ï¿½ istituito un fondo globale per il funzionamento dell'Istituto. 
+ 
+2. La Regione puï¿½ altresï¿½ erogare all'Istituto contributi speciali per particolari attivitï¿½, progetti ed iniziative. 
+ 
+3. L'Istituto puï¿½ accettare contributi e donazioni di soggetti pubblici e privati e utilizzare proventi derivanti dalle sue attivitï¿½.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>Art. 15 </num>
+                <comma id="art15-com1">
+                    <num/>
+                    <corpo>
+Norma finanziaria 
+ 
+1. Agli oneri derivanti dalla presente legge si provvede con apposita unitï¿½ previsionale di base da istituire nello stato di previsione delle spese del bilancio regionale. 
+ 
+2. Per l'esercizio finanziario 2004 si provvede con i residui fondi stanziati sulla U.P.B. n. 200.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>Art. 16 </num>
+                <comma id="art16-com1">
+                    <num/>
+                    <corpo>
+                        <mod
+                                id="art16-com1-mod1">
+Abrogazioni 
+ 
+1. ï¿½ abrogata la <rif xlink:href="urn:nir:regione.molise:legge:1977-09-02;26">legge regionale 2 settembre 1977, n. 26</rif>, ed ï¿½ abrogata ogni altra disposizione normativa in contrasto o incompatibile con la presente legge.</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>Art. 17 </num>
+                <comma id="art17-com1">
+                    <num/>
+                    <corpo>
+Norma transitoria 
+ 
+1. In sede di prima applicazione, gli organi dell'Istituto, di cui agli articoli 4 ed 8, vengono, rispettivamente, nominati ed eletti entro novanta giorni dall'entrata in vigore della presente legge.</corpo>
+                </comma>
+                <comma id="art17-com2">
+                    <num/>
+                    <corpo>La presente legge sarï¿½ pubblicata nel Bollettino Ufficiale della Regione. ï¿½ fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

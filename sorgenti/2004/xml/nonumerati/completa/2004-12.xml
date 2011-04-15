@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20061005" num="28" tipo="BURM"/>
+                <entratainvigore norm="20061020"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2004-05-11;12"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 28 del 5 ottobre 2006 
+ 
+Oggetto 
+Associazione allevatori del Molise - Disciplina di riordino della materia - Miglioramento genetico delle specie animali di interesse zootecnico - Potenziamento delle attivit&#xE0; 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 30/2006 art. 15 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20040511">11 maggio 2004</dataDoc>, n. <numDoc>12</numDoc>. 
+ 
+<titoloDoc>Disciplina organica in materia di riordino del sistema Associazioni allevatori del Molise e potenziamento delle attivitï¿½ connesse al miglioramento genetico delle specie animali di interesse zootecnico. 
+ 
+<rif xlink:href="urn:nir:regione.molise:legge:2004-05-11;12">LEGGE REGIONALE 11 maggio 2004, n. 12</rif>. 
+ 
+Disciplina organica in materia di riordino del sistema Associazioni allevatori del Molise e potenziamento delle attivitï¿½ connesse al miglioramento genetico delle specie animali di interesse zootecnico. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 30/2006 art. 15</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>
