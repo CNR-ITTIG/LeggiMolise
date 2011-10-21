@@ -33,7 +33,7 @@ Modifiche
             <dataDoc
                     norm="20100212">12 febbraio 2010</dataDoc>, n. <numDoc>6</numDoc>. 
  
-<titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:2009-12-11;30">legge regionale 11 dicembre 2009, n. 30</rif>, ad oggetto: "Intervento regionale straordinario volto a rilanciare il settore edilizio, a promuovere le tecniche di bioedilizia e l'utilizzo di fonti di energia alternative e rinnovabili, nonchï¿½ a sostenere l'edilizia sociale da destinare alle categorie svantaggiate e l'edilizia scolastica". 
+<titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:2009-12-11;30">legge regionale 11 dicembre 2009, n. 30</rif>, ad oggetto: "Intervento regionale straordinario volto a rilanciare il settore edilizio, a promuovere le tecniche di bioedilizia e l'utilizzo di fonti di energia alternative e rinnovabili, nonch� a sostenere l'edilizia sociale da destinare alle categorie svantaggiate e l'edilizia scolastica". 
  
 </titoloDoc>
         </intestazione>
@@ -44,13 +44,13 @@ Modifiche
                 <comma id="art1-com1">
                     <num/>
                     <alinea>
-1. Alla <rif xlink:href="urn:nir:regione.molise:legge:2009-12-11;30">legge regionale 11 dicembre 2009, n. 30</rif> (Intervento regionale straordinario volto a rilanciare il settore edilizio, a promuovere le tecniche di bioedilizia e l'utilizzo di fonti di energia alternative e rinnovabili, nonchï¿½ a sostenere l'edilizia sociale da destinare alle categorie svantaggiate e l'edilizia scolastica), e successive modificazioni e integrazioni, sono apportate le seguenti modifiche:  
+1. Alla <rif xlink:href="urn:nir:regione.molise:legge:2009-12-11;30">legge regionale 11 dicembre 2009, n. 30</rif> (Intervento regionale straordinario volto a rilanciare il settore edilizio, a promuovere le tecniche di bioedilizia e l'utilizzo di fonti di energia alternative e rinnovabili, nonch� a sostenere l'edilizia sociale da destinare alle categorie svantaggiate e l'edilizia scolastica), e successive modificazioni e integrazioni, sono apportate le seguenti modifiche:  
  
 </alinea>
                     <el id="art1-com1-leta">
                         <num>a)</num>
                         <corpo>
-                            <mod id="art1-com1-leta-mod1"> all'articolo 2, comma 5, ï¿½ soppresso il secondo periodo;</mod>
+                            <mod id="art1-com1-leta-mod1"> all'articolo 2, comma 5, � soppresso il secondo periodo;</mod>
                         </corpo>
                     </el>
                     <el id="art1-com1-letb">
@@ -59,12 +59,12 @@ Modifiche
 b)</num>
                         <corpo>
                             <mod
-                                    id="art1-com1-letb-mod2"> all'articolo 8, il comma 3 ï¿½ sostituito dal seguente: "<virgolette
+                                    id="art1-com1-letb-mod2"> all'articolo 8, il comma 3 � sostituito dal seguente: "<virgolette
                                     id="art1-com1-letb-mod2-vir1" tipo="struttura">
                                     <comma id="art1-com1-letb-mod2-vir1-com0">
                                     <num>3.</num>
 
-                                    <corpo> ï¿½ fatto salvo quanto stabilito dal <rif xlink:href="urn:nir:stato:decreto.legislativo:2004-01-22;42">decreto legislativo 22 gennaio 2004, n. 42</rif>, e successive modificazioni, per gli immobili aventi valore culturale o paesaggistico.</corpo>
+                                    <corpo> � fatto salvo quanto stabilito dal <rif xlink:href="urn:nir:stato:decreto.legislativo:2004-01-22;42">decreto legislativo 22 gennaio 2004, n. 42</rif>, e successive modificazioni, per gli immobili aventi valore culturale o paesaggistico.</corpo>
                                     </comma>
                                 </virgolette>";</mod>
                         </corpo>
@@ -74,7 +74,7 @@ b)</num>
  
 c)</num>
                         <corpo>
-                            <mod id="art1-com1-letc-mod3"> all'articolo 8, comma 4, ï¿½ soppresso il secondo periodo;</mod>
+                            <mod id="art1-com1-letc-mod3"> all'articolo 8, comma 4, � soppresso il secondo periodo;</mod>
                         </corpo>
                     </el>
                     <el id="art1-com1-letd">
@@ -85,7 +85,7 @@ d)</num>
                             <mod
                                     id="art1-com1-letd-mod4"> all'articolo 11, comma 2, sono soppresse le seguenti parole: "<virgolette
                                     id="art1-com1-letd-mod4-vir2"
-                                    tipo="parola">, salvo il caso di inadempienza di cui all'articolo 8, comma 3, per il quale l'interessato puï¿½ richiedere direttamente l'autorizzazione ambientale alla Soprintendenza per i Beni Architettonici e Paesaggistici del Molise. In questo caso l'autorizzazione rilasciata dalla Soprintendenza sostituisce anche quella subdelegata ai Comuni ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:1994;16">legge regionale n. 16/1994</rif>
+                                    tipo="parola">, salvo il caso di inadempienza di cui all'articolo 8, comma 3, per il quale l'interessato pu� richiedere direttamente l'autorizzazione ambientale alla Soprintendenza per i Beni Architettonici e Paesaggistici del Molise. In questo caso l'autorizzazione rilasciata dalla Soprintendenza sostituisce anche quella subdelegata ai Comuni ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:1994;16">legge regionale n. 16/1994</rif>
                                 </virgolette>";</mod>
                         </corpo>
                     </el>
@@ -94,7 +94,7 @@ d)</num>
  
 e)</num>
                         <corpo>
-                            <mod id="art1-com1-lete-mod5"> all'articolo 11, il comma 7 ï¿½ abrogato;</mod>
+                            <mod id="art1-com1-lete-mod5"> all'articolo 11, il comma 7 � abrogato;</mod>
                         </corpo>
                     </el>
                     <el id="art1-com1-letf">
@@ -105,7 +105,7 @@ f)</num>
                             <mod
                                     id="art1-com1-letf-mod6"> all'articolo 16, comma 1-bis, dopo le parole "<virgolette
                                     id="art1-com1-letf-mod6-vir3">e degli architetti</virgolette>", sono aggiunte le seguenti parole: "<virgolette
-                                    id="art1-com1-letf-mod6-vir4" tipo="parola">nonchï¿½ da un rappresentante designato d'intesa dalle associazioni dei costruttori edili ANCE e ACEM operanti nella regione</virgolette>".  </mod>
+                                    id="art1-com1-letf-mod6-vir4" tipo="parola">nonch� da un rappresentante designato d'intesa dalle associazioni dei costruttori edili ANCE e ACEM operanti nella regione</virgolette>".  </mod>
                         </corpo>
                     </el>
                 </comma>
@@ -115,7 +115,7 @@ f)</num>
                 <comma id="art2-com1">
                     <num/>
                     <corpo>
-1. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. La presente legge sarï¿½ pubblicata nel Bollettino Ufficiale della Regione. ï¿½ fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+1. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. La presente legge sar� pubblicata nel Bollettino Ufficiale della Regione. � fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
 </corpo>
                 </comma>
             </articolo>
