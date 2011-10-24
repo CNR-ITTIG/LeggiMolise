@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="11.enti locali, comunit&amp;#xe0; montane"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="19770831" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1977;22" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 11.Enti locali, comunit&#xE0; montane 
  
 Bollettino 
@@ -104,7 +104,7 @@ Il personale di ruolo e quello assunto a tempo indeterminato, in servizio presso
                             <entratainvigore norm=""/>
                             <redazione id="ann1-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori>
+                        </descrittori><ciclodivita><eventi><evento data="19770831" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1977;22" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>
@@ -161,7 +161,7 @@ Il personale di ruolo e quello assunto a tempo indeterminato, in servizio presso
                             <entratainvigore norm=""/>
                             <redazione id="ann2-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori>
+                        </descrittori><ciclodivita><eventi><evento data="19770831" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1977;22" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>

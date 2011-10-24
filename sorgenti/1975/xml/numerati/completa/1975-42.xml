@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="04.assistenza sociale, volontariato"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="19850515" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1985;10" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 04.Assistenza sociale, volontariato 
  
 Bollettino 

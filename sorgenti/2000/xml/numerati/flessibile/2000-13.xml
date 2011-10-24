@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="20010715" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2001;12" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
  
 Bollettino 

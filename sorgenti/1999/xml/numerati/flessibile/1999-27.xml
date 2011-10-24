@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="18.lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="20060716" fonte="rp1" id="t1" tipo="modifica"/><evento data="20080816" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2006;10" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2007;24" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 18.Lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa 
  
 Bollettino 

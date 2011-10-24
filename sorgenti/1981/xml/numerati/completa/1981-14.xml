@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="14.governo del territorio, urbanistica, edilizia"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 14.Governo del territorio, urbanistica, edilizia 
  
 Bollettino 

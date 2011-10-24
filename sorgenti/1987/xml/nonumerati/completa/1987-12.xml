@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="20051016" fonte="rp1" id="t1" tipo="modifica"/><evento data="19880515" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1997;07" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1988;11" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -71,7 +71,7 @@ Modifiche
                             <entratainvigore norm=""/>
                             <redazione id="ann1-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori>
+                        </descrittori><ciclodivita><eventi><evento data="20051016" fonte="rp1" id="t1" tipo="modifica"/><evento data="19880515" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1997;07" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1988;11" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>
@@ -102,7 +102,7 @@ Modifiche
                             <entratainvigore norm=""/>
                             <redazione id="ann2-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori>
+                        </descrittori><ciclodivita><eventi><evento data="20051016" fonte="rp1" id="t1" tipo="modifica"/><evento data="19880515" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1997;07" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1988;11" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>

@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="19.miniere, risorse geotermiche, cave e torbiere, acque minerali e termali, uso delle risorse idriche"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="20080527" fonte="rp1" id="t1" tipo="modifica"/><evento data="20090131" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2008;12" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2009;01" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 19.Miniere, risorse geotermiche, cave e torbiere, acque minerali e termali, uso delle risorse idriche 
  
 Bollettino 

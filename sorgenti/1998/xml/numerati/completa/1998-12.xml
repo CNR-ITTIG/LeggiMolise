@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="03.assistenza abitativa"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="20000130" fonte="rp1" id="t1" tipo="modifica"/><evento data="20060730" fonte="rp2" id="t2" tipo="modifica"/><evento data="20010715" fonte="rp3" id="t3" tipo="modifica"/><evento data="20051231" fonte="rp4" id="t4" tipo="modifica"/><evento data="20070501" fonte="rp5" id="t5" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2000;04" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2006;17" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2001;17" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:2005;47" xlink:type="simple"/><passiva id="rp5" xlink:href="urn:nir:regione.campania:legge:2007;09" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 03.Assistenza abitativa 
  
 Bollettino 

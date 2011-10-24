@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="07.contabilit&amp;#xe0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="20090131" fonte="rp1" id="t1" tipo="modifica"/><evento data="20070524" fonte="rp2" id="t2" tipo="modifica"/><evento data="20080527" fonte="rp3" id="t3" tipo="modifica"/><evento data="20100210" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2009;01" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2007;14" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2008;12" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:2010;03" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
 35.Tributi 
  

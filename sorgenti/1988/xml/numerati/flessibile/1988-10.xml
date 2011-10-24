@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="06.consiglieri regionali e gruppi consiliari"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="19950506" fonte="rp1" id="t1" tipo="modifica"/><evento data="19961016" fonte="rp2" id="t2" tipo="modifica"/><evento data="19950316" fonte="rp3" id="t3" tipo="modifica"/><evento data="20060223" fonte="rp4" id="t4" tipo="modifica"/><evento data="20090131" fonte="rp5" id="t5" tipo="modifica"/><evento data="19950506" fonte="rp6" id="t6" tipo="modifica"/><evento data="20100210" fonte="rp7" id="t7" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1995;15" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1996;30" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:1995;08" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:2006;02" xlink:type="simple"/><passiva id="rp5" xlink:href="urn:nir:regione.campania:legge:2009;01" xlink:type="simple"/><passiva id="rp6" xlink:href="urn:nir:regione.campania:legge:1995;16" xlink:type="simple"/><passiva id="rp7" xlink:href="urn:nir:regione.campania:legge:2010;03" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 06.Consiglieri regionali e gruppi consiliari 
  
 Bollettino 

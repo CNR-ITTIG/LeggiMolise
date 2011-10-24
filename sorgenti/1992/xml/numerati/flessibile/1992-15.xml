@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="19991031" fonte="rp1" id="t1" tipo="modifica"/><evento data="19920616" fonte="rp2" id="t2" tipo="modifica"/><evento data="20080816" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1999;34" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1992;16" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2007;24" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 

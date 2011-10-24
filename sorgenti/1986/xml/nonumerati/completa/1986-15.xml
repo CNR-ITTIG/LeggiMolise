@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="31.protezione civile, rischio sismico, regime delle acque e rischio idrogeologico"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="19960630" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1996;20" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 31.Protezione civile, rischio sismico, regime delle acque e rischio idrogeologico 
  
 Bollettino 

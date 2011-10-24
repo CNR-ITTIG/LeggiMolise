@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xe0;"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="19911201" fonte="rp1" id="t1" tipo="modifica"/><evento data="19981231" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1991;19" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1998;17" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
  
 Bollettino 

@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="19780701" fonte="rp1" id="t1" tipo="modifica"/><evento data="19760530" fonte="rp2" id="t2" tipo="modifica"/><evento data="20000514" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1978;11" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1976;14" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2000;31" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
  
 Bollettino 
@@ -69,7 +69,7 @@ Modificato art. 6 dalla legge n. 14/1976 art. 2
                             <entratainvigore norm=""/>
                             <redazione id="ann1-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori>
+                        </descrittori><ciclodivita><eventi><evento data="19780701" fonte="rp1" id="t1" tipo="modifica"/><evento data="19760530" fonte="rp2" id="t2" tipo="modifica"/><evento data="20000514" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1978;11" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1976;14" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2000;31" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>

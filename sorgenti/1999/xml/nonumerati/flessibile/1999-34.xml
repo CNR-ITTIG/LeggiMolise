@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="22.organizzazione delle funzioni amministrative a livello regionale e locale"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="20000430" fonte="rp1" id="t1" tipo="modifica"/><evento data="20061015" fonte="rp2" id="t2" tipo="modifica"/><evento data="20050501" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2000;22" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2006;28" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2005;11" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 22.Organizzazione delle funzioni amministrative a livello regionale e locale 
  
 Bollettino 

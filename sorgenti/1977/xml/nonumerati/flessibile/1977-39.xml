@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="23.ordinamento sportivo e promozione dello sport"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="19781001" fonte="rp1" id="t1" tipo="modifica"/><evento data="19790131" fonte="rp2" id="t2" tipo="modifica"/><evento data="19790701" fonte="rp3" id="t3" tipo="modifica"/><evento data="19830216" fonte="rp4" id="t4" tipo="modifica"/><evento data="19900616" fonte="rp5" id="t5" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1978;20" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1979;03" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:1979;17" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:1983;04" xlink:type="simple"/><passiva id="rp5" xlink:href="urn:nir:regione.campania:legge:1990;26" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 23.Ordinamento sportivo e promozione dello sport 
  
 Bollettino 

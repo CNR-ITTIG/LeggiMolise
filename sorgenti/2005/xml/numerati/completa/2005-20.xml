@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="20070715" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2007;17" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
  
 Bollettino 

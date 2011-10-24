@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="17.lavori pubblici e acquedotti"/>
                 </materie>
-            </descrittori>
+            </descrittori><ciclodivita><eventi><evento data="19770115" fonte="rp1" id="t1" tipo="modifica"/><evento data="19790731" fonte="rp2" id="t2" tipo="modifica"/><evento data="19780216" fonte="rp3" id="t3" tipo="modifica"/><evento data="19750504" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1976;41" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1979;19" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:1978;04" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:1975;34" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 17.Lavori pubblici e acquedotti 
  
 Bollettino 
