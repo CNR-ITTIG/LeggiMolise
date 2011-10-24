@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20080805" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2008;23" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20080805" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2008;23" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
  
 Bollettino 
@@ -44,7 +44,7 @@ Modificato art. 3 dalla legge n. 23/2008 art. 3
                 <num>Art. 1 </num>
                 <rubrica>
  
-(Finalitè) 
+(Finalità) 
  </rubrica>
                 <comma id="art1-com1">
                     <num>
@@ -63,7 +63,7 @@ Modificato art. 3 dalla legge n. 23/2008 art. 3
                 <comma id="art2-com1">
                     <num>
 1.</num>
-                    <alinea> Per le finalitè di cui all'<rif
+                    <alinea> Per le finalità di cui all'<rif
                             xlink:href="#art1">articolo 1</rif>, l'Azienda sanitaria regionale del Molise (A.S.Re.M.) rimborsa al cittadino in attesa di trapianto, o che ha già subèto trapianto, e al cittadino affetto da patologia rara, se riconosciuta tale dal Ministero della Salute, le spese di cui al <rif xlink:href="#art2-com2">comma 2</rif> sostenute in conseguenza di ricoveri presso strutture sanitarie pubbliche in Italia o all'estero dovuti a: 
  
 </alinea>
@@ -221,7 +221,7 @@ b)</num>
                 <comma id="art5-com1">
                     <num>
 1.</num>
-                    <corpo> Per le finalitè di cui alla presente legge, la Giunta regionale dispone semestralmente l'erogazione dei fondi necessari sulla base di apposita rappresentazione dei fabbisogni presentata dall'A.S.Re.M.. </corpo>
+                    <corpo> Per le finalità di cui alla presente legge, la Giunta regionale dispone semestralmente l'erogazione dei fondi necessari sulla base di apposita rappresentazione dei fabbisogni presentata dall'A.S.Re.M.. </corpo>
                 </comma>
                 <comma id="art5-com2">
                     <num>

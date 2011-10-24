@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -31,7 +31,7 @@ Modifiche
             <emanante>Regione Molise</emanante>
             <tipoDoc>Legge Regionale </tipoDoc>
             <dataDoc norm="19870504">4 Maggio 1987</dataDoc>, n. <numDoc>4</numDoc>
-            <titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1982-01-20;5">legge regionale 20 gennaio 1982, n. 5</rif> - Indennitè agli amministratori dell'E.R.S.A.M. e dell'E.R.I.M. 
+            <titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1982-01-20;5">legge regionale 20 gennaio 1982, n. 5</rif> - indennità agli amministratori dell'E.R.S.A.M. e dell'E.R.I.M. 
  
 </titoloDoc>
         </intestazione>

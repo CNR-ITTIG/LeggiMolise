@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="14.governo del territorio, urbanistica, edilizia"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20080816" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2007;24" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20080816" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;24" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 14.Governo del territorio, urbanistica, edilizia 
  
 Bollettino 
@@ -32,7 +32,7 @@ Modificato art. 5 dalla legge n. 24/2007 art. 10
             <emanante>Regione Molise</emanante>
             <tipoDoc>Legge Regionale </tipoDoc>
             <dataDoc norm="19820104">4 Gennaio 1982</dataDoc>, n. <numDoc>3</numDoc>
-            <titoloDoc>Commissioni per la determinazione dei valori agricoli medi e dell'indennitè di espropriazione - Norme di funzionamento 
+            <titoloDoc>Commissioni per la determinazione dei valori agricoli medi e dell'indennità di espropriazione - Norme di funzionamento 
  
 </titoloDoc>
         </intestazione>
@@ -43,7 +43,7 @@ Modificato art. 5 dalla legge n. 24/2007 art. 10
                 <comma id="art1-com1">
                     <num/>
                     <corpo>
-Ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1977-01-28;10#art14">art. 14 della legge 28 gennaio 1977, n. 10</rif> è istituita in ogni Provincia la Commissione per la determinazione dei valori agricoli medi e delle indennitè di espropriazione. </corpo>
+Ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1977-01-28;10#art14">art. 14 della legge 28 gennaio 1977, n. 10</rif> è istituita in ogni Provincia la Commissione per la determinazione dei valori agricoli medi e delle indennità di espropriazione. </corpo>
                 </comma>
                 <comma id="art1-com2">
                     <num/>
@@ -91,7 +91,7 @@ f)</num>
                 </comma>
                 <comma id="art1-com4">
                     <num/>
-                    <corpo>Per la determinazione dell'indennitè relativa alle aree comprese nei centri edificati, le Commissioni sono integrate dal Sindaco di ciascun Comune interessato o da un suo delegato. </corpo>
+                    <corpo>Per la determinazione dell'indennità relativa alle aree comprese nei centri edificati, le Commissioni sono integrate dal Sindaco di ciascun Comune interessato o da un suo delegato. </corpo>
                 </comma>
             </articolo>
             <articolo id="art2">
@@ -145,7 +145,7 @@ Le sedute della Commissione sono valide con la presenza di metè più uno dei comp
                 </comma>
                 <comma id="art5-com2">
                     <num/>
-                    <corpo>Per le deliberazioni relative alla determinazione del valore agricolo medio e dell'indennitè relativa ad aree comprese nei centri edificati occorre altresè, rispettivamente, la partecipazione di almeno uno degli esperti in materia di Agricoltura e Foreste e di almeno uno degli esperti in materia di Urbanistica ed Edilizia. </corpo>
+                    <corpo>Per le deliberazioni relative alla determinazione del valore agricolo medio e dell'indennità relativa ad aree comprese nei centri edificati occorre altresè, rispettivamente, la partecipazione di almeno uno degli esperti in materia di Agricoltura e Foreste e di almeno uno degli esperti in materia di Urbanistica ed Edilizia. </corpo>
                 </comma>
                 <comma id="art5-com3">
                     <num/>
@@ -162,7 +162,7 @@ Le sedute della Commissione sono valide con la presenza di metè più uno dei comp
                     <num/>
 
                     <corpo>
-Per la partecipazione ad ogni giornata di seduta spetta al Presidente ed ai componenti, compreso il Segretario, un'indennitè pari al 75% di quella prevista dalla legge regionale per i componenti degli Organi Regionali di Controllo, nonchè l'eventuale indennitè di missione nella stessa misura prevista dalla <rif xlink:href="urn:nir:regione.molise:legge:1981;11">legge regionale n.11 del 1981</rif>. </corpo>
+Per la partecipazione ad ogni giornata di seduta spetta al Presidente ed ai componenti, compreso il Segretario, un'indennità pari al 75% di quella prevista dalla legge regionale per i componenti degli Organi Regionali di Controllo, nonchè l'eventuale indennità di missione nella stessa misura prevista dalla <rif xlink:href="urn:nir:regione.molise:legge:1981;11">legge regionale n.11 del 1981</rif>. </corpo>
                 </comma>
                 <comma id="art6-com2">
                     <num/>
@@ -180,7 +180,7 @@ Al finanziamento degli oneri derivanti dalla presente legge si fa fronte con quo
                 <comma id="art7-com2">
                     <num/>
 
-                    <corpo>L'onere previsto di L. 5.000.000 per l'anno 1981 è posto a carico del nuovo Capitolo di spesa n. 23400 &lt;&lt;Indennitè&gt;&gt; e rimborso di spese ai componenti delle Commissioni Provinciali per la   determinazione dei valori agricoli medi - <rif xlink:href="urn:nir:stato:legge:1977-01-28;10">legge 28 gennaio 1977, n. 10</rif> che viene dotato di uno stanziamento di competenza di 5 milioni e una previsione di cassa di pari importo, previe analoghe riduzioni da apportarsi agli stanziamenti del Capitolo n.55200 della spesa del Bilancio di previsione 1981. </corpo>
+                    <corpo>L'onere previsto di L. 5.000.000 per l'anno 1981 è posto a carico del nuovo Capitolo di spesa n. 23400 &lt;&lt;indennità&gt;&gt; e rimborso di spese ai componenti delle Commissioni Provinciali per la   determinazione dei valori agricoli medi - <rif xlink:href="urn:nir:stato:legge:1977-01-28;10">legge 28 gennaio 1977, n. 10</rif> che viene dotato di uno stanziamento di competenza di 5 milioni e una previsione di cassa di pari importo, previe analoghe riduzioni da apportarsi agli stanziamenti del Capitolo n.55200 della spesa del Bilancio di previsione 1981. </corpo>
                 </comma>
                 <comma id="art7-com3">
                     <num/>

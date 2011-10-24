@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xe0;"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20090701" fonte="rp1" id="t1" tipo="modifica"/><evento data="19961118" fonte="rp2" id="t2" tipo="modifica"/><evento data="20080816" fonte="rp3" id="t3" tipo="modifica"/><evento data="" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2009;18" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1996;34" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2007;24" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:2007;27" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20090701" fonte="rp1" id="t1" tipo="modifica"/><evento data="19961118" fonte="rp2" id="t2" tipo="modifica"/><evento data="20080816" fonte="rp3" id="t3" tipo="modifica"/><evento data="" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;18" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1996;34" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2007;24" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2007;27" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
  
 Bollettino 
@@ -46,7 +46,7 @@ Titolo I: NORME PER L'ATTUAZIONE DEL DIRITTO ALLO STUDIO UNIVERSITARIO
         <articolato>
             <articolo id="art1">
                 <num>ART. 1</num>
-                <rubrica>: FINALITè 
+                <rubrica>: Finalità 
  </rubrica>
                 <comma id="art1-com1">
                     <num>
@@ -57,7 +57,7 @@ Titolo I: NORME PER L'ATTUAZIONE DEL DIRITTO ALLO STUDIO UNIVERSITARIO
                     <num>
  
 2.</num>
-                    <corpo> Nel rispetto del pluralismo delle competenze istituzionali e nell'ambito della programmazione nazionale e dei relativi strumenti attuativi la Regione persegue le finalitè di cui al comma precedente in collaborazione con l'Universitè, e con soggetti pubblici e privati. 
+                    <corpo> Nel rispetto del pluralismo delle competenze istituzionali e nell'ambito della programmazione nazionale e dei relativi strumenti attuativi la Regione persegue le finalità di cui al comma precedente in collaborazione con l'Universitè, e con soggetti pubblici e privati. 
  
 </corpo>
                 </comma>
@@ -406,7 +406,7 @@ Gli interventi possono essere realizzati anche mediante convenzioni con altri so
  
 2.</num>
 
-                    <corpo> Per il conseguimento delle finalitè di cui al <rif xlink:href="#art10-com1">comma 1</rif>, l'ESU si avvale della collaborazione della Regione, dell'Universitè e di istituzioni ed enti specializzati. 
+                    <corpo> Per il conseguimento delle finalità di cui al <rif xlink:href="#art10-com1">comma 1</rif>, l'ESU si avvale della collaborazione della Regione, dell'Universitè e di istituzioni ed enti specializzati. 
  
 </corpo>
                 </comma>
@@ -936,7 +936,7 @@ c)</num>
                     <num>
  
 2.</num>
-                    <corpo> Il piano si conforma agli obiettivi, agli indirizzi e alle prioritè della programmazione nazionale per lo sviluppo universitario ed attua gli indirizzi e le finalitè del piano regionale di sviluppo. </corpo>
+                    <corpo> Il piano si conforma agli obiettivi, agli indirizzi e alle prioritè della programmazione nazionale per lo sviluppo universitario ed attua gli indirizzi e le finalità del piano regionale di sviluppo. </corpo>
                 </comma>
                 <comma id="art27-com3">
                     <num>
@@ -1164,30 +1164,30 @@ f)</num>
             </articolo>
             <articolo id="art32">
                 <num>ART. 32</num>
-                <rubrica>: INDENNITè 
+                <rubrica>: indennità 
  </rubrica>
                 <comma id="art32-com1">
                     <num>
 1.</num>
-                    <corpo> Ai componenti del Consiglio di Amministrazione e del Collegio dei Revisori dei Conti compete un'indennitè di presenza per ogni giornata di effettiva partecipazione alle sedute pari a quella stabilita dalle disposizioni vigenti per i membri elettivi degli organi regionali di controllo sugli Enti locali. </corpo>
+                    <corpo> Ai componenti del Consiglio di Amministrazione e del Collegio dei Revisori dei Conti compete un'indennità di presenza per ogni giornata di effettiva partecipazione alle sedute pari a quella stabilita dalle disposizioni vigenti per i membri elettivi degli organi regionali di controllo sugli Enti locali. </corpo>
                 </comma>
                 <comma id="art32-com2">
                     <num>
  
 2.</num>
-                    <corpo> In aggiunta a quanto stabilito al comma precedente spetta al Presidente, commissario straordinario, consiglieri, revisori dei conti, un indennizzo a copertura delle spese di viaggio dal luogo di residenza alla sede dell'Ente, nonchè l'indennitè di missione da liquidarsi secondo quanto previsto dalla normativa statale. </corpo>
+                    <corpo> In aggiunta a quanto stabilito al comma precedente spetta al Presidente, commissario straordinario, consiglieri, revisori dei conti, un indennizzo a copertura delle spese di viaggio dal luogo di residenza alla sede dell'Ente, nonchè l'indennità di missione da liquidarsi secondo quanto previsto dalla normativa statale. </corpo>
                 </comma>
                 <comma id="art32-com3">
                     <num>
  
 3.</num>
-                    <corpo> Al Presidente viene corrisposta, inoltre, un'indennitè di carica nella misura di Lit. 1.000.000 lorde mensili. </corpo>
+                    <corpo> Al Presidente viene corrisposta, inoltre, un'indennità di carica nella misura di Lit. 1.000.000 lorde mensili. </corpo>
                 </comma>
                 <comma id="art32-com4">
                     <num>
  
 4.</num>
-                    <corpo> Al Presidente del Collegio dei Revisori viene corrisposta un'indennitè di carica di Lit. 1.000.000. corrisposta un'indennitè di carica di Lit. 1.000.000 mensile lorde. 
+                    <corpo> Al Presidente del Collegio dei Revisori viene corrisposta un'indennità di carica di Lit. 1.000.000. corrisposta un'indennità di carica di Lit. 1.000.000 mensile lorde. 
  
 </corpo>
                 </comma>

@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="17.lavori pubblici e acquedotti"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19860216" fonte="rp1" id="t1" tipo="modifica"/><evento data="19770115" fonte="rp2" id="t2" tipo="modifica"/><evento data="19750302" fonte="rp3" id="t3" tipo="modifica"/><evento data="19790731" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1986;04" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1976;41" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:1975;17" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:1979;19" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19860216" fonte="rp1" id="t1" tipo="modifica"/><evento data="19770115" fonte="rp2" id="t2" tipo="modifica"/><evento data="19750302" fonte="rp3" id="t3" tipo="modifica"/><evento data="19790731" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1986;04" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1976;41" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:1975;17" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:1979;19" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 17.Lavori pubblici e acquedotti 
  
 Bollettino 
@@ -49,7 +49,7 @@ Modificato art. 10 dalla legge n. 17/1975 art. 2
                     <corpo>
 Per la esecuzione delle opere pubbliche indicate nel <rif
                             xlink:href="#art2">successivo articolo 2</rif> di interesse delle Province, dei Comuni e loro consorzi, delle Comunitè Montane, delle istituzioni pubbliche di   assistenza e loro consorzi anche se non previste dalla <rif
-                            xlink:href="urn:nir:stato:legge:1890-07-17;697">legge 17 luglio 1890, n.697</rif> 2 e successive modificazioni, nonchè di altri Enti senza finalitè di lucro, la Regione, per le materie trasferite ai sensi dell'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1972-01-15;8#art2">articolo 2 del D.P.R. 15 gennaio 1972, n.8</rif>, concede contributi annui costanti ovvero contributi in conto capitale sulla spesa riconosciuta ammissibile. </corpo>
+                            xlink:href="urn:nir:stato:legge:1890-07-17;697">legge 17 luglio 1890, n.697</rif> 2 e successive modificazioni, nonchè di altri Enti senza finalità di lucro, la Regione, per le materie trasferite ai sensi dell'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1972-01-15;8#art2">articolo 2 del D.P.R. 15 gennaio 1972, n.8</rif>, concede contributi annui costanti ovvero contributi in conto capitale sulla spesa riconosciuta ammissibile. </corpo>
                 </comma>
                 <comma id="art1-com2">
                     <num/>
@@ -79,7 +79,7 @@ Le opere ammissibili a contributo sono le seguenti:
 
                     <corpo>b) costruzione, completamento, ampliamento e sistemazione degli acquedotti; 
  
-c) costruzione, completamento, ampliamento, sistemazione e miglioramento degli edifici destinati a ospedali, convalescienziari, luoghi di cura, ambulatori, nonchè di edifici destinati   all'assistenza della prima infanzia, al ricovero degli invalidi e vecchi indigenti ed in genere a finalitè di assistenza e beneficenza pubblica; 
+c) costruzione, completamento, ampliamento, sistemazione e miglioramento degli edifici destinati a ospedali, convalescienziari, luoghi di cura, ambulatori, nonchè di edifici destinati   all'assistenza della prima infanzia, al ricovero degli invalidi e vecchi indigenti ed in genere a finalità di assistenza e beneficenza pubblica; 
  
 d) costruzione, completamento, ampliamento, adattamento e riattamento, miglioramento ed arredamento principale di edifici, comprese le palestre e gli impianti sportivi, destinati alle scuole   materne, elementari, secondarie ed artistiche; 
  

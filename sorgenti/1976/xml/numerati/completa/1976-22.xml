@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="06.consiglieri regionali e gruppi consiliari"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19880501" fonte="rp1" id="t1" tipo="modifica"/><evento data="19970615" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1988;10" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1997;16" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19880501" fonte="rp1" id="t1" tipo="modifica"/><evento data="19970615" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1988;10" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1997;16" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 06.Consiglieri regionali e gruppi consiliari 
  
 Bollettino 
@@ -106,7 +106,7 @@ A decorrere dal 21 giugno 1975 la misura del rimborso, previsto dall'<rif xlink:
 
                 <rubrica>
  
-A decorrere dal 21 giugno 1975 la quota contributiva obbligatoria in favore della &lt;&lt;Cassa di previdenza per i Consiglieri Regionali&gt;&gt;, di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1974-09-05;16#art4-com1">art. 4, I comma della legge regionale 5 settembre 1974, n. 16</rif>, è fissata nella misura del 15% dell'indennitè di carica lorda spettante al Consigliere Regionale. 
+A decorrere dal 21 giugno 1975 la quota contributiva obbligatoria in favore della &lt;&lt;Cassa di previdenza per i Consiglieri Regionali&gt;&gt;, di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1974-09-05;16#art4-com1">art. 4, I comma della legge regionale 5 settembre 1974, n. 16</rif>, è fissata nella misura del 15% dell'indennità di carica lorda spettante al Consigliere Regionale. 
  
 A decorrere dalla stessa data è istituito, a carico dei titolari di assegni vitalizi diretti e di reversibilitè ed in favore della Cassa di Previdenza per i Consiglieri Regionali, un onere contributivo pari al 5% dell'assegno vitalizio medesimo. Tale onere viene mensilmente detratto d'ufficio dall'assegno vitalizio e versato direttamente alla Cassa. 
  
@@ -121,7 +121,7 @@ A decorrere dalla stessa data è istituito, a carico dei titolari di assegni vita
 
                 <rubrica>
  
-A decorrere dal 21 giugno 1975 la quota contributiva obbligatoria in favore del &lt;&lt;Fondo di solidarietè fra i Consiglieri della Regione Molise&gt;&gt;, di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1974-09-05;16#art27-com2">art. 27, II comma della legge regionale 5 settembre 1974, n. 16</rif>, è fissata nella misura del 6% dell'indennitè di carica lorda spettante al Consigliere Regionale. 
+A decorrere dal 21 giugno 1975 la quota contributiva obbligatoria in favore del &lt;&lt;Fondo di solidarietè fra i Consiglieri della Regione Molise&gt;&gt;, di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1974-09-05;16#art27-com2">art. 27, II comma della legge regionale 5 settembre 1974, n. 16</rif>, è fissata nella misura del 6% dell'indennità di carica lorda spettante al Consigliere Regionale. 
  
 </rubrica><?error Marker Warning 109?>
                 <comma id="art5-com1">
@@ -151,7 +151,7 @@ a) i Consiglieri cessati dal mandato, con almeno 5 anni di contribuzione e 60 an
  
 Il <rif xlink:href="urn:nir:regione.molise:legge:1972-10-13;8#art2-com3">3è comma dell'art. 2 della legge regionale 13 ottobre 1972, n. 8</rif> è sostituito dal seguente: 
  
-&lt;&lt;è inoltre corrisposta un'indennitè di lire 24.000 per le missioni nel territorio nazionale e di lire 40.000 per le missioni all'estero, per ogni 24 ore di assenza dalla sede, nonchè per l'eccedente periodo non inferiore ad 8 oreè. 
+&lt;&lt;è inoltre corrisposta un'indennità di lire 24.000 per le missioni nel territorio nazionale e di lire 40.000 per le missioni all'estero, per ogni 24 ore di assenza dalla sede, nonchè per l'eccedente periodo non inferiore ad 8 oreè. 
  
 </rubrica><?error Marker Warning 109?>
                 <comma id="art7-com1">

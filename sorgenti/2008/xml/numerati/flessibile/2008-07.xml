@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20080527" fonte="rp1" id="t1" tipo="modifica"/><evento data="20100210" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2008;12" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2010;03" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20080527" fonte="rp1" id="t1" tipo="modifica"/><evento data="20100210" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2008;12" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2010;03" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
  
 Bollettino 
@@ -43,7 +43,7 @@ Modificato art. 2 dalla legge n. 3/2010 art. 20
                 <num>Art. 1. </num>
                 <rubrica>
  
-(Finalitè) 
+(Finalità) 
  </rubrica>
                 <comma id="art1-com1">
                     <num>

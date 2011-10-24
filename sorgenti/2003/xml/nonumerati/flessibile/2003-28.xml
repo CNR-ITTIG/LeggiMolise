@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2009;27" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;27" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -59,7 +59,7 @@ Modificato art. 12 dalla legge n. 27/2009 art. 9
                 <comma id="art1-com1">
                     <num/>
 
-                    <corpo>1. La Societè per Azioni, denominata: "Finanziaria regionale per lo sviluppo del Molise", in forma abbreviata: "FINMOLISE - S.p.A.", costituita ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:1979-03-24;11">legge regionale 24 marzo 1979 n. 11</rif>, è disciplinata, quanto alle sue finalitè e funzioni, dalla presente legge. </corpo>
+                    <corpo>1. La Societè per Azioni, denominata: "Finanziaria regionale per lo sviluppo del Molise", in forma abbreviata: "FINMOLISE - S.p.A.", costituita ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:1979-03-24;11">legge regionale 24 marzo 1979 n. 11</rif>, è disciplinata, quanto alle sue finalità e funzioni, dalla presente legge. </corpo>
                 </comma>
                 <comma id="art1-com2">
                     <num/>
@@ -74,7 +74,7 @@ Modificato art. 12 dalla legge n. 27/2009 art. 9
                 <num>Art. 2 </num>
                 <rubrica>
  
-(Finalitè) 
+(Finalità) 
  
 </rubrica>
                 <comma id="art2-com1">
@@ -83,7 +83,7 @@ Modificato art. 12 dalla legge n. 27/2009 art. 9
                 </comma>
                 <comma id="art2-com2">
                     <num/>
-                    <corpo>Tali finalitè vengono perseguite con forme di intervento tendenti a favorire la nascita, l'espansione, l'ammodernamento, l'innovazione tecnologica e finanziaria, la commercializzazione, la riconversione o ristrutturazione produttiva, l'internazionalizzazione, il consolidamento economico e finanziario, l'accesso al mercato dei capitali nazionali ed esteri, la cooperazione e l'integrazione con imprese e gruppi imprenditoriali anche esteri, nonchè joint-venture anche all'estero, purchè relative ad attivitè che, per indotto, possano risultare utili allo sviluppo regionale. Detti interventi possono essere diretti in favore di iniziative di qualsiasi settore produttivo, riconducibili ad imprese con sede operativa e legale nella Regione Molise, nonchè in favore di attivitè tendenti a potenziare lo sviluppo del lavoro autonomo e della libera professione esercitati nella regione. </corpo>
+                    <corpo>Tali finalità vengono perseguite con forme di intervento tendenti a favorire la nascita, l'espansione, l'ammodernamento, l'innovazione tecnologica e finanziaria, la commercializzazione, la riconversione o ristrutturazione produttiva, l'internazionalizzazione, il consolidamento economico e finanziario, l'accesso al mercato dei capitali nazionali ed esteri, la cooperazione e l'integrazione con imprese e gruppi imprenditoriali anche esteri, nonchè joint-venture anche all'estero, purchè relative ad attivitè che, per indotto, possano risultare utili allo sviluppo regionale. Detti interventi possono essere diretti in favore di iniziative di qualsiasi settore produttivo, riconducibili ad imprese con sede operativa e legale nella Regione Molise, nonchè in favore di attivitè tendenti a potenziare lo sviluppo del lavoro autonomo e della libera professione esercitati nella regione. </corpo>
                 </comma>
             </articolo>
             <articolo id="art3">
@@ -95,7 +95,7 @@ Modificato art. 12 dalla legge n. 27/2009 art. 9
 </rubrica>
                 <comma id="art3-com1">
                     <num/>
-                    <corpo>La "FINMOLISE - S.p.A." opera, ispirandosi a principi di efficienza, efficacia ed economicitè gestionali, adottando i modelli organizzativi più adeguati alle sue finalitè istituzionali ed imprenditoriali. </corpo>
+                    <corpo>La "FINMOLISE - S.p.A." opera, ispirandosi a principi di efficienza, efficacia ed economicitè gestionali, adottando i modelli organizzativi più adeguati alle sue finalità istituzionali ed imprenditoriali. </corpo>
                 </comma>
                 <comma id="art3-com2">
                     <num/>
@@ -116,7 +116,7 @@ Modificato art. 12 dalla legge n. 27/2009 art. 9
                 <comma id="art4-com1">
                     <num/>
 
-                    <alinea>La "FINMOLISE - S.p.A.",  pone in essere tutte le iniziative e le attivitè necessarie per il perseguimento delle finalitè di cui all'<rif xlink:href="#art2">art. 2</rif> della presente legge, tra le quali: 
+                    <alinea>La "FINMOLISE - S.p.A.",  pone in essere tutte le iniziative e le attivitè necessarie per il perseguimento delle finalità di cui all'<rif xlink:href="#art2">art. 2</rif> della presente legge, tra le quali: 
  
 </alinea>
                     <el id="art4-com1-leta">
@@ -239,7 +239,7 @@ Modificato art. 12 dalla legge n. 27/2009 art. 9
 
                         <corpo>  la ricerca di nuovi partner imprenditoriali per le imprese regionali. 
  
-2.   La "FINMOLISE - S.p.A.", puè svolgere anche altre attivitè non rientranti in quelle esemplificativamente indicate nel comma precedente purchè strumentali al perseguimento delle finalitè di cui all'<rif
+2.   La "FINMOLISE - S.p.A.", puè svolgere anche altre attivitè non rientranti in quelle esemplificativamente indicate nel comma precedente purchè strumentali al perseguimento delle finalità di cui all'<rif
                                 xlink:href="#art2">articolo 2</rif>. 
  
 3.  Gli interventi di cui al <rif
@@ -485,11 +485,11 @@ Il Collegio sindacale si compone di tre membri effettivi e di due membri supplen
  
 (Compensi agli amministratori) 
  
-Ai componenti del Consiglio di amministrazione del-la "FINMOLISE - S.p.A." è dovuta un'indennitè di carica non superiore al 30% di quella stabilita, ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:2000-08-18;267#art82">art. 82 del decreto legislativo 18 agosto 2000 n. 267</rif>, per i sindaci dei comuni di dimensione demografica pari a quella della Regione Molise. Per il Presidente del Consiglio di amministrazione tale indennitè è pari al doppio di quella prevista per gli amministratori. </corpo>
+Ai componenti del Consiglio di amministrazione del-la "FINMOLISE - S.p.A." è dovuta un'indennità di carica non superiore al 30% di quella stabilita, ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:2000-08-18;267#art82">art. 82 del decreto legislativo 18 agosto 2000 n. 267</rif>, per i sindaci dei comuni di dimensione demografica pari a quella della Regione Molise. Per il Presidente del Consiglio di amministrazione tale indennità è pari al doppio di quella prevista per gli amministratori. </corpo>
                 </comma>
                 <comma id="art10-com10">
                     <num/>
-                    <corpo>Per ogni assenza che non siè dovuta a grave, motivato e comprovato impedimento od impegno istituzionale, l'indennitè di cui al comma precedente è ridotta in maniera proporzionale al numero delle sedute del mese. </corpo>
+                    <corpo>Per ogni assenza che non siè dovuta a grave, motivato e comprovato impedimento od impegno istituzionale, l'indennità di cui al comma precedente è ridotta in maniera proporzionale al numero delle sedute del mese. </corpo>
                 </comma>
                 <comma id="art10-com11">
                     <num/>

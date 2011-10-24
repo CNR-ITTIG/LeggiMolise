@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="04.assistenza sociale, volontariato"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2009;03" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;03" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 04.Assistenza sociale, volontariato 
  
 Bollettino 
@@ -45,7 +45,7 @@ Modificato art. 6 dalla legge n. 3/2009 art. 4
                 <num>Art.1 </num>
                 <rubrica>
  
-(Finalitè)  
+(Finalità)  
  
 </rubrica>
                 <comma id="art1-com1">
@@ -265,7 +265,7 @@ d) l'obbligo di documentazione dell'intervento svolto.
  
 2. Gli accordi possono prevedere la predisposizione di appositi sistemi informativi a base telematica o informatica per l'utilizzo delle banche dati regionali. 
  
-3. Per le finalitè di cui ai commi precedenti le Societè Operaie - Societè Operaie di Mutuo Soccorso si avvarranno della struttura di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1999-01-27;3">Legge Regionale n. 3 del 27 gennaio 1999</rif>.</corpo>
+3. Per le finalità di cui ai commi precedenti le Societè Operaie - Societè Operaie di Mutuo Soccorso si avvarranno della struttura di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1999-01-27;3">Legge Regionale n. 3 del 27 gennaio 1999</rif>.</corpo>
                 </comma>
             </articolo>
             <articolo id="art9">

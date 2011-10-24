@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19910816" fonte="rp1" id="t1" tipo="modifica"/><evento data="20090701" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1991;13" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1997;11" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19910816" fonte="rp1" id="t1" tipo="modifica"/><evento data="20090701" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1991;13" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1997;11" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
  
 Bollettino 
@@ -420,13 +420,13 @@ d)</num>
                         <num> 
  
 e)</num>
-                        <corpo> indennitè di avviamento e di rilievo degli arredi, medicinali, provviste e dotazioni;</corpo>
+                        <corpo> indennità di avviamento e di rilievo degli arredi, medicinali, provviste e dotazioni;</corpo>
                     </el>
                     <el id="art12-com4-letf">
                         <num> 
  
 f)</num>
-                        <corpo> erogazione dell'indennitè di residenza ai farmacisti rurali;</corpo>
+                        <corpo> erogazione dell'indennità di residenza ai farmacisti rurali;</corpo>
                     </el>
                     <el id="art12-com4-letg">
                         <num> 
@@ -650,7 +650,7 @@ La vendita o cessione a qualsiasi titolo di sostanze stupefacenti o psicotrope, 
                 <comma id="art21-com1">
                     <num/>
                     <corpo> 
-L'Unitè Locale puè avvalersi della collaborazione delle farmacie comunali e di quelle private per la realizzazione di programmi di medicina preventiva, di informazione e di educazione sanitaria e per le valutazioni di ordine statistico-epidemiologico in materia sanitaria, nonchè per ogni altra finalitè come indicato nella convenzione nazionale. </corpo>
+L'Unitè Locale puè avvalersi della collaborazione delle farmacie comunali e di quelle private per la realizzazione di programmi di medicina preventiva, di informazione e di educazione sanitaria e per le valutazioni di ordine statistico-epidemiologico in materia sanitaria, nonchè per ogni altra finalità come indicato nella convenzione nazionale. </corpo>
                 </comma>
             </articolo>
             <articolo id="art22">

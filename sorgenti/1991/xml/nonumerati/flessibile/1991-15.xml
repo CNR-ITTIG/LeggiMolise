@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/><evento data="20100416" fonte="rp2" id="t2" tipo="modifica"/><evento data="20100916" fonte="rp3" id="t3" tipo="modifica"/><evento data="20051016" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2009;15" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2010;10" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2010;16" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:1997;07" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/><evento data="20100416" fonte="rp2" id="t2" tipo="modifica"/><evento data="20100916" fonte="rp3" id="t3" tipo="modifica"/><evento data="20051016" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;15" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2010;10" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2010;16" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:1997;07" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -73,7 +73,7 @@ Capo I: NORME INTEGRATIVE E COMPLEMENTARI ALLA LEGGE REGIONALE &lt;&lt;STATO GIU
  
 2. La gestione di tali servizi puè essere affidata ad   organismi formati, a maggioranza, da rappresentanti della Amministrazione ed è sottoposta alla vigilanza di un comitato interno formato, a maggioranza, da rappresentanti dell'amministrazione con la partecipazione di rappresentanti dei dipendenti. 
  
-3. Per il raggiungimento delle finalitè di cui al <rif xlink:href="#art2-com1">precedente comma 1</rif>, la Regione puè,   compatibilmente con le proprie necessarie e prioritarie esigenze operative, mettere a   disposizione degli organismi di cui al comma 2,  nonchè di eventuali associazioni fra i dipendenti   all'uopo costituite, adeguati locali che, in quanto utilizzati per scopi istituzionali, sono esenti da   canoni. 
+3. Per il raggiungimento delle finalità di cui al <rif xlink:href="#art2-com1">precedente comma 1</rif>, la Regione puè,   compatibilmente con le proprie necessarie e prioritarie esigenze operative, mettere a   disposizione degli organismi di cui al comma 2,  nonchè di eventuali associazioni fra i dipendenti   all'uopo costituite, adeguati locali che, in quanto utilizzati per scopi istituzionali, sono esenti da   canoni. 
  
 4. La Regione iscrive negli appositi capitoli degli stati di previsione le spese per la manutenzione   ordinaria dei locali messi a disposizione. 
  

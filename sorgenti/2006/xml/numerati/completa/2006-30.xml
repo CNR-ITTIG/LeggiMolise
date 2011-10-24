@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20090131" fonte="rp1" id="t1" tipo="modifica"/><evento data="20070524" fonte="rp2" id="t2" tipo="modifica"/><evento data="20080527" fonte="rp3" id="t3" tipo="modifica"/><evento data="20080527" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2009;01" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2007;14" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2008;12" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:2008;13" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20090131" fonte="rp1" id="t1" tipo="modifica"/><evento data="20070524" fonte="rp2" id="t2" tipo="modifica"/><evento data="20080527" fonte="rp3" id="t3" tipo="modifica"/><evento data="20080527" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;01" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2008;12" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2008;13" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
  
 Bollettino 
@@ -54,7 +54,7 @@ Modificato art. 17 dalla legge n. 12/2008 art. 20
                 <num>Art. 1 </num>
                 <rubrica>
  
-Finalitè 
+Finalità 
  </rubrica>
                 <comma id="art1-com1">
                     <num>
@@ -596,7 +596,7 @@ Disciplina organica in materia di riordino del sistema Associazioni allevatori d
 <rif
                                 xlink:href="#art1">Art. 1</rif> 
  
-Finalitè 
+Finalità 
  
 1. La Regione Molise, nell'ambito delle politiche agricole di sviluppo rurale, con la presente legge incentiva il potenziamento dei servizi specialistici alle aziende zootecniche attraverso il riordino del sistema delle Associazioni Allevatori del Molise ed il sostegno delle attivitè connesse al miglioramento genetico del patrimonio zootecnico regionale. 
  
@@ -724,13 +724,13 @@ Altri interventi
 1. La Giunta regionale, nei limiti dello stanziamento di bilancio, puè finanziare i programmi e gli interventi di cui all'<rif
                             xlink:href="#art3-com2">articolo 3, comma 2</rif>, con i seguenti massimali di contributi rapportati alla spesa ammissibile: 
  
-a) 70 per cento per la finalitè di cui all'<rif
+a) 70 per cento per la finalità di cui all'<rif
                             xlink:href="#art3-com2">articolo 3, comma 2</rif>, lettere a) ed h); 
  
-b) 40 per cento e, riguardo alle zone svantaggiate, 50 per cento, per le finalitè di cui all'<rif
+b) 40 per cento e, riguardo alle zone svantaggiate, 50 per cento, per le finalità di cui all'<rif
                             xlink:href="#art3-com2-letb">articolo 3, comma 2, lettera b)</rif>. Quando gli interventi di che trattasi sono effettuati da giovani agricoltori entro cinque dall'insediamento, tali massimali sono rispettivamente elevati al 45 per cento ed al 55 per cento; 
  
-c) 100 per cento per le finalitè di cui all'<rif
+c) 100 per cento per le finalità di cui all'<rif
                             xlink:href="#art3-com2">articolo 3, comma 2</rif>, lettere c), d), e), f), g) ed i). 
  
 <rif

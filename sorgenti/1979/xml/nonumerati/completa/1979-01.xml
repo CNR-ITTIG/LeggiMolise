@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19790131" fonte="rp1" id="t1" tipo="modifica"/><evento data="19980829" fonte="rp2" id="t2" tipo="modifica"/><evento data="20051025" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1979;02" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1998;13" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2005;33" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19790131" fonte="rp1" id="t1" tipo="modifica"/><evento data="19980829" fonte="rp2" id="t2" tipo="modifica"/><evento data="20051025" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1979;02" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1998;13" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2005;33" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -660,17 +660,17 @@ La sede centrale dell'Istituto Zooprofilattico e le Sezioni provinciali possono 
                 </comma>
                 <comma id="art6-com50">
                     <num/>
-                    <corpo>Art. 24: Indennitè ai componenti degli organi dell'Ente 
+                    <corpo>Art. 24: indennità ai componenti degli organi dell'Ente 
  
 Ai componenti del Consiglio di Amministrazione e del Comitato Tecnico-Scientifico, che non siano dipendenti dell'Istituto e delle Regioni interessate, per ogni giornata di partecipazione alle sedute, spetta un gettone di presenza di L. 15.000. </corpo>
                 </comma>
                 <comma id="art6-com51">
                     <num/>
-                    <corpo>Al Presidente del Consiglio e della Giunta esecutiva spetta un'indennitè di funzione di L. 200.000 mensili. </corpo>
+                    <corpo>Al Presidente del Consiglio e della Giunta esecutiva spetta un'indennità di funzione di L. 200.000 mensili. </corpo>
                 </comma>
                 <comma id="art6-com52">
                     <num/>
-                    <corpo>Ai componenti della Giunta esecutiva spetta un'indennitè di funzione di L. 90.000 mensili. </corpo>
+                    <corpo>Ai componenti della Giunta esecutiva spetta un'indennità di funzione di L. 90.000 mensili. </corpo>
                 </comma>
                 <comma id="art6-com53">
                     <num/>
@@ -679,11 +679,11 @@ Ai componenti del Consiglio di Amministrazione e del Comitato Tecnico-Scientific
                 <comma id="art6-com54">
                     <num/>
 
-                    <corpo>Le indennitè di cui al secondo, terzo e <rif xlink:href="#art6-com4">quarto comma</rif> non sono cumulabili con il gettone di presenza. </corpo>
+                    <corpo>Le indennità di cui al secondo, terzo e <rif xlink:href="#art6-com4">quarto comma</rif> non sono cumulabili con il gettone di presenza. </corpo>
                 </comma>
                 <comma id="art6-com55">
                     <num/>
-                    <corpo>Ai membri del Consiglio di Amministrazione della Giunta esecutiva, del Comitato Tecnico-Scientifico ed ai componenti del Collegio sindacale, spetta, altresè, oltre il rimborso delle spese di viaggio, l'indennitè di missione, in quanto dovuta, nella misura e con le modalitè previste dalla vigente normativa statale. </corpo>
+                    <corpo>Ai membri del Consiglio di Amministrazione della Giunta esecutiva, del Comitato Tecnico-Scientifico ed ai componenti del Collegio sindacale, spetta, altresè, oltre il rimborso delle spese di viaggio, l'indennità di missione, in quanto dovuta, nella misura e con le modalitè previste dalla vigente normativa statale. </corpo>
                 </comma>
                 <comma id="art6-com56">
                     <num/>
@@ -759,9 +759,9 @@ Il Comitato di vigilanza esercita il controllo sulla gestione economico-finanzia
                 </comma>
                 <comma id="art6-com72">
                     <num/>
-                    <corpo>Art. 27: Indennitè ai componenti del Comitato di Vigilanza 
+                    <corpo>Art. 27: indennità ai componenti del Comitato di Vigilanza 
  
-Ai componenti elettivi del Comitato di vigilanza spetta un gettone di presenza di L. 15.000 per ogni giorno di partecipazione alle sedute nonchè, oltre al rimborso delle spese di viaggio, indennitè di missione in quanto dovuta, nella misura e con le modalitè previste dalla vigente normativa statale. </corpo>
+Ai componenti elettivi del Comitato di vigilanza spetta un gettone di presenza di L. 15.000 per ogni giorno di partecipazione alle sedute nonchè, oltre al rimborso delle spese di viaggio, indennità di missione in quanto dovuta, nella misura e con le modalitè previste dalla vigente normativa statale. </corpo>
                 </comma>
                 <comma id="art6-com73">
                     <num/>

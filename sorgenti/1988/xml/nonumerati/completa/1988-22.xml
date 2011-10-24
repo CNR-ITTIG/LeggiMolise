@@ -39,7 +39,7 @@ Modifiche
         <articolato>
             <articolo id="art1">
                 <num>ART. 1</num>
-                <rubrica>: FINALITè 
+                <rubrica>: Finalità 
 </rubrica>
                 <comma id="art1-com1">
                     <num/>
@@ -53,7 +53,7 @@ La Regione Molise in armonia con lo <rif
                 </comma>
                 <comma id="art1-com3">
                     <num/>
-                    <alinea><?error Marker Warning 108?>I S.S.A. hanno le seguenti finalitè: 
+                    <alinea><?error Marker Warning 108?>I S.S.A. hanno le seguenti finalità: 
  
 1) esercitare le attivitè di assistenza tecnica specializzata e polivalente; 
  
@@ -216,12 +216,12 @@ Il Comitato resta in carica 5 anni ed è composto da:
                 <comma id="art4-com6">
                     <num/>
 
-                    <corpo>Ai componenti il Comitato Tecnico-Scientifico, dipendenti dell'Amministrazione Regionale e dell'E.R.S.A.M., spettano il rimborso delle spese di viaggio e l'indennitè di trasferta - se dovuta- nella misura prevista dall'<rif xlink:href="urn:nir:regione.molise:legge:1981-06-08;11#art1">art. 1 della legge regionale 8 giugno 1981, n. 11</rif> e successive modificazioni. </corpo>
+                    <corpo>Ai componenti il Comitato Tecnico-Scientifico, dipendenti dell'Amministrazione Regionale e dell'E.R.S.A.M., spettano il rimborso delle spese di viaggio e l'indennità di trasferta - se dovuta- nella misura prevista dall'<rif xlink:href="urn:nir:regione.molise:legge:1981-06-08;11#art1">art. 1 della legge regionale 8 giugno 1981, n. 11</rif> e successive modificazioni. </corpo>
                 </comma>
                 <comma id="art4-com7">
                     <num/>
 
-                    <corpo>Ai componenti esterni sia all'Amministrazione Regionale che all'E.R.S.A.M., spetta inoltre per ogni giornata di seduta, un'indennitè pari a quella prevista dall'<rif xlink:href="urn:nir:regione.molise:legge:1983-03-01;7#art1">art. 1 della legge regionale 1 marzo 1983, n. 7</rif> e successive modificazioni. </corpo>
+                    <corpo>Ai componenti esterni sia all'Amministrazione Regionale che all'E.R.S.A.M., spetta inoltre per ogni giornata di seduta, un'indennità pari a quella prevista dall'<rif xlink:href="urn:nir:regione.molise:legge:1983-03-01;7#art1">art. 1 della legge regionale 1 marzo 1983, n. 7</rif> e successive modificazioni. </corpo>
                 </comma>
             </articolo>
             <articolo id="art5">
@@ -284,7 +284,7 @@ La consulenza alla gestione aziendale e realizzata, secondo quanto previsto nel 
                     <alinea> 
 I Gruppi di Base devono: 
  
-- essere costituiti in Societè Semplice, secondo quanto previsto dal <rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262">Codice Civile</rif>, per le sole finalitè di cui alla presente legge, previo riconoscimento da parte della Giunta Regionale espresso su parere dell'E.R.S.</alinea>
+- essere costituiti in Societè Semplice, secondo quanto previsto dal <rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262">Codice Civile</rif>, per le sole finalità di cui alla presente legge, previo riconoscimento da parte della Giunta Regionale espresso su parere dell'E.R.S.</alinea>
                     <el id="art7-com1-leta">
                         <num>A.</num>
 

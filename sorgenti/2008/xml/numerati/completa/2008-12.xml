@@ -9,10 +9,10 @@
                 <redazione id="red1" nome="" norm=""/>
                 <urn valore="urn:nir:regione.molise:legge:2008-05-09;12"/>
                 <materie vocabolario="Regione Molise">
-                    <materia valore="07.contabilit&amp;#xe0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
+                    <materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20090131" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2009;01" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+            </descrittori><ciclodivita><eventi><evento data="20090131" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;01" xlink:type="simple"/></relazioni></ciclodivita>
+        </meta><?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N.10  del 12 maggio 2008 
@@ -98,7 +98,7 @@ Acquisizione o costruzione della sede regionale
 1.</num>
 
                     <corpo> è autorizzato l'utilizzo di quota parte dell'importo di euro 86.773.974,49 rinveniente dall'emissione del prestito obbligazionario di cui alla <rif
-                            xlink:href="urn:nir:regione.molise:legge:2006-04-12;4">legge regionale 12 aprile 2006, n. 4</rif>, per la somma e le finalitè di cui al presente articolo, <rif
+                            xlink:href="urn:nir:regione.molise:legge:2006-04-12;4">legge regionale 12 aprile 2006, n. 4</rif>, per la somma e le finalità di cui al presente articolo, <rif
                             xlink:href="#art3-com2">comma 2</rif>, nonchè per quelle di cui all'<rif xlink:href="#art6">articolo 6</rif>, commi 8, 9, 10 ed 11, e rientranti nell'ambito delle disposizioni legislative vigenti.  </corpo>
                 </comma>
                 <comma id="art3-com2">
@@ -518,7 +518,7 @@ b)</num>
                                     <num>
  
 2-quinquies.</num>
-                                    <corpo> è fatto divieto, per l'anno 2008, di erogare anticipazioni ed acconti oltre il limite del 10 per cento ai beneficiari dei finanziamenti pubblici regionali di qualsiasi natura, calcolato sull'importo del finanziamento ad esclusione dei trasferimenti agli enti subregionali, all'APA ed al CO.RE.- DI.MO.. La limitazione non incide sulle erogazioni a fronte di stati di avanzamento per lavori e forniture e per la liquidazione a fronte di spese rendicontate. Qualora siano state fatte anticipazioni, le stesse devono essere utilizzate prima di ogni ulteriore accredito al medesimo beneficiario per la stessa finalitè. Nel caso di beneficiari privati l'erogazione puè avvenire esclusivamente previa presentazione di polizza fidejussoria a prima richiesta. A tal fine sono abrogate tutte le norme legislative, regolamentari ed amministrative regionali contrarie ed incompatibili con le presenti disposizioni. Non rientrano nella specifica limitazione le erogazioni di fondi comunitari 2000/2006 per le quali è certificabile la spesa e le erogazioni relative a bandi ed a procedure attuative in corso all'entrata in vigore della presente legge.  </corpo>
+                                    <corpo> è fatto divieto, per l'anno 2008, di erogare anticipazioni ed acconti oltre il limite del 10 per cento ai beneficiari dei finanziamenti pubblici regionali di qualsiasi natura, calcolato sull'importo del finanziamento ad esclusione dei trasferimenti agli enti subregionali, all'APA ed al CO.RE.- DI.MO.. La limitazione non incide sulle erogazioni a fronte di stati di avanzamento per lavori e forniture e per la liquidazione a fronte di spese rendicontate. Qualora siano state fatte anticipazioni, le stesse devono essere utilizzate prima di ogni ulteriore accredito al medesimo beneficiario per la stessa finalità. Nel caso di beneficiari privati l'erogazione puè avvenire esclusivamente previa presentazione di polizza fidejussoria a prima richiesta. A tal fine sono abrogate tutte le norme legislative, regolamentari ed amministrative regionali contrarie ed incompatibili con le presenti disposizioni. Non rientrano nella specifica limitazione le erogazioni di fondi comunitari 2000/2006 per le quali è certificabile la spesa e le erogazioni relative a bandi ed a procedure attuative in corso all'entrata in vigore della presente legge.  </corpo>
                                     </comma>
                                     <comma id="art15-com1-letb-mod9-vir22-com2sexies">
                                     <num>
@@ -581,7 +581,7 @@ b)</num>
                     <num>
  
 7.</num>
-                    <corpo> La Giunta regionale è delegata ad intervenire, entro tre mesi dall'entrata in vigore della presente legge, in materia di razionalizzazione ed omogeneizzazione dell'assetto delle indennitè, dei compensi e degli emolumenti spettanti a presidenti, commissari e componenti degli organi di amministrazione e di controllo di tutti gli enti, istituti ed agenzie regionali, sentite le Commissioni consiliari competenti, nonchè per il Difensore civico e per il Tutore dei minori.  </corpo>
+                    <corpo> La Giunta regionale è delegata ad intervenire, entro tre mesi dall'entrata in vigore della presente legge, in materia di razionalizzazione ed omogeneizzazione dell'assetto delle indennità, dei compensi e degli emolumenti spettanti a presidenti, commissari e componenti degli organi di amministrazione e di controllo di tutti gli enti, istituti ed agenzie regionali, sentite le Commissioni consiliari competenti, nonchè per il Difensore civico e per il Tutore dei minori.  </corpo>
                 </comma>
                 <comma id="art15-com8">
                     <num>
@@ -601,13 +601,13 @@ Disposizioni per la razionalizzazione dei costi della politica
                 <comma id="art16-com1">
                     <num>
 1.</num>
-                    <corpo> I contributi che i consiglieri regionali versano ai fini del trattamento vitalizio sono determinati nella misura del 16 per cento dell'indennitè di funzione percepita.  </corpo>
+                    <corpo> I contributi che i consiglieri regionali versano ai fini del trattamento vitalizio sono determinati nella misura del 16 per cento dell'indennità di funzione percepita.  </corpo>
                 </comma>
                 <comma id="art16-com2">
                     <num>
  
 2.</num>
-                    <corpo> I contributi che i consiglieri regionali versano ai fini del premio di reinserimento sono determinati nella misura del 6 per cento dell'indennitè di funzione percepita.  </corpo>
+                    <corpo> I contributi che i consiglieri regionali versano ai fini del premio di reinserimento sono determinati nella misura del 6 per cento dell'indennità di funzione percepita.  </corpo>
                 </comma>
                 <comma id="art16-com3">
                     <num>
@@ -644,7 +644,7 @@ Disposizioni per la razionalizzazione dei costi della politica
 7.</num>
 
                     <alinea> In caso di scadenza naturale della legislatura regionale e nei casi di indizione anticipata di nuove elezioni previsti dal <rif
-                            xlink:href="urn:nir:stato:legge.costituzionale:1999-11-22;1#art5-com2-letb">comma 2, lettera b), dell'articolo 5 della legge costituzionale 22 novembre 1999, n. 1</rif>, le indennitè di funzione e la diaria di cui agli articoli 2 e 3 della <rif xlink:href="urn:nir:regione.molise:legge:1997-05-28;16">legge regionale 28 maggio 1997, n. 16</rif>, sono corrisposte, con l'esclusione di ogni altra indennitè e di ogni altro rimborso:  
+                            xlink:href="urn:nir:stato:legge.costituzionale:1999-11-22;1#art5-com2-letb">comma 2, lettera b), dell'articolo 5 della legge costituzionale 22 novembre 1999, n. 1</rif>, le indennità di funzione e la diaria di cui agli articoli 2 e 3 della <rif xlink:href="urn:nir:regione.molise:legge:1997-05-28;16">legge regionale 28 maggio 1997, n. 16</rif>, sono corrisposte, con l'esclusione di ogni altra indennità e di ogni altro rimborso:  
  
 </alinea>
                     <el id="art16-com7-leta">
@@ -896,7 +896,7 @@ Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1993-08-10;19">legg
                                 id="art21-com1-mod21-vir40" tipo="struttura">
                                 <el id="art21-com1-mod21-vir40-lete">
                                     <num>a)</num>
-                                    <corpo>   nella misura del 43 per cento a favore degli ATC per le attivitè faunistico-venatorie nel rispetto delle finalitè previste dalla presente legge;</corpo>
+                                    <corpo>   nella misura del 43 per cento a favore degli ATC per le attivitè faunistico-venatorie nel rispetto delle finalità previste dalla presente legge;</corpo>
                                 </el>
                                 <el id="art21-com1-mod21-vir40-letb">
                                     <num> 

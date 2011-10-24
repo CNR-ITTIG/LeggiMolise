@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="34.trasporti e viabilit&amp;#xe0;, navigazione nelle acque interne"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20061020" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2006;37" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20061020" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2006;37" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 34.Trasporti e viabilit&#xE0;, navigazione nelle acque interne 
  
 Bollettino 
@@ -40,7 +40,7 @@ Modificato art. 4 dalla legge n. 37/2006 art. 1
         <articolato>
             <articolo id="art1">
                 <num>Art. 1</num>
-                <rubrica>: FINALITè 
+                <rubrica>: Finalità 
  </rubrica>
                 <comma id="art1-com1">
                     <num>
@@ -310,7 +310,7 @@ l) obbligo di informare tempestivamente la locale autorita di P.S., a norma dell
                     <num>
  
 3.</num>
-                    <corpo> Le Province, con delibera di Giunta, potranno introdurre ulteriori limiti, anche temporali, all'esercizio delle attivitè di cui alla presente legge, per finalitè di protezione dell'ambiente, della fauna e della sicurezza pubblica.  
+                    <corpo> Le Province, con delibera di Giunta, potranno introdurre ulteriori limiti, anche temporali, all'esercizio delle attivitè di cui alla presente legge, per finalità di protezione dell'ambiente, della fauna e della sicurezza pubblica.  
  
 </corpo>
                 </comma>

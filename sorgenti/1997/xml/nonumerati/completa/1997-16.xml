@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="06.consiglieri regionali e gruppi consiliari"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20060616" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2006;09" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20060616" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2006;09" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 06.Consiglieri regionali e gruppi consiliari 
  
 Bollettino 
@@ -39,7 +39,7 @@ Modificato art. 5 dalla legge n. 9/2006 art. 1
         <articolato>
             <articolo id="art1">
                 <num>Art. 1</num>
-                <rubrica>: INDENNITè DEI CONSIGLIERI REGIONALI 
+                <rubrica>: indennità DEI CONSIGLIERI REGIONALI 
 </rubrica>
                 <comma id="art1-com1">
                     <num/>
@@ -49,7 +49,7 @@ Modificato art. 5 dalla legge n. 9/2006 art. 1
 </alinea>
                     <el id="art1-com1-leta">
                         <num>a)</num>
-                        <corpo> indennitè di funzione;</corpo>
+                        <corpo> indennità di funzione;</corpo>
                     </el>
                     <el id="art1-com1-letb">
                         <num> 
@@ -67,18 +67,18 @@ c)</num>
                         <num> 
  
 d)</num>
-                        <corpo> indennitè e rimborso spese di missione. </corpo>
+                        <corpo> indennità e rimborso spese di missione. </corpo>
                     </el>
                 </comma>
             </articolo>
             <articolo id="art2">
                 <num>Art.2</num>
-                <rubrica>: INDENNITè DI FUNZIONE 
+                <rubrica>: indennità DI FUNZIONE 
 </rubrica>
                 <comma id="art2-com1">
                     <num/>
                     <alinea> 
-1. A titolo di funzione, ai consiglieri della regione Molise viene corrisposta una indennitè mensile lorda, per dodici mensilitè annuali, pari ad una percentuale della indennitè mensile lorda spettante ai membri del parlamento nazionale, nella seguente misura: 
+1. A titolo di funzione, ai consiglieri della regione Molise viene corrisposta una indennità mensile lorda, per dodici mensilitè annuali, pari ad una percentuale della indennità mensile lorda spettante ai membri del parlamento nazionale, nella seguente misura: 
  
 </alinea>
                     <el id="art2-com1-leta">
@@ -104,7 +104,7 @@ d)</num>
 
                         <corpo> 65/100 ai consiglieri. 
  
-2. L'indennitè mensile lorda di cui al <rif xlink:href="#art2-com1">comma 1</rif> viene corrisposta ad ogni singolo consigliere per una sola delle funzioni ricoperte e per l'incarico con percentuale più alta.</corpo>
+2. L'indennità mensile lorda di cui al <rif xlink:href="#art2-com1">comma 1</rif> viene corrisposta ad ogni singolo consigliere per una sola delle funzioni ricoperte e per l'incarico con percentuale più alta.</corpo>
                     </el>
                 </comma>
             </articolo>
@@ -115,7 +115,7 @@ d)</num>
                 <comma id="art3-com1">
                     <num/>
                     <corpo> 
-1. Ai consiglieri regionali è corrisposta una diaria, a titolo di rimborso spese, nella misura del 65 % delle indennitè corrispondenti spettanti ai membri del Parlamento nazionale. 
+1. Ai consiglieri regionali è corrisposta una diaria, a titolo di rimborso spese, nella misura del 65 % delle indennità corrispondenti spettanti ai membri del Parlamento nazionale. 
  
 2. La diaria non è corrisposta ai consiglieri regionali sottoposti a misure cautelari dalla magistratura, restrittive della libertè personale, tali da impedire l'effettivo esercizio della carica, per tutto il periodo di impedimento.</corpo>
                 </comma>
@@ -218,22 +218,22 @@ b)</num>
 </alinea>
                     <el id="art6-com1-leta">
                         <num>a)</num>
-                        <corpo> per le missioni all'estero, un'indennitè giornaliera di trasferta pari a quella stabilita per il personale dello Stato compreso nel gruppo 2 della tabella A allegata al decreto del Ministero del Tesoro del 24 maggio 1990 e successive modificazioni;</corpo>
+                        <corpo> per le missioni all'estero, un'indennità giornaliera di trasferta pari a quella stabilita per il personale dello Stato compreso nel gruppo 2 della tabella A allegata al decreto del Ministero del Tesoro del 24 maggio 1990 e successive modificazioni;</corpo>
                     </el>
                     <el id="art6-com1-letb">
                         <num> 
  
 b)</num>
 
-                        <corpo> per le missioni nel territorio nazionale, un'indennitè giornaliera di trasferta, pari a quella stabilita per il personale dello Stato di cui alla <rif xlink:href="#art6-com1-leta">lettera a)</rif>;</corpo>
+                        <corpo> per le missioni nel territorio nazionale, un'indennità giornaliera di trasferta, pari a quella stabilita per il personale dello Stato di cui alla <rif xlink:href="#art6-com1-leta">lettera a)</rif>;</corpo>
                     </el>
                     <el id="art6-com1-letc">
                         <num> 
  
 c)</num>
-                        <corpo> sia per le missioni all'estero che nel territorio nazionale, il rimborso delle spese di alloggio, vitto e di trasporto effettivamente sostenute e documentate, previa contestuale riduzione dell'indennitè giornaliera di trasferta da determinarsi dall'Ufficio di Presidenza del Consiglio Regionale. 
+                        <corpo> sia per le missioni all'estero che nel territorio nazionale, il rimborso delle spese di alloggio, vitto e di trasporto effettivamente sostenute e documentate, previa contestuale riduzione dell'indennità giornaliera di trasferta da determinarsi dall'Ufficio di Presidenza del Consiglio Regionale. 
  
-2. Al Consigliere regionale, per le missioni nel territorio regionale per le quali è autorizzato di diritto in funzione dell'espletamento del mandato, viene corrisposto un rimborso spese onnicomprensivo pari al 25% dell'indennitè di funzione percepita dal Consigliere. 
+2. Al Consigliere regionale, per le missioni nel territorio regionale per le quali è autorizzato di diritto in funzione dell'espletamento del mandato, viene corrisposto un rimborso spese onnicomprensivo pari al 25% dell'indennità di funzione percepita dal Consigliere. 
  
 3. L'Ufficio di Presidenza del Consiglio Regionale puè inoltre stipulare convenzioni con societè, operanti nei settori dei trasporti ed alberghiero, senza alcun onere a carico del Consiglio, allo scopo di dotare ciascun Consigliere regionale di documenti di viaggio e di alloggio a tariffe agevolate. Tali documenti potranno essere usati dal solo Consigliere regionale intestatario. 
  
@@ -249,11 +249,11 @@ c)</num>
                     <num/>
 
                     <corpo> 
-1. Al variare delle indennitè percepite dai membri del Parlamento nazionale, con la medesima decorrenza variano proporzionalmente l'indennitè di cui all'<rif
+1. Al variare delle indennità percepite dai membri del Parlamento nazionale, con la medesima decorrenza variano proporzionalmente l'indennità di cui all'<rif
                             xlink:href="#art2">art. 2</rif> ed il rimborso spese di cui all'<rif
                             xlink:href="#art3">art. 3</rif>. 
  
-2. Il rimborso spese di cui all'art. 6, comma 2, varia proporzionalmente al variare delle indennitè di cui all'<rif xlink:href="#art2">art. 2</rif>.</corpo>
+2. Il rimborso spese di cui all'art. 6, comma 2, varia proporzionalmente al variare delle indennità di cui all'<rif xlink:href="#art2">art. 2</rif>.</corpo>
                 </comma>
             </articolo>
             <articolo id="art8">
@@ -350,7 +350,7 @@ i)</num>
                 <comma id="art10-com1">
                     <num/>
                     <corpo> 
-1. Agli oneri derivanti dall'applicazione della presente legge si provvede mediante impiego delle somme annualmente stanziate nello stato di previsione delle spese, ai singoli bilanci regionali di competenza e di cassa, al Cap. 00100 &lt;&lt;spese per l'indennitè di carica e di missione ai componenti del Consiglio regionale&gt;&gt;. </corpo>
+1. Agli oneri derivanti dall'applicazione della presente legge si provvede mediante impiego delle somme annualmente stanziate nello stato di previsione delle spese, ai singoli bilanci regionali di competenza e di cassa, al Cap. 00100 &lt;&lt;spese per l'indennità di carica e di missione ai componenti del Consiglio regionale&gt;&gt;. </corpo>
                 </comma>
             </articolo>
             <articolo id="art11">

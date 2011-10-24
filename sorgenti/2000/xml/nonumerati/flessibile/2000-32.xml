@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="02.artigianato"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20070524" fonte="rp1" id="t1" tipo="modifica"/><evento data="20080527" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2007;14" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2008;12" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20070524" fonte="rp1" id="t1" tipo="modifica"/><evento data="20080527" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2008;12" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 02.Artigianato 
  
 Bollettino 
@@ -42,7 +42,7 @@ Modificato art. 28 dalla legge n. 12/2008 art. 6
                 <num>TITOLO I </num>
                 <rubrica>
  
-FINALITè E DESTINATARI DELLA LEGGE 
+Finalità E DESTINATARI DELLA LEGGE 
  
 </rubrica>
                 <articolo id="art1">
@@ -51,7 +51,7 @@ FINALITè E DESTINATARI DELLA LEGGE
                         <num/>
 
                         <corpo>
-Finalitè ed oggetto 
+Finalità ed oggetto 
  
 1. La Regione Molise concorre, con i benefici contemplati dalla presente legge e nei limiti degli stanziamenti di bilancio appositamente previsti, allo sviluppo delle attivitè artigianali, all'introduzione di processi rinnovativi del settore, alla promozione della cooperazione ed alla tutela e valorizzazione dell'Artigianato che abbia tradizioni regionali o prerogative artistiche. 
  
@@ -117,7 +117,7 @@ Programma triennale per l'Artigianato
                     </comma>
                     <comma id="art4-com2">
                         <num/>
-                        <corpo>a) gli obiettivi e le finalitè da conseguire, i risultati attesi anche con riferimento alle esigenze di sviluppo e di riequilibrio socio economico della Regione; 
+                        <corpo>a) gli obiettivi e le finalità da conseguire, i risultati attesi anche con riferimento alle esigenze di sviluppo e di riequilibrio socio economico della Regione; 
  
 b) le indicazioni di spesa per il triennio e la ripartizione per Provincia e per tipo di intervento; 
  
@@ -677,9 +677,9 @@ d) agli adempimenti connessi alle funzioni in materia statistica e di programmaz
                         <num/>
 
                         <corpo>
-Indennitè e rimborsi spese 
+indennità e rimborsi spese 
  
-1. Ai componenti delle Commissioni regionali per l'artigianato, estranei all'amministrazione regionale, sono dovute le indennitè di presenza previste ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:1983;7">legge regionale n. 7/1983</rif>, allegato A, e successive modificazioni ed integrazioni. è corrisposta altresè ai residenti al di fuori del capoluogo e, comunque, in caso di sopralluogo o accertamenti fuori sede, la indennitè di trasferta prevista per i dirigenti regionali.</corpo>
+1. Ai componenti delle Commissioni regionali per l'artigianato, estranei all'amministrazione regionale, sono dovute le indennità di presenza previste ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:1983;7">legge regionale n. 7/1983</rif>, allegato A, e successive modificazioni ed integrazioni. è corrisposta altresè ai residenti al di fuori del capoluogo e, comunque, in caso di sopralluogo o accertamenti fuori sede, la indennità di trasferta prevista per i dirigenti regionali.</corpo>
                     </comma>
                 </articolo>
             </titolo>
@@ -856,7 +856,7 @@ b) volume di attivitè documentato dai bilanci relativi al biennio precedente.
  
 3. Le cooperative artigiane di garanzia già costituite all'atto dell'entrata in vigore della presente legge, per fruire delle provvidenze di cu all'<rif xlink:href="#art28">art. 28</rif>, devono uniformare i propri statuti alle prescrizioni della presente legge. 
  
-4. L'Amministrazione provinciale periodicamente dispone a campione ispezioni contabili ed amministrative nei confronti delle cooperative artigiane di garanzia e dei loro consorzi al fine di accertare la regolaritè delle operazioni di credito effettuate e della gestione amministrativa nonchè l'effettiva utilizzazione dei contributi concessi per le finalitè previste al momento della loro concessione.</corpo>
+4. L'Amministrazione provinciale periodicamente dispone a campione ispezioni contabili ed amministrative nei confronti delle cooperative artigiane di garanzia e dei loro consorzi al fine di accertare la regolaritè delle operazioni di credito effettuate e della gestione amministrativa nonchè l'effettiva utilizzazione dei contributi concessi per le finalità previste al momento della loro concessione.</corpo>
                     </comma>
                 </articolo>
                 <articolo id="art30">
@@ -942,7 +942,7 @@ d) acquisto dei suoli necessari agli investimenti.
                                 xlink:href="#art32-com1">comma 1</rif> devono essere presentate alla Cassa per il Credito delle imprese artigiane, che provvede all'istruttoria delle richieste, con le modalitè previste dalla <rif
                                 xlink:href="urn:nir:stato:legge:1952;949">legge n. 949/1952</rif>, e successive modificazioni ed integrazioni. 
  
-4. La Cassa per il Credito delle imprese artigiane vigila, anche attraverso la Finanziaria regionale (FINMOLISE), gli istituiti e le aziende di credito finanziatori, sulla effettiva destinazione dei finanziamenti agevolati e sulla loro rispondenza alle finalitè pubbliche perseguite. 
+4. La Cassa per il Credito delle imprese artigiane vigila, anche attraverso la Finanziaria regionale (FINMOLISE), gli istituiti e le aziende di credito finanziatori, sulla effettiva destinazione dei finanziamenti agevolati e sulla loro rispondenza alle finalità pubbliche perseguite. 
  
 5. I rapporti tra la Regione Molise e la Cassa per il Credito delle imprese artigiane sono regolati da una convenzione approvata dalla Giunta Regionale, che prevede fra l'altro le modalitè di erogazione dei conferimenti regionali e la presentazione di un apposito rendiconto delle erogazioni effettuate in ogni esercizio. 
  
@@ -1020,7 +1020,7 @@ Calamitè naturali
                         <corpo>
 Disposizioni comuni 
  
-1. I benefici previsti dalla presente legge non sono cumulabili con quelli previsti per le stesse finalitè da altre norme regionali, statali e comunitarie. 
+1. I benefici previsti dalla presente legge non sono cumulabili con quelli previsti per le stesse finalità da altre norme regionali, statali e comunitarie. 
  
 2. Le opere realizzate e i beni acquistati con i contributi previsti dalla presente legge sono sottoposti a vincolo di destinazione settennale per gli immobili e triennale per i macchinari e le attrezzature. 
  
@@ -1042,9 +1042,9 @@ ARTIGIANATO ARTISTICO E TRADIZIONALE
                     <comma id="art36-com1">
                         <num/>
                         <corpo>
-Finalitè 
+Finalità 
  
-1. La Regione persegue le seguenti finalitè nel settore dell'artigianato artistico e tradizionale:</corpo>
+1. La Regione persegue le seguenti finalità nel settore dell'artigianato artistico e tradizionale:</corpo>
                     </comma>
                     <comma id="art36-com2">
                         <num/>
@@ -1149,7 +1149,7 @@ Disciplinari di produzione
                         <corpo>
 Comitato regionale per la tutela dell'artigianato artistico e tradizionale 
  
-1. Allo scopo di perseguire le finalitè del presente titolo in maniera omogenea a livello regionale, è istituito il Comitato regionale per la tutela dell'artigianato artistico e tradizionale. 
+1. Allo scopo di perseguire le finalità del presente titolo in maniera omogenea a livello regionale, è istituito il Comitato regionale per la tutela dell'artigianato artistico e tradizionale. 
  
 2. Il Comitato è istituito con decreto del Presidente della Giunta Regionale, dura in carica per il periodo della legislatura ed è composto da:</corpo>
                     </comma>
@@ -1169,7 +1169,7 @@ f) un componente designato in rappresentanza della Unione delle Camere di Commer
  
 3. Svolge le funzioni di segretario un funzionario regionale. 
  
-4. Ai membri del Comitato, esterni all'apparato regionale, è riconosciuta una indennitè di presenza di rimborso spese, se dovuti, nella misura stabilita per la Commissione Regionale per l'Artigianato. 
+4. Ai membri del Comitato, esterni all'apparato regionale, è riconosciuta una indennità di presenza di rimborso spese, se dovuti, nella misura stabilita per la Commissione Regionale per l'Artigianato. 
  
 5. Il Comitato svolge i seguenti compiti:</corpo>
                     </comma>

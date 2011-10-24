@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="17.lavori pubblici e acquedotti"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19770115" fonte="rp1" id="t1" tipo="modifica"/><evento data="19790731" fonte="rp2" id="t2" tipo="modifica"/><evento data="19780216" fonte="rp3" id="t3" tipo="modifica"/><evento data="19750504" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1976;41" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1979;19" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:1978;04" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:1975;34" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19770115" fonte="rp1" id="t1" tipo="modifica"/><evento data="19790731" fonte="rp2" id="t2" tipo="modifica"/><evento data="19780216" fonte="rp3" id="t3" tipo="modifica"/><evento data="19750504" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1976;41" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1979;19" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:1978;04" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:1975;34" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 17.Lavori pubblici e acquedotti 
  
 Bollettino 
@@ -46,7 +46,7 @@ Modificato art. 12 dalla legge n. 34/1975 art. 1
             <articolo id="art1">
                 <num>Art. 1</num>
 
-                <rubrica>: Finalitè e limiti di applicazione della legge 
+                <rubrica>: Finalità e limiti di applicazione della legge 
  
 Per accelerare l'attuazione delle opere previste dal programma 1974-1975 delle opere pubbliche di competenza della Regione e degli Enti locali, tenendo conto della particolare situazione del   mercato finanziario, la Regione realizza gli interventi secondo le procedure, i tempi e le modalitè di finanziamento indicati dai successivi articoli in sostituzione di quelli ordinari previsti dalla <rif xlink:href="urn:nir:regione.molise:legge:1975-01-21;10">legge regionale 21 gennaio 1975, n.10</rif>. 
  

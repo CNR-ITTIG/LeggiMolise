@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20070524" fonte="rp1" id="t1" tipo="modifica"/><evento data="" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2007;14" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2006;24" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20070524" fonte="rp1" id="t1" tipo="modifica"/><evento data="" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2006;24" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
  
 Bollettino 
@@ -47,7 +47,7 @@ Modificato art. 9 dalla legge n. 24/2006 art. 3
                 <comma id="art1-com1">
                     <num/>
                     <corpo>
-Finalitè 
+Finalità 
  
 1. La presente legge disciplina la tutela degli animali d'affezione e promuove la protezione degli animali e l'educazione al rispetto degli stessi al fine di favorire la corretta convivenza tra uomo e animale, a tutela della salute pubblica e dell'ambiente. 
  
@@ -72,7 +72,7 @@ b) corsi di formazione e di aggiornamento per il personale addetto ai servizi di
  
 c) il numero e la localizzazione dei canili comunali e dei rifugi per cani da realizzare nel territorio regionale, di concerto con gli Enti locali, sentite le Associazioni protezionistiche; 
  
-d) la ripartizione e l'erogazione dei fondi assegnati dallo Stato e quelli propri appositamente stanziati per l'attuazione delle finalitè della presente legge, da destinare ai Comuni, singoli o consorziati, alle associazioni protezionistiche di cui all'<rif
+d) la ripartizione e l'erogazione dei fondi assegnati dallo Stato e quelli propri appositamente stanziati per l'attuazione delle finalità della presente legge, da destinare ai Comuni, singoli o consorziati, alle associazioni protezionistiche di cui all'<rif
                             xlink:href="#art9">articolo 9</rif>, ai servizi veterinari delle Aziende sanitarie locali, secondo le procedure definite dal regolamento di cui al <rif xlink:href="#art2-com2">comma 2</rif>. 
  
 2. La Regione, con regolamento di attuazione, emana norme relative a:</corpo>
@@ -239,7 +239,7 @@ Trattamento dei felini
                     <corpo>
 Partecipazione dei privati 
  
-1. Per il perseguimento delle finalitè della presente legge, la Regione, i Comuni e le Aziende sanitarie locali possono avvalersi della collaborazione e dell'opera di:</corpo>
+1. Per il perseguimento delle finalità della presente legge, la Regione, i Comuni e le Aziende sanitarie locali possono avvalersi della collaborazione e dell'opera di:</corpo>
                 </comma>
                 <comma id="art9-com2">
                     <num/>
@@ -276,7 +276,7 @@ f) segnalazione dei nominativi di volontari da utilizzare come guardie zoofile e
 5. Per lo svolgimento delle attivitè di cui al <rif
                             xlink:href="#art9-com2">comma 2</rif> del presente articolo, le associazioni protezionistiche possono avvalersi anche di giovani che intendano prestare il servizio civile volontario ai sensi della <rif xlink:href="urn:nir:stato:legge:2001;64">legge n. 64/2001</rif>. 
  
-6. I privati di cui al comma 1, lettera b), del presente articolo devono operare in conformitè alle finalitè ed alle norme della presente legge ed utilizzare strutture che rispondono ai criteri fissati nel regolamento di attuazione della presente legge. Tramite stipula di convenzione, possono esercitare le seguenti attivitè:</corpo>
+6. I privati di cui al comma 1, lettera b), del presente articolo devono operare in conformitè alle finalità ed alle norme della presente legge ed utilizzare strutture che rispondono ai criteri fissati nel regolamento di attuazione della presente legge. Tramite stipula di convenzione, possono esercitare le seguenti attivitè:</corpo>
                 </comma>
                 <comma id="art9-com4">
                     <num/>
@@ -308,7 +308,7 @@ Registro del canile
                 <comma id="art11-com1">
                     <num/>
                     <corpo>
-Norme per le strutture a finalitè amatoriale o a scopo commerciale 
+Norme per le strutture a finalità amatoriale o a scopo commerciale 
  
 1. Gli allevatori o possessori di cani a scopo di commercio o a scopo amatoriale sono tenuti al rispetto delle norme di cui alla presente legge. In particolare essi sono tenuti a:</corpo>
                 </comma>

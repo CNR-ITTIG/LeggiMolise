@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="22.organizzazione delle funzioni amministrative a livello regionale e locale"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20000216" fonte="rp1" id="t1" tipo="modifica"/><evento data="20091231" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2000;06" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2009;30" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20000216" fonte="rp1" id="t1" tipo="modifica"/><evento data="20091231" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2000;06" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2009;30" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 22.Organizzazione delle funzioni amministrative a livello regionale e locale 
 14.Governo del territorio, urbanistica, edilizia 
  
@@ -216,7 +216,7 @@ e) gli interventi previsti nei Piani di Assestamento forestale e nei Piani Natur
                     <num/>
 
                     <corpo> 
-1. Nel mese di novembre di ogni anno la Giunta Regionale convoca ed organizza  una conferenza di servizio alla quale saranno invitati amministratori regionali, provinciali, comunali nonchè gli amministratori e tecnici dipendenti di tutti gli altri Enti pubblici e le organizzazioni di categoria e di volontariato interessati alla tutela dei beni ambientali e al perseguimento delle finalitè della presente legge. 
+1. Nel mese di novembre di ogni anno la Giunta Regionale convoca ed organizza  una conferenza di servizio alla quale saranno invitati amministratori regionali, provinciali, comunali nonchè gli amministratori e tecnici dipendenti di tutti gli altri Enti pubblici e le organizzazioni di categoria e di volontariato interessati alla tutela dei beni ambientali e al perseguimento delle finalità della presente legge. 
  
 2. Il Presidente della Giunta Regionale o l'Assessorato competente, se delegato a norma del   <rif
                             xlink:href="#art9">successivo art. 9</rif> nel rispetto della normativa vigente, emana direttive di indirizzo e coordinamento agli Enti subdelegati, al fine di rendere omogenee le valutazioni per il rilascio delle autorizzazioni di cui all'<rif xlink:href="#art1">art. 1</rif>.</corpo>

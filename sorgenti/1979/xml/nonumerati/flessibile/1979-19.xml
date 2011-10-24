@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="17.lavori pubblici e acquedotti"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19930418" fonte="rp1" id="t1" tipo="modifica"/><evento data="19850131" fonte="rp2" id="t2" tipo="modifica"/><evento data="19800615" fonte="rp3" id="t3" tipo="modifica"/><evento data="19950430" fonte="rp4" id="t4" tipo="modifica"/><evento data="19860216" fonte="rp5" id="t5" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1993;12" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1985;01" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:1980;20" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:1995;14" xlink:type="simple"/><passiva id="rp5" xlink:href="urn:nir:regione.campania:legge:1986;04" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19930418" fonte="rp1" id="t1" tipo="modifica"/><evento data="19850131" fonte="rp2" id="t2" tipo="modifica"/><evento data="19800615" fonte="rp3" id="t3" tipo="modifica"/><evento data="19950430" fonte="rp4" id="t4" tipo="modifica"/><evento data="19860216" fonte="rp5" id="t5" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1993;12" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1985;01" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:1980;20" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:1995;14" xlink:type="simple"/><passiva id="rp5" xlink:href="urn:nir:regione.molise:legge:1986;04" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 17.Lavori pubblici e acquedotti 
  
 Bollettino 
@@ -719,7 +719,7 @@ L'esecuzione dei lavori oggetto della presente legge puè essere dall'Ente obblig
                     <num/>
 
                     <corpo> 
-La Giunta Regionale puè dare in concessione i lavori di competenza propria della Regione a norma del <rif xlink:href="#art12">precedente art. 12</rif> e, se concessi ad Ente pubblico non avente finalitè di lucro, il   relativo provvedimento di concessione è emesso dal Presidente della Giunta, previa presentazione da parte dell'Ente concessionario del progetto esecutivo dell'opera debitamente   approvata dai competenti organi dell'Ente stesso. </corpo>
+La Giunta Regionale puè dare in concessione i lavori di competenza propria della Regione a norma del <rif xlink:href="#art12">precedente art. 12</rif> e, se concessi ad Ente pubblico non avente finalità di lucro, il   relativo provvedimento di concessione è emesso dal Presidente della Giunta, previa presentazione da parte dell'Ente concessionario del progetto esecutivo dell'opera debitamente   approvata dai competenti organi dell'Ente stesso. </corpo>
                 </comma>
                 <comma id="art13-com2">
                     <num/>

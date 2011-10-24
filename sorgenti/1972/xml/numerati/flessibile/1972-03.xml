@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="06.consiglieri regionali e gruppi consiliari"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19970615" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1997;16" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19970615" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1997;16" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 06.Consiglieri regionali e gruppi consiliari 
  
 Bollettino 
@@ -32,7 +32,7 @@ Modifiche
             <tipoDoc>Legge Regionale  </tipoDoc>
             <dataDoc norm="19720331">31 Marzo 1972</dataDoc>, n. <numDoc>3</numDoc>
 
-            <titoloDoc>Determinazione delle indennitè spettanti ai Consiglieri Regionali, a norma dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art10">articolo 10 dello Statuto</rif>. 
+            <titoloDoc>Determinazione delle indennità spettanti ai Consiglieri Regionali, a norma dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art10">articolo 10 dello Statuto</rif>. 
  
 </titoloDoc>
         </intestazione>

@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20100501" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;12" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20100501" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;12" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
 36.Turismo e industria alberghiera 
  
@@ -46,7 +46,7 @@ Modificato art. 11 dalla legge n. 12/2010 art. 1
                     <num/>
 
                     <corpo>
-Finalitè 
+Finalità 
  
 1. La Regione Molise, in armonia con la legislazione comunitaria e statale ed in particolare con la <rif xlink:href="urn:nir:stato:legge:2006-02-20;96">legge 20 febbraio 2006, n. 96</rif> (Disciplina dell'agriturismo) e con i programmi di sviluppo rurale dell'Unione europea e dello Stato, sostiene l'agricoltura e lo sviluppo rurale anche mediante la promozione di forme idonee di turismo in ambito rurale ed individua nelle attivitè agrituristiche lo strumento prioritario per la valorizzazione della cultura e delle tradizioni rurali, la promozione dei prodotti agro-alimentari del territorio e la fruizione delle risorse locali.  
  
@@ -277,7 +277,7 @@ Regolamento regionale
 b) i criteri per la determinazione della capacitè ricettiva delle aziende agrituristiche entro i limiti previsti dall'<rif
                             xlink:href="#art10-com4">articolo 10, comma 4</rif>;  
  
-c) i parametri per la somministrazione di pasti, alimenti e bevande, nel corso di eventi con finalitè promozionali di cui all'<rif
+c) i parametri per la somministrazione di pasti, alimenti e bevande, nel corso di eventi con finalità promozionali di cui all'<rif
                             xlink:href="#art24">articolo 24</rif>;  
  
 d) i criteri e le modalitè per la concessione dei finanziamenti di cui all'<rif
@@ -752,7 +752,7 @@ Vendita e promozione dei prodotti
  
 1. Nell'esercizio dell'attivitè agrituristica rientra la vendita diretta, agli ospiti ed al pubblico, dei prodotti tipici e tradizionali, biologici e artigianali, compreso il pane, prodotti dall'azienda e dai consorzi o cooperative di cui l'imprenditore agrituristico è socio.  
  
-2. Le aziende agrituristiche che producono prodotti tradizionali o di qualità certificata ai sensi della normativa vigente possono realizzare in azienda eventi con finalitè promozionali, che rientrano nelle attivitè didattiche, culturali, tradizionali e ricreative, riferite al mondo rurale, nel rispetto delle seguenti condizioni:</corpo>
+2. Le aziende agrituristiche che producono prodotti tradizionali o di qualità certificata ai sensi della normativa vigente possono realizzare in azienda eventi con finalità promozionali, che rientrano nelle attivitè didattiche, culturali, tradizionali e ricreative, riferite al mondo rurale, nel rispetto delle seguenti condizioni:</corpo>
                 </comma>
                 <comma id="art24-com2">
                     <num/>
@@ -791,7 +791,7 @@ Vigilanza, monitoraggio e valutazione
                 <comma id="art26-com2">
                     <num/>
 
-                    <corpo>a) una valutazione sul conseguimento delle finalitè di cui all'<rif
+                    <corpo>a) una valutazione sul conseguimento delle finalità di cui all'<rif
                             xlink:href="#art1-com1">articolo 1, comma 1</rif>;  
  
 b) dati relativi all'attivitè di vigilanza, controllo e monitoraggio svolta dal competente Servizio;  

@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="02.artigianato"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20070524" fonte="rp1" id="t1" tipo="modifica"/><evento data="20080527" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2007;14" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2008;12" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20070524" fonte="rp1" id="t1" tipo="modifica"/><evento data="20080527" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2008;12" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 02.Artigianato 
  
 Bollettino 
@@ -42,14 +42,14 @@ Modificato art. 28 dalla legge n. 12/2008 art. 6
                 <num>TITOLO I </num>
                 <rubrica>
  
-FINALITè E DESTINATARI DELLA LEGGE 
+Finalità E DESTINATARI DELLA LEGGE 
  
 </rubrica>
                 <articolo id="art1">
                     <num>Art.1 </num>
                     <rubrica>
  
-Finalitè ed oggetto 
+Finalità ed oggetto 
  </rubrica>
                     <comma id="art1-com1">
                         <num>
@@ -162,7 +162,7 @@ Programma triennale per l'Artigianato
 </alinea>
                         <el id="art4-com4-leta">
                             <num>a)</num>
-                            <corpo> gli obiettivi e le finalitè da conseguire, i risultati attesi anche con riferimento alle esigenze di sviluppo e di riequilibrio socio economico della Regione;</corpo>
+                            <corpo> gli obiettivi e le finalità da conseguire, i risultati attesi anche con riferimento alle esigenze di sviluppo e di riequilibrio socio economico della Regione;</corpo>
                         </el>
                         <el id="art4-com4-letb">
                             <num> 
@@ -1279,13 +1279,13 @@ d)</num>
                     <num>Art.23 </num>
                     <rubrica>
  
-Indennitè e rimborsi spese 
+indennità e rimborsi spese 
  </rubrica>
                     <comma id="art23-com1">
                         <num>
 1.</num>
 
-                        <corpo> Ai componenti delle Commissioni regionali per l'artigianato, estranei all'amministrazione regionale, sono dovute le indennitè di presenza previste ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:1983;7">legge regionale n. 7/1983</rif>, allegato A, e successive modificazioni ed integrazioni. è corrisposta altresè ai residenti al di fuori del capoluogo e, comunque, in caso di sopralluogo o accertamenti fuori sede, la indennitè di trasferta prevista per i dirigenti regionali. 
+                        <corpo> Ai componenti delle Commissioni regionali per l'artigianato, estranei all'amministrazione regionale, sono dovute le indennità di presenza previste ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:1983;7">legge regionale n. 7/1983</rif>, allegato A, e successive modificazioni ed integrazioni. è corrisposta altresè ai residenti al di fuori del capoluogo e, comunque, in caso di sopralluogo o accertamenti fuori sede, la indennità di trasferta prevista per i dirigenti regionali. 
  
 </corpo>
                     </comma>
@@ -1588,7 +1588,7 @@ b)</num>
                         <num>
  
 4.</num>
-                        <corpo> L'Amministrazione provinciale periodicamente dispone a campione ispezioni contabili ed amministrative nei confronti delle cooperative artigiane di garanzia e dei loro consorzi al fine di accertare la regolaritè delle operazioni di credito effettuate e della gestione amministrativa nonchè l'effettiva utilizzazione dei contributi concessi per le finalitè previste al momento della loro concessione. 
+                        <corpo> L'Amministrazione provinciale periodicamente dispone a campione ispezioni contabili ed amministrative nei confronti delle cooperative artigiane di garanzia e dei loro consorzi al fine di accertare la regolaritè delle operazioni di credito effettuate e della gestione amministrativa nonchè l'effettiva utilizzazione dei contributi concessi per le finalità previste al momento della loro concessione. 
  
 </corpo>
                     </comma>
@@ -1758,7 +1758,7 @@ d)</num>
                         <num>
  
 4.</num>
-                        <corpo> La Cassa per il Credito delle imprese artigiane vigila, anche attraverso la Finanziaria regionale (FINMOLISE), gli istituiti e le aziende di credito finanziatori, sulla effettiva destinazione dei finanziamenti agevolati e sulla loro rispondenza alle finalitè pubbliche perseguite. </corpo>
+                        <corpo> La Cassa per il Credito delle imprese artigiane vigila, anche attraverso la Finanziaria regionale (FINMOLISE), gli istituiti e le aziende di credito finanziatori, sulla effettiva destinazione dei finanziamenti agevolati e sulla loro rispondenza alle finalità pubbliche perseguite. </corpo>
                     </comma>
                     <comma id="art32-com5">
                         <num>
@@ -1910,7 +1910,7 @@ Disposizioni comuni
                     <comma id="art35-com1">
                         <num>
 1.</num>
-                        <corpo> I benefici previsti dalla presente legge non sono cumulabili con quelli previsti per le stesse finalitè da altre norme regionali, statali e comunitarie. </corpo>
+                        <corpo> I benefici previsti dalla presente legge non sono cumulabili con quelli previsti per le stesse finalità da altre norme regionali, statali e comunitarie. </corpo>
                     </comma>
                     <comma id="art35-com2">
                         <num>
@@ -1946,12 +1946,12 @@ ARTIGIANATO ARTISTICO E TRADIZIONALE
                     <num>Art. 36 </num>
                     <rubrica>
  
-Finalitè 
+Finalità 
  </rubrica>
                     <comma id="art36-com1">
                         <num>
 1.</num>
-                        <alinea> La Regione persegue le seguenti finalitè nel settore dell'artigianato artistico e tradizionale: 
+                        <alinea> La Regione persegue le seguenti finalità nel settore dell'artigianato artistico e tradizionale: 
  
 </alinea>
                         <el id="art36-com1-leta">
@@ -2159,7 +2159,7 @@ Comitato regionale per la tutela dell'artigianato artistico e tradizionale
                     <comma id="art41-com1">
                         <num>
 1.</num>
-                        <corpo> Allo scopo di perseguire le finalitè del presente titolo in maniera omogenea a livello regionale, è istituito il Comitato regionale per la tutela dell'artigianato artistico e tradizionale. </corpo>
+                        <corpo> Allo scopo di perseguire le finalità del presente titolo in maniera omogenea a livello regionale, è istituito il Comitato regionale per la tutela dell'artigianato artistico e tradizionale. </corpo>
                     </comma>
                     <comma id="art41-com2">
                         <num>
@@ -2213,7 +2213,7 @@ f)</num>
                         <num>
  
 4.</num>
-                        <corpo> Ai membri del Comitato, esterni all'apparato regionale, è riconosciuta una indennitè di presenza di rimborso spese, se dovuti, nella misura stabilita per la Commissione Regionale per l'Artigianato. </corpo>
+                        <corpo> Ai membri del Comitato, esterni all'apparato regionale, è riconosciuta una indennità di presenza di rimborso spese, se dovuti, nella misura stabilita per la Commissione Regionale per l'Artigianato. </corpo>
                     </comma>
                     <comma id="art41-com5">
                         <num>

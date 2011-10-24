@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2008;17" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2008;17" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
  
 Bollettino 
@@ -43,7 +43,7 @@ Modificato art. 7 dalla legge n. 17/2008 art. 2
                 <num>Art. 1 </num>
                 <rubrica>
  
-Finalitè 
+Finalità 
  </rubrica>
                 <comma id="art1-com1">
                     <num>
@@ -185,7 +185,7 @@ Misure di aiuto
                     <num>
 1.</num>
 
-                    <alinea> Per il perseguimento delle finalitè di cui all'<rif xlink:href="#art1">art. 1</rif>, la Giunta regionale, entro novanta giorni dall'approvazione della presente legge, con proprio atto definisce: 
+                    <alinea> Per il perseguimento delle finalità di cui all'<rif xlink:href="#art1">art. 1</rif>, la Giunta regionale, entro novanta giorni dall'approvazione della presente legge, con proprio atto definisce: 
  
 </alinea>
                     <el id="art4-com1-leta">

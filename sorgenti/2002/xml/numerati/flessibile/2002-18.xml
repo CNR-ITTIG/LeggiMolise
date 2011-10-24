@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20051231" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2005;45" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20051231" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2005;45" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -753,7 +753,7 @@ D) Funzioni di vigilanza e controllo in materia di:
  
 4.</num>
 
-                    <corpo> In caso di accertata inerzia, ritardo o inadempimento del Comitato nell'esercizio delle funzioni delegate, ovvero in caso di ripetute violazioni delle direttive generali stabilite dall'Autoritè, da cui derivi un grave pregiudizio all'effettivo perseguimento delle finalitè indicate dalla <rif
+                    <corpo> In caso di accertata inerzia, ritardo o inadempimento del Comitato nell'esercizio delle funzioni delegate, ovvero in caso di ripetute violazioni delle direttive generali stabilite dall'Autoritè, da cui derivi un grave pregiudizio all'effettivo perseguimento delle finalità indicate dalla <rif
                             xlink:href="urn:nir:stato:legge:1997;249">legge n. 249/1997</rif>, l'Autoritè opera direttamente, in via sostitutiva, previa contestazione al Comitato e assegnazione, salvo i casi di urgenza, di un congruo termine per rimuovere l'omissione o rettificare gli atti assunti in violazione dei principi e criteri direttivi di cui al <rif xlink:href="#art16-com1">comma 1</rif> del presente articolo. 
  
 </corpo>

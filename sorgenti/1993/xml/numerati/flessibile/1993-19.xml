@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20040616" fonte="rp1" id="t1" tipo="modifica"/><evento data="20060831" fonte="rp2" id="t2" tipo="modifica"/><evento data="20061020" fonte="rp3" id="t3" tipo="modifica"/><evento data="20010816" fonte="rp4" id="t4" tipo="modifica"/><evento data="20041231" fonte="rp5" id="t5" tipo="modifica"/><evento data="20070524" fonte="rp6" id="t6" tipo="modifica"/><evento data="20051201" fonte="rp7" id="t7" tipo="modifica"/><evento data="" fonte="rp8" id="t8" tipo="modifica"/><evento data="20080527" fonte="rp9" id="t9" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2004;15" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2006;21" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2006;34" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:2001;19" xlink:type="simple"/><passiva id="rp5" xlink:href="urn:nir:regione.campania:legge:2004;30" xlink:type="simple"/><passiva id="rp6" xlink:href="urn:nir:regione.campania:legge:2007;14" xlink:type="simple"/><passiva id="rp7" xlink:href="urn:nir:regione.campania:legge:2005;39" xlink:type="simple"/><passiva id="rp8" xlink:href="urn:nir:regione.campania:legge:2007;16" xlink:type="simple"/><passiva id="rp9" xlink:href="urn:nir:regione.campania:legge:2008;12" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20040616" fonte="rp1" id="t1" tipo="modifica"/><evento data="20060831" fonte="rp2" id="t2" tipo="modifica"/><evento data="20061020" fonte="rp3" id="t3" tipo="modifica"/><evento data="20010816" fonte="rp4" id="t4" tipo="modifica"/><evento data="20041231" fonte="rp5" id="t5" tipo="modifica"/><evento data="20070524" fonte="rp6" id="t6" tipo="modifica"/><evento data="20051201" fonte="rp7" id="t7" tipo="modifica"/><evento data="" fonte="rp8" id="t8" tipo="modifica"/><evento data="20080527" fonte="rp9" id="t9" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2004;15" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2006;21" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2006;34" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2001;19" xlink:type="simple"/><passiva id="rp5" xlink:href="urn:nir:regione.molise:legge:2004;30" xlink:type="simple"/><passiva id="rp6" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/><passiva id="rp7" xlink:href="urn:nir:regione.molise:legge:2005;39" xlink:type="simple"/><passiva id="rp8" xlink:href="urn:nir:regione.molise:legge:2007;16" xlink:type="simple"/><passiva id="rp9" xlink:href="urn:nir:regione.molise:legge:2008;12" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
  
 Bollettino 
@@ -84,7 +84,7 @@ Modificato art. 42 dalla legge n. 21/2006 art. 1
                     <num>
 1.</num>
 
-                    <corpo> La Regione Molise, nel rispetto dei principi sanciti dalla <rif xlink:href="urn:nir:stato:legge:1992-02-11;157">legge dello Stato n. 157 dell'11   febbraio 1992</rif>, delle Convenzioni internazionali e delle Direttive Comunitarie, detta norme   destinate a disciplinare l'esercizio della caccia nell'ambito del territorio regionale al fine di   proteggere e salvaguardare il patrimonio faunistico, nonchè per la tutela dell'agricoltura e   dell'ambiente. La Regione, per le suddette finalitè promuove la collaborazione attiva degli   Enti, delle Associazioni agricole e venatorie, per diffondere e approfondire la conoscenza del  patrimonio faunistico e la difesa dell'ambiente. </corpo>
+                    <corpo> La Regione Molise, nel rispetto dei principi sanciti dalla <rif xlink:href="urn:nir:stato:legge:1992-02-11;157">legge dello Stato n. 157 dell'11   febbraio 1992</rif>, delle Convenzioni internazionali e delle Direttive Comunitarie, detta norme   destinate a disciplinare l'esercizio della caccia nell'ambito del territorio regionale al fine di   proteggere e salvaguardare il patrimonio faunistico, nonchè per la tutela dell'agricoltura e   dell'ambiente. La Regione, per le suddette finalità promuove la collaborazione attiva degli   Enti, delle Associazioni agricole e venatorie, per diffondere e approfondire la conoscenza del  patrimonio faunistico e la difesa dell'ambiente. </corpo>
                 </comma>
                 <comma id="art1-com2">
                     <num>
@@ -736,7 +736,7 @@ h)</num>
  
 2.</num>
 
-                    <corpo> Le oasi di protezione sono istituite e gestite dalla Provincia, sentito l'I.N.F.S. Con le stesse   modalitè, l'istituzione di oasi puè essere revocata qualora non sussistano, per modificazioni   oggettive, le condizioni idonee al conseguimento delle finalitè specifiche. Il territorio adibito ad   oasi di protezione è delimitato con tabelle indicanti il divieto di caccia, secondo le modalitè   previste dall'<rif xlink:href="#art10-com11">art. 10 comma 11</rif> della presente legge. </corpo>
+                    <corpo> Le oasi di protezione sono istituite e gestite dalla Provincia, sentito l'I.N.F.S. Con le stesse   modalitè, l'istituzione di oasi puè essere revocata qualora non sussistano, per modificazioni   oggettive, le condizioni idonee al conseguimento delle finalità specifiche. Il territorio adibito ad   oasi di protezione è delimitato con tabelle indicanti il divieto di caccia, secondo le modalitè   previste dall'<rif xlink:href="#art10-com11">art. 10 comma 11</rif> della presente legge. </corpo>
                 </comma>
                 <comma id="art12-com3">
                     <num>
@@ -767,7 +767,7 @@ h)</num>
                     <num>
  
 2.</num>
-                    <corpo> Le zone di ripopolamento e cattura sono istituite e gestite dalle province e dalle stesse revocate, qualora non sussistano, per modificazioni oggettive, le condizioni idonee al conseguimento delle finalitè specifiche. Ciascuna zona di ripopolamento e cattura deve avere una superficie commisurata alle esigenze biologiche delle specie selvatiche principalmente interessate e deve essere adeguatamente tabellata  a cura dell' ente gestore. </corpo>
+                    <corpo> Le zone di ripopolamento e cattura sono istituite e gestite dalle province e dalle stesse revocate, qualora non sussistano, per modificazioni oggettive, le condizioni idonee al conseguimento delle finalità specifiche. Ciascuna zona di ripopolamento e cattura deve avere una superficie commisurata alle esigenze biologiche delle specie selvatiche principalmente interessate e deve essere adeguatamente tabellata  a cura dell' ente gestore. </corpo>
                 </comma>
                 <comma id="art13-com3">
                     <num>
@@ -829,7 +829,7 @@ h)</num>
                     <num>
  
 6.</num>
-                    <corpo> Nessuna indennitè è dovuta al concessionario per i danni eventualmente arrecati da specie   selvatiche alle colture del Centro privato o a quelle circostanti in possesso del titolare del Centro. </corpo>
+                    <corpo> Nessuna indennità è dovuta al concessionario per i danni eventualmente arrecati da specie   selvatiche alle colture del Centro privato o a quelle circostanti in possesso del titolare del Centro. </corpo>
                 </comma>
                 <comma id="art14-com7">
                     <num>
@@ -898,7 +898,7 @@ Detto prelievo non costituisce esercizio venatorio. </corpo>
                 <comma id="art16-com1">
                     <num>
 1.</num>
-                    <corpo> La Regione, su richiesta degli interessati, sentito l' I.N.F.S. e nei limiti della presente legge,   istituiscono per prevalenti finalitè naturalistiche e faunistiche, nonchè per il potenziamento, lo sviluppo e l'irradiamento della fauna selvatica autoctona, aziende faunistico-venatorie senza fini di lucro in cui non è consentito immettere fauna selvatica successivamente al 31 agosto. </corpo>
+                    <corpo> La Regione, su richiesta degli interessati, sentito l' I.N.F.S. e nei limiti della presente legge,   istituiscono per prevalenti finalità naturalistiche e faunistiche, nonchè per il potenziamento, lo sviluppo e l'irradiamento della fauna selvatica autoctona, aziende faunistico-venatorie senza fini di lucro in cui non è consentito immettere fauna selvatica successivamente al 31 agosto. </corpo>
                 </comma>
                 <comma id="art16-com2">
                     <num>
@@ -922,7 +922,7 @@ Detto prelievo non costituisce esercizio venatorio. </corpo>
                     <num>
  
 5.</num>
-                    <corpo> Le aziende faunistico - venatorie senza fini di lucro, poichè perseguono finalitè d'interesse   generale, sono soggette a tassa di concessione regionale ridotta. 
+                    <corpo> Le aziende faunistico - venatorie senza fini di lucro, poichè perseguono finalità d'interesse   generale, sono soggette a tassa di concessione regionale ridotta. 
  
 </corpo>
                 </comma>

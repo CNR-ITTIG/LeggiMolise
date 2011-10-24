@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19970501" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1997;10" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19970501" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1997;10" xlink:type="simple"/></relazioni></ciclodivita>
             <redazionale>
                 <nota id="n1">
                     <h:p>
@@ -51,7 +51,7 @@ Modificato art. 1 dalla legge n. 10/1997 art. 1
         <articolato>
             <articolo id="art1">
                 <num>Art. 1</num>
-                <rubrica>: FINALITè 
+                <rubrica>: Finalità 
 </rubrica>
                 <comma id="art1-com1">
                     <num/>

@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2009;19" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;19" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
  
 Bollettino 
@@ -40,7 +40,7 @@ Modificato art. 26 dalla legge n. 19/2009 art. 1
         <articolato>
             <articolo id="art1">
                 <num>Art. 1</num>
-                <rubrica>: OGGETTO E FINALITè DELLA LEGGE 
+                <rubrica>: OGGETTO E Finalità DELLA LEGGE 
  </rubrica>
                 <comma id="art1-com1">
                     <num>
@@ -52,7 +52,7 @@ Modificato art. 26 dalla legge n. 19/2009 art. 1
 </alinea>
                     <el id="art1-com1-leta">
                         <num>a)</num>
-                        <corpo> delinea il profilo del Servizio Sanitario Regionale (SSR) e definisce i ruoli dei livelli istituzionali impegnati nella realizzazione delle rispettive finalitè;</corpo>
+                        <corpo> delinea il profilo del Servizio Sanitario Regionale (SSR) e definisce i ruoli dei livelli istituzionali impegnati nella realizzazione delle rispettive finalità;</corpo>
                     </el>
                     <el id="art1-com1-letb">
                         <num> 
@@ -590,7 +590,7 @@ Tali protocolli devono prevedere la programmazione congiunta delle attivitè, la 
                     <num>
 1.</num>
 
-                    <corpo> è riconosciuta la funzione delle associazioni di volontariato liberamente costituite aventi la finalitè di concorrere al conseguimento dei fini istituzionali del SSR. Tra le associazioni di volontariato sono ricomprese anche le istituzioni a carattere associativo, le cui attivitè si fondano a norma di <rif xlink:href="urn:nir:regione.molise:statuto:">statuto</rif> su prestazioni volontarie e personali dei soci gratuite. 
+                    <corpo> è riconosciuta la funzione delle associazioni di volontariato liberamente costituite aventi la finalità di concorrere al conseguimento dei fini istituzionali del SSR. Tra le associazioni di volontariato sono ricomprese anche le istituzioni a carattere associativo, le cui attivitè si fondano a norma di <rif xlink:href="urn:nir:regione.molise:statuto:">statuto</rif> su prestazioni volontarie e personali dei soci gratuite. 
  
 </corpo>
                 </comma>
@@ -980,7 +980,7 @@ Art. 28: ENTRATA IN VIGORE
                             <entratainvigore norm=""/>
                             <redazione id="ann1-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2009;19" xlink:type="simple"/></relazioni></ciclodivita>
+                        </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;19" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>

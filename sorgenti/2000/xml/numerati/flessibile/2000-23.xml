@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20050531" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2005;18" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20050531" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2005;18" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -47,7 +47,7 @@ Modificato art. 1 dalla legge n. 18/2005 art. 1
                 <comma id="art1-com1">
                     <num>
 1.</num>
-                    <corpo> Per il perseguimento delle finalitè previste dagli articoli 3 e 4 della Costituzione, la Regione Molise istituisce la Commissione per la paritè e le pari opportunitè tra uomo e donna in campo economico, sociale e culturale. </corpo>
+                    <corpo> Per il perseguimento delle finalità previste dagli articoli 3 e 4 della Costituzione, la Regione Molise istituisce la Commissione per la paritè e le pari opportunitè tra uomo e donna in campo economico, sociale e culturale. </corpo>
                 </comma>
                 <comma id="art1-com2">
                     <num>

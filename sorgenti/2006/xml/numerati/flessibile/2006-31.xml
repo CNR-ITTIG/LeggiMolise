@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="24.politiche per i migranti e rapporti con i molisani nel mondo"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20070501" fonte="rp1" id="t1" tipo="modifica"/><evento data="20070501" fonte="rp2" id="t2" tipo="modifica"/><evento data="" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2007;12" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2007;10" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:;" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20070501" fonte="rp1" id="t1" tipo="modifica"/><evento data="20070501" fonte="rp2" id="t2" tipo="modifica"/><evento data="" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;12" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2007;10" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:;" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 24.Politiche per i migranti e rapporti con i molisani nel mondo 
  
 Bollettino 
@@ -61,13 +61,13 @@ DISPOSIZIONI GENERALI
                     <num>Art. 1 </num>
                     <rubrica>
  
-Finalitè 
+Finalità 
  </rubrica>
                     <comma id="art1-com1">
                         <num>
 1.</num>
 
-                        <corpo> La Regione, nell'ambito delle finalitè fissate dallo <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto</rif> in ordine agli obiettivi economici e sociali e nei limiti fissati dalla Costituzione in relazione all'attivitè internazionale, interviene in favore dei cittadini molisani emigrati all'estero, con iniziative finalizzate all'avvio ed allo sviluppo di relazioni economiche, nonchè al rafforzamento della loro identitè intesa come conoscenza della cultura di origine ed a sostegno della loro presenza attiva e globale nel contesto culturale e sociale di appartenenza. </corpo>
+                        <corpo> La Regione, nell'ambito delle finalità fissate dallo <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto</rif> in ordine agli obiettivi economici e sociali e nei limiti fissati dalla Costituzione in relazione all'attivitè internazionale, interviene in favore dei cittadini molisani emigrati all'estero, con iniziative finalizzate all'avvio ed allo sviluppo di relazioni economiche, nonchè al rafforzamento della loro identitè intesa come conoscenza della cultura di origine ed a sostegno della loro presenza attiva e globale nel contesto culturale e sociale di appartenenza. </corpo>
                     </comma>
                     <comma id="art1-com2">
                         <num>
@@ -137,7 +137,7 @@ Iniziative ed interventi
                     <comma id="art3-com1">
                         <num>
 1.</num>
-                        <corpo> Per le finalitè di cui all'<rif xlink:href="#art1-com1">articolo 1, comma 1</rif>, la Regione attua e promuove iniziative dirette a mantenere e rinsaldare nei molisani all'estero il legame ed i rapporti con la propria terra d'origine e tutela, fra le comunitè molisane nel mondo e tra le nuove generazioni, il valore dell'identitè molisana. </corpo>
+                        <corpo> Per le finalità di cui all'<rif xlink:href="#art1-com1">articolo 1, comma 1</rif>, la Regione attua e promuove iniziative dirette a mantenere e rinsaldare nei molisani all'estero il legame ed i rapporti con la propria terra d'origine e tutela, fra le comunitè molisane nel mondo e tra le nuove generazioni, il valore dell'identitè molisana. </corpo>
                     </comma>
                     <comma id="art3-com2">
                         <num>
@@ -155,7 +155,7 @@ Iniziative ed interventi
                         <num>
  
 4.</num>
-                        <corpo> Per le finalitè di cui all'<rif xlink:href="#art2-com1-letb">articolo 2, comma 1, lett. b)</rif>, la Regione promuove ed attua interventi finalizzati ad agevolare il rientro ed il reinserimento nel territorio regionale. </corpo>
+                        <corpo> Per le finalità di cui all'<rif xlink:href="#art2-com1-letb">articolo 2, comma 1, lett. b)</rif>, la Regione promuove ed attua interventi finalizzati ad agevolare il rientro ed il reinserimento nel territorio regionale. </corpo>
                     </comma>
                     <comma id="art3-com5">
                         <num>
@@ -700,7 +700,7 @@ Associazionismo
                         <num>
  
 2.</num>
-                        <alinea> Per le finalitè di cui al <rif xlink:href="#art13-com1">comma 1</rif> è istituito, presso l'assessorato ai rapporti con i "Molisani nel mondo", il registro regionale delle associazioni e rispettive federazioni. Al registro sono iscritte: 
+                        <alinea> Per le finalità di cui al <rif xlink:href="#art13-com1">comma 1</rif> è istituito, presso l'assessorato ai rapporti con i "Molisani nel mondo", il registro regionale delle associazioni e rispettive federazioni. Al registro sono iscritte: 
  
 </alinea>
                         <el id="art13-com2-leta">
@@ -749,7 +749,7 @@ Contributi alle associazioni e federazioni
 </alinea>
                         <el id="art14-com2-leta">
                             <num>a)</num>
-                            <corpo> programma dettagliato delle iniziative da realizzare, con relazione illustrativa su contenuti, modalitè di realizzazione e finalitè di ciascuna iniziativa;</corpo>
+                            <corpo> programma dettagliato delle iniziative da realizzare, con relazione illustrativa su contenuti, modalitè di realizzazione e finalità di ciascuna iniziativa;</corpo>
                         </el>
                         <el id="art14-com2-letb">
                             <num> 

@@ -9,10 +9,10 @@
                 <redazione id="red1" nome="" norm=""/>
                 <urn valore="urn:nir:regione.molise:legge:1986-09-09;17"/>
                 <materie vocabolario="Regione Molise">
-                    <materia valore="07.contabilit&amp;#xe0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
+                    <materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+            </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
+        </meta><?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
  
 Bollettino 
 Bollettino Ufficiale n. 23 del 16/12/87 
@@ -701,7 +701,7 @@ Modifiche
  
    QUADRO RIASSUNTIVO GENERALE DELLE ENTRATE E DELLE SPESE 
  
-   (n. 1 art. 30 legge regionale di contabilit&#xE0; 3-12-1977, n. 44) 
+   (n. 1 art. 30 legge regionale di Contabilità 3-12-1977, n. 44) 
  
 
 ?>
@@ -725,7 +725,7 @@ Modifiche
                             <entratainvigore norm=""/>
                             <redazione id="ann1-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
+                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>
@@ -1513,7 +1513,7 @@ Modifiche
                             <entratainvigore norm=""/>
                             <redazione id="ann2-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
+                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>
@@ -1673,7 +1673,7 @@ Modifiche
                             <entratainvigore norm=""/>
                             <redazione id="ann3-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
+                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>
@@ -1760,13 +1760,13 @@ Modifiche
    11 - Partecipazioni azionarie e conferimenti. 
 </h:p>
                         <h:p> 
-   12 - Concessione di crediti ed anticipazioni per finalitè 
+   12 - Concessione di crediti ed anticipazioni per finalità 
 </h:p>
                         <h:p> 
    produttive 
  
    </h:p>
-                        <h:p>13 - Concessione di crediti ed anticipazioni per finalitè 
+                        <h:p>13 - Concessione di crediti ed anticipazioni per finalità 
 </h:p>
                         <h:p> 
    produttive 
@@ -1815,7 +1815,7 @@ Modifiche
                             <entratainvigore norm=""/>
                             <redazione id="ann4-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
+                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>
@@ -1966,7 +1966,7 @@ Modifiche
                             <entratainvigore norm=""/>
                             <redazione id="ann5-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
+                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>
@@ -2060,7 +2060,7 @@ Modifiche
                             <entratainvigore norm=""/>
                             <redazione id="ann6-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
+                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>
@@ -2163,7 +2163,7 @@ Modifiche
                             <entratainvigore norm=""/>
                             <redazione id="ann7-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
+                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>
@@ -2248,7 +2248,7 @@ Modifiche
                             <entratainvigore norm=""/>
                             <redazione id="ann8-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
+                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>
@@ -2300,7 +2300,7 @@ Modifiche
                             <entratainvigore norm=""/>
                             <redazione id="ann9-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
+                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>
@@ -2355,7 +2355,7 @@ Modifiche
                             <entratainvigore norm=""/>
                             <redazione id="ann10-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
+                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>
@@ -2419,7 +2419,7 @@ Modifiche
                             <entratainvigore norm=""/>
                             <redazione id="ann11-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
+                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>
@@ -2555,7 +2555,7 @@ Modifiche
                             <entratainvigore norm=""/>
                             <redazione id="ann12-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
+                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>
@@ -2682,7 +2682,7 @@ Modifiche
                             <entratainvigore norm=""/>
                             <redazione id="ann13-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
+                        </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>

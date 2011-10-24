@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="35.tributi"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20051025" fonte="rp1" id="t1" tipo="modifica"/><evento data="20041001" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2005;34" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2004;18" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20051025" fonte="rp1" id="t1" tipo="modifica"/><evento data="20041001" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2005;34" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2004;18" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 35.Tributi 
  
 Bollettino 
@@ -161,7 +161,7 @@ d)</num>
                     <num>
  
 4.</num>
-                    <corpo> L'impiego delle risorse finanziarie derivanti dal gettito del tributo speciale, nell'ambito delle finalitè di cui al precedente comma, viene disposto dalla Giunta regionale, ad eccezione delle risorse derivanti dalla tassazione dei fanghi di risulta che sono destinate dalla Giunta regionale ad investimenti di tipo ambientale riferibili ai rifiuti del settore produttivo soggetto al tributo speciale. 
+                    <corpo> L'impiego delle risorse finanziarie derivanti dal gettito del tributo speciale, nell'ambito delle finalità di cui al precedente comma, viene disposto dalla Giunta regionale, ad eccezione delle risorse derivanti dalla tassazione dei fanghi di risulta che sono destinate dalla Giunta regionale ad investimenti di tipo ambientale riferibili ai rifiuti del settore produttivo soggetto al tributo speciale. 
  
 </corpo>
                 </comma>

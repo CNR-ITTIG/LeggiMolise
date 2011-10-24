@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="03.assistenza abitativa"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20000130" fonte="rp1" id="t1" tipo="modifica"/><evento data="20060730" fonte="rp2" id="t2" tipo="modifica"/><evento data="20010715" fonte="rp3" id="t3" tipo="modifica"/><evento data="20051231" fonte="rp4" id="t4" tipo="modifica"/><evento data="20070501" fonte="rp5" id="t5" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2000;04" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2006;17" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2001;17" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:2005;47" xlink:type="simple"/><passiva id="rp5" xlink:href="urn:nir:regione.campania:legge:2007;09" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20000130" fonte="rp1" id="t1" tipo="modifica"/><evento data="20060730" fonte="rp2" id="t2" tipo="modifica"/><evento data="20010715" fonte="rp3" id="t3" tipo="modifica"/><evento data="20051231" fonte="rp4" id="t4" tipo="modifica"/><evento data="20070501" fonte="rp5" id="t5" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2000;04" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2006;17" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2001;17" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2005;47" xlink:type="simple"/><passiva id="rp5" xlink:href="urn:nir:regione.molise:legge:2007;09" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 03.Assistenza abitativa 
  
 Bollettino 
@@ -68,7 +68,7 @@ Modificato art. tabella A dalla legge n. 17/2006 art. 23
                 <comma id="art1-com1">
                     <num>
 1.</num>
-                    <alinea> Le presenti norme, emanate in conformitè ai criteri generali approvati con deliberazione CIPE 19 marzo 1995, pubblicati sulla G.U. n. 122 del 27 maggio 1995, si applicano a tutti gli alloggi acquistati, realizzati e recuperati dallo Stato, da Enti pubblici territoriali e dagli II.AA.CC.PP. a totale carico o con il concorso o il contributo dello Stato o della Regione o di Enti pubblici territoriali, nonchè a quelli acquistati, realizzati o recuperati da Enti pubblici non economici per le finalitè sociali proprie dell'edilizia residenziale pubblica. Sono esclusi da tale applicazione gli alloggi: 
+                    <alinea> Le presenti norme, emanate in conformitè ai criteri generali approvati con deliberazione CIPE 19 marzo 1995, pubblicati sulla G.U. n. 122 del 27 maggio 1995, si applicano a tutti gli alloggi acquistati, realizzati e recuperati dallo Stato, da Enti pubblici territoriali e dagli II.AA.CC.PP. a totale carico o con il concorso o il contributo dello Stato o della Regione o di Enti pubblici territoriali, nonchè a quelli acquistati, realizzati o recuperati da Enti pubblici non economici per le finalità sociali proprie dell'edilizia residenziale pubblica. Sono esclusi da tale applicazione gli alloggi: 
  
 </alinea>
                     <el id="art1-com1-leta">
@@ -197,7 +197,7 @@ Possono essere considerati componenti del nucleo familiare anche persone non leg
                     <num>
  
 3.</num>
-                    <corpo> Particolari requisiti aggiuntivi possono essere stabiliti in relazione all'assegnazione di alloggi realizzati con finanziamenti destinati a specifiche finalitè ovvero in relazione a peculiari esigenze locali. Per tali interventi i provvedimenti regionali di localizzazione potranno prevedere i requisiti integrativi rispondenti alle finalitè' programmatorie, con riferimento anche alla eventuale anzianitè di residenza. 
+                    <corpo> Particolari requisiti aggiuntivi possono essere stabiliti in relazione all'assegnazione di alloggi realizzati con finanziamenti destinati a specifiche finalità ovvero in relazione a peculiari esigenze locali. Per tali interventi i provvedimenti regionali di localizzazione potranno prevedere i requisiti integrativi rispondenti alle finalità' programmatorie, con riferimento anche alla eventuale anzianitè di residenza. 
  
 </corpo>
                 </comma>
@@ -815,7 +815,7 @@ L'accertamento dei requisiti viene effettuato dalla Commissione di cui all'<rif 
  
 3.</num>
 
-                    <corpo> L'ampliamento stabile del nucleo familiare è ammissibile, qualora non comporti la perdita di uno qualsiasi dei requisiti previsti per la permanenza, previa verifica da parte dell'Ente gestore, oltre che nei confronti di persone legate all'assegnatario da vincoli di coniugio o di convivenza more uxorio, di parentela e di affinitè, anche - secondo la definizione del nucleo familiare indicata al <rif xlink:href="#art2">precedente articolo 2</rif>- nei confronti di persone prive di vincoli di parentela o di affinitè, qualora siano, nell'uno e nell'altro caso, riscontrabili le finalitè di costituzione di una stabile e duratura convivenza con i caratteri della mutua solidarietè ed assistenza economica ed affettiva. 
+                    <corpo> L'ampliamento stabile del nucleo familiare è ammissibile, qualora non comporti la perdita di uno qualsiasi dei requisiti previsti per la permanenza, previa verifica da parte dell'Ente gestore, oltre che nei confronti di persone legate all'assegnatario da vincoli di coniugio o di convivenza more uxorio, di parentela e di affinitè, anche - secondo la definizione del nucleo familiare indicata al <rif xlink:href="#art2">precedente articolo 2</rif>- nei confronti di persone prive di vincoli di parentela o di affinitè, qualora siano, nell'uno e nell'altro caso, riscontrabili le finalità di costituzione di una stabile e duratura convivenza con i caratteri della mutua solidarietè ed assistenza economica ed affettiva. 
  
 L'ampliamento stabile del nucleo familiare istituisce per il nuovo componente autorizzato diritto al subentro con relativa applicazione della normativa di gestione. è altresè ammessa, previa autorizzazione dell'Ente gestore, l'ospitalitè temporanea di terze persone per un periodo non superiore a due anni, prorogabile solo per un ulteriore biennio, qualora l'istanza dell'assegnatario scaturisca da obiettive esigenze di assistenza a tempo determinato o da altro giustificato motivo da valutarsi da parte dell'Ente gestore. 
  

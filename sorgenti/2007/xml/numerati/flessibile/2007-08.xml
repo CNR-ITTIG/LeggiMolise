@@ -9,10 +9,10 @@
                 <redazione id="red1" nome="" norm=""/>
                 <urn valore="urn:nir:regione.molise:legge:2007-03-22;8"/>
                 <materie vocabolario="Regione Molise">
-                    <materia valore="07.contabilit&amp;#xe0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
+                    <materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/><evento data="" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2007;19" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2007;22" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/><evento data="" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;19" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2007;22" xlink:type="simple"/></relazioni></ciclodivita>
+        </meta><?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -93,7 +93,7 @@ Razionalizzazione della spesa nei settori sanitario e amministrativo
                 <comma id="art2-com1">
                     <num>
 1.</num>
-                    <corpo> Per garantire il rispetto degli obblighi comunitari e la realizzazione degli obiettivi di finanza pubblica per il triennio 2007/2009, in attuazione dell'intesa tra il Governo e le Regioni per un patto nazionale per la salute approvata dalla Conferenza Stato-Regioni il 28 settembre 2006, l'A.S.Re.M. è tenuta, entro sessanta giorni dall'entrata in vigore della presente legge, ad effettuare la ricognizione dettagliata del personale in servizio a qualsiasi titolo, sia dipendente che con contratto di collaborazione coordinata, nonchè degli incarichi di consulenza in corso di esecuzione, ed a presentare alla Giunta regionale, per l'approvazione entro i successivi sessanta giorni, un piano di razionalizzazione dell'organico compatibile con la finalitè di assicurare i livelli essenziali di assistenza nel territorio regionale. </corpo>
+                    <corpo> Per garantire il rispetto degli obblighi comunitari e la realizzazione degli obiettivi di finanza pubblica per il triennio 2007/2009, in attuazione dell'intesa tra il Governo e le Regioni per un patto nazionale per la salute approvata dalla Conferenza Stato-Regioni il 28 settembre 2006, l'A.S.Re.M. è tenuta, entro sessanta giorni dall'entrata in vigore della presente legge, ad effettuare la ricognizione dettagliata del personale in servizio a qualsiasi titolo, sia dipendente che con contratto di collaborazione coordinata, nonchè degli incarichi di consulenza in corso di esecuzione, ed a presentare alla Giunta regionale, per l'approvazione entro i successivi sessanta giorni, un piano di razionalizzazione dell'organico compatibile con la finalità di assicurare i livelli essenziali di assistenza nel territorio regionale. </corpo>
                 </comma>
                 <comma id="art2-com2">
                     <num>

@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20051016" fonte="rp1" id="t1" tipo="modifica"/><evento data="19901230" fonte="rp2" id="t2" tipo="modifica"/><evento data="19990501" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1997;07" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1990;32" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:1999;12" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20051016" fonte="rp1" id="t1" tipo="modifica"/><evento data="19901230" fonte="rp2" id="t2" tipo="modifica"/><evento data="19990501" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1997;07" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1990;32" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:1999;12" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -75,7 +75,7 @@ Capo I: DISPOSIZIONI GENERALI
         <articolato>
             <articolo id="art1">
                 <num>Art. 1</num>
-                <rubrica>: FINALITè DELLA LEGGE, CAMPO DI APPLICAZIONE, DURATA 
+                <rubrica>: Finalità DELLA LEGGE, CAMPO DI APPLICAZIONE, DURATA 
  </rubrica>
                 <comma id="art1-com1">
                     <num>
@@ -302,7 +302,7 @@ Capo III: NORME PER IL MIGLIORAMENTO DELL'EFFICIENZA DEI SERVIZI
                         <num>
  
 2.</num>
-                        <alinea> Per le finalitè di cui al <rif xlink:href="#art6">successivo articolo 6</rif>, a decorrere dal 1 luglio 1990 è costituito, presso   la Regione, un fondo annuo denominato &lt;&lt;Fondo per il miglioramento dell'efficienza dei servizi&gt;&gt;   che è alimentato: 
+                        <alinea> Per le finalità di cui al <rif xlink:href="#art6">successivo articolo 6</rif>, a decorrere dal 1 luglio 1990 è costituito, presso   la Regione, un fondo annuo denominato &lt;&lt;Fondo per il miglioramento dell'efficienza dei servizi&gt;&gt;   che è alimentato: 
  
 </alinea>
                         <el id="art5-com2-leta">
@@ -326,7 +326,7 @@ c)</num>
                             <num> 
  
 d)</num>
-                            <corpo> dall' importo destinato nell'anno 1989 alla corresponsione dell'indennitè di turno,   reperibilitèischio, orario notturno, festivo e festivo-notturno; lo stesso importo è rivalutato   annualmente nella misura corrispondente al tasso di inflazione;</corpo>
+                            <corpo> dall' importo destinato nell'anno 1989 alla corresponsione dell'indennità di turno,   reperibilitèischio, orario notturno, festivo e festivo-notturno; lo stesso importo è rivalutato   annualmente nella misura corrispondente al tasso di inflazione;</corpo>
                         </el>
                         <el id="art5-com2-lete">
                             <num> 
@@ -411,7 +411,7 @@ e)</num>
  
 4.</num>
 
-                        <corpo> I criteri per l'attuazione, le modalitè e le periodicitè di erogazione dei compensi ed indennitè di cui al <rif xlink:href="#art6-com2">2è comma</rif> sono definiti in sede di negoziazione decentrata a livello di Ente. è esclusa la possibilitè di erogazione di più indennitè o compensi al medesimo titolo. Restano confermate le misure e le modalitè previste dalla normativa vigente alla data di entrata in vigore della presente legge, per la determinazione degli importi unitari relativi agli istituti finanziati con il fondo di cui al presente articolo; possono essere, invece, rideterminati i limiti individuali previsti per i singoli istituti in relazione a particolari esigenze dei servizi, escluso il lavoro straordinario. </corpo>
+                        <corpo> I criteri per l'attuazione, le modalitè e le periodicitè di erogazione dei compensi ed indennità di cui al <rif xlink:href="#art6-com2">2è comma</rif> sono definiti in sede di negoziazione decentrata a livello di Ente. è esclusa la possibilitè di erogazione di più indennità o compensi al medesimo titolo. Restano confermate le misure e le modalitè previste dalla normativa vigente alla data di entrata in vigore della presente legge, per la determinazione degli importi unitari relativi agli istituti finanziati con il fondo di cui al presente articolo; possono essere, invece, rideterminati i limiti individuali previsti per i singoli istituti in relazione a particolari esigenze dei servizi, escluso il lavoro straordinario. </corpo>
                     </comma>
                     <comma id="art6-com5">
                         <num>

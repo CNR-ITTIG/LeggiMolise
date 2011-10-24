@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="34.trasporti e viabilit&amp;#xe0;, navigazione nelle acque interne"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20090501" fonte="rp1" id="t1" tipo="modifica"/><evento data="" fonte="rp2" id="t2" tipo="modifica"/><evento data="20100210" fonte="rp3" id="t3" tipo="modifica"/><evento data="20100916" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2009;12" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2004;01" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2010;03" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:2010;16" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20090501" fonte="rp1" id="t1" tipo="modifica"/><evento data="" fonte="rp2" id="t2" tipo="modifica"/><evento data="20100210" fonte="rp3" id="t3" tipo="modifica"/><evento data="20100916" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;12" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2004;01" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2010;03" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2010;16" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 34.Trasporti e viabilit&#xE0;, navigazione nelle acque interne 
  
 Bollettino 
@@ -49,7 +49,7 @@ Modificato art. 14 dalla legge n. 16/2010 art. 17
                 <num>Art.1 </num>
                 <rubrica>
  
-(Finalitè) 
+(Finalità) 
  
 </rubrica>
                 <comma id="art1-com1">
@@ -60,7 +60,7 @@ Modificato art. 14 dalla legge n. 16/2010 art. 17
                             xlink:href="urn:nir:stato:decreto.legislativo:1997-11-19;422">decreto legislativo 19 novembre 1997 n. 422</rif>, nel rispetto della normativa comunitaria vigente e dello <rif
                             xlink:href="urn:nir:regione.molise:statuto:">Statuto regionale</rif>, riconosce al trasporto pubblico locale un ruolo primario, perseguendo, d'intesa ed in concorso con gli Enti locali il miglioramento del Trasporto regionale ed il riequilibrio modale dei sistemi per la realizzazione di un sistema integrato della mobilitè e delle relative infrastrutture. 
  
-2. Per il perseguimento delle finalitè di cui al <rif xlink:href="#art1-com1">comma 1</rif>, la Regione attua misure idonee a:</corpo>
+2. Per il perseguimento delle finalità di cui al <rif xlink:href="#art1-com1">comma 1</rif>, la Regione attua misure idonee a:</corpo>
                 </comma>
                 <comma id="art1-com2">
                     <num/>
@@ -114,7 +114,7 @@ d) per vie aeree. </corpo>
 </rubrica>
                 <comma id="art3-com1">
                     <num/>
-                    <corpo>1. I servizi di trasporto pubblico su strada si distinguono in complessi di servizi di rete od in servizi di linea, a seconda che siano destinati a soddisfare finalitè di spostamento di area o di specifiche destinazioni. </corpo>
+                    <corpo>1. I servizi di trasporto pubblico su strada si distinguono in complessi di servizi di rete od in servizi di linea, a seconda che siano destinati a soddisfare finalità di spostamento di area o di specifiche destinazioni. </corpo>
                 </comma>
                 <comma id="art3-com2">
                     <num/>
@@ -134,7 +134,7 @@ d) per vie aeree. </corpo>
                 </comma>
                 <comma id="art3-com6">
                     <num/>
-                    <corpo>Si considerano servizi di linea provinciali quelli che, per finalitè di destinazione, collegano il territorio di due o più Comuni compresi in bacini diversi nell'ambito della stessa Provincia, oppure singoli Comuni con il capoluogo provinciale. </corpo>
+                    <corpo>Si considerano servizi di linea provinciali quelli che, per finalità di destinazione, collegano il territorio di due o più Comuni compresi in bacini diversi nell'ambito della stessa Provincia, oppure singoli Comuni con il capoluogo provinciale. </corpo>
                 </comma>
                 <comma id="art3-com7">
                     <num/>

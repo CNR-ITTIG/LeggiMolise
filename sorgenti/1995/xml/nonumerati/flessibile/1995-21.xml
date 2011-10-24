@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="06.consiglieri regionali e gruppi consiliari"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20080527" fonte="rp1" id="t1" tipo="modifica"/><evento data="19961016" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2008;12" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1996;30" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20080527" fonte="rp1" id="t1" tipo="modifica"/><evento data="19961016" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2008;12" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1996;30" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 06.Consiglieri regionali e gruppi consiliari 
  
 Bollettino 
@@ -44,7 +44,7 @@ Modificato art. 1 dalla legge n. 12/2008 art. 12
                     <corpo>
 1. La Regione Molise riconosce l'Associazione fra i Consiglieri regionali già facenti parte del Consiglio regionale del Molise. 
  
-2. L'Associazione persegue il raggiungimento delle seguenti finalitè:</corpo>
+2. L'Associazione persegue il raggiungimento delle seguenti finalità:</corpo>
                 </comma>
                 <comma id="art1-com2">
                     <num/>
@@ -62,7 +62,7 @@ f) curare la raccolta delle attivitè svolte dagli ex Consiglieri regionali e dei
  
 g) offrire assistenza alle famiglie dei consiglieri deceduti nei rapporti con il Consiglio regionale. 
  
-3. I Consiglieri regionali in carica partecipano all'attivitè dell'Associazione e collaborano per il   raggiungimento delle sue finalitè.</corpo>
+3. I Consiglieri regionali in carica partecipano all'attivitè dell'Associazione e collaborano per il   raggiungimento delle sue finalità.</corpo>
                 </comma>
             </articolo>
             <articolo id="art2">

@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="22.organizzazione delle funzioni amministrative a livello regionale e locale"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20000430" fonte="rp1" id="t1" tipo="modifica"/><evento data="20061015" fonte="rp2" id="t2" tipo="modifica"/><evento data="20050501" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2000;22" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2006;28" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2005;11" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20000430" fonte="rp1" id="t1" tipo="modifica"/><evento data="20061015" fonte="rp2" id="t2" tipo="modifica"/><evento data="20050501" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2000;22" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2006;28" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2005;11" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 22.Organizzazione delle funzioni amministrative a livello regionale e locale 
  
 Bollettino 
@@ -59,12 +59,12 @@ DISPOSIZIONI GENERALI
                 <num>Art.1 </num>
                 <rubrica>
  
-(Finalitè) 
+(Finalità) 
  </rubrica>
                 <comma id="art1-com1">
                     <num>
 1.</num>
-                    <alinea> La presente legge persegue le seguenti finalitè: 
+                    <alinea> La presente legge persegue le seguenti finalità: 
  
 </alinea>
                     <el id="art1-com1-leta">
@@ -263,7 +263,7 @@ o) collaborazione e raccordo tra diversi livelli di governo mediante compresenza
                 <comma id="art4-com1">
                     <num>
 1.</num>
-                    <corpo> La Regione, rafforzando i propri compiti di legislazione, programmazione generale, coordinamento e alta amministrazione, si conforma alla finalitè prioritaria del decentramento e del riordino organico del sistema dei poteri e delle relazioni istituzionali tra Regione ed Enti locali; a tal fine, la Regione qualifica il proprio assetto organizzativo, esercitando esclusivamente funzioni amministrative che attengono ad esigenze di carattere unitario a livello regionale. </corpo>
+                    <corpo> La Regione, rafforzando i propri compiti di legislazione, programmazione generale, coordinamento e alta amministrazione, si conforma alla finalità prioritaria del decentramento e del riordino organico del sistema dei poteri e delle relazioni istituzionali tra Regione ed Enti locali; a tal fine, la Regione qualifica il proprio assetto organizzativo, esercitando esclusivamente funzioni amministrative che attengono ad esigenze di carattere unitario a livello regionale. </corpo>
                 </comma>
                 <comma id="art4-com2">
                     <num>
@@ -893,7 +893,7 @@ Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1992-05-26;15">legg
                                 id="art14-com7-mod9-vir10" tipo="struttura">
                                 <comma id="art14-com7-mod9-vir10-com0">
                                     <num>1.</num>
-                                    <corpo> Ai componenti del Comitato spetta per ogni giornata di seduta, nei limiti di 52 sedute l'anno, un'indennitè di presenza nella misura di: 
+                                    <corpo> Ai componenti del Comitato spetta per ogni giornata di seduta, nei limiti di 52 sedute l'anno, un'indennità di presenza nella misura di: 
  
 Presidente                                               Lire 200.000 
  
@@ -2599,7 +2599,7 @@ f)</num>
                                 <num> 
  
 g)</num>
-                                <corpo> demanio marittimo per finalitè turistico-ricreative. </corpo>
+                                <corpo> demanio marittimo per finalità turistico-ricreative. </corpo>
                             </el>
                         </comma>
                         <comma id="art54-com2">
@@ -5380,7 +5380,7 @@ PARTE PRIMA
 DISPOSIZIONI GENERALI 
  
 <rif
-                                xlink:href="#art1">Art. 1</rif> Finalitè 
+                                xlink:href="#art1">Art. 1</rif> Finalità 
  
 <rif
                                 xlink:href="#art2">Art. 2</rif> Oggetto 

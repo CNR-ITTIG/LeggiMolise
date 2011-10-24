@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="14.governo del territorio, urbanistica, edilizia"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20070501" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2007;09" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20070501" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;09" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 14.Governo del territorio, urbanistica, edilizia 
 03.Assistenza abitativa 
  
@@ -50,7 +50,7 @@ DISPOSIZIONI GENERALI
                     <num>Art. 1 </num>
                     <rubrica>
  
-Finalitè 
+Finalità 
  </rubrica>
                     <comma id="art1-com1">
                         <num>
@@ -121,7 +121,7 @@ h)</num>
                         <num>
  
 4.</num>
-                        <corpo> Coerentemente con le finalitè di contenimento dei costi di costruzione, gli interventi edilizi perseguono obiettivi di qualità e di vivibilitè dell'ambiente interno ed esterno all'abitazione, favoriscono la diffusione di soluzioni architettoniche ecocompatibili ed il risparmio energetico, assicurano, nel caso di recupero, il raggiungimento dei necessari livelli di sicurezza statica ed antisismica di cui alle leggi vigenti in materia. </corpo>
+                        <corpo> Coerentemente con le finalità di contenimento dei costi di costruzione, gli interventi edilizi perseguono obiettivi di qualità e di vivibilitè dell'ambiente interno ed esterno all'abitazione, favoriscono la diffusione di soluzioni architettoniche ecocompatibili ed il risparmio energetico, assicurano, nel caso di recupero, il raggiungimento dei necessari livelli di sicurezza statica ed antisismica di cui alle leggi vigenti in materia. </corpo>
                     </comma>
                     <comma id="art1-com5">
                         <num>
@@ -155,7 +155,7 @@ Programmazione regionale
  
 3.</num>
 
-                        <alinea> Il programma tiene conto delle finalitè di cui all'<rif xlink:href="#art1">articolo 1</rif> e dei fabbisogni primari, in particolare: 
+                        <alinea> Il programma tiene conto delle finalità di cui all'<rif xlink:href="#art1">articolo 1</rif> e dei fabbisogni primari, in particolare: 
  
 </alinea>
                         <el id="art2-com3-leta">
@@ -619,7 +619,7 @@ Proprietè dell'abitazione primaria
                     <comma id="art8-com1">
                         <num>
 1.</num>
-                        <corpo> Per favorire l'incremento della proprietè dell'abitazione primaria sono concessi contributi agli operatori privati per l'acquisto e recupero, il recupero e la costruzione di abitazione da destinare a residenza. Per le stesse finalitè sono concessi contributi agli Istituti Autonomi Case Popolari regionali. </corpo>
+                        <corpo> Per favorire l'incremento della proprietè dell'abitazione primaria sono concessi contributi agli operatori privati per l'acquisto e recupero, il recupero e la costruzione di abitazione da destinare a residenza. Per le stesse finalità sono concessi contributi agli Istituti Autonomi Case Popolari regionali. </corpo>
                     </comma>
                     <comma id="art8-com2">
                         <num>

@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="06.consiglieri regionali e gruppi consiliari"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20080527" fonte="rp1" id="t1" tipo="modifica"/><evento data="19961016" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2008;12" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1996;30" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20080527" fonte="rp1" id="t1" tipo="modifica"/><evento data="19961016" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2008;12" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1996;30" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 06.Consiglieri regionali e gruppi consiliari 
  
 Bollettino 
@@ -48,7 +48,7 @@ Modificato art. 1 dalla legge n. 12/2008 art. 12
                     <num>
  
 2.</num>
-                    <alinea> L'Associazione persegue il raggiungimento delle seguenti finalitè: 
+                    <alinea> L'Associazione persegue il raggiungimento delle seguenti finalità: 
  
 </alinea>
                     <el id="art1-com2-leta">
@@ -96,7 +96,7 @@ g)</num>
                     <num>
  
 3.</num>
-                    <corpo> I Consiglieri regionali in carica partecipano all'attivitè dell'Associazione e collaborano per il   raggiungimento delle sue finalitè. 
+                    <corpo> I Consiglieri regionali in carica partecipano all'attivitè dell'Associazione e collaborano per il   raggiungimento delle sue finalità. 
  
 </corpo>
                 </comma>

@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20090131" fonte="rp1" id="t1" tipo="modifica"/><evento data="20080816" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2009;01" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2007;24" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20090131" fonte="rp1" id="t1" tipo="modifica"/><evento data="20080816" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;01" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2007;24" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -72,7 +72,7 @@ b)</num>
                 <num>Art. 2 </num>
                 <rubrica>
  
-Istituzione dell'Agenzia -Finalitè 
+Istituzione dell'Agenzia -Finalità 
  </rubrica>
                 <comma id="art2-com1">
                     <num>
@@ -102,7 +102,7 @@ Istituzione dell'Agenzia -Finalitè
                 <comma id="art2-com5">
                     <num>
 5.</num>
-                    <alinea> L'Agenzia persegue le seguenti finalitè istituzionali: 
+                    <alinea> L'Agenzia persegue le seguenti finalità istituzionali: 
  
 </alinea>
                     <el id="art2-com5-leta">
@@ -184,7 +184,7 @@ Funzioni
                     <num>
 1.</num>
 
-                    <alinea> Per il conseguimento delle finalitè di cui all'<rif xlink:href="#art2-com5">articolo 2, comma 5</rif>, l'Agenzia svolge le seguenti funzioni: 
+                    <alinea> Per il conseguimento delle finalità di cui all'<rif xlink:href="#art2-com5">articolo 2, comma 5</rif>, l'Agenzia svolge le seguenti funzioni: 
  
 </alinea>
                     <el id="art3-com1-leta">
@@ -294,7 +294,7 @@ b)</num>
  
 c)</num>
 
-                        <corpo> esegue ogni altro compito e funzione ad essa delegato dalla Regione e coerente con le finalitè di cui all'<rif xlink:href="#art2">articolo 2</rif>;</corpo>
+                        <corpo> esegue ogni altro compito e funzione ad essa delegato dalla Regione e coerente con le finalità di cui all'<rif xlink:href="#art2">articolo 2</rif>;</corpo>
                     </el>
                     <el id="art3-com5-letd">
                         <num> 
@@ -454,13 +454,13 @@ g)</num>
  
 5.</num>
 
-                    <corpo> Al Presidente del Consiglio di amministrazione dell'Agenzia ed ai componenti del Consiglio stesso è attribuita un'indennitè di funzione mensile non superiore, rispettivamente, al 50% ed al 25% di quella stabilita, ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:2000-08-18;267#art82">art. 82 del decreto legislativo 18 agosto 2000, n. 267</rif>, per i sindaci dei comuni di dimensione demografica pari a quella della Regione Molise. </corpo>
+                    <corpo> Al Presidente del Consiglio di amministrazione dell'Agenzia ed ai componenti del Consiglio stesso è attribuita un'indennità di funzione mensile non superiore, rispettivamente, al 50% ed al 25% di quella stabilita, ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:2000-08-18;267#art82">art. 82 del decreto legislativo 18 agosto 2000, n. 267</rif>, per i sindaci dei comuni di dimensione demografica pari a quella della Regione Molise. </corpo>
                 </comma>
                 <comma id="art6-com6">
                     <num>
  
 6.</num>
-                    <corpo> L'indennitè di cui al comma precedente è ridotta del 25% per ogni assenza che non sia dovuta a grave e motivato impedimento od impegno istituzionale. 
+                    <corpo> L'indennità di cui al comma precedente è ridotta del 25% per ogni assenza che non sia dovuta a grave e motivato impedimento od impegno istituzionale. 
  
 </corpo>
                 </comma>
@@ -609,7 +609,7 @@ c)</num>
                     <num>
  
 8.</num>
-                    <corpo> Al Presidente ed ai componenti del Collegio dei revisori dei conti spetta un'indennitè mensile pari, rispettivamente, al 40 ed al 30 per cento di quella prevista per il Presidente dell'Agenzia, nonchè il rimborso delle spese di viaggio. 
+                    <corpo> Al Presidente ed ai componenti del Collegio dei revisori dei conti spetta un'indennità mensile pari, rispettivamente, al 40 ed al 30 per cento di quella prevista per il Presidente dell'Agenzia, nonchè il rimborso delle spese di viaggio. 
  
 </corpo>
                 </comma>
@@ -1268,13 +1268,13 @@ Commissario liquidatore
                     <num>
  
 2.</num>
-                    <corpo> Al Commissario liquidatore spetta a titolo di compenso, per il periodo dell'incarico, una indennitè mensile lorda pari a quella prevista per il Presidente del Consiglio di amministrazione dell'Agenzia. </corpo>
+                    <corpo> Al Commissario liquidatore spetta a titolo di compenso, per il periodo dell'incarico, una indennità mensile lorda pari a quella prevista per il Presidente del Consiglio di amministrazione dell'Agenzia. </corpo>
                 </comma>
                 <comma id="art20-com3">
                     <num>
  
 3.</num>
-                    <corpo> I compensi e le indennitè da corrispondere al Commissario fanno carico alla gestione liquidatoria dell'ERSAM. 
+                    <corpo> I compensi e le indennità da corrispondere al Commissario fanno carico alla gestione liquidatoria dell'ERSAM. 
  
 </corpo>
                 </comma>

@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20060831" fonte="rp1" id="t1" tipo="modifica"/><evento data="20061020" fonte="rp2" id="t2" tipo="modifica"/><evento data="20070524" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2006;18" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2006;36" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2007;14" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20060831" fonte="rp1" id="t1" tipo="modifica"/><evento data="20061020" fonte="rp2" id="t2" tipo="modifica"/><evento data="20070524" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2006;18" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2006;36" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
  
 Bollettino 
@@ -58,7 +58,7 @@ Modificato art. 22 dalla legge n. 18/2006 art. 9
                     <num/>
 
                     <corpo>
-Finalitè 
+Finalità 
  
 1. La Regione promuove il miglioramento, lo sviluppo, la tutela e la valorizzazione della tartuficoltura. 
  
@@ -77,7 +77,7 @@ Competenze ed interventi
  
 2. Sono di competenza delle Province tutte le funzioni amministrative relative all'applicazione della presente legge, eccetto quelle specificamente assegnate alla Giunta regionale. 
  
-3. Per le finalitè di cui all'<rif xlink:href="#art1">articolo 1</rif> la Giunta regionale puè disporre:</corpo>
+3. Per le finalità di cui all'<rif xlink:href="#art1">articolo 1</rif> la Giunta regionale puè disporre:</corpo>
                 </comma>
                 <comma id="art2-com2">
                     <num/>

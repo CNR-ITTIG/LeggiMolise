@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19900429" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1990;17" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19900429" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1990;17" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
  
 Bollettino 
@@ -43,7 +43,7 @@ Modificato art. 1 dalla legge n. 17/1990 art. 1
                     <num/>
 
                     <corpo><?error Marker Warning 108?>
-A decorrere dal 1è gennaio 1976 l'indennitè di residenza prevista dalla legge marzo 1968, n. 221 per i titolari, i direttori responsabili e i gestori provvisori di farmacie rurali ubicate in localitè con popolazione inferiore a 3.000 abitanti è fissata nelle seguenti misure: 
+A decorrere dal 1è gennaio 1976 l'indennità di residenza prevista dalla legge marzo 1968, n. 221 per i titolari, i direttori responsabili e i gestori provvisori di farmacie rurali ubicate in localitè con popolazione inferiore a 3.000 abitanti è fissata nelle seguenti misure: 
  
 - L. 2.500.000 annue per popolazione fino a 1.000 abitanti; 
  
@@ -51,11 +51,11 @@ A decorrere dal 1è gennaio 1976 l'indennitè di residenza prevista dalla legge ma
  
 - L. 1.500.000 annue per popolazione da 2.001 a 3.000 abitanti. 
  
-L'indennitè di cui al precedente comma è aumentata del 20% per la durata di cinque anni quando si tratti di nuova farmacia aperta in localitè sede di centro socio-sanitario di distretto, previsto dal piano regionale, che risulti sprovvisto di servizio farmaceutico. 
+L'indennità di cui al precedente comma è aumentata del 20% per la durata di cinque anni quando si tratti di nuova farmacia aperta in localitè sede di centro socio-sanitario di distretto, previsto dal piano regionale, che risulti sprovvisto di servizio farmaceutico. 
  
 Il contributo annuo spettante ai Comuni che gestiscono le farmacie rurali, secondo le norme stabilite dal <rif
                             xlink:href="urn:nir:stato:regio.decreto:1925-10-15;2578">R.D. 15 ottobre 1925 n. 2578</rif> ed in base alla <rif
-                            xlink:href="urn:nir:stato:legge:1968-03-08;221">legge 8 marzo 1968, n. 221</rif>, è elevato, in relazione alla popolazione, nella misura delle indennitè stabilite dai comma precedenti a favore dei farmacisti rurali, maggiorate del 20% e ridotte della quota dovuta dal Comune. 
+                            xlink:href="urn:nir:stato:legge:1968-03-08;221">legge 8 marzo 1968, n. 221</rif>, è elevato, in relazione alla popolazione, nella misura delle indennità stabilite dai comma precedenti a favore dei farmacisti rurali, maggiorate del 20% e ridotte della quota dovuta dal Comune. 
  
 Nulla è innovato per quanto concerne le farmacie rurali ubicate in localitè polazione superiore a 3.000 abitanti, o che siano riconosciute stazioni di cura, soggiorno e turismo e per i soggetti di cui al <rif xlink:href="#art1-com1">primo comma</rif> che esplichino attivitè lavorativa alle dipendenze di Enti Pubblici o Aziende Private. 
  
@@ -67,7 +67,7 @@ Nulla è innovato per quanto concerne le farmacie rurali ubicate in localitè pola
                 <comma id="art2-com1">
                     <num/>
                     <corpo>
-L'indennitè di gestione prevista dall'<rif xlink:href="urn:nir:stato:legge:1968-03-08;221#art3-com2">art. 3 secondo comma della legge 8 marzo 1968, n. 221</rif> è fissata in L. 300.000 annue. </corpo>
+L'indennità di gestione prevista dall'<rif xlink:href="urn:nir:stato:legge:1968-03-08;221#art3-com2">art. 3 secondo comma della legge 8 marzo 1968, n. 221</rif> è fissata in L. 300.000 annue. </corpo>
                 </comma>
             </articolo>
             <articolo id="art3">
@@ -75,7 +75,7 @@ L'indennitè di gestione prevista dall'<rif xlink:href="urn:nir:stato:legge:1968-
                 <comma id="art3-com1">
                     <num/>
                     <corpo><?error Marker Warning 108?>
-I titolari, i direttori responsabili, i gestori provvisori di farmacie rurali i sanitari gestori di dispensari farmaceutici aspiranti all'indennitè, devono, entro il 31 marzo del primo anno di ciascun biennio, presentare apposita istanza alla Giunta Regionale conrredata da: 
+I titolari, i direttori responsabili, i gestori provvisori di farmacie rurali i sanitari gestori di dispensari farmaceutici aspiranti all'indennità, devono, entro il 31 marzo del primo anno di ciascun biennio, presentare apposita istanza alla Giunta Regionale conrredata da: 
  
 1) un certificato del Sindaco attestante che la farmacia o il dispensario sono regolarmente aperti al pubblico; 
  
@@ -92,7 +92,7 @@ Per il 1976 l'istanza di cui sopra deve essere prodotta nel termine di sessanta 
                     <num/>
 
                     <corpo>
-L'onere dell'indennitè di residenza, detratta la parte posta a carico del bilancio del Comune nella misura prevista dall'<rif xlink:href="urn:nir:stato:legge:1968-03-08;221#art6">art. 6 della legge 8 marzo 1968, n. 221</rif>, grava sul bilancio della Regione. </corpo>
+L'onere dell'indennità di residenza, detratta la parte posta a carico del bilancio del Comune nella misura prevista dall'<rif xlink:href="urn:nir:stato:legge:1968-03-08;221#art6">art. 6 della legge 8 marzo 1968, n. 221</rif>, grava sul bilancio della Regione. </corpo>
                 </comma>
                 <comma id="art4-com2">
                     <num/>

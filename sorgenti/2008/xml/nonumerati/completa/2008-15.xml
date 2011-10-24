@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="09.energia"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20090829" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2009;22" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20090829" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;22" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 09.Energia 
  
 Bollettino 

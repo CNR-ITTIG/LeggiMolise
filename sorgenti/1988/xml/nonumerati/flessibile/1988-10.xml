@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="06.consiglieri regionali e gruppi consiliari"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19950506" fonte="rp1" id="t1" tipo="modifica"/><evento data="19961016" fonte="rp2" id="t2" tipo="modifica"/><evento data="19950316" fonte="rp3" id="t3" tipo="modifica"/><evento data="20060223" fonte="rp4" id="t4" tipo="modifica"/><evento data="20090131" fonte="rp5" id="t5" tipo="modifica"/><evento data="19950506" fonte="rp6" id="t6" tipo="modifica"/><evento data="20100210" fonte="rp7" id="t7" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1995;15" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1996;30" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:1995;08" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:2006;02" xlink:type="simple"/><passiva id="rp5" xlink:href="urn:nir:regione.campania:legge:2009;01" xlink:type="simple"/><passiva id="rp6" xlink:href="urn:nir:regione.campania:legge:1995;16" xlink:type="simple"/><passiva id="rp7" xlink:href="urn:nir:regione.campania:legge:2010;03" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19950506" fonte="rp1" id="t1" tipo="modifica"/><evento data="19961016" fonte="rp2" id="t2" tipo="modifica"/><evento data="19950316" fonte="rp3" id="t3" tipo="modifica"/><evento data="20060223" fonte="rp4" id="t4" tipo="modifica"/><evento data="20090131" fonte="rp5" id="t5" tipo="modifica"/><evento data="19950506" fonte="rp6" id="t6" tipo="modifica"/><evento data="20100210" fonte="rp7" id="t7" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1995;15" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1996;30" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:1995;08" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2006;02" xlink:type="simple"/><passiva id="rp5" xlink:href="urn:nir:regione.molise:legge:2009;01" xlink:type="simple"/><passiva id="rp6" xlink:href="urn:nir:regione.molise:legge:1995;16" xlink:type="simple"/><passiva id="rp7" xlink:href="urn:nir:regione.molise:legge:2010;03" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 06.Consiglieri regionali e gruppi consiliari 
  
 Bollettino 
@@ -86,7 +86,7 @@ Il bilancio del fondo di previdenza è allegato come gestione speciale al bilanci
                 </comma>
                 <comma id="art2-com5">
                     <num/>
-                    <corpo>Il relativo stanziamento è iscritto nel capitolo di spesa del Bilancio del Consiglio Regionale, n. 1 &lt;&lt;indennitè di carica e di missione spettante ai Consiglieri regionali&gt;&gt;. </corpo>
+                    <corpo>Il relativo stanziamento è iscritto nel capitolo di spesa del Bilancio del Consiglio Regionale, n. 1 &lt;&lt;indennità di carica e di missione spettante ai Consiglieri regionali&gt;&gt;. </corpo>
                 </comma>
             </articolo>
             <articolo id="art3">
@@ -96,11 +96,11 @@ Il bilancio del fondo di previdenza è allegato come gestione speciale al bilanci
                 <comma id="art3-com1">
                     <num/>
                     <corpo> 
-I Consiglieri regionali sono assoggettati d'ufficio al pagamento dei contributi di previdenza dal giorno della corresponsione dell'indennitè consiliare. </corpo>
+I Consiglieri regionali sono assoggettati d'ufficio al pagamento dei contributi di previdenza dal giorno della corresponsione dell'indennità consiliare. </corpo>
                 </comma>
                 <comma id="art3-com2">
                     <num/>
-                    <corpo>A decorrere dal primo giorno del mese successivo a quello di entrata in vigore della presente legge, i Consiglieri regionali sono assoggettati d'ufficio al pagamento dei contributi di previdenza nella misura del 22% della indennitè mensile lorda corrisposta che è determinata, in rapporto percentuale con l'indennitè mensile lorda spettante ai membri del Parlamento nazionale, nella   misura del 65%. </corpo>
+                    <corpo>A decorrere dal primo giorno del mese successivo a quello di entrata in vigore della presente legge, i Consiglieri regionali sono assoggettati d'ufficio al pagamento dei contributi di previdenza nella misura del 22% della indennità mensile lorda corrisposta che è determinata, in rapporto percentuale con l'indennità mensile lorda spettante ai membri del Parlamento nazionale, nella   misura del 65%. </corpo>
                 </comma>
                 <comma id="art3-com3">
                     <num/>
@@ -216,9 +216,9 @@ Qualora il Consigliere già cessato dal mandato rientri a far parte del Consiglio
                     <num/>
 
                     <corpo> 
-A decorrere dall'entrata in vigore della presente legge,  l'ammontare mensile dell'assegno vitalizio è determinato in base alla seguente tabella, in percentuale, rispetto agli anni di contribuzione, sull'indennitè mensile lorda - di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1976;22">legge regionale n. 22 del 1976</rif> e successive modificazioni - corrisposta ai Consiglieri in carica nello stesso mese cui si riferisce l'assegno vitalizio: 
+A decorrere dall'entrata in vigore della presente legge,  l'ammontare mensile dell'assegno vitalizio è determinato in base alla seguente tabella, in percentuale, rispetto agli anni di contribuzione, sull'indennità mensile lorda - di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1976;22">legge regionale n. 22 del 1976</rif> e successive modificazioni - corrisposta ai Consiglieri in carica nello stesso mese cui si riferisce l'assegno vitalizio: 
  
-ANNI DI CONTRIBUZIONE % SULLA INDENNITè MENSILE LORDA 
+ANNI DI CONTRIBUZIONE % SULLA indennità MENSILE LORDA 
  
 5 30 
  
@@ -280,7 +280,7 @@ La corresponsione dell'assegno vitalizio puè essere anticipata, su richiesta del
 
                     <corpo>Per ogni anno di anticipazione le misure dell'assegno vitalizio riportate nella tabella di cui all'<rif xlink:href="#art11">art. 11</rif> sono ridotte, anche ai fini della determinazione dell'assegno vitalizio in relazione al numero di anni di anticipazione, secondo la seguente tabella: 
  
-Anni di contribuzione: misura dell'assegno vitalizio ridotto, a seconda degli anni di anticipazione, espressa in percentuale sull'indennitè lorda del Consigliere. </corpo>
+Anni di contribuzione: misura dell'assegno vitalizio ridotto, a seconda degli anni di anticipazione, espressa in percentuale sull'indennità lorda del Consigliere. </corpo>
                 </comma>
                 <comma id="art13-com3">
                     <num/>

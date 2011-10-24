@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19740922" fonte="rp1" id="t1" tipo="modifica"/><evento data="20051016" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1974;12" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1997;07" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19740922" fonte="rp1" id="t1" tipo="modifica"/><evento data="20051016" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1974;12" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1997;07" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -153,7 +153,7 @@ Il coordinamento dell'attivitè di più settori è affidato dalla Giunta regionale 
                 </comma>
                 <comma id="art4-com5">
                     <num/>
-                    <corpo>Ai coordinatori e ai segretari del Consiglio e della Giunta Regionale compete per la durata dell'incarico una indennitè annua non pensionabile di L. 1.200.000 da corrispondersi in dodicesimi posticipati. </corpo>
+                    <corpo>Ai coordinatori e ai segretari del Consiglio e della Giunta Regionale compete per la durata dell'incarico una indennità annua non pensionabile di L. 1.200.000 da corrispondersi in dodicesimi posticipati. </corpo>
                 </comma>
                 <comma id="art4-com6">
                     <num/>
@@ -165,7 +165,7 @@ Il coordinamento dell'attivitè di più settori è affidato dalla Giunta regionale 
                 </comma>
                 <comma id="art4-com8">
                     <num/>
-                    <corpo>A detti funzionari sarè attribuita una indennitè annua non pensionabile di L. 800.000 da corrispondersi in dodicesimi posticipati. </corpo>
+                    <corpo>A detti funzionari sarè attribuita una indennità annua non pensionabile di L. 800.000 da corrispondersi in dodicesimi posticipati. </corpo>
                 </comma>
                 <comma id="art4-com9">
                     <num/>
@@ -428,7 +428,7 @@ I vincitori del concorso conseguono la nomina in prova, disposta con decreto del
                 </comma>
                 <comma id="art12-com5">
                     <num/>
-                    <corpo>Il periodo di prova dura sei mesi, trascorso il quale il dipendente, su proposta dell'Amministrazione, consegue la nomina in ruolo con decreto del Presidente della Giunta Regionale. Nel caso di giudizio sfavorevole, il periodo di prova è prorogato di altri sei mesi,   trascorsi i quali, ove il giudizio sia ancora sfavorevole, l'Amministrazione, previa relativa contestazione all'interessato e sentito il Consiglio di Amministrazione, dispone con   provvedimento motivato la risoluzione del rapporto di impiego; in tale caso spetta all'impiegato una indennitè pari a due mensilitè del trattamento economico relativo al periodo di prova. </corpo>
+                    <corpo>Il periodo di prova dura sei mesi, trascorso il quale il dipendente, su proposta dell'Amministrazione, consegue la nomina in ruolo con decreto del Presidente della Giunta Regionale. Nel caso di giudizio sfavorevole, il periodo di prova è prorogato di altri sei mesi,   trascorsi i quali, ove il giudizio sia ancora sfavorevole, l'Amministrazione, previa relativa contestazione all'interessato e sentito il Consiglio di Amministrazione, dispone con   provvedimento motivato la risoluzione del rapporto di impiego; in tale caso spetta all'impiegato una indennità pari a due mensilitè del trattamento economico relativo al periodo di prova. </corpo>
                 </comma>
                 <comma id="art12-com6">
                     <num/>
@@ -573,7 +573,7 @@ Con le modalitè stabilite dall'articolo precedente il personale regionale puè es
                 </comma>
                 <comma id="art18-com4">
                     <num/>
-                    <corpo>Per i comandi fuori sede compete ai dipendenti l'indennitè di trasferta secondo i criteri previsti dalle norme vigenti per i dipendenti civili dello Stato. </corpo>
+                    <corpo>Per i comandi fuori sede compete ai dipendenti l'indennità di trasferta secondo i criteri previsti dalle norme vigenti per i dipendenti civili dello Stato. </corpo>
                 </comma>
                 <comma id="art18-com5">
                     <num/>
@@ -1511,7 +1511,7 @@ c)</num>
                 </comma>
                 <comma id="art58-com3">
                     <num/>
-                    <corpo>Ai componenti che non siano dipendenti regionali spettano, per ogni seduta, indennitè pari a quelle corrisposte ai membri elettivi dell'Organo regionale di controllo. </corpo>
+                    <corpo>Ai componenti che non siano dipendenti regionali spettano, per ogni seduta, indennità pari a quelle corrisposte ai membri elettivi dell'Organo regionale di controllo. </corpo>
                 </comma>
                 <comma id="art58-com4">
                     <num/>
@@ -1937,7 +1937,7 @@ b)</num>
                 </comma>
                 <comma id="art76-com5">
                     <num/>
-                    <corpo>Spettano al personale regionale, oltre lo stipendio, l'aggiunta di famiglia, l'indennitè integrativa speciale e 13a mensilitè, secondo le norme previste per i dipendenti civili dello Stato. </corpo>
+                    <corpo>Spettano al personale regionale, oltre lo stipendio, l'aggiunta di famiglia, l'indennità integrativa speciale e 13a mensilitè, secondo le norme previste per i dipendenti civili dello Stato. </corpo>
                 </comma>
                 <comma id="art76-com6">
                     <num/>
@@ -1947,12 +1947,12 @@ b)</num>
             </articolo>
             <articolo id="art77">
                 <num>Art. 77</num>
-                <rubrica>: Trattamento per missione fuori sede e indennitè di trasferimento. 
+                <rubrica>: Trattamento per missione fuori sede e indennità di trasferimento. 
 </rubrica>
                 <comma id="art77-com1">
                     <num/>
                     <corpo> 
-Al personale della Regione, comandato in missione per ragioni di ufficio fuori dalla ordinaria sede di servizio, spettano le indennitè di missione nella seguente misura: 
+Al personale della Regione, comandato in missione per ragioni di ufficio fuori dalla ordinaria sede di servizio, spettano le indennità di missione nella seguente misura: 
  
 - livello direttivo: L. 14.000 con pernottamento; 
  
@@ -1962,7 +1962,7 @@ La missione deve essere preventivamente autorizzata dal Presidente del Consiglio
  
 Ai dipendenti regionali in missione compete il rimborso delle spese effettivamente sostenute per il viaggio in ferrovia o sui piroscafi nel limite del costo del biglietto a tariffa d'uso. 
  
-Per quanto non previsto dai commi precedenti relativamente alle missioni e per la indennitè di trasferimento si applicano le disposizioni vigenti per i dipendenti civili dello Stato. 
+Per quanto non previsto dai commi precedenti relativamente alle missioni e per la indennità di trasferimento si applicano le disposizioni vigenti per i dipendenti civili dello Stato. 
  
 </corpo>
                 </comma>
@@ -1978,7 +1978,7 @@ Gli importi dei compensi e dei gettoni che dovrebbero essere liquidati ai dipend
                 </comma>
                 <comma id="art78-com2">
                     <num/>
-                    <corpo>Ai dipendenti regionali interessati verrè riconosciuta la eventuale indennitè di missione ed il compenso per prestazioni straordinarie ove la partecipazione a sedute comporti prestazioni   eccedenti il normale orario d'ufficio. </corpo>
+                    <corpo>Ai dipendenti regionali interessati verrè riconosciuta la eventuale indennità di missione ed il compenso per prestazioni straordinarie ove la partecipazione a sedute comporti prestazioni   eccedenti il normale orario d'ufficio. </corpo>
                 </comma>
                 <comma id="art78-com3">
                     <num/>

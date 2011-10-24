@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/><evento data="20030531" fonte="rp2" id="t2" tipo="modifica"/><evento data="20031216" fonte="rp3" id="t3" tipo="modifica"/><evento data="20070524" fonte="rp4" id="t4" tipo="modifica"/><evento data="20060115" fonte="rp5" id="t5" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2003;05" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2003;16" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2003;30" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:2007;14" xlink:type="simple"/><passiva id="rp5" xlink:href="urn:nir:regione.campania:legge:2005;52" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/><evento data="20030531" fonte="rp2" id="t2" tipo="modifica"/><evento data="20031216" fonte="rp3" id="t3" tipo="modifica"/><evento data="20070524" fonte="rp4" id="t4" tipo="modifica"/><evento data="20060115" fonte="rp5" id="t5" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2003;05" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2003;16" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2003;30" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/><passiva id="rp5" xlink:href="urn:nir:regione.molise:legge:2005;52" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
  
 Bollettino 
@@ -65,7 +65,7 @@ Il Commissario di Governo ha apposto il visto ed ha annotato quanto segue: Con l
         <articolato>
             <articolo id="art1">
                 <num>Art. 1</num>
-                <rubrica>: FINALITè 
+                <rubrica>: Finalità 
 </rubrica>
                 <comma id="art1-com1">
                     <num/>
@@ -238,7 +238,7 @@ f) è vietata la detenzione di qualsiasi specie ittica.
 
                     <corpo>fine di migliorare qualitativamente il patrimonio ittico ed in forma sperimentale e controllata in bacini delimitati secondo le prescrizioni indicate nell'autorizzazione stessa. 
  
-3. Le immissioni di cui al <rif xlink:href="#art8-com1">comma 1</rif> possono essere ripetute, con le stesse modalitè, se l'esperimento è risultato conforme alle finalitè della presente legge. 
+3. Le immissioni di cui al <rif xlink:href="#art8-com1">comma 1</rif> possono essere ripetute, con le stesse modalitè, se l'esperimento è risultato conforme alle finalità della presente legge. 
  
 4. è consentito, solo per le gare di pesca regolarmente autorizzate, l'immissione nelle acque di categoria &lt;&lt;A&gt;&gt; e &lt;&lt;B&gt;&gt; di salmonidi della specie &lt;&lt;Iridea&gt;&gt;. 
  
@@ -471,7 +471,7 @@ f) realizzazione di opere di rilevante interesse attinenti l'esercizio della pes
  
 3. L'esercizio dell'acquacoltura in acque collegate con quelle pubbliche è soggetto a preventiva concessione da parte dell'Amministrazione Provinciale competente per territorio che, se rilasciata, ne viene data comunicazione agli Assessorati regionali competenti. Con l'autorizzazione vengono stabiliti i criteri da osservare, secondo quanto previsto nel regolamento regionale. 
  
-4. Per le precise finalitè del presente articolo, nelle suddette acque date in concessione è vietata qualsiasi forma di pesca sportiva. 
+4. Per le precise finalità del presente articolo, nelle suddette acque date in concessione è vietata qualsiasi forma di pesca sportiva. 
  
 5. I titolari degli allevamenti attualmente in essere, devono adeguarsi alla normativa di cui al presente articolo entro e non oltre un anno dall'entrata in vigore della presente legge. 
  
@@ -796,7 +796,7 @@ f) con la mazza, la fiocina, il forcone, il bastone e con qualsiasi altro mezzo 
  
 1. All'accertamento delle infrazioni ed alla irrogazione delle sanzioni previste dalla presente legge provvedono gli Agenti addetti alla vigilanza di cui al successivo articolo. 
  
-2. I proventi derivanti dalle infrazioni relative all'esercizio della pesca sono introitati dalle Province che li destineranno a finalitè di ripopolamento della fauna ittica, mentre quelli riguardanti le tasse regionali devono essere versati alla Regione.</corpo>
+2. I proventi derivanti dalle infrazioni relative all'esercizio della pesca sono introitati dalle Province che li destineranno a finalità di ripopolamento della fauna ittica, mentre quelli riguardanti le tasse regionali devono essere versati alla Regione.</corpo>
                 </comma>
                 <comma id="art13-com41">
                     <num/>
@@ -860,9 +860,9 @@ d) licenza di tipo &lt;&lt;D&gt;&gt;:
 
                     <corpo>Art. 39: SPESE PER IL FINANZIAMENTO ORGANI DELLA PESCA 
  
-1. Ai componenti i Comitati Tecnico - Consultivi Provinciali e la Commissione Tecnico-Consultiva Regionale è attribuita una indennitè per giornata di seduta pari a quella prevista dalla <rif xlink:href="urn:nir:regione.molise:legge:1983-03-01;7">legge regionale 1 marzo 1983, n. 7</rif> e successive modificazioni. 
+1. Ai componenti i Comitati Tecnico - Consultivi Provinciali e la Commissione Tecnico-Consultiva Regionale è attribuita una indennità per giornata di seduta pari a quella prevista dalla <rif xlink:href="urn:nir:regione.molise:legge:1983-03-01;7">legge regionale 1 marzo 1983, n. 7</rif> e successive modificazioni. 
  
-2. Al pagamento di dette indennitè e rimborsi vi provvederanno, rispettivamente, le Province, per i propri Comitati, e la Regione per la Commissione.</corpo>
+2. Al pagamento di dette indennità e rimborsi vi provvederanno, rispettivamente, le Province, per i propri Comitati, e la Regione per la Commissione.</corpo>
                 </comma>
                 <comma id="art13-com45">
                     <num/>
@@ -877,7 +877,7 @@ d) licenza di tipo &lt;&lt;D&gt;&gt;:
  
 b) capitolo n. 9405 &lt;&lt;Proventi derivanti da infrazioni alle norme per l'esercizio della pesca&gt;&gt; di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1983-03-15;10">legge regionale n. 10 del 15 marzo 1983</rif>. 
  
-2. Agli oneri derivanti alla Regione per la realizzazione delle finalitè previste dalla presente legge, si procede con i fondi di cui al comma precedente e con i fondi provenienti dalle leggi di settore e da regolamenti dell'U.E..</corpo>
+2. Agli oneri derivanti alla Regione per la realizzazione delle finalità previste dalla presente legge, si procede con i fondi di cui al comma precedente e con i fondi provenienti dalle leggi di settore e da regolamenti dell'U.E..</corpo>
                 </comma>
                 <comma id="art13-com47">
                     <num/>

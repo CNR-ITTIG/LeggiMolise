@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20090131" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2009;01" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20090131" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;01" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
 38.Valorizzazione dei beni culturali e ambientali, impatto ambientale 
  
@@ -43,7 +43,7 @@ Modificato art. 1 dalla legge n. 1/2009 art. 3
                 <num>Art. 1 </num>
                 <rubrica>
  
-Finalitè 
+Finalità 
  </rubrica>
                 <comma id="art1-com1">
                     <num>
@@ -54,7 +54,7 @@ Finalitè
                     <num>
  
 2.</num>
-                    <alinea> Le finalitè del Parco sono le seguenti:  
+                    <alinea> Le finalità del Parco sono le seguenti:  
  
 </alinea>
                     <el id="art1-com2-leta">
@@ -90,8 +90,8 @@ e)</num>
                     <num>
  
 3.</num>
-                    <corpo> Per le finalitè di cui al <rif
-                            xlink:href="#art1-com2">comma 2</rif>, l'Ente parco, di cui all'<rif xlink:href="#art2">articolo 2</rif>, concede, attraverso specifiche convenzioni, l'uso del proprio nome e del proprio logo a servizi e prodotti locali che presentino requisiti di qualità e che soddisfino le finalitè del Parco.  </corpo>
+                    <corpo> Per le finalità di cui al <rif
+                            xlink:href="#art1-com2">comma 2</rif>, l'Ente parco, di cui all'<rif xlink:href="#art2">articolo 2</rif>, concede, attraverso specifiche convenzioni, l'uso del proprio nome e del proprio logo a servizi e prodotti locali che presentino requisiti di qualità e che soddisfino le finalità del Parco.  </corpo>
                 </comma>
                 <comma id="art1-com4">
                     <num>
@@ -301,7 +301,7 @@ Strumenti di attuazione
  
 3.</num>
 
-                    <corpo> Il Consiglio direttivo, entro sei mesi dall'insediamento, formula il Programma di sviluppo del Parco, di seguito denominato Programma, e lo trasmette alla Giunta regionale per l'approvazione. Il Programma costituisce lo strumento di pianificazione economica dell'area protetta e stabilisce le risorse, le iniziative e le modalitè di attuazione per il conseguimento delle finalitè di cui al <rif xlink:href="#art1-com2">comma 2 dell'articolo 1</rif>, nonchè delle attivitè del Parco previste dalla presente legge. Il Programma ha validitè quinquennale e puè essere aggiornato annualmente al fine di ottimizzare obiettivi e risorse finanziarie disponibili. In particolare, il Programma puè prevedere la destinazione di idonee risorse economiche per la concessione di sovvenzioni a privati o ad enti locali che svolgano attivitè di mantenimento e di miglioramento delle condizioni di naturalitè e per la sorveglianza del territorio. La Giunta regionale approva il Programma entro centottanta giorni dal suo ricevimento, nei limiti dei finanziamenti disponibili, cui concorrono risorse comunitarie, statali, regionali, dei Comuni territorialmente interessati e di altri enti.  </corpo>
+                    <corpo> Il Consiglio direttivo, entro sei mesi dall'insediamento, formula il Programma di sviluppo del Parco, di seguito denominato Programma, e lo trasmette alla Giunta regionale per l'approvazione. Il Programma costituisce lo strumento di pianificazione economica dell'area protetta e stabilisce le risorse, le iniziative e le modalitè di attuazione per il conseguimento delle finalità di cui al <rif xlink:href="#art1-com2">comma 2 dell'articolo 1</rif>, nonchè delle attivitè del Parco previste dalla presente legge. Il Programma ha validitè quinquennale e puè essere aggiornato annualmente al fine di ottimizzare obiettivi e risorse finanziarie disponibili. In particolare, il Programma puè prevedere la destinazione di idonee risorse economiche per la concessione di sovvenzioni a privati o ad enti locali che svolgano attivitè di mantenimento e di miglioramento delle condizioni di naturalitè e per la sorveglianza del territorio. La Giunta regionale approva il Programma entro centottanta giorni dal suo ricevimento, nei limiti dei finanziamenti disponibili, cui concorrono risorse comunitarie, statali, regionali, dei Comuni territorialmente interessati e di altri enti.  </corpo>
                 </comma>
                 <comma id="art4-com4">
                     <num>
@@ -322,7 +322,7 @@ Divieti e norme di salvaguardia
                 <comma id="art5-com1">
                     <num>
 1.</num>
-                    <alinea> Per le finalitè della presente legge si stabilisce che:  
+                    <alinea> Per le finalità della presente legge si stabilisce che:  
  
 </alinea>
                     <el id="art5-com1-leta">

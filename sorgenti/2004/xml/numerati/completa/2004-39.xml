@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="35.tributi"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20060427" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2006;03" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20060427" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2006;03" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 35.Tributi 
  
 Bollettino 
@@ -511,7 +511,7 @@ Sanzioni
 3.</num>
 
                     <corpo> Nel caso di omesso o insufficiente versamento dell'acconto mensile o dell'importo di conguaglio si applica, ai sensi dell'<rif
-                            xlink:href="urn:nir:stato:decreto.legislativo:1997-12-18;471#art13-com1">art. 13, comma 1, del Decreto Legislativo 18 dicembre 1997, n. 471</rif>, una sanzione amministrativa pari al 30% di ogni importo non versato, oltre al versamento degli interessi legali calcolati in base al tasso stabilito per il pagamento differito dei diritti doganali e di un'indennitè di mora del 6% riducibile al 2% se si adempie entro 5 giorni dalla data di scadenza in virtè dell'art. 3, comma 4, del richiamato <rif xlink:href="urn:nir:stato:decreto.legislativo:1995-10-26;504">Decreto Legislativo 26 ottobre 1995, n. 504</rif>. 
+                            xlink:href="urn:nir:stato:decreto.legislativo:1997-12-18;471#art13-com1">art. 13, comma 1, del Decreto Legislativo 18 dicembre 1997, n. 471</rif>, una sanzione amministrativa pari al 30% di ogni importo non versato, oltre al versamento degli interessi legali calcolati in base al tasso stabilito per il pagamento differito dei diritti doganali e di un'indennità di mora del 6% riducibile al 2% se si adempie entro 5 giorni dalla data di scadenza in virtè dell'art. 3, comma 4, del richiamato <rif xlink:href="urn:nir:stato:decreto.legislativo:1995-10-26;504">Decreto Legislativo 26 ottobre 1995, n. 504</rif>. 
  
 </corpo>
                 </comma>

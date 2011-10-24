@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20070524" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2007;14" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20070524" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -108,13 +108,13 @@ Modifiche
                                 id="art4-com1-mod4-vir5" tipo="struttura">
                                 <comma id="art4-com1-mod4-vir5-com0">
                                     <num>3.</num>
-                                    <corpo> Ai componenti del Collegio spetta un'indennitè annua lorda omnicomprensiva pari al 10% degli emolumenti spettanti al Direttore Generale, oltre al rimborso delle spese di viaggio sostenute per la partecipazione alle sedute, da liquidare con riferimento alla sede di residenza e nei limiti e con le modalitè stabiliti per i dirigenti dello Stato</corpo>
+                                    <corpo> Ai componenti del Collegio spetta un'indennità annua lorda omnicomprensiva pari al 10% degli emolumenti spettanti al Direttore Generale, oltre al rimborso delle spese di viaggio sostenute per la partecipazione alle sedute, da liquidare con riferimento alla sede di residenza e nei limiti e con le modalitè stabiliti per i dirigenti dello Stato</corpo>
                                 </comma>
                             </virgolette>". 
  
 2. Dopo il <rif xlink:href="urn:nir:regione.molise:legge:1999-12-13;38#art10-com3">comma 3 dell'articolo 10 della legge regionale 13 dicembre 1999, n. 38</rif>, è aggiunto il seguente comma: 
  
-"4. Al Presidente del Collegio dei Revisori è corrisposta una maggiorazione del 20% dell'indennitè spettante ai singoli componenti".</mod>
+"4. Al Presidente del Collegio dei Revisori è corrisposta una maggiorazione del 20% dell'indennità spettante ai singoli componenti".</mod>
                     </corpo>
                 </comma>
             </articolo>

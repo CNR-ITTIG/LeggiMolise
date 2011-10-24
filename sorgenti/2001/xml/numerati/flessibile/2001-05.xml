@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="36.turismo e industria alberghiera"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20080515" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2008;10" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20080515" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2008;10" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 36.Turismo e industria alberghiera 
  
 Bollettino 
@@ -58,7 +58,7 @@ GIUNTA REGIONALE</h:p>
                 <num>Art.1 </num>
                 <rubrica>
  
-Finalitè 
+Finalità 
  </rubrica>
                 <comma id="art1-com1">
                     <num>
@@ -392,7 +392,7 @@ Autorizzazione per campeggi temporanei
                         <num> 
  
 b)</num>
-                        <corpo> ad associazioni ed organismi senza scopo di lucro per finalitè educative, riabilitative, ricreative, sportive, culturali, sociali, religiose, etc.. </corpo>
+                        <corpo> ad associazioni ed organismi senza scopo di lucro per finalità educative, riabilitative, ricreative, sportive, culturali, sociali, religiose, etc.. </corpo>
                     </el>
                 </comma>
                 <comma id="art12-com2">

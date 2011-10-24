@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20090131" fonte="rp1" id="t1" tipo="modifica"/><evento data="20080816" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2009;01" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2007;24" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20090131" fonte="rp1" id="t1" tipo="modifica"/><evento data="20080816" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;01" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2007;24" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -66,7 +66,7 @@ b) la soppressione dell'Ente regionale di sviluppo agricolo per il Molise (ERSAM
                     <num/>
 
                     <corpo>
-Istituzione dell'Agenzia -Finalitè 
+Istituzione dell'Agenzia -Finalità 
  
 1. è istituita l'Agenzia: regionale per lo sviluppo e l'innovazione dell'agricoltura nel Molise "Giacomo Sedati" (ARSIAM) con sede in Campobasso. 
  
@@ -76,7 +76,7 @@ Istituzione dell'Agenzia -Finalitè
  
 4. L'Agenzia coordina le attivitè svolte dal Co.Re.Di.Mo. (Consorzio regionale molisano di difesa) disciplinate dalla <rif xlink:href="urn:nir:regione.molise:legge:2002-11-06;31">legge regionale 6 novembre 2002, n. 31</rif>, e dalle A.P.A. (Associazioni provinciali allevatori). Il Co.Re.Di.Mo. e le A.P.A, trasmettono entro il 31 agosto di ogni anno alla struttura competente dell'Agenzia i programmi di attivitè tecnica specialistica di loro competenza ed i relativi conti finanziari, 
  
-5. L'Agenzia persegue le seguenti finalitè istituzionali:</corpo>
+5. L'Agenzia persegue le seguenti finalità istituzionali:</corpo>
                 </comma>
                 <comma id="art2-com2">
                     <num/>
@@ -111,7 +111,7 @@ j) riordino, ricomposizione ed ampliamento fondiario.
                     <corpo>
 Funzioni 
  
-1. Per il conseguimento delle finalitè di cui all'articolo 2, comma 5, l'Agenzia svolge le seguenti funzioni:</corpo>
+1. Per il conseguimento delle finalità di cui all'articolo 2, comma 5, l'Agenzia svolge le seguenti funzioni:</corpo>
                 </comma>
                 <comma id="art3-com2">
                     <num/>
@@ -156,7 +156,7 @@ k) coordina e gestisce, anche in convenzione con le Comunitè montane, i piani, i
  
 b) realizza l'osservatorio dei mercati dei prodotti agroa l i mentari; 
  
-c) esegue ogni altro compito e funzione ad essa delegato dalla Regione e coerente con le finalitè di cui all'<rif xlink:href="#art2">articolo 2</rif>; 
+c) esegue ogni altro compito e funzione ad essa delegato dalla Regione e coerente con le finalità di cui all'<rif xlink:href="#art2">articolo 2</rif>; 
  
 d) acquisisce brevetti e know-how di cui promuove l'adozione nei processi produttivi delle aziende agricole, forestali ed agro-alimentari; 
  
@@ -234,9 +234,9 @@ g) assegna il personale alle strutture dell'Agenzia ed agli Uffici territoriali 
  
 4. Per la validitè delle sedute del Consiglio di amministrazione è necessaria la presenza di almeno quattro componenti. Per la validitè delle deliberazioni è necessario il voto favorevole della maggioranza dei consiglieri presenti. Nel computo dei presenti vanno inclusi i consiglieri astenuti. A paritè di voti, la maggioranza è determinata dal voto del Presidente. 
  
-5. Al Presidente del Consiglio di amministrazione dell'Agenzia ed ai componenti del Consiglio stesso è attribuita un'indennitè di funzione mensile non superiore, rispettivamente, al 50% ed al 25% di quella stabilita, ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:2000-08-18;267#art82">art. 82 del decreto legislativo 18 agosto 2000, n. 267</rif>, per i sindaci dei comuni di dimensione demografica pari a quella della Regione Molise. 
+5. Al Presidente del Consiglio di amministrazione dell'Agenzia ed ai componenti del Consiglio stesso è attribuita un'indennità di funzione mensile non superiore, rispettivamente, al 50% ed al 25% di quella stabilita, ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:2000-08-18;267#art82">art. 82 del decreto legislativo 18 agosto 2000, n. 267</rif>, per i sindaci dei comuni di dimensione demografica pari a quella della Regione Molise. 
  
-6. L'indennitè di cui al comma precedente è ridotta del 25% per ogni assenza che non sia dovuta a grave e motivato impedimento od impegno istituzionale.</corpo>
+6. L'indennità di cui al comma precedente è ridotta del 25% per ogni assenza che non sia dovuta a grave e motivato impedimento od impegno istituzionale.</corpo>
                 </comma>
             </articolo>
             <articolo id="art7">
@@ -301,7 +301,7 @@ c) esprime pareri sulle variazioni di bilancio, sugli storni di fondi e formula 
  
 7. Il Collegio dei revisori dura in carica per il periodo di durata del Consiglio regionale che lo ha nominato. 
  
-8. Al Presidente ed ai componenti del Collegio dei revisori dei conti spetta un'indennitè mensile pari, rispettivamente, al 40 ed al 30 per cento di quella prevista per il Presidente dell'Agenzia, nonchè il rimborso delle spese di viaggio.</corpo>
+8. Al Presidente ed ai componenti del Collegio dei revisori dei conti spetta un'indennità mensile pari, rispettivamente, al 40 ed al 30 per cento di quella prevista per il Presidente dell'Agenzia, nonchè il rimborso delle spese di viaggio.</corpo>
                 </comma>
             </articolo>
             <articolo id="art9">
@@ -606,9 +606,9 @@ Commissario liquidatore
  
 1. Entro trenta giorni dall'entrata in vigore della presente legge, il Consiglio regionale nomina il Commissario per la liquidazione dell'ERSAM; alla nomina non si applica la <rif xlink:href="urn:nir:regione.molise:legge:2002-08-02;16">legge regionale 2 agosto 2002, n. 16</rif>. 
  
-2. Al Commissario liquidatore spetta a titolo di compenso, per il periodo dell'incarico, una indennitè mensile lorda pari a quella prevista per il Presidente del Consiglio di amministrazione dell'Agenzia. 
+2. Al Commissario liquidatore spetta a titolo di compenso, per il periodo dell'incarico, una indennità mensile lorda pari a quella prevista per il Presidente del Consiglio di amministrazione dell'Agenzia. 
  
-3. I compensi e le indennitè da corrispondere al Commissario fanno carico alla gestione liquidatoria dell'ERSAM.</corpo>
+3. I compensi e le indennità da corrispondere al Commissario fanno carico alla gestione liquidatoria dell'ERSAM.</corpo>
                 </comma>
             </articolo>
             <articolo id="art21">

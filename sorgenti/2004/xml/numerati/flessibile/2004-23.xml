@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20050531" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2005;17" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20050531" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2005;17" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
  
 Bollettino 
@@ -45,13 +45,13 @@ Modificato art. 18 dalla legge n. 17/2005 art. 1
                 <num>ARTICOLO 1 </num>
                 <rubrica>
  
-Oggetto e finalitè 
+Oggetto e finalità 
  </rubrica>
                 <comma id="art1-com1">
                     <num>
 1.</num>
 
-                    <corpo> La Regione Molise, in attuazione delle finalitè di cui all'<rif xlink:href="urn:nir:stato:legge:1991;394#art1">art. 1 della legge n. 394/1991</rif>, detta disposizioni per l'istituzione e la gestione di aree naturali protette al fine di garantire la conservazione dell'ambiente, del paesaggio, del patrimonio storico-culturale e naturalistico, e di promuovere, contestualmente, lo sviluppo delle attivitè economiche compatibili, in accordo con la conservazione e l'utilizzazione razionale e durevole delle risorse naturali, nonchè delle attivitè ricreative e sociali, della ricerca scientifica, dell'educazione e della divulgazione ambientale. </corpo>
+                    <corpo> La Regione Molise, in attuazione delle finalità di cui all'<rif xlink:href="urn:nir:stato:legge:1991;394#art1">art. 1 della legge n. 394/1991</rif>, detta disposizioni per l'istituzione e la gestione di aree naturali protette al fine di garantire la conservazione dell'ambiente, del paesaggio, del patrimonio storico-culturale e naturalistico, e di promuovere, contestualmente, lo sviluppo delle attivitè economiche compatibili, in accordo con la conservazione e l'utilizzazione razionale e durevole delle risorse naturali, nonchè delle attivitè ricreative e sociali, della ricerca scientifica, dell'educazione e della divulgazione ambientale. </corpo>
                 </comma>
                 <comma id="art1-com2">
                     <num>
@@ -321,7 +321,7 @@ d)</num>
  
 4.</num>
 
-                    <corpo> Entro centottanta giorni dal suo insediamento la Consulta, tenuto anche conto delle indicazioni fornite dalle amministrazioni pubbliche, dalle associazioni culturali, venatorie e naturalistiche e dalle categorie professionali interessate, propone alla Giunta regionale le aree da sottoporre a tutela che non superino la percentuale del 20% dell'intero territorio molisano da suddividersi in parti uguali per le finalitè della presente legge e per quelle previste dalla <rif
+                    <corpo> Entro centottanta giorni dal suo insediamento la Consulta, tenuto anche conto delle indicazioni fornite dalle amministrazioni pubbliche, dalle associazioni culturali, venatorie e naturalistiche e dalle categorie professionali interessate, propone alla Giunta regionale le aree da sottoporre a tutela che non superino la percentuale del 20% dell'intero territorio molisano da suddividersi in parti uguali per le finalità della presente legge e per quelle previste dalla <rif
                             xlink:href="urn:nir:regione.molise:legge:1993;19">legge regionale n. 19/1993</rif>. La Giunta regionale, acquisito il parere della Consulta di cui al <rif
                             xlink:href="#art3">precedente art. 3</rif> e sentita la Conferenza per le autonomie locali di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1999-09-29;34#art9">art. 9 della legge regionale n. 34 del 29 settembre 1999</rif> e successive modificazioni, elabora ed eventualmente integra il documento e lo sottopone al Consiglio regionale per l'approvazione. </corpo>
                 </comma>
@@ -418,7 +418,7 @@ h)</num>
  
 5.</num>
 
-                    <corpo> Le attivitè agricole si esercitano nelle forme con cui tali attivitè sono al momento praticate, salva la possibilitè di adeguare le strutture aziendali esistenti a disposizione e le norme tecniche riguardanti il miglioramento igienico e funzionale. Sono altresè ammessi la realizzazione di piani di miglioramento aziendale predisposti in adesione a programmi di politica agricola ed ambientale comunitaria e rientranti nelle politiche del Piano Operativo Regionale. Piani di bonifica, trasformazione o miglioramento fondiari, nonchè piani di utilizzazione dei beni silvo-pastorali, predisposti da Enti, Consorzi ed organizzazioni pubbliche e private, possono essere realizzati purchè non in contrasto con le finalitè di cui all'<rif xlink:href="#art1">art. 1</rif> della presente legge, previo parere della Consulta. </corpo>
+                    <corpo> Le attivitè agricole si esercitano nelle forme con cui tali attivitè sono al momento praticate, salva la possibilitè di adeguare le strutture aziendali esistenti a disposizione e le norme tecniche riguardanti il miglioramento igienico e funzionale. Sono altresè ammessi la realizzazione di piani di miglioramento aziendale predisposti in adesione a programmi di politica agricola ed ambientale comunitaria e rientranti nelle politiche del Piano Operativo Regionale. Piani di bonifica, trasformazione o miglioramento fondiari, nonchè piani di utilizzazione dei beni silvo-pastorali, predisposti da Enti, Consorzi ed organizzazioni pubbliche e private, possono essere realizzati purchè non in contrasto con le finalità di cui all'<rif xlink:href="#art1">art. 1</rif> della presente legge, previo parere della Consulta. </corpo>
                 </comma>
                 <comma id="art5-com6">
                     <num>
@@ -478,7 +478,7 @@ Attivitè agricole
                     <num>
  
 2.</num>
-                    <alinea> Per consentire la continuitè delle attivitè agro-silvo-pastorali, nell'ambito delle finalitè istitutive delle aree protette, i piani di cui agli artt. 13 e 15, compatibilmente con la tutela dei valori naturali e culturali presenti nell'area, devono favorire: 
+                    <alinea> Per consentire la continuitè delle attivitè agro-silvo-pastorali, nell'ambito delle finalità istitutive delle aree protette, i piani di cui agli artt. 13 e 15, compatibilmente con la tutela dei valori naturali e culturali presenti nell'area, devono favorire: 
  
 </alinea>
                     <el id="art6-com2-leta">
@@ -570,7 +570,7 @@ k)</num>
  
 6.</num>
 
-                    <corpo> Sono altresè e comunque da considerare finalitè perseguite ai sensi del presente articolo quelle contenute nell'<rif xlink:href="urn:nir:stato:legge:1991;394#art7">art. 7 della legge n. 394/1991</rif>. 
+                    <corpo> Sono altresè e comunque da considerare finalità perseguite ai sensi del presente articolo quelle contenute nell'<rif xlink:href="urn:nir:stato:legge:1991;394#art7">art. 7 della legge n. 394/1991</rif>. 
  
 </corpo>
                 </comma>
@@ -818,7 +818,7 @@ c)</num>
                 <comma id="art11-com1">
                     <num>
 1.</num>
-                    <alinea> Lo statuto dell'Ente Parco ne definisce e disciplina le finalitè e l'ordinamento amministrativo indicando, in particolare: 
+                    <alinea> Lo statuto dell'Ente Parco ne definisce e disciplina le finalità e l'ordinamento amministrativo indicando, in particolare: 
  
 </alinea>
                     <el id="art11-com1-leta">
@@ -994,7 +994,7 @@ Piano pluriennale di promozione economica e sociale
                 <comma id="art15-com1">
                     <num>
 1.</num>
-                    <corpo> Nel rispetto delle finalitè dell'area protetta, delle prescrizioni stabilite dal piano del Parco e dal regolamento, la Comunitè del parco promuove le iniziative atte a favorire lo sviluppo economico e sociale delle collettivitè residenti all'interno delle aree protette, e la tutela dei valori naturali, storici ed ambientali. </corpo>
+                    <corpo> Nel rispetto delle finalità dell'area protetta, delle prescrizioni stabilite dal piano del Parco e dal regolamento, la Comunitè del parco promuove le iniziative atte a favorire lo sviluppo economico e sociale delle collettivitè residenti all'interno delle aree protette, e la tutela dei valori naturali, storici ed ambientali. </corpo>
                 </comma>
                 <comma id="art15-com2">
                     <num>
@@ -1020,7 +1020,7 @@ Piano pluriennale di promozione economica e sociale
                     <num>
  
 5.</num>
-                    <corpo> Per le finalitè di cui al <rif xlink:href="#art15-com4">comma 4</rif>, l'Ente di gestione del parco puè concedere a mezzo di specifiche convenzioni l'uso del proprio nome e del proprio emblema a servizi e prodotti locali che presentino requisiti di qualità e che soddisfino le finalitè del parco. 
+                    <corpo> Per le finalità di cui al <rif xlink:href="#art15-com4">comma 4</rif>, l'Ente di gestione del parco puè concedere a mezzo di specifiche convenzioni l'uso del proprio nome e del proprio emblema a servizi e prodotti locali che presentino requisiti di qualità e che soddisfino le finalità del parco. 
  
 </corpo>
                 </comma>
@@ -1270,7 +1270,7 @@ Monumenti naturali
                     <num>
 1.</num>
 
-                    <corpo> La Regione, per le finalitè di cui all'<rif
+                    <corpo> La Regione, per le finalità di cui all'<rif
                             xlink:href="#art1">art. 1</rif> e per garantire una più ampia azione di conservazione e di valorizzazione del patrimonio naturale, puè istituire e tutelare i monumenti naturali di cui al <rif xlink:href="#art2-com3">comma 3 dell'art. 2</rif>. </corpo>
                 </comma>
                 <comma id="art19-com2">

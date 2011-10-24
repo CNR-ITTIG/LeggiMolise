@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="04.assistenza sociale, volontariato"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19920315" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1992;07" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19920315" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1992;07" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 04.Assistenza sociale, volontariato 
  
 Bollettino 
@@ -64,7 +64,7 @@ Modificato art. 1 dalla legge n. 7/1992 art. 1
                 </comma>
                 <comma id="art1-com2">
                     <num/>
-                    <corpo>Con deliberazione del Consiglio Regionale puè essere decisa l'ammissione di altri organismi   associativi riconosciuti con Decreto del Presidente della Repubblica, che presentino i necessari requisiti e finalitè sociali. </corpo>
+                    <corpo>Con deliberazione del Consiglio Regionale puè essere decisa l'ammissione di altri organismi   associativi riconosciuti con Decreto del Presidente della Repubblica, che presentino i necessari requisiti e finalità sociali. </corpo>
                 </comma>
             </articolo>
             <articolo id="art2">

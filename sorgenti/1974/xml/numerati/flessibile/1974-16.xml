@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="06.consiglieri regionali e gruppi consiliari"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19950531" fonte="rp1" id="t1" tipo="modifica"/><evento data="19840302" fonte="rp2" id="t2" tipo="modifica"/><evento data="19760731" fonte="rp3" id="t3" tipo="modifica"/><evento data="19880416" fonte="rp4" id="t4" tipo="modifica"/><evento data="19970615" fonte="rp5" id="t5" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1995;21" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1984;02" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:1976;22" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:1988;07" xlink:type="simple"/><passiva id="rp5" xlink:href="urn:nir:regione.campania:legge:1997;16" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19950531" fonte="rp1" id="t1" tipo="modifica"/><evento data="19840302" fonte="rp2" id="t2" tipo="modifica"/><evento data="19760731" fonte="rp3" id="t3" tipo="modifica"/><evento data="19880416" fonte="rp4" id="t4" tipo="modifica"/><evento data="19970615" fonte="rp5" id="t5" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1995;21" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1984;02" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:1976;22" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:1988;07" xlink:type="simple"/><passiva id="rp5" xlink:href="urn:nir:regione.molise:legge:1997;16" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 06.Consiglieri regionali e gruppi consiliari 
  
 Bollettino 
@@ -85,7 +85,7 @@ In tutti i casi, compreso quello di scioglimento del Consiglio Regionale, il Com
 
                 <rubrica>: L'iscrizione alla Cassa è obbligatoria 
  
-L'onere contributivo, nella misura fissata dal <rif xlink:href="#art4">successivo articolo 4</rif>, viene mensilmente detratto, di ufficio, dalla indennitè di carica, a decorrere dal giorno della prima corresponsione della medesima dopo la elezione del Consiglio, e versato direttamente alla Cassa. 
+L'onere contributivo, nella misura fissata dal <rif xlink:href="#art4">successivo articolo 4</rif>, viene mensilmente detratto, di ufficio, dalla indennità di carica, a decorrere dal giorno della prima corresponsione della medesima dopo la elezione del Consiglio, e versato direttamente alla Cassa. 
  
 </rubrica><?error Marker Warning 109?>
                 <comma id="art3-com1">
@@ -98,13 +98,13 @@ L'onere contributivo, nella misura fissata dal <rif xlink:href="#art4">successiv
 
                 <rubrica>
  
-La misura della quota contributiva è pari al 10 per cento dell'indennitè di carica lorda di cui al <rif
+La misura della quota contributiva è pari al 10 per cento dell'indennità di carica lorda di cui al <rif
                         xlink:href="urn:nir:regione.molise:legge:1972-03-31;3#art2-com1">1è comma dell'articolo 2 della L.R. 31 marzo 1972, n. 3</rif>, a partire dalla data di cui al <rif
-                        xlink:href="#art31-com1">1è comma dell'articolo 31</rif> della presente   legge e fino al 30 aprile 1973; mentre con decorrenza dal 1è   maggio 1973, la detta percentuale è applicata sull'indennitè di carica lorda di cui alla lett. e), 1è comma dell'articolo  33 della presente legge. 
+                        xlink:href="#art31-com1">1è comma dell'articolo 31</rif> della presente   legge e fino al 30 aprile 1973; mentre con decorrenza dal 1è   maggio 1973, la detta percentuale è applicata sull'indennità di carica lorda di cui alla lett. e), 1è comma dell'articolo  33 della presente legge. 
  
 I consiglieri proclamati in tempo successivo alla prima proclamazione degli eletti sono tenuti a versare una somma pari a quella trattenuta o versata dagli altri Consiglieri, più gli interessi che sarebbero maturati se le quote mensili fossero state versate al Fondo fin dall'inizio. 
  
-Qualora la misura dell'indennitè di carica fissata in detto <rif xlink:href="#art33">articolo 33</rif> dovesse subire variazioni, la percentuale di cui sopra si applicherè sulla nuova misura dell'indennitè medesima. 
+Qualora la misura dell'indennità di carica fissata in detto <rif xlink:href="#art33">articolo 33</rif> dovesse subire variazioni, la percentuale di cui sopra si applicherè sulla nuova misura dell'indennità medesima. 
  
 Oltre che dal gettito dei contributi a carico dei Consiglieri o dei loro aventi causa, il fondo di cassa è alimentato da eventuali lasciti, legati ed elargizioni, nonchè dai redditi ricavati dagli investimenti degli introiti. 
  
@@ -226,9 +226,9 @@ L'assegno è altresè sospeso, qualora il titolare del medesimo venga eletto al Pa
                 <num>Art. 12 </num>
                 <rubrica>
  
-L'assegno vitalizio spettante al Consigliere con 5 anni di contribuzione è pari al 30 per cento della indennitè di carica lorda di cui alla lett. e), 1è comma dell'articolo 33 della presente legge e viene aumentato del 2,50 per cento dell'indennitè stessa per ogni anno di contribuzione successivo al 5è e fino al 10è; di un ulteriore 1,50 per cento per ogni anno successivo al 10è e fino al 15è, ed infine di un ulteriore uno per cento per ogni anno successivo al 15è e fino al 20è ed oltre. 
+L'assegno vitalizio spettante al Consigliere con 5 anni di contribuzione è pari al 30 per cento della indennità di carica lorda di cui alla lett. e), 1è comma dell'articolo 33 della presente legge e viene aumentato del 2,50 per cento dell'indennità stessa per ogni anno di contribuzione successivo al 5è e fino al 10è; di un ulteriore 1,50 per cento per ogni anno successivo al 10è e fino al 15è, ed infine di un ulteriore uno per cento per ogni anno successivo al 15è e fino al 20è ed oltre. 
  
-Qualora la misura dell'indennitè di carica dovesse subire variazioni, le percentuali dell'assegno vitalizio, di cui al 1è comma del presente articolo, si applicheranno sulla nuova misura dell'indennitè medesima. 
+Qualora la misura dell'indennità di carica dovesse subire variazioni, le percentuali dell'assegno vitalizio, di cui al 1è comma del presente articolo, si applicheranno sulla nuova misura dell'indennità medesima. 
  
 </rubrica><?error Marker Warning 109?>
                 <comma id="art12-com1">
@@ -384,7 +384,7 @@ L'assegno vitalizio diretto decorre dal primo giorno del mese successivo a quell
  
 Qualora il Consigliere, alla data della cessazione del mandato sia già in possesso dei requisiti della contribuzione e dell'etè, l'assegno decorre dal primo giorno del mese successivo a quello   della cessazione dal mandato. 
  
-Nel caso di cessazione dal mandato per scioglimento del Consiglio, ai Consiglieri che ne abbiano già maturato il diritto l'assegno spetta a partire dal giorno successivo alla data fino alla quale   hanno percepito la indennitè di carica. 
+Nel caso di cessazione dal mandato per scioglimento del Consiglio, ai Consiglieri che ne abbiano già maturato il diritto l'assegno spetta a partire dal giorno successivo alla data fino alla quale   hanno percepito la indennità di carica. 
  
 Qualora non sia stata raggiunta la contribuzione corrispondente a 5 anni, come prescritto dall'articolo 6 lett. a), la differenza puè essere versata alla Cassa dal Consigliere o dall'avente   diritto entro i termini e le modalitè stabilite dal Comitato di amministrazione. 
  
@@ -472,9 +472,9 @@ a) di corrispondere un premio di reinserimento nelle proprie attivitè di lavoro 
 b) di fare parzialmente fronte alla copertura del premio di assicurazione dei Consiglieri contro gli infortuni, ai sensi del <rif
                         xlink:href="#art32">successivo articolo 32</rif>. 
  
-Il fondo è alimentato da trattenute mensili operate di ufficio sulla indennitè di carica, pari al 3 per cento dell'indennitè stessa lorda, dagli interessi maturati sulle somme versate al Fondo e da altri eventuali contributi ed elargizioni. 
+Il fondo è alimentato da trattenute mensili operate di ufficio sulla indennità di carica, pari al 3 per cento dell'indennità stessa lorda, dagli interessi maturati sulle somme versate al Fondo e da altri eventuali contributi ed elargizioni. 
  
-La detta percentuale del 3 per cento si applica sulla indennitè lorda di cui al <rif xlink:href="urn:nir:stato:legge:1972-03-31;3#art2-com1">1è comma dell'articolo 2 della legge 31 marzo 1972, n. 3</rif>, fino al 30 aprile 1973, mentre, a decorrere dall' 1è maggio dello stesso anno, si applica sulla indennitè lorda di cui all'articolo 33, n.1 lett. e) della presente legge. Si applica la disposizione del 2è comma dell'articolo 4. Il Consigliere che ha ricoperto il mandato per un periodo inferiore a 3 anni e 6 mesi è tenuto a versare i contributi   corrispondenti all'effettiva durata del proprio mandato. 
+La detta percentuale del 3 per cento si applica sulla indennità lorda di cui al <rif xlink:href="urn:nir:stato:legge:1972-03-31;3#art2-com1">1è comma dell'articolo 2 della legge 31 marzo 1972, n. 3</rif>, fino al 30 aprile 1973, mentre, a decorrere dall' 1è maggio dello stesso anno, si applica sulla indennità lorda di cui all'articolo 33, n.1 lett. e) della presente legge. Si applica la disposizione del 2è comma dell'articolo 4. Il Consigliere che ha ricoperto il mandato per un periodo inferiore a 3 anni e 6 mesi è tenuto a versare i contributi   corrispondenti all'effettiva durata del proprio mandato. 
  
 </rubrica><?error Marker Warning 109?>
                 <comma id="art27-com1">
@@ -503,7 +503,7 @@ Nel caso di insufficiente disponibilitè finanziaria del Fondo di solidarietè, la
 
                 <rubrica>
  
-Dall'importo globale spettante ai Consiglieri a conguaglio tra l'indennitè di carica di cui all'articolo 33, n. 1 della presente legge e quella percepita in virtè dell'<rif xlink:href="urn:nir:stato:legge:1972-03-31;3#art2">articolo 2 della legge 31   marzo 1972, n. 3</rif> sarè detratto l'ammontare dei contributi previdenziali obbligatori di cui ai precedenti articoli 4 e 27, e versato direttamente al Fondo di previdenza e al Fondo di solidarietè secondo il riparto corrispondente rispettivamente alle percentuali del 10 e del 3 per cento. 
+Dall'importo globale spettante ai Consiglieri a conguaglio tra l'indennità di carica di cui all'articolo 33, n. 1 della presente legge e quella percepita in virtè dell'<rif xlink:href="urn:nir:stato:legge:1972-03-31;3#art2">articolo 2 della legge 31   marzo 1972, n. 3</rif> sarè detratto l'ammontare dei contributi previdenziali obbligatori di cui ai precedenti articoli 4 e 27, e versato direttamente al Fondo di previdenza e al Fondo di solidarietè secondo il riparto corrispondente rispettivamente alle percentuali del 10 e del 3 per cento. 
  
 </rubrica><?error Marker Warning 109?>
                 <comma id="art29-com1">
@@ -597,7 +597,7 @@ Il premio di assicurazione è prelevato, alla data di ogni scadenza, in ragione d
                                 xlink:href="urn:nir:regione.molise:legge:1972-03-31;3#art2">articolo 2 della legge regionale 31 marzo 1972, n. 3</rif>, è cosè sostituito: 
  
 &lt;&lt;<virgolette
-                                id="art33-com1-mod1-vir1" tipo="parola"> A decorrere dall' 1è maggio 1973, ai componenti del Consiglio Regionale è corrisposta, per dodici mensilitè annue, una indennitè di carica mensile lorda, determinata in rapporto percentuale con l'indennitè mensile lorda spettante ai membri del Parlamento , nella seguente misura: <h:br/>
+                                id="art33-com1-mod1-vir1" tipo="parola"> A decorrere dall' 1è maggio 1973, ai componenti del Consiglio Regionale è corrisposta, per dodici mensilitè annue, una indennità di carica mensile lorda, determinata in rapporto percentuale con l'indennità mensile lorda spettante ai membri del Parlamento , nella seguente misura: <h:br/>
                                 <h:br/>
 a) 75 per cento al Presidente del Consiglio ed al Presidente della Giunta; <h:br/>
                                 <h:br/>
@@ -609,7 +609,7 @@ d) 60 per cento ai Presidenti delle Commissioni permanenti e speciali, ai Segret
                                 <h:br/>
 e) 50 per cento ai Consiglieri. <h:br/>
                                 <h:br/>
-L'indennitè di cui sopra compete fino al giorno precedente quello delle elezioni per il rinnovo del Consiglio Regionale </virgolette>&gt;&gt;. </mod>
+L'indennità di cui sopra compete fino al giorno precedente quello delle elezioni per il rinnovo del Consiglio Regionale </virgolette>&gt;&gt;. </mod>
                     </corpo>
                 </comma>
                 <comma id="art33-com2">
@@ -621,9 +621,9 @@ L'indennitè di cui sopra compete fino al giorno precedente quello delle elezioni
                                 xlink:href="urn:nir:regione.molise:legge:1972-03-31;3#art5">articolo 5 della legge regionale 31 marzo 1972, n. 3</rif>, è abrogato e sostituito dal seguente: 
  
 &lt;&lt;<virgolette
-                                id="art33-com2-mod2-vir2" tipo="parola"> Ai componenti del Consiglio Regionale sono inoltre corrisposte indennitè, calcolate anche in relazione alle spese di trasporto e di permanenza nel Capoluogo della Regione per l'espletamento delle funzioni inerenti al mandato, variabili in rapporto alla distanza tra la loro dimora abituale e la sede del Consiglio, e, a seconda delle funzioni svolte e della carica ricoperta. <h:br/>
+                                id="art33-com2-mod2-vir2" tipo="parola"> Ai componenti del Consiglio Regionale sono inoltre corrisposte indennità, calcolate anche in relazione alle spese di trasporto e di permanenza nel Capoluogo della Regione per l'espletamento delle funzioni inerenti al mandato, variabili in rapporto alla distanza tra la loro dimora abituale e la sede del Consiglio, e, a seconda delle funzioni svolte e della carica ricoperta. <h:br/>
                                 <h:br/>
-Alla determinazione di tale indennitè provvede l'ufficio di Presidenza del Consiglio con propria deliberazione </virgolette>&gt;&gt;. 
+Alla determinazione di tale indennità provvede l'ufficio di Presidenza del Consiglio con propria deliberazione </virgolette>&gt;&gt;. 
  
 </mod>
                     </corpo>
@@ -637,7 +637,7 @@ Alla determinazione di tale indennitè provvede l'ufficio di Presidenza del Consi
 Il maggiore onere finanziario derivante dalla modifica apportata dalla prima parte dell'articolo che precede all'<rif
                         xlink:href="urn:nir:stato:legge:1972-03-31;3#art2">articolo 2 della legge 31 marzo 1972, n. 3</rif>, calcolato approssimativamente in   L.62.000.000  per l'anno 1973 ed in L. 93.000.000 per l'anno 1974, fa carico rispettivamente: 
  
-a) per il periodo 1è maggio 31 dicembre 1973, al Capitolo 1 dei residui passivi per l'anno finanziario 1973, per quanto concerne la differenza di indennitè di carica consiliare, anche in relazione alle cariche nell'articolo stesso indicate; la differenza per indennitè di funzione ai componenti della Giunta grava per L. 6 milioni sul Capitolo 7 del bilancio 1973, mentre per la parte   restante, calcolata in 16 milioni circa, si provvede mediante prelevamento di tale cifra dal Capitolo 10 dello stato di previsione della spesa del bilancio 1974 ed attribuzione al Capitolo 70 dello stato di previsione medesimo; 
+a) per il periodo 1è maggio 31 dicembre 1973, al Capitolo 1 dei residui passivi per l'anno finanziario 1973, per quanto concerne la differenza di indennità di carica consiliare, anche in relazione alle cariche nell'articolo stesso indicate; la differenza per indennità di funzione ai componenti della Giunta grava per L. 6 milioni sul Capitolo 7 del bilancio 1973, mentre per la parte   restante, calcolata in 16 milioni circa, si provvede mediante prelevamento di tale cifra dal Capitolo 10 dello stato di previsione della spesa del bilancio 1974 ed attribuzione al Capitolo 70 dello stato di previsione medesimo; 
  
 b) per l'anno 1974, secondo le stesse distinzioni di cui alla lettera a), rispettivamente al Capitolo 10 del bilancio per l'esercizio finanziario 1974, ed al Capitolo 70 dello stesso bilancio, previa integrazione con un fondo di L.8.100.000 da prelevare dal Capitolo 10 dello stato di previsione della spesa per l'anno 1974. 
  

@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19940731" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1994;10" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19940731" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1994;10" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -31,7 +31,7 @@ Modifiche
             <emanante>Regione Molise</emanante>
             <tipoDoc>Legge Regionale </tipoDoc>
             <dataDoc norm="19810608">8 Giugno 1981</dataDoc>, n. <numDoc>11</numDoc>
-            <titoloDoc>Commissioni e Comitati regionali - Indennitè di trasferta e rimborso spese ai componenti 
+            <titoloDoc>Commissioni e Comitati regionali - indennità di trasferta e rimborso spese ai componenti 
  
 </titoloDoc>
         </intestazione>
@@ -42,7 +42,7 @@ Modifiche
                 <comma id="art1-com1">
                     <num/>
                     <corpo>
-Con decorrenza dal 1 gennaio 1981 ai Presidenti ed ai componenti delle Commissioni e Comitati comunque operanti nell'ambito dell'Amministrazione Regionale spettano, se estranei  all'Amministrazione, oltre alle indennitè previste da norme particolari, il rimborso delle spese di viaggio e l'indennitè di trasferta - se dovuta - nella misura ed alle condizioni stabilite per i dipendenti regionali di massimo livello. </corpo>
+Con decorrenza dal 1 gennaio 1981 ai Presidenti ed ai componenti delle Commissioni e Comitati comunque operanti nell'ambito dell'Amministrazione Regionale spettano, se estranei  all'Amministrazione, oltre alle indennità previste da norme particolari, il rimborso delle spese di viaggio e l'indennità di trasferta - se dovuta - nella misura ed alle condizioni stabilite per i dipendenti regionali di massimo livello. </corpo>
                 </comma>
             </articolo>
             <articolo id="art2">
@@ -55,16 +55,16 @@ L'<rif
                                 xlink:href="urn:nir:regione.molise:legge:1980-05-08;12#art6">articolo 6 della legge regionale 8 maggio 1980, n. 12</rif> è sostituito dal seguente: 
  
 &lt;&lt;<virgolette
-                                id="art2-com1-mod1-vir1" tipo="parola"> Ai componenti delle Commissioni esaminatrici dei concorsi per l'ammissione all'impiego regionale è corrisposta un'indennitè di funzione di L. 250. 000 se il numero dei candidati ammessi a sostenere le prove non è superiore a 100</virgolette>&gt;&gt;. </mod>
+                                id="art2-com1-mod1-vir1" tipo="parola"> Ai componenti delle Commissioni esaminatrici dei concorsi per l'ammissione all'impiego regionale è corrisposta un'indennità di funzione di L. 250. 000 se il numero dei candidati ammessi a sostenere le prove non è superiore a 100</virgolette>&gt;&gt;. </mod>
                     </corpo>
                 </comma>
                 <comma id="art2-com2">
                     <num/>
-                    <corpo>Detta indennitè è aumentata di L. 50.000 per ogni gruppo di 100 candidati in più o frazione di esso. </corpo>
+                    <corpo>Detta indennità è aumentata di L. 50.000 per ogni gruppo di 100 candidati in più o frazione di esso. </corpo>
                 </comma>
                 <comma id="art2-com3">
                     <num/>
-                    <corpo>In ogni caso l'indennitè complessiva non puè essere superiore a L. 600.000. </corpo>
+                    <corpo>In ogni caso l'indennità complessiva non puè essere superiore a L. 600.000. </corpo>
                 </comma>
             </articolo>
             <articolo id="art3">

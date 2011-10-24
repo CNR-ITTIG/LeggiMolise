@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="25.polizia amministrativa"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20040530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2004;11" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20040530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2004;11" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 25.Polizia amministrativa 
  
 Bollettino 
@@ -801,7 +801,7 @@ La presente legge sarè pubblicata nel Bollettino Ufficiale della Regione.
                             <entratainvigore norm=""/>
                             <redazione id="ann1-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="20040530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2004;11" xlink:type="simple"/></relazioni></ciclodivita>
+                        </descrittori><ciclodivita><eventi><evento data="20040530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2004;11" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>

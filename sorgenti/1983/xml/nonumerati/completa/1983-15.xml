@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19870916" fonte="rp1" id="t1" tipo="modifica"/><evento data="19990303" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1987;11" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1999;06" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19870916" fonte="rp1" id="t1" tipo="modifica"/><evento data="19990303" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1987;11" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1999;06" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
  
 Bollettino 

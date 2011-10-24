@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="14.governo del territorio, urbanistica, edilizia"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20100210" fonte="rp1" id="t1" tipo="modifica"/><evento data="20100303" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;03" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2010;06" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20100210" fonte="rp1" id="t1" tipo="modifica"/><evento data="20100303" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;03" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2010;06" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 14.Governo del territorio, urbanistica, edilizia 
  
 Bollettino 
@@ -50,7 +50,7 @@ Modificato art. 16, comma 1-bis dalla legge n. 6/2010 art. 1
                 <num>Art. 1 </num>
                 <rubrica>
  
-(Finalitè) 
+(Finalità) 
  
 </rubrica>
                 <comma id="art1-com1">
@@ -68,7 +68,7 @@ Modificato art. 16, comma 1-bis dalla legge n. 6/2010 art. 1
                 <comma id="art2-com1">
                     <num/>
 
-                    <corpo>1. Al fine di migliorare la condizione abitativa, la sicurezza sismica dei fabbricati e la prestazione energetica e comunque per le finalitè di cui all'<rif
+                    <corpo>1. Al fine di migliorare la condizione abitativa, la sicurezza sismica dei fabbricati e la prestazione energetica e comunque per le finalità di cui all'<rif
                             xlink:href="#art1">articolo 1</rif>, in deroga alle previsioni dei regolamenti comunali e degli strumenti urbanistici e territoriali comunali, provinciali e regionali, è consentito l'ampliamento degli edifici esistenti e di quelli in costruzione che abbiano completato le strutture portanti come certificato dal direttore dei lavori, nei limiti del 20 per cento del volume, se destinati ad uso residenziale, e del 20 per cento della superficie coperta, se adibiti ad uso diverso. Le volumetrie e le superfici di riferimento sono calcolate, rispettivamente, sulle distinte tipologie edificate o con struttura completata esistenti al 29 giugno 2009.  
  
 2. è consentito altresè l'ampliamento degli edifici esistenti e di quelli in costruzione che abbiano completato le strutture portanti come certificato dal direttore dei lavori, nei limiti del 30 per cento del volume, se destinati ad uso residenziale, e del 30 per cento della superficie coperta, se adibita ad uso diverso, qualora in termini di prestazione energetica, sia certificata una riduzione superiore al 20 per cento del fabbisogno annuo di energia primaria per la climatizzazione invernale, riferita alla porzione di edificio esistente, con tecniche di intervento innovative, come definita nel <rif
@@ -106,7 +106,7 @@ Modificato art. 16, comma 1-bis dalla legge n. 6/2010 art. 1
                 <comma id="art3-com1">
                     <num/>
 
-                    <corpo>1. Per l'efficace perseguimento delle finalitè di cui all'<rif
+                    <corpo>1. Per l'efficace perseguimento delle finalità di cui all'<rif
                             xlink:href="#art1">articolo 1</rif>, la Regione promuove la sostituzione e il rinnovamento del patrimonio edilizio mediante la demolizione e ricostruzione degli edifici esistenti, anche come sola struttura portante o in corso di demolizione e ristrutturazione, alla data del 29 giugno 2009.  
  
 2. Per incentivare gli interventi di cui al <rif
@@ -343,11 +343,11 @@ f) autocertificazione circa la conformitè del progetto alle norme di sicurezza e
                             xlink:href="urn:nir:regione.molise:legge:1999;17">legge regionale n. 17/1999</rif> o di altri istituti negoziali previsti dalla normativa vigente. 
  
 3. Gli interventi di cui all'<rif
-                            xlink:href="#art3">articolo 3</rif>, che interessano cespiti immobiliari che complessivamente eccedano i 20.000 metri cubi, sono autorizzati ad una ulteriore premialitè in cubatura fino al 20 per cento, a condizione che la stessa sia destinata a finanziare interventi per il conseguimento delle finalitè di realizzazione ex-novo o di adeguamento sismico di immobili scolastici o case dello studente, anche attraverso il cofinanziamento tra enti e l'attivazione del percorso degli accordi di programma di cui alla <rif
+                            xlink:href="#art3">articolo 3</rif>, che interessano cespiti immobiliari che complessivamente eccedano i 20.000 metri cubi, sono autorizzati ad una ulteriore premialitè in cubatura fino al 20 per cento, a condizione che la stessa sia destinata a finanziare interventi per il conseguimento delle finalità di realizzazione ex-novo o di adeguamento sismico di immobili scolastici o case dello studente, anche attraverso il cofinanziamento tra enti e l'attivazione del percorso degli accordi di programma di cui alla <rif
                             xlink:href="urn:nir:regione.molise:legge:1999;17">legge regionale n. 17/1999</rif>.  
  
 4. Gli interventi di cui all'<rif
-                            xlink:href="#art3">articolo 3</rif> che interessano cespiti immobiliari di proprietè pubblica sono autorizzati ad un ulteriore incremento di cubatura fino al 50 per cento, a condizione che lo stesso sia destinato a realizzare interventi per il conseguimento delle finalitè di realizzazione ex-novo o di adeguamento sismico di immobili scolastici o case dello studente, anche attraverso il cofinanziamento tra enti e l'attivazione del percorso degli accordi di programma di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1999;17">legge regionale n. 17/1999</rif>.  
+                            xlink:href="#art3">articolo 3</rif> che interessano cespiti immobiliari di proprietè pubblica sono autorizzati ad un ulteriore incremento di cubatura fino al 50 per cento, a condizione che lo stesso sia destinato a realizzare interventi per il conseguimento delle finalità di realizzazione ex-novo o di adeguamento sismico di immobili scolastici o case dello studente, anche attraverso il cofinanziamento tra enti e l'attivazione del percorso degli accordi di programma di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1999;17">legge regionale n. 17/1999</rif>.  
  
 5. Tutti gli interventi di edilizia pubblica devono prevedere il risparmio idrico, con il rispetto di salvaguardia igienico-sanitario.</corpo>
                 </comma>

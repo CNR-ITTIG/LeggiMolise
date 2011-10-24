@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20060716" fonte="rp1" id="t1" tipo="modifica"/><evento data="20060716" fonte="rp2" id="t2" tipo="modifica"/><evento data="20070524" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2006;11" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2006;12" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2007;14" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20060716" fonte="rp1" id="t1" tipo="modifica"/><evento data="20060716" fonte="rp2" id="t2" tipo="modifica"/><evento data="20070524" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2006;11" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2006;12" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -60,7 +60,7 @@ PRINCIPI GENERALI E COORDINAMENTO CON GLI ENTI LOCALI
                     <num>Art.1 </num>
                     <rubrica>
  
-(Oggetto e finalitè) 
+(Oggetto e finalità) 
  
 </rubrica>
                     <comma id="art1-com1">
@@ -159,7 +159,7 @@ ISTITUZIONE DELL'ARPAM
                         <num>Art.4 </num>
                         <rubrica>
  
-(Costituzione, natura giuridica e finalitè dell'ARPAM) 
+(Costituzione, natura giuridica e finalità dell'ARPAM) 
  
 </rubrica>
                         <comma id="art4-com1">
@@ -546,7 +546,7 @@ h)</num>
  
 2. Il Collegio dei Revisori esercita funzioni di controllo e di verifica contabile, con i poteri e secondo le modalitè previste per i Revisori dei conti delle Aziende UU.SS.LL. 
  
-3. Ai componenti del Collegio spetta un'indennitè annua lorda onnicomprensiva pari al 10% degli emolumenti spettanti al Direttore Generale.</corpo>
+3. Ai componenti del Collegio spetta un'indennità annua lorda onnicomprensiva pari al 10% degli emolumenti spettanti al Direttore Generale.</corpo>
                         </comma>
                     </articolo>
                 </capo>
@@ -1005,7 +1005,7 @@ b) il personale regionale o degli enti sub-regionali che dimostri, attraverso ce
                             <entratainvigore norm=""/>
                             <redazione id="ann1-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="20060716" fonte="rp1" id="t1" tipo="modifica"/><evento data="20060716" fonte="rp2" id="t2" tipo="modifica"/><evento data="20070524" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2006;11" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2006;12" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2007;14" xlink:type="simple"/></relazioni></ciclodivita>
+                        </descrittori><ciclodivita><eventi><evento data="20060716" fonte="rp1" id="t1" tipo="modifica"/><evento data="20060716" fonte="rp2" id="t2" tipo="modifica"/><evento data="20070524" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2006;11" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2006;12" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>
@@ -1128,7 +1128,7 @@ malattie infettive e diffusive,
                             <entratainvigore norm=""/>
                             <redazione id="ann2-red1" nome="" norm=""/>
                             <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="20060716" fonte="rp1" id="t1" tipo="modifica"/><evento data="20060716" fonte="rp2" id="t2" tipo="modifica"/><evento data="20070524" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2006;11" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2006;12" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2007;14" xlink:type="simple"/></relazioni></ciclodivita>
+                        </descrittori><ciclodivita><eventi><evento data="20060716" fonte="rp1" id="t1" tipo="modifica"/><evento data="20060716" fonte="rp2" id="t2" tipo="modifica"/><evento data="20070524" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2006;11" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2006;12" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/></relazioni></ciclodivita>
                     </meta>
                     <intestazione/>
                     <formulainiziale/>

@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19790303" fonte="rp1" id="t1" tipo="modifica"/><evento data="19871231" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1979;05" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1992;15" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19790303" fonte="rp1" id="t1" tipo="modifica"/><evento data="19871231" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1979;05" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1992;15" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -31,7 +31,7 @@ Modificato art. 2 dalla legge n. 5/1979 art. 1
             <emanante>Regione Molise</emanante>
             <tipoDoc>Legge Regionale  </tipoDoc>
             <dataDoc norm="19720807">7 Agosto 1972</dataDoc>, n. <numDoc>11</numDoc>
-            <titoloDoc>Determinazione dell'indennitè di presenza spettante ai componenti del Comitato e delle Sezioni di controllo sugli atti degli Enti Locali. 
+            <titoloDoc>Determinazione dell'indennità di presenza spettante ai componenti del Comitato e delle Sezioni di controllo sugli atti degli Enti Locali. 
  
 </titoloDoc>
         </intestazione>

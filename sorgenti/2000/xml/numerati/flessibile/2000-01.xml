@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="04.assistenza sociale, volontariato"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20070825" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2007;23" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20070825" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;23" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 04.Assistenza sociale, volontariato 
  
 Bollettino 
@@ -86,7 +86,7 @@ Oggetto
                         <num>
  
 4.</num>
-                        <corpo> La Regione riconosce la particolare importanza dell'attivitè dei soggetti del volontariato, della cooperazione sociale e, comunque, di tutti gli altri soggetti non lucrativi, nonchè delle reti anche informali di auto aiuto del singolo e delle famiglie, favorendone lo sviluppo attraverso l'agevolazione alla partecipazione e al perseguimento delle finalitè stabilite dalla presente legge. </corpo>
+                        <corpo> La Regione riconosce la particolare importanza dell'attivitè dei soggetti del volontariato, della cooperazione sociale e, comunque, di tutti gli altri soggetti non lucrativi, nonchè delle reti anche informali di auto aiuto del singolo e delle famiglie, favorendone lo sviluppo attraverso l'agevolazione alla partecipazione e al perseguimento delle finalità stabilite dalla presente legge. </corpo>
                     </comma>
                     <comma id="art1-com5">
                         <num>
@@ -122,7 +122,7 @@ Destinatari
                     <num>Art.3 </num>
                     <rubrica>
  
-Finalitè e principi 
+Finalità e principi 
  </rubrica>
                     <comma id="art3-com1">
                         <num>
@@ -280,7 +280,7 @@ Interventi socio-assistenziali
 </alinea>
                         <el id="art5-com3-leta">
                             <num>a)</num>
-                            <corpo> attraverso una distribuzione in rete, che integra i livelli di offerta da parte di istituzioni pubbliche ed organizzazioni di utilitè sociale, che contribuiscono alle finalitè della presente legge;</corpo>
+                            <corpo> attraverso una distribuzione in rete, che integra i livelli di offerta da parte di istituzioni pubbliche ed organizzazioni di utilitè sociale, che contribuiscono alle finalità della presente legge;</corpo>
                         </el>
                         <el id="art5-com3-letb">
                             <num> 
@@ -892,7 +892,7 @@ Istituzioni pubbliche di assistenza e beneficenza
                     <comma id="art20-com1">
                         <num>
 1.</num>
-                        <corpo> Le Istituzioni pubbliche di assistenza e beneficenza concorrono in via prioritaria, rispetto agli organismi di utilitè sociale, al raggiungimento delle finalitè e degli obiettivi previsti dalla presente legge. </corpo>
+                        <corpo> Le Istituzioni pubbliche di assistenza e beneficenza concorrono in via prioritaria, rispetto agli organismi di utilitè sociale, al raggiungimento delle finalità e degli obiettivi previsti dalla presente legge. </corpo>
                     </comma>
                     <comma id="art20-com2">
                         <num>
@@ -1126,7 +1126,7 @@ Fondo sociale regionale
                         <num>
  
 2.</num>
-                        <corpo> Tenuto conto che le attivitè socio-assistenziali sono di competenza primaria dei Comuni, i finanziamenti regionali hanno finalitè sussidiaria, particolarmente per la prima fase di applicazione della presente legge, al fine di consentire ai Comuni, all'interno dei propri bilanci, un riordino delle destinazioni finanziarie in favore degli interventi sociali. </corpo>
+                        <corpo> Tenuto conto che le attivitè socio-assistenziali sono di competenza primaria dei Comuni, i finanziamenti regionali hanno finalità sussidiaria, particolarmente per la prima fase di applicazione della presente legge, al fine di consentire ai Comuni, all'interno dei propri bilanci, un riordino delle destinazioni finanziarie in favore degli interventi sociali. </corpo>
                     </comma>
                     <comma id="art27-com3">
                         <num>

@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="18.lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19991016" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1999;32" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19991016" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1999;32" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 18.Lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa 
 15.Industria 
  
@@ -46,7 +46,7 @@ Titolo I: NORME GENERALI
         <articolato>
             <articolo id="art1">
                 <num>Art. 1</num>
-                <rubrica>: FINALITè 
+                <rubrica>: Finalità 
 </rubrica>
                 <comma id="art1-com1">
                     <num/>
@@ -81,7 +81,7 @@ Titolo I: NORME GENERALI
                     <corpo> 
 1. Gli interventi regionali sono finalizzati alla promozione del lavoro autonomo ed associato,   all'inserimento nelle imprese del lavoratori inoccupati, disoccupati o minacciati da licenziamento ed alla loro qualificazione e riqualificazione, alla ricollocazione dei lavoratori in esubero, per effetto di processi di ristrutturazione delle aziende, al sostegno temporaneo dei disoccupati ed inoccupati, anche attraverso il loro utilizzo nei cantieri scuola e di lavoro degli Enti Locali,   all'attuazione delle azioni positive per l'occupazione femminile, ai sensi delle leggi vigenti. 
  
-2. Nel rispetto degli obiettivi presenti nel Piano Pluriennale di Sviluppo Regionale e secondo le prioritè e le modalitè stabilite nel PIANO TRIENNALE delle POLITICHE ATTIVE DEL LAVORO e nel Piano Annuale per l'Occupazione, gli strumenti che la Regione adotta per raggiungere le finalitè indicate nel <rif xlink:href="#art1">precedente art. 1</rif>, sono:</corpo>
+2. Nel rispetto degli obiettivi presenti nel Piano Pluriennale di Sviluppo Regionale e secondo le prioritè e le modalitè stabilite nel PIANO TRIENNALE delle POLITICHE ATTIVE DEL LAVORO e nel Piano Annuale per l'Occupazione, gli strumenti che la Regione adotta per raggiungere le finalità indicate nel <rif xlink:href="#art1">precedente art. 1</rif>, sono:</corpo>
                 </comma>
                 <comma id="art3-com2">
                     <num/>
@@ -192,7 +192,7 @@ l) Da 2 rappresentanti designati rispettivamente dall'A.N.<rif xlink:href="#art5
  
 5. Il Comitato si intende validamente costituito con la presenza della maggioranza dei suoi componenti, e puè deliberare con la maggioranza dei presenti. 
  
-6. Per ogni seduta del Comitato, ai componenti non appartenenti ai ruoli regionali, oltre alle indennitè di missione ed al rimborso delle spese di viaggio, compete un gettone di presenza nella misura prevista dall'<rif xlink:href="urn:nir:regione.molise:legge:1992-05-26;15#art37">art.37 della legge regionale 26 maggio 1992, n. 15</rif> e successive modificazioni ed integrazioni.</corpo>
+6. Per ogni seduta del Comitato, ai componenti non appartenenti ai ruoli regionali, oltre alle indennità di missione ed al rimborso delle spese di viaggio, compete un gettone di presenza nella misura prevista dall'<rif xlink:href="urn:nir:regione.molise:legge:1992-05-26;15#art37">art.37 della legge regionale 26 maggio 1992, n. 15</rif> e successive modificazioni ed integrazioni.</corpo>
                 </comma>
             </articolo>
             <articolo id="art7">
@@ -220,7 +220,7 @@ e) Informazione, consulenza, assistenza tecnica, organizzativa e di supporto all
  
 f) ogni altra informazione necessaria ai fini dell'orientamento al lavoro. 
  
-3. Nelle more dell'istituzione di detti servizi, l'Assessorato al Lavoro, puè avvalersi, attraverso   convenzioni, di esperti e/o di istituti specializzati per il raggiungimento delle finalitè di cui al presente articolo.</corpo>
+3. Nelle more dell'istituzione di detti servizi, l'Assessorato al Lavoro, puè avvalersi, attraverso   convenzioni, di esperti e/o di istituti specializzati per il raggiungimento delle finalità di cui al presente articolo.</corpo>
                 </comma>
             </articolo>
             <articolo id="art8">
@@ -255,7 +255,7 @@ f) ogni altra informazione necessaria ai fini dell'orientamento al lavoro.
             </articolo>
             <articolo id="art10">
                 <num>Art. 10</num>
-                <rubrica>: FINALITè 
+                <rubrica>: Finalità 
 </rubrica>
                 <comma id="art10-com1">
                     <num/>
@@ -289,7 +289,7 @@ b)</num>
                         <num> 
  
 c)</num>
-                        <corpo> da lavoratori in esubero, in quanto coinvolti in processi di ristrutturazione, da lavoratori in CIGS, o che usufruiscono del trattamento speciale di disoccupazione o dell'indennitè di mobilitè, ai sensi della normativa vigente;</corpo>
+                        <corpo> da lavoratori in esubero, in quanto coinvolti in processi di ristrutturazione, da lavoratori in CIGS, o che usufruiscono del trattamento speciale di disoccupazione o dell'indennità di mobilitè, ai sensi della normativa vigente;</corpo>
                     </el>
                     <el id="art11-com1-letd">
                         <num> 
@@ -785,9 +785,9 @@ g) ogni altra condizione di disagio occupazionale. </corpo>
                     <num/>
                     <corpo>a) la parte della spesa finanziata dalla Regione, che, comunque, non puè superare il 90% della spesa totale; 
  
-b) le spese ammissibili a contributo per ogni unitè da impegnare nel cantiere distinte per: indennitè ai lavoratori interessati, oneri previdenziali, assistenziali ed assicurativi, spese di organizzazione generale e di gestione; 
+b) le spese ammissibili a contributo per ogni unitè da impegnare nel cantiere distinte per: indennità ai lavoratori interessati, oneri previdenziali, assistenziali ed assicurativi, spese di organizzazione generale e di gestione; 
  
-c) l'entitè dell'indennitè giornaliera da corrispondere ad ogni lavoratore impegnato nei cantieri scuola e di lavoro. 
+c) l'entitè dell'indennità giornaliera da corrispondere ad ogni lavoratore impegnato nei cantieri scuola e di lavoro. 
  
 3. La partecipazione dei lavoratori disoccupati ai cantieri è volontaria e non istituisce alcun rapporto di lavoro con l'Ente promotore e gestore, n. costituisce titolo preferenziale per la partecipazione ad alcun concorso e/o per l'assunzione negli Enti o nelle aziende pubbliche. Per la durata del progetto i lavoratori in esso impiegati mantengono la figura giuridica di disoccupati e,   conseguentemente, la iscrizione al collocamento.</corpo>
                 </comma>
@@ -874,7 +874,7 @@ g) organizzazione e informatizzazione dei servizi.
                     <corpo> 
 1. La Regione promuove e sostiene iniziative volte a realizzare concretamente la paritè al lavoro e nel trattamento tra uomo e donna nei luoghi di lavoro. 
  
-2. La Regione partecipa di concerto con le Amministrazioni provinciali alla realizzazione di azioni   positive aventi le seguenti finalitè:</corpo>
+2. La Regione partecipa di concerto con le Amministrazioni provinciali alla realizzazione di azioni   positive aventi le seguenti finalità:</corpo>
                 </comma>
                 <comma id="art35-com2">
                     <num/>

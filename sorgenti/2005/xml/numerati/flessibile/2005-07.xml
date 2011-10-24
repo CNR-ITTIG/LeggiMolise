@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20070524" fonte="rp1" id="t1" tipo="modifica"/><evento data="" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2007;14" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2006;24" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20070524" fonte="rp1" id="t1" tipo="modifica"/><evento data="" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2006;24" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
  
 Bollettino 
@@ -46,7 +46,7 @@ Modificato art. 9 dalla legge n. 24/2006 art. 3
                 <num>ARTICOLO 1 </num>
                 <rubrica>
  
-Finalitè 
+Finalità 
  </rubrica>
                 <comma id="art1-com1">
                     <num>
@@ -96,7 +96,7 @@ c)</num>
  
 d)</num>
 
-                        <corpo> la ripartizione e l'erogazione dei fondi assegnati dallo Stato e quelli propri appositamente stanziati per l'attuazione delle finalitè della presente legge, da destinare ai Comuni, singoli o consorziati, alle associazioni protezionistiche di cui all'<rif
+                        <corpo> la ripartizione e l'erogazione dei fondi assegnati dallo Stato e quelli propri appositamente stanziati per l'attuazione delle finalità della presente legge, da destinare ai Comuni, singoli o consorziati, alle associazioni protezionistiche di cui all'<rif
                                 xlink:href="#art9">articolo 9</rif>, ai servizi veterinari delle Aziende sanitarie locali, secondo le procedure definite dal regolamento di cui al <rif xlink:href="#art2-com2">comma 2</rif>. </corpo>
                     </el>
                 </comma>
@@ -429,7 +429,7 @@ Partecipazione dei privati
                 <comma id="art9-com1">
                     <num>
 1.</num>
-                    <alinea> Per il perseguimento delle finalitè della presente legge, la Regione, i Comuni e le Aziende sanitarie locali possono avvalersi della collaborazione e dell'opera di: 
+                    <alinea> Per il perseguimento delle finalità della presente legge, la Regione, i Comuni e le Aziende sanitarie locali possono avvalersi della collaborazione e dell'opera di: 
  
 </alinea>
                     <el id="art9-com1-leta">
@@ -518,7 +518,7 @@ f)</num>
                     <num>
  
 6.</num>
-                    <alinea> I privati di cui al <rif xlink:href="#art9-com1-letb">comma 1, lettera b)</rif>, del presente articolo devono operare in conformitè alle finalitè ed alle norme della presente legge ed utilizzare strutture che rispondono ai criteri fissati nel regolamento di attuazione della presente legge. Tramite stipula di convenzione, possono esercitare le seguenti attivitè: 
+                    <alinea> I privati di cui al <rif xlink:href="#art9-com1-letb">comma 1, lettera b)</rif>, del presente articolo devono operare in conformitè alle finalità ed alle norme della presente legge ed utilizzare strutture che rispondono ai criteri fissati nel regolamento di attuazione della presente legge. Tramite stipula di convenzione, possono esercitare le seguenti attivitè: 
  
 </alinea>
                     <el id="art9-com6-leta">
@@ -578,7 +578,7 @@ Registro del canile
                 <num>ARTICOLO 11 </num>
                 <rubrica>
  
-Norme per le strutture a finalitè amatoriale o a scopo commerciale 
+Norme per le strutture a finalità amatoriale o a scopo commerciale 
  </rubrica>
                 <comma id="art11-com1">
                     <num>

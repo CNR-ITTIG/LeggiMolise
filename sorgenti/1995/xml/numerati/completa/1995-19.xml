@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="36.turismo e industria alberghiera"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20010415" fonte="rp1" id="t1" tipo="modifica"/><evento data="" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2001;04" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2000;14" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20010415" fonte="rp1" id="t1" tipo="modifica"/><evento data="" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2001;04" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2000;14" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 36.Turismo e industria alberghiera 
  
 Bollettino 
@@ -47,7 +47,7 @@ Titolo I: INCENTIVAZIONE DELL'OFFERTA NEL SETTORE ALBERGHIERO
         <articolato>
             <articolo id="art1">
                 <num>Art. 1</num>
-                <rubrica>: FINALITè 
+                <rubrica>: Finalità 
  </rubrica>
                 <comma id="art1-com1">
                     <num>

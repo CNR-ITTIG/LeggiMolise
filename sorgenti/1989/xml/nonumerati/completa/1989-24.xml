@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="14.governo del territorio, urbanistica, edilizia"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19950430" fonte="rp1" id="t1" tipo="modifica"/><evento data="19991016" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1995;14" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1999;31" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19950430" fonte="rp1" id="t1" tipo="modifica"/><evento data="19991016" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1995;14" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1999;31" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 14.Governo del territorio, urbanistica, edilizia 
  
 Bollettino 
@@ -43,7 +43,7 @@ Capo I: DISPOSIZIONI GENERALI
         <articolato>
             <articolo id="art1">
                 <num>ART. 1</num>
-                <rubrica>: FINALITè 
+                <rubrica>: Finalità 
 </rubrica>
                 <comma id="art1-com1">
                     <num/>

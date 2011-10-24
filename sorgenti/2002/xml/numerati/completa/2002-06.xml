@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20021201" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2002;33" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20021201" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2002;33" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -442,7 +442,7 @@ e) Servizio dell'Avvocatura regionale."<virgolette
                                     </comma>
                                 </articolo>
 
-                            </virgolette>"1. Per le finalitè di cui all'<rif
+                            </virgolette>"1. Per le finalità di cui all'<rif
                                 xlink:href="#art1">articolo 1</rif>, le strutture organizzative del Consiglio regionale sono individuate dall'<rif
                                 xlink:href="#art7">articolo 7</rif> della presente legge conformemente ai principi di cui alla <rif
                                 xlink:href="urn:nir:regione.molise:legge:1997-04-08;7">legge regionale 8 aprile 1997, n. 7</rif>."<virgolette

@@ -12,7 +12,7 @@
                     <materia valore="31.protezione civile, rischio sismico, regime delle acque e rischio idrogeologico"/>
                 </materie>
             </descrittori><ciclodivita><eventi><evento data=""/>
-    " fonte="rp1" id="t1" tipo="modifica"/><evento data="20041001" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2004;21" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2004;17" xlink:type="simple"/></relazioni></ciclodivita>
+    " fonte="rp1" id="t1" tipo="modifica"/><evento data="20041001" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2004;21" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2004;17" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 31.Protezione civile, rischio sismico, regime delle acque e rischio idrogeologico 
  
 Bollettino 

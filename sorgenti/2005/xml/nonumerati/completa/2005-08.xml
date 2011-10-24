@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2008;17" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2008;17" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
  
 Bollettino 
@@ -45,7 +45,7 @@ Modificato art. 7 dalla legge n. 17/2008 art. 2
                     <num/>
 
                     <corpo>
-Finalitè 
+Finalità 
  
 1. La presente legge, nell'ottica di tutelare le risorse regionali ambientali, forestali, faunistiche e paesaggistiche, di difendere la biodiversitè, di ridurre il rischio dei danni provocati dagli incendi e di conservare la fertilitè dei suoli agro-forestali, disciplina i modi ed i criteri mediante i quali è possibile eliminare i residui delle coltivazioni cerealicole e non nell'ambito del territorio della Regione Molise. Tali metodologie sono parte integrante delle disposizioni previste come "buona pratica agricola" (BPA). 
  
@@ -111,7 +111,7 @@ Operazioni di imballaggio, di trinciatura e di interramento
                     <corpo>
 Misure di aiuto 
  
-1. Per il perseguimento delle finalitè di cui all'<rif xlink:href="#art1">art. 1</rif>, la Giunta regionale, entro novanta giorni dall'approvazione della presente legge, con proprio atto definisce:</corpo>
+1. Per il perseguimento delle finalità di cui all'<rif xlink:href="#art1">art. 1</rif>, la Giunta regionale, entro novanta giorni dall'approvazione della presente legge, con proprio atto definisce:</corpo>
                 </comma>
                 <comma id="art4-com2">
                     <num/>

@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="02.artigianato"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19961115" fonte="rp1" id="t1" tipo="modifica"/><evento data="19850131" fonte="rp2" id="t2" tipo="modifica"/><evento data="20000514" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1996;33" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:1985;02" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2000;31" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19961115" fonte="rp1" id="t1" tipo="modifica"/><evento data="19850131" fonte="rp2" id="t2" tipo="modifica"/><evento data="20000514" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1996;33" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1985;02" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 02.Artigianato 
  
 Bollettino 
@@ -42,7 +42,7 @@ Modificato art. 27 dalla legge n. 33/1996 art. 2
             <dataDoc norm="19810620">20 Giugno 1981</dataDoc>, n. <numDoc>12</numDoc>
             <titoloDoc>Ulteriori provvidenze a favore dell'Artigianato 
  
-Titolo I: FINALITè E BENEFICIARI 
+Titolo I: Finalità E BENEFICIARI 
  
 </titoloDoc>
         </intestazione>

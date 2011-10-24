@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="30.promozione e organizzazione di attivit&amp;#xe0; culturali e delle tradizioni locali, associazionismo"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20060427" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2006;03" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20060427" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2006;03" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 30.Promozione e organizzazione di attivit&#xE0; culturali e delle tradizioni locali, associazionismo 
  
 Bollettino 
@@ -380,7 +380,7 @@ e)</num>
                     <num>Art.9 </num>
                     <rubrica>
  
-Decisioni, indennitè, segreteria del Comitato tecnico-scientifico 
+Decisioni, indennità, segreteria del Comitato tecnico-scientifico 
  </rubrica>
                     <comma id="art9-com1">
                         <num>
@@ -392,7 +392,7 @@ Decisioni, indennitè, segreteria del Comitato tecnico-scientifico
  
 2.</num>
 
-                        <corpo> Ai componenti competono per ogni seduta le indennitè previste dall'<rif xlink:href="urn:nir:regione.molise:legge:1983;7#art1">articolo 1 della legge regionale n. 7/1983</rif>. </corpo>
+                        <corpo> Ai componenti competono per ogni seduta le indennità previste dall'<rif xlink:href="urn:nir:regione.molise:legge:1983;7#art1">articolo 1 della legge regionale n. 7/1983</rif>. </corpo>
                     </comma>
                     <comma id="art9-com3">
                         <num>
@@ -523,7 +523,7 @@ Requisiti
                             <num> 
  
 b)</num>
-                            <corpo> mancanza di finalitè di lucro evincibile dagli statuti dei soggetti promotori e dai rendiconti, anche se interni;</corpo>
+                            <corpo> mancanza di finalità di lucro evincibile dagli statuti dei soggetti promotori e dai rendiconti, anche se interni;</corpo>
                         </el>
                         <el id="art11-com2-letc">
                             <num> 

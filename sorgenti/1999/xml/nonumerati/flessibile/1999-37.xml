@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/><evento data="20000430" fonte="rp2" id="t2" tipo="modifica"/><evento data="20080816" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2002;21" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2000;24" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2007;24" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="" fonte="rp1" id="t1" tipo="modifica"/><evento data="20000430" fonte="rp2" id="t2" tipo="modifica"/><evento data="20080816" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2002;21" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2000;24" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2007;24" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -201,7 +201,7 @@ h) attuare le prerogative che il <rif xlink:href="urn:nir:stato:decreto.legislat
  
 - definire obiettivi, prioritè, piani, programmi e direttive generali per la gestione, nel rispetto delle linee di programmazione regionale; 
  
-- individuare le risorse umane, materiali ed economico-finanziarie da destinare alle diverse finalitè; 
+- individuare le risorse umane, materiali ed economico-finanziarie da destinare alle diverse finalità; 
  
 - definire i criteri generali di deterrninazione delle tariffe da praticare all'utenza per la fornitura di acqua e per le concessioni d'uso del suolo e del patrimonio dell'Azienda;  
  
@@ -316,7 +316,7 @@ Bilancio
                     <corpo>
 Utili di gestione 
  
-1. L'Azienda non ha finalitè di lucro; gli eventuali utili di gestione vengono utilizzati secondo le previsioni statutarie.</corpo>
+1. L'Azienda non ha finalità di lucro; gli eventuali utili di gestione vengono utilizzati secondo le previsioni statutarie.</corpo>
                 </comma>
             </articolo>
             <articolo id="art18">
@@ -368,7 +368,7 @@ Disposizioni sul capitale di dotazione e sul patrimonio
  
 1. Il capitale di dotazione è costituito dal credito regionale, maturato dalla Regione Molise nei confronti dell'ERIM nel primo esercizio 1984 di avviamento dell'ERIM medesimo.  
  
-2. Il patrimonio conferito all'ERlM dall'<rif xlink:href="urn:nir:regione.molise:legge:1980-09-02;31#art15">articolo 15 della legge regionale 2 settembre 1980, n. 31</rif>, è da intendersi patrimonio regionale dato in gestione all'Azienda per le finalitè istituzionali.</corpo>
+2. Il patrimonio conferito all'ERlM dall'<rif xlink:href="urn:nir:regione.molise:legge:1980-09-02;31#art15">articolo 15 della legge regionale 2 settembre 1980, n. 31</rif>, è da intendersi patrimonio regionale dato in gestione all'Azienda per le finalità istituzionali.</corpo>
                 </comma>
             </articolo>
             <articolo id="art22">

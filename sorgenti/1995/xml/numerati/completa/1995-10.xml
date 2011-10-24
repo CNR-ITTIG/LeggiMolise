@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xe0;"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19990831" fonte="rp1" id="t1" tipo="modifica"/><evento data="20000331" fonte="rp2" id="t2" tipo="modifica"/><evento data="20020523" fonte="rp3" id="t3" tipo="modifica"/><evento data="" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:1999;27" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2000;15" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2002;05" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.campania:legge:2009;27" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19990831" fonte="rp1" id="t1" tipo="modifica"/><evento data="20000331" fonte="rp2" id="t2" tipo="modifica"/><evento data="20020523" fonte="rp3" id="t3" tipo="modifica"/><evento data="" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1999;27" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2000;15" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2002;05" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2009;27" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
  
 Bollettino 
@@ -178,7 +178,7 @@ Titolo II: ORIENTAMENTO PROFESSIONALE
                     <num>
 1.</num>
 
-                    <corpo> Per la realizzazione delle finalitè dell'<rif xlink:href="#art1">art. 1</rif>, la Regione promuove e finanzia servizi e attivitè di  carattere formativo e informativo rivolte alla generalitè dei cittadini, con particolare riguardo all'utenza giovanile e diretti a fornire conoscenze delle prospettive occupazionali, delle professioni, dei relativi percorsi formativi, delle dinamiche e delle trasformazioni in atto nel sistema produttivo e nel mercato del lavoro. </corpo>
+                    <corpo> Per la realizzazione delle finalità dell'<rif xlink:href="#art1">art. 1</rif>, la Regione promuove e finanzia servizi e attivitè di  carattere formativo e informativo rivolte alla generalitè dei cittadini, con particolare riguardo all'utenza giovanile e diretti a fornire conoscenze delle prospettive occupazionali, delle professioni, dei relativi percorsi formativi, delle dinamiche e delle trasformazioni in atto nel sistema produttivo e nel mercato del lavoro. </corpo>
                 </comma>
                 <comma id="art3-com2">
                     <num>
@@ -236,7 +236,7 @@ Titolo III: OSSERVAZIONE SISTEMATICA DEL MERCATO DEL LAVORO
             </articolo>
             <articolo id="art4">
                 <num>ART. 4</num>
-                <rubrica>: FINALITè OBIETTIVI ED ORGANIZZAZIONE DELL'ATTIVITè DI OSSERVAZIONE DEL MERCATO DEL LAVORO 
+                <rubrica>: Finalità OBIETTIVI ED ORGANIZZAZIONE DELL'ATTIVITè DI OSSERVAZIONE DEL MERCATO DEL LAVORO 
  </rubrica>
                 <comma id="art4-com1">
                     <num>
@@ -342,7 +342,7 @@ Capitolo I: OGGETTO, DESTINATARI E TIPOLOGIE DELLA FORMAZIONE PROFESSIONALE
                 <comma id="art5-com1">
                     <num>
 1.</num>
-                    <corpo> In relazione alle finalitè di cui al <rif xlink:href="#art1">precedente art. 1</rif>, la Regione Molise organizza un sistema della formazione professionale capace di promuovere le conoscenze scientifiche e tecnologiche e le abilitè tecnico - operativo necessarie per esercitare ruoli professionali nei settori di beni e servizi, pubblici e privati, sia che si tratti di lavoro subordinato, di lavoro autonomo, di lavoro   associato o di attivitè professionali libere. </corpo>
+                    <corpo> In relazione alle finalità di cui al <rif xlink:href="#art1">precedente art. 1</rif>, la Regione Molise organizza un sistema della formazione professionale capace di promuovere le conoscenze scientifiche e tecnologiche e le abilitè tecnico - operativo necessarie per esercitare ruoli professionali nei settori di beni e servizi, pubblici e privati, sia che si tratti di lavoro subordinato, di lavoro autonomo, di lavoro   associato o di attivitè professionali libere. </corpo>
                 </comma>
                 <comma id="art5-com2">
                     <num>
@@ -855,7 +855,7 @@ g)</num>
                     <num>
  
 5.</num>
-                    <corpo> Ai componenti delle Commissioni esaminatrici sono attribuite l'indennitè di presenza ed il rimborso delle spese di viaggio previste dalle vigenti norme regionali in materia. </corpo>
+                    <corpo> Ai componenti delle Commissioni esaminatrici sono attribuite l'indennità di presenza ed il rimborso delle spese di viaggio previste dalle vigenti norme regionali in materia. </corpo>
                 </comma>
                 <comma id="art17-com6">
                     <num>

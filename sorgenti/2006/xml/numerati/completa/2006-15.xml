@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20100210" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;03" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20100210" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;03" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
@@ -43,12 +43,12 @@ Modificato art. 5 dalla legge n. 3/2010 art. 18
                 <num>Art. 1 </num>
                 <rubrica>
  
-(Finalitè) 
+(Finalità) 
  </rubrica>
                 <comma id="art1-com1">
                     <num>
 1.</num>
-                    <corpo> La Regione assume il principio della riqualificazione della dotazione organica e dell'efficenza gestionale quale strumento che possa favorire il necessario processo di snellimento e riorganizzazione della struttura burocratica ed amministrativa, secondo criteri di produttivitè, razionalitè, integrazione funzionale, flessibilitè operativa, nel perseguimento delle finalitè di tutela dell'interesse generale dell'utenza molisana. </corpo>
+                    <corpo> La Regione assume il principio della riqualificazione della dotazione organica e dell'efficenza gestionale quale strumento che possa favorire il necessario processo di snellimento e riorganizzazione della struttura burocratica ed amministrativa, secondo criteri di produttivitè, razionalitè, integrazione funzionale, flessibilitè operativa, nel perseguimento delle finalità di tutela dell'interesse generale dell'utenza molisana. </corpo>
                 </comma>
                 <comma id="art1-com2">
                     <num>

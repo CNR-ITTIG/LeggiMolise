@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="18.lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20060716" fonte="rp1" id="t1" tipo="modifica"/><evento data="20080816" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2006;10" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2007;24" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20060716" fonte="rp1" id="t1" tipo="modifica"/><evento data="20080816" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2006;10" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2007;24" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 18.Lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa 
  
 Bollettino 
@@ -50,7 +50,7 @@ Principi generali
                     <num>Articolo 1 </num>
                     <rubrica>
  
-Finalitè ed obiettivi 
+Finalità ed obiettivi 
  </rubrica>
                     <comma id="art1-com1">
                         <num>
@@ -58,7 +58,7 @@ Finalitè ed obiettivi
 
                         <alinea> La Regione Molise, nell'ambito del processo di decentramento di funzioni a norma dell'<rif
                                 xlink:href="urn:nir:stato:legge:1997-03-15#art1">art. 1 della legge 15 marzo 1997</rif> - n. 59, del <rif
-                                xlink:href="urn:nir:stato:decreto.legislativo:1997-12-23">decreto legislativo 23 dicembre 1997</rif> - n. 469 e in attuazione delle finalitè di cui all'<rif xlink:href="urn:nir:regione.molise:statuto:#art4">art. 4 dello Statuto</rif>, al fine di realizzare un sistema integrato delle politiche attive del lavoro, della formazione professionale e delle politiche educativo-scolastiche nonchè degli strumenti di gestione dei servizi dell'impiego, promuove e coordina iniziative con gli obiettivi di: 
+                                xlink:href="urn:nir:stato:decreto.legislativo:1997-12-23">decreto legislativo 23 dicembre 1997</rif> - n. 469 e in attuazione delle finalità di cui all'<rif xlink:href="urn:nir:regione.molise:statuto:#art4">art. 4 dello Statuto</rif>, al fine di realizzare un sistema integrato delle politiche attive del lavoro, della formazione professionale e delle politiche educativo-scolastiche nonchè degli strumenti di gestione dei servizi dell'impiego, promuove e coordina iniziative con gli obiettivi di: 
  
 </alinea>
                         <el id="art1-com1-leta">
@@ -107,7 +107,7 @@ Azioni e strumenti
 1.</num>
 
                         <alinea> La Regione Molise, in conformitè con gli indirizzi della programmazione regionale ed in attuazione dell'<rif
-                                xlink:href="urn:nir:stato:decreto.legislativo:1997;469#art2">art. 2 del decreto legislativo n. 469/1997</rif>, per il perseguimento delle finalitè di cui all'<rif xlink:href="#art1">art. 1</rif>, promuove: 
+                                xlink:href="urn:nir:stato:decreto.legislativo:1997;469#art2">art. 2 del decreto legislativo n. 469/1997</rif>, per il perseguimento delle finalità di cui all'<rif xlink:href="#art1">art. 1</rif>, promuove: 
  
 </alinea>
                         <el id="art2-com1-leta">
@@ -168,7 +168,7 @@ i)</num>
  
 j)</num>
 
-                            <corpo> ogni altro intervento utile per il raggiungimento delle finalitè di cui al <rif xlink:href="#art1">precedente art. 1</rif>. </corpo>
+                            <corpo> ogni altro intervento utile per il raggiungimento delle finalità di cui al <rif xlink:href="#art1">precedente art. 1</rif>. </corpo>
                         </el>
                     </comma>
                     <comma id="art2-com2">

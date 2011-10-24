@@ -12,7 +12,7 @@
                     <materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea"/>
                 </materie>
             </descrittori><ciclodivita><eventi><evento data=""/>
-    " fonte="rp1" id="t1" tipo="modifica"/><evento data="20051115" fonte="rp2" id="t2" tipo="modifica"/><evento data="20080316" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2004;20" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2005;35" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.campania:legge:2008;04" xlink:type="simple"/></relazioni></ciclodivita>
+    " fonte="rp1" id="t1" tipo="modifica"/><evento data="20051115" fonte="rp2" id="t2" tipo="modifica"/><evento data="20080316" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2004;20" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2005;35" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2008;04" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
  
 Bollettino 

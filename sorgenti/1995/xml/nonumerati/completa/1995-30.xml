@@ -9,9 +9,9 @@
                 <redazione id="red1" nome="" norm=""/>
                 <urn valore="urn:nir:regione.molise:legge:1995-12-15;30"/>
                 <materie vocabolario="Regione Molise">
-                    <materia valore="07.contabilit&amp;#xe0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
+                    <materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
             <redazionale>
                 <nota id="n1">
                     <h:p>
@@ -22,7 +22,7 @@
  
    la promozione e lo sviluppo dell'imprenditorialitè ed 
  
-   interventi per il mantenimento dell'occupazione. Finalitè di 
+   interventi per il mantenimento dell'occupazione. Finalità di 
  
    cui al titolo I e II della legge regionale n. 24 dell'8 
  
@@ -40,7 +40,7 @@
  
    la promozione e sviluppo dell'imprenditorialitè delegate alle 
  
-   province. Finalitè del titolo IV legge regionale n. 24 dell'8 
+   province. Finalità del titolo IV legge regionale n. 24 dell'8 
  
    maggio 1995 - +5.000.000.000 - +5.000.000.000. 
  
@@ -136,7 +136,7 @@
 </h:p>
                 </nota>
             </redazionale>
-        </meta><?error 07.Contabilit&#xE0; e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+        </meta><?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
  
 Bollettino 
 Bollettino Ufficiale n. 25 del 16/12/95 

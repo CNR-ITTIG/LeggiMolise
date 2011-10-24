@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20100501" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2010;12" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20100501" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;12" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
 36.Turismo e industria alberghiera 
  
@@ -44,7 +44,7 @@ Modificato art. 11 dalla legge n. 12/2010 art. 1
                 <num>Art. 1 </num>
                 <rubrica>
  
-Finalitè 
+Finalità 
  </rubrica>
                 <comma id="art1-com1">
                     <num>
@@ -508,7 +508,7 @@ b)</num>
  
 c)</num>
 
-                        <corpo> i parametri per la somministrazione di pasti, alimenti e bevande, nel corso di eventi con finalitè promozionali di cui all'<rif xlink:href="#art24">articolo 24</rif>;</corpo>
+                        <corpo> i parametri per la somministrazione di pasti, alimenti e bevande, nel corso di eventi con finalità promozionali di cui all'<rif xlink:href="#art24">articolo 24</rif>;</corpo>
                     </el>
                     <el id="art9-com1-letd">
                         <num>  
@@ -1481,7 +1481,7 @@ Vendita e promozione dei prodotti
                     <num>
  
 2.</num>
-                    <alinea> Le aziende agrituristiche che producono prodotti tradizionali o di qualità certificata ai sensi della normativa vigente possono realizzare in azienda eventi con finalitè promozionali, che rientrano nelle attivitè didattiche, culturali, tradizionali e ricreative, riferite al mondo rurale, nel rispetto delle seguenti condizioni:  
+                    <alinea> Le aziende agrituristiche che producono prodotti tradizionali o di qualità certificata ai sensi della normativa vigente possono realizzare in azienda eventi con finalità promozionali, che rientrano nelle attivitè didattiche, culturali, tradizionali e ricreative, riferite al mondo rurale, nel rispetto delle seguenti condizioni:  
  
 </alinea>
                     <el id="art24-com2-leta">
@@ -1547,7 +1547,7 @@ Vigilanza, monitoraggio e valutazione
                     <el id="art26-com3-leta">
                         <num>a)</num>
 
-                        <corpo> una valutazione sul conseguimento delle finalitè di cui all'<rif xlink:href="#art1-com1">articolo 1, comma 1</rif>;</corpo>
+                        <corpo> una valutazione sul conseguimento delle finalità di cui all'<rif xlink:href="#art1-com1">articolo 1, comma 1</rif>;</corpo>
                     </el>
                     <el id="art26-com3-letb">
                         <num>  

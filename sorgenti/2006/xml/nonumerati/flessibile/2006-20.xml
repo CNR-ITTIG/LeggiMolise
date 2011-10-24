@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20070524" fonte="rp1" id="t1" tipo="modifica"/><evento data="20090331" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.campania:legge:2007;14" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.campania:legge:2009;11" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="20070524" fonte="rp1" id="t1" tipo="modifica"/><evento data="20090331" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2009;11" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
  
 Bollettino 
@@ -52,7 +52,7 @@ DISPOSIZIONI GENERALI
                         <num/>
 
                         <corpo>
-Finalitè 
+Finalità 
  
 1. La Regione Molise, al fine di salvaguardare l'ambiente e tutelare la salute della popolazione dall'esposizione ai campi elettromagnetici, in attuazione degli articoli 4, comma 3, e 5 del decreto del Ministero dell'ambiente 10 settembre 1998, n. 381, ed in conformitè della <rif xlink:href="urn:nir:stato:legge:2001-02-22;36">legge 22 febbraio 2001, n. 36</rif>, con la presente legge:</corpo>
                     </comma>
