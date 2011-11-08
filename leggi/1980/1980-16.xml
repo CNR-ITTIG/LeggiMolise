@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19800531" num="11" tipo="BURM"/>
+                <entratainvigore norm="19800615"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1980-05-21;16"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="36.turismo e industria alberghiera"/>
+                </materie>
+            </descrittori>
+        </meta><?error 36.Turismo e industria alberghiera 
+ 
+Bollettino 
+Bollettino Ufficiale n. 11 del 31/05/80 
+ 
+Oggetto 
+Turismo - Incentivazione - Interventi - Disciplina - Integrazioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19800521">21 Maggio 1980</dataDoc>, n. <numDoc>16</numDoc>
+            <titoloDoc>Norme integrative delle leggi regionali 2 settembre 1977, n. 31 e 5 settembre 1978, n. 19 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+Tra le opere indicate dall'<rif
+                            xlink:href="urn:nir:regione.molise:legge:1977-09-02;31#art3">art. 3 della legge regionale 2 settembre 1977, n. 31</rif> - lettera a) ed ammesse a benefici di cui agli artt. 1 e 10 della <rif
+                            xlink:href="urn:nir:regione.molise:legge:1978-09-05;19">legge regionale 5 settembre 1978, n. 19</rif>, è  compreso l'acquisto di immobili, con annesse eventuali aree di servizio, da destinarsi, anche mediante la loro ristrutturazione, trasformazione, ampliamento, adattamento, ammodernamento e   miglioramento, alle attivitè di cui al predetto art. 3 - lettera a) della sopracitata <rif xlink:href="urn:nir:regione.molise:legge:1977;31">legge regionale n. 31 del 1977</rif>. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+
+                    <corpo>Ai benefici degli interventi finanziati di cui ai citati artt. 1 e 10 della <rif xlink:href="urn:nir:regione.molise:legge:1978-09-05;19">legge regionale 5 settembre 1978, n. 19</rif>, è concesso, per le iniziative di cui al precedente comma, il contributo in conto   capitale nella misura del 40% della spesa riconosciuta ammissibile. </corpo>
+                </comma>
+                <comma id="art1-com3">
+                    <num/>
+                    <corpo>La Giunta Regionale è autorizzata ad erogare tali finanziamenti, previa esibizione di atto notarile di acquisto. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+Le misure dei contributi di cui agli artt. 1 e 10 della <rif xlink:href="urn:nir:regione.molise:legge:1978-09-05">legge regionale 5 settembre 1978</rif>, n. l9 sono aumentate dell'ulteriore 10% della spesa riconosciuta ammissibile, per le societè e cooperative delle zone interne o montane del territorio regionale caratterizzato da una larga partecipazione associativa, con un numero di soci comunque non interiore a 50 (cinquanta), ed aventi, fra gli scopi statutari, la valorizzazione turistica delle predette zone. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art3-com1-mod1">
+L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1978-09-05;19#art5">art. 5 della legge regionale 5 settembre 1978, n. 19</rif>, che abrogava l'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1977-09-02;31#art9">articolo 9 della legge regionale 2 settembre 1977, n. 31</rif>, è a sua volta soppresso e sostituito dal seguente: 
+ 
+&lt;&lt;<virgolette
+                                id="art3-com1-mod1-vir1" tipo="struttura"><?error I contributi sono corrisposti ai soggetti beneficiari ad opera ultimata e funzionante previa presentazione della seguente documentazione: 
+ 
+1) certificato di inizio e fine dei lavori; 
+ 
+2) licenza di esercizio; 
+ 
+3) relazione esplicativa redatta dal direttore dei lavori contenente anche la dichiarazione attestante la conformit&#xE0; al progetto originario. 
+ 
+In corso d'opera possono essere corrisposti acconti fino ad un massimo del 70% previa presentazione dei seguenti documenti: 
+ 
+a) certificato di inizio lavori; 
+ 
+b) relazione esplicativa redatta dal direttore dei lavori contenente anche la dichiarazione attestante la percentuale di avanzamento dei lavori regolarmente eseguiti in conformit&#xE0; al   progetto originario. 
+ 
+La vigilanza e l'accertamento sull'attuazione delle iniziative ammesse a contributo &#xE8; demandata alle strutture operative dell'Assessorato Regionale ai Lavori Pubblici. 
+ 
+Per gli acquisti ed i rinnovi di attrezzature il contributo &#xE8; corrisposto su presentazione di fatture previo sopralluogo dei funzionari dell'Assessorato Regionale del Turismo per gli accertamenti relativi. 
+ 
+?>
+                                <articolo id="art0">
+                                    <num>Art. 4 </num>
+                                    <rubrica/>
+                                    <comma id="art0-com1">
+                                    <num/>
+                                    <corpo>
+Le disposizioni di cui alla presente legge si applicano anche agli interventi già ammessi a finanziamento ai sensi delle leggi regionali 2 settembre 1977, n. 31 e 5 settembre 1978, n. 19. </corpo>
+                                    </comma>
+                                    <comma id="art0-com2">
+                                    <num/>
+                                    <corpo>A tali fini i beneficiari interessati dovranno presentare apposita domanda all'Assessorato competente nel termine perentorio di 30 giorni dalla data di entrata in vigore della presente legge. </corpo>
+                                    </comma>
+                                </articolo>
+                                <articolo id="art0">
+                                    <num>Art. 5 </num>
+                                    <rubrica/>
+                                    <comma id="art0-com4">
+                                    <num/>
+                                    <corpo>
+L'onere della spesa derivante dall'applicazione della presente  legge è iscritta a carico del capitolo 53200 del bilancio regionale per l'esercizio 1980. </corpo>
+                                    </comma>
+                                </articolo>
+                                <articolo id="art0">
+                                    <num>Art. 6 </num>
+                                    <rubrica/>
+                                    <comma id="art0-com6">
+                                    <num/>
+
+                                    <corpo>
+La presente legge è dichiarata urgente ai sensi del <rif
+                                    xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">secondo comma dell'art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+ 
+è fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette><?error Marker Warning 106?>
+                        </mod>
+                    </corpo>
+                </comma>
+            </articolo><?error Marker Warning 105?>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

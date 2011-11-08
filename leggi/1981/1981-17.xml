@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19810814" num="16" tipo="BURM"/>
+                <entratainvigore norm="19810829"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1981-08-03;17"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="14.governo del territorio, urbanistica, edilizia"/>
+                </materie>
+            </descrittori>
+        </meta><?error 14.Governo del territorio, urbanistica, edilizia 
+36.Turismo e industria alberghiera 
+ 
+Bollettino 
+Bollettino Ufficiale n. 16 del 14/08/81 
+ 
+Oggetto 
+Territorio regionale - Utilizzazione a scopo turistico - Disposizioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19810803">3 Agosto 1981</dataDoc>, n. <numDoc>17</numDoc>
+            <titoloDoc>Norme sull'utilizzazione del territorio a scopo turistico 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+In applicazione dell'<rif
+                            xlink:href="urn:nir:regione.molise:statuto:#art4">art. 4 dello Statuto regionale</rif> e fino a quando non sarè approvato il Piano regionale di Assetto del Territorio (PRAT) e comunque non oltre il 31 dicembre 1985, la valorizzazione turistica della Regione Molise avverrè per aree omogenee e attraverso i Piani di cui al <rif xlink:href="#art2">successivo articolo 2</rif>. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num/>
+
+                    <corpo>Sono aree omogenee la fascia litoranea e le zone di montagna ricadenti nei comprensori previsti dalla <rif xlink:href="urn:nir:stato:legge:1965-06-26;717">legge 26 giugno 1965, n. 717</rif>, delimitati dal I Piano di coordinamento degli Interventi Pubblici nel Mezzogiorno e approvati dal CIR. Gli stessi comprensori, su richiesta motivata dei Comuni interessati al Consiglio regionale possono essere estesi a zone contermini caratterizzate da continuitè di interessi di natura prevalentemente turistica. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo>
+La valorizzazione di tali aree avviene mediante piani di intervento organico adottati dai Consigli dei Comuni, dei Consorzi di Comuni o delle Comunitè Montane, ed approvati dalla Giunta Regionale d'intesa con la Commissione competente. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num/>
+
+                    <corpo>Fino a quando non sarè approvato il PRAT, la redazione dei piani di valorizzazione di cui al comma precedente, dovrè essere preventivamente autorizzata dalla Giunta regionale, la quale si   pronuncerè, ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1971-10-22;865#art27">art. 27 della legge 22 ottobre 1971, n. 865</rif> e successive integrazioni e modificazioni, sulla delimitazione territoriale e sugli obiettivi del Piano, esposti nella domanda di autorizzazione alla redazione del Piano stesso. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+                    <alinea>
+I piani di cui al precedente articolo devono contenere fra l'altro: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> il calcolo economico della redditivitè convenzionale; 
+ 
+- l'analisi documentata della domanda e dell'offerta; 
+ 
+- la verifica della coerenza tra risorse turistiche dell'area oggetto di intervento e la prevedibile espansione della domanda, gli interventi da effettuare, gli effetti di carattere economico e   sociale sulla zona e sulla Regione; 
+ 
+- gli standards di utilizzazione ottimali in relazione alle risorse disponibili; 
+ 
+- gli interventi positivi (rimboschimenti e ripopolamenti faunistici) per valorizzare le risorse stesse; 
+ 
+- la quota territoriale riservata alle iniziative locali, che non puè essere inferiore ad un terzo della superficie destinata allo sviluppo con strutture specifiche; 
+ 
+- un programma e costo dei servizi collettivi adeguati all'iniziativa, con l'indicazione dei mezzi per la loro realizzazione e manutenzione, con allegato schema di convenzione.</corpo>
+                    </ep>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+                    <alinea>
+Fino all'entrata in vigore del PRAT, sono vietate costruzioni di residenze e di impianti di risalita: 
+ 
+</alinea>
+                    <el id="art4-com1-leta">
+                        <num>a)</num>
+                        <corpo> entro cento metri dalle rive dei corsi d'acqua permanenti, dei laghi naturali o artificiali e del mare, per i Comuni ancora privi di strumento urbanistico;</corpo>
+                    </el>
+                    <el id="art4-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> lungo percorsi viari o pedonali, in corrispondenza di visuali panoramiche ed entro un cono visuale verticale da meno trenta gradi a più trenta gradi e comunque fino alla distanza di cento   metri. </corpo>
+                    </el>
+                </comma>
+                <comma id="art4-com2">
+                    <num/>
+                    <alinea>Sono inoltre vietati: 
+ 
+</alinea>
+                    <en id="art4-com2-num1">
+                        <num>1)</num>
+                        <corpo> l'immissione di acque di rifiuto nei corsi d'acqua, se prima non depurate opportunamente;</corpo>
+                    </en>
+                    <en id="art4-com2-num2">
+                        <num> 
+ 
+2)</num>
+                        <corpo> costruzioni con altezza media dei fronti superiori a metri dieci. </corpo>
+                    </en>
+                </comma>
+                <comma id="art4-com3">
+                    <num/>
+                    <corpo>Possono essere consentite deroghe, limitatamente ai casi di impianti pubblici e di uso ed interesse pubblico. </corpo>
+                </comma>
+                <comma id="art4-com4">
+                    <num/>
+                    <corpo>L'autorizzazione è accordata dal Sindaco su conforme deliberazione del Consiglio Comunale previo nulla-osta della Giunta Regionale. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo>
+Le iniziative pubbliche e private ammesse dalla presente legge sono a totale carico degli enti abilitati a proporle. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo>
+Nell'ambito di una o più aree omogenee caratterizzate da flora e faune tipiche possono essere istituite riserve naturali attrezzate, secondo progetti di organizzazione che prevedano iniziative   economiche entro limiti compatibili con la conservazione ed il potenziamento del patrimonio ambientale delle riserve stesse. </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num/>
+                    <corpo>La proposta di istituzione, oltre che, dalla Regione in sede di Piano di Assetto del Territorio o di sviluppo, puè essere fatta alla Regione dalle Comunitè Montane o dai Comuni. </corpo>
+                </comma>
+                <comma id="art6-com3">
+                    <num/>
+                    <alinea>L'istituzione è effettuata con decreto del Presidente della Giunta su deliberazione del Consiglio Regionale e sentita l'apposita commissione composta: 
+ 
+</alinea>
+                    <ep>
+                        <num>-</num>
+                        <corpo> dagli Assessori regionali all'Agricoltura e Foreste, all'Urbanistica, al Turismo; 
+ 
+- dai Sindaci dei Comuni interessati; 
+ 
+- dal Presidente della Provincia o suo delegato; e integrata: 
+ 
+- dal Direttore del Parco Nazionale d'Abruzzo, per le aree limitrofe al Parco stesso; 
+ 
+- da tre esperti nominati dal Consiglio Regionale con voto limitato a due.</corpo>
+                    </ep>
+                </comma>
+                <comma id="art6-com4">
+                    <num/>
+                    <corpo>La Commissione è presieduta dal Presidente della Giunta o dall'Assessore delegato. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo>
+La Comunitè montana organizza e gestisce la riserva naturale attrezzata ricadente nel proprio territorio secondo un regolamento che sottopone all'approvazione della Giunta Regionale entro   sessanta giorni dal decreto di istituzione di cui al precedente articolo. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo>
+La presente legge entra in vigore il quindicesimo giorno dalla sua pubblicazione sul Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

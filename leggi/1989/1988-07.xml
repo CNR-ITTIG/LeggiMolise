@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19880401" num="6" tipo="BURM"/>
+                <entratainvigore norm="19880416"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1988-03-25;7"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="06.consiglieri regionali e gruppi consiliari"/>
+                </materie>
+            </descrittori>
+        </meta><?error 06.Consiglieri regionali e gruppi consiliari 
+ 
+Bollettino 
+Bollettino Ufficiale n. 06 del 01/04/88 
+ 
+Oggetto 
+Consiglieri regionali - Previdenza - Disposizioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19880325">25 Marzo 1988</dataDoc>, n. <numDoc>7</numDoc>
+            <titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1974-09-05;16">legge regionale 5 settembre 1974, n. 16</rif> - Norme sulla previdenza dei Consiglieri Regionali - Integrazioni. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ART. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art1-com1-mod1">
+L'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1974-09-05;16#art30">ultimo comma dell'art. 30 della legge regionale 5 settembre 1974, n. 16</rif> è cosè modificato: 
+ 
+&lt;&lt;<virgolette
+                                id="art1-com1-mod1-vir1" tipo="parola">Il capitale da assicurare sarè di L. 300.000.000 per morte e di L. 300.000.000 per invaliditè   permanente.   La rivalutazione del capitale da assicurare avviene automaticamente sulla base dell'indice ISTAT</virgolette>&gt;&gt;. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ART. 2</num>
+                <rubrica>: NORMA FINANZIARIA 
+</rubrica>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo> 
+Al finanziamento e quantificazione degli oneri derivanti dalla presente legge si provvede con la   stessa legge approvativa dei bilanci annuali, cosi come previsto dall'<rif xlink:href="urn:nir:regione.molise:legge:1977-12-03;44#art33">art. 33 della legge regionale 3 dicembre 1977, n. 44</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>ART. 3</num>
+                <rubrica>: PUBBLICAZIONE 
+</rubrica>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo> 
+La presente legge sarè pubblicata nel Bollettino Ufficiale della Regione. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num/>
+                    <corpo>E fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

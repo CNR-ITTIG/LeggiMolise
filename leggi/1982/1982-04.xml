@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19820201" num="2" tipo="BURM"/>
+                <entratainvigore norm="19820216"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1982-01-20;4"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="06.consiglieri regionali e gruppi consiliari"/>
+                </materie>
+            </descrittori><ciclodivita><eventi><evento data="19860916" fonte="rp1" id="t1" tipo="modifica"/><evento data="19911201" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1986;13" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1991;20" xlink:type="simple"/></relazioni></ciclodivita>
+        </meta><?error 06.Consiglieri regionali e gruppi consiliari 
+ 
+Bollettino 
+Bollettino Ufficiale n. 02 del 01/02/82 
+ 
+Oggetto 
+Gruppi consiliari - Dotazioni - Funzionamento - Disciplina - Modifiche 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 20/1991 art. 9 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 13/1986 art. 1 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19820120">20 Gennaio 1982</dataDoc>, n. <numDoc>4</numDoc>
+            <titoloDoc>Modifiche della <rif xlink:href="urn:nir:regione.molise:legge:1978-09-05;21">legge regionale n. 21 del 5 settembre 1978</rif> - Norme relative alla dotazione dei mezzi necessari per il finanziamento e l'attivitè dei Gruppi Consiliari 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 20/1991 art. 9</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

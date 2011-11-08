@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19860430" num="8" tipo="BURM"/>
+                <entratainvigore norm="19860515"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1986-04-28;10"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="05.commercio, fiere e mercati, camere di commercio"/>
+                </materie>
+            </descrittori>
+        </meta><?error 05.Commercio, fiere e mercati, camere di commercio 
+27.Procedimento amministrativo, semplificazione amministrativa, semplificazione del sistema normativo 
+ 
+Bollettino 
+Bollettino Ufficiale n. 08 del 30/04/86 
+ 
+Oggetto 
+Commercio al dettaglio - Esercenti singoli o associati - Disciplina Determinazioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19860428">28 Aprile 1986</dataDoc>, n. <numDoc>10</numDoc>
+            <titoloDoc>Abrogazione delle leggi regionali 21 maggio 1975, n. 36, 25 giugno 1976, n. 20 e 22 gennaio 1981, n. 5. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ART. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>
+                        <mod id="art1-com1-mod1">
+Le leggi regionali 21 maggio 1975, n. 36; 25 giugno 1976, n. 20 e 22 gennaio 1981, n. 5 sono abrogate con la definizione graduale delle istanze presentate fino alla data di entrata in vigore della presente legge. </mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ART. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello   Statuto</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

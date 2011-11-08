@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19790414" num="7" tipo="BURM"/>
+                <entratainvigore norm="19790429"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1979-04-10;14"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori><ciclodivita><eventi><evento data="19790930" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1979;26" xlink:type="simple"/></relazioni></ciclodivita>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 07 del 14/04/79 
+ 
+Oggetto 
+Assistenza farmaceutica - Coltivatori diretti esercenti attivit&#xE0; commerciale e artigiani - Estensione - Criteri - Modifiche 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 26/1979 art. 1 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19790410">10 Aprile 1979</dataDoc>, n. <numDoc>14</numDoc>
+            <titoloDoc>Modifica alla <rif xlink:href="urn:nir:regione.molise:legge:1973-10-08;22">legge regionale 8 ottobre 1973, n. 22</rif>: &lt;&lt; Estensione dell'assistenza farmaceutica ai coltivatori diretti, agli esercenti attivitè commerciale e agli artigiani &gt;&gt; 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 26/1979 art. 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>
