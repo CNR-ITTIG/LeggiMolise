@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20021116" num="24" tipo="BURM"/>
+                <entratainvigore norm="20021201"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2002-11-08;34"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="34.trasporti e viabilit&amp;#xe0;, navigazione nelle acque interne"/>
+                </materie>
+            </descrittori>
+        </meta><?error 34.Trasporti e viabilit&#xE0;, navigazione nelle acque interne 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 24 del 16 novembre 2002 
+ 
+Oggetto 
+Aziende di trasporto pubblico locale - Copertura dei disavanzi di esercizio - Disposizioni - Modifiche. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20021108">8 novembre 2002</dataDoc>, n. <numDoc>34</numDoc>. 
+ 
+<titoloDoc>Modifiche ed integrazioni alla <rif xlink:href="urn:nir:regione.molise:legge:2002-07-23;15">legge regionale 23 luglio 2002 n. 15</rif>, concernente: "Copertura dei disavanzi di esercizio delle aziende di trasporto pubblico locale". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Articolo 1 </num>
+                <rubrica>
+ 
+All'<rif
+                        xlink:href="urn:nir:regione.molise:legge:2002-07-23;15#art1-com2">articolo 1, comma 2 della legge regionale 23 luglio 2002 n. 15</rif>, le parole "relativi agli anni 1994, 1996 e 1998" sono sotituite dalle parole "relativi agli anni 1994, 1995, 1996 e 1997". 
+ 
+All'<rif xlink:href="urn:nir:regione.molise:legge:2002-07-23;15#art1-com4">articolo 1, comma 4 della legge regionale 23 luglio 2002 n. 15</rif>, in fine, aggiungere le parole ", con ammortamento a decorrere dal 1è gennaio 2003". 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Articolo 2 </num>
+                <rubrica>
+ 
+Al comma 3, dopo la parola "assumono" aggiungere: "a decorrere dall'esercizio finanziario 2003. 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Articolo 3 </num>
+                <rubrica>
+ 
+La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise. 
+ 
+La presente legge sarè pubblicata nel Bollettino Ufficiale della Regione. è fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

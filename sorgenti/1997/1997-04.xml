@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19970401" num="7" tipo="BURM"/>
+                <entratainvigore norm="19970416"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1997-03-18;4"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="05.commercio, fiere e mercati, camere di commercio"/>
+                </materie>
+            </descrittori><ciclodivita><eventi><evento data="19991016" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1999;33" xlink:type="simple"/></relazioni></ciclodivita>
+        </meta><?error 05.Commercio, fiere e mercati, camere di commercio 
+ 
+Bollettino 
+Bollettino Ufficiale n. 07 del 01/04/97 
+ 
+Oggetto 
+Commercio su aree pubbliche - Disciplina; 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 33/1999 art. 33 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19970318">18 Marzo 1997</dataDoc>, n. <numDoc>4</numDoc>
+
+            <titoloDoc>Disciplina delle funzioni regionali in materia di commercio su aree pubbliche. 
+ 
+Il Commissario di Governo ha apposto il visto ed ha annotato quanto segue: 
+ 
+&lt;&lt; Con l'occasione il Governo ha osservato che: 
+ 
+a) a fronte della delega ai Comuni delle funzioni di cui alle lettere b) e c) dell'<rif
+                    xlink:href="urn:nir:stato:legge:1991;112#art1">art. 1 della legge 112/91</rif> non è stato previsto a favore degli stessi il correlato trasferimento dei necessari mezzi finanziari per farvi fronte; 
+ 
+b) circa la norma finanziaria di cui all'<rif
+                    xlink:href="#art19">art. 19</rif>, la dotazione dei distinti capitoli di spesa di cui è prevista l'iscrizione nel bilancio 1997 dovrè essere contenuta entro i limiti dell'istituendo fondo di cui al <rif
+                    xlink:href="#art17">precedente articolo 17</rif>; 
+ 
+c) infine la stessa norma finanziaria non sembrerebbe idonea ad assicurare la copertura degli oneri pluriennali derivanti alla Regione dall'accollo della rata dei mutui che i Comuni sono autorizzati a contrarre ai sensi dell' <rif xlink:href="#art17">art. 17</rif>, previo assenso regionale, con la Cassa Depositi e Prestiti per le finalità previste dalla legge in oggetto, atteso che l'evoluzione del gettito del predetto fondo potrebbe non garantire la copertura integrale di tali oneri &gt;&gt;. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 33/1999 art. 33</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

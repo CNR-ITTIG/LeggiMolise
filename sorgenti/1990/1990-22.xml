@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19900516" num="9" tipo="BURM"/>
+                <entratainvigore norm="19900531"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1990-05-11;22"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="03.assistenza abitativa"/>
+                </materie>
+            </descrittori><ciclodivita><eventi><evento data="19950531" fonte="rp1" id="t1" tipo="modifica"/><evento data="" fonte="rp2" id="t2" tipo="modifica"/><evento data="20100530" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1995;17" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1999;24" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
+        </meta><?error 03.Assistenza abitativa 
+ 
+Bollettino 
+Bollettino Ufficiale n. 09 del 16/05/90 
+ 
+Oggetto 
+Edilizia abitativa - Interventi - Destinatari - Requisiti - Tipologie - Criteri - Procedure 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+ 
+Modifiche 
+Modificato art. 3 dalla legge n. 17/1995 art. 1 
+Modificato art. 3 dalla legge n. 24/1999 art. 1 
+Modificato art. 6 dalla legge n. 17/1995 art. 2 
+Modificato art. 6 dalla legge n. 17/1995 art. 3 
+Modificato art. 6 dalla legge n. 17/1995 art. 4 
+Modificato art. 16 dalla legge n. 17/1995 art. 6 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19900511">11 Maggio 1990</dataDoc>, n. <numDoc>22</numDoc>
+            <titoloDoc>Interventi per l'edilizia abitativa 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

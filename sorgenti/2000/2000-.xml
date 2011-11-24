@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="" num="" tipo="GU"/>
+                <entratainvigore norm=""/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore=""/>
+            </descrittori>
+        </meta><?error 36.Turismo e industria alberghiera 
+ 
+Bollettino 
+Bollettino Ufficiale n. 06 del 16 marzo 2000 
+ 
+Oggetto 
+Modifiche alla L.R. n. 19/1995 concernente incentivi alla attivit&#xE0; turistico-alberghiera. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20000303">3 marzo 2000</dataDoc>, <titoloDoc>n. l4. 
+ 
+Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1995;19">legge regionale n. 19/1995</rif>, ad oggetto: "Incentivazione dell'offerta turistica nei settori alberghiero e di turismo rurale".  
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art.1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <alinea> L'<rif xlink:href="urn:nir:regione.molise:legge:1995-05-03;19#art4">articolo 4 della legge regionale 3 maggio 1995, n. 19</rif>, ï¿&#x153; cosï¿&#x153; modificato: 
+ 
+</alinea>
+                    <el id="art1-com1-leta">
+                        <num>a)</num>
+                        <corpo>
+                            <mod
+                                    id="art1-com1-leta-mod1"> al comma 2 sono soppresse le parole "<virgolette
+                                    id="art1-com1-leta-mod1-vir1"
+                                    tipo="parola">per la lettera a) al 70%, per la lettera b) al 40%, per la lettera c) al 60%</virgolette>" e sostituite dalle seguenti "<virgolette id="art1-com1-leta-mod1-vir2">per le lettere a), b), c) al 45%</virgolette>";</mod>
+                        </corpo>
+                    </el>
+                    <el id="art1-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo>
+                            <mod
+                                    id="art1-com1-letb-mod2"> ï¿&#x153; aggiunto il seguente ultimo comma: "<virgolette
+                                    id="art1-com1-letb-mod2-vir3" tipo="parola">La misura del contributo sarï¿&#x153; determinata, di volta in volta, entro i limiti prefissati, in adeguamento alle direttive ed agli orientamenti C.E.E. in materia di aiuti di Stato a finalitï¿&#x153; regionale </virgolette>".  
+ 
+</mod>
+                        </corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art.2 </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art2-com1-mod3"> Il <rif xlink:href="urn:nir:regione.molise:legge:1995-05-03;19#art17-com2">comma 2 dell'articolo 17 della legge regionale 3 maggio 1995, n. 19</rif>, ï¿&#x153; abrogato. 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art.3 </num>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La presente legge ï¿&#x153; dichiarata urgente, ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

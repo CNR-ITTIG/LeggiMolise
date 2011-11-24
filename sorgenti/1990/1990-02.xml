@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19900116" num="1" tipo="BURM"/>
+                <entratainvigore norm="19900131"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1990-01-12;2"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori><ciclodivita><eventi><evento data="20000514" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple"/></relazioni></ciclodivita>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+18.Lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa 
+ 
+Bollettino 
+Bollettino Ufficiale n. 01 del 16/01/90 
+ 
+Oggetto 
+Cooperazione agricola - Credito di esercizio - Modifiche - Attivit&#xE0; di divulgazione e propaganda - Modifiche 
+ 
+Abrogazioni 
+Abrogata intera legge dalla legge n. 31/2000 art. art. 1, primo comma, lettera vv) 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19900112">12 Gennaio 1990</dataDoc>, n. <numDoc>2</numDoc>
+            <titoloDoc>Modifica alla <rif xlink:href="urn:nir:regione.molise:legge:1978-02-10;5">legge regionale n. 5 del 10 febbraio 1978</rif>, recante lnterventi a favore della cooperazione agricola. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num/>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo>abrogata intera legge dalla legge n. 31/2000 art. art. 1, primo comma, lettera vv)</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

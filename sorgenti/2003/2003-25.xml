@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20030816" num="17" tipo="BURM"/>
+                <entratainvigore norm="20030831"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2003-08-07;25"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x96; N. 17 del 16 agosto 2003 
+ 
+Oggetto 
+Rifiuti solidi - Smaltimento - Piano regionale - Competenze - Procedure - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20030807">7 agosto 2003</dataDoc>, n. <numDoc>25</numDoc>
+
+            <titoloDoc>Norme per l'elaborazione e l'attuazione del Piano di Gestione dei Rifiuti.  
+ 
+INDICE 
+ 
+<rif xlink:href="#tit1">TITOLO I</rif> - PRINCIPI GENERALI -  
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>? Finalità ed oggetto della Legge 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>? Principi 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>? Specificazioni Terminologiche 
+ 
+<rif xlink:href="#tit2">TITOLO II</rif> - COMPETENZE 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art3-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>? Competenze della Regione 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>? Competenze delle Province 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6 </num>
+                <rubrica>- Competenze dei Comuni 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art6-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7 </num>
+
+                <rubrica>- Competenze in ordine alle ordinanze contingibili ed urgenti 
+ 
+<rif xlink:href="#tit3">TITOLO III</rif> - PIANI DI GESTIONE DEI RIFIUTI 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art7-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8 </num>
+                <rubrica>- Contenuti del Piano Regionale di Gestione dei rifiuti  
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art8-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9 </num>
+                <rubrica>- Procedure per l'approvazione del Piano Regionale di Gestione dei Rifiuti  
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art9-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10 </num>
+                <rubrica>- Contenuti dei Piani Provinciali di organizzazione della gestione dei rifiuti 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art10-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+                <rubrica>- Procedure per l'approvazione dei Piani Provinciali di organizzazione della gestione dei rifiuti 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art11-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12 </num>
+                <rubrica>- Effetti del piano Regionale 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art12-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13 </num>
+
+                <rubrica>- Effetti dei piani Provinciali di organizzazione della gestione dei rifiuti 
+ 
+<rif xlink:href="#tit4">TITOLO IV</rif> - AMBITI TERRITORIALI OTTIMALI PER LA GESTIONE DEI RIFIUTI URBANI 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art13-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14 </num>
+                <rubrica>? Delimitazione degli ATO 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art14-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>Art. 15 </num>
+                <rubrica>- Gestione dei rifiuti  urbani in Ambiti Territoriali Ottimali 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art15-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>Art. 16 </num>
+
+                <rubrica>- Costituzione del fondo incentivante tramite ecotassa 
+ 
+<rif xlink:href="#tit5">TITOLO V</rif> ? APPROVAZIONE DEI PROGETTI ED AUTORIZZAZIONE ALLA REALIZZAZIONE DEI NUOVI IMPIANTI DI SMALTIMENTO E RECUPERO 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art16-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>Art. 17 </num>
+                <rubrica>- Presentazione della domanda 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art17-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>Art.. 18 </num>
+
+                <rubrica>- Responsabile del procedimento e convocazione della conferenza di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art27-com2">art. 27, comma 2 del Decreto Legislativo 5 febbraio 1997, n. 22</rif>
+                </rubrica><?error Marker Warning 109?>
+                <comma id="art18-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art19">
+                <num>Art. 19 </num>
+                <rubrica>- Competenze della Conferenza  
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art19-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art20">
+                <num>Art. 20 </num>
+                <rubrica>- Sospensione dei termini per l'acquisizione della pronuncia sulla valutazione di impatto ambientale statale o regionale 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art20-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art21">
+                <num>Art. 21 </num>
+                <rubrica>- Competenze della Giunta Regionale 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art21-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art22">
+                <num>Art. 22 </num>
+                <rubrica>- Varianti sostanziali agli impianti già autorizzati 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art22-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art23">
+                <num>Art. 23 </num>
+                <rubrica>- Approvazione dei progetti ed autorizzazione alla realizzazione di impianti di ricerca e di sperimentazione 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art23-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art24">
+                <num>Art. 24 </num>
+                <rubrica>- Osservatorio del ciclo dei rifiuti 
+ 
+<rif xlink:href="#tit6">TITOLO VI</rif> - AUTORIZZAZIONE ALL'ESERCIZIO DELLE OPERAZIONI DI SMALTIMENTO E RECUPERO E PROCEDURE SEMPLIFICATE 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art24-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art25">
+                <num>Art. 25 </num>
+                <rubrica>- Autorizzazione all'esercizio delle operazioni di smaltimento e recupero dei rifiuti 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art25-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art26">
+                <num>Art. 26 </num>
+                <rubrica>- Garanzie finanziarie per l'esercizio delle operazioni di smalti mento e di recupero 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art26-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art27">
+                <num>Art. 27 </num>
+
+                <rubrica>- Procedure semplificate per l'autosmaltimento ed il recupero dei rifiuti 
+ 
+<rif xlink:href="#tit7">TITOLO VII</rif> - PROCEDURE STRAORDINARIE, VIGILANZA E POTERI SOSTITUTIVI 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art27-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art28">
+                <num>Art. 28 </num>
+                <rubrica>- Provvedimenti straordinari volti a sopperire a situazioni di necessitè ed urgenza 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art28-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art29">
+                <num>Art. 29 </num>
+                <rubrica>- Vigilanza e attivitè sostitutiva 
+ 
+<rif xlink:href="#tit8">TITOLO VIII</rif> - MESSA IN SICUREZZA E BONIFICA DEI SITI INQUINATI 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art29-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art30">
+                <num>Art. 30 </num>
+                <rubrica>- Anagrafe dei siti da bonificare 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art30-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art31">
+                <num>Art. 31 </num>
+                <rubrica>? Linee guida per la predisposizione dei progetti di bonifica 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art31-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art32">
+                <num>Art. 32 </num>
+                <rubrica>- Adempimenti relativi alla messa in sicurezza e alla bonifica dei siti contaminati 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art32-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art33">
+                <num>Art. 33 </num>
+
+                <rubrica>- Diffida ad adempiere ed esecuzione d'ufficio 
+ 
+<rif xlink:href="#tit9">TITOLO IX</rif> - NORME FINANZIARIE, SISTEMA SANZIONATORIO E DISPOSIZIONI TRANSITORIE E FINALI 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art33-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art34">
+                <num>Art. 34 </num>
+                <rubrica>- Norma finanziaria 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art34-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art35">
+                <num>Art. 35 </num>
+                <rubrica>- Sanzioni 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art35-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art36">
+                <num>Art. 36 </num>
+                <rubrica>- Disposizioni finali 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art36-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art37">
+                <num>Art. 37 </num>
+                <rubrica>- Abrograzioni di norme regionali 
+ 
+</rubrica>
+                <comma id="art37-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <titolo id="tit1">
+                <num>TITOLO I </num>
+                <rubrica>
+ 
+PRINCIPI GENERALI 
+ 
+<rif
+                        xlink:href="#art1">Art. 1</rif> 
+ 
+(Finalità ed oggetto della legge) 
+ 
+1.  La Regione con la presente legge, in attuazione del <rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22">Decreto Legislativo 5 febbraio 1997, n. 22</rif> e successive modifiche ed integrazioni, detta norme per l'elaborazione e l'attuazione del piano, per la messa in sicurezza e bonifica dei siti inquinati, sostenendo, anche con risorse finanziarie, tutte le iniziative volte alla riduzione della quantità e della pericolositè dei rifiuti . 
+ 
+2. La Regione persegue l'articolazione territoriale degli atti di programmazione, di gestione dei rifiuti  ed esercizio delle relative funzioni amministrative, in attuazione degli articoli 4, 19 e 24 del <rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:2000-08-18;267">decreto legislativo 18 agosto 2000, n. 267</rif> e successive modifiche ed integrazioni ed in conformitè ai principi espressi dal <rif
+                        xlink:href="urn:nir:stato:legge:1997-03-15;59#cap1">Capo I della Legge 15 marzo 1997, n. 59</rif> e dal <rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1998-03-31;112">Decreto Legislativo 31 marzo 1998, n. 112</rif>. 
+ 
+3.  La Regione favorisce la più ampia partecipazione dei cittadini, singoli ed associati, alla formazione dei Piani previsti dalla presente legge ed al controllo della gestione dei  rifiuti ; promuove e sostiene, anche in collaborazione con gli Enti Locali, gli Enti di Ricerca, le Universitè degli Studi, le Istituzioni Scolastiche, le organizzazioni sindacali, le associazioni ambientaliste e quelle di volontariato e dei consumatori, campagne di sensibilizzazione ed educazione nonchè la formazione professionale in materia ambientale. 
+ 
+<rif
+                        xlink:href="#art2">Art. 2</rif> 
+ 
+(Principi) 
+ 
+1. La Regione e gli Enti Locali, nell'esercizio delle funzioni di cui alla presente legge, sono tenuti a dare attuazione ai seguenti principi: 
+ 
+ a) prevenire e ridurre la produzione e la pericolositè dei rifiuti; 
+ 
+ b) favorire la raccolta differenziata, la selezione e la valorizzazione delle frazioni di rifiuti  urbani raccolte separatamente; 
+ 
+ c) promuovere il recupero anche energetico dei rifiuti , al fine di ridurre lo smaltimento finale degli stessi; 
+ 
+ d) assicurare la gestione unitaria dei rifiuti  urbani in ambiti territoriali ottimali, superando la frammentazione delle gestioni secondo criteri di efficacia, efficienza   ed economicitè; 
+ 
+ e) realizzare l'autosufficienza nello smaltimento dei rifiuti  urbani attraverso Proposta di Legge Regionale di Attuazione del Piano, una rete integrata di impianti   di recupero e di smaltimento; 
+ 
+ f) favorire lo smaltimento dei rifiuti  negli impianti più vicini al luogo di produzione, al fine di ridurre la movimentazione degli stessi, tenuto conto delle esigenze di   carattere geografico o della necessitè di smaltimento in impianti specializzati; 
+ 
+ g) tenere conto della pianificazione territoriale salvaguardando i valori naturali e paesaggistici; 
+ 
+ h) garantire il rispetto delle esigenze igienico-sanitarie al fine di tutelare la salute della collettivitè, evitando possibili fonti di inquinamento dell'ambiente, mediante   l'utilizzo delle migliori tecnologie disponibili a costi non eccessivi. 
+ 
+2.  Per gli impianti di smaltimento e di recupero di rifiuti  riutilizzabili definiti tali da norme statali, si applica la procedura sulla "disciplina della valutazione di impatto ambientale e norme per la tutela dell'ambiente" ai sensi della <rif
+                        xlink:href="urn:nir:regione.molise:legge:2000;21">Legge Regionale n. 21/2000</rif>. L'Assessorato Regionale all'Ambiente si pronuncia sulla necessitè di sottoporre il progetto a V.I.A. o di subordinare la decisione di esclusione dalla V.I.A., introducendo eventuali prescrizioni o adempimenti da adottare. 
+ 
+<rif
+                        xlink:href="#art3">Art. 3</rif> 
+ 
+(Specificazioni terminologiche) 
+ 
+1.  Ferme restando le definizioni di cui all'<rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art6">art. 6 del Decreto Legislativo 5 febbraio 1997, n. 22</rif> e successive modifiche ed integrazioni, ai fini della presente legge si intende per: 
+ 
+ a) DECRETO: il <rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22">decreto legislativo 5 febbraio 1997, n. 22</rif> e successive modifiche ed integrazioni; 
+ 
+ b) ATO: gli ambiti territoriali ottimali per la gestione dei rifiuti  urbani, delimitati ai sensi dell'<rif
+                        xlink:href="#art14">articolo 14</rif> della presente legge; 
+ 
+ c) ANAGRAFE: l'anagrafe dei siti da bonificare di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art17-com12">art. 17, comma 12 del Decreto Legislativo 5 febbraio 1997, n. 22</rif>. 
+ 
+</rubrica>
+            </titolo>
+            <titolo id="tit2">
+                <num>TITOLO II </num>
+                <rubrica>
+ 
+COMPETENZE 
+ 
+<rif
+                        xlink:href="#art4">Art. 4</rif> 
+ 
+(Competenze della Regione) 
+ 
+1.  è di competenza della Regione l'approvazione del Piano regionale di gestione dei rifiuti  di cui all'<rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art22">articolo 22 del Decreto Legislativo 5 febbraio 1997, n. 22</rif>. 
+ 
+2.  Sono altresè di competenza della Regione: 
+ 
+a) l'emanazione di provvedimenti straordinari; 
+ 
+b) l'esercizio dei poteri sostitutivi nei casi previsti dalla presente Legge e dal <rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22">Decreto Legislativo 5 febbraio 1997, n. 22</rif>; 
+ 
+c) l'adozione di direttive procedurali e tecniche per l'esercizio delle funzioni attribuite agli Enti Locali e per l'attivitè di controllo ambientale ed igienico-sanitario; 
+ 
+e) l'incentivazione di processi di smaltimento e di recupero tecnologicamente avanzati, mediante lo sviluppo di tecnologie innovative; 
+ 
+f) la disincentivazione dell'utilizzo delle discariche e dei processi di smaltimento a più elevato impatto ambientale; 
+ 
+g) la concessione di finanziamenti per la redazione di studi, ricerche, piani, progetti, mostre, convegni, programmi, indagini tecniche, iniziative didattiche e di divulgazione; 
+ 
+h) l'elaborazione statistica e la diffusione di dati inerenti la produzione e la gestione di rifiuti  urbani e assimilati, sulla base di rilevamenti effettuati negli ATO; 
+ 
+i) l'attivazione di procedure e di atti con il fine specifico di raggiungere gli obiettivi minimi del piano. 
+ 
+<rif
+                        xlink:href="#art5">Art. 5</rif> 
+ 
+(Competenze delle Province) 
+ 
+1.  Sono di competenza delle Province le funzioni individuate dall'<rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art20">art. 20 del Decreto Legislativo 5 febbraio 1997 n. 22</rif>, il cui esercizio decorre dalla data di entrata in vigore della presente Legge. 
+ 
+<rif
+                        xlink:href="#art6">Art. 6</rif> 
+ 
+(Competenze dei Comuni) 
+ 
+1.     Sono di competenza dei Comuni le funzioni definite dall'<rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art21">art. 21 del Decreto Legislativo 5 febbraio 1997, n. 22</rif>. 
+ 
+<rif
+                        xlink:href="#art7">Art. 7</rif> 
+ 
+(Competenze in ordine alle ordinanze contingibili ed urgenti) 
+ 
+1.  Per l'adozione delle ordinanze contingibili ed urgenti di cui all'articolo 13 del Decreto sono competenti: 
+ 
+a) il Presidente della Giunta Regionale quando il ricorso a speciali forme di gestione dei rifiuti  interessi il territorio di più Province; 
+ 
+b) il Presidente della Provincia quando il ricorso a speciali forme di gestione dei rifiuti  interessi il territorio di più Comuni all'interno del territorio provinciale; 
+ 
+c) il Sindaco quando il ricorso a speciali forme di gestione dei rifiuti  interessi l'ambito del territorio comunale. 
+ 
+2.  Le competenze di cui all'<rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art13-com2">articolo 13, comma 2 del Decreto Legislativo 5 febbraio 1997 n. 22</rif>, sono attribuite al Presidente della Provincia nel caso in cui le ordinanze di cui al <rif xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art13-com1">comma 1 dell'articolo 13 del Decreto Legislativo 5 febbraio 1997 n. 22</rif>, siano state emesse dal Presidente della Provincia o dai Sindaci. 
+ 
+</rubrica>
+            </titolo>
+            <titolo id="tit3">
+                <num>TITOLO III </num>
+                <rubrica>
+ 
+PIANI DI GESTIONE DEI RIFIUTI 
+ 
+<rif
+                        xlink:href="#art8">Art. 8</rif> 
+ 
+(Contenuti del Piano regionale di gestione dei rifiuti) 
+ 
+1.  Il Piano regionale di gestione dei rifiuti , ferme restando le disposizioni di cui agli articoli 19 e 22 del <rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22">Decreto Legislativo 5 febbraio 1997 n. 22</rif>, dovrè contenere: 
+ 
+a)  i tipi, le quantità e l'origine dei rifiuti  da smaltire; 
+ 
+b)  la tipologia ed il complesso degli impianti e delle attivitè necessari per lo smaltimento ed il recupero dei rifiuti; 
+ 
+c)  i criteri di individuazione delle aree non idonee alla localizzazione, da parte delle Province, degli impianti di cui alla lettera b); 
+ 
+d)  i criteri per l'individuazione delle aree e degli impianti adatti allo smaltimento dei rifiuti  unitamente alle condizioni ed ai criteri tecnici in base ai quali gli impianti di gestione dei rifiuti , ad eccezione delle discariche, possono essere localizzati nelle aree destinate ad impianti produttivi; 
+ 
+e)  la determinazione di disposizioni speciali per rifiuti  di tipo particolare; 
+ 
+f)  le iniziative e gli interventi atti a ridurre la quantità, i volumi e la pericolositè dei rifiuti , favorire il recupero dai rifiuti  di materiali ed energia, a promuovere la razionalizzazione della raccolta, della cernita e dello smaltimento dei rifiuti  anche tramite la riorganizzazione dei servizi; 
+ 
+g)  i criteri per l'organizzazione delle attivitè di raccolta differenziata dei rifiuti  urbani; 
+ 
+h)  la stima dei costi delle operazioni di smaltimento e recupero dei rifiuti. 
+ 
+<rif
+                        xlink:href="#art9">Art. 9</rif> 
+ 
+(Procedure per l'approvazione del Piano regionale di gestione dei rifiuti) 
+ 
+1.  Il Piano regionale di gestione dei rifiuti  è approvato dal Consiglio regionale, su proposta della Giunta, sentite le Province, i Comuni, le Comunitè Montane, assicurando adeguata pubblicitè e la massima partecipazione ai sensi della <rif
+                        xlink:href="urn:nir:stato:legge:1990-08-07;241">Legge 7 agosto 1990, n. 241</rif> e successive modifiche ed integrazioni. Il Piano puè essere approvato anche per i seguenti stralci funzionali e tematici: rifiuti  urbani, rifiuti  speciali anche pericolosi, bonifiche siti inquinati. 
+ 
+2.  Il progetto di Piano adottato dalla Giunta Regionale è inviato ai Comuni, alle Province, alle Comunitè Montane, perchè esprimano il loro parere, formalmente con Delibera di Consiglio, entro 30 giorni dalla richiesta. Trascorso tale termine, il parere si intende reso favorevolmente. 
+ 
+3.  Nei successivi 30 giorni il Piano con le osservazioni e le relative valutazioni integrative viene adottato nella versione definitiva dalla Giunta Regionale e trasmesso al Consiglio Regionale per l'approvazione. 
+ 
+4. Il Piano è pubblicato nel Bollettino Ufficiale della Regione Molise ed acquisita efficacia dalla data di pubblicazione. 
+ 
+5.  Il Piano regionale ha vigore a tempo indeterminato e puè essere modificato in tutto o in parte in ogni tempo quando sopravvengono importanti ragioni che determinano la necessitè o la convenienza di modificarlo sia in modo globale, attraverso una variante di carattere generale, sia per singole parti. 
+ 
+6.  Gli aggiornamenti tecnici al piano sono deliberati dalla Giunta Regionale con atto pubblicato sul Bollettino Ufficiale della Regione, mentre quelli programmatici sono approvati dal Consiglio Regionale su proposta della Giunta. 
+ 
+7.  Ogni tre anni, la Giunta Regionale presenta una relazione al Consiglio Regionale sullo stato di attuazione del Piano e sulle eventuali modifiche da apportare. 
+ 
+<rif
+                        xlink:href="#art10">Art. 10</rif> 
+ 
+(Contenuti dei Piani provinciali di organizzazione della gestione dei rifiuti) 
+ 
+1.  Il Piano provinciale di organizzazione della gestione dei rifiuti , ferme restando le disposizioni di cui all'<rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art23">articolo 23 del Decreto Legislativo 5 febbraio 1997 n. 22</rif>, deve contenere: 
+ 
+a)  la determinazione delle caratteristiche, dei tipi, delle quantità e dell'origine dei rifiuti  da recuperare e da smaltire; 
+ 
+b)  il rilevamento e la descrizione dei servizi di raccolta differenziata e degli impianti esistenti di trattamento, di recupero, di riciclo e di innocuitè finalizzata allo smaltimento dei rifiuti  non pericolosi; 
+ 
+c)  l'individuazione del sistema integrato dei servizi di raccolta differenziata e relative attivitè di recupero; 
+ 
+d)  l'individuazione delle frazioni di rifiuto oggetto di raccolta differenziata in relazione agli obiettivi e relative modalitè di recupero; 
+ 
+e)  l'individuazione di tutte le zone idonee alla localizzazione degli impianti di smaltimento e recupero dei rifiuti, sulla base dei criteri stabiliti dal Piano Regionale di gestione dei rifiuti; 
+ 
+f)  le modalitè per l'attuazione del Piano; 
+ 
+g)  i criteri per la localizzazione ed il dimensionamento delle aree da adibire a centri di raccolta di veicoli a motore, rimorchi e simili, nonchè alle modalitè della loro gestione; 
+ 
+h)  la valutazione degli oneri finanziari connessi alla realizzazione degli interventi; 
+ 
+i) termini entro i quali devono essere presentati i progetti e realizzati gli interventi di adeguamento o costruzione degli impianti di smaltimento. 
+ 
+<rif
+                        xlink:href="#art11">Art. 11</rif> 
+ 
+(Procedure per l'approvazione dei Piani provinciali di organizzazione della gestione dei rifiuti) 
+ 
+1.  I Piani provinciali di gestione dei rifiuti  sono approvati entro quattro mesi dalla data di esecutivitè del Piano Regionale. 
+ 
+2.  La Provincia adotta il Piano previo parere dei Consigli Comunali, acquisito anche in apposita conferenza. 
+ 
+3.  Il Piano adottato è inviato alla Regione e ai Comuni ed è depositato nella segreteria della Provincia e dei Comuni per 30 giorni, durante i quali chiunque puè prenderne visione e presentare osservazioni, che sono immediatamente comunicate alla Provincia. 
+ 
+4.  La Provincia promuove, nelle diverse aree del proprio territorio, la convocazione di conferenze pubbliche, cui sono invitati, tramite avvisi pubblici, i cittadini e le formazioni sociali, i quali possono presentare osservazioni e memorie. 
+ 
+5.  La Giunta Regionale si pronuncia sulla conformitè del Piano adottato ai contenuti del Piano regionale e alla normativa vigente in materia di rifiuti  e tutela ambientale, prescrivendo, ove occorra, le modifiche da apportare a tal fine. 
+ 
+6.  Nei 30 giorni successivi alla scadenza dei termini per la presentazione delle osservazioni di cui al comma 3, dopo aver sentito tutti i Comuni convocati in apposita conferenza ed acquisito i verbali delle conferenze di cui al comma 5 e le memorie ivi presentate, la Provincia approva il Piano, motivando l'eventuale difformitè rispetto al parere o ai pareri dissenzienti emersi nella conferenza dei Comuni, dando inoltre atto delle modifiche apportate e motivando in ordine alle osservazioni non accolte. 
+ 
+7.  Il Piano provinciale è inviato alla Giunta Regionale che, verificatane la rispondenza alle prescrizioni di cui al comma 5, ne dispone la pubblicazione per intero nel Bollettino Ufficiale della Regione Molise. Il Piano acquista efficacia dalla data di pubblicazione. 
+ 
+8.  Se la Giunta Regionale ritiene che il Piano non risponda alle prescrizioni di cui al comma 5, puè disporne il rinvio per riesame alla Provincia, con le relative osservazioni. La Provincia provvede ad adeguare il proprio Piano entro i successivi 30 giorni. 
+ 
+9.  Le modifiche al Piano provinciale, sono approvate con le stesse procedure di cui ai commi precedenti. 
+ 
+10.  Le modifiche al Piano provinciale sono apportate dalla Provincia ogni volta che si renda necessario per adeguarsi a nuove normative in materia o per individuare nuove localizzazioni di impianti di smaltimento e recupero, sempre secondo le procedure previste nel presente articolo. 
+ 
+<rif
+                        xlink:href="#art12">Art. 12</rif> 
+ 
+(Effetti del Piano regionale) 
+ 
+1.  Le prescrizioni contenute nel Piano Regionale hanno efficacia vincolante per tutti i soggetti pubblici e privati che esercitano funzioni e attivitè disciplinate dalla presente legge. 
+ 
+<rif xlink:href="#art13">Art. 13</rif> 
+ 
+(Effetti dei Piani provinciali di organizzazione della gestione dei rifiuti) 
+ 
+1. I Comuni, nell'ambito delle proprie competenze, uniformano i propri atti ai contenuti dei Piani provinciali di organizzazione della gestione dei rifiuti . 
+ 
+</rubrica>
+            </titolo>
+            <titolo id="tit4">
+                <num>TITOLO IV </num>
+
+                <rubrica>
+ 
+AMBITI TERRITORIALI OTTIMALI PER LA GESTIONE UNITARIA DEI RIFIUTI  URBANI 
+ 
+<rif
+                        xlink:href="#art14">Art. 14</rif> 
+ 
+(Delimitazione degli ATO) 
+ 
+1. In attuazione dell'art. 23 del Decreto, sono istituiti tre ambiti territoriali ottimali (ATO) per la gestione unitaria dei rifiuti  urbani, cosè come di seguito riportato: 
+ 
+ATO Provincia   ISTAT COMUNE 
+ 
+1 Isernia 001 ACQUAVIVA D'ISERNIA 
+ 
+1 Isernia 012 CASTEL SAN VINCENZO 
+ 
+1 Isernia 014 CERRO AL VOLTURNO 
+ 
+1 Isernia 017 COLLI A VOLTURNO 
+ 
+1 Isernia 018 CONCA CASALE 
+ 
+1 Isernia 021 FORNELLI 
+ 
+1 Isernia 019 FILIGNANO 
+ 
+1 Isernia 028 MONTAQUILA 
+ 
+1 Isernia 029 MONTENERO VALCOCCHIARA 
+ 
+1 Isernia 036 PIZZONE 
+ 
+1 Isernia 038 POZZILLI 
+ 
+1 Isernia 039 RIONERO SANNITICO 
+ 
+1 Isernia 042 ROCCHETTA A VOLTURNO 
+ 
+1 Isernia 048 SCAPOLI 
+ 
+1 Isernia 050 SESTO CAMPANO 
+ 
+1 Isernia 052 VENAFRO 
+ 
+1 Isernia 011 CASTELPIZZUTO 
+ 
+1 Isernia 020 FORLè DEL SANNIO 
+ 
+1 Isernia 023 ISERNIA 
+ 
+1 Isernia 024 LONGANO 
+ 
+1 Isernia 025 MACCHIA D'ISERNIA 
+ 
+1 Isernia 027 MIRANDA 
+ 
+1 Isernia 030 MONTERODUNI 
+ 
+1 Isernia 031 PESCHE 
+ 
+1 Isernia 032 PESCOLANCIANO 
+ 
+1 Isernia 034 PETTORANELLO DEL MOLISE 
+ 
+1 Isernia 041 ROCCASICURA 
+ 
+1 Isernia 044 SANT'AGAPITO 
+ 
+1 Isernia 002 AGNONE 
+ 
+1 Isernia 004 BELMONTE DEL SANNIO 
+ 
+1 Isernia 006 CAPRACOTTA 
+ 
+1 Isernia 007 CAROVILLI 
+ 
+1 Isernia 009 CASTEL DEL GIUDICE 
+ 
+1 Isernia 013 CASTELVERRINO 
+ 
+1 Isernia 033 PESCOPENNATARO 
+ 
+1 Isernia 035 PIETRABBONDANTE 
+ 
+1 Isernia 037 POGGIO SANNITA 
+ 
+1 Isernia 043 SAN PIETRO AVELLANA 
+ 
+1 Isernia 046 SANT'ANGELO DEL PESCO 
+ 
+1 Isernia 051 VASTOGIRARDI 
+ 
+1 Isernia 008 CARPINONE 
+ 
+1 Isernia 015 CHIAUCI 
+ 
+1 Isernia 016 CIVITANOVA DEL SANNIO 
+ 
+1 Isernia 005 CANTALUPO DEL SANNIO 
+ 
+1 Isernia 010 CASTELPETROSO 
+ 
+1 Isernia 022 FROSOLONE 
+ 
+1 Isernia 026 MACCHIAGODENA 
+ 
+1 Isernia 047 SANT'ELENA SANNITA 
+ 
+1 Isernia 049 SESSANO DEL MOLISE 
+ 
+1 Isernia 040 ROCCAMANDOLFI 
+ 
+1 Isernia 045 SANTA MARIA DEL MOLISE 
+ 
+1 Isernia 003 BAGNOLI DEL TRIGNO 
+ 
+    
+ 
+2 Campobasso 022 DURONIA 
+ 
+2 Campobasso 003 BOJANO 
+ 
+2 Campobasso 007 CAMPOCHIARO 
+ 
+2 Campobasso 017 CERCEMAGGIORE 
+ 
+2 Campobasso 018 CERCEPICCOLA 
+ 
+2 Campobasso 020 COLLE D'ANCHISE 
+ 
+2 Campobasso 028 GUARDIAREGIA 
+ 
+2 Campobasso 067 SAN GIULIANO DEL SANNIO 
+ 
+2 Campobasso 070 SAN MASSIMO 
+ 
+2 Campobasso 071 SAN POLO MATESE 
+ 
+2 Campobasso 075 SEPINO 
+ 
+2 Campobasso 076 SPINETE 
+ 
+2 Campobasso 002 BARANELLO 
+ 
+2 Campobasso 005 BUSSO 
+ 
+2 Campobasso 006 CAMPOBASSO 
+ 
+2 Campobasso 012 CASALCIPRANO 
+ 
+2 Campobasso 013 CASTELBOTTACCIO 
+ 
+2 Campobasso 014 CASTELLINO DEL BIFERNO 
+ 
+2 Campobasso 016 CASTROPIGNANO 
+ 
+2 Campobasso 023 FERRAZZANO 
+ 
+2 Campobasso 033 LUCITO 
+ 
+2 Campobasso 039 MOLISE 
+ 
+2 Campobasso 041 MONTAGANO 
+ 
+2 Campobasso 049 ORATINO 
+ 
+2 Campobasso 052 PETRELLA TIFERNINA 
+ 
+2 Campobasso 054 PIETRACUPA 
+ 
+2 Campobasso 059 RIPALIMOSANI 
+ 
+2 Campobasso 079 TORELLA DEL SANNIO 
+ 
+2 Campobasso 084 VINCHIATURO 
+ 
+2 Campobasso 024 FOSSALTO 
+ 
+2 Campobasso 032 LIMOSANO 
+ 
+2 Campobasso 043 MONTEFALCONE DEL SANNIO 
+ 
+2 Campobasso 060 ROCCAVIVARA 
+ 
+2 Campobasso 062 SALCITO 
+ 
+2 Campobasso 063 SAN BIASE 
+ 
+2 Campobasso 073 SANT'ANGELO LIMOSANO 
+ 
+2 Campobasso 081 TRIVENTO 
+ 
+2 Campobasso 021 COLLETORTO 
+ 
+2 Campobasso 008 CAMPODIPIETRA 
+ 
+2 Campobasso 009 CAMPOLIETO 
+ 
+2 Campobasso 025 GAMBATESA 
+ 
+2 Campobasso 026 GILDONE 
+ 
+2 Campobasso 030 JELSI 
+ 
+2 Campobasso 035 MACCHIA VALFORTORE 
+ 
+2 Campobasso 037 MATRICE 
+ 
+2 Campobasso 038 MIRABELLO SANNITICO 
+ 
+2 Campobasso 040 MONACILIONI 
+ 
+2 Campobasso 053 PIETRACATELLA 
+ 
+2 Campobasso 057 RICCIA 
+ 
+2 Campobasso 066 SAN GIOVANNI IN GALDO 
+ 
+2 Campobasso 068 SAN GIULIANO DI PUGLIA 
+ 
+2 Campobasso 074 SANT'ELIA A PIANISI 
+ 
+2 Campobasso 080 TORO 
+ 
+2 Campobasso 082 TUFARA 
+ 
+2 Campobasso 072 SANTA CROCE DI MAGLIANO 
+ 
+    
+ 
+    
+ 
+3 Campobasso 004 BONEFRO 
+ 
+3 Campobasso 011 CASACALENDA 
+ 
+3 Campobasso 019 CIVITACAMPOMARANO 
+ 
+3 Campobasso 027 GUARDIALFIERA 
+ 
+3 Campobasso 034 LUPARA 
+ 
+3 Campobasso 047 MONTORIO DEI FRENTANI 
+ 
+3 Campobasso 048 MORRONE DEL SANNIO 
+ 
+3 Campobasso 056 PROVVIDENTI 
+ 
+3 Campobasso 058 RIPABOTTONI 
+ 
+3 Campobasso 001 ACQUAVIVA COLLECROCE 
+ 
+3 Campobasso 015 CASTELMAURO 
+ 
+3 Campobasso 036 MAFALDA 
+ 
+3 Campobasso 045 MONTEMITRO 
+ 
+3 Campobasso 046 MONTENERO DI BISACCIA 
+ 
+3 Campobasso 050 PALATA 
+ 
+3 Campobasso 064 SAN FELICE DEL MOLISE 
+ 
+3 Campobasso 077 TAVENNA 
+ 
+3 Campobasso 010 CAMPOMARINO 
+ 
+3 Campobasso 029 GUGLIONESI 
+ 
+3 Campobasso 031 LARINO 
+ 
+3 Campobasso 042 MONTECILFONE 
+ 
+3 Campobasso 044 MONTELONGO 
+ 
+3 Campobasso 051 PETACCIATO 
+ 
+3 Campobasso 055 PORTOCANNONE 
+ 
+3 Campobasso 061 ROTELLO 
+ 
+3 Campobasso 065 SAN GIACOMO DEGLI SCHIAVONI 
+ 
+3 Campobasso 069 SAN MARTINO IN PENSILIS 
+ 
+3 Campobasso 078 TERMOLI 
+ 
+3 Campobasso 083 URURI 
+ 
+2.  Gli ambiti territoriali ottimali riportati (ATO) al <rif
+                        xlink:href="#art37-com1">comma 1</rif> possono essere modificati al fine di ottimizzare lo svolgimento del servizio pubblico di gestione dei rifiuti  urbani o per sopravvenute scelte di programmazione regionale. 
+ 
+3.  Alla modifica delle delimitazioni degli ATO si provvede con deliberazione del Consiglio Regionale, su proposta della Giunta Regionale, sentite le Province ed i Comuni interessati. 
+ 
+4.  Il provvedimento di cui al comma 3 detta altresè le disposizioni per adeguare la convenzione di cui al <rif
+                        xlink:href="#art15">successivo articolo 15</rif> alla nuova delimitazione dell'ATO. 
+ 
+<rif
+                        xlink:href="#art15">Art. 15</rif> 
+ 
+(Gestione dei rifiuti  urbani in Ambiti Territoriali Ottimali) 
+ 
+1.  Negli Ambiti Territoriali Ottimali, le Province assicurano una gestione unitaria dei rifiuti  urbani e predispongono Piani di Gestione dei Rifiuti , sentiti i Comuni, in applicazione degli indirizzi e delle prescrizioni del <rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997;22">Decreto Legislativo n. 22/1997</rif>.  
+ 
+2.  Le Province possono autorizzare gestioni anche a livello subprovinciale purchè, anche in tali ambiti territoriali sia superata la frammentazione della gestione. 
+ 
+3.  I Comuni di ciascun Ambito Territoriali Ottimale, di cui al <rif
+                        xlink:href="#art37-com1">comma 1</rif>, entro il termine perentorio di sei mesi dalla perimetrazione dell'Ambito medesimo, organizzano la gestione dei rifiuti  urbani secondo criteri di efficienza, di efficacia e di economicitè. 
+ 
+4.  I Comuni provvedono alla gestione dei rifiuti  urbani mediante le forme, anche obbligatorie, previste dalla <rif
+                        xlink:href="urn:nir:stato:legge:1990-06-08;142">Legge 8 giugno 1990 n. 142</rif>, come integrata dall'<rif
+                        xlink:href="urn:nir:stato:legge:1992-12-23;498#art12">art. 12 della Legge 23 dicembre 1992, n. 498</rif>. 
+ 
+<rif
+                        xlink:href="#art16">Art. 16</rif> 
+ 
+(Costituzione del fondo incentivante tramite ecotassa) 
+ 
+1. L'importo di cui all'<rif
+                        xlink:href="urn:nir:stato:legge:1995-12-28;549#art3">art. 3 della Legge 28 dicembre 1995 n. 549</rif>, comma 29, è cosè stabilito: 
+ 
+a)  per lo smaltimento dei settori minerario, estrattivo, edilizio, lapideo e metallurgico si fa riferimento agli ammontari fissati nel Decreto Ministeriale 18 luglio 1996: 
+ 
+ &gt;  EURO 2 a tonnellata 
+ 
+  per i rifiuti  elencati nell'allegato 3 del Decreto Ministeriale 18 luglio 1996; 
+ 
+ &gt;  EURO 1,6 a tonnellata  
+ 
+  per i rifiuti  elencati nell'allegato 4 che presentano le caratteristiche di cui all'allegato 3 del Decreto Ministeriale 5 settembre 1994; 
+ 
+ &gt;  EURO 1 a tonnellata 
+ 
+  per tutti gli altri rifiuti; 
+ 
+ &gt;  EURO 10 a tonnellata  
+ 
+  per i rifiuti  speciali; 
+ 
+ &gt;  EURO 26 a tonnellata 
+ 
+  per gli altri rifiuti. 
+ 
+2. I proventi derivanti dalle disposizioni del presente articolo, costituiscono il fondo incentivante destinato alle Province e agli ATO secondo i seguenti criteri: una quota del 10% spetta alle province. Il 20% del gettito derivante dall'applicazione del tributo, al netto della quota spettante alle province, affluisce in apposito fondo della Regione destinato a favorire la minore produzione dei rifiuti , le attivitè di recupero di materie prime e di energia, con prioritè per i soggetti che realizzano sistemi di smaltimento alternativi alle discariche, nonchè a realizzare la bonifica dei suoli inquinati, ivi comprese le aree industriali dismesse, il recupero delle aree degradate per l'avvio ed il finanziamento della agenzia regionale per l'ambiente e la istituzione e manutenzione delle aree naturali protette. 
+ 
+3. Il regolamento di attuazione stabilirè tra l'altro i casi nei quali possono essere ridotti o dichiarati decaduti gli incentivi provenienti dal fondo di cui al <rif xlink:href="#art37-com1">comma 1</rif> ed erogati a favore dei soggetti di cui al comma 2. 
+ 
+</rubrica>
+            </titolo>
+            <titolo id="tit5">
+                <num>TITOLO V </num>
+
+                <rubrica>
+ 
+APPROVAZIONE DEI PROGETTI ED AUTORIZZAZIONE ALLA REALIZZAZIONE DEI NUOVI IMPIANTI DI SMALTIMENTO E RECUPERO 
+ 
+<rif
+                        xlink:href="#art17">Art. 17</rif> 
+ 
+(Presentazione della domanda) 
+ 
+1.  I soggetti che intendono realizzare nuovi impianti di smaltimento e recupero dei rifiuti  sono tenuti a presentare apposita domanda alla Giunta Regionale, corredata dal relativo progetto definitivo dell'impianto e dalla documentazione tecnica prevista dalle vigenti disposizioni in materia ambientale-paesaggistica, urbanistica, di sicurezza degli impianti e sui luoghi di lavoro, igiene pubblica. 
+ 
+2.  La domanda va inoltrata esclusivamente tramite servizio postale o agenzia autorizzata, in plico raccomandato, corredata di tutta la documentazione prescritta. 
+ 
+3.  La Giunta Regionale approva il progetto e rilascia l'autorizzazione alla realizzazione degli impianti di smaltimento e recupero dei rifiuti  previsti nei piani provinciali secondo il procedimento definito dall'<rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art27">articolo 27 del Decreto Legislativo 5 febbraio 1997, n. 22</rif>. 
+ 
+<rif
+                        xlink:href="#art18">Art. 18</rif> 
+ 
+(Responsabile del procedimento e convocazione della conferenza di cui all'<rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art27-com2">articolo 27, comma 2 del Decreto Legislativo 5 febbraio 1997, n. 22</rif>) 
+ 
+1.  Il Responsabile del procedimento di cui all'articolo 27 del Decreto è il Dirigente della competente Struttura Regionale che entro trenta giorni dal ricevimento della domanda: 
+ 
+ a)  provvede ad assegnare a se od altro dipendente addetto la responsabilitè dell'istruttoria; 
+ 
+ b)  valuta le condizioni di ammissibilitè e l'esistenza dei presupposti rilevanti ai fini istruttori, nonchè la regolaritè della domanda e la completezza della documentazione  allegata alla stessa; 
+ 
+ c)  dispone eventualmente la regolarizzazione della domanda e l'acquisizione della documentazione mancante. 
+ 
+2.  Il Responsabile del procedimento, entro trenta giorni dal ricevimento della domanda, ovvero dalla data di regolarizzazione della domanda e di acquisizione della documentazione di cui al precedente comma lettera c), convoca la conferenza di cui all'art. 27, comma 2 del Decreto, ed invita a parteciparvi anche il richiedente l'autorizzazione o un suo rappresentante. 
+ 
+3.  La conferenza è convocata con lettera inviata a tutti i componenti entro 7 giorni dalla riunione per le sedute istruttorie e con lettera raccomandata A/R 15 giorni prima della data della riunione per le sedute conclusive. 
+ 
+4.  Il Responsabile del procedimento verifica la presenza e la legittimazione dei partecipanti alla conferenza, ne coordina i lavori e redige il verbale della riunione che è sottoscritto da tutti i partecipanti. Qualora non si raggiunga l'unanimitè delle valutazioni, nel verbale è riportata la valutazione negativa espressa da ciascun partecipante. 
+ 
+<rif
+                        xlink:href="#art19">Art. 19</rif> 
+ 
+(Competenze della conferenza) 
+ 
+1.  Entro novanta giorni dalla sua convocazione la conferenza di cui al precedente articolo, che puè avvalersi del supporto tecnico-scientifico dell'Agenzia Regionale per l'ambiente del Molise - A.R.P.A.M., provvede agli adempimenti istruttori previsti dall'<rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art27-com3">art. 27, comma 3 del Decreto Legislativo 5 febbraio 1997, n. 22</rif>. 
+ 
+2.  Entro il predetto termine, la conferenza trasmette le proprie conclusioni con i relativi atti e con la relativa proposta di deliberazione alla Giunta Regionale per l'adozione del provvedimento finale. 
+ 
+3.  All'attuazione delle disposizioni di cui agli articoli 22 e 23, relative alla conferenza prevista dall'articolo 27, comma 2 del Decreto, si provvede con apposita deliberazione della Giunta Regionale. 
+ 
+<rif
+                        xlink:href="#art20">Art. 20</rif> 
+ 
+(Sospensione dei termini per l'acquisizione della pronuncia sulla valutazione di impatto ambientale statale o regionale) 
+ 
+1.  Ove l'impianto debba essere sottoposto alla procedura di valutazione di impatto ambientale, ai sensi della vigente normativa statale o della <rif
+                        xlink:href="urn:nir:regione.molise:legge:2000;21">Legge regionale n. 21/2000</rif>, il termine di cui al comma 1 dell'articolo precedente resta sospeso fino all'acquisizione della pronuncia sulla compatibilitè ambientale, rispettivamente, da parte della competente autoritè statale, ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:legge:1986-07-08;349#art6-com4">art. 6, comma 4 della legge 8 luglio 1986, n. 349</rif> e successive modifiche ed integrazioni o regionale, ai sensi della <rif
+                        xlink:href="urn:nir:regione.molise:legge:2000-03-24;21">Legge Regionale 24 marzo 2000, n. 21</rif>. 
+ 
+<rif
+                        xlink:href="#art21">Art. 21</rif> 
+ 
+(Competenze della Giunta Regionale) 
+ 
+1.  Entro trenta giorni dal ricevimento delle conclusioni e della proposta di deliberazione da parte della conferenza, la Giunta Regionale approva il progetto definitivo. 
+ 
+2.  L'approvazione del progetto sostituisce ad ogni effetto e comprende le eventuali prescrizioni di visti, pareri, concessioni ed autorizzazioni di organi regionali, provinciali e comunali, nonchè il relativo titolo abilitativo edilizio. 
+ 
+ L'approvazione stessa costituisce, ove occorra, variante allo strumento urbanistico comunale e comporta la dichiarazione di pubblica utilitè, urgenza ed indifferibilitè dei lavori. 
+ 
+3.  L'approvazione di cui al <rif
+                        xlink:href="#art37-com1">comma 1</rif> sostituisce anche visti, pareri, autorizzazioni, concessioni, nulla-osta relativi a funzioni statali qualora i competenti rappresentanti siano intervenuti alla conferenza. 
+ 
+<rif
+                        xlink:href="#art22">Art. 22</rif> 
+ 
+(Varianti sostanziali agli impianti già autorizzati) 
+ 
+1.  Il procedimento di approvazione di cui al presente <rif
+                        xlink:href="#tit5">Titolo V</rif> si applica anche per le varianti sostanziali in corso di esercizio che comportano modifiche a seguito delle quali gli impianti non sono più conformi all'autorizzazione rilasciata ai sensi del precedente articolo. 
+ 
+2.  Non sono varianti sostanziali quelle che sono determinate da esigenze tecnico-funzionali e che non comportano variazioni ed incrementi superiori al 10 per cento dei parametri tecnici del progetto approvato, quali la quantità e la tipologia dei rifiuti  indicati nel provvedimento di approvazione, l'ubicazione, l'ingombro volumetrico e la superficie dell'area interessata dalle attivitè di smaltimento o recupero. 
+ 
+3.  Le variazioni di cui al comma 2 sono soggette alla previa comunicazione alla Giunta Regionale ed al rilascio del relativo titolo abilitativo edilizio da parte del Comune territorialmente competente, ove necessaria. L'avvio degli interventi in variante puè avvenire decorsi sessanta giorni dalla predetta comunicazione. 
+ 
+4.  Qualora la Giunta Regionale accerti che le modifiche proposte non rientrino tra quelle di cui al comma 2, dichiara, entro trenta giorni dalla comunicazione di cui al comma 3, con provvedimento motivato, che si tratta di modifiche sostanziali e comunica l'avvio del procedimento di approvazione di cui all'<rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art27">articolo 27 del Decreto Legislativo 5 febbraio 1997, n. 22</rif> ed al presente <rif
+                        xlink:href="#tit5">Titolo V</rif>. 
+ 
+<rif
+                        xlink:href="#art23">Art. 23</rif> 
+ 
+(Approvazione dei progetti ed autorizzazione alla realizzazione di impianti di ricerca e di sperimentazione) 
+ 
+1.  La Giunta Regionale approva il progetto ed autorizza la realizzazione e l'esercizio degli impianti di ricerca e sperimentazione secondo la disciplina di cui al presente <rif
+                        xlink:href="#tit5">Titolo V</rif>, localizzandoli, di norma, nelle aree individuate come idonee dai Piani Provinciali. 
+ 
+2.  I termini per l'approvazione del progetto e per l'autorizzazione alla realizzazione e all'esercizio degli impianti di cui al <rif
+                        xlink:href="#art37-com1">comma 1</rif> sono ridotti alla metè qualora siano rispettate le condizioni di cui all'art. 29, comma 1 del Decreto, integrate dalle seguenti: 
+ 
+a)  indicazione dei criteri e delle modalitè di controllo da parte dell'A.R.P.A.M., i cui costi sono a carico del soggetto richiedente l'autorizzazione alla sperimentazione; 
+ 
+b)  indicazione delle attivitè di monitoraggio da effettuarsi da parte del soggetto richiedente. 
+ 
+3.  La Giunta Regionale autorizza altresè attivitè sperimentali, non interferenti con l'attivitè di pianificazione di cui al <rif
+                        xlink:href="#tit3">Titolo III</rif> della presente legge, finalizzate alla verifica della fattibilitè tecnica, economica ed ambientale di tecnologie e sistemi innovativi per la gestione dei rifiuti , alle condizioni di cui ai commi successivi. 
+ 
+4.  Le attivitè sperimentali autorizzate possono essere interrotte in ogni momento, anche prima della scadenza prevista, qualora le stesse comportino rischi di danno alla salute pubblica ed all'ambiente. 
+ 
+5.  A tal fine, la Giunta Regionale, con apposita deliberazione, definisce: 
+ 
+a)  la procedura di rilascio delle autorizzazioni; 
+ 
+b)  i casi in cui le autorizzazioni sono subordinate al deposito di idonea garanzia finanziaria; 
+ 
+c)  i criteri e le modalitè di controllo da parte dell'Agenzia Regionale per la Protezione dell'ambiente (A.R.P.A.M.), fermo restando che i costi dei controlli sono a carico del soggetto richiedente l'autorizzazione alla sperimentazione; 
+ 
+d)  le attivitè di monitoraggio da effettuarsi da parte del soggetto richiedente. 
+ 
+<rif xlink:href="#art24">Art. 24</rif> 
+ 
+(Osservatorio del ciclo dei rifiuti ) 
+ 
+1.  è istituito presso l'Assessorato Regionale all'Ambiente l'Osservatorio del Ciclo dei rifiuti  (OCR), con i seguenti compiti: 
+ 
+ a)  raccogliere i dati relativi al ciclo dei rifiuti  ed effettuare tutte le elaborazioni tecnico-scientifiche; 
+ 
+ b)  fornire pareri tecnici ed amministrativi alla Giunta Regionale, alle Province ed agli Enti comunali; 
+ 
+ c)  monitorare l'attuazione del Piano Regionale e di quelli Provinciali segnalando alla Giunta Regionale eventuali inadempienze e suggerendo gli strumenti attuativi; 
+ 
+ d) provvedere alla divulgazione dei dati sul ciclo dei rifiuti; 
+ 
+ e)  ogni altra attivitè che potrè essere a quest'organismo assegnata dalla Giunta regionale anche su proposta dell'Osservatorio stesso. 
+ 
+2.  L'Osservatorio sul Ciclo dei rifiuti  è presieduto dall'Assessore o suo delegato competente in materia di rifiuti  ed è composto: 
+ 
+ a) DA un ESPERTO 
+ 
+  DESIGNATO dall'ARPAM; 
+ 
+ b)  DA due ESPERTI 
+ 
+  DESIGNATI dalle Province; 
+ 
+ c)   DA un ESPERTO 
+ 
+  DESIGNATO dalla Giunta Regionale; 
+ 
+ d)  DA un ESPERTO 
+ 
+  DESIGNATO dalle Associazioni ambientaliste più rappresentative in ambito regionale. 
+ 
+3.  La Giunta regionale emana le disposizioni concernenti il funzionamento dell'Osservatorio del Ciclo dei rifiuti. 
+ 
+</rubrica>
+            </titolo>
+            <titolo id="tit6">
+                <num>TITOLO VI </num>
+
+                <rubrica>
+ 
+AUTORIZZAZIONE ALL'ESERCIZIO DELLE OPERAZIONI DI SMALTIMENTO E RECUPERO E PROCEDURE SEMPLIFICATE 
+ 
+<rif
+                        xlink:href="#art25">Art. 25</rif> 
+ 
+(Autorizzazione all'esercizio delle operazioni di smaltimento e recupero dei rifiuti) 
+ 
+1.  L'esercizio delle operazioni di smaltimento e recupero dei rifiuti  è autorizzato dal dirigente dell' Assessorato Regionale all'ambiente con determinazione dirigenziale secondo il procedimento di cui all'<rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art28">articolo 28 del Decreto Legislativo 5 febbraio 1997, n. 22</rif>. 
+ 
+2.  La domanda di autorizzazione all'esercizio delle operazioni di smaltimento e di recupero dei rifiuti  o di rinnovo o proroga delle stesse, deve contenere: 
+ 
+ a)  il riferimento del provvedimento di approvazione del progetto ed autorizzazione alla realizzazione dell'impianto utilizzato; 
+ 
+ b)  la documentazione necessaria per accertare che il richiedente possiede i requisiti previsti dalle normative vigenti. 
+ 
+3.  L'istruttoria svolta è diretta a verificare la rispondenza tra lo stato degli impianti, di cui è previsto l'utilizzo e l'attivitè da autorizzare e a tal fine puè avvalersi del supporto tecnico-scientifico del Dipartimento provinciale dell'A.R.PA.M.. 
+ 
+4.  L'autorizzazione dura cinque anni ed indica in particolare: 
+ 
+ a)  i tipi ed i quantitativi di rifiuti  da smaltire o da recuperare; 
+ 
+ b)  i requisiti tecnici delle attrezzature da utilizzare; 
+ 
+ c)  le precauzioni che occorre osservare per garantire la sicurezza e l'igiene ambientale; 
+ 
+ d)  il luogo di smaltimento; 
+ 
+ e)  il metodo di trattamento e di recupero dei rifiuti; 
+ 
+ f)  le prescrizioni per le operazioni di messa in sicurezza, chiusura dell'impianto e ripristino del sito adibito alle operazioni di smaltimento e recupero; 
+ 
+ g)  le garanzie finanziarie; 
+ 
+ h) i requisiti di idoneitè e capacitè tecnica che deve possedere il soggetto richiedente; 
+ 
+ i)  il sistema di monitoraggio a carico del gestore, le modalitè di invio dei dati nonchè i controlli minimali previsti. 
+ 
+<rif
+                        xlink:href="#art26">Art. 26</rif> 
+ 
+(Garanzie finanziarie per l'esercizio delle operazioni di smaltimento e di recupero) 
+ 
+1.  In sede di rilascio dell'autorizzazione all'esercizio delle operazioni di smaltimento o di recupero dei rifiuti, ovvero di rinnovo o proroga dalla stessa, la Regione determina l'importo della garanzia finanziaria che il richiedente è tenuto a fornire. 
+ 
+2.  La garanzia finanziaria deve essere costituita secondo le modalitè stabilite dalla <rif
+                        xlink:href="urn:nir:stato:legge:1982;348">Legge n. 348/1982</rif>, cosè come modificata dall'<rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1995;175#art128">art. 128 del Decreto Legislativo n. 175/1995</rif>. 
+ 
+3.  L'importo della fidejussione deve essere proporzionato al progetto relativo alle operazioni messe in sicurezza, chiusura dell'impianto e ripristino del sito, di cui all'art. 28, comma 1, lett. g) del Decreto ed ai costi per la gestione di post-chiusura degli impianti. In caso di variazione delle autorizzazioni per modifiche o ampliamenti, devono essere adeguati il progetto di ripristino finale e la fidejussione. 
+ 
+4.  La Giunta Regionale, con propria deliberazione, sulla base dei criteri di cui ai precedenti commi, determina le clausole essenziali e fissa i parametri per stabilire l'importo minimo e massimo della fidejussione, articolati per tipo di attivitè e caratteristiche tecniche degli impianti. 
+ 
+<rif
+                        xlink:href="#art27">Art. 27</rif> 
+ 
+(Procedure semplificate per l'autosmaltimento ed il recupero dei rifiuti ) 
+ 
+1.  Per i rifiuti  individuati nei decreti di cui all'art. 31, comma 2 del Decreto, l'esercizio delle operazioni di smaltimento presso il luogo di produzione dei rifiuti  disciplinato dal Titolo I, Capo V del Decreto, è subordinato a comunicazione di inizio di attivitè, a condizione che siano rispettate le norme tecniche previste dall'<rif
+                        xlink:href="#art31">art. 31</rif>, commi 1, 2 e 3 del Decreto. La comunicazione, che attesta l'esistenza dei presupposti e dei requisiti di legge richiesti, è inviata dall'interessato alla Provincia territorialmente competente ed è rinnovata ogni cinque anni o allorquando intervengano modifiche sostanziali nelle operazioni di autosmaltimento o di recupero. 
+ 
+2.  L'interessato intraprende l'esercizio delle operazioni di autosmaltimento o di recupero decorsi novanta giorni dalla comunicazione di cui al <rif xlink:href="#art37-com1">comma 1</rif>. Entro lo stesso termine, la Provincia iscrive in un apposito registro le imprese che effettuano la comunicazione e accerta la sussistenza dei presupposti e dei requisiti richiesti dalla legge, avvalendosi dell'A.R.P.A.M.. In caso di accertata insussistenza degli stessi, la Provincia dispone, con provvedimento motivato, il divieto di inizio dell'attivitè o di prosecuzione della stessa e la rimozione dei suoi effetti, salvo che l'interessato provveda, entro il termine fissato dalla Provincia, a conformare l'attivitè ed i suoi effetti alla normativa vigente. 
+ 
+</rubrica>
+            </titolo>
+            <titolo id="tit7">
+                <num>TITOLO VII </num>
+
+                <rubrica>
+ 
+PROCEDURE STRAORDINARIE, VIGILANZA E POTERI SOSTITUTIVI 
+ 
+<rif
+                        xlink:href="#art28">Art. 28</rif> 
+ 
+(Provvedimenti straordinari volti a sopperirare a situazioni di necessitè ed urgenza) 
+ 
+1.  Il Presidente della Giunta Regionale, su parere conforme della Giunta Regionale, anche indipendentemente dalle previsioni degli atti di programmazione vigenti, puè emanare provvedimenti volti a sopperire a situazioni di necessitè ed urgenza relative alla gestione dei rifiuti . In tali casi, puè altresè individuare impianti di smaltimento e di recupero, esistenti ed autorizzati, o nuovi siti, in cui disporre la diretta realizzazione, da parte della Regione, di interventi per lo smaltimento ed il recupero dei rifiuti , anche in sostituzione di quanto contenuto nei piani vigenti. Tali atti costituiscono automatica ed immediata modifica dei piani e sostituiscono ogni concessione, autorizzazione od ogni ulteriore atto di assenso, ove occorrenti. 
+ 
+2.  La Giunta Regionale puè approvare, per i siti o gli impianti di smaltimento e recupero di cui al <rif
+                        xlink:href="#art37-com1">primo comma</rif>, nuovi progetti o progetti di ampliamento ed adeguamento ed eventualmente disporne la realizzazione e gestione tramite commissari "ad acta". 
+ 
+3.  Gli atti di occupazione e di espropriazione e comunque ogni atto di competenza degli enti locali per delega o attribuzione da parte delle Regioni, nonchè tutte le attivitè ad essi preordinate, che si rendono necessari per i siti o gli impianti di smaltimento e di recupero di cui al <rif
+                        xlink:href="#art37-com1">primo comma</rif>, sono di competenza della Giunta Regionale. 
+ 
+4.  Il conferimento dei rifiuti  negli impianti di cui al <rif
+                        xlink:href="#art37-com1">primo comma</rif> è autorizzato dalla Giunta Regionale nei casi in cui non sia previsto dai Piani provinciali e disciplinato da accordi o altri atti di intesa fra gli enti locali competenti. 
+ 
+<rif
+                        xlink:href="#art29">Art. 29</rif> 
+ 
+(Vigilanza e attivitè sostitutiva) 
+ 
+1.  La Regione vigila: 
+ 
+ a)  che i Piani provinciali di cui all'<rif
+                        xlink:href="#art10">art. 10</rif> siano approvati nei tempi e con le procedure previste dall'<rif
+                        xlink:href="#art11">art. 11</rif> ed in conformitè al Piano regionale di gestione dei rifiuti; 
+ 
+ b)  che siano rispettate le linee di indirizzo e le tariffe di smaltimento fissate ai sensi dell'<rif
+                        xlink:href="#art16">articolo 16</rif>. 
+ 
+2.  Le Province vigilano che gli interventi contenuti nei Piani provinciali siano eseguiti nei tempi e secondo le modalitè stabilite nei Piani stessi.  
+ 
+3.  La Provincia esercita le funzioni di vigilanza per l'attuazione del Piano provinciale di organizzazione della gestione dei rifiuti  ed informa la Regione delle inadempienze e degli atti assunti in violazione delle prescrizioni del piano. La Provincia annualmente invia alla Giunta Regionale una relazione, nella quale è indicato lo stato di attuazione del Piano provinciale, le autorizzazioni rilasciate per gli interventi contenuti nello stesso, ed i controlli effettuati, pena la decadenza o interruzione di ogni contributo previsto per gli interventi nel territorio provinciale. 
+ 
+4.  La Regione e le Province adottano i provvedimenti per la sostituzione dei soggetti inadempienti, previa diffida ad adempiere, entro un termine fissato nell'atto di diffida stesso. Decorso inutilmente il termine, la Giunta regionale e le Giunte Provinciali nominano un commissario "ad acta" che svolge le funzioni oggetto dell'inadempienza. 
+ 
+5.  I provvedimenti di sostituzione di cui al comma 4, sono adottati, in base ai controlli di cui al <rif xlink:href="#art37-com1">comma 1</rif> dalla Regione, e in base ai controlli di cui al comma 2 dalle Province. 
+ 
+6.  La Regione provvede direttamente all'adozione dei provvedimenti di sostituzione: 
+ 
+ a)  fino all'approvazione dei Piani provinciali; 
+ 
+ b)  in caso di mancata sostituzione da parte delle Province decorsi sessanta giorni dall'accertamento della inadempienza. 
+ 
+</rubrica>
+            </titolo>
+            <titolo id="tit8">
+                <num>TITOLO VIII </num>
+
+                <rubrica>
+ 
+MESSA IN SICUREZZA E BONIFICA DEI SITI INQUINATI 
+ 
+<rif
+                        xlink:href="#art30">Art. 30</rif> 
+ 
+(Anagrafe dei siti da bonificare) 
+ 
+1.  Con la presente legge è istituita l'Anagrafe di cui all'<rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art17-com12">articolo 17, comma 12 del Decreto Legislativo 5 febbraio 1997, n. 22</rif>. 
+ 
+2.  L'Anagrafe è tenuta ed aggiornata (sistema informativo, monitoraggio, prevenzione e controlli) dall'A.R.P.A.M. che, sulla base delle notifiche di cui all'<rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art17-com2">articolo 17, comma 2 del Decreto Legislativo 5 febbraio 1997, n. 22</rif> e delle comunicazioni di cui all'articolo 17, comma 3 dello stesso Decreto, individua: 
+ 
+ a)  gli ambiti territoriali interessati da fatti di superamento dei limiti di accettabilitè della contaminazione stabiliti dal Decreto Interministeriale; 
+ 
+ b)  la caratterizzazione ed il livello degli inquinanti presenti negli ambiti territoriali individuati ai sensi della lettera a); 
+ 
+ c)  i responsabili dei fatti di contaminazione e gli altri soggetti cui competono gli interventi di bonifica, ove i primi non siano individuati o rimangano inadempienti; 
+ 
+ d)  il Comune territorialmente competente nei casi di cui all'<rif
+                        xlink:href="urn:nir:stato:decreto.legislativo:1997-02-05;22#art17-com9">art. 17, comma 9 del Decreto Legislativo 5 febbraio 1997, n. 22</rif>; 
+ 
+ e)  gli enti di cui la Regione intende avvalersi per l'esecuzione d'ufficio in caso di inadempienza dei soggetti obbligati o di mancata esecuzione d'ufficio da parte del   Comune territorialmente competente; 
+ 
+ f)  la stima degli oneri finanziari. 
+ 
+3.  La Giunta Regionale trasmette gli elenchi all'OCR che cura la pubblicazione periodica sul Bollettino Ufficiale della Regione degli elenchi di siti contaminati contenuti nell'Anagrafe. 
+ 
+<rif
+                        xlink:href="#art31">Art. 31</rif> 
+ 
+(Linee guida per la predisposizione dei progetti di bonifica) 
+ 
+1.  La Giunta Regionale, approva, con propria deliberazione, le norme tecniche per la realizzazione delle operazioni di messa in sicurezza di cui all'articolo 17, comma 2, lett. b) del Decreto nonchè le linee guida per la predisposizione dei progetti di bonifica, definendo i contenuti essenziali dei progetti e la documentazione tecnica da allegare agli stessi. 
+ 
+2.  Con la deliberazione di cui al <rif
+                        xlink:href="#art37-com1">comma 1</rif>, la Giunta Regionale provvede anche alla individuazione delle tipologie di progetti non soggetti alla procedura autorizzatoria di cui all'art. 17, comma 4 del Decreto. 
+ 
+3.  La deliberazione di cui al <rif
+                        xlink:href="#art37-com1">comma 1</rif> è pubblicata sul Bollettino Ufficiale della Regione. 
+ 
+<rif
+                        xlink:href="#art32">Art. 32</rif> 
+ 
+(Adempimenti relativi alla messa in sicurezza e alla bonifica dei siti contaminati) 
+ 
+1.  Chiunque cagiona, anche accidentalmente, il superamento dei limiti di accettabilitè di cui al Decreto interministeriale 25 ottobre 1999 n. 471, in Supplemento Ordinario della Gazzetta Ufficiale del 15 dicembre 1999 è tenuto a procedere a proprie spese agli interventi di messa in sicurezza e bonifica delle aree inquinate e degli impianti dai quali deriva l'inquinamento. A tal fine: 
+ 
+a)  entro e non oltre quarantotto ore dall'evento di superamento dei limiti di accettabilitè della contaminazione notifica tale fatto alla Giunta Regionale, al Comune ed alla Provincia territorialmente competenti, nonchè all'A.R.P.AM. e al Dipartimento di prevenzione dell'Azienda A.S.L. competente per territorio; 
+ 
+b)  entro e non oltre le quarantotto ore successive alla notifica di cui alla lettera a), deve comunicare alla Regione, al Comune ed alla Provincia territorialmente competenti, gli interventi di messa in sicurezza adottati per il contenimento o l'isolamento definitivo della fonte inquinante rispetto alle matrici ambientali circostanti; 
+ 
+c)  entro trenta giorni dall'evento che ha determinato il superamento dei limiti di accettabilitè della contaminazione, deve presentare il progetto di bonifica al Comune territorialmente competente ed alla Giunta Regionale. 
+ 
+2.  Entro novanta giorni dalla data di presentazione del progetto di cui al comma 1, lett. c), il Comune o la Regione, secondo le rispettive competenze indicate al comma 4 dell'articolo 17 del Decreto, approvano il progetto di bonifica ed autorizzano la realizzazione degli interventi di risanamento ambientale. L'istruttoria tecnica è svolta dall'A.R.P.A.M.. Ove l'approvazione del progetto di bonifica sia di competenza comunale, il Comune si avvale delle strutture dell'A.R.P.A.M.. 
+ 
+3.  L'autorizzazione di cui al comma 2, qualora riguardi aree in cui non siano raggiungibili attraverso l'uso delle migliori tecnologie a costi sopportabili, i limiti di accettabilitè richiesti, puè contenere prescrizioni in ordine all'adozione di misure di sicurezza per impedire ulteriori danni derivanti dall'inquinamento residuo nonchè in ordine all'apposizione di limitazioni temporanee o permanenti all'utilizzo dell'area bonificata, anche in variante agli strumenti urbanistici comunali. 
+ 
+4.  Ai sensi dell'art. 17, comma 7 del Decreto, l'autorizzazione di cui al comma 2 costituisce, ove occorra, variante agli strumenti urbanistici comunali, comporta dichiarazione di pubblica utilitè, di urgenza e di indifferibilitè dei lavori e sostituisce ad ogni effetto, visti, pareri, autorizzazioni e ogni altro atto di assenso previsti dalla legislazione vigente per la realizzazione e l'esercizio degli impianti e delle attrezzature necessarie all'attuazione del progetto di bonifica. 
+ 
+5.  Le garanzie di cui all'articolo 17, comma 4 del Decreto sono prestate a favore dell'ente che approva il progetto per un ammontare pari al costo dell'intervento progettato. 
+ 
+6.  La Provincia competente per territorio, con apposita relazione semestrale, comunica alla Giunta Regionale, al Comune ed al servizio dell'A.R.PA.M. lo stato di avanzamento degli interventi di bonifica autorizzati dal Comune. 
+ 
+7.  Il completamento degli interventi di bonifica è attestato da apposita certificazione rilasciata dalla Provincia competente per territorio. 
+ 
+8.  Qualora sulla base del progetto di bonifica sia possibile l'utilizzazione dell'area per lotti successivi e ricorrano particolari condizioni d'interesse pubblico, con riguardo allo sviluppo economico ed occupazionale della zona interessata, il Comune o la Regione, secondo le rispettive competenze, possono, previa certificazione di avvenuta bonifica dei singoli lotti da parte della Provincia, rilasciare la concessione edilizia ed il certificato di abitabilitè ed agibilitè relativo alle opere realizzate nei singoli lotti, fermo restando lo svincolo della fidejussione ad avvenuto completamento dell'intero progetto di bonifica. 
+ 
+9.  Ove il progetto di bonifica preveda la realizzazione di un impianto di smaltimento o recupero di rifiuti  sottoposto, ai sensi della normativa statale o regionale vigenti, alla procedura di valutazione di impatto ambientale, il termine di cui al comma 2 resta sospeso fino all'acquisizione della pronuncia sulla compatibilitè ambientale, rispettivamente, da parte della competente autoritè statale, ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:legge:1986-07-08;349#art6-com4">art. 6, comma 4 della legge 8 luglio 1986, n. 349</rif> e successive modifiche ed integrazioni ovvero della Giunta Regionale, ai sensi dell'<rif
+                        xlink:href="urn:nir:regione.molise:legge:2000;21#art8-com2">art. 8, comma 2 della Legge Regionale n. 21/2000</rif>. 
+ 
+<rif
+                        xlink:href="#art33">Art. 33</rif> 
+ 
+(Diffida ad adempiere ed esecuzione d'ufficio) 
+ 
+1. Gli organi e gli uffici di controllo ambientale ed igienico-sanitario che nell'esercizio delle proprie funzioni individuano siti nei quali i livelli di inquinamento risultano superiori ai limiti statali o regionali, ne danno comunicazione al Comune ed alla Provincia territorialmente competenti, alla Regione ed al Servizio dell'A.R.PA.M. indicando, ove individuabili, i soggetti cui competono gli interventi di messa in sicurezza e bonifica e specificando gli ambiti territoriali interessati dalla contaminazione e le caratteristiche degli inquinanti presenti. 
+ 
+2.  Il Comune e la Regione, secondo la rispettiva competenza, come determinata ai sensi del comma 4 dell'articolo 17 del Decreto, con provvedimento motivato, diffidano i responsabili del superamento dei limiti di accettabilitè a realizzare gli interventi di messa in sicurezza ed a presentare il progetto di bonifica secondo le modalitè tecniche ed entro i termini precisati nel medesimo provvedimento. 
+ 
+3.  Ove i soggetti responsabili rimangano inadempienti, gli interventi di messa in sicurezza e bonifica sono realizzati d'ufficio dal Comune nel cui territorio è localizzata l'area da bonificare o dalla Regione, se la contaminazione riguardi un'area compresa nel territorio di più Comuni. 
+ 
+4.  A tal fine, il Comune cui compete l'esecuzione d'ufficio, entro trenta giorni dalla scadenza del termine stabilito dalla diffida di cui al comma 2, notifica alla Regione e al Servizio dell'A.R.PA.M. la data di avvio dell'istruttoria relativa alla realizzazione degli interventi di messa in sicurezza e bonifica. 
+ 
+5.  In caso di mancata o ritardata notifica di cui al comma precedente, il Comune decade dalla facoltè di realizzare gli interventi di messa in sicurezza e bonifica e la Regione, entro i successivi quindici giorni, comunica al Servizio dell'A.R.P.A.M., gli enti di cui intende avvalersi per l'esecuzione d'ufficio dei medesimi interventi. 
+ 
+6.  Nell'ipotesi di cui al <rif
+                        xlink:href="#art37-com1">comma 1</rif>, qualora i responsabili del superamento dei limiti di accettabilitè della contaminazione non siano individuabili, gli interventi di messa in sicurezza e di bonifica sono realizzati d'ufficio dal Comune nel cui territorio è localizzata l'area da bonificare o dalla Regione, se la contaminazione riguardi un'area compresa nel territorio di più Comuni. 
+ 
+7.  Il Comune cui compete l'esecuzione d'ufficio, entro trenta giorni dalla comunicazione di cui al <rif xlink:href="#art37-com1">comma 1</rif>, notifica alla Regione ed al Servizio dell'A.R.PA.M., la data di avvio dell'istruttoria relativa alla realizzazione degli interventi di messa in sicurezza e bonifica. La mancata o ritardata notifica produce gli effetti di cui al precedente comma 5. 
+ 
+</rubrica>
+            </titolo>
+            <titolo id="tit9">
+                <num>TITOLO IX </num>
+
+                <rubrica>
+ 
+NORME FINANZIARIE, SISTEMA SANZIONATORIO E DISPOSIZIONI TRANSITORIE E FINALI 
+ 
+<rif
+                        xlink:href="#art34">Art. 34</rif> 
+ 
+(Norma finanziaria) 
+ 
+1.  La Regione dè attuazione al Piano Regionale dei Rifiuti  dando prioritè nell'ambito della programmazione negoziata dei fondi comunitari e statali ai progetti ed azioni definiti dal Piano Regionale e da quello Provinciale. 
+ 
+2.  Con la Legge di bilancio saranno annualmente determinati gli stanziamenti di spesa destinati all'attuazione del Piano di Gestione dei Rifiuti. 
+ 
+<rif
+                        xlink:href="#art35">Art. 35</rif> 
+ 
+(Sanzioni) 
+ 
+1.  Per l'inosservanza delle norme di cui alla presente legge, ferme restando le sanzioni previste dalla legislazione statale vigente, si applicano le seguenti sanzioni amministrative. 
+ 
+2.  Per la mancata o ritardata presentazione della garanzia finanziaria di cui all'<rif
+                        xlink:href="#art32">articolo 32</rif> si applica la sanzione amministrativa pecuniaria da Euro 1.032,91 a Euro 6.197,48. 
+ 
+3.  Il responsabile di cui all'articolo 17, comma 2 del Decreto che violi le prescrizioni contenute nell'autorizzazione di cui all'articolo 38, comma 2 è punito con la sanzione amministrativa pecuniaria da Euro 2.582,28 a Euro 15.493,71. 
+ 
+4.  Chiunque compia qualsiasi azione, attiva od omissiva, che ostacoli ovvero impedisca l'esercizio delle funzioni di controllo e vigilanza svolte dal personale ispettivo dell'A.R.P.A.M. in attuazione dei compiti previsti dalla presente legge, è punito con la sanzione amministrativa pecuniaria da Euro 2.582,28 a Euro 15.493, 71. 
+ 
+5.  All'accertamento e all'irrogazione delle sanzioni amministrative pecuniarie provvede la Provincia nel cui territorio è stata commessa la violazione secondo le norme ed i principi di cui al <rif
+                        xlink:href="urn:nir:stato:legge:1981-11-24;689#cap1">Capo I della Legge 24 novembre 1981, n. 689</rif> e successive modifiche ed integrazioni. 
+ 
+<rif
+                        xlink:href="#art36">Art. 36</rif> 
+ 
+(Disposizioni transitorie) 
+ 
+1.  Sino alla data di approvazione dei piani provinciali di cui all'<rif
+                        xlink:href="#art11">art. 11</rif>, sono dichiarate improcedibili le domande di approvazione dei progetti e di autorizzazione alla realizzazione di nuovi impianti di smaltimento e di recupero di rifiuti  presentate dopo l'entrata in vigore della presente legge. 
+ 
+2.  Le disposizioni contenute nella presente legge trovano immediata applicazione ai procedimenti in corso, alla data di entrata in vigore della medesima, relativi all'approvazione dei progetti e all'autorizzazione alla realizzazione o all'ampliamento degli impianti nonchè al rilascio all'autorizzazione all'esercizio delle relative operazioni di smaltimento o di recupero. Sono fatte salve le fasi dei medesimi procedimenti che si sono già concluse alla data di entrata in vigore della presente legge. 
+ 
+3.  Le autorizzazioni all'esercizio delle operazioni di smaltimento e recupero dei rifiuti , rilasciate in epoca anteriore alla data di entrata in vigore della presente legge, restano efficaci sino alla loro scadenza e possono essere rinnovate in via provvisoria, ma con durata non superiore a quella stabilita per l'approvazione dei Piani Provinciali. A tal fine, le domande di rinnovo devono essere presentate alla Regione novanta giorni prima della loro scadenza. 
+ 
+<rif xlink:href="#art37">Art. 37</rif> 
+ 
+(Disposizioni finali) 
+ 
+1.  Entro novanta giorni dall'entrata in vigore della presente legge, la Giunta Regionale, con proprie deliberazioni, approva: 
+ 
+a)  le modalitè di composizione della conferenza di cui all'articolo 27, comma 2 del Decreto e le norme che disciplinano l'intervento sostitutivo in caso di mancato rispetto del termine complessivo di cui ai commi 2, 3 e 5 dell'articolo 27 del Decreto; 
+ 
+b)  i criteri tecnici da osservare in sede di approvazione e valutazione dei progetti degli impianti di smaltimento e recupero dei rifiuti; 
+ 
+c)  il modello di domanda per l'approvazione dei progetti di nuovi impianti di smaltimento e recupero di rifiuti  e l'elenco della documentazione tecnica da allegare; 
+ 
+d)  il modello di domanda per il rilascio di nuove autorizzazioni, di rinnovo o proroga delle stesse, aventi ad oggetto l'esercizio delle operazioni di smaltimento e recupero dei rifiuti  e l'elenco dei documenti da allegare; 
+ 
+e)  i modelli di comunicazione ai sensi dei commi 2 e 3 dell'art. 17 del Decreto del comma 1, art. 9 del Decreto Ministeriale n. 471 del 25 ottobre 1999. 
+ 
+2.  Entro lo stesso termine, la Giunta Regionale, d'intesa con le Province e previo parere dell'A.R.PA.M., approva con deliberazione le schede tecniche relative all'attivitè di controllo periodico su tutte le attivitè di gestione dei rifiuti di cui all'art. 20 del Decreto. 
+ 
+3.  Gli atti della Giunta regionale di cui ai precedenti commi sono pubblicati integralmente sul Bollettino Ufficiale della Regione. 
+ 
+</rubrica>
+                <articolo id="art38">
+                    <num>Art. 38 </num>
+                    <rubrica>
+ 
+(Abrogazione di norme regionali) 
+ </rubrica><?error Marker Warning 109?>
+                    <comma id="art38-com1">
+                        <num>
+1.</num>
+                        <corpo>
+                            <mod
+                                    id="art38-com1-mod1">  A decorrere dalla data di approvazione del Piano Regionale di Gestione dei Rifiuti sono abrogate la <rif xlink:href="urn:nir:regione.molise:legge:1984-03-08;6">Legge Regionale 8 marzo 1984, n. 6</rif> ed i successivi connessi provvedimenti. 
+</mod>
+                        </corpo>
+                    </comma>
+                </articolo>
+            </titolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

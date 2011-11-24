@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20010630" num="14" tipo="BURM"/>
+                <entratainvigore norm="20010715"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2001-06-16;11"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 14 del 30 giugno 2001 
+ 
+Oggetto 
+L.r. 4 settembre 1979 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="20010616">16 giugno 2001</dataDoc>, n.<numDoc>11</numDoc>
+            <titoloDoc>Modifiche alla <rif
+                    xlink:href="urn:nir:regione.molise:legge:1979-09-04;27">Legge Regionale n. 27 del 4 settembre 1979</rif>, ad oggetto: "Provvedimenti per il potenziamento e lo sviluppo della Zootecnia. 
+ 
+<rif
+                    xlink:href="urn:nir:regione.molise:legge:2001-06-16;11">Legge Regionale 16 giugno 2001, n.11</rif>. 
+ 
+Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1979-09-04;27">Legge Regionale n. 27 del 4 settembre 1979</rif>, ad oggetto: "Provvedimenti per il potenziamento e lo sviluppo della Zootecnia". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale>
+            <h:p>Il Consiglio Regionale ha approvato; </h:p>
+            <h:p>Il Commissario di Governo ha apposto il </h:p>
+            <preambolo>
+                <h:p>visto;</h:p>
+                <h:p>IL PRESIDENTE 
+della  
+GIUNTA REGIONALE</h:p>
+            </preambolo>
+            <h:p>Promulga </h:p>
+            <h:p>la seguente legge: </h:p>
+        </formulainiziale>
+        <articolato>
+            <articolo id="art1">
+                <num>Art.1 </num>
+                <rubrica>
+ 
+L'<rif xlink:href="urn:nir:regione.molise:legge:1979-09-04;27#art5">art. 5 della Legge Regionale 4 settembre 1979, n. 27</rif> è stato cosè modificato: 
+ 
+"Alle Associazioni Provinciali degli Allevatori che operano per il miglioramento nel Settore Zootecnico saranno concessi contributi fino al 90% delle spese riconosciute, preventivamente approvate dalla Giunta regionale e dalla stessa liquidate con anticipazione semestrale e rendicontate semestralmente a consuntivo, per la tenuta dei Libri Genealogici e dei Controlli Funzionali". 
+ 
+</rubrica><?error Marker Warning 109?>
+                <comma id="art1-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art.2 </num>
+
+                <rubrica>
+ 
+La presente legge è dichiarata urgente ai sensi dell'<rif
+                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise 
+ 
+è fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+ 
+Data a Campobasso, addè 16 giugno 2001 
+ 
+IL PRESIDENTE 
+ 
+DI STASI 
+<?error Marker Warning 109?>
+                </rubrica>
+                <comma id="art2-com1">
+                    <num/>
+                    <corpo/>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

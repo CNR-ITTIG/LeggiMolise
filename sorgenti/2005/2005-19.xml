@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20050516" num="10" tipo="BURM"/>
+                <entratainvigore norm="20050531"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2005-05-05;19"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="08.demanio e patrimonio, beni di uso civico"/>
+                </materie>
+            </descrittori>
+        </meta><?error 08.Demanio e patrimonio, beni di uso civico 
+38.Valorizzazione dei beni culturali e ambientali, impatto ambientale 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 10 del 16 maggio 2005 
+ 
+Oggetto 
+Demanio - Tratturi - Tutela valorizzazione e gestione - Coordinamento regionale dei tratturi e della civilt&#xE0; della transumanza 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20050505">5 maggio 2005</dataDoc>, n. <numDoc>19</numDoc>. 
+ 
+<titoloDoc>Promozione, tutela e valorizzazione del patrimonio tratturale e della civiltè della transumanza nella regione Molise. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+Finalità 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <alinea> La presente legge è finalizzata a: 
+ 
+</alinea>
+                    <el id="art1-com1-leta">
+                        <num>a)</num>
+                        <corpo> favorire le azioni di valorizzazione, promozione e tutela del patrimonio tratturale regionale e della civiltè della transumanza;</corpo>
+                    </el>
+                    <el id="art1-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> contribuire all'attuazione della <rif xlink:href="urn:nir:regione.molise:legge:1997-04-11;9">legge regionale 11 aprile 1997, n. 9</rif>, ad oggetto: "Tutela, valorizzazione e gestione del demanio tratturi" e del regolamento 11 febbraio 2000, n. 1;</corpo>
+                    </el>
+                    <el id="art1-com1-letc">
+                        <num> 
+ 
+c)</num>
+
+                        <corpo> contribuire al perseguimento degli obiettivi previsti nell'articolo 114, commi 11, 12 e 13 della <rif
+                                xlink:href="urn:nir:stato:legge:2000-12-23;388">legge 23 dicembre 2000, n. 388</rif>, in relazione alla istituzione del "Coordinamento nazionale dei tratturi e della civiltè della transumanza", nonchè agli accordi di programma stipulati ai sensi della <rif xlink:href="urn:nir:stato:legge:1998-12-09;426">legge 9 dicembre 1998, n. 426</rif>, ed alle delibere CIPE emanate in attuazione di A.P.E., "Appennino Parco d'Europa". </corpo>
+                    </el>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Il patrimonio tratturale regionale, ai fini della presente legge, è costituito dal patrimonio materiale (fisico, storico, archeologico) ed immateriale (etnologico, sociale, antropologico, produttivo). 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+Coordinamento regionale dei tratturi e della civiltè della transumanza 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La Regione Molise, per il perseguimento delle finalità di cui all'<rif xlink:href="#art1">articolo 1</rif> della presente legge, istituisce il Coordinamento regionale dei tratturi e della civiltè della transumanza, di seguito denominato Coordinamento regionale. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Il Coordinamento regionale è un organismo costituito quale nucleo territoriale del Coordinamento nazionale dei tratturi e della civiltè della transumanza di cui all'<rif xlink:href="urn:nir:stato:legge:2000-12-23;388#art114-com11">art. 114, comma 11, della legge n. 388 del 23 dicembre 2000</rif>. </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num>
+ 
+3.</num>
+                    <alinea> Il Coordinamento regionale è presieduto dall'assessore regionale all'ambiente, o suo delegato, ed è composto da: 
+ 
+</alinea>
+                    <el id="art2-com3-leta">
+                        <num>a)</num>
+                        <corpo> un dirigente dell'assessorato al turismo;</corpo>
+                    </el>
+                    <el id="art2-com3-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> un dirigente dell'assessorato alle politiche agricole;</corpo>
+                    </el>
+                    <el id="art2-com3-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> un dirigente dell'assessorato all'ambiente;</corpo>
+                    </el>
+                    <el id="art2-com3-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> un rappresentante dell'Universitè del Molise;</corpo>
+                    </el>
+                    <el id="art2-com3-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> un rappresentante dell'ANCI per la provincia di Campobasso ed uno per la provincia di Isernia;</corpo>
+                    </el>
+                    <el id="art2-com3-letf">
+                        <num> 
+ 
+f)</num>
+                        <corpo> un rappresentante dell'UNCEM per la provincia di Campobasso ed uno per la provincia di Isernia;</corpo>
+                    </el>
+                    <el id="art2-com3-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> un rappresentante delle associazioni ambientaliste maggiormente rappresentative nella Regione;</corpo>
+                    </el>
+                    <el id="art2-com3-leth">
+                        <num> 
+ 
+h)</num>
+                        <corpo> un rappresentante delle associazioni agricole maggiormente rappresentative nella Regione;</corpo>
+                    </el>
+                    <el id="art2-com3-leti">
+                        <num> 
+ 
+i)</num>
+                        <corpo> un rappresentante delle associazioni cooperative maggiormente rappresentative nella Regione;</corpo>
+                    </el>
+                    <el id="art2-com3-letj">
+                        <num> 
+ 
+j)</num>
+
+                        <corpo> un rappresentante delle associazioni turistiche riconosciute ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:1985;9">legge regionale n. 9/1985</rif>. </corpo>
+                    </el>
+                </comma>
+                <comma id="art2-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Il Coordinamento regionale è nominato con decreto del Presidente della Giunta regionale, d'intesa con gli assessorati regionali all'ambiente, alle politiche agricole ed al turismo. </corpo>
+                </comma>
+                <comma id="art2-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> Il Coordinamento ha sede presso l'assessorato regionale all'ambiente. </corpo>
+                </comma>
+                <comma id="art2-com6">
+                    <num>
+ 
+6.</num>
+
+                    <corpo> Ai componenti del Coordinamento è riconosciuto un gettone di presenza nella misura indicata all'<rif xlink:href="urn:nir:regione.molise:legge:1983-03-01;7#art1">art. 1 della legge regionale 1è marzo 1983, n. 7</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+Compiti del Coordinamento regionale 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <alinea> Il Coordinamento regionale svolge le seguenti funzioni: 
+ 
+</alinea>
+                    <el id="art3-com1-leta">
+                        <num>a)</num>
+                        <corpo> elabora e propone alla Giunta regionale il modello di sviluppo regionale del sistema dei tratturi e della civiltè della transumanza e le relative modalitè attuative;</corpo>
+                    </el>
+                    <el id="art3-com1-letb">
+                        <num> 
+ 
+b)</num>
+
+                        <corpo> predispone la redazione del Piano di valorizzazione dei tratturi di cui all'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1997;9#art8">articolo 8 della legge regionale n. 9/1997</rif> al fine di costituire il 'Parco dei tratturi" previsto all'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1997;9#art4">articolo 4 della legge regionale n. 9/1997</rif>; 
+ 
+c) redige il Piano di alienazione, di cui all'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1997;9#art7">art. 7 della legge regionale n. 9/1997</rif>, che viene adottato dalla Giunta regionale; 
+ 
+d) fornisce consulenza sui temi programmatici e di pianificazione riguardanti il sistema dei tratturi e della civiltè della transumanza, ivi comprese le procedure attuative del <rif
+                                xlink:href="urn:nir:regione.molise:regolamento:2000-02-11;1">regolamento regionale 11 febbraio 2000, n. 1</rif>; 
+ 
+e) sviluppa, nell'ambito del sistema dei tratturi, gli aspetti storici e culturali, etnologici ed antropologici, gli aspetti produttivi, ambientali, turistici, agrituristici e turistico-ambientali. 
+ 
+Art. 4 
+ 
+Segreteria tecnica del coordinamento regionale dei tratturi 
+ 
+1. Il Coordinamento, per il raggiungimento delle finalità di cui all'<rif
+                                xlink:href="#art1">art. 1</rif>, si avvale della segreteria tecnica composta dal responsabile della segreteria, con compiti di segretario generale del Coordinamento regionale, e da tre tecnici esperti nelle materie trattate, scelti tra i dipendenti della Regione Molise. 
+ 
+2. Il responsabile della segreteria ed i componenti sono nominati dalla Giunta regionale, su proposta del Coordinamento regionale, in base alla formazione professionale da comprovare con appositi curricula. 
+ 
+3. Il Coordinamento si avvale, per esigenze di ricerca, di elaborazione e di studio connesse all'attuazione del modello di sviluppo, mediante apposita convenzione, delle prestazioni e della collaborazione tecnico-scientifica di professionisti, di Istituti universitari e di ricerca, di organizzazioni tecnico-professionali. 
+ 
+Art. 5 
+ 
+Norma finanziaria 
+ 
+1. Agli oneri derivanti dall'applicazione della presente legge, quantificati per l'esercizio 2005 in Euro 100.000,00, si fa fronte con le risorse iscritte nella U.P.B. n. 290: "Bonifica e irrigazione", dove, ai fini della gestione, è iscritto apposito capitolo con la seguente denominazione: -"Oneri per la tutela, valorizzazione e gestione del demanio tratturi: <rif xlink:href="urn:nir:regione.molise:legge:1997-04-11;9">legge regionale 11 aprile 1997, n.,9</rif>". 
+ 
+2. Per gli esercizi finanziari successivi si provvede con le stesse leggi approvative dei rispettivi bilanci. 
+ 
+Art. 6 
+ 
+Norme finali 
+ 
+1. Sono abrogate le norme regionali in contrasto con la presente legge. 
+ 
+2. La presente legge è pubblicata sul Bollettino Ufficiale della Regione. 
+ 
+La presente legge sarè pubblicata nel Bollettino Ufficiale della Regione. è fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                    </el>
+                </comma>
+            </articolo><?error Marker Warning 105?>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

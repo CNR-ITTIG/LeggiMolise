@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19961130" num="23" tipo="BURM"/>
+                <entratainvigore norm="19961215"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1996-11-27;36"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="36.turismo e industria alberghiera"/>
+                </materie>
+            </descrittori>
+        </meta><?error 36.Turismo e industria alberghiera 
+ 
+Bollettino 
+Bollettino Ufficiale n. 23 del 30/11/96 
+ 
+Oggetto 
+Guida turistica interpetre turistico ed accompagnatore turistico - Disciplina delle attivit&#xE0; professionali - Procedure - Vigilanza - Controlli - Sanzioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>del <dataDoc norm="19961127">27 Novembre 1996</dataDoc>, n. <numDoc>36</numDoc>
+            <titoloDoc>Disciplina per la regolamentazione delle attivitè di guida turistica, di interprete turistico e di accompagnatore turistico. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: DISCIPLINA DELLE ATTIVITè PROFESSIONALI 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1)</num>
+
+                    <corpo> La presente legge, in attuazione dei principi di cui all'<rif xlink:href="urn:nir:stato:legge:1983-05-17;217#art11">art. 11 della legge 17 maggio 1983, n. 217</rif> &lt;&lt;Legge quadro per il turismo e l'intervento per il potenziamento e la qualificazione dell'offerta   turistica&gt;&gt; disciplina l'esercizio delle attivitè professionali di guida turistica, accompagnatore turistico e interprete turistico. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+                <rubrica>: GUIDA TURISTICA 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1)</num>
+                    <corpo> La qualifica di&lt;&lt;guida turistica&gt;&gt; è attribuita a chi, per attivitè professionale, accompagna persone singole o gruppi di persone nelle visite ad opere d'arte, a mostre, a gallerie, a scavi   archeologici, a musei, a parchi ed itinerari turistici, illustrando le attrattive storiche, artistiche, monumentali, paesaggistiche, naturali, etnografiche e produttive. L'attivitè di guida turistica corrisponde ad ogni effetto anche e quella di guida turistica specializzata individuata dalla sentenza della Corte di Giustizia della Comunitè europea C/180/89 e sottoposta alla disciplina   degli articoli 59 e 60 del Trattato di Roma. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3</num>
+                <rubrica>: INTERPRETE TURISTICO 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1)</num>
+                    <corpo> La qualifica di &lt;&lt;interprete turistico&gt;&gt; è attribuita a chi, per attivitè professionale, presta la propria opera per la traduzione scritta ed orale di lingue straniere nell'assistenza ai turisti stranieri, al di fuori delle competenze attribuite agli accompagnatori turistici e alle guide turistiche. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2)</num>
+                    <corpo> Non è soggetta alla specifica disciplina della presente legge, relativa agli interpreti, l'attivitè prestata durante lo svolgimento di congressi, conferenze o convegni, da esperti particolarmente qualificati e specializzati nella traduzione simultanea. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+                <rubrica>: ACCOMPAGNATORE TURISTICO 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1)</num>
+                    <corpo> La qualifica di &lt;&lt;accompagnatore turistico&gt;&gt; è attribuita a chi, per attivitè professionale, accompagna persone singole o gruppi di persone nei viaggi sul territorio nazionale o all'estero,   cura l'attuazione del programma predisposto dagli enti organizzatori, dè completa assistenza ai singoli o ai gruppi accompagnati, fornisce elementi significativi o notizie di interesse turistico sulle zone di transito, al di fuori dell'ambito di competenza delle guide turistiche. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2)</num>
+
+                    <corpo> Tale qualifica corrisponde, ad ogni effetto, a quella di &lt;&lt;corriere&gt;&gt; prevista dall'<rif
+                            xlink:href="#art19-com1">art. 19, primo comma</rif>, punto 2), del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616">D.P.R. 24 luglio 1977, n. 616</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+                <rubrica>: RILASCIO DELL'AUTORIZZAZIONE 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1)</num>
+
+                    <corpo> L'esercizio delle professioni previste agli artt. 2-3-4 nel territorio della Regione Molise è subordinato al possesso dell'autorizzazione rilasciata dal Comune di residenza del richiedente, per i residenti nel Molise, ai sensi dell'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616#art19">art. 19 del D.P.R. 24 luglio 1977, n. 616</rif>. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+ 
+2)</num>
+                    <corpo> Per l'esercizio della professione di guida turistica nel Molise da parte di cittadini non residenti, l'autorizzazione viene rilasciata dal Comune del Molise ove il richiedente abbia eletto domicilio. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num>
+ 
+3)</num>
+                    <corpo> Per i cittadini italiani non residenti nel Molise e per i cittadini di altri Stati membri dell'Unione Europea, che vogliono esercitare l'attivitè di accompagnatore turistico e interprete turistico nel Molise, sono validi i provvedimenti autorizzatori all'esercizio delle professioni rilasciati dalle competenti autoritè ai sensi delle rispettive legislazioni in materia. </corpo>
+                </comma>
+                <comma id="art5-com4">
+                    <num>
+ 
+4)</num>
+                    <corpo> Nel caso di cambiamento di residenza, il Comune che abbia rilasciato l'autorizzazione trasferisce gli atti relativi a questa al nuovo Comune di residenza. </corpo>
+                </comma>
+                <comma id="art5-com5">
+                    <num>
+ 
+5)</num>
+
+                    <corpo> Il Comune informa tempestivamente Ia Giunta Regionale dell'adozione dei provvedimenti di cui al <rif xlink:href="#art5-com1">comma 1</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6</num>
+                <rubrica>: REQUISITI PER IL RILASCIO DELL'AUTORIZZAZIONE 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1)</num>
+                    <alinea> Il rilascio dell'autorizzazione è subordinato al possesso: 
+ 
+</alinea>
+                    <el id="art6-com1-leta">
+                        <num>a)</num>
+                        <corpo> dell'attestato di idoneitè professionale rilasciato dalla Regione Molise;</corpo>
+                    </el>
+                    <el id="art6-com1-letb">
+                        <num> 
+ 
+b)</num>
+
+                        <corpo> dei requisiti soggettivi di cui agli articoli 11 e 12 del T.U.L.F.S., approvato con <rif xlink:href="urn:nir:stato:regio.decreto.legge:1931-06-18;773">R.D.L. 18 giugno 1931, n. 773</rif> e successive modificazioni;</corpo>
+                    </el>
+                    <el id="art6-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> dei requisiti previsti dalle norme in materia di prevenzione contro la criminalità mafiosa. </corpo>
+                    </el>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2)</num>
+                    <alinea> Sono validi ai fini del rilascio dell'autorizzazione per l'esercizio dell'attivitè di accompagnatore turistico e interprete turistico: 
+ 
+</alinea>
+                    <el id="art6-com2-leta">
+                        <num>a)</num>
+                        <corpo> l'attestato di idoneitè professionale conseguito in altra Regione;</corpo>
+                    </el>
+                    <el id="art6-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> l'autorizzazione all'esercizio rilasciata in altra Regione. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7</num>
+                <rubrica>: LA DOMANDA DI AUTORIZZAZIONE 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1)</num>
+
+                    <alinea> La domanda diretta ad ottenere il rilascio dell'autorizzazione di cui all'<rif xlink:href="#art6">art. 6</rif> deve essere presentata al Comune competente e deve specificare: 
+ 
+</alinea>
+                    <el id="art7-com1-leta">
+                        <num>a)</num>
+                        <corpo> le generalitè del richiedente;</corpo>
+                    </el>
+                    <el id="art7-com1-letb">
+                        <num> 
+ 
+b)</num>
+
+                        <corpo> il possesso dei requisiti di cui all'<rif xlink:href="#art6">art. 6</rif>;</corpo>
+                    </el>
+                    <el id="art7-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> I'attivitè professionale per la quale si chiede l'autorizzazione;</corpo>
+                    </el>
+                    <el id="art7-com1-letd">
+                        <num> 
+ 
+d)</num>
+
+                        <corpo> il luogo nel quale l'interessato ha eletto il proprio domicilio, nei casi di cui all'<rif xlink:href="#art5">art. 5</rif> punto 2. </corpo>
+                    </el>
+                </comma>
+                <comma id="art7-com2">
+                    <num>
+ 
+2)</num>
+                    <alinea> Alla domanda devono essere allegati i seguenti documenti:</alinea>
+                    <el id="art7-com2-leta">
+                        <num>a)</num>
+                        <corpo> certificato di cittadinanza e di residenza;</corpo>
+                    </el>
+                    <el id="art7-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> certificato generale del casellario giudiziario e certificati penali dei carichi pendenti;</corpo>
+                    </el>
+                    <el id="art7-com2-letc">
+                        <num> 
+ 
+c)</num>
+
+                        <corpo> attestato di idoneitè professionale o autorizzazione all'esercizio di cui all'<rif xlink:href="#art6-com2">art. 6, comma 2</rif>, nonchè la documentazione prevista dalle norme in materia di prevenzione contro la criminalità mafiosa. </corpo>
+                    </el>
+                </comma>
+                <comma id="art7-com3">
+                    <num>
+ 
+3)</num>
+                    <corpo> Sono esonerati da tale obbligo gli accompagnatori aventi cittadinanza straniera, domiciliati all'estero e da qui provenienti i accompagnamento di stranieri. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8</num>
+                <rubrica>: ESERCIZIO DELL'ATTIVITè E CONTENUTO DELL'AUTORIZZAZIONE 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1)</num>
+                    <corpo> L'autorizzazione consente l'esercizio delle attivitè di cui agli artt. 2-3-4, solo nei limiti risultanti dall'attestato di idoneitè professionale. </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num>
+ 
+2)</num>
+                    <corpo> L'autorizzazione contiene le generalitè dell'interessato, l'attivitè professionale per il cui esercizio è rilasciata, gli estremi dell'attestato di idoneitè professionale. </corpo>
+                </comma>
+                <comma id="art8-com3">
+                    <num>
+ 
+3)</num>
+                    <corpo> A domanda dell'interessato il Comune annota  sull'autorizzazione le altre idoneitè risultanti dal superamento degli esami integrativi. </corpo>
+                </comma>
+                <comma id="art8-com4">
+                    <num>
+ 
+4)</num>
+                    <corpo> Per l'esercizio delle professioni di cui agli artt. 2-3-4 i cittadini appartenenti ai paesi membri dell'Unione Europea sono equiparati ai cittadini italiani e sono soggetti all'osservanza delle norme di cui alla presente legge. </corpo>
+                </comma>
+                <comma id="art8-com5">
+                    <num>
+ 
+5)</num>
+                    <corpo> Per il rilascio dell'autorizzazione di esercizo agli accompagnatori turistici ed agli interpreti turistici cittadini di altri Stati membri dell'Unione Europea valgono le norme previste dal D.to L.g.s. 23 novembre 1991, n. 391. </corpo>
+                </comma>
+                <comma id="art8-com6">
+                    <num>
+ 
+6)</num>
+                    <corpo> Per il rilascio dell'autorizzazione di esercizio della professione di guida turistica ai cittadini di altri Stati membri dell'Unione Europea, già abilitati all'esercizio della professione nello Stato membro di provenienza, valgono le norme del D.to L.g.s. 2 maggio 1994, n. 319. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9</num>
+                <rubrica>: RINNOVO DELL'AUTORIZZAZIONE 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1 )</num>
+
+                    <corpo> L'autorizzazione è rinnovata dal Comune competente entro il 31 gennaio di ogni anno a domanda dell'interessato, su presentazione della documentazione di cui all'<rif xlink:href="#art6-com1-letb">art. 6, comma 1, lett. b)</rif>. </corpo>
+                </comma>
+                <comma id="art9-com2">
+                    <num>
+ 
+2)</num>
+                    <corpo> Il mancato rinnovo per uno o più anni non comporta la decadenza dell'autorizzazione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10</num>
+                <rubrica>: IDONEITè PROFESSIONALE 
+ </rubrica>
+                <comma id="art10-com1">
+                    <num>
+1 )</num>
+                    <corpo> Il rilascio dell'attestato di idoneitè professionale previsto per lo svolgimento delle attivitè di cui agli artt. 2-3-4 della presente legge, è subordinato al superamento di prove d'esame scritte, orali e pratiche, distinte per ciascuna professione. 
+ 
+Le prove d'esame sono indette annualmente in unica sessione con provvedimento della Giunta  Regionale, pubblicato sul Bollettino Ufficiale della Regione Molise, per l'accertamento dell'idoneitè all'esercizio delle professioni di cui agli artt. 2-3-4, fissandone modalitè e termini. </corpo>
+                </comma>
+                <comma id="art10-com2">
+                    <num>
+ 
+2)</num>
+                    <alinea> Sono ammessi agli esami per lo svolgimento delle professioni previste dagli artt. 2-3 4 della presente legge, i candidati in possesso dei seguenti requisiti: 
+ 
+</alinea>
+                    <el id="art10-com2-leta">
+                        <num>a)</num>
+                        <corpo> cittadinanza italiana o di altro Stato membro dell' Unione Europea;</corpo>
+                    </el>
+                    <el id="art10-com2-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> etè non inferiore agli anni 18;</corpo>
+                    </el>
+                    <el id="art10-com2-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> godimento dei diritti civili e politici;</corpo>
+                    </el>
+                    <el id="art10-com2-letd">
+                        <num> 
+ 
+d)</num>
+
+                        <corpo> diploma di scuola media superiore. Per gli aspiranti all'esercizio di cui all'<rif xlink:href="#art4">art. 4</rif> è sufficiente il diploma di qualifica di accompagnatore turistico rilasciato dagli Istituti Professionali di Stato. </corpo>
+                    </el>
+                </comma>
+                <comma id="art10-com3">
+                    <num>
+ 
+3)</num>
+                    <corpo> Nella domanda di ammissione i candidati dovranno altresè indicare la lingua o le lingue straniere nelle quali intendono essere esaminati; 
+ </corpo>
+                </comma>
+                <comma id="art10-com4">
+                    <num>
+4)</num>
+
+                    <corpo> Per l'ammissione all'esame è dovuto un concorso spese da versarsi nella misura e nei modi stabiliti nel provvedimento di cui al <rif xlink:href="#art10-com1">comma 1</rif>. </corpo>
+                </comma>
+                <comma id="art10-com5">
+                    <num>
+ 
+5)</num>
+                    <corpo> Al termine delle prove la Giunta Regionale, riconosciuta la regolaritè del procedimento, approva 1'elenco degli idonei all'esercizio delle singole professioni di cui agli artt. 2-3-4 della presente legge e rilascia, a chi abbia superato positivamente l'esame, un attestato d'idoneitè valido ai fini dell'ottenimento dell'autorizzazione all'esercizio dell'attivitè. Sull'attestato sono indicate la lingua o le lingue straniere per le quali è stata conseguita l'idoneitè. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11</num>
+                <rubrica>: COMMISSIONE GIUDICATRICE D'ESAME 
+ </rubrica>
+                <comma id="art11-com1">
+                    <num>
+1)</num>
+                    <alinea> La Giunta Regionale, su proposta dell'Assessore al Turismo, istituisce una Commissione giudicatrice per l'abilitazione all'esercizio delle professioni di cui agli artt. 2-3-4 della presente legge, cosè composta: 
+ 
+</alinea>
+                    <el id="art11-com1-leta">
+                        <num>a)</num>
+                        <corpo> dal dirigente responsabile del Settore Turismo o suo sostituto, che la presiede;</corpo>
+                    </el>
+                    <el id="art11-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> da due insegnanti esperti nella materia d'esame nell' area umanistica e tecnica, scelti in due terne segnalate dalla Sovrintendenza Scolastica regionale;</corpo>
+                    </el>
+                    <el id="art11-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> da un insegnante o un esperto di ciascuna delle lingue straniere oggetto d'esame, scelto tra una terna segnalata dalla Sovrintendenza Scolastica regionale;</corpo>
+                    </el>
+                    <el id="art11-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> da un rappresentante degli Interpreti turistici, da un rappresentante delle Guide turistiche e da un rappresentante degli Accompagnatori turistici designato dall'organizzazione sindacale maggiormente rappresentativa nella Regione Molise se esistente ed operante. </corpo>
+                    </el>
+                </comma>
+                <comma id="art11-com2">
+                    <num>
+ 
+2)</num>
+                    <corpo> Le funzioni di segretario sono svolte da un dipendente dell'Assessorato al Turismo della Regione Molise. </corpo>
+                </comma>
+                <comma id="art11-com3">
+                    <num>
+ 
+3)</num>
+                    <corpo> La Commissione giudicatrice dura in carica quattro anni e puè essere riconfermata. </corpo>
+                </comma>
+                <comma id="art11-com4">
+                    <num>
+ 
+4)</num>
+                    <corpo> Ai componenti la Commissione e al Segretario spettano i compensi previsti per le Commissioni giudicatrici di esame dei concorsi di ammissione del.personale regionale, nei limiti indicati dalla normativa regionale vigente in materia. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12</num>
+                <rubrica>: MATERIE D'ESAME 
+ </rubrica>
+                <comma id="art12-com1">
+                    <num>
+1)</num>
+                    <alinea> Le materie d'esame vertono, per le distinte figure professionali, sulle seguenti materie: 
+ 
+</alinea>
+                    <el id="art12-com1-leta">
+                        <num>A)</num>
+                        <corpo> GUIDA TURISTICA 
+ 
+Prova scritta: 
+ 
+- Caratteri storico-artistici, architettonici, geografici, paesaggistici, ambientali, naturalistici ed economici del territorio regionale 
+ 
+Prova orale: 
+ 
+- Materie della prova scritta; 
+ 
+- Colloquio in una delle lingue straniere indicate nel bando di concorso a scelta del candidato; 
+ 
+- Colloquio in una o più lingue straniere facoltative indicate dal candidato; 
+ 
+- Compiti e norme di esercizio dell'attivitè professionale, nonchè nozioni generali di organizzazione legislativa turistica;</corpo>
+                    </el>
+                    <el id="art12-com1-letb">
+                        <num> 
+ 
+B)</num>
+                        <corpo> INTERPRETE TURISTICO 
+ 
+Prova scritta: 
+ 
+- Composizione in una o più lingue scelte dal candidato, su un tema di cultura generale. 
+ 
+Prova orale: 
+ 
+- Colloquio ed esercizio di traduzione nelle lingue oggetto della composizione scritta; 
+ 
+- Caratteri storico artistici, architettonici, geografici, paesaggistici ambientali, naturalistici ed economici del territorio regionale e nazionale; 
+ 
+- Principi di tecnica e legislazione turistica nonchè compiti e norme di esercizio dell'attivitè professionale;</corpo>
+                    </el>
+                    <el id="art12-com1-letc">
+                        <num> 
+ 
+C)</num>
+                        <corpo> ACCOMPAGNATORE TURISTICO 
+ 
+Prova scritta: 
+ 
+- Geografia turistica molisana, italiana, europea ed extraeuropea. 
+ 
+Prova orale: 
+ 
+- Materie della prova scritta; 
+ 
+- Caratteri storico-artistici, architettonici, paesaggistici, ambientali, naturalistici ed economici del territorio regionale, nazionale, europeo ed extraeuropeo; 
+ 
+- Compiti e norme di esercizio dell'attivitè professionale, nonchè nozioni generali di organizzazione legislativa turistica; 
+ 
+- Nozioni di tecnica dei trasporti valutaria e doganale; 
+ 
+- Colloquio in una delle lingue straniere prescelte tra quelle maggiormente diffuse, indicata dal candidato. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13</num>
+                <rubrica>: CORSI DI PREPARAZIONE, AGGIORNAMENTO E SPECIALIZZAZIONE 
+ </rubrica>
+                <comma id="art13-com1">
+                    <num>
+1)</num>
+                    <alinea> La Regione Molise, nell'ambito delle sue competenze, puè promuovere interventi formativi finalizzati: 
+ 
+</alinea>
+                    <el id="art13-com1-leta">
+                        <num>a)</num>
+                        <corpo> al conseguimento della preparazione agli esami di idoneitè;</corpo>
+                    </el>
+                    <el id="art13-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> all'aggiornamento della professionalitè;</corpo>
+                    </el>
+                    <el id="art13-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> all'ulteriore specializzazione nella professione. </corpo>
+                    </el>
+                </comma>
+                <comma id="art13-com2">
+                    <num>
+ 
+2)</num>
+                    <corpo> Gli interventi di cui al comma precedente non abilitano  all'esercizio delle professioni disciplinate dalla presente legge. 
+ 
+I soggetti interessati ne sono messi a conoscenza fin dal momento della loro ammissione ai corsi. </corpo>
+                </comma>
+                <comma id="art13-com3">
+                    <num>
+ 
+3)</num>
+                    <corpo> La Regione Molise puè provvedere all'acquisto di pubblicazioni e materiale didattico ed illustrativo, alla realizzazione di convegni, conferenze, seminari ed a tutto ciè che possa contribuire alla qualificazione professionale nelle attivitè disciplinate dalla presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art14">
+                <num>Art. 14</num>
+                <rubrica>: INTEGRAZIONI ALL'IDONEITè PROFESSIONALE 
+ </rubrica>
+                <comma id="art14-com1">
+                    <num>
+1)</num>
+
+                    <corpo> Chiunque, in possesso dell'autorizzazione di cui all'<rif xlink:href="#art5">art. 5</rif> intenda estendere l'esercizio della professione ad ulteriori lingue straniere, dovrè sostenere una prova integrativa limitata   all'accertamento delle conoscenze relative a tale estensione. </corpo>
+                </comma>
+                <comma id="art14-com2">
+                    <num>
+ 
+2)</num>
+                    <corpo> Chiunque, in possesso dell'autorizzazione all'esercizio della professione di guida o di accompagnatore o di interprete turistico, intenda ottenere l'autorizzazione all'esercizio di una delle altre professioni, è esonerato dal sostenere la prova nelle lingue  straniere per le quali risulti già idoneo e nella materia di organizzazione e legislazione turistica. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art15">
+                <num>Art. 15</num>
+                <rubrica>: ELENCHI REGIONALI 
+ </rubrica>
+                <comma id="art15-com1">
+                    <num>
+1)</num>
+                    <corpo> Presso la Giunta Regionale, Assessorato al Turismo, sono tenuti ed aggiornati gli elenchi regionali delle guide, degli accompagnatori e degli interpreti turistici, ai quali rispettivamente devono essere iscritti tutti coloro che sono in possesso dell'idoneitè professionale. </corpo>
+                </comma>
+                <comma id="art15-com2">
+                    <num>
+ 
+2)</num>
+
+                    <corpo> Le guide, gli accompagnatori e gli interpreti già in possesso dell'attestato rilasciato ai sensi del <rif
+                            xlink:href="urn:nir:stato:regio.decreto:1931-06-18;773">R.D. 18 giugno 1931, n. 773</rif> e dell'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616#art19">art. 19 del D.P.R. 24 luglio 1977, n. 616</rif>, sono iscritti agli elenchi di cui al presente articolo, previa domanda da presentarsi all'Assessorato al Turismo della Regione Molise, entro sei mesi dalla data di entrata in vigore della presente legge. </corpo>
+                </comma>
+                <comma id="art15-com3">
+                    <num>
+ 
+3)</num>
+                    <corpo> L'Assessorato Regionale al Turismo comunica ai Comuni interessati le iscrizioni ai fini del rinnovo dell'attestato per l'esercizio dell'attivitè professionale. </corpo>
+                </comma>
+                <comma id="art15-com4">
+                    <num>
+ 
+4)</num>
+                    <corpo> I Comuni sono tenuti a trasmettere all'Assessorato Regionale al Turismo tutti i provvedimenti di rilascio, rinnovo, modifica e revoca dell'attestato, entro trenta giorni dalla loro adozione. </corpo>
+                </comma>
+                <comma id="art15-com5">
+                    <num>
+ 
+5)</num>
+                    <corpo> Ai fini della revoca dell'attestato è fatto salvo quanto disposto da norme penali o di pubblica sicurezza.  </corpo>
+                </comma>
+                <comma id="art15-com6">
+                    <num>
+ 
+6)</num>
+                    <corpo> Gli elenchi regionali delle guide, degli accompagnatori e degli interpreti turistici sono pubblicati annualmente sul Bollettino Ufficiale della Regione Molise. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art16">
+                <num>Art. 16</num>
+                <rubrica>: TESSERA DI RICONOSCIMENTO 
+ </rubrica>
+                <comma id="art16-com1">
+                    <num>
+1)</num>
+
+                    <corpo> A seguito dell'iscrizione negli elenchi di cui al predente <rif xlink:href="#art15">art.15</rif> l'Assessorato Regionale al Turismo rilascia agli interessati una tessera personale di riconoscimento ed un distintivo che deve essere tenuto bene in vista nell'espletamento dell'attivitè professionale. </corpo>
+                </comma>
+                <comma id="art16-com2">
+                    <num>
+ 
+2)</num>
+                    <corpo> La tessera di cui al comma precedente, munita di fotografia dell'intestatario, deve contenere i dati anagrafici dello stesso e le indicazioni della licenza comunale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art17">
+                <num>Art. 17 </num>
+                <comma id="art17-com1">
+                    <num>
+1)</num>
+                    <corpo> Le tariffe da applicare per le prestazioni professionali delle guide, degli interpreti e degli accompagnatori turistici, sono fissate dalla Giunta Regionale, sentite, se esistenti le organizzazioni di categoria maggiormente rappresentative a livello regionale. </corpo>
+                </comma>
+                <comma id="art17-com2">
+                    <num>
+ 
+2 )</num>
+                    <corpo> Per le iniziative turistiche a carattere sociale, ed in particolare per quelle a favore del turismo giovanile, studentesco, della terza etè e delle fasce sociali più bisognose, devono essere fissate tariffe preferenziali. </corpo>
+                </comma>
+                <comma id="art17-com3">
+                    <num>
+ 
+3)</num>
+                    <corpo> Sono fatte salve le disposizioni legislative nazionali ed internazionali, aventi efficacia interna, nonchè gli accordi contrattuali regolanti i rapporti giuridici tra le parti in ordine alle  prestazioni suddette. </corpo>
+                </comma>
+                <comma id="art17-com4">
+                    <num>
+ 
+4)</num>
+                    <corpo> Le tariffe di cui ai precedenti commi sono pubblicate sul Bollettino Ufficiale della Regione Molise. </corpo>
+                </comma>
+                <comma id="art17-com5">
+                    <num>
+ 
+5)</num>
+                    <corpo> è vietato applicare tariffe diverse da quelle comunicate ai sensi della presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art18">
+                <num>Art. 18</num>
+                <rubrica>: DIVIETI 
+ </rubrica>
+                <comma id="art18-com1">
+                    <num>
+1)</num>
+                    <corpo> Le guide, gli interpreti e gli accompagnatori turistici nell'esercizio delle loro funzioni, non possono esercitare attivitè estranee alla loro professione e, in particolare, attivitè di carattere commerciale. </corpo>
+                </comma>
+                <comma id="art18-com2">
+                    <num>
+ 
+2)</num>
+                    <corpo> Il divieto comprende, inoltre, l'esercizio di ogni attivitè in concorrenza con le agenzie di viaggi e l'accaparramento diretto od indiretto di clienti per conto di alberghi, agenzie di viaggi, pubblici esercizi o simili. </corpo>
+                </comma>
+                <comma id="art18-com3">
+                    <num>
+ 
+3)</num>
+                    <corpo> è fatto divieto ai titolari delle agenzie di viaggi, degli esercizi alberghieri ed extra alberghieri e dei pubblici esercizi in genere, di avvalersi o proporre per i servizi di guida turistica, di interprete e di accompagnatore turistico, soggetti privi della rispettiva licenza. </corpo>
+                </comma>
+                <comma id="art18-com4">
+                    <num>
+ 
+4)</num>
+
+                    <corpo> è fatto altresè divieto ai soggetti di cui al <rif
+                            xlink:href="#art18-com1">primo comma</rif>, di applicare tariffe differenti da quelle determinate ai sensi del <rif xlink:href="#art17">precedente art. 17</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art19">
+                <num>Art. 19</num>
+                <rubrica>: VIGILANZA E CONTROLLO 
+ </rubrica>
+                <comma id="art19-com1">
+                    <num>
+1)</num>
+                    <corpo> L'esercizio delle funzioni amministrative di vigilanza e controllo sull'attivitè professionale delle guide, degli accompagnatori e degli interpreti turistici, è demandato ai Comuni. Le sanzioni pecuniarie sono applicate dal Comune nel cui territorio è stata accertata la violazione. </corpo>
+                </comma>
+                <comma id="art19-com2">
+                    <num>
+ 
+2)</num>
+
+                    <corpo> L'accertamento delle violazioni e la irrogazione delle sanzioni pecuniarie di cui alla presente legge, sono effettuati secondo la <rif xlink:href="urn:nir:stato:legge:1981-11-24;689">legge 24 novembre 1981, n. 689</rif> e successive modificazioni ed   integrazioni. </corpo>
+                </comma>
+                <comma id="art19-com3">
+                    <num>
+ 
+3)</num>
+                    <corpo> I proventi delle sanzioni amministrative spettano ai Comuni sul cui territorio è stata accertata la violazione. </corpo>
+                </comma>
+                <comma id="art19-com4">
+                    <num>
+ 
+4)</num>
+                    <corpo> Il medesimo Comune provvede all'invio di verbali di accertamento delle infrazioni al Comune che ha rilasciato l'autorizzazione e all'Assessorato Regionale al Turismo. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art20">
+                <num>Art. 20</num>
+                <rubrica>: SANZIONI 
+ </rubrica>
+                <comma id="art20-com1">
+                    <num>
+1)</num>
+                    <corpo> L'esercizio delle attivitè professionali di cui alla presente legge, svolto senza l'autorizzazione rilasciata dal Comune, comporta l'applicazione della sanzione amministrativa da L. 1.000.000. a L. 5.000.000. </corpo>
+                </comma>
+                <comma id="art20-com2">
+                    <num>
+ 
+2)</num>
+
+                    <corpo> Chiunque eserciti le attivitè professionali di cui all'<rif xlink:href="#art1">art. 1</rif>, alle sanzioni amministrative da L. 500.000 a L. 2.500.000. </corpo>
+                </comma>
+                <comma id="art20-com3">
+                    <num>
+ 
+3)</num>
+                    <corpo> Chiunque, per lo svolgimento di una propria attivitè, si avvalga di soggetti non autorizzati all'esercizio delle professioni di cui alla presente legge, è soggetto alla sanzione amministrativa da L. 1.000.000 a L. 5.000.000. </corpo>
+                </comma>
+                <comma id="art20-com4">
+                    <num>
+ 
+4)</num>
+
+                    <corpo> Chiunque, per lo svolgimento di una propria attivitè, si avvalga di soggetti autorizzati ai sensi della presente legge per l'esercizio delle professioni di cui all'<rif xlink:href="#art1">art. 1</rif> al di fuori dei limiti risultanti dall'autorizzazione, è soggetto alla sanzione amministrativa da L. 500.000 a L. 2.500.000. </corpo>
+                </comma>
+                <comma id="art20-com5">
+                    <num>
+ 
+5)</num>
+
+                    <corpo> Chiunque contravvenga al divieto di cui al <rif xlink:href="#art17-com5">comma 5è dell'art.17</rif> è soggetto alla sanzione amministrativa da L. 500.000 a L.1.500.000. </corpo>
+                </comma>
+                <comma id="art20-com6">
+                    <num>
+ 
+6)</num>
+
+                    <corpo> Chiunque contravvenga ai divieti di cui all'<rif xlink:href="#art18">art. 18</rif> è soggetto alla sanzione amministrativa da L. 1.000.000 a L. 3.000.000. </corpo>
+                </comma>
+                <comma id="art20-com7">
+                    <num>
+ 
+7)</num>
+
+                    <corpo> Chiunque, in possesso di autorizzazione, eserciti attivitè professionale senza aver provveduto al rinnovo, cosè come disposto dall'<rif xlink:href="#art9">art 9</rif>, ovvero non presenta ad un controllo la tessera di identitè personale, ovvero non esibisca il segno distintivo, è soggetto alla sanzione amministrativa da L. 100.000 a L. 500.000. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art21">
+                <num>Art. 21</num>
+                <rubrica>: SOSPENSIONE E REVOCA 
+ </rubrica>
+                <comma id="art21-com1">
+                    <num>
+1)</num>
+
+                    <corpo> Il Comune che ha rilasciato l'autorizzazione provvede, a seguito delle comunicazioni di cui all'<rif
+                            xlink:href="#art19-com4">art. 19 comma 4</rif>, alla sospensione della medesima per un periodo da uno a sei mesi quando le infrazioni di cui all' <rif xlink:href="#art20">art. 20</rif>, commi 2, 3, 4, 5, 6, siano state commesse per la terza volta nell'arco di 2 anni. </corpo>
+                </comma>
+                <comma id="art21-com2">
+                    <num>
+ 
+2)</num>
+                    <corpo> Al di fuori dei casi previsti dal <rif xlink:href="#art21-com1">comma 1</rif>, il Comune che ha rilasciato l'autorizzazione puè provvedere, sentito l'interessato, alla sospensione dell'autorizzazione medesima per un periodo da uno a sei mesi, quando nei confronti della guida, dell'accompagnatore o dell'interprete turistico sia stata giudizialmente accertata la responsabilitè per illecito civile o penale commesso nell'esercizio della professione. </corpo>
+                </comma>
+                <comma id="art21-com3">
+                    <num>
+ 
+3)</num>
+                    <alinea> Il Comune che ha rilasciato l'autorizzazione provvede alla revoca qualora: 
+ 
+</alinea>
+                    <el id="art21-com3-leta">
+                        <num>a)</num>
+
+                        <corpo> il titolare perda taluno dei requisiti di cui all'<rif xlink:href="#art6-com1">art. 6 comma 1</rif> lettere b) e c);</corpo>
+                    </el>
+                    <el id="art21-com3-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> l'autorizzazione sia stata già sospesa ai sensi del presente articolo per due volte e sussistano i presupposti per una nuova sospensione;</corpo>
+                    </el>
+                    <el id="art21-com3-letc">
+                        <num> 
+ 
+c)</num>
+
+                        <corpo> nel caso in cui sia stata comunque rilasciata una nuova autorizzazione a chi abbia subito il provvedimento di revoca senza che sia trascorso il termine di cui al <rif xlink:href="#art21-com5">comma 5</rif>. </corpo>
+                    </el>
+                </comma>
+                <comma id="art21-com4">
+                    <num>
+ 
+4)</num>
+
+                    <corpo> In caso di sospensione e di revoca la Giunta Regionale provvede al ritiro della tessera di identitè personale e del distintivo di cui all'<rif xlink:href="#art16-com2">art. 16 comma 2</rif>. </corpo>
+                </comma>
+                <comma id="art21-com5">
+                    <num>
+ 
+5)</num>
+                    <corpo> Nel caso previsto dal <rif
+                            xlink:href="#art21-com3-leta">comma 3, lettera a)</rif>, qualora l'interessato riacquisti i necessari requisiti, l'autorizzazione puè essere nuovamente rilasciata; nel caso previsto dal <rif
+                            xlink:href="#art21-com3-letb">comma 3, lettera b)</rif>, l'autorizzazione non puè essere nuovamente rilasciata prima di tre anni; nel caso previsto dal <rif xlink:href="#art21-com3-letc">comma 3, lettera c)</rif>, l'autorizzazione non puè più essere rilasciata. </corpo>
+                </comma>
+                <comma id="art21-com6">
+                    <num>
+ 
+6)</num>
+                    <corpo> I provvedimenti di sospensione e revoca previsti dal presente articolo debbono essere notificati agli interessati. Copia del provvedimento deve essere inviata agli uffici della Giunta   Regionale -Assessorato al Turismo- per l'annotazione e l'eventuale ritiro. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art22">
+                <num>Art. 22</num>
+                <rubrica>: NORME SPECIALI 
+ </rubrica>
+                <comma id="art22-com1">
+                    <num>
+1)</num>
+                    <corpo> Le guide munite di autorizzazione, nell'esercizio della propria attivitè professionale, sono ammesse gratuitamente in tutti i musei, le gallerie, i monumenti di proprietè della Regione o di   Enti locali. </corpo>
+                </comma>
+                <comma id="art22-com2">
+                    <num>
+ 
+2)</num>
+                    <corpo> La disposizione di cui al <rif xlink:href="#art22-com1">primo comma</rif> si applica altresè agli interpreti turistici muniti di autorizzazione, nel caso in cui si affianchino alle guide turistiche. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art23">
+                <num>Art. 23</num>
+                <rubrica>: NORMA TRANSITORIA 
+ </rubrica>
+                <comma id="art23-com1">
+                    <num>
+1)</num>
+
+                    <corpo> Chiunque sia in possesso delle licenze rilasciate ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:regio.decreto:1931-06-18;773#art123">art. 123 del R.D. 18 giugno 1931, n. 773</rif> e dell'<rif
+                            xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616#art19">art. 19 del DPR 24 luglio 1977, n. 616</rif> alle guide, agli accompagnatori ed agli interpreti turistici, ha diritto ad ottenere l'autorizzazione di cui all'<rif xlink:href="#art5">art. 5</rif> ai sensi e per gli effetti della presente legge. </corpo>
+                </comma>
+                <comma id="art23-com2">
+                    <num>
+ 
+2)</num>
+                    <corpo> I Comuni, su istanza degli interessati, da presentarsi entro 30 giorni dall'entrata in vigore della presente legge, provvedono alla sostituzione della licenza ed al rilascio delle autorizzazioni agli idonei ai sensi della presente legge e ne danno tempestiva comunicazione alla Giunta Regionale - Assessorato al Turismo -. </corpo>
+                </comma>
+                <comma id="art23-com3">
+                    <num>
+ 
+3)</num>
+                    <corpo> La Giunta Regionale indice, entro sei mesi dall'entrata in vigore della presente legge, una sessione di esami di idoneitè per guida turistica, accompagnatore turistico ed interprete turistico. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art24">
+                <num>Art. 24</num>
+                <rubrica>: NORMA FINANZIARIA 
+ </rubrica>
+                <comma id="art24-com1">
+                    <num>
+1)</num>
+
+                    <corpo> Agli oneri derivani dall'applicazione della presente legge si farè fronte con appositi stanziamenti di Bilancio annuali sui corrispondenti capitoli di spesa. Il concorso spesa di cui all'<rif xlink:href="#art10">art.10</rif> punto 4 sarè introitato a decorrere dall'anno 1996 e per i successivi, sul cap. 10045 del Bilancio Regionale. </corpo>
+                </comma>
+                <comma id="art24-com2">
+                    <num>
+ 
+2)</num>
+
+                    <corpo> Le spese per il funzionamento della Commissione giudicatrice di cui all'<rif xlink:href="#art11-com4">art. 11, 4è comma</rif>, graveranno sul cap. 53511-Spese per il finanziamenti, compresi i gettoni di presenza ai componenti la Commissione per l'abilitazione a Direttore Tecnico di agenzie di viaggi, Guide, Interpreti ed Accompagnatori turistici - del Bilancio Regionale. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20060901" num="25" tipo="BURM"/>
+                <entratainvigore norm="20060916"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1991-11-04;20"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="06.consiglieri regionali e gruppi consiliari"/>
+                </materie>
+            </descrittori>
+        </meta><?error 06.Consiglieri regionali e gruppi consiliari 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 25 del 1 settembre 2006 
+ 
+Oggetto 
+Gruppi consiliari - ?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge regionale </tipoDoc>
+            <dataDoc
+                    norm="19911104">4 novembre 1991</dataDoc>n. <numDoc>20</numDoc> - <titoloDoc>Ulteriori modifiche ed integrazioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+<rif
+                    xlink:href="urn:nir:regione.molise:legge:2006-08-29;26">LEGGE REGIONALE 29 agosto 2006, n. 26</rif>. 
+ 
+Ulteriori modifiche ed integrazioni alla <rif xlink:href="urn:nir:regione.molise:legge:1991-11-04;20">legge regionale 4 novembre 1991, n. 20</rif>, ad oggetto: "Testo unico delle norme in materia di funzionamento e di assegnazione di personale ai Gruppi consiliari". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art1-com1-mod1">  All'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1991-11-04;4#art8">articolo 8 della legge regionale 4 novembre 1991, n. 4</rif>, recante: "<virgolette
+                                id="art1-com1-mod1-vir1"
+                                tipo="parola">Testo unico delle norme in materia di funzionamento e di assegnazione di personale ai Gruppi consiliari</virgolette>", dopo il comma 3 è aggiunto il seguente comma: 
+ 
+ 3-bis. Le spese assunte ai sensi del presente articolo possono essere coperte utilizzando quote del finanziamento dell'<rif xlink:href="#art3">articolo 3</rif> e viceversa.". 
+ 
+</mod>
+                    </corpo><?error Marker Warning 101 (last comma:1 next:3)?>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+Disposizioni transitorie 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo>  Le disposizioni della presente legge si applicano alla gestione dei fondi erogati ai Gruppi consiliari per i quali è ancora in corso l'esame della rendicontazione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+Pubblicazione 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo>  La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

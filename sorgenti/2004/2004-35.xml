@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20041231" num="29" tipo="BURM"/>
+                <entratainvigore norm="20050115"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2004-12-23;35"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="34.trasporti e viabilit&amp;#xe0;, navigazione nelle acque interne"/>
+                </materie>
+            </descrittori>
+        </meta><?error 34.Trasporti e viabilit&#xE0;, navigazione nelle acque interne 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 29 del 31 dicembre 2004 
+ 
+Oggetto 
+Trasporti pubblici -Viaggiatori sprovvisti di documento di viaggio - Sanzioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20041223">23 dicembre 2004</dataDoc>, n. <numDoc>35</numDoc>. 
+ 
+<titoloDoc>Modifica dell'<rif xlink:href="urn:nir:regione.molise:legge:1984;19#art38">articolo 38 della legge regionale n. 19/ 1984</rif>, ad oggetto: "Norme in materia di trasporti di competenza regionale - Deleghe". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art1-com1-mod1"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:1984-08-20;19#art38-com6">sesto comma dell'articolo 38 della legge regionale 20 agosto 1984, n. 19</rif>: "<virgolette
+                                id="art1-com1-mod1-vir1"
+                                tipo="parola">Norme in materia di trasporti di competenza regionale ? Deleghe</virgolette>" è sostituito dal seguente: 
+ 
+"<virgolette
+                                id="art1-com1-mod1-vir2" tipo="struttura">
+                                <comma id="art1-com1-mod1-vir2-com0">
+                                    <num>6.</num>
+                                    <corpo> I viaggiatori dei mezzi di pubblico trasporto, compresi i servizi ferroviari di competenza regionale, sprovvisti di valido documento di viaggio sono tenuti, oltre al pagamento del normale biglietto a tariffa ordinaria, anche al pagamento di una sanzione amministrativa pari ad Euro 10 qualora il pagamento avvenga sul mezzo di trasporto e ad Euro 15 negli altri casi. La sanzione amministrativa non è dovuta se il viaggiatore dimostri, entro due giorni dal riscontro, di essere in possesso di valido documento di abbonamento</corpo>
+                                </comma>
+                            </virgolette>". 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

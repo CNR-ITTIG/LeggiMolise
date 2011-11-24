@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20041231" num="29" tipo="BURM"/>
+                <entratainvigore norm="20050115"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2004-12-23;37"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x96; N. 29 del 31 dicembre 2004 
+ 
+Oggetto 
+Istituzione della Commissione per l'Autoriforma del Molise - Proroga -Modifiche ed integrazioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc
+                    norm="20041223">23 dicembre 2004</dataDoc>, n. <numDoc>37</numDoc>. 
+ 
+<titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:2002-04-22;3">legge regionale 22 aprile 2002, n. 3</rif>, ad oggetto: "Commissione per l'Autoriforma del Molise". 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art1-com1-mod1"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:2002-04-22;3#art1-com3">comma 3 dell'articolo 1 della legge regionale 22 aprile 2002, n. 3</rif> è sostituito dal presente: 
+ 
+è<virgolette
+                                id="art1-com1-mod1-vir1" tipo="struttura">
+                                <comma id="art1-com1-mod1-vir1-com0">
+                                    <num>3.</num>
+                                    <corpo> La Commissione dura in carica dalla data di entrata in vigore della presente legge fino al 31 dicembre 2005.</corpo>
+                                </comma>
+                            </virgolette>è. 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art2-com1-mod2"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:2002-04-22;3#art2-com3">comma 3 dell'articolo 2 della legge regionale 22 aprile 2002, n. 3</rif> è sostituito dal presente: 
+ 
+è<virgolette
+                                id="art2-com1-mod2-vir2" tipo="struttura">
+                                <comma id="art2-com1-mod2-vir2-com0">
+                                    <num>3.</num>
+                                    <corpo> I1 Presidente, il Vice Presidente ed il Segretario della Commissione sono rinnovati ogni sei mesi, al fine di consentire in ciascuna delle predette cariche l'alternanza tra rappresentanti dei gruppi politici di maggioranza e rappresentanti dei gruppi politici di minoranza.&gt;&gt;. 
+ 
+</corpo>
+                                </comma>
+                                <articolo id="art0">
+                                    <num>Art. 3 </num>
+                                    <rubrica/>
+                                    <comma id="art0-com1">
+                                    <num>
+1.</num>
+                                    <corpo> Il Presidente, il Vice Presidente ed il Segretario della Commissione per l'Autoriforma del Molise che risultano in carica alla data di entrata in vigore della presente legge sono prorogati fino al 30 giugno 2005. Al Presidente. al Vice Presidente ed al Segretario, in carica alla data di entrata in vigore della presente legge, subentrano dal 1è luglio 2005 i Consiglieri che li hanno immediatamente preceduti nelle rispettive cariche. 
+ 
+</corpo>
+                                    </comma>
+                                </articolo>
+                                <articolo id="art1">
+                                    <num>Art. 4 </num>
+                                    <rubrica/>
+                                    <comma id="art1-com1">
+                                    <num>
+1.</num>
+                                    <corpo> Agli oneri derivanti dall'applicazione della presente legge ? previsti in Euro 80.000,00 ? si farè fronte con la legge di approvazione del bilancio regionale di previsione per l'anno 2005. 
+ 
+</corpo>
+                                    </comma>
+                                </articolo>
+                                <articolo id="art1">
+                                    <num>Art. 5 </num>
+                                    <rubrica/>
+                                    <comma id="art1-com1">
+                                    <num>
+1.</num>
+                                    <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. 
+ 
+ La presente legge sarè pubblicata nel Bollettino Ufficiale della Regione. è fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+</corpo>
+                                    </comma>
+                                </articolo>
+                            </virgolette>
+                        </mod>
+                    </corpo>
+                </comma>
+            </articolo><?error Marker Warning 105?>
+        </articolato>
+        <formulafinale/>
+        <conclusione/>
+    </LeggeRegionale>
+</NIR>

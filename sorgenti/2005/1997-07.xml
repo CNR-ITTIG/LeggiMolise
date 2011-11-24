@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20051001" num="28" tipo="BURM"/>
+                <entratainvigore norm="20051016"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1997-04-08;7"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 28 del 1 ottobre 2005 
+ 
+Oggetto 
+Amministrazione regionale - Modifiche ed integrazioni alla ?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>L.R. </tipoDoc>
+            <dataDoc norm="19970408">8 aprile 1997</dataDoc>n. <numDoc>7</numDoc>
+            <titoloDoc>come modificata dalla <rif
+                    xlink:href="urn:nir:regione.molise:legge:2002-05-28;6">L.R. 28 maggio 2002 n. 6</rif> 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato <rif
+                    xlink:href="#art2">art. 2</rif> dalla <rif xlink:href="urn:nir:stato:legge:2006;33">legge n. 33/2006</rif>
+                <rif
+                    xlink:href="urn:nir:regione.molise:legge:2005-09-26;30#art1">art. 1 
+ 
+LEGGE REGIONALE 26 settembre 2005, n. 30</rif>. 
+ 
+Modifiche ed integrazioni alla <rif
+                    xlink:href="urn:nir:regione.molise:legge:1997-04-08;7">legge regionale n. 7 dell'8 aprile 1997</rif> come modificata dalla <rif xlink:href="urn:nir:regione.molise:legge:2002-05-28;6">legge regionale 28 maggio 2002, n. 6</rif>. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art1-com1-mod1"> Il <rif
+                                xlink:href="urn:nir:regione.molise:legge:1997-04-08;7#art29bis-com2">comma 2 dell'articolo 29 bis della legge regionale 8 aprile 1997, n. 7</rif>, introdotto dall'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2002-05-28;6#art11">articolo 11 della legge regionale 28 maggio 2002, n. 6</rif>, è cosè sostituito: 
+ 
+"<virgolette
+                                id="art1-com1-mod1-vir1" tipo="struttura">
+                                <comma id="art1-com1-mod1-vir1-com0">
+                                    <num>2.</num>
+                                    <corpo> L'istituto, anche in relazione ai nuovi assetti organizzativi discendenti dalla applicazione della presente legge, concorre alla rimodulazione ed all'armonizzazione delle funzioni amministrative assegnate al personale dipendente della Regione Molise, che richiedono professionalitè lavorative qualificate e che comportano un elevato grado di responsabilitè e di autonomia operativa ed organizzativa</corpo>
+                                </comma>
+                            </virgolette>". 
+ 
+</mod>
+                    </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art2-com1-mod2"> All'<rif
+                                xlink:href="urn:nir:regione.molise:legge:1997-04-08;7#art29bis">articolo 29 bis della legge regionale 8 aprile 1997, n. 7</rif>, introdotto dall'<rif
+                                xlink:href="urn:nir:regione.molise:legge:2002-05-28;6#art11">articolo 11 della legge regionale 28 maggio 2002, n. 6</rif>, sono aggiunti, dopo i commi 1 e 2, i seguenti: 
+ 
+"<virgolette
+                                id="art2-com1-mod2-vir2" tipo="struttura">
+                                <comma id="art2-com1-mod2-vir2-com0">
+                                    <num>3.</num>
+                                    <corpo> Le funzioni di cui al comma 2 consistono nelle attivitè di collaborazione con il personale dirigente, funzionali al raggiungimento degli obiettivi di risultato assegnati ed, in generale, all'efficacia dell'azione amministrativa, nelle attivitè di organizzazione e gestione degli uffici regionali, nelle attivitè connesse alla gestione di procedimenti e procedure amministrative, nelle attivitè di studio, di ricerca e di elaborazione di atti complessi. </corpo>
+                                </comma>
+                                <comma id="art2-com1-mod2-vir2-com4">
+                                    <num>
+ 
+4.</num>
+                                    <corpo>  Le attivitè di cui al comma 3 sono proprie del personale di comparto inquadrato nel ruolo unico regionale nella categoria </corpo>
+                                </comma>
+                            </virgolette>"D"<virgolette
+                                id="art2-com1-mod2-vir3"
+                                tipo="parola"> prevista dal vigente contratto collettivo nazionale di lavoro del 31 marzo 1999, e successive modificazioni ed integrazioni, nonchè del personale della categoria </virgolette>"D"<virgolette
+                                id="art2-com1-mod2-vir4"
+                                    tipo="parola"> comandato ai sensi della <rif xlink:href="urn:nir:stato:legge:1999-07-28;266">legge 28 luglio 1999, n. 266</rif>. <h:br/>
+                                <h:br/>
+5. Al personale indicato nel comma 4 è riconosciuta, in aggiunta al trattamento economico in godimento, un'indennità annuale, pensionabile, che è parte integrante della retribuzione. Tale personale conserva la posizione giuridica ed economica posseduta, o che andrè a conseguire per effetto cli progressioni verticali di carriera o di progressioni orizzontali nella categoria. <h:br/>
+                                <h:br/>
+6.  L'indennità di cui al comma 5 è dovuta a prescindere dagli incarichi ricoperti. Essa non è cumulabile con quella riconosciuta ai dipendenti incaricati della responsabilitè di posizione organizzativa di cui agli artt. 8, 9 e 10 del contratto collettivo nazionale di lavoro del 31 marzo 1999 e del contratto decentrato integrativo. La sua corresponsione è sospesa per tutto il periodo in cui i dipendenti interessati sono incaricati della responsabilitè di posizione organizzativa. <h:br/>
+                                <h:br/>
+6BIS. L'indennità prevista nel comma 5 non è altresè cumulabile con gli emolumenti accessori relativi alla produttivitè e ad indennità di responsabilitè non rapportate ad incarichi di unitè operative organiche (uffici). è invece cumulabile con le indennità che derivano da risorse che specifiche disposizioni di legge finalizzano alla incentivazione delle prestazioni. <h:br/>
+                                <h:br/>
+7.  L'indennità di cui al comma 5 è commisurata all'importo massimo della retribuzione di posizione prevista dall'art. 10, comma 2, del contratto collettivo nazionale di lavoro del personale del comparto del 31 marzo 1999, secondo le seguenti percentuali: <h:br/>
+
+                                <h:br/>
+a) personale dipendente inquadrato nella categoria </virgolette>"D"<virgolette
+                                id="art2-com1-mod2-vir5">, profili professionali </virgolette>"Dl"<virgolette
+                                id="art2-com1-mod2-vir6" tipo="parola"> = 50% dell'importo massimo della retribuzione di posizione prevista dall'articolo 10, comma 2, del contratto collettivo nazionale di lavoro del personale del comparto del 31 marzo 1999; <h:br/>
+
+                                <h:br/>
+b) personale dipendente inquadrato nella categoria </virgolette>"D"<virgolette
+                                id="art2-com1-mod2-vir7">, profili professionali </virgolette>"D3"<virgolette
+                                id="art2-com1-mod2-vir8" tipo="parola"> = 80% dell'importo massimo della retribuzione di posizione prevista dall'articolo 10, comma 2, del contratto collettivo nazionale di lavoro del personale del comparto del 31 marzo 1999. <h:br/>
+
+                                <h:br/>
+8.  L'indennità di cui al comma 5 è corrisposta, a decorrere dal 1è luglio 2005, al personale regionale inquadrato nella categoria </virgolette>"D"<virgolette
+                                id="art2-com1-mod2-vir9">. Al personale regionale inquadrato nella categoria </virgolette>"D"<virgolette
+                                id="art2-com1-mod2-vir10">, in profili professionali ascritti alla posizione giuridica </virgolette>"D3"<virgolette
+                                id="art2-com1-mod2-vir11"
+                                tipo="parola">, essa viene corrisposta, per la prima annualitè, in misura del 40% del suo ammontare, per la seconda annualitè in misura dell'80% del suo ammontare; dalla terza annualitè, l'indennità verrè corrisposta per intero. Al personale regionale inquadrato nella categoria </virgolette>"D"<virgolette
+                                id="art2-com1-mod2-vir12" tipo="parola">, in profili professionali ascritti alla posizione giuridica 'Dl</virgolette>", essa viene corrisposta, per la prima annualitè, in misura del 40% del suo ammontare, per la seconda annualitè in misura dell'80% del suo ammontare; dalla terza annualitè, l'indennità verrè corrisposta per intero. 
+ 
+9.  Al fine di armonizzare l'erogazione dell'indennità di cui alla presente legge con quanto disposto nel comma 6 bis, la corresponsione degli emolumenti relativi alla produttivitè individuale è dovuta rispettivamente per le annualitè previste dal comma 8, nelle misure del 60% e del 20% dell'importo calcolato secondo le metodologie previste dai contratti decentrati integrativi. 
+ 
+10. Al fine del raggiungimento di maggiori indici di efficienza, dalla terza annualitè, il 20% dell'indennità di cui al comma 7 viene erogata al dipendente a seguito della valutazione positiva del rendimento. La valutazione viene effettuata dal dirigente responsabile della struttura a cui risulta assegnato il dipendente, con cadenza annuale, e secondo i sistemi di valutazione previsti per l'erogazione della produttivitè individuale. La valutazione si intende positiva se al dipendente viene attribuito un punteggio non inferiore all'80% del punteggio massimo previsto dai sistemi predetti. 
+ 
+11. I dipendenti accedono all'indennità di cui al comma 5 al maturare di due anni di servizio nella categoria e profilo professionale "D1" e "D3" e nel limite del contingente di posti pari a: n. 195 del-la categoria e profilo professionale "D1"e n. 196 della categoria e profilo professionale "D3", corrispondente al personale di ruolo in servizio alla data del 31 dicembre 2004; gli aventi diritto vengono inseriti in un'apposita graduatoria formulata secondo i seguenti criteri di precedenza a paritè di possesso del requisito di accesso: 
+ 
+maggiore anzianitè di ruolo nella categoria o ex livello di appartenenza; 
+ 
+ maggiore anzianitè di ruolo nella Regione Molise; 
+ 
+ maggiore etè anagrafica. 
+ 
+Qualora il requisito venga maturato in un giorno diverso dal primo giorno del mese la decorrenza dell'indennità è fissata al primo giorno del mese successivo. 
+ 
+12. L'erogazione delle indennità secondo le percentuali di cui al comma 8 avviene al maturate rispettivamente del terzo e del quarto anno di anzianitè nella categoria e profilo professionale di appartenenza. 
+ 
+13. Ai dipendenti in possesso della categoria e pro-filo professionale "DI" ai quali viene attribuito, per effetto di uno sviluppo di carriera, il profilo professionale superiore "D3" se l'importo dell'indennità già percepita è superiore all'importo iniziale previsto per il primo anno di erogazione dell'indennità, l'indennità percepita viene confermata fino alla maturazione dell'importo successivo, previsto nel comma 8". 
+ 
+</mod>
+                    </corpo><?error Marker Warning 101 (last comma:1 next:9)?>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Alla copertura degli oneri derivanti dalla presente legge si fa fronte mediante l'istituzione ed il finanziamento, per ciascun esercizio finanziario, di un apposito capitolo di spesa titolato "indennità per il personale incaricato delle funzioni amministrative di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7#art29bis">art. 29 bis della legge regionale 8 aprile 1997, n. 7</rif>, e successive modificazioni ed integrazioni". </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Per l'esercizio finanziario 2005 gli oneri derivanti dall'applicazione della presente legge, quantificati nella misura di Euro 650.000, 00 (Euro SEICENTOCINQUANTAMILA /00), troveranno copertura finanziaria nella U.P.B. del personale, che presenta sufficiente disponibilitè. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

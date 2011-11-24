@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19970416" num="8" tipo="BURM"/>
+                <entratainvigore norm="19970501"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1997-04-11;9"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="08.demanio e patrimonio, beni di uso civico"/>
+                </materie>
+            </descrittori><ciclodivita><eventi><evento data="20030531" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2003;17" xlink:type="simple"/></relazioni></ciclodivita>
+        </meta><?error 08.Demanio e patrimonio, beni di uso civico 
+38.Valorizzazione dei beni culturali e ambientali, impatto ambientale 
+ 
+Bollettino 
+Bollettino Ufficiale n. 08 del 16/04/97 
+ 
+Oggetto 
+Demanio - Tratturi - Tutela valorizzazione e gestione - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 7 dalla legge n. 17/2003 art. 1 
+Modificato art. 13 dalla legge n. 17/2003 art. 2 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19970411">11 Aprile 1997</dataDoc>, n. <numDoc>9</numDoc>
+            <titoloDoc>Tutela, valorizzazione e gestione del demanio tratturi. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1</num>
+                <rubrica>: DEMANIO TRATTURI REGIONALE 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+
+                    <corpo> I tratturi, tratturelli, bracci e riposi siti nell'ambito del territorio della Regione Molise, in quanto strumentali alle funzioni amministrative trasferite alla Regione, ai sensi del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616">D.P.R. 24 luglio 1977, n. 616</rif>, costituiscono parte del Demanio Regionale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2</num>
+                <rubrica>: ESERCIZIO DELLE FUNZIONI IN MATERIA DI DEMANIO TRATTURALE 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> Le funzioni amministrative concernenti il demanio Regionale e la gestione di esso sono esercitate dalla Regione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3</num>
+                <rubrica>: RICOGNIZIONE E REINTEGRA DEL SUOLO TRATTURALE 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> La Regione provvede, sulla base di titoli probatori, carte descrittive, elenchi, tracce esistenti sul territorio ed ogni altro possibile elemento, all'accertamento, alla ricognizione della consistenza ed alla conseguente reintegra del suolo tratturale, allo scopo di procedere alla sua definitiva destinazione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4</num>
+                <rubrica>: TRATTURI DA CONSERVARE AL DEMANIO REGIONALE 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <corpo> I tratturi, in quanto beni di notevole interesse storico, archeologico, naturalistico e paesaggistico, nonchè utili all'esercizio dell'attivitè armentizia, vengono conservati al demanio regionale e costituiscono un sistema organico della rete tratturale denominato è Parco dei tratturi del Molise. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> I tratturi, come sopra definiti, vengono gestiti ed amministrati dalla Regione nel rispetto dei vincoli disposti dal Ministero per i Beni Culturali ed Ambientali, ai sensi della <rif xlink:href="urn:nir:stato:legge:1939-06-01;1089">legge 1[ giugno 1939, n. 1089</rif>. </corpo>
+                </comma>
+                <comma id="art4-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La Giunta Regionale provvederè ad elaborare 1'elenco dei suoli tratturali costituenti il &lt;&lt;Parco dei tratturi del Molise &gt;&gt;, cosè come sopra definito, da sottoporre all'approvazione del Consiglio Regionale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5</num>
+                <rubrica>: OPERE DI INTERESSE PUBBLICO INSISTENTI SUL DEMANIO REGIONALE 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo> I suoli tratturali, su cui già insistono opere pubbliche, o comunque di pubblico interesse, vengono trasferiti a titolo gratuito agli Enti pubblici e territoriali, salvaguardando la continuitè del percorso tratturale o recuperandola con possibili varianti. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Tutti gli oneri connessi alle operazioni di cui al precedente articolo sono a carico degli Enti a cui verranno trasferiti i suoli. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art. 6</num>
+                <rubrica>: TRATTURI DA SCLASSIFICARE ED ALIENARE 
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <corpo> La Giunta Regionale sentiti i Comuni interessati, provvederè ad elaborare l'elenco dei suoli tratturali irrimediabilmente compromessi dalla presenza di manufatti e strutture non amovibili. Per tali suoli si prevede la sdemanializzazione e vendita. </corpo>
+                </comma>
+                <comma id="art6-com2">
+                    <num>
+ 
+2.</num>
+
+                    <alinea> A seguito dell'approvazione da parte del Consiglio Regionale dell'elenco di cui al <rif xlink:href="#art6-com1">primo comma</rif>, il Presidente della Giunta Regionale provvederè alla sclassificazione ed alla  alienazione dei suoli tratturali per i quali è prevista la vendita, salvaguardando la continuitè del percorso tratturale, secondo le seguenti prioritè: 
+ 
+</alinea>
+                    <el id="art6-com2-leta">
+                        <num>a)</num>
+                        <corpo> possessori attuali, o loro eredi, sulla base di titolo legittimo. </corpo>
+                    </el>
+                </comma>
+                <comma id="art6-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Il prezzo di vendita è calcolato sulla base della normativa vigente in materia di esproprio ed è riferito al terreno non migliorato. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art. 7</num>
+                <rubrica>: PIANO DI ALIENAZIONE 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <corpo> I soggetti di cui all'<rif xlink:href="#art6">art. 6</rif> interessati all'acquisto dei terreni tratturali, potranno presentare, entro due anni dall'entrata in vigore della presente legge, apposita domanda all'Assessoarto Regionale all'Agricoltura e Foreste. </corpo>
+                </comma>
+                <comma id="art7-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> Entro i sei mesi successivi, tenuto conto delle domande di acquisto pervenute, 1a Regione elabora il piano di alienazione dei propri terreni, di cui all'<rif xlink:href="#art6-com1">articolo 6, comma 1</rif>. </corpo>
+                </comma>
+                <comma id="art7-com3">
+                    <num>
+ 
+3.</num>
+                    <alinea> Il piano dovrè contenere: 
+ 
+</alinea>
+                    <el id="art7-com3-leta">
+                        <num>a)</num>
+
+                        <corpo> l'elenco degli acquirenti secondo quanto stabilito dal <rif xlink:href="#art6">precedente articolo 6</rif>;</corpo>
+                    </el>
+                    <el id="art7-com3-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> i prezzi di vendita, stabiliti sulla base del valore dei suoli nudi al momento della compilazione del piano;</corpo>
+                    </el>
+                    <el id="art7-com3-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> una relazione generale. </corpo>
+                    </el>
+                </comma>
+                <comma id="art7-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> I possessori dei terreni tratturali che intendono procedere all'acquisto ai sensi della presente legge sono comunque tenuti al pagamento delle somme dovute e non corrisposte per canoni pregressi e sanzioni a norma delle disposizioni di legge vigenti in materia. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art. 8</num>
+                <rubrica>: PIANO DI VALORIZZAZIONE DEI TRATTURI 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+                    <corpo> La Giunta Regionale, sentiti i Comuni, le Province, le Comunitè Montane interessate nonchè le organizzazioni professionali agricole, naturalistiche e del tempo libero maggiormente rappresentative, provvede all'elaborazione del piano di valorizzazione dei tratturi costituenti il &lt;&lt;Parco dei tratturi&gt;&gt; che potrè collegarsi con altri piani similari. </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo>Il piano di valorizzazione dei tratturi verrè sottoposto all'approvazione del Consiglio Regionale. </corpo>
+                </comma>
+                <comma id="art8-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Il piano prevederè le destinazioni, le modalitè e gli organi di gestione dei suoli tratturali ed è immediatamente vincolante nei confronti delle amministrazioni pubbliche e dei privati. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art. 9</num>
+                <rubrica>: INTESE INTERREGIONALI 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La Regione Molise, ai sensi degli articoli 8 e 66 del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616">D.P.R. 24 luglio 1977, n. 616</rif>, promuove intese con le altre Regioni interessate, al fine di giungere all'adozione di un piano interregionale di valorizzazione dei tratturi, mediante un coordinamento delle rispettive strutture. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art. 10</num>
+                <rubrica>: VIGILANZA E SANZIONI 
+ </rubrica>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+                    <corpo> Ai sensi dell'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616#art78">art. 78 del D.P.R. 24 luglio 1977, n. 616</rif>, i Comuni territorialmente interessati esercitano le funzioni amministrative relative alla vigilanza sull'integritè e conservazione dei fondi tratturali nonchè sull'osservanza delle utilizzazioni prescritte e delle servitè riconosciute. </corpo>
+                </comma>
+                <comma id="art10-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Le repressioni degli abusi e l'applicazione delle relative sanzioni sono demandate alla struttura regionale competente al contenzioso, alla quale i Comuni inoltreranno i relativi rapporti. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11</num>
+                <rubrica>: FONDO PER LA TUTELA E VALORIZZAZIONE DEL SUOLO TRATTURALE 
+ </rubrica>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+                    <corpo> Al finanziamento degli interventi previsti dalla presente legge si provvede con i proventi derivanti dalle entrate annuali per le concessioni e vendite e con altri fondi Comunitari, Nazionali e Regionali. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art12">
+                <num>Art. 12</num>
+                <rubrica>: NORMA FINANZIARIA 
+ </rubrica>
+                <comma id="art12-com1">
+                    <num>
+1.</num>
+                    <corpo> All'onere derivante dall'attuazione della presente legge si provvede con l'istituzione di appositi capitoli di spesa con legge approvativa del bilancio 1997. </corpo>
+                </comma>
+                <comma id="art12-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Per gli esercizi successivi si provvedera con le relative leggi di bilancio. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art13">
+                <num>Art. 13</num>
+                <rubrica>: NORME FINALI E TRANSITORIE 
+ </rubrica>
+                <comma id="art13-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Dalla data di entrata in vigore della presente legge, potranno essere rilasciati rinnovi e nuove concessioni di suoli tratturali solo se conformi alle previsioni dell' elenco formulato ai sensi dell'<rif
+                            xlink:href="#art4">art. 4</rif> ed al Piano di cui all'<rif xlink:href="#art8">art. 8</rif>. </corpo>
+                </comma>
+                <comma id="art13-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Per il raggiungimento di fondi interclusi puè essere autorizzato il passaggio e transito gratuitamente, purchè non comporti modifiche alcune alla situazione dei luoghi. </corpo>
+                </comma>
+                <comma id="art13-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Le concessioni di suoli tratturali preesistenti all'entrata in vigore della presente legge sono da considerarsi legittime, anche se scadute. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

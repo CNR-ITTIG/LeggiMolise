@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20030516" num="10" tipo="BURM"/>
+                <entratainvigore norm="20030531"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2003-05-07;19"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori><ciclodivita><eventi><evento data="20050616" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2005;21" xlink:type="simple"/></relazioni></ciclodivita>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 10 del 16 maggio 2003 
+ 
+Oggetto 
+Istituzione della Commissione per la cooperazione interregionale nell'area adriatica. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 21/2005 art. 1 
+Modificato art. 4 dalla legge n. 21/2005 art. 2 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20030507">7 maggio 2003</dataDoc>, n. <numDoc>19</numDoc>. 
+ 
+<titoloDoc>Commissione per la cooperazione interregionale nell'area adriatica. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art. 1 </num>
+                <rubrica>
+ 
+(Istituzione e compiti della Commissione) 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+
+                    <corpo> è istituita, presso il Consiglio regionale del Molise, una Commissione speciale, ai sensi dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art18">articolo 18 dello Statuto</rif>, denominata: "Commissione per la cooperazione interregionale nell'area adriatica". </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+                    <alinea> La Commissione ha il compito di: 
+ 
+</alinea>
+                    <el id="art1-com2-leta">
+                        <num>a)</num>
+                        <corpo> monitorare le attivitè di cooperazione in atto tra le regioni, le province, i comuni, le camere di commercio, le istituzioni universitarie e scolastiche dei seguenti paesi: Italia, Slovenia, Croazia, Bosnia-Erzegovina, Serbia - Montenegro, Albania e Grecia;</corpo>
+                    </el>
+                    <el id="art1-com2-letb">
+                        <num> 
+ 
+b)</num>
+
+                        <corpo> elaborare una proposta finalizzata alla creazione di un organismo rappresentativo degli enti di cui alla <rif xlink:href="#art1-com2-leta">precedente lettera "a</rif>" che, in raccordo con Adriamed e sue evoluzioni, individui e coordini strategie per il rafforzamento della cooperazione tra le due sponde dell'Adriatico. La cooperazione multisettoriale, rispettosa di uno sviluppo sostenibile, riguarda l'ambiente, i prodotti di qualità, l'istruzione, la formazione, la ricerca scientifica e la cultura. </corpo>
+                    </el>
+                </comma>
+                <comma id="art1-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La Commissione dura in carica due anni dalla data di entrata in vigore della presente legge. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art. 2 </num>
+                <rubrica>
+ 
+(Elezione del Presidente e dell'Ufficio di presidenza) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <alinea> La Commissione è costituita da: 
+ 
+</alinea>
+                    <el id="art2-com1-leta">
+                        <num>a)</num>
+                        <corpo> Presidente della Regione o da un consigliere da lui delegato con funzione di Presidente della Commissione stessa;</corpo>
+                    </el>
+                    <el id="art2-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> 6 consiglieri regionali di cui, pariteticamente 3 indicati dai gruppi di maggioranza e 3 indicati dai gruppi di opposizione. </corpo>
+                    </el>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La Commissione elegge al suo interno il Vice Presidente ed il Segretario. Il Presidente, il Vice Presidente ed il Segretario costituiscono l'Ufficio di presidenza. </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num>
+ 
+3.</num>
+                    <alinea> La Commissione ha facoltè di: 
+ 
+</alinea>
+                    <el id="art2-com3-leta">
+                        <num>a)</num>
+                        <corpo> avvalersi della consulenza di 2 esperti qualificati;</corpo>
+                    </el>
+                    <el id="art2-com3-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> promuovere incontri e scambi di informazione con soggetti istituzionali ed analoghi organismi di altre istituzioni regionali e locali dell'area adriatica;</corpo>
+                    </el>
+                    <el id="art2-com3-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> indire seminari e convegni;</corpo>
+                    </el>
+                    <el id="art2-com3-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> tenere incontri con i rappresentanti delle autonomie, delle categorie sociali ed economiche, con l'Universitè e con qualunque forma di organizzazione dei cittadini;</corpo>
+                    </el>
+                    <el id="art2-com3-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> porre in essere ogni altra iniziativa o attivitè utile all'assolvimento dei suoi compiti. </corpo>
+                    </el>
+                </comma>
+                <comma id="art2-com4">
+                    <num>
+ 
+4.</num>
+
+                    <corpo> Il Consiglio regionale provvede a fornire alla Commissione locali, strumentazioni e personale occorrenti per il suo funzionamento, nonchè personale di segreteria per il Presidente della Commissione e dell'Ufficio di presidenza, nel numero massimo di due unitè, nel rispetto delle previsioni dell'<rif xlink:href="urn:nir:regione.molise:legge:1991-09-12;15#art8">articolo 8 della legge regionale 12 settembre 1991, n. 15</rif>. </corpo>
+                </comma>
+                <comma id="art2-com5">
+                    <num>
+ 
+5.</num>
+
+                    <corpo> Salvo quanto previsto dalla presente legge, lo <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto regionale</rif> ed il regolamento interno del Consiglio disciplinano l'organizzazione ed il funzionamento della Commissione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art. 3 </num>
+                <rubrica>
+ 
+(Disposizioni procedurali) 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> La Commissione, su questioni di particolare rilievo, puè relazionare al Consiglio regionale per trarne orientamenti ed indirizzi. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> La Commissione trasmette al Presidente del Consiglio regionale le proposte di cui, all'<rif xlink:href="#art1-com2">articolo 1, comma 2</rif>, corredate di relazione illustrativa e di eventuali relazioni di minoranza. 
+ 
+2.    Entro 30 giorni dalla trasmissione delle proposte, ciascun consigliere puè presentare al Presidente del Consiglio emendamenti, sui quali la Commissione si pronuncia nei successivi 60 giorni. 
+</corpo><?error Marker Warning 101 (last comma:2 next:2)?>
+                </comma>
+                <comma id="art3-com3">
+                    <num> 
+3.</num>
+                    <corpo> Terminato l'esame degli emendamenti da parte della Commissione, le proposte sono iscritte all'ordine del giorno dell'Assemblea. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <rubrica>
+ 
+(Norma finanziaria) 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+                    <corpo> Agli oneri derivanti dall'applicazione della presente legge, quantificati per il corrente anno in Euro 120.000 (CENTOVENTIMILA), si provvederè mediante la previsione di appositi stanziamenti con la legge di approvazione del bilancio per l'anno 2003. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> In deroga alla vigente normativa in materia di contabilitè, l'ufficio di presidenza della Commissione ha autonomia di spesa, nel limite dello <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto</rif>, con impegno di rendicontazione all'Ufficio di presidenza del Consiglio regionale. </corpo>
+                </comma>
+                <comma id="art4-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo>  Anche per gli esercizi successivi l'onere annuale della spesa sarè determinato con la legge di approvazione dei relativi bilanci annuali. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art. 5 </num>
+                <rubrica>
+ 
+(Dichiarazione d'urgenza) 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge è dichiarata urgente ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione, &#xC8; fatto obbligo a chiunque spetti di 
+ 
+osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

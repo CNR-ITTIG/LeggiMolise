@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20000415" num="8" tipo="BURM"/>
+                <entratainvigore norm="20000430"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2000-04-13;23"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
+                </materie>
+            </descrittori><ciclodivita><eventi><evento data="20050531" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2005;18" xlink:type="simple"/></relazioni></ciclodivita>
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+ 
+Bollettino 
+Bollettino Ufficiale n. 8 del 15 aprile 2000 
+ 
+Oggetto 
+Commissione regionale per le parit&#xE0; e le pari opportunit&#xE0; - Nuova disciplina - Funzioni compiti e composizione 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 1 dalla legge n. 18/2005 art. 1 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20000413">13 aprile 2000</dataDoc>, n. <numDoc>23</numDoc>. 
+ 
+<titoloDoc>Nuova disciplina della Commissione regionale per la paritè e le pari opportunitè. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>Art.1 </num>
+                <rubrica>
+ 
+(Istituzione della Commissione regionale per la paritè e le pari opportunitè) 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> Per il perseguimento delle finalità previste dagli articoli 3 e 4 della Costituzione, la Regione Molise istituisce la Commissione per la paritè e le pari opportunitè tra uomo e donna in campo economico, sociale e culturale. </corpo>
+                </comma>
+                <comma id="art1-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> è compito della Commissione promuovere l'uguaglianza tra i sessi, rimuovendo tutti gli ostacoli che, costituendo fattori di discriminazione diretta e indiretta per le donne, ne limitano o ne impediscono il pieno sviluppo come persona umana. </corpo>
+                </comma>
+                <comma id="art1-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La Commissione è istituita ed ha sede presso la presidenza del Consiglio Regionale ed è organo consultivo del Consiglio e della Giunta. </corpo>
+                </comma>
+                <comma id="art1-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> Il Consiglio regionale provvede alla dotazione di strutture e mezzi idonei al funzionamento della Commissione. </corpo>
+                </comma>
+                <comma id="art1-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> La Commissione esercita le sue funzioni in piena autonomia, operando anche al fine di creare uno stretto raccordo tra la realtè e le esperienze femminili della regione e le donne elette nelle istituzioni. Puè avere rapporti esterni ed assumere iniziative di partecipazione, informazione, ricerca e consultazione. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>Art.2 </num>
+                <rubrica>
+ 
+(Funzioni e compiti) 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <alinea> La Commissione svolge, tra l'altro, le seguenti funzioni: 
+ 
+</alinea>
+                    <el id="art2-com1-leta">
+                        <num>a)</num>
+                        <corpo> formula proposte tese al coordinamento delle politiche sociali, economiche e culturali al fine di realizzare la paritè tra i sessi e di assicurare pari opportunitè tra uomo e donna;</corpo>
+                    </el>
+                    <el id="art2-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> verifica in modo continuativo, anche con indagini, ricerche e studi, lo stato di applicazione della legislazione vigente sulla paritè in relazione alle norme costituzionali, alle leggi e alle disposizioni comunitarie ed internazionali;</corpo>
+                    </el>
+                    <el id="art2-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> promuove iniziative di diffusione dei dati raccolti e di informazioni circa le garanzie legislative vigenti, nonchè informazioni concernenti la propria attivitè rilevanti per la popolazione femminile;</corpo>
+                    </el>
+                    <el id="art2-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> formula osservazioni e proposte sui progetti di legge, atti amministrativi e programmi regionali che investono le politiche della paritè e delle pari opportunitè;</corpo>
+                    </el>
+                    <el id="art2-com1-lete">
+                        <num> 
+ 
+e)</num>
+                        <corpo> formula proposte di adeguamento della legislazione regionale ai principi costituzionali di paritè ed uguaglianza;</corpo>
+                    </el>
+                    <el id="art2-com1-letf">
+                        <num> 
+ 
+f)</num>
+
+                        <alinea> elabora, per l'attuazione delle paritè di cui alla <rif xlink:href="urn:nir:stato:legge:1991-04-10;215">legge 10 aprile 1991, n. 215</rif>, progetti ed interventi tesi a: 
+ 
+</alinea>
+                        <en id="art2-com1-letf-num1">
+                            <num>1)</num>
+                            <corpo> favorire ed espandere l'accesso della donna al lavoro;</corpo>
+                        </en>
+                        <en id="art2-com1-letf-num2">
+                            <num> 
+ 
+2)</num>
+                            <corpo> valorizzare e sviluppare la professionalitè delle donne già occupate;</corpo>
+                        </en>
+                        <en id="art2-com1-letf-num3">
+                            <num> 
+ 
+3)</num>
+                            <corpo> stimolare programmi di orientamento e formazione per le donne, al fine di liberare le loro potenzialitè, anche in termini di pari opportunitè e di progressione professionale;</corpo>
+                        </en>
+                        <en id="art2-com1-letf-num4">
+                            <num> 
+ 
+4)</num>
+
+                            <corpo> sollecitare l'adozione di azioni positive di cui alla <rif xlink:href="urn:nir:stato:legge:1991;125">legge n. 125 del 1991</rif>, verificandone l'esecuzione, l'attuazione e l'esito finale;</corpo>
+                        </en>
+                        <en id="art2-com1-letf-num5">
+                            <num> 
+ 
+5)</num>
+
+                            <corpo> sollecitare l'applicazione della <rif xlink:href="urn:nir:stato:legge:1992-02-25;125">legge 25 febbraio 1992, n. 125</rif>, concernente: "Azioni positive per l'imprenditoria femminile";</corpo>
+                        </en>
+                    </el>
+                    <el id="art2-com1-letg">
+                        <num> 
+ 
+g)</num>
+                        <corpo> conduce indagini sulla condizione femminile nella regione (nei luoghi di lavoro, nei corsi professionali, nelle strutture sanitarie, sociali, culturali ed assistenziali);</corpo>
+                    </el>
+                    <el id="art2-com1-leth">
+                        <num> 
+ 
+h)</num>
+                        <corpo> promuove interventi di assistenza e di consulenza per le donne disagiate, in collaborazione con gli organi istituzionalmente competenti, nonchè tramite le associazioni e i movimenti per la tutela della donna;</corpo>
+                    </el>
+                    <el id="art2-com1-leti">
+                        <num> 
+ 
+i)</num>
+                        <corpo> promuove una adeguata presenza femminile nelle istituzioni e nelle nomine di competenza regionale;</corpo>
+                    </el>
+                    <el id="art2-com1-letl">
+                        <num> 
+ 
+l)</num>
+                        <corpo> sollecita la promozione e l'attivazione di centri culturali e ricreativi idoneamente attrezzati per un qualificato impiego del tempo libero e rivolti soprattutto all'inserimento sociale e allo sviluppo delle potenzialitè in quelle donne che vivono una condizione di handicap o di emarginazione sociale;</corpo>
+                    </el>
+                    <el id="art2-com1-letm">
+                        <num> 
+ 
+m)</num>
+                        <corpo> promuove iniziative per la costituzione e l'attivazione di centri adeguatamente attrezzati a ludoteca, al fine di accogliere, con opportuna assistenza di personale qualificato, bambini e ragazzi fino a 14 anni nelle ore post-scolastiche e durante i periodi di vacanza, come supporto per le madri lavoratrici. </corpo>
+                    </el>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> I programmi ed i progetti di legge di cui alla <rif xlink:href="#art2-com1-letd">lettera d) del comma 1</rif> sono inviati d'ufficio alla Commissione dal Presidente del Consiglio regionale. </corpo>
+                </comma>
+                <comma id="art2-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La Commissione, su propria richiesta, è ascoltata dalle Commissioni consiliari in relazione ai provvedimenti che essa ritiene investano le politiche della paritè e delle pari opportunitè. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>Art.3 </num>
+                <rubrica>
+ 
+(Composizione) 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <alinea> La Commissione è composta: 
+ 
+</alinea>
+                    <el id="art3-com1-leta">
+                        <num>a)</num>
+
+                        <corpo> da n. 14 donne elette dal Consiglio regionale, in esito alla procedura di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1993-04-22;11">legge regionale 22 aprile 1993, n. 11</rif>, fra persone in possesso di riconosciute esperienze di carattere scientifico, culturale, professionale, economico, politico e sindacale in riferimento ai compiti della Commissione, le cui candidature sono proposte anche dalle associazioni di volontariato e dalle associazioni degli imprenditori e dei lavoratori autonomi maggiormente rappresentative a livello regionale;</corpo>
+                    </el>
+                    <el id="art3-com1-letb">
+                        <num> 
+ 
+b)</num>
+
+                        <alinea> dal Consigliere di paritè di cui alla <rif xlink:href="urn:nir:stato:legge:1991;125">legge n. 125/1991</rif> che: 
+ 
+</alinea>
+                        <en id="art3-com1-letb-num1">
+                            <num>1)</num>
+                            <corpo> riferisce in merito agli atti ed ai provvedimenti amministrativi delle Regioni che presentino interesse in relazione alle problematiche della paritè;</corpo>
+                        </en>
+                        <en id="art3-com1-letb-num2">
+                            <num> 
+ 
+2)</num>
+
+                            <corpo> funge da tramite tra la Commissione e l'Agenzia Regionale Molise Lavoro di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1999-08-03;27">Legge Regionale 3 agosto 1999, n. 27</rif>;</corpo>
+                        </en>
+                        <en id="art3-com1-letb-num3">
+                            <num> 
+ 
+3)</num>
+                            <corpo> elabora proposte di progetti di azioni positive;</corpo>
+                        </en>
+                    </el>
+                    <el id="art3-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> da n. 1 funzionario dell'assessorato regionale al lavoro con funzioni anche di segretario. </corpo>
+                    </el>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Della Commissione non possono far parte coloro che ricoprono la carica di consigliere regionale, provinciale o comunale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art.4 </num>
+                <rubrica>
+ 
+(Nomina e durata) 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La Commissione è nominata con decreto del Presidente della Giunta regionale nei modi previsti dalla <rif xlink:href="urn:nir:regione.molise:legge:1993-04-22;11">legge regionale 22 aprile 1993, n. 11</rif> e successive modifiche ed integrazioni. </corpo>
+                </comma>
+                <comma id="art4-com2">
+                    <num>
+ 
+2.</num>
+
+                    <corpo> La Commissione dura in carica fino alla scadenza della legislatura nel corso della quale è stata nominata e si provvede alla sua ricostituzione nei termini e nei modi di cui alla presente legge e alla <rif xlink:href="urn:nir:regione.molise:legge:1993;11">legge regionale n. 11/1993</rif>. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>Art.5 </num>
+                <rubrica>
+ 
+(Presidente, Ufficio di Presidenza e Funzionamento) 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo> Entro 60 giorni dalla costituzione a norma della presente legge la Commissione approva il proprio regolamento interno che ne disciplina il funzionamento e l'organizzazione. </corpo>
+                </comma>
+                <comma id="art5-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La Commissione, nella sua prima riunione, convocata dal Presidente del Consiglio Regionale, elegge nel proprio seno una Presidente e due Vicepresidenti con funzioni vicarie. </corpo>
+                </comma>
+                <comma id="art5-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> La Presidente e le Vicepresidenti costituiscono l'Ufficio di Presidenza della Commissione. Le Vicepresidenti sostituiscono la Presidente in caso di assenza o di impedimento nei modi previsti dal regolamento interno. </corpo>
+                </comma>
+                <comma id="art5-com4">
+                    <num>
+ 
+4.</num>
+                    <corpo> La Presidente convoca e presiede le sedute. </corpo>
+                </comma>
+                <comma id="art5-com5">
+                    <num>
+ 
+5.</num>
+                    <corpo> La Commissione, ove necessario, determina l'articolazione delle sue attivitè per gruppi di lavoro. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>Art.6 </num>
+                <rubrica>
+ 
+(Relazione annuale)  
+ </rubrica>
+                <comma id="art6-com1">
+                    <num>
+1.</num>
+                    <corpo> La Commissione definisce ed invia entro il 30 novembre di ogni anno ai Presidenti della Giunta regionale e del Consiglio regionale una relazione sull'attivitè svolta e un programma di attivitè da svolgersi con la relativa previsione di spesa per l'anno successivo. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art7">
+                <num>Art.7 </num>
+                <rubrica>
+ 
+(Rapporti di collaborazione) 
+ </rubrica>
+                <comma id="art7-com1">
+                    <num>
+1.</num>
+                    <alinea> La Commissione sviluppa rapporti di collaborazione: 
+ 
+</alinea>
+                    <el id="art7-com1-leta">
+                        <num>a)</num>
+                        <corpo> con il Dipartimento per le pari opportunitè della Presidenza del Consiglio dei ministri per l'attuazione dei principi di paritè di trattamento e di pari opportunitè delle lavoratrici e con la Commissione nazionale per le pari opportunitè tra uomo e donna istituita presso la Presidenza del Consiglio dei Ministri;</corpo>
+                    </el>
+                    <el id="art7-com1-letb">
+                        <num> 
+ 
+b)</num>
+                        <corpo> con le organizzazioni femminili di stati esteri, anche in riferimento alla situazione delle donne emigrate ed emarginate;</corpo>
+                    </el>
+                    <el id="art7-com1-letc">
+                        <num> 
+ 
+c)</num>
+                        <corpo> con analoghi comitati e commissioni istituiti nelle regioni italiane e presso gli enti locali;</corpo>
+                    </el>
+                    <el id="art7-com1-letd">
+                        <num> 
+ 
+d)</num>
+                        <corpo> con gli istituti di ricerca e le universitè della regione anche sulla base di apposite convenzioni. 
+ 
+</corpo>
+                    </el>
+                </comma>
+            </articolo>
+            <articolo id="art8">
+                <num>Art.8 </num>
+                <rubrica>
+ 
+(Compensi) 
+ </rubrica>
+                <comma id="art8-com1">
+                    <num>
+1.</num>
+
+                    <corpo> Dall'entrata in vigore della presente legge, per ogni giornata di seduta della Commissione, dei gruppi di lavoro, costituiti ai sensi dell'<rif xlink:href="#art5">articolo 5</rif>, ultimo comma, della presente legge, e dell'Ufficio di Presidenza della Commissione, è corrisposto un gettone di presenza di lire duecentomila alla Presidente, di lire centocinquantamila alle Vicepresidenti, di lire centomila alle altre componenti della Commissione. In caso di più sedute dei suddetti organismi nella stessa giornata, il gettone viene corrisposto una sola volta. L'erogazione annua dei gettoni non puè superare lo stanziamento previsto dal relativo capitolo dello stato di previsione della spesa del Consiglio regionale. La misura del gettone di presenza è aggiornata all'inizio di ogni legislatura in base alle intercorse variazioni dell'indice ISTAT dei prezzi al consumo. Alle componenti della Commissione residenti in comune diverso da quello ove ha sede la Commissione compete il rimborso delle spese di viaggio nella misura prevista per i dirigenti regionali. </corpo>
+                </comma>
+                <comma id="art8-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Le componenti della Commissione hanno diritto al rimborso delle spese di viaggio e al trattamento di missione nella misura prevista per i dirigenti regionali, quando, previa autorizzazione della Presidente della Commissione stessa, si rechino per lo svolgimento delle loro funzioni fuori dal Comune ove ha sede la Commissione. </corpo>
+                </comma>
+                <comma id="art8-com3">
+                    <num>
+ 
+3.</num>
+                    <corpo> Le componenti della Commissione, qualora la Commissione stessa lo decida e previa autorizzazione del Presidente del Consiglio Regionale, possono recarsi in missione all'estero per lo svolgimento delle loro funzioni. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art9">
+                <num>Art.9 </num>
+                <rubrica>
+ 
+(Disposizioni abrogative e transitorie) 
+ </rubrica>
+                <comma id="art9-com1">
+                    <num>
+1.</num>
+                    <corpo>
+                        <mod id="art9-com1-mod1"> è abrogata la <rif xlink:href="urn:nir:regione.molise:legge:1994-07-26;13">legge regionale 26 luglio 1994, n. 13</rif>. </mod>
+                    </corpo>
+                </comma>
+                <comma id="art9-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> La Commissione regionale per la paritè e le pari opportunitè in funzione alla data di approvazione della presente legge resta in carica sino alla scadenza della legislatura nel corso della quale è stata nominata.  
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art10">
+                <num>Art.10 </num>
+                <rubrica>
+ 
+(Disposizioni finanziarie) 
+ </rubrica>
+                <comma id="art10-com1">
+                    <num>
+1.</num>
+                    <corpo> Agli oneri derivanti dall'applicazione della presente legge si farè fronte mediante stanziamento di appositi fondi con legge di approvazione del bilancio per l'esercizio finanziario 2000 ed istituzione di appositi capitoli nello stato di previsione della spesa del Consiglio regionale. </corpo>
+                </comma>
+                <comma id="art10-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Per gli esercizi finanziari 2001 e successivi si provvederè con le rispettive leggi di bilancio. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art11">
+                <num>Art. 11 </num>
+                <rubrica>
+ 
+(Dichiarazione d'urgenza) 
+ </rubrica>
+                <comma id="art11-com1">
+                    <num>
+1.</num>
+
+                    <corpo> La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="20061229" num="36" tipo="BURM"/>
+                <entratainvigore norm="20070113"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:2006-12-28;42"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
+                </materie>
+            </descrittori><ciclodivita><eventi><evento data="20090131" fonte="rp1" id="t1" tipo="modifica"/><evento data="20070524" fonte="rp2" id="t2" tipo="modifica"/><evento data="20080527" fonte="rp3" id="t3" tipo="modifica"/><evento data="20100210" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;01" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2008;12" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2010;03" xlink:type="simple"/></relazioni></ciclodivita>
+        </meta><?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+35.Tributi 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 36 del 29 dicembre 2006 
+ 
+Oggetto 
+Spesa pubblica regionale - Misure di contenimento - Patto di stabilit&#xE0; interno - Tributi regionali - Interventi 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 2 dalla legge n. 1/2009 art. 5 
+Modificato art. 2 dalla legge n. 14/2007 art. 1 
+Modificato art. 2 dalla legge n. 12/2008 art. 15 
+Modificato art. 3 dalla legge n. 12/2008 art. 15 
+Modificato art. 3 dalla legge n. 14/2007 art. 1 
+Modificato art. 2 dalla legge n. 3/2010 art. 16 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>LEGGE REGIONALE </tipoDoc>
+            <dataDoc norm="20061228">28 dicembre 2006</dataDoc>, n. <numDoc>42</numDoc>. 
+ 
+<titoloDoc>Misure di contenimento della spesa pubblica regionale ed interventi in materia di tributi regionali. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ARTICOLO 1 </num>
+                <rubrica>
+ 
+Misure di contenimento dei costi della politica 
+ </rubrica>
+                <comma id="art1-com1">
+                    <num>
+1.</num>
+                    <corpo> Al fine del contenimento della spesa pubblica da raggiungersi anche attraverso riduzione dei costi degli organi politici ed amministrativi della Giunta e del Consiglio Regionale, la Giunta Regionale predispone entro 90 giorni linee di indirizzo, misure e proposte al Consiglio Regionale idonee allo scopo. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ARTICOLO 2 </num>
+                <rubrica>
+ 
+Patto di stabilitè interno 
+ </rubrica>
+                <comma id="art2-com1">
+                    <num>
+1.</num>
+                    <corpo> Per l'esercizio finanziario 2007 la regione concorre al raggiungimento degli obiettivi di finanza pubblica, attraverso il rispetto delle disposizioni concernenti il patto di stabilitè. </corpo>
+                </comma>
+                <comma id="art2-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Nell'esercizio delle funzioni dirigenziali il rispetto del patto di stabilitè va garantito con la massima diligenza e perizia, costituendo lo stesso, obiettivo primario ai fini della valutazione di risultato. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>ARTICOLO 3 </num>
+                <rubrica>
+ 
+Estensione del patto di stabilitè interno agli enti dipendenti o controllati dalla Regione 
+ </rubrica>
+                <comma id="art3-com1">
+                    <num>
+1.</num>
+                    <corpo> Gli enti dipendenti o controllati dalla Regione sono tenuti nell'esercizio finanziario 2007 al rispetto degli obblighi del patto di stabilitè interno secondo i limiti stabiliti dalla normativa statale vigente in materia nei confronti della Regione. </corpo>
+                </comma>
+                <comma id="art3-com2">
+                    <num>
+ 
+2.</num>
+                    <corpo> Al fine di consentire il monitoraggio degli adempimenti relativi al patto di stabilitè interno gli Enti di cui al primo punto del presente articolo, trasmettono alla regione, entro trenta giorni dalla fine del periodo di riferimento, le informazioni riguardanti la gestione di competenza e quella di cassa attraverso un prospetto e con le modalitè definite con deliberazione della Giunta regionale. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>ARTICOLO 4 </num>
+                <rubrica>
+ 
+Interventi in materia di tributi regionali 
+ </rubrica>
+                <comma id="art4-com1">
+                    <num>
+1.</num>
+
+                    <corpo> A decorrere dal 1è gennaio 2007: 
+ 
+&gt; aliquota dell'Addizionale Regionale all'imposta sul reddito delle persone fisiche di cui al <rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1997-12-15;446#art50-com3">comma terzo dell'articolo 50 del Decreto Legislativo n. 446 del 15 dicembre 1997</rif> è  fissata nella misura massima dell' 1,4%; 
+ 
+&gt; l'aliquota dell'Imposta regionale sulle Attivitè Produttive (Irap) è fissata, ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:decreto.legislativo:1997-12-15;446#art16-com3">articolo 16, comma terzo del Decreto Legislativo 15 dicembre 1997 n. 446</rif>, nella misura del 5,25% con riferimento al valore della produzione netta derivante dall'attivitè esercitata nel territorio della Regione Molise; è fatta salva l'esenzione disposta con <rif
+                            xlink:href="urn:nir:regione.molise:legge:2005-02-07;5#art14-com4">articolo 14, comma quarto, della Legge Regionale 7 febbraio 2005 n. 5</rif>; 
+ 
+&gt; l'aliquota dell'imposta regionale della benzina per autotrazione di cui all'<rif
+                            xlink:href="urn:nir:regione.molise:legge:2004-12-31;38#art2">articolo 2 della Legge Regionale 31 dicembre 2004 n. 38</rif> è fissata nella misura massima di Euro 0,0258227 per litro di benzina erogato; 
+ 
+&gt; l'aliquota dell'addizionale regionale all'imposta di consumo sul gas metano di cui all'<rif
+                            xlink:href="urn:nir:regione.molise:legge:2004-12-31;39#art3">articolo 3 della legge regionale 31 dicembre 2004, n. 39</rif>, cosè come modificata dalla <rif xlink:href="urn:nir:regione.molise:legge:2006-04-12;3">legge regionale 12 aprile 2006, n. 3</rif>, è fissata: 
+ 
+- per gli usi civili, di cui al comma 3, dell'art. 3, nella misura unica di Euro 0,030987; 
+ 
+- per gli usi industriali, di cui al comma 4, dell'art. 3, nella misura unica di Euro 0,0062. 
+ 
+</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>ARTICOLO 5 </num>
+                <rubrica>
+ 
+Entrata in vigore 
+ </rubrica>
+                <comma id="art5-com1">
+                    <num>
+1.</num>
+                    <corpo> La presente legge entra in vigore il giorno della sua pubblicazione sul Bollettino Ufficiale della Regione Molise. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>
