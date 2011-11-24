@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20090416" num="8" tipo="BURM" />
+					<entratainvigore norm="20090516" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2009-04-06;15" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20090516" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2009-04-06;15" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 8 del 16 aprile 2009 Oggetto L.r. 12 settembre 1991 n. 15 - Articolo 8 - Segreterie particolari -Disciplina - Modifiche?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20090406">6 aprile 2009</dataDoc>
+				, n.
+				<numDoc>15</numDoc>
+				<titoloDoc>
+					Modifiche all'
+					<rif xlink:href="urn:nir:regione.molise:legge:1991-09-12;15#art8" xlink:type="simple">articolo 8 della legge regionale 12 settembre 1991, n. 15</rif>
+					, ad oggetto: "Norme integrative e complementari alla legge regionale "Stato giuridico e trattamento economico del personale regionale e degli enti pubblici della Regione Molise - TRIENNIO 1988/1990" e provvedimenti urgenti per l'organizzazione amministrativa della regione".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>(Segreterie particolari)</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:1991-09-12;15#art8" xlink:type="simple">articolo 8 della legge regionale 12 settembre 1991, n. 15</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod1-vir1" tipo="struttura">
+									<articolo id="mod1-vir1-art8">
+										<num>Art. 8</num>
+										<rubrica>(Segreterie particolari)</rubrica>
+										<comma id="mod1-vir1-art8-com1">
+											<num>1.</num>
+											<corpo>Per lo svolgimento delle rispettive attività di segreteria, il Presidente della Giunta regionale e gli Assessori regionali, il Presidente del Consiglio regionale, i componenti dell'Ufficio di presidenza del Consiglio regionale, i Presidenti delle commissioni consiliari permanenti e temporanee, il Presidente del Collegio dei revisori dei conti, si avvalgono di specifiche unità organizzative denominate: "segreterie particolari".</corpo>
+										</comma>
+										<comma id="mod1-vir1-art8-com2">
+											<num>2.</num>
+											<corpo>Alle segreterie particolari compete esclusivamente l'espletamento delle attività non istituzionali conseguenti alle funzioni rispettivamente attribuite a ciascuno degli organi di cui al comma 1 e non riconducibili nell'ambito di competenze delle strutture organizzative della Regione.</corpo>
+										</comma>
+										<comma id="mod1-vir1-art8-com3">
+											<num>3.</num>
+											<corpo>La consistenza numerica di ciascuna delle segreterie di cui al comma 1 è determinata con riferimento ai limiti ed alle disponibilità complessive di bilancio destinate a tale scopo, nonché alle quote assegnate a ciascuna segreteria. Detti stanziamenti, periodicamente determinati con provvedimento della Giunta regionale e dell'Ufficio di presidenza del Consiglio regionale per gli ambiti di rispettiva competenza, sono comprensivi di compensi per eventuali prestazioni di lavoro straordinario, del trattamento di missione, del salario incentivante, degli oneri previdenziali ed assistenziali e di qualsiasi altro trattamento economico aggiuntivo.</corpo>
+										</comma>
+										<comma id="mod1-vir1-art8-com4">
+											<num>4.</num>
+											<corpo>
+												Ai fini della sola determinazione dell'importo massimo dello stanziamento di cui al comma 3 da assegnare a ciascuna segreteria, nonché per l'attribuzione degli spazi e delle dotazioni strumentali, si fa riferimento alla seguente tabella:
+												<h:table>
+													<h:thead>
+														<h:tr>
+															<h:td />
+															<h:td>D3</h:td>
+															<h:td>D1</h:td>
+															<h:td>C</h:td>
+															<h:td>B3</h:td>
+															<h:td>B1</h:td>
+															<h:td>B1</h:td>
+															<h:td>TOT.</h:td>
+														</h:tr>
+													</h:thead>
+													<h:tbody>
+														<h:tr>
+															<h:td>a) Presidente Giunta</h:td>
+															<h:td>1</h:td>
+															<h:td>1</h:td>
+															<h:td>1</h:td>
+															<h:td>1</h:td>
+															<h:td>1</h:td>
+															<h:td>2 autisti</h:td>
+															<h:td>7</h:td>
+														</h:tr>
+														<h:tr>
+															<h:td>b) Assessori</h:td>
+															<h:td>1</h:td>
+															<h:td>1</h:td>
+															<h:td />
+															<h:td>1</h:td>
+															<h:td />
+															<h:td>2 autisti</h:td>
+															<h:td>5</h:td>
+														</h:tr>
+														<h:tr>
+															<h:td>c) Presidente Consiglio</h:td>
+															<h:td>1</h:td>
+															<h:td>1</h:td>
+															<h:td>1</h:td>
+															<h:td>1</h:td>
+															<h:td>1</h:td>
+															<h:td>2 autisti</h:td>
+															<h:td>7</h:td>
+														</h:tr>
+														<h:tr>
+															<h:td>d) Vice Presidente Consiglio</h:td>
+															<h:td>1</h:td>
+															<h:td />
+															<h:td />
+															<h:td />
+															<h:td />
+															<h:td />
+															<h:td>1</h:td>
+														</h:tr>
+														<h:tr>
+															<h:td>e) Consigliere Segretario</h:td>
+															<h:td>1</h:td>
+															<h:td />
+															<h:td />
+															<h:td />
+															<h:td />
+															<h:td />
+															<h:td>1</h:td>
+														</h:tr>
+														<h:tr>
+															<h:td>f) Presidenti commissioni consiliari</h:td>
+															<h:td>1</h:td>
+															<h:td />
+															<h:td />
+															<h:td />
+															<h:td />
+															<h:td />
+															<h:td>1</h:td>
+														</h:tr>
+														<h:tr>
+															<h:td>g) Presidente Collegio revisori conti</h:td>
+															<h:td>1</h:td>
+															<h:td />
+															<h:td />
+															<h:td />
+															<h:td />
+															<h:td />
+															<h:td>1</h:td>
+														</h:tr>
+													</h:tbody>
+												</h:table>
+											</corpo>
+										</comma>
+										<comma id="mod1-vir1-art8-com5">
+											<num>5.</num>
+											<corpo>L'importo di cui al comma 4 è determinato sulla base del costo di ciascuna categoria inserita nella tabella e prevista dai contratti collettivi nazionali di lavoro del Comparto regioni ed autonomie locali, corrispondente al trattamento economico iniziale fisso e ricorrente di ciascuna categoria, comprensivo degli oneri previdenziali e assistenziali, ivi comprese le somme caratterizzate da continuità e fissità di erogazione nonché dal salario accessorio nei limiti previsti dalla contrattazione collettiva. Lo stanziamento, come innanzi determinato, è incrementato dall'importo corrispondente al tetto massimo delle ore di straordinario liquidabili in base alle disposizioni nel tempo vigenti in materia e tenuto conto dell'entità numerica virtuale delle segreterie, come riportata nella tabella di cui al comma 4. Lo stanziamento è, altresì, incrementato di un importo forfettario per indennità di missione fuori sede e rimborso spese, determinato in ragione della media aritmetica della corrispondente spesa del biennio precedente sostenuta da autisti e componenti delle strutture di supporto, rapportata al personale come riportato nella tabella di cui al comma 4. È escluso qualsiasi onere ulteriore per l'Amministrazione.</corpo>
+										</comma>
+										<comma id="mod1-vir1-art8-com6">
+											<num>6.</num>
+											<corpo>Il personale addetto alle segreterie particolari può essere individuato tra gli impiegati regionali o, in posizione di comando, tra i dipendenti dello Stato, degli enti locali, degli enti sub-regionali, degli altri enti pubblici, ovvero può essere assunto ai sensi del successivo comma 7. Il personale regionale e il personale comandato, eventualmente utilizzato nelle segreterie, conserva il trattamento giuridico, economico ed indennitario in godimento a valere sul budget di spesa di cui al comma 4. Gli autisti addetti alle segreterie sono individuati esclusivamente tra i dipendenti regionali assunti in qualunque forma.</corpo>
+										</comma>
+										<comma id="mod1-vir1-art8-com7">
+											<num>7.</num>
+											<corpo>Fermo restando il limite di spesa di cui ai commi 4 e 5, per le finalità di cui al presente articolo, può essere assunto anche personale esterno all'Amministrazione regionale con contratto di diritto privato a tempo determinato e con l'attribuzione di una categoria, tra quelle previste dal vigente sistema di classificazione dei dipendenti regionali, in relazione sia al titolo di studio posseduto che alla natura ed al grado di responsabilità connesso all'incarico conferito, con riconoscimento del corrispondente trattamento economico.</corpo>
+										</comma>
+										<comma id="mod1-vir1-art8-com8">
+											<num>8.</num>
+											<corpo>Per il personale di qualifica dirigenziale assegnato alle segreterie particolari si applicano le disposizioni relative al trattamento economico, alla valutazione ed alla responsabilità dirigenziale previste dai contratti collettivi e dalla legge per i dirigenti regionali delle strutture ordinarie.</corpo>
+										</comma>
+										<comma id="mod1-vir1-art8-com9">
+											<num>9.</num>
+											<corpo>Le segreterie dei componenti della Giunta regionale sono costituite con deliberazione della Giunta regionale. Il provvedimento determina, su richiesta nominativa dei componenti della Giunta stessa e nei limiti della spesa per ognuno stanziata, il numero del personale da acquisire e le relative retribuzioni, individua il responsabile della segreteria, gli addetti e gli autisti.</corpo>
+										</comma>
+										<comma id="mod1-vir1-art8-com10">
+											<num>10.</num>
+											<corpo>Le segreterie comprese nell'ambito del Consiglio regionale sono costituite, su richiesta nominativa dell'amministratore interessato, con provvedimento dell'Ufficio di presidenza del Consiglio regionale che, nei limiti della spesa per ognuno stanziata, determina il numero del personale da acquisire e le relative retribuzioni, individua il responsabile della segreteria, gli addetti e gli autisti.</corpo>
+										</comma>
+										<comma id="mod1-vir1-art8-com11">
+											<num>11.</num>
+											<corpo>Il rapporto di lavoro delle unità di cui al comma 7 viene costituito con la stipulazione, anteriormente alla presa di servizio presso la segreteria, del contratto individuale, sottoscritto per l'Amministrazione dal Direttore generale competente in materia di personale, ovvero dal Segretario generale del Consiglio regionale per le segreterie comprese nell'ambito del Consiglio regionale. Il contratto individuale viene stipulato sulla base di schemi contrattuali, approvati rispettivamente dalla Giunta regionale e dall'Ufficio di presidenza del Consiglio regionale, che tengano conto della professionalità richiesta, dei diversi ambiti di autonomia e responsabilità del personale interessato.</corpo>
+										</comma>
+										<comma id="mod1-vir1-art8-com12">
+											<num>12</num>
+											<corpo>All'atto della cessazione dall'ufficio dei titolari degli organi che hanno formulato le richieste nominative, gli incarichi dei componenti delle segreterie sono prorogati, per l'adempimento dei compiti connessi al passaggio delle consegne, fino al conferimento delle nuove nomine e dei nuovi incarichi. In ogni caso, decorsi 15 giorni dall'insediamento dei nuovi organi, le nomine e gli incarichi prorogati sono risolti di diritto.</corpo>
+										</comma>
+										<comma id="mod1-vir1-art8-com13">
+											<num>13</num>
+											<corpo>Il personale comandato da altri enti o amministrazioni, alla cessazione dell'incarico di segreteria, fa rientro agli enti e alle amministrazioni di provenienza.</corpo>
+										</comma>
+										<comma id="mod1-vir1-art8-com14">
+											<num>14</num>
+											<corpo>I contratti di cui al comma 7 non possono in ogni caso essere trasformati in rapporti a tempo indeterminato con l'Amministrazione regionale.</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>(Entrata in vigore)</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore il trentesimo giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

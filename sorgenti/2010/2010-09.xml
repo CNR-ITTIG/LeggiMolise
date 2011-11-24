@@ -1,0 +1,1398 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20100401" num="10" tipo="BURM" />
+					<entratainvigore norm="20100416" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2010-03-22;9" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20100416" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20100501" fonte="rp1" id="t2" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2010-03-22;9" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;12" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+36.Turismo e industria alberghiera 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 10 del 1 aprile 2010. 
+ 
+Oggetto 
+Agriturismo e sviluppo delle aree rurali - Disciplina - Interventi 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+Modificato art. 10 dalla legge n. 12/2010 art. 1 
+Modificato art. 11 dalla legge n. 12/2010 art. 1 
+ 
+?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20100322">22 marzo 2010</dataDoc>
+				, n.
+				<numDoc>9</numDoc>
+				.
+				<titoloDoc>Disciplina delle attività agrituristiche.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>Finalità</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							La Regione Molise, in armonia con la legislazione comunitaria e statale ed in particolare con la
+							<rif xlink:href="urn:nir:stato:legge:2006-02-20;96" xlink:type="simple">legge 20 febbraio 2006, n. 96</rif>
+							(Disciplina dell'agriturismo) e con i programmi di sviluppo rurale dell'Unione europea e dello Stato, sostiene l'agricoltura e lo sviluppo rurale anche mediante la promozione di forme idonee di turismo in ambito rurale ed individua nelle attività agrituristiche lo strumento prioritario per la valorizzazione della cultura e delle tradizioni rurali, la promozione dei prodotti agro-alimentari del territorio e la fruizione delle risorse locali.
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<alinea>In particolare le attività agrituristiche sono finalizzate a:</alinea>
+						<el id="art1-com2-leta">
+							<num>a)</num>
+							<corpo>favorire lo sviluppo agricolo e forestale attraverso la promozione di iniziative di sostegno alle attività agricole, la tutela dell'ambiente naturale, la difesa del suolo e il riequilibrio del territorio;</corpo>
+						</el>
+						<el id="art1-com2-letb">
+							<num>b)</num>
+							<corpo>favorire la presenza e la permanenza degli imprenditori agricoli nelle zone agricole mediante l'incremento e l'integrazione del reddito aziendale e il miglioramento delle condizioni di vita;</corpo>
+						</el>
+						<el id="art1-com2-letc">
+							<num>c)</num>
+							<corpo>tutelare, qualificare, valorizzare e utilizzare il patrimonio rurale naturale ed edilizio di ciascun territorio;</corpo>
+						</el>
+						<el id="art1-com2-letd">
+							<num>d)</num>
+							<corpo>favorire la multifunzionalità in agricoltura e la differenziazione dei redditi agricoli;</corpo>
+						</el>
+						<el id="art1-com2-lete">
+							<num>e)</num>
+							<corpo>sostenere ed incentivare le produzioni agricole tipiche e di qualità, nonché la conoscenza delle tradizioni enograstronomiche;</corpo>
+						</el>
+						<el id="art1-com2-letf">
+							<num>f)</num>
+							<corpo>promuovere le tradizioni e la cultura rurale;</corpo>
+						</el>
+						<el id="art1-com2-letg">
+							<num>g)</num>
+							<corpo>sviluppare il turismo sociale, scolastico e giovanile nonché il turismo a favore dei soggetti svantaggiati e favorire il rapporto tra città e campagna;</corpo>
+						</el>
+						<el id="art1-com2-leth">
+							<num>h)</num>
+							<corpo>favorire e sviluppare la valorizzazione dei prodotti agroalimentari attraverso la filiera corta.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>Definizione di attività agrituristiche</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							Per attività agrituristiche si intendono esclusivamente le attività di ricezione ed ospitalità esercitate dagli imprenditori operanti nel territorio regionale, singoli o associati, di cui all'
+							<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2135" xlink:type="simple">articolo 2135 del codice civile</rif>
+							, all'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-05-18;228#art1-com2" xlink:type="simple">articolo 1, comma 2, del decreto legislativo 18 maggio 2001, n. 228</rif>
+							ed all'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2004-03-20;99#art1" xlink:type="simple">articolo 1 del decreto legislativo 20 marzo 2004, n. 99</rif>
+							, così come modificato dal
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2005-05-27;101" xlink:type="simple">decreto legislativo 27 maggio 2005, n. 101</rif>
+							, attraverso l'utilizzazione della propria azienda in rapporto di connessione e complementarietà rispetto alle attività di coltivazione del fondo, silvicoltura, allevamento di animali, trasformazione e commercializzazione dei prodotti agricoli, che comunque rimangono principali, nonché dell'artigianato rurale.
+						</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>Lo svolgimento di attività agrituristiche, nell'osservanza delle norme di cui alla presente legge, non costituisce distrazione dalla destinazione agricola dei fondi e degli edifici interessati.</corpo>
+					</comma>
+					<comma id="art2-com3">
+						<num>3.</num>
+						<alinea>Sono considerate attività agrituristiche:</alinea>
+						<el id="art2-com3-leta">
+							<num>a)</num>
+							<corpo>dare ospitalità in alloggi o in spazi aperti destinati alla sosta di campeggiatori;</corpo>
+						</el>
+						<el id="art2-com3-letb">
+							<num>b)</num>
+							<corpo>
+								somministrare pasti e bevande, ivi comprese quelle a carattere alcolico e superalcolico, costituiti in misura significativa da prodotti propri, come definiti dal
+								<rif xlink:href="#art2-com4" xlink:type="simple">comma 4</rif>
+								, da prodotti di aziende agricole presenti nel territorio regionale con preferenza per i prodotti tipici e tradizionali tipici molisani, per prodotti dell'agricoltura biologica e biodinamica e per quelli a marchio DOP, IGP, IGT, DOC e DOCG;
+							</corpo>
+						</el>
+						<el id="art2-com3-letc">
+							<num>c)</num>
+							<corpo>organizzare degustazioni di prodotti aziendali, ivi compresa la mescita di vino;</corpo>
+						</el>
+						<el id="art2-com3-letd">
+							<num>d)</num>
+							<corpo>organizzare, direttamente o mediante convenzioni con gli enti locali, attività ricreative, culturali, didattiche, di pratica sportiva nonché attività escursionistiche e di ippoturismo, anche all'esterno dei beni fondiari nella disponibilità dell'impresa, finalizzate alla valorizzazione e conoscenza del territorio e del patrimonio rurale ed alla migliore fruizione degli stessi;</corpo>
+						</el>
+						<el id="art2-com3-lete">
+							<num>e)</num>
+							<corpo>vendere direttamente prodotti aziendali;</corpo>
+						</el>
+						<el id="art2-com3-letf">
+							<num>f)</num>
+							<corpo>le fattorie didattiche.</corpo>
+						</el>
+					</comma>
+					<comma id="art2-com4">
+						<num>4.</num>
+						<corpo>
+							Il regolamento di attuazione disciplina le modalità per l'organizzazione e lo svolgimento delle attività di cui al
+							<rif xlink:href="#art2-com3" xlink:type="simple">comma 3</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art2-com5">
+						<num>5.</num>
+						<corpo>Sono considerati di propria produzione i cibi e le bevande prodotti, lavorati e trasformati nell'azienda agricola, nonché quelli ricavati da materie prime dell'azienda agricola ed ottenuti attraverso lavorazioni esterne.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>Connessione</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							Le attività di cui all'
+							<rif xlink:href="#art2" xlink:type="simple">articolo 2</rif>
+							si reputano connesse a quella principale agricolo-zootecnico-forestale allorché l'azienda agricola, in relazione alla sua estensione, alle sue dotazioni strutturali, alla natura e alla varietà delle attività agricole praticate, agli spazi disponibili, agli edifici in essa ricompresi e al numero degli addetti, sia idonea anche allo svolgimento dell'attività agrituristica nel rispetto delle disposizioni della presente legge e quando non sottraggono risorse all'esercizio dell'attività agricola ed assicurano la piena utilizzazione delle risorse aziendali, finalizzate anche ad una più efficace commercializzazione dei prodotti.
+						</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<corpo>Le attività agricolo-zootecnico-forestali devono essere svolte con continuità per l'intero arco dell'anno ai fini della produzione per il mercato.</corpo>
+					</comma>
+					<comma id="art3-com3">
+						<num>3.</num>
+						<corpo>
+							La connessione, nel rispetto delle disposizioni contenute nell'
+							<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art2135" xlink:type="simple">articolo 2135 del codice civile</rif>
+							, è dimostrata mediante la presentazione di apposito piano aziendale redatto secondo le prescrizioni regionali, fissate nell'ambito del regolamento di cui all'
+							<rif xlink:href="#art9" xlink:type="simple">articolo 9</rif>
+							. Il regolamento deve prevedere l'adozione di parametri per il confronto tra la consistenza dell'attività agricola e la consistenza dell'attività agrituristica.
+						</corpo>
+					</comma>
+					<comma id="art3-com4">
+						<num>4.</num>
+						<corpo>
+							Il mantenimento dei requisiti dichiarati nel piano aziendale è attestato dall'imprenditore agricolo con periodicità triennale mediante autocertificazione, sulla base delle indicazioni stabilite nel regolamento di cui all'
+							<rif xlink:href="#art9" xlink:type="simple">articolo 9</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art3-com5">
+						<num>5.</num>
+						<corpo>
+							Per le aziende a ridotte attività e dimensioni, che dispongono fino ad un massimo di quattro stanze o sei piazzole per campeggiatori, la connessione è presunta, anche in assenza di piano aziendale di cui al
+							<rif xlink:href="#art3-com3" xlink:type="simple">comma 3</rif>
+							, in presenza di una superficie aziendale pari ad almeno tre ettari SAU (superficie agricola utilizzata) e caratterizzata da un ordinamento colturale funzionale all'attività di somministrazione di pasti e bevande. In tali aziende è consentita la somministrazione di pasti solo alle persone alloggiate.
+						</corpo>
+					</comma>
+					<comma id="art3-com6">
+						<num>6.</num>
+						<corpo>Il tempo impiegato per lo svolgimento dell'attività agrituristica, nel corso dell'anno solare, deve comunque essere inferiore al tempo utilizzato per l'attività agricola tenuto conto della diversità delle tipologie di lavorazione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>Esercizio delle attività agrituristiche</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>
+							Sono addetti alle attività agrituristiche e sono considerati lavoratori agricoli, ai fini della vigente disciplina previdenziale, assicurativa e fiscale, l'imprenditore agricolo, i familiari dello stesso di cui all'
+							<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art230bis" xlink:type="simple">articolo 230-bis del codice civile</rif>
+							nonché i lavoratori dipendenti dell'azienda agricola, che prestano la loro attività a tempo indeterminato, determinato e parziale. Per lo svolgimento delle attività agrituristiche non è consentito, in alcun modo, il ricorso a soggetti esterni salvo che per attività e servizi complementari.
+						</corpo>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<corpo>
+							Le cooperative e le società agricole, iscritte nell'elenco degli operatori agrituristici, di cui all'
+							<rif xlink:href="#art12" xlink:type="simple">articolo 12</rif>
+							, per esercitare le attività agrituristiche possono avvalersi dei propri dipendenti.
+						</corpo>
+					</comma>
+					<comma id="art4-com3">
+						<num>3.</num>
+						<corpo>La qualifica di "operatore agrituristico" e la denominazione "azienda agrituristica" o "agriturismo" devono essere usati esclusivamente dai soggetti iscritti nell'elenco degli operatori agrituristici.</corpo>
+					</comma>
+					<comma id="art4-com4">
+						<num>4.</num>
+						<corpo>Nell'esercizio dell'agriturismo almeno il quaranta per cento del valore annuo della materia prima utilizzata per la somministrazione dei pasti e bevande deve provenire dall'azienda; il cinquanta per cento deve essere acquistato esclusivamente da altri produttori agricoli singoli o associati e da cooperative della regione Molise, in ottemperanza alle norme fiscali in vigore e nell'ambito di validi sistemi di rintracciabilità. Per le aziende, il cui centro e la maggior parte dei terreni sono ubicati ad un'altitudine superiore ai settecento metri sul livello del mare, la percentuale del valore annuo della materia prima utilizzata per la somministrazione dei pasti e bevande che deve provenire dall'azienda è ridotta al venticinque per cento.</corpo>
+					</comma>
+					<comma id="art4-com5">
+						<num>5.</num>
+						<corpo>
+							Qualora per cause di forza maggiore, dovute in particolare a calamità atmosferiche, fitopatie o epizoozie, accertate dalla Regione, non sia possibile rispettare i limiti di cui al
+							<rif xlink:href="#art4-com4" xlink:type="simple">comma 4</rif>
+							, deve essere data comunicazione al comune in cui ha sede l'impresa il quale, verificato il fatto, autorizza temporaneamente l'esercizio dell'attività in deroga ai parametri sul valore della produzione aziendale.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>Utilizzazione di immobili</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>Per l'esercizio delle attività agrituristiche possono essere utilizzati locali situati nell'abitazione dell'imprenditore agricolo ubicata nel fondo nonché gli edifici, o parte di essi, esistenti nel fondo e non più necessari alla conduzione dello stesso. L'edificazione di nuovi volumi può essere consentita solo se si configura in termini di adeguamento delle strutture esistenti e di più funzionale fruizione delle stesse.</corpo>
+					</comma>
+					<comma id="art5-com2">
+						<num>2.</num>
+						<corpo>I locali utilizzati ad uso agrituristico sono assimilati ad ogni effetto alle abitazioni rurali, mantengono la destinazione d'uso agricolo e sono strumentali all'attività agricola sia ai fini catastali che della pianificazione urbanistica.</corpo>
+					</comma>
+					<comma id="art5-com3">
+						<num>3.</num>
+						<corpo>Sugli edifici esistenti e destinati alle attività agrituristiche sono consentiti interventi di restauro, di ristrutturazione, di adeguamento funzionale, di risanamento conservativo e abbattimento delle barriere architettoniche, da eseguire nel rispetto delle caratteristiche tipologiche ed architettoniche degli edifici esistenti e nel rispetto delle caratteristiche ambientali delle zone interessate, utilizzando materiali costruttivi tipici ed elementi architettonici e decorativi caratteristici dei luoghi.</corpo>
+					</comma>
+					<comma id="art5-com4">
+						<num>4.</num>
+						<corpo>Ai fini del superamento e dell'eliminazione delle barriere architettoniche nelle strutture agrituristiche, si applicano le prescrizioni previste per le strutture ricettive dall'articolo 5 del decreto del Ministro dei lavori pubblici 14 giugno 1989, n. 236, quando la capacità ricettiva dell'azienda sia superiore a sei posti letto.</corpo>
+					</comma>
+					<comma id="art5-com5">
+						<num>5.</num>
+						<corpo>
+							È consentita deroga alla disposizione di cui al
+							<rif xlink:href="#art5-com4" xlink:type="simple">comma 4</rif>
+							, per le aziende di cui al
+							<rif xlink:href="#art3-com5" xlink:type="simple">comma 5 dell'articolo 3</rif>
+							e quando si dimostri l'impossibilità tecnica di abbattere le barriere architettoniche, in relazione agli elementi strutturali ed impiantistici nonché al rispetto delle specifiche caratteristiche architettoniche e paesistico-ambientali. Rimane ferma, laddove possibile, l'adozione di diverse soluzioni agevolative dell'accesso.
+						</corpo>
+					</comma>
+					<comma id="art5-com6">
+						<num>6.</num>
+						<corpo>Eventuali ampliamenti sono possibili nel rispetto delle norme urbanistiche esistenti.</corpo>
+					</comma>
+					<comma id="art5-com7">
+						<num>7.</num>
+						<corpo>
+							Le aree e le attrezzature destinate all'attività agrituristica devono essere strutturate in modo conforme alle prescrizioni di cui alla
+							<rif xlink:href="urn:nir:stato:legge:1989-01-09;13" xlink:type="simple">legge 9 gennaio 1989, n. 13</rif>
+							; per i locali destinati all'attività agrituristica, purché abbiano l'altezza non inferiore a metri 2,70 e comunque siano ritenuti idonei dagli uffici competenti dell'A.S.Re.M. per gli aspetti igienico-sanitari, si prescinde dalle norme urbanistiche concernenti i pubblici esercizi di ristorazione.
+						</corpo>
+					</comma>
+					<comma id="art5-com8">
+						<num>8.</num>
+						<corpo>
+							La produzione, la preparazione, il confezionamento e la somministrazione di alimenti e di bevande sono soggetti alle disposizioni di cui alla
+							<rif xlink:href="urn:nir:stato:legge:1962-04-30;283" xlink:type="simple">legge 30 aprile 1962, n. 283</rif>
+							, e a tutte le successive disposizioni concernenti l'igiene dei prodotti alimentari.
+						</corpo>
+					</comma>
+					<comma id="art5-com9">
+						<num>9.</num>
+						<corpo>L'autorità sanitaria, nella valutazione dei requisiti dei locali di trattamento e somministrazione di sostanze alimentari e del relativo piano aziendale di autocontrollo igienico-sanitario, tiene conto della diversificazione e della limitata quantità delle produzioni, dell'adozione di metodi tradizionali di lavorazione e dell'impiego di prodotti agricoli propri.</corpo>
+					</comma>
+					<comma id="art5-com10">
+						<num>10.</num>
+						<corpo>Nel caso di somministrazione di pasti in numero massimo di dieci, per la loro preparazione, può essere autorizzato l'uso della cucina domestica previa autorizzazione sanitaria.</corpo>
+					</comma>
+					<comma id="art5-com11">
+						<num>11.</num>
+						<corpo>Per le attività agrituristiche di alloggio, nei limiti di sei posti letto, per l'idoneità dei locali è sufficiente il requisito dell'abitabilità.</corpo>
+					</comma>
+					<comma id="art5-com12">
+						<num>12.</num>
+						<corpo>L'azienda può dotarsi di parco giochi, di aree per attività ricreative e di piccole piscine.</corpo>
+					</comma>
+					<comma id="art5-com13">
+						<num>13.</num>
+						<corpo>L'attività agrituristica, in Comuni con non più di mille abitanti, può essere svolta dagli imprenditori agricoli in immobili siti nel centro abitato qualora il fondo agricolo ne fosse sprovvisto.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>Funzioni e compiti amministrativi della Regione</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<alinea>Sono riservati alla Regione le funzioni ed i compiti amministrativi concernenti:</alinea>
+						<el id="art6-com1-leta">
+							<num>a)</num>
+							<corpo>
+								l'adozione del piano agrituristico regionale di cui all'
+								<rif xlink:href="#art8" xlink:type="simple">articolo 8</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art6-com1-letb">
+							<num>b)</num>
+							<corpo>
+								l'adozione del regolamento di cui all'
+								<rif xlink:href="#art9" xlink:type="simple">articolo 9</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art6-com1-letc">
+							<num>c)</num>
+							<corpo>la concessione di contributi per iniziative a favore dell'agriturismo di cui agli articoli 19, 20 e 21;</corpo>
+						</el>
+						<el id="art6-com1-letd">
+							<num>d)</num>
+							<corpo>
+								l'adozione di specifiche tabelle per il calcolo del tempo-lavoro medio convenzionale di cui all'
+								<rif xlink:href="#art10-com2" xlink:type="simple">articolo 10, comma 2</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art6-com1-lete">
+							<num>e)</num>
+							<corpo>la classificazione delle aziende agrituristiche ed il relativo aggiornamento;</corpo>
+						</el>
+						<el id="art6-com1-letf">
+							<num>f)</num>
+							<corpo>la vigilanza ed il controllo sull'applicazione della presente legge;</corpo>
+						</el>
+						<el id="art6-com1-letg">
+							<num>g)</num>
+							<corpo>
+								la valutazione di idoneità dei soggetti richiedenti l'iscrizione nell'elenco regionale di cui all'
+								<rif xlink:href="#art12" xlink:type="simple">articolo 12</rif>
+								e la tenuta dell'elenco stesso.
+							</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>Funzioni e compiti amministrativi dei Comuni</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<alinea>Sono attribuiti ai Comuni le funzioni ed i compiti amministrativi concernenti:</alinea>
+						<el id="art7-com1-leta">
+							<num>a)</num>
+							<corpo>la dichiarazione di inizio di attività e l'autorizzazione a seguito di subentro nell'azienda;</corpo>
+						</el>
+						<el id="art7-com1-letb">
+							<num>b)</num>
+							<corpo>
+								i periodi di apertura di cui all'
+								<rif xlink:href="#art13-com1-leta-num3" xlink:type="simple">articolo 13, comma 1, lettera a), numero 3)</rif>
+								e le tariffe di cui all'
+								<rif xlink:href="#art14" xlink:type="simple">articolo 14</rif>
+								.
+							</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>Piano agrituristico regionale</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>La Giunta regionale, in conformità alle linee della programmazione generale socio-economica e territoriale, adotta, sentita la competente commissione consiliare, il piano agrituristico regionale con le procedure vigenti in tema di programmazione.</corpo>
+					</comma>
+					<comma id="art8-com2">
+						<num>2.</num>
+						<alinea>Il piano, che ha validità triennale, definisce in particolare:</alinea>
+						<el id="art8-com2-leta">
+							<num>a)</num>
+							<corpo>le aree di prevalente sviluppo agrituristico;</corpo>
+						</el>
+						<el id="art8-com2-letb">
+							<num>b)</num>
+							<corpo>le linee di sviluppo del settore, tenendo conto delle diverse vocazioni territoriali;</corpo>
+						</el>
+						<el id="art8-com2-letc">
+							<num>c)</num>
+							<corpo>le azioni di sostegno alle attività agrituristiche, quali attività di studio, ricerca, sperimentazione e formazione professionale;</corpo>
+						</el>
+						<el id="art8-com2-letd">
+							<num>d)</num>
+							<corpo>gli interventi finanziabili nel periodo di validità del piano nonché le relative procedure di finanziamento;</corpo>
+						</el>
+						<el id="art8-com2-lete">
+							<num>e)</num>
+							<corpo>le risorse finanziarie con riferimento ai bilanci regionali pluriennale e annuale.</corpo>
+						</el>
+					</comma>
+					<comma id="art8-com3">
+						<num>3.</num>
+						<corpo>
+							La Giunta regionale, nella definizione delle azioni di sostegno all'agriturismo di cui al
+							<rif xlink:href="#art8-com2-letc" xlink:type="simple">comma 2, lettera c)</rif>
+							, si avvale delle organizzazioni professionali agricole maggiormente rappresentative a livello regionale.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<rubrica>Regolamento regionale</rubrica>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<alinea>La Regione, entro novanta giorni dall'entrata in vigore della presente legge, approva il regolamento di attuazione nel quale sono definiti:</alinea>
+						<el id="art9-com1-leta">
+							<num>a)</num>
+							<corpo>i requisiti strutturali, igienico-sanitari e di sicurezza delle strutture destinate all'agriturismo;</corpo>
+						</el>
+						<el id="art9-com1-letb">
+							<num>b)</num>
+							<corpo>
+								i criteri per la determinazione della capacità ricettiva delle aziende agrituristiche entro i limiti previsti dall'
+								<rif xlink:href="#art10-com4" xlink:type="simple">articolo 10, comma 4</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art9-com1-letc">
+							<num>c)</num>
+							<corpo>
+								i parametri per la somministrazione di pasti, alimenti e bevande, nel corso di eventi con finalità promozionali di cui all'
+								<rif xlink:href="#art24" xlink:type="simple">articolo 24</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art9-com1-letd">
+							<num>d)</num>
+							<corpo>
+								i criteri e le modalità per la concessione dei finanziamenti di cui all'
+								<rif xlink:href="#art19" xlink:type="simple">articolo 19</rif>
+								, nonché i casi e le modalità per l'apposizione del vincolo al mantenimento della destinazione d'uso sui beni per i quali sono stati concessi i finanziamenti, pena la revoca degli stessi;
+							</corpo>
+						</el>
+						<el id="art9-com1-lete">
+							<num>e)</num>
+							<corpo>la disciplina relativa all'attività di macellazione di animali e la preparazione di alimenti da utilizzare per l'attività agrituristica di somministrazione di pasti, nel rispetto della normativa sanitaria vigente;</corpo>
+						</el>
+						<el id="art9-com1-letf">
+							<num>f)</num>
+							<corpo>i prodotti che possono essere somministrati ed acquistati da produttori e distributori commerciali;</corpo>
+						</el>
+						<el id="art9-com1-letg">
+							<num>g)</num>
+							<corpo>
+								i criteri e le modalità dell'attività di vigilanza, monitoraggio e valutazione di cui all'
+								<rif xlink:href="#art26" xlink:type="simple">articolo 26</rif>
+								.
+							</corpo>
+						</el>
+					</comma>
+					<comma id="art9-com2">
+						<num>2.</num>
+						<corpo>Con il regolamento sono altresì determinati il sistema per la classificazione delle aziende agrituristiche nonché i criteri e le modalità per la relativa applicazione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Art. 10</num>
+					<rubrica>Criteri e limiti dell'attività agrituristica</rubrica>
+					<comma id="art10-com1">
+						<num>1.</num>
+						<corpo>L'attività agrituristica è esercitata in rapporto di connessione e complementarietà con l'attività agricola, che rimane principale.</corpo>
+					</comma>
+					<comma id="art10-com2">
+						<num>2.</num>
+						<corpo>L'attività agricola è considerata principale quando il tempo-lavoro medio convenzionale necessario per lo svolgimento dell'attività agricola prevale sul tempo-lavoro medio convenzionale necessario per lo svolgimento dell'attività agrituristica. La Giunta regionale adotta, con criteri uniformi, apposite tabelle, da aggiornare ogni tre anni, per il calcolo delle ore lavorative relative alle attività agricole ed agrituristiche.</corpo>
+					</comma>
+					<comma id="art10-com3">
+						<num>3.</num>
+						<corpo>
+							Al fine di sostenere le attività agrituristiche nelle zone montane o svantaggiate nonché nelle aree naturali protette e perseguire gli obiettivi di promozione della qualità e cura dell'ambiente connessi all'esercizio dell'attività di agriturismo, al tempo di lavoro agricolo calcolato in base alle tabelle di cui al
+							<rif xlink:href="#art10-com2" xlink:type="simple">comma 2</rif>
+							si applica un coefficiente correttivo compreso fra 1,5 e 2,5 determinato dal competente Servizio regionale.
+						</corpo>
+					</comma>
+					<comma id="art10-com4">
+						<num>4.</num>
+						<alinea>La capacità ricettiva delle aziende agrituristiche è soggetta ai seguenti limiti:</alinea>
+						<el id="art10-com4-leta">
+							<num>a)</num>
+							<corpo>per l'alloggio, in relazione anche alla superficie dell'azienda agricola ed alla sua capacità produttiva, secondo i criteri stabiliti dal regolamento, non oltre venticinque posti letto; su espressa richiesta dell'ospite, nelle camere adibite a pernottamento, comprese quelle poste in unità abitative indipendenti, può essere aggiunto temporaneamente, per la durata del soggiorno, un letto supplementare per i bambini di età non superiore a dodici anni, fermo restando il rispetto dei requisiti igienico-sanitari; tali letti aggiunti non sono conteggiati ai fini della determinazione del limite dei posti letto autorizzati;</corpo>
+						</el>
+						<el id="art10-com4-letb">
+							<num>b)</num>
+							<corpo>per il campeggio, dodici piazzole per gli agricampeggi, per un massimo di trenta ospiti e solo in aziende con estensione superiore a tre ettari di superficie agricola totale;</corpo>
+						</el>
+						<el id="art10-com4-letc">
+							<num>c)</num>
+							<corpo>per la somministrazione di pasti e bevande, fino a settantadue pasti giornalieri.</corpo>
+						</el>
+					</comma>
+					<comma id="art10-com5">
+						<num>5.</num>
+						<alinea>
+							Al fine di contribuire alla conservazione ed alla qualificazione delle attività agricole e delle aziende agricole o agrituristiche della zona, nonché alla caratterizzazione regionale dell'offerta enogastronomica, la somministrazione di alimenti e bevande di cui all'
+							<rif xlink:href="#art2-com3-letb" xlink:type="simple">articolo 2, comma 3, lettera b)</rif>
+							, fatto salvo quanto previsto alla
+							<rif xlink:href="#art9-com1-letf" xlink:type="simple">lettera f) del comma 1 dell'articolo 9</rif>
+							, è soggetta ai seguenti limiti di provenienza:
+						</alinea>
+						<el id="art10-com5-leta">
+							<num>a)</num>
+							<corpo>alimenti e prodotti propri in misura non inferiore al quaranta per cento;</corpo>
+						</el>
+						<el id="art10-com5-letb">
+							<num>b)</num>
+							<corpo>alimenti e prodotti provenienti da aziende locali che li producono nel territorio regionale per il cinquanta per cento.</corpo>
+						</el>
+					</comma>
+					<comma id="art10-com6">
+						<num>6.</num>
+						<corpo>
+							Nelle zone montane o svantaggiate e nei territori compresi in aree naturali protette nazionali e regionali la percentuale dei prodotti propri di cui al
+							<rif xlink:href="#art10-com5-leta" xlink:type="simple">comma 5, lettera a)</rif>
+							, è ridotta al venticinque per cento. Per la restante parte, fatto salvo quanto previsto alla
+							<rif xlink:href="#art9-com1-letf" xlink:type="simple">lettera f) del comma 1 dell'articolo 9</rif>
+							, sono somministrati i prodotti provenienti da aziende locali che li producono nel territorio regionale.
+						</corpo>
+					</comma>
+					<comma id="art10-com7">
+						<num>7.</num>
+						<corpo>
+							Le attività ricreative o culturali di cui all'
+							<rif xlink:href="#art2-com3-letd" xlink:type="simple">articolo 2, comma 3, lettera d)</rif>
+							, possono essere svolte autonomamente rispetto alle attività di cui alle lettere a), b) e c) del
+							<rif xlink:href="#art2-com3" xlink:type="simple">comma 3 dell'articolo 2</rif>
+							, solo se connesse e complementari con l'attività agricola. Qualora non sussista tale connessione, le stesse attività costituiscono servizi integrativi ed accessori riservati agli ospiti che soggiornano in azienda e non possono dare luogo ad autonomo corrispettivo.
+						</corpo>
+					</comma>
+					<comma id="art10-com8">
+						<num>8.</num>
+						<alinea>Il rapporto di connessione e complementarietà è presunto nel caso di aziende che:</alinea>
+						<el id="art10-com8-leta">
+							<num>a)</num>
+							<corpo>danno ospitalità ai campeggiatori utilizzando fino a cinque piazzole;</corpo>
+						</el>
+						<el id="art10-com8-letb">
+							<num>b)</num>
+							<corpo>effettuano attività di ricezione e di somministrazione di pasti e bevande fino a otto ospiti.</corpo>
+						</el>
+					</comma>
+					<comma id="art10-com9">
+						<num>9.</num>
+						<corpo>
+							Nei casi di cui al
+							<rif xlink:href="#art10-com8" xlink:type="simple">comma 8</rif>
+							può essere consentito l'uso della cucina domestica.
+						</corpo>
+					</comma>
+					<comma id="art10-com10">
+						<num>10.</num>
+						<corpo>
+							Se l'imprenditore agrituristico si avvale dei due sistemi di ospitalità di cui al
+							<rif xlink:href="#art10-com4" xlink:type="simple">comma 4</rif>
+							, lettere a) e b), i limiti di ricettività sono ridotti di un terzo.
+						</corpo>
+					</comma>
+					<comma id="art10-com11">
+						<num>11.</num>
+						<corpo>I locali destinati ad alloggi agrituristici vanno arredati con decoro ed in maniera adeguata alle normali esigenze degli ospiti.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art11">
+					<num>Art. 11</num>
+					<rubrica>Norme igienico-sanitarie</rubrica>
+					<comma id="art11-com1">
+						<num>1.</num>
+						<corpo>I requisiti strutturali e igienico-sanitari degli alloggi agrituristici sono quelli previsti dalle vigenti disposizioni e dai regolamenti comunali edilizi e di igiene per i locali di abitazione fatte salve le deroghe previste dal regolamento.</corpo>
+					</comma>
+					<comma id="art11-com2">
+						<num>2.</num>
+						<corpo>
+							Nella valutazione di tali requisiti deve essere tenuto conto delle particolari caratteristiche di ruralità degli edifici esistenti. In particolare, ai fini della utilizzazione agrituristica è consentito derogare ai limiti di altezza e di superficie aereo-illuminante previsti dalle norme di cui al
+							<rif xlink:href="#art11-com1" xlink:type="simple">comma 1</rif>
+							, purché vengano garantite condizioni strutturali ed igienico-sanitarie considerate sufficienti all'accertamento dell'autorità sanitaria. In ogni caso il recupero di edifici rurali vetusti è consentito purché sia assicurata per ogni singola unità l'altezza interna media di m. 2,70, ulteriormente ridotta a m. 2,55 per i comuni posti in zone montane e svantaggiate.
+						</corpo>
+					</comma>
+					<comma id="art11-com3">
+						<num>3.</num>
+						<corpo>Negli spazi aperti destinati ai campeggiatori vanno assicurati i servizi igienico-sanitari, la fornitura di acqua e di energia elettrica, la raccolta e lo smaltimento dei rifiuti solidi, attraverso impianti esterni oppure interni alle strutture edilizie dell'azienda agricola.</corpo>
+					</comma>
+					<comma id="art11-com4">
+						<num>4.</num>
+						<corpo>La produzione, la preparazione, il confezionamento e la somministrazione di alimenti e bevande sono soggette alle norme vigenti in materia di tutela della salute.</corpo>
+					</comma>
+					<comma id="art11-com5">
+						<num>5.</num>
+						<corpo>L'autorità sanitaria, nella valutazione dei requisiti dei locali adibiti al trattamento ed alla somministrazione di sostanze alimentari e del piano aziendale di autocontrollo igienico-sanitario, tiene conto della diversificazione e limitata quantità delle produzioni, al fine dell'autorizzazione ad utilizzare la cucina o locali polifunzionali di trattamento, manipolazione, trasformazione e conservazione dei prodotti.</corpo>
+					</comma>
+					<comma id="art11-com6">
+						<num>6.</num>
+						<alinea>Il regolamento disciplina, nel rispetto della normativa vigente, gli ulteriori requisiti strutturali, igienicosanitari e di sicurezza delle strutture destinate all'esercizio dell'attività agrituristica nonché l'attività di macellazione con particolare riferimento a:</alinea>
+						<el id="art11-com6-leta">
+							<num>a)</num>
+							<corpo>specie e quantità di animali che possono essere macellati;</corpo>
+						</el>
+						<el id="art11-com6-letb">
+							<num>b)</num>
+							<corpo>caratteristiche dei locali di macellazione;</corpo>
+						</el>
+						<el id="art11-com6-letc">
+							<num>c)</num>
+							<corpo>preparazione, somministrazione e consumo diretto nel luogo di produzione;</corpo>
+						</el>
+						<el id="art11-com6-letd">
+							<num>d)</num>
+							<corpo>preparazione e somministrazione di preparati a base di carne prodotta in azienda.</corpo>
+						</el>
+					</comma>
+					<comma id="art11-com7">
+						<num>7.</num>
+						<corpo>Quando il numero dei posti tavola non è superiore a quindici oppure si organizzano degustazioni di prodotti aziendali, al fine di determinare l'idoneità dei locali utilizzati, compresa la cucina, è sufficiente il rispetto dei requisiti previsti dalle disposizioni contenute nella normativa vigente e nei regolamenti edilizi e di igiene per i locali ad uso abitativo.</corpo>
+					</comma>
+					<comma id="art11-com8">
+						<num>8.</num>
+						<corpo>Nelle aziende agrituristiche che abbiano un massimo di dieci posti letto è possibile autorizzare l'uso di una cucina per gli ospiti qualora sia disponibile uno spazio adeguato da destinare a spazio comune per il consumo dei pasti. In tal caso, la cucina deve possedere i requisiti previsti dalle disposizioni contenute nella normativa vigente e nei regolamenti edilizi e di igiene per i locali ad uso abitativo.</corpo>
+					</comma>
+					<comma id="art11-com9">
+						<num>9.</num>
+						<corpo>Gli alloggi agrituristici sono dotati di almeno un servizio igienico-sanitario ogni quattro persone; gli agriturismi che danno ospitalità in spazi aperti, attrezzati con servizi igienico-sanitari e con servizio di lavanderia, sono dotati di almeno un servizio igienicosanitario ogni sei persone e di un servizio di lavanderia ogni dieci persone. Gli agriturismi autorizzati precedentemente alla data di entrata in vigore della presente legge hanno ventiquattro mesi di tempo per adeguarsi alle disposizioni di cui al presente comma.</corpo>
+					</comma>
+					<comma id="art11-com10">
+						<num>10.</num>
+						<corpo>
+							Le piscine delle aziende agrituristiche sono classificate private a uso collettivo e sono riservate ai soli ospiti che fruiscono delle attività di cui all'
+							<rif xlink:href="#art2-com3" xlink:type="simple">articolo 2, comma 3</rif>
+							, lettere a), b), c), d), nel rispetto della normativa igienico-sanitaria in materia di qualità delle acque e delle norme di sicurezza, secondo le modalità applicative indicate nel regolamento.
+						</corpo>
+					</comma>
+					<comma id="art11-com11">
+						<num>11.</num>
+						<corpo>La macellazione, la somministrazione e la cessione dei volatili, dei conigli e della selvaggina allevata, può avvenire in azienda nel rispetto delle norme vigenti in materia di produzione e di immissione di carni sul mercato.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art12">
+					<num>Art. 12</num>
+					<rubrica>Elenco regionale degli operatori abilitati all'esercizio dell'attività agrituristica</rubrica>
+					<comma id="art12-com1">
+						<num>1.</num>
+						<corpo>Presso l'Assessorato regionale competente è istituito l'elenco degli operatori abilitati all'esercizio delle attività agrituristiche.</corpo>
+					</comma>
+					<comma id="art12-com2">
+						<num>2.</num>
+						<corpo>
+							L'iscrizione è condizione necessaria per la presentazione della dichiarazione di inizio attività di cui all'
+							<rif xlink:href="#art13" xlink:type="simple">articolo 13</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art12-com3">
+						<num>3.</num>
+						<corpo>L'iscrizione è deliberata dalla Commissione regionale per l'agriturismo, nominata con decreto del Presidente della Regione e di seguito denominata "Commissione", la quale provvede alla tenuta dell'elenco. Il provvedimento di nomina può essere emesso anche in mancanza di alcune delle designazioni richieste, purché siano individuati la metà più uno dei componenti.</corpo>
+					</comma>
+					<comma id="art12-com4">
+						<num>4.</num>
+						<alinea>La Commissione dura in carica cinque anni ed è composta da:</alinea>
+						<el id="art12-com4-leta">
+							<num>a)</num>
+							<corpo>Assessore competente per materia o un dirigente da lui delegato, con funzione di Presidente;</corpo>
+						</el>
+						<el id="art12-com4-letb">
+							<num>b)</num>
+							<corpo>due rappresentanti esperti designati dalle associazioni agrituristiche più rappresentative operanti in regione;</corpo>
+						</el>
+						<el id="art12-com4-letc">
+							<num>c)</num>
+							<corpo>un componente designato dalla provincia di Campobasso e un componente designato dalla provincia di Isernia.</corpo>
+						</el>
+					</comma>
+					<comma id="art12-com5">
+						<num>5.</num>
+						<corpo>Funge da segretario della Commissione un dipendente regionale in servizio presso l'Assessorato competente.</corpo>
+					</comma>
+					<comma id="art12-com6">
+						<num>6.</num>
+						<corpo>
+							La domanda di iscrizione va indirizzata al Presidente della Commissione corredata della documentazione attestante il possesso dei requisiti di imprenditore agricolo, da una scheda tecnica contenente la descrizione dettagliata delle caratteristiche dell'azienda e delle attività che il richiedente intende svolgere, dal piano aziendale di cui al
+							<rif xlink:href="#art3-com3" xlink:type="simple">comma 3 dell'articolo 3</rif>
+							attestante in particolare l'effettiva potenzialità agrituristica dell'azienda agricola, il calcolo delle giornate lavorative e la prevalenza dell'attività agricola su quella agrituristica.
+						</corpo>
+					</comma>
+					<comma id="art12-com7">
+						<num>7.</num>
+						<alinea>Non possono essere iscritti nell'elenco regionale coloro che:</alinea>
+						<el id="art12-com7-leta">
+							<num>a)</num>
+							<corpo>
+								abbiano riportato, nel triennio, con sentenza passata in giudicato, condanna per uno dei delitti previsti dagli articoli 442, 513, 513-bis, 515 e 517 del
+								<rif xlink:href="urn:nir:stato:codice.penale:1930-10-19;1398" xlink:type="simple">codice penale</rif>
+								, o per uno dei delitti in materia di igiene e sanità o di frode nella preparazione degli alimenti previsti in leggi speciali;
+							</corpo>
+						</el>
+						<el id="art12-com7-letb">
+							<num>b)</num>
+							<corpo>
+								siano sottoposti a misure di prevenzione ai sensi della
+								<rif xlink:href="urn:nir:stato:legge:1956-12-27;1423" xlink:type="simple">legge 27 dicembre 1956, n. 1423</rif>
+								, o siano stati dichiarati delinquenti abituali;
+							</corpo>
+						</el>
+						<el id="art12-com7-letc">
+							<num>c)</num>
+							<corpo>
+								non siano in possesso dei requisiti soggettivi di cui agli articoli 11 e 92 del Testo Unico della legge di pubblica sicurezza, approvato con
+								<rif xlink:href="urn:nir:stato:regio.decreto:1931-06-18;773" xlink:type="simple">regio decreto 18 giugno 1931, n. 773</rif>
+								.
+							</corpo>
+						</el>
+					</comma>
+					<comma id="art12-com8">
+						<num>8.</num>
+						<corpo>Entro il termine di quarantacinque giorni dalla presentazione della domanda, la Commissione, ove sussistano i requisiti, provvede all'iscrizione all'elenco, dandone comunicazione agli interessati. Trascorso inutilmente detto termine, la domanda si intende accolta. Avverso il diniego di iscrizione, è ammesso il ricorso, entro trenta giorni, al Presidente della Giunta regionale.</corpo>
+					</comma>
+					<comma id="art12-com9">
+						<num>9.</num>
+						<corpo>I soggetti abilitati all'esercizio delle attività di agriturismo sono obbligati ogni tre anni a presentare una dichiarazione che autocertifichi la sussistenza dei requisiti di idoneità, su esplicita richiesta del Servizio competente della Regione Molise, che ne verifica la veridicità. Qualora i soggetti stessi non adempiano a tale obbligo, la Regione provvede alla cancellazione provvisoria dall'elenco e comunica la propria determinazione all'interessato con l'indicazione del termine per eventuali controdeduzioni. Decorso tale termine la Regione adotta il provvedimento definitivo, da notificare al soggetto interessato e al Comune competente ove viene svolta l'attività.</corpo>
+					</comma>
+					<comma id="art12-com10">
+						<num>10.</num>
+						<corpo>
+							L'iscrizione ha validità annuale ed è automaticamente rinnovata se non vi sono comunicazioni di cessazioni dell'attività da parte del titolare, o non sopravvengono le condizioni previste dall'
+							<rif xlink:href="#art15" xlink:type="simple">articolo 15</rif>
+							per la cancellazione.
+						</corpo>
+					</comma>
+					<comma id="art12-com11">
+						<num>11.</num>
+						<corpo>
+							Restano valide le autorizzazioni rilasciate in base alle normative già vigenti, fatto salvo quanto previsto all'
+							<rif xlink:href="#art30" xlink:type="simple">articolo 30</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art12-com12">
+						<num>12.</num>
+						<corpo>Ai componenti della Commissione, estranei all'Amministrazione regionale, competono, se ne ricorrono i presupposti, il rimborso delle spese di viaggio, secondo la normativa vigente per il personale dipendente della Regione Molise ed un gettone dell'importo stabilito dalla Giunta regionale per ogni effettiva presenza in Commissione. L'assenza ingiustificata di un componente a tre sedute consecutive della Commissione comporta la decadenza dalla carica.</corpo>
+					</comma>
+					<comma id="art12-com13">
+						<num>13.</num>
+						<corpo>I provvedimenti di revoca o di sospensione delle iscrizioni e le autorizzazioni amministrative a seguito di trasferimento dell'azienda agricola sono deliberati dalla Commissione nella prima seduta utile.</corpo>
+					</comma>
+					<comma id="art12-com14">
+						<num>14.</num>
+						<corpo>In caso di trasferimento dell'azienda agricola, il nuovo titolare è autorizzato, in via provvisoria, alla prosecuzione dell'attività agrituristica previa presentazione di autocertificazione con la quale si dichiari il possesso dei requisiti soggettivi previsti dalla normativa vigente e che non sono intervenute variazioni dei requisiti aziendali. Il Comune, entro e non oltre il termine di quarantacinque giorni, procede alla verifica dei requisiti posseduti dal nuovo conduttore al fine del rilascio dell'autorizzazione definitiva alla prosecuzione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art13">
+					<num>Art. 13</num>
+					<rubrica>Dichiarazione di inizio di attività</rubrica>
+					<comma id="art13-com1">
+						<num>1.</num>
+						<alinea>
+							Coloro che sono iscritti nell'elenco di cui all'
+							<rif xlink:href="#art12" xlink:type="simple">articolo 12</rif>
+							e che intendono esercitare le attività agrituristiche presentano al Comune, nel cui territorio è ubicata l'azienda, la dichiarazione di inizio di attività alla quale sono allegati:
+						</alinea>
+						<el id="art13-com1-leta">
+							<num>a)</num>
+							<alinea>una relazione dettagliata delle attività proposte fra quelle riconosciute idonee in sede di iscrizione nell'elenco degli operatori abilitati all'esercizio dell'attività con l'indicazione:</alinea>
+							<en id="art13-com1-leta-num1">
+								<num>1)</num>
+								<corpo>delle caratteristiche dell'azienda, degli edifici, dei locali e delle aree da adibire ad uso agrituristico;</corpo>
+							</en>
+							<en id="art13-com1-leta-num2">
+								<num>2)</num>
+								<corpo>della capacità ricettiva;</corpo>
+							</en>
+							<en id="art13-com1-leta-num3">
+								<num>3)</num>
+								<corpo>
+									del periodo di apertura e di eventuali periodi di sospensione dell'attività agrituristica nell'arco dell'anno, nel rispetto di quanto previsto all'
+									<rif xlink:href="#art16" xlink:type="simple">articolo 16</rif>
+									;
+								</corpo>
+							</en>
+							<en id="art13-com1-leta-num4">
+								<num>4)</num>
+								<corpo>del numero delle persone addette e del relativo rapporto con l'azienda agricola;</corpo>
+							</en>
+						</el>
+						<el id="art13-com1-letb">
+							<num>b)</num>
+							<corpo>
+								copia dell'attestato di partecipazione al corso di formazione sanitaria, relativo alle persone impegnate nell'esercizio delle attività agrituristiche, così come previsto dalla delibera di Giunta regionale dell'8 aprile 2008, n. 372, che sospende il libretto di idoneità sanitaria, in applicazione del
+								<rif xlink:href="urn:nir:comunita.europee:regolamento:2004-04-29;852" xlink:type="simple">Regolamento (CE) 29 aprile 2004, n. 852/2004</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art13-com1-letc">
+							<num>c)</num>
+							<corpo>un'autocertificazione relativa all'idoneità igienico-sanitaria degli immobili e dei locali da utilizzare per lo svolgimento delle attività agrituristiche;</corpo>
+						</el>
+						<el id="art13-com1-letd">
+							<num>d)</num>
+							<corpo>
+								certificato o dichiarazione sostitutiva di iscrizione nell'elenco regionale di cui all'
+								<rif xlink:href="#art12" xlink:type="simple">articolo 12</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art13-com1-lete">
+							<num>e)</num>
+							<corpo>copia dell'autorizzazione del proprietario all'utilizzazione degli immobili per attività agrituristica quando la richiesta viene avanzata dall'affittuario o comunque soggetto diverso dal proprietario del fondo.</corpo>
+						</el>
+					</comma>
+					<comma id="art13-com2">
+						<num>2.</num>
+						<corpo>
+							L'esercizio delle attività agrituristiche è intrapreso decorsi trenta giorni dalla data di presentazione della dichiarazione di cui al
+							<rif xlink:href="#art13-com1" xlink:type="simple">comma 1</rif>
+							, dandone contestuale comunicazione al Comune nel cui territorio è ubicata l'azienda.
+						</corpo>
+					</comma>
+					<comma id="art13-com3">
+						<num>3.</num>
+						<corpo>
+							Il Comune, nel termine di trenta giorni dal ricevimento della comunicazione di cui al
+							<rif xlink:href="#art13-com2" xlink:type="simple">comma 2</rif>
+							, in caso di accertata carenza delle condizioni, modalità e fatti legittimanti, adotta motivati provvedimenti di divieto di prosecuzione dell'attività e di rimozione dei suoi effetti, salvo che l'interessato, ove ciò sia possibile, provveda a conformare alla normativa vigente l'attività ed i suoi effetti entro un termine prefissato dall'amministrazione comunale, in ogni caso non inferiore a trenta giorni.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art14">
+					<num>Art. 14</num>
+					<rubrica>Obblighi amministrativi</rubrica>
+					<comma id="art14-com1">
+						<num>1.</num>
+						<corpo>Entro il 31 ottobre di ciascun anno i soggetti che esercitano attività agrituristiche presentano al Comune una dichiarazione contenente l'indicazione delle tariffe che si impegnano a praticare dal 1° gennaio dell'anno successivo; in caso di mancata comunicazione s'intendono confermate le tariffe comunicate l'anno precedente.</corpo>
+					</comma>
+					<comma id="art14-com2">
+						<num>2.</num>
+						<alinea>I soggetti che esercitano attività agrituristica inoltre sono tenuti a:</alinea>
+						<el id="art14-com2-leta">
+							<num>a)</num>
+							<corpo>esporre al pubblico, in luogo ben visibile, le tariffe praticate, le caratteristiche delle strutture e la classificazione attribuita;</corpo>
+						</el>
+						<el id="art14-com2-letb">
+							<num>b)</num>
+							<corpo>
+								rispettare le tariffe di cui al
+								<rif xlink:href="#art14-com1" xlink:type="simple">comma 1</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art14-com2-letc">
+							<num>c)</num>
+							<corpo>registrare e comunicare l'arrivo e la partenza degli ospiti attraverso le modalità delle vigenti disposizioni di legge in materia di pubblica sicurezza;</corpo>
+						</el>
+						<el id="art14-com2-letd">
+							<num>d)</num>
+							<corpo>non diffondere informazioni sulle caratteristiche delle strutture diverse dai dati comunicati.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art15">
+					<num>Art. 15</num>
+					<rubrica>Sospensione e divieto di esercizio di attività</rubrica>
+					<comma id="art15-com1">
+						<num>1.</num>
+						<corpo>
+							Il Sindaco del Comune competente può sospendere l'esercizio delle attività agrituristiche per un periodo massimo di dieci giorni per violazione degli obblighi di cui alla
+							<rif xlink:href="#art14-com2-leta" xlink:type="simple">lettera a) del comma 2 dell'articolo 14</rif>
+							e per un periodo massimo di trenta giorni per violazione degli obblighi di cui alla
+							<rif xlink:href="#art14-com2-letb" xlink:type="simple">lettera b) del comma 2 dell'articolo 14</rif>
+							. La sospensione viene altresì applicata a seguito di comunicazione inviata per le irregolarità riscontrate dagli organi di vigilanza di cui all'
+							<rif xlink:href="#art26" xlink:type="simple">articolo 26</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art15-com2">
+						<num>2.</num>
+						<corpo>L'esercizio dell'attività è altresì sospeso per il tempo necessario a consentire l'adeguamento strutturale e organizzativo previsto dalla normativa igienico-sanitaria, di sicurezza o da altre disposizioni di legge.</corpo>
+					</comma>
+					<comma id="art15-com3">
+						<num>3.</num>
+						<alinea>Il Comune adotta motivati provvedimenti di divieto di esercizio dell'attività qualora accerti che l'operatore agrituristico:</alinea>
+						<el id="art15-com3-leta">
+							<num>a)</num>
+							<corpo>
+								non abbia intrapreso l'attività decorso un anno dalla scadenza del termine di cui all'
+								<rif xlink:href="#art13-com2" xlink:type="simple">articolo 13, comma 2</rif>
+								, ovvero abbia sospeso l'attività da almeno un anno;
+							</corpo>
+						</el>
+						<el id="art15-com3-letb">
+							<num>b)</num>
+							<corpo>abbia perduto i requisiti richiesti per l'esercizio dell'attività di agriturismo;</corpo>
+						</el>
+						<el id="art15-com3-letc">
+							<num>c)</num>
+							<corpo>
+								sia incorso, durante l'anno solare, in più provvedimenti di sospensione di cui al
+								<rif xlink:href="#art15-com1" xlink:type="simple">comma 1</rif>
+								per complessivi sessanta giorni, esclusi quelli relativi all'adeguamento strutturale e organizzativo di cui al
+								<rif xlink:href="#art15-com2" xlink:type="simple">comma 2</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art15-com3-letd">
+							<num>d)</num>
+							<corpo>non abbia rispettato i vincoli di destinazione di uso degli immobili interessati.</corpo>
+						</el>
+					</comma>
+					<comma id="art15-com4">
+						<num>4.</num>
+						<corpo>I provvedimenti di divieto di esercizio vengono comunicati alla Commissione, che provvede alla cancellazione dall'elenco regionale degli operatori agrituristici in precedenza abilitati. è altresì comunicato ogni provvedimento di sospensione.</corpo>
+					</comma>
+					<comma id="art15-com5">
+						<num>5.</num>
+						<corpo>
+							A seguito della cancellazione di cui al
+							<rif xlink:href="#art15-com4" xlink:type="simple">comma 4</rif>
+							, qualora ne ricorrano le condizioni, si può procedere alla revoca degli eventuali contributi concessi ovvero al recupero di quelli erogati.
+						</corpo>
+					</comma>
+					<comma id="art15-com6">
+						<num>6.</num>
+						<corpo>Contro il provvedimento di revoca è ammesso il ricorso al Presidente della Giunta regionale entro 30 giorni dalla data di notifica dello stesso.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art16">
+					<num>Art. 16</num>
+					<rubrica>Periodi di apertura</rubrica>
+					<comma id="art16-com1">
+						<num>1.</num>
+						<corpo>L'attività di agriturismo può essere esercitata tutto l'anno oppure in periodi stabiliti preventivamente dall'imprenditore agricolo, previa comunicazione al Comune nel cui territorio è ubicata l'azienda.</corpo>
+					</comma>
+					<comma id="art16-com2">
+						<num>2.</num>
+						<corpo>Per esigenze legate alla conduzione dell'azienda agricola è possibile, senza obbligo di comunicazione al Comune, sospendere la ricezione degli ospiti per brevi periodi.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art17">
+					<num>Art. 17</num>
+					<rubrica>Formazione professionale</rubrica>
+					<comma id="art17-com1">
+						<num>1.</num>
+						<corpo>La Regione promuove la formazione, la riqualificazione e l'aggiornamento degli operatori agrituristici e dei loro familiari compatibilmente con la disciplina comunitaria in materia di aiuti alla formazione ed a favore dell'occupazione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art18">
+					<num>Art. 18</num>
+					<rubrica>Promozione dell'offerta agrituristica. Consorzi agrituristici</rubrica>
+					<comma id="art18-com1">
+						<num>1.</num>
+						<corpo>
+							La Regione incentiva e coordina, anche tramite e in collaborazione con le associazioni di categoria, le iniziative di offerta agrituristica regionale, finanziando idonee forme di pubblicità che mettano in evidenza le suddette attività ed il legame di esse con l'ambiente naturale, con la cultura e le tradizioni locali. I finanziamenti sono concessi in applicazione delle disposizioni di cui al
+							<rif xlink:href="urn:nir:comunita.europee:regolamento:2006;1998" xlink:type="simple">Regolamento (CE) n. 1998/ 2006</rif>
+							della Commissione del 15 dicembre 2006, relativo all'applicazione degli articoli 87 e 88 del trattato agli aiuti di importanza minore ("de minimis"), pubblicato nella Gazzetta Ufficiale dell'Unione Europea, serie L 379 del 28 dicembre 2006 .
+						</corpo>
+					</comma>
+					<comma id="art18-com2">
+						<num>2.</num>
+						<alinea>La Regione promuove la costituzione di consorzi agrituristici che possono:</alinea>
+						<el id="art18-com2-leta">
+							<num>a)</num>
+							<corpo>organizzare, per conto delle aziende associate, il piano di utilizzazione ottimale dei servizi e delle strutture dei singoli soci, al fine di conseguire una più intensa fruibilità delle strutture ed una maggiore socializzazione fra gli ospiti;</corpo>
+						</el>
+						<el id="art18-com2-letb">
+							<num>b)</num>
+							<corpo>promuovere l'immagine e la commercializzazione del prodotto agrituristico attraverso iniziative di animazione e di informazione e con campagne pubblicitarie, preferibilmente nel contesto delle iniziative di marketing territoriale;</corpo>
+						</el>
+						<el id="art18-com2-letc">
+							<num>c)</num>
+							<corpo>svolgere attività di informatizzazione ed assistenza telematica, al fine di incrementare la domanda e garantire la qualità dei servizi degli associati;</corpo>
+						</el>
+						<el id="art18-com2-letd">
+							<num>d)</num>
+							<corpo>istituire centri aziendali di promozione e servizi;</corpo>
+						</el>
+						<el id="art18-com2-lete">
+							<num>e)</num>
+							<corpo>promuovere la registrazione di marchi collettivi di qualità.</corpo>
+						</el>
+					</comma>
+					<comma id="art18-com3">
+						<num>3.</num>
+						<corpo>Possono partecipare ai consorzi anche gli imprenditori turistici, le società di servizi, le aziende di viaggi e turismo e le associazioni agrituristiche operanti nella regione.</corpo>
+					</comma>
+					<comma id="art18-com4">
+						<num>4.</num>
+						<corpo>È istituito l'elenco dei consorzi agrituristici, tenuto dalla struttura regionale competente. Possono iscriversi all'elenco i consorzi agrituristici con sede in Molise che associano non meno di dieci operatori agrituristici, con disponibilità complessiva di un numero di posti letto non inferiore a cento.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art19">
+					<num>Art. 19</num>
+					<rubrica>Incentivi agli imprenditori agricoli ed alle iniziative collegate all'agriturismo</rubrica>
+					<comma id="art19-com1">
+						<num>1.</num>
+						<corpo>
+							La Regione concorre agli investimenti degli imprenditori agricoli, iscritti negli elenchi di cui all'
+							<rif xlink:href="#art12" xlink:type="simple">articolo 12</rif>
+							, che intendono realizzare iniziative per attività di agriturismo, attraverso la concessione di finanziamenti tenuto conto delle risorse disponibili e con i criteri stabiliti dal regolamento.
+						</corpo>
+					</comma>
+					<comma id="art19-com2">
+						<num>2.</num>
+						<corpo>Con il regolamento sono fissati i criteri e le modalità per la concessione dei finanziamenti nonché i casi e le modalità per l'apposizione del vincolo al mantenimento della destinazione d'uso sui beni per i quali sono stati concessi i finanziamenti, pena la revoca degli stessi.</corpo>
+					</comma>
+					<comma id="art19-com3">
+						<num>3.</num>
+						<alinea>
+							Le iniziative finanziabili ai sensi del
+							<rif xlink:href="#art19-com1" xlink:type="simple">comma 1</rif>
+							sono definite annualmente dalla Giunta regionale con propria deliberazione, nel rispetto dei criteri fissati dal regolamento e tenendo conto, per le iniziative concernenti l'agriturismo, di quanto previsto dal piano di cui all'
+							<rif xlink:href="#art8" xlink:type="simple">articolo 8</rif>
+							, ed in particolare sono rivolti alla:
+						</alinea>
+						<el id="art19-com3-leta">
+							<num>a)</num>
+							<corpo>ristrutturazione, ampliamento e sistemazione di locali, cucine e stanze da destinare alle attività agrituristiche in fabbricati censiti come rurali, compreso l'adeguamento funzionale e la realizzazione di strutture per l'abbattimento delle barriere architettoniche;</corpo>
+						</el>
+						<el id="art19-com3-letb">
+							<num>b)</num>
+							<corpo>adattamento di spazi aperti da destinare alla sosta di campeggiatori;</corpo>
+						</el>
+						<el id="art19-com3-letc">
+							<num>c)</num>
+							<corpo>realizzazione, nei fabbricati aziendali o sociali, di centri di commercializzazione per la vendita al dettaglio o per il consumo di prodotti agricoli tipici della zona, biologici e artigianali non alimentari;</corpo>
+						</el>
+						<el id="art19-com3-letd">
+							<num>d)</num>
+							<corpo>realizzazione di strutture sportive ed equestri, per attività ricreative, parco giochi, piccole piscine e di centri di servizio per la rivitalizzazione delle aree rurali, connesse e dimensionate all'attività agrituristica;</corpo>
+						</el>
+						<el id="art19-com3-lete">
+							<num>e)</num>
+							<corpo>realizzazione di impianti di produzione di energia da fonti rinnovabili, installazione, ripristino, manutenzione straordinaria e miglioramento di impianti igienico-sanitari, idrici, termici, elettrici e telefonici, al servizio dei locali e degli spazi di cui alle lettere a), b), c) e d);</corpo>
+						</el>
+						<el id="art19-com3-letf">
+							<num>f)</num>
+							<corpo>arredamento dei locali utilizzati a scopo agrituristico.</corpo>
+						</el>
+					</comma>
+					<comma id="art19-com4">
+						<num>4.</num>
+						<corpo>
+							I contributi in conto capitale per le iniziative di cui al
+							<rif xlink:href="#art19-com1" xlink:type="simple">comma 1</rif>
+							si applicano a tutte le imprese che esercitano attività agrituristica, e sono concessi in applicazione del
+							<rif xlink:href="urn:nir:comunita.europee:regolamento:2006-12-15;1998" xlink:type="simple">Regolamento (CE) 15 dicembre 2006, n. 1998/2006</rif>
+							relativo all'applicazione degli articoli 87 e 88 del trattato agli aiuti di importanza minore, pubblicato nella Gazzetta Ufficiale dell'Unione Europea, serie L 379 del 28 dicembre 2006 .
+						</corpo>
+					</comma>
+					<comma id="art19-com5">
+						<num>5.</num>
+						<corpo>I locali, gli impianti e le attrezzature oggetto dei citati benefici sono soggetti ad un vincolo di destinazione decennale a decorrere dalla data del collaudo.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art20">
+					<num>Art. 20</num>
+					<rubrica>Modalità di richiesta e liquidazione degli incentivi finanziari</rubrica>
+					<comma id="art20-com1">
+						<num>1.</num>
+						<corpo>Il regolamento definisce le modalità di richiesta diconcessione dei contributi, la documentazione da produrre e le modalità di erogazione delle provvidenze accordate.</corpo>
+					</comma>
+					<comma id="art20-com2">
+						<num>2.</num>
+						<corpo>Lo stesso regolamento fissa gli obblighi a cui devono attenersi gli operatori agrituristici.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art21">
+					<num>Art. 21</num>
+					<rubrica>Revoca dei benefici finanziari</rubrica>
+					<comma id="art21-com1">
+						<num>1.</num>
+						<alinea>La Giunta regionale dispone la revoca dei benefici ed il recupero delle somme eventualmente erogate, nonché delle spese e degli interessi, se:</alinea>
+						<el id="art21-com1-leta">
+							<num>a)</num>
+							<corpo>i soggetti beneficiari dei contributi perdono i requisiti richiesti per l'esercizio delle attività agrituristiche;</corpo>
+						</el>
+						<el id="art21-com1-letb">
+							<num>b)</num>
+							<corpo>l'iniziativa non è realizzata conformemente al progetto approvato ed entro i termini indicati nella deliberazione di concessione;</corpo>
+						</el>
+						<el id="art21-com1-letc">
+							<num>c)</num>
+							<corpo>sono accertate sostanziali irregolarità nella documentazione giustificativa delle spese;</corpo>
+						</el>
+						<el id="art21-com1-letd">
+							<num>d)</num>
+							<corpo>viene mutata la destinazione dell'immobile prima della scadenza del termine stabilito nella presente legge;</corpo>
+						</el>
+						<el id="art21-com1-lete">
+							<num>e)</num>
+							<corpo>vengono rilevate violazioni delle norme edilizie e degli strumenti urbanistici vigenti;</corpo>
+						</el>
+						<el id="art21-com1-letf">
+							<num>f)</num>
+							<corpo>non si ottemperi alle disposizioni previste dagli articoli 2, 10, 11 e 14;</corpo>
+						</el>
+						<el id="art21-com1-letg">
+							<num>g)</num>
+							<corpo>l'attività agrituristica non venga iniziata entro un anno dalla data di accertamento finale dell'intervento ammesso a contributo.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art22">
+					<num>Art. 22</num>
+					<rubrica>Sanzioni</rubrica>
+					<comma id="art22-com1">
+						<num>1.</num>
+						<alinea>
+							Per la violazione della disposizione di cui all'
+							<rif xlink:href="#art23-com1" xlink:type="simple">articolo 23, comma 1</rif>
+							, si applica la sanzione amministrativa secondo le seguenti modalità:
+						</alinea>
+						<el id="art22-com1-leta">
+							<num>a)</num>
+							<corpo>euro 5.000,00, per la prima violazione;</corpo>
+						</el>
+						<el id="art22-com1-letb">
+							<num>b)</num>
+							<corpo>euro 10.000,00 per la seconda e fino ad euro 15.000,00 per le successive violazioni.</corpo>
+						</el>
+					</comma>
+					<comma id="art22-com2">
+						<num>2.</num>
+						<corpo>
+							Nel caso di violazione delle norme di cui all'
+							<rif xlink:href="#art14" xlink:type="simple">articolo 14</rif>
+							, è applicata la sanzione amministrativa da 300,00 a 600,00 euro.
+						</corpo>
+					</comma>
+					<comma id="art22-com3">
+						<num>3.</num>
+						<corpo>Per l'esercizio dell'attività di agriturismo effettuato in assenza della dichiarazione di inizio di attività o dell'autorizzazione alla prosecuzione in caso di trasferimento dell'azienda, si applica la sanzione della chiusura dell'esercizio da disporsi con provvedimento del Comune competente.</corpo>
+					</comma>
+					<comma id="art22-com4">
+						<num>4.</num>
+						<alinea>
+							Per le violazioni delle disposizioni di cui all'
+							<rif xlink:href="#art4" xlink:type="simple">articolo 4</rif>
+							, si applicano le seguenti sanzioni amministrative:
+						</alinea>
+						<el id="art22-com4-leta">
+							<num>a)</num>
+							<corpo>da euro 2.000,00 a euro 5.000,00, in caso di prima violazione;</corpo>
+						</el>
+						<el id="art22-com4-letb">
+							<num>b)</num>
+							<corpo>da euro 5.000,00 a euro 8.500,00 e chiusura dell'attività agrituristica per quaranta giorni, a partire dalla seconda violazione.</corpo>
+						</el>
+					</comma>
+					<comma id="art22-com5">
+						<num>5.</num>
+						<corpo>
+							Gli importi delle sanzioni amministrative pecuniarie sono introitati dalla amministrazione regionale e le infrazioni sono accertate secondo le procedure previste dalla
+							<rif xlink:href="urn:nir:stato:legge:1981-11-24;689" xlink:type="simple">legge 24 novembre 1981, n. 689</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art23">
+					<num>Art. 23</num>
+					<rubrica>Riserva di denominazione. Classificazione</rubrica>
+					<comma id="art23-com1">
+						<num>1.</num>
+						<corpo>
+							L'uso della denominazione "agriturismo" e di termini da essa derivati nelle insegne, nel materiale illustrativo e pubblicitario ed ogni altra forma di comunicazione al pubblico, compresa quella telematica, è riservato esclusivamente agli imprenditori agricoli iscritti nell'elenco regionale di cui all'
+							<rif xlink:href="#art12" xlink:type="simple">articolo 12</rif>
+							, che esercitano le attività agrituristiche.
+						</corpo>
+					</comma>
+					<comma id="art23-com2">
+						<num>2.</num>
+						<alinea>Al fine di valorizzare l'offerta agrituristica, con il regolamento sono determinati:</alinea>
+						<el id="art23-com2-leta">
+							<num>a)</num>
+							<corpo>il sistema per la classificazione delle aziende agrituristiche, sulla base del livello di confortevolezza dell'ospitalità, della varietà dei servizi e della caratterizzazione enogastronomica, naturalista e culturale dell'accoglienza;</corpo>
+						</el>
+						<el id="art23-com2-letb">
+							<num>b)</num>
+							<corpo>i criteri e le modalità per l'assegnazione della classifica alle aziende agrituristiche e per il relativo aggiornamento da parte della competente struttura regionale.</corpo>
+						</el>
+					</comma>
+					<comma id="art23-com3">
+						<num>3.</num>
+						<corpo>A tutti i soggetti autorizzati viene rilasciato apposito contrassegno dalla Regione, con l'indicazione della specifica categoria e il relativo simbolo.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art24">
+					<num>Art. 24</num>
+					<rubrica>Vendita e promozione dei prodotti</rubrica>
+					<comma id="art24-com1">
+						<num>1.</num>
+						<corpo>Nell'esercizio dell'attività agrituristica rientra la vendita diretta, agli ospiti ed al pubblico, dei prodotti tipici e tradizionali, biologici e artigianali, compreso il pane, prodotti dall'azienda e dai consorzi o cooperative di cui l'imprenditore agrituristico è socio.</corpo>
+					</comma>
+					<comma id="art24-com2">
+						<num>2.</num>
+						<alinea>Le aziende agrituristiche che producono prodotti tradizionali o di qualità certificata ai sensi della normativa vigente possono realizzare in azienda eventi con finalità promozionali, che rientrano nelle attività didattiche, culturali, tradizionali e ricreative, riferite al mondo rurale, nel rispetto delle seguenti condizioni:</alinea>
+						<el id="art24-com2-leta">
+							<num>a)</num>
+							<corpo>
+								nel corso degli eventi la somministrazione di pasti, alimenti e bevande sul posto può essere rivolta a tutti i partecipanti e deve essere costituita prevalentemente da prodotti aziendali così come previsto dall'
+								<rif xlink:href="#art10-com5" xlink:type="simple">articolo 10, comma 5</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art24-com2-letb">
+							<num>b)</num>
+							<corpo>gli impianti e i locali utilizzati nel corso degli eventi devono avere i requisiti igienico-sanitari e di sicurezza previsti dalle norme vigenti.</corpo>
+						</el>
+					</comma>
+					<comma id="art24-com3">
+						<num>3.</num>
+						<corpo>
+							Alla vendita dei prodotti di cui al
+							<rif xlink:href="#art24-com1" xlink:type="simple">comma 1</rif>
+							si applicano le disposizioni previste dal
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-05-18;228" xlink:type="simple">decreto legislativo 18 maggio 2001, n. 228</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art25">
+					<num>Art. 25</num>
+					<rubrica>Normativa antincendio</rubrica>
+					<comma id="art25-com1">
+						<num>1.</num>
+						<corpo>Le aziende agrituristiche sono tenute al rispetto deldecreto del Ministero dell'Interno del 9 aprile 1994 solo per le prescrizioni di cui al Titolo III del decreto medesimo, in quanto attività ricettiva con capacità non superiore a venticinque posti letto.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art26">
+					<num>Art. 26</num>
+					<rubrica>Vigilanza, monitoraggio e valutazione</rubrica>
+					<comma id="art26-com1">
+						<num>1.</num>
+						<corpo>La Regione Molise, tramite il personale operante nell'ambito del competente Servizio, effettua il controllo sull'osservanza della presente legge predisponendo apposite verifiche annuali su un campione di aziende iscritte non inferiore al dieci per cento del totale.</corpo>
+					</comma>
+					<comma id="art26-com2">
+						<num>2.</num>
+						<corpo>Ai fini dell'esercizio di tale funzione il personale è munito di apposito tesserino di riconoscimento per l'accesso negli edifici e spazi adibiti alle attività agrituristiche.</corpo>
+					</comma>
+					<comma id="art26-com3">
+						<num>3.</num>
+						<alinea>Entro il 30 giugno di ogni anno, a partire dall'anno successivo a quello dell'entrata in vigore della presente legge, la Giunta regionale presenta alla Commissione consiliare competente una relazione comprendente tra l'altro:</alinea>
+						<el id="art26-com3-leta">
+							<num>a)</num>
+							<corpo>
+								una valutazione sul conseguimento delle finalità di cui all'
+								<rif xlink:href="#art1-com1" xlink:type="simple">articolo 1, comma 1</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art26-com3-letb">
+							<num>b)</num>
+							<corpo>dati relativi all'attività di vigilanza, controllo e monitoraggio svolta dal competente Servizio;</corpo>
+						</el>
+						<el id="art26-com3-letc">
+							<num>c)</num>
+							<corpo>dati relativi alle sanzioni pecuniarie, alle sospensioni e ai divieti di esercizio disposti ai sensi della presente legge;</corpo>
+						</el>
+						<el id="art26-com3-letd">
+							<num>d)</num>
+							<corpo>
+								i dati dell'archivio regionale delle aziende agrituristiche, aggiornato alle attivazioni ed ai subentri intervenuti nel corso dell'anno precedente e agli esiti della verifica a campione annualmente effettuata sulle aziende iscritte di cui al
+								<rif xlink:href="#art26-com1" xlink:type="simple">comma 1</rif>
+								.
+							</corpo>
+						</el>
+					</comma>
+					<comma id="art26-com4">
+						<num>4.</num>
+						<corpo>
+							Tutti gli organi di polizia sono deputati ad accertare i requisiti di cui all'
+							<rif xlink:href="#art4" xlink:type="simple">articolo 4</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art27">
+					<num>Art. 27</num>
+					<rubrica>Norme abrogative</rubrica>
+					<comma id="art27-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								La
+								<rif xlink:href="urn:nir:regione.molise:legge:2001-06-16;13" xlink:type="simple">legge regionale 16 giugno 2001, n. 13</rif>
+								, è abrogata.
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art27-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod2">
+								Dalla data di entrata in vigore del regolamento di attuazione della presente legge, è abrogato il
+								<rif xlink:href="urn:nir:regione.molise:regolamento:2002-02-26;6" xlink:type="simple">regolamento regionale 26 febbraio 2002, n. 6</rif>
+								.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art28">
+					<num>Art. 28</num>
+					<rubrica>Norma finanziaria</rubrica>
+					<comma id="art28-com1">
+						<num>1.</num>
+						<corpo>Agli oneri derivanti dall'attuazione della presente legge, quantificati per l'esercizio finanziario 2010 in euro 14.200, si fa fronte utilizzando parte dello stanziamento iscritto alla UPB n. 250 dello stato di previsione della spesa del bilancio regionale per il medesimo esercizio. La Giunta regionale provvede ad istituire nel bilancio gestionale apposito capitolo denominato "Attività concernente l'agriturismo e iniziative per la sua promozione e valorizzazione".</corpo>
+					</comma>
+					<comma id="art28-com2">
+						<num>2.</num>
+						<corpo>Per gli esercizi finanziari 2011 e successivi si provvede con le rispettive leggi di approvazione del bilancio.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art29">
+					<num>Art. 29</num>
+					<rubrica>Rinvio a disposizioni statali</rubrica>
+					<comma id="art29-com1">
+						<num>1.</num>
+						<corpo>
+							Per quanto non previsto dalla presente legge si applicano le disposizioni di cui alla
+							<rif xlink:href="urn:nir:stato:legge:2006-02-20;96" xlink:type="simple">legge 20 febbraio 2006, n. 96</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art30">
+					<num>Art. 30</num>
+					<rubrica>Disposizioni transitorie</rubrica>
+					<comma id="art30-com1">
+						<num>1.</num>
+						<corpo>
+							Fino alla data di entrata in vigore del regolamento continuano ad applicarsi le disposizioni contenute nel
+							<rif xlink:href="urn:nir:regione.molise:regolamento:2002-02-26;6" xlink:type="simple">regolamento regionale 26 febbraio 2002, n. 6</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art30-com2">
+						<num>2.</num>
+						<corpo>
+							Le aziende agricole che alla data di entrata in vigore della presente legge risultano iscritte nell'elenco regionale di cui all'
+							<rif xlink:href="urn:nir:regione.molise:legge:2001;13#art8" xlink:type="simple">articolo 8 della legge regionale n. 13/2001</rif>
+							sono iscritte di diritto nei nuovi elenchi previsti dall'
+							<rif xlink:href="#art12" xlink:type="simple">articolo 12</rif>
+							. Sono fatte salve le autorizzazioni rilasciate ai sensi della stessa legge purché, in caso di difformità rispetto alle prescrizioni della presente legge, si provveda all'adeguamento entro due anni dalla data in vigore della stessa. Decorso inutilmente tale termine si provvede alla cancellazione dall'elenco regionale di cui all'
+							<rif xlink:href="#art12" xlink:type="simple">articolo 12</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art30-com3">
+						<num>3.</num>
+						<corpo>
+							Gli operatori che si trovano nelle condizioni di cui all'
+							<rif xlink:href="urn:nir:regione.molise:regolamento:2002-02-26;6#art2" xlink:type="simple">articolo 2 del regolamento regionale 26 febbraio 2002, n. 6</rif>
+							, e che quindi non hanno iniziato l'attività entro cinque anni dall'iscrizione hanno l'obbligo di iniziare l'attività e darne relativa comunicazione alla Regione entro un anno dalla pubblicazione della presente legge. Decorso inutilmente tale termine, si provvede alla cancellazione dall'elenco regionale di cui all'
+							<rif xlink:href="#art12" xlink:type="simple">articolo 12</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art30-com4">
+						<num>4.</num>
+						<corpo>
+							I titolari di aziende agrituristiche che non siano in grado di ottemperare all'adeguamento di cui al
+							<rif xlink:href="#art30-com2" xlink:type="simple">comma 2</rif>
+							, hanno la possibilità di modificare la qualificazione della propria azienda con l'eventuale assunzione della stessa nell'ambito del turismo rurale, ove ne ricorrano le condizioni di legge e nel rispetto delle normative del settore commercio e turismo.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

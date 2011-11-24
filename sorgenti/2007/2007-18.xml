@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20070630" num="15" tipo="BURM" />
+					<entratainvigore norm="20070701" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2007-06-20;18" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20070701" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2007-06-20;18" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 15 del 30 giugno 2007 
+ 
+Oggetto 
+Azienda sanitaria regionale e strutture private accreditate del Servizio sanitario Regionale 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20070620">20 giugno 2007</dataDoc>
+				, n.
+				<numDoc>18</numDoc>
+				.
+				<titoloDoc>Nuova disciplina del sistema di controllo ispettivo sanitario regionale.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							La presente legge disciplina, in conformità ai principi fissati dalla
+							<rif xlink:href="urn:nir:regione.molise:legge:2005-04-01;9" xlink:type="simple">legge regionale 1° aprile 2005, n. 9</rif>
+							, l'esercizio delle funzioni ispettive, la verifica e il controllo amministrativo, sanitario e finanziario dell'Azienda sanitaria regionale del Molise e delle strutture private accreditate del Servizio Sanitario Regionale.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>Le attività connesse all'attuazione della presente legge sono esercitate dalla Regione attraverso la propria struttura organizzativa e mediante apposito Servizio istituito ed operante presso l'Assessorato alla Sanità e facente capo alla Direzione Generale V.</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<alinea>L'attività del servizio è finalizzata, in particolare, al conseguimento dei seguenti obiettivi:</alinea>
+						<el id="art2-com2-leta">
+							<num>a)</num>
+							<corpo>utilizzazione ottimale delle risorse assegnate all'Azienda sanitaria regionale del Molise;</corpo>
+						</el>
+						<el id="art2-com2-letb">
+							<num>b)</num>
+							<corpo>efficienza e produttività dei servizi e presidi dell'Azienda sanitaria regionale del Molise;</corpo>
+						</el>
+						<el id="art2-com2-letc">
+							<num>c)</num>
+							<alinea>coordinamento delle attività dell'Azienda sanitaria regionale del Molise e verifica sanitaria e contabile con riferimento altresì:</alinea>
+							<en id="art2-com2-letc-num1">
+								<num>1)</num>
+								<corpo>alla funzionalità dei presidi di ricovero pubblici e privati accreditati con particolare riguardo all'andamento della spedalizzazione, alla durata media di degenza, al tasso di utilizzo, all'appropriatezza;</corpo>
+							</en>
+							<en id="art2-com2-letc-num2">
+								<num>2)</num>
+								<corpo>al corretto ricorso alle prestazioni specialistiche ed alle indagini strumentali e di laboratorio;</corpo>
+							</en>
+							<en id="art2-com2-letc-num3">
+								<num>3)</num>
+								<corpo>al corretto uso del farmaco;</corpo>
+							</en>
+							<en id="art2-com2-letc-num4">
+								<num>4)</num>
+								<corpo>alla corretta gestione dei fondi assegnati all'Azienda sanitaria regionale del Molise ed alle strutture a diretta gestione regionale.</corpo>
+							</en>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							Le risultanze delle attività di cui all'
+							<rif xlink:href="#art2" xlink:type="simple">articolo 2</rif>
+							della presente legge confluiscono in relazioni, valutazioni tecniche e pareri per i Servizi della Direzione Generale V che per competenza gestiscono le strutture pubbliche e private accreditate oggetto delle ispezioni, verifiche e controlli.
+						</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<corpo>
+							Le relazioni, le valutazioni tecniche ed i pareri di cui al
+							<rif xlink:href="#art3-com1" xlink:type="simple">comma 1</rif>
+							devono essere inviati anche alla Commissione consiliare permanente competente per materia.
+						</corpo>
+					</comma>
+					<comma id="art3-com3">
+						<num>3.</num>
+						<corpo>L'Assessore alla Sanità riferisce alla Giunta regionale sull'esito dei riscontri effettuati; riferisce inoltre trimestralmente alla competente Commissione consiliare e semestralmente al Consiglio regionale.</corpo>
+					</comma>
+					<comma id="art3-com4">
+						<num>4.</num>
+						<corpo>Le relazioni indicano anche i provvedimenti e le specifiche osservazioni che devono essere adottati per eliminare le disfunzioni riscontrate e per migliorare la generale efficacia ed efficienza dei servizi mediante l'attivazione di meccanismi correttivi.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>Il Servizio ispettivo previsto dalla presente legge è nominato dalla Giunta regionale ed è costituito da un numero massimo di cinque componenti scelti esclusivamente nell'ambito del personale di ruolo regionale che non abbia condizioni di incompatibilità nel rispetto della funzione assegnata.</corpo>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<corpo>In occasione di motivate esigenze il Servizio può essere integrato con ulteriore personale dipendente di ruolo regionale richiesto dal medesimo Servizio per funzioni specifiche.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>Ai funzionari che svolgono l'attività di cui alla presente legge viene formalmente attribuita la funzione di "Ispettore regionale del Servizio sanitario".</corpo>
+					</comma>
+					<comma id="art5-com2">
+						<num>2.</num>
+						<corpo>
+							Gli Ispettori del Servizio sanitario sono autorizzati, nell'ambito delle loro specifiche competenze, all'espletamento di tutte le indagini necessarie per gli adempimenti previsti dall'
+							<rif xlink:href="#art3" xlink:type="simple">articolo 3</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art5-com3">
+						<num>3.</num>
+						<corpo>A tal fine hanno libero accesso presso i presidi, servizi e uffici dell'Azienda sanitaria regionale del Molise e presso le istituzioni sanitarie private, nonché presso le farmacie a gestione privata o comunale.</corpo>
+					</comma>
+					<comma id="art5-com4">
+						<num>4.</num>
+						<corpo>Possono altresì richiedere agli amministratori o ai responsabili dei presidi, servizi e uffici nonché ai titolari delle istituzioni sanitarie private e delle farmacie, informazioni, chiarimenti e documentazioni ritenuti utili per l'esercizio delle proprie funzioni.</corpo>
+					</comma>
+					<comma id="art5-com5">
+						<num>5.</num>
+						<corpo>Nell'esercizio delle loro funzioni gli Ispettori regionali del Servizio sanitario assumono la qualifica di pubblico ufficiale.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>Il Servizio ispettivo si avvale, quale supporto operativo per l'esercizio delle proprie funzioni, degli Osservatori istituiti presso l'Assessorato alla Sanità.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								La
+								<rif xlink:href="urn:nir:regione.molise:legge:1986-09-08;14" xlink:type="simple">legge regionale 8 settembre 1986, n. 14</rif>
+								, è abrogata.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

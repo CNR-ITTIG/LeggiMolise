@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20070331" num="8" tipo="BURM" />
+					<entratainvigore norm="20070331" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2007-03-20;7" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica" />
+						<materia valore="35.Tributi" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20070331" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2007-03-20;7" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 35.Tributi Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 08 del 31 marzo 2007 Oggetto L.R. 28 dicembre 2006 n. 42 recante "Misure di contenimento della spesa pubblica regionale ed interventi in materia di tributi regionali" - articolo 4 - Destinazione delle maggiori entrate fiscali al settore sanitario.?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20070320">20 marzo 2007</dataDoc>
+				, n.
+				<numDoc>7</numDoc>
+				<titoloDoc>
+					<rif xlink:href="urn:nir:regione.molise:legge:2006-12-28;42#art4" xlink:type="simple">Articolo 4 della legge regionale 28 dicembre 2006, n. 42</rif>
+					, recante: "Misure di contenimento della spesa pubblica regionale ed interventi in materia di tributi regionali" - Destinazione delle maggiori entrate fiscali al settore sanitario.
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							Le maggiori entrate fiscali derivanti dall'
+							<rif xlink:href="urn:nir:regione.molise:legge:2006-12-28;42#art4" xlink:type="simple">articolo 4 della legge regionale 28 dicembre 2006, n. 42</rif>
+							, sono interamente destinate al settore sanitario.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>La presente legge regionale entra in vigore il giorno della sua pubblicazione sul Bollettino Ufficiale della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

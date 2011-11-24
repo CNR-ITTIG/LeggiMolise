@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20080628" num="14" tipo="BURM" />
+					<entratainvigore norm="20080713" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2008-06-27;19" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="11.enti locali, comunità montane" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20080628" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2008-06-27;19" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 11.Enti locali, comunit&#xE0; montane Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 14 del 28 giugno 2008 Oggetto Comunit&#xE0; montane - Legge 24 dicembre 2007 n. 244 - Riordino.?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20080627">27 giugno 2008</dataDoc>
+				, n.
+				<numDoc>19</numDoc>
+				<titoloDoc>
+					Riordino delle Comunità montane secondo i principi e le finalità di cui all'articolo 2, commi 17, 18, 19, 20, 21 e 22 della
+					<rif xlink:href="urn:nir:stato:legge:2007-12-24;244" xlink:type="simple">legge 24 dicembre 2007, n. 244</rif>
+					.
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>Oggetto e finalità</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							Con la presente legge la Regione Molise provvede al riordino delle Comunità montane del suo territorio secondo i principi e le finalità di cui all'articolo 2, commi 17, 18, 19, 20, 21 e 22, della
+							<rif xlink:href="urn:nir:stato:legge:2007-12-24;244" xlink:type="simple">legge 24 dicembre 2007, n. 244</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>Con l'attuazione della presente legge cessano di appartenere alle Comunità montane i comuni non classificati totalmente o parzialmente montani ed i comuni costieri.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>
+						Sostituzione dell'
+						<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art2" xlink:type="simple">articolo 2 della legge regionale 8 luglio 2002, n. 12</rif>
+					</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art2" xlink:type="simple">articolo 2 della legge regionale 8 luglio 2002, n. 12</rif>
+								(Riordino e ridefinizione delle comunità montane) è sostituito dal seguente: "
+								<virgolette id="mod1-vir1" tipo="struttura">
+									<articolo id="mod1-vir1-art2">
+										<num>Art. 2</num>
+										<rubrica>Individuazione degli ambiti territoriali</rubrica>
+										<comma id="mod1-vir1-art2-com1">
+											<num>1.</num>
+											<corpo>Gli ambiti territoriali per la costituzione delle Comunità montane sono individuati con deliberazione del Consiglio regionale, su proposta della Giunta regionale, a seguito del procedimento di concertazione di cui all'articolo 3.</corpo>
+										</comma>
+										<comma id="mod1-vir1-art2-com2">
+											<num>2.</num>
+											<alinea>L'individuazione di cui al comma 1 è operata secondo i seguenti principi:</alinea>
+											<el id="mod1-vir1-art2-com2-leta">
+												<num>a)</num>
+												<corpo>numero degli ambiti territoriali non superiore a sei;</corpo>
+											</el>
+											<el id="mod1-vir1-art2-com2-letb">
+												<num>b)</num>
+												<corpo>inclusione negli ambiti dei comuni classificati montani o parzialmente montani;</corpo>
+											</el>
+											<el id="mod1-vir1-art2-com2-letc">
+												<num>c)</num>
+												<corpo>esclusione dei comuni capoluogo di provincia e dei comuni costieri;</corpo>
+											</el>
+											<el id="mod1-vir1-art2-com2-letd">
+												<num>d)</num>
+												<corpo>contiguità territoriale e grado di integrazione e di interdipendenza economico-sociale;</corpo>
+											</el>
+											<el id="mod1-vir1-art2-com2-lete">
+												<num>e)</num>
+												<corpo>coesione istituzionale e coerenza con l'ordinamento amministrativo;</corpo>
+											</el>
+											<el id="mod1-vir1-art2-com2-letf">
+												<num>f)</num>
+												<corpo>tendenziale corrispondenza con altre circoscrizioni amministrative e con ambiti e sistemi di riferimento per i servizi e per la programmazione regionale.</corpo>
+											</el>
+										</comma>
+										<comma id="mod1-vir1-art2-com3">
+											<num>3.</num>
+											<corpo>Sono Comuni montani o parzialmente montani quelli elencati nella Tabella "A" allegata alla presente legge, il cui territorio risulta essere stato classificato montano ai sensi della normativa statale.</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>
+						Sostituzione della Tabella "A" allegata alla
+						<rif xlink:href="urn:nir:regione.molise:legge:2002;12" xlink:type="simple">legge regionale n. 12/2002</rif>
+					</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod2">
+								La Tabella "A" allegata alla
+								<rif xlink:href="urn:nir:regione.molise:legge:2002;12" xlink:type="simple">legge regionale n. 12/2002</rif>
+								è sostituita dalla seguente: "
+								<virgolette id="mod2-vir1" tipo="struttura">
+									<h:br />
+									TABELLA "A"
+									<h:br />
+									Comuni montani e Comuni parzialmente montani.
+									<h:br />
+									<h:br />
+									Provincia di CAMPOBASSO
+									<h:table>
+										<h:tbody>
+											<h:tr>
+												<h:td>Acquaviva Collecroci</h:td>
+												<h:td>P</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Baranello</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Bojano</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Bonefro</h:td>
+												<h:td>P</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Busso</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Campochiaro</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Campodipietra</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Campolieto</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Casacalenda</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Casalciprano</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Castelbottaccio</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Castellino del Biferno</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Castelmauro</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Castropignano</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Cercemaggiore</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Cercepiccola T</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Civitacampomarano</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Colle d'Anchise</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Colletorto</h:td>
+												<h:td>P</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Duronia</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Ferrazzano</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Fossalto</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Gambatesa</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Gildone</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Guardialfiera</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Guardiaregia</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Jelsi</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Limosano</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Lucito</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Lupara</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Macchia Valfortore</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Mafalda</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Matrice</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Mirabello Sannitico</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Molise</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Monacilioni</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Montagano</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Montefalcone nel Sannio</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Montemitro</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Montorio nei Frentani</h:td>
+												<h:td>P</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Morrone del Sannio</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Oratino</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Palata</h:td>
+												<h:td>P</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Petrella Tifernina</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Pietracatella</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Pietracupa</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Provvidenti</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Riccia</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Ripabottoni</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Ripalimosani</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Roccavivara</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Salcito</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>SanBiase</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>San Felice del Molise</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>San Giovanni in Galdo</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>San Giuliano del Sannio</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>San Giuliano di Puglia</h:td>
+												<h:td>P</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>SanMassimo</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>San Polo Matese</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Sant'Angelo Limosano</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Sant'Elia a Pianisi</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Sepino</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Spinete</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Tavenna</h:td>
+												<h:td>P</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Torella del Sannio</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Toro</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Trivento</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Tufara</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Vinchiaturo</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+										</h:tbody>
+									</h:table>
+									MONTANITÀ: T=totalmente montani; P=parzialmente montani
+									<h:br />
+									<h:br />
+									Provincia di ISERNIA
+									<h:br />
+									<h:table>
+										<h:tbody>
+											<h:tr>
+												<h:td>Acquaviva d'Isernia</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Agnone</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Bagnoli del Trigno</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Belmonte del Sannio</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Cantalupo nel Sannio</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Capracotta</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Carovilli</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Carpinone</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Castel del Giudice</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Castel San Vincenzo</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Castelpetroso</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Castelpizzuto</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Castelverrino</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Cerro al Volturno</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Chiauci</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Civitanova del Sannio</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Collia Volturno</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Conca Casale</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Filignano</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Fornelli</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Forlidel Sannio</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Frosolone</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Longano</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Macchia d'Isernia</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Macchiagodena</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Miranda</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Montaquila</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Montenero Valcocchiara</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Monteroduni</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Pesche</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Pescolanciano</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Pescopennataro</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Pettoranello del Molise</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Pietrabbondante</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Pizzone</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>PoggioSannita</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Pozzilli</h:td>
+												<h:td>P</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Rionero Sannitico</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Roccamandolfi</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Roccasicura</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Rocchetta a Volturno</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Santa Maria del Molise</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Sant'Elena Sannita</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>San Pietro Avellana</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Sant'Agapito</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Sant'Angelo del Pesco</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Scapoli</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Sessano del Molise</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Sesto Campano</h:td>
+												<h:td>P</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Vastogirardi</h:td>
+												<h:td>T</h:td>
+											</h:tr>
+											<h:tr>
+												<h:td>Venafro</h:td>
+												<h:td>P</h:td>
+											</h:tr>
+										</h:tbody>
+									</h:table>
+									MONTANITÀ: T=totalmente montani; P=parzialmente montani
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>
+						Sostituzione dell'
+						<rif xlink:href="urn:nir:regione.molise:legge:2002;12#art3" xlink:type="simple">articolo 3 della legge regionale n. 12/2002</rif>
+					</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod3">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:2002;12#art3" xlink:type="simple">articolo 3 della legge regionale n. 12/2002</rif>
+								è sostituito dal seguente: "
+								<virgolette id="mod3-vir1" tipo="struttura">
+									<articolo id="mod3-vir1-art3">
+										<num>Art. 3</num>
+										<rubrica>Procedimento di concertazione</rubrica>
+										<comma id="mod3-vir1-art3-com1">
+											<num>1.</num>
+											<corpo>La concertazione di cui all'articolo 2, comma 1, intercorre tra il Presidente della Giunta regionale e le associazioni regionali rappresentative degli Enti locali e si svolge nella Conferenza regionale delle Autonomie locali, assicurando ai Comuni interessati la formulazione di proposte ed osservazioni.</corpo>
+										</comma>
+										<comma id="mod3-vir1-art3-com2">
+											<num>2.</num>
+											<corpo>Il procedimento è promosso ed avviato dal Presidente della Giunta regionale, sulla base di una proposta deliberata, anche sulla base di indirizzi orientativi del Consiglio regionale, dalla Giunta regionale, motivata in relazione ai principi e criteri di cui all'articolo 2. Il procedimento medesimo ha inizio con la comunicazione formale della proposta a tutti i Comuni interessati con l'invito a deliberare e far pervenire eventuali osservazioni e proposte alternative.</corpo>
+										</comma>
+										<comma id="mod3-vir1-art3-com3">
+											<num>3.</num>
+											<corpo>Entro trenta giorni dal ricevimento della comunicazione di cui al comma 2, i Comuni fanno pervenire al Presidente della Giunta regionale le deliberazioni assunte dai rispettivi consigli concernenti le eventuali osservazioni e proposte alternative. La mancata comunicazione nel predetto termine dell'atto deliberativo consiliare è significativa di condivisione della proposta.</corpo>
+										</comma>
+										<comma id="mod3-vir1-art3-com4">
+											<num>4.</num>
+											<corpo>Le deliberazioni pervenute dai Comuni sono esaminate dai soggetti della concertazione, i quali registrano in apposito verbale gli esiti del procedimento entro sessanta giorni dalla data in cui il medesimo ha avuto inizio.</corpo>
+										</comma>
+										<comma id="mod3-vir1-art3-com5">
+											<num>5.</num>
+											<corpo>Entro venti giorni dalla conclusione del procedimento la Giunta regionale adotta la proposta di individuazione degli ambiti territoriali, formulando puntuali motivazioni in ordine agli eventuali aspetti non definiti concordemente nella sede concertativa nonché in ordine all'eventuale mancato accoglimento di osservazioni e proposte alternative avanzate dai Comuni.</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>
+						Sostituzione dell'
+						<rif xlink:href="urn:nir:regione.molise:legge:2002;12#art4" xlink:type="simple">articolo 4 della legge regionale n. 12/2002</rif>
+					</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod4">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:2002;12#art4" xlink:type="simple">articolo 4 della legge regionale n. 12/2002</rif>
+								è sostituito dal seguente: "
+								<virgolette id="mod4-vir1" tipo="struttura">
+									<articolo id="mod4-vir1-art4">
+										<num>Art. 4</num>
+										<rubrica>Modalità di costituzione delle Comunità montane</rubrica>
+										<comma id="mod4-vir1-art4-com1">
+											<num>1.</num>
+											<corpo>Entro venti giorni dall'esecutività della deliberazione del Consiglio regionale di cui all'articolo 2, comma 1, in ciascuno degli ambiti territoriali con essa individuati è costituita, con decreto del Presidente della Giunta regionale, la comunità montana tra i Comuni ricompresi nel rispettivo territorio.</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>
+						Modifiche all'
+						<rif xlink:href="urn:nir:regione.molise:legge:2002;12#art14" xlink:type="simple">articolo 14 della legge regionale n. 12/2002</rif>
+					</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<alinea>
+							All'
+							<rif xlink:href="urn:nir:regione.molise:legge:2002;12#art14" xlink:type="simple">articolo 14 della legge regionale n. 12/2002</rif>
+							sono apportate le seguenti modifiche:
+						</alinea>
+						<el id="art6-com1-leta">
+							<num>a)</num>
+							<corpo>
+								<mod id="mod5">
+									il
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art14-com1" xlink:type="simple">comma 1</rif>
+									è sostituito dal seguente: "
+									<virgolette id="mod5-vir1" tipo="struttura">
+										<comma id="mod5-vir1-com1">
+											<num>1.</num>
+											<corpo>Il consiglio comunitario si compone di un numero di consiglieri pari al numero dei Comuni dell'ambito comunitario. Ciascun consiglio comunale elegge, tra i propri componenti eletti consiglieri, un solo consigliere comunitario.</corpo>
+										</comma>
+									</virgolette>
+									";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art6-com1-letb">
+							<num>b)</num>
+							<corpo>
+								<mod id="mod6">
+									il
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art14-com2" xlink:type="simple">comma 2</rif>
+									è abrogato;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art6-com1-letc">
+							<num>c)</num>
+							<corpo>
+								<mod id="mod7">
+									al
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art14-com5" xlink:type="simple">comma 5</rif>
+									, le parole "
+									<virgolette id="mod7-vir1" tipo="parola">il comune che lo aveva nominato</virgolette>
+									" sono sostituite dalle parole "
+									<virgolette id="mod7-vir2" tipo="parola">il comune di appartenenza</virgolette>
+									";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art6-com1-letd">
+							<num>d)</num>
+							<corpo>
+								<mod id="mod8">
+									al
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art14-com6" xlink:type="simple">comma 6</rif>
+									, primo periodo, dopo le parole "
+									<virgolette id="mod8-vir1" tipo="parola">motivi di ordine pubblico</virgolette>
+									", le parole "
+									<virgolette id="mod8-vir2" tipo="parola">i rappresentanti nominati decadono</virgolette>
+									" sono sostituite dalle parole "
+									<virgolette id="mod8-vir3" tipo="parola">il rappresentante nominato decade</virgolette>
+									";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art6-com1-lete">
+							<num>e)</num>
+							<corpo>
+								<mod id="mod9">
+									al
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art14-com6" xlink:type="simple">comma 6</rif>
+									, secondo periodo, dopo le parole "
+									<virgolette id="mod9-vir1" tipo="parola">continua ad essere rappresentato</virgolette>
+									", le parole "
+									<virgolette id="mod9-vir2" tipo="parola">dai consiglieri precedentemente eletti</virgolette>
+									" sono sostituite dalle parole "
+									<virgolette id="mod9-vir3" tipo="parola">dal consigliere precedentemente eletto</virgolette>
+									".
+								</mod>
+							</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>
+						Sostituzione dell'
+						<rif xlink:href="urn:nir:regione.molise:legge:2002;12#art18" xlink:type="simple">articolo 18 della legge regionale n. 12/2002</rif>
+					</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod10">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:2002;12#art18" xlink:type="simple">articolo 18 della legge regionale n. 12/2002</rif>
+								è sostituito dal seguente: "
+								<virgolette id="mod10-vir1" tipo="struttura">
+									<articolo id="mod10-vir1-art18">
+										<num>Art. 18</num>
+										<rubrica>Composizione della Giunta comunitaria</rubrica>
+										<comma id="mod10-vir1-art18-com1">
+											<num>1.</num>
+											<corpo>La giunta comunitaria è composta dal presidente e da un numero di assessori non superiore ad un terzo del numero dei consiglieri e comunque da non più di quattro assessori.</corpo>
+										</comma>
+										<comma id="mod10-vir1-art18-com2">
+											<num>2.</num>
+											<corpo>Il vice presidente è nominato dal presidente tra i componenti dell'esecutivo.</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>Riduzione delle indennità spettanti ai componenti degli organi delle Comunità montane</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>
+							A decorrere dalla data di entrata in vigore della presente legge, ai presidenti ed ai componenti degli esecutivi delle Comunità montane ed ai consiglieri comunitari spettano le indennità di funzione ed il gettone di presenza, come determinati ai sensi dell'articolo 82 del testo unico di cui al
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2000-08-18;267" xlink:type="simple">decreto legislativo 18 agosto 2000, n. 267</rif>
+							, come modificato dall'
+							<rif xlink:href="urn:nir:stato:legge:2007;244#art2-com25" xlink:type="simple">articolo 2, comma 25, della legge n. 244/2007</rif>
+							, in misura ridotta del 10 per cento.
+						</corpo>
+					</comma>
+					<comma id="art8-com2">
+						<num>2.</num>
+						<corpo>
+							L'ammontare percepito nell'ambito di un mese da un consigliere comunitario non può superare l'importo pari ad un quarto dell'indennità massima prevista per il presidente della Comunità montana in base al decreto di cui al
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2000;267#art82-com8" xlink:type="simple">comma 8 dell'articolo 82 del decreto legislativo n. 267/2000</rif>
+							, come modificato dall'
+							<rif xlink:href="urn:nir:stato:legge:2007;244#art2-com25" xlink:type="simple">articolo 2, comma 25, della legge n. 244/2007</rif>
+							, ridotto del 10 per cento.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<rubrica>Nuovi ambiti territoriali, continuità amministrativa e successione nei rapporti</rubrica>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<corpo>
+							Entro venti giorni dalla data di entrata in vigore della presente legge, il Presidente della Giunta regionale provvede ad avviare il procedimento di concertazione di cui all'
+							<rif xlink:href="urn:nir:regione.molise:legge:2002;12#art3" xlink:type="simple">articolo 3 della legge regionale n. 12/2002</rif>
+							, come modificata dalla presente legge. Entro lo stesso termine il Presidente della Giunta regionale dispone lo scioglimento degli organi rappresentativi ed esecutivi delle Comunità montane di cui al
+							<rif xlink:href="#art9-com5" xlink:type="simple">comma 5</rif>
+							ed affida la gestione delle Comunità, sino all'insediamento dei consigli dei nuovi enti comunitari, a commissari straordinari, che provvedono all'ordinaria amministrazione, agli atti urgenti ed indifferibili, agli atti obbligatori per legge ed all'attuazione degli adempimenti, riguardanti anche l'avvio delle procedure di eventuale mobilità per la collocazione del personale, indicati nel provvedimento di nomina.
+						</corpo>
+					</comma>
+					<comma id="art9-com2">
+						<num>2.</num>
+						<corpo>
+							Ai fini della deliberazione propositiva della Giunta regionale prevista dall'
+							<rif xlink:href="urn:nir:regione.molise:legge:2002;12#art3-com2" xlink:type="simple">articolo 3, comma 2, della legge regionale n. 12/2002</rif>
+							, come modificato dalla presente legge, a titolo di indirizzi orientativi del Consiglio regionale impartiti ai sensi dello stesso articolo 3, comma 2, e fatta salva l'eventuale non totale coincidenza delle determinazioni da assumersi, in ordine alla composizione degli ambiti, in relazione all'esito del procedimento di concertazione, sono individuati gli ambiti territoriali elencati nell'Allegato 1.
+						</corpo>
+					</comma>
+					<comma id="art9-com3">
+						<num>3.</num>
+						<corpo>
+							Entro venti giorni dall'esecutività della deliberazione del Consiglio regionale di cui all'
+							<rif xlink:href="urn:nir:regione.molise:legge:2002;12#art2-com1" xlink:type="simple">articolo 2, comma 1, della legge regionale n. 12/2002</rif>
+							, come modificata dalla presente legge, in ciascuno degli ambiti territoriali con essa individuati è costituita, con decreto del Presidente della Giunta regionale, la comunità montana tra i Comuni ricompresi nel rispettivo territorio.
+						</corpo>
+					</comma>
+					<comma id="art9-com4">
+						<num>4.</num>
+						<alinea>
+							Con i decreti di cui al
+							<rif xlink:href="#art9-com3" xlink:type="simple">comma 3</rif>
+							:
+						</alinea>
+						<el id="art9-com4-leta">
+							<num>a)</num>
+							<corpo>sono stabilite le procedure per l'insediamento dell'organo rappresentativo di ciascuna comunità;</corpo>
+						</el>
+						<el id="art9-com4-letb">
+							<num>b)</num>
+							<corpo>
+								sono dettate le disposizioni per la successione, anche parziale, tra le comunità montane di cui al
+								<rif xlink:href="#art9-com5" xlink:type="simple">comma 5</rif>
+								e le comunità montane costituite in attuazione della presente legge;
+							</corpo>
+						</el>
+						<el id="art9-com4-letc">
+							<num>c)</num>
+							<corpo>
+								sono impartite indicazioni ai commissari straordinari nominati ai sensi del
+								<rif xlink:href="#art9-com1" xlink:type="simple">comma 1</rif>
+								, secondo periodo, affinché provvedano agli atti finalizzati alla successione di cui alla
+								<rif xlink:href="#art9-com4-letb" xlink:type="simple">lettera b)</rif>
+								.
+							</corpo>
+						</el>
+					</comma>
+					<comma id="art9-com5">
+						<num>5.</num>
+						<corpo>Sino all'insediamento dei nuovi organi rappresentativi le Comunità montane sono quelle costituite alla data di entrata in vigore della presente legge. L'organo rappresentativo può essere insediato quando i rappresentanti dei comuni raggiungano i quattro quinti dei componenti.</corpo>
+					</comma>
+					<comma id="art9-com6">
+						<num>6.</num>
+						<corpo>L'insediamento dei nuovi organi rappresentativi, se eletti, decorre dal 1° gennaio 2009, ancorché l'elezione sia avvenuta prima di detta data.</corpo>
+					</comma>
+					<comma id="art9-com7">
+						<num>7.</num>
+						<corpo>Le Comunità montane costituite in attuazione della presente legge adeguano i propri statuti entro sessanta giorni dalla data di insediamento dell'organo rappresentativo. In caso di inadempimento, il Presidente della Giunta regionale, con proprio decreto, dispone la nomina di un commissario ad acta.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Art. 10</num>
+					<rubrica>Disposizioni concernenti il personale</rubrica>
+					<comma id="art10-com1">
+						<num>1.</num>
+						<corpo>Nei casi di accorpamento di preesistenti ambiti territoriali, il personale ed i dirigenti di ruolo in servizio confluiscono in un unico organico provvisorio, articolato in qualifica dirigenziale e qualifiche non dirigenziali. Entro sessanta giorni dall'insediamento dell'organo rappresentativo, il nuovo ente comunitario delibera l'organico definitivo e, facendo salvi prioritariamente i rapporti di lavoro a tempo indeterminato esistenti alla data del 1° gennaio 2008, porta a termine il procedimento di dichiarazione di esubero. Il personale in esubero troverà prioritaria collocazione presso gli altri enti comunitari i cui organici presentino posti vacanti e, residualmente, presso i Comuni degli ambiti comunitari, altri enti pubblici del territorio regionale e presso l'Amministrazione regionale, nel rispetto delle procedure previste dalla contrattazione collettiva.</corpo>
+					</comma>
+					<comma id="art10-com2">
+						<num>2.</num>
+						<corpo>
+							Nei casi previsti al
+							<rif xlink:href="#art10-com1" xlink:type="simple">comma 1</rif>
+							, transita alle dipendenze del nuovo ente comunitario il segretario che, alla data di entrata in vigore della presente legge, risulta assunto con contratto di lavoro a tempo indeterminato e ha maturato maggiore anzianità di servizio presso il soppresso ente comunitario di provenienza, sommando a tale anzianità quella maturata nel ruolo dei segretari comunali e di segretario di altra comunità montana. I segretari dipendenti di comunità montana con contratto di lavoro a tempo indeterminato che non trovano collocazione ai sensi del precedente periodo, sono inseriti in una apposita graduatoria regionale, formulata tenendo conto degli stessi criteri di cui al periodo che precede, che verrà prioritariamente utilizzata per la copertura dei posti di pari qualifica eventualmente vacanti presso i nuovi enti comunitari. In caso di parziale utilizzazione di tale graduatoria, i segretari non ricollocati transiteranno su posti liberi e disponibili della dotazione organica dirigenziale degli enti strumentali della Regione Molise e, residualmente, su posti liberi e disponibili dell'organico dirigenziale dell'Amministrazione regionale.
+						</corpo>
+					</comma>
+					<comma id="art10-com3">
+						<num>3.</num>
+						<corpo>
+							Gli enti comunitari costituiti in attuazione della presente legge subentrano nei rapporti di utilizzazione di lavoratori socialmente utili in essere alla data di entrata in vigore della presente legge, secondo i criteri che verranno indicati nei decreti costitutivi previsti al
+							<rif xlink:href="#art9-com3" xlink:type="simple">comma 3 dell'articolo 9</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art10-com4">
+						<num>4.</num>
+						<corpo>
+							Fatto salvo quanto previsto al
+							<rif xlink:href="#art10-com1" xlink:type="simple">comma 1</rif>
+							, le Comunità montane costituite in attuazione della presente legge non possono effettuare assunzioni nè instaurare rapporti di collaborazione coordinata e continuativa per il triennio successivo alla data di entrata in vigore della presente legge.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art11">
+					<num>Art. 11</num>
+					<rubrica>Abrogazioni di norme</rubrica>
+					<comma id="art11-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod11">
+								Sono abrogati gli articoli 7 e 8 della
+								<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12" xlink:type="simple">legge regionale 8 luglio 2002, n. 12</rif>
+								.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art12">
+					<num>Art. 12</num>
+					<rubrica>Entrata in vigore</rubrica>
+					<comma id="art12-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore il giorno stesso della sua pubblicazione nel Bollettino Ufficiale della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. E' fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>
+							<h:p>ALLEGATO 1</h:p>
+						</denAnnesso>
+						<titAnnesso>
+							<h:p>AMBITI TERRITORIALI</h:p>
+						</titAnnesso>
+					</testata>
+					<DocumentoNIR nome="">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="20080628" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="" />
+							</descrittori>
+						</meta>
+						<intestazione />
+						<formulainiziale />
+						<contenitore id="con1" nome="">
+							<h:p>Comunità Montana "CENTRO PENTRIA e VOLTURNO"</h:p>
+							<h:p>Ambito territoriale n. 1</h:p>
+							<h:p>Acquaviva d'Isernia, Castel San Vincenzo, Castelpizzuto, Cerro a Volturno, Colli a Volturno, Conca Casale, Filignano, Forli del Sannio, Fornelli, Longano, Macchia d'Isernia, Miranda, Montaquila, Montenero Valcocchiara, Monteroduni, Pescolanciano, Pesche, Pettoranello del Molise, Pizzone, Pozzilli, Rionero Sannitico, Roccasicura, Rocchetta a Volturno, Roccamandolfi, Sant'Agapito, Scapoli, Sesto Campano, Venafro.</h:p>
+							<h:p>Comunità Montana "ALTO MOLISE"</h:p>
+							<h:p>Ambito territoriale n. 2</h:p>
+							<h:p>Agnone, Belmonte del Sannio, Capracotta, Carovilli, Castel del Giudice, Castelverrino, Pescopennataro, Pietrabbondante, Poggio Sannita, Sant'Angelo del Pesco, San Pietro Avellana, Vastogirardi.</h:p>
+							<h:p>Comunità Montana "MATESE e SANNIO"</h:p>
+							<h:p>Ambito territoriale n. 3</h:p>
+							<h:p>Bojano, Campochiaro, Cantalupo nel Sannio, Carpinone, Castelpetroso, Cercemaggiore, Cercepiccola, Chiauci, Civitanova del Sannio, Colle d'Anchise, Duronia, Frosolone, Guardiaregia, Macchiagodena, San Giuliano del Sannio, San Massimo, San Polo Matese, Santa Maria del Molise, Sant'Elena Sannita, Sepino, Sessano del Molise, Spinete.</h:p>
+							<h:p>Comunità Montana "MOLISE CENTRALE"</h:p>
+							<h:p>Ambito territoriale n. 4</h:p>
+							<h:p>Baranello, Busso, Casalciprano, Castelbottaccio, Castellino del Biferno, Castropignano, Ferrazzano, Lucito, Matrice, Mirabello Sannitico, Molise, Montagano, Oratino, Petrella Tifernina, Ripalimosani, Torella del Sannio, Vinchiaturo.</h:p>
+							<h:p>Comunità Montana "TRIGNO MEDIO BIFERNO e TRIGNO MONTE MAURO"</h:p>
+							<h:p>Ambito territoriale n. 5</h:p>
+							<h:p>Acquaviva Collecroci, Bagnoli del Trigno, Castelmauro, Civitacampomarano, Fossalto, Limosano, Mafalda, Montefalcone nel Sannio, Montemitro, Palata, Pietracupa, Roccavivara, Salcito, San Biase, Sant'Angelo Limosano, San Felice del Molise, Tavenna, Trivento.</h:p>
+							<h:p>Comunità Montana "CIGNO VALLE BIFERNO e FORTORE MOLISANO"</h:p>
+							<h:p>Ambito territoriale n. 6</h:p>
+							<h:p>Bonefro, Campolieto, Campodipietra, Casacalenda, Colletorto, Gambatesa, Gildone, Guardialfiera, Jelsi, Lupara, Macchia Valfortore, Monacilioni, Montorio nei Frentani, Morrone del Sannio, Pietracatella, Provvidenti, Riccia, Ripabottoni, San Giovanni in Galdo, San Giuliano di Puglia, Sant'Elia a Pianisi, Toro, Tufara</h:p>
+						</contenitore>
+						<formulafinale />
+						<conclusione />
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</LeggeRegionale>
+	</NIR>

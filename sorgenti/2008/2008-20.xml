@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20080721" num="17" tipo="BURM" />
+					<entratainvigore norm="20080722" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2008-07-18;20" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="30.promozione e organizzazione di attività culturali e delle tradizioni locali, associazionismo" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20080722" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2008-07-18;20" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 30.Promozione e organizzazione di attivit&#xE0; culturali e delle tradizioni locali, associazionismo Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 17 del 21 luglio 2008 Oggetto Associazioni "Pro loco" - l.r. 18 luglio 1997 n. 20 - Disciplina - Modifiche ?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20080718">18 luglio 2008</dataDoc>
+				, n.
+				<numDoc>20</numDoc>
+				<titoloDoc>
+					Modifiche alla
+					<rif xlink:href="urn:nir:regione.molise:legge:1977-07-18;20" xlink:type="simple">legge regionale 18 luglio 1977, n. 20</rif>
+					, ad oggetto: "Disciplina sull'organizzazione, i compiti ed il finanziamento delle Pro-Loco".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>
+						Modifiche all'
+						<rif xlink:href="urn:nir:regione.molise:legge:1977-07-18;20#art4" xlink:type="simple">articolo 4 della legge regionale 18 luglio 1977, n. 20</rif>
+					</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:1997-07-18;20#art4-com1-letd" xlink:type="simple">articolo 4, primo comma, lettera d), della legge regionale 18 luglio 1997, n. 20</rif>
+								(Disciplina sull'organizzazione, i compiti ed il finanziamento delle "
+								<virgolette id="mod1-vir1" tipo="parola">Pro-Loco</virgolette>
+								") la parola "
+								<virgolette id="mod1-vir2" tipo="parola">cinquanta</virgolette>
+								" è sostituita dalla parola "
+								<virgolette id="mod1-vir3" tipo="parola">venticinque</virgolette>
+								" e la parola "
+								<virgolette id="mod1-vir4" tipo="parola">ottanta</virgolette>
+								" è sostituita dalla parola "
+								<virgolette id="mod1-vir5" tipo="parola">quaranta</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>
+						Modifiche all'
+						<rif xlink:href="urn:nir:regione.molise:legge:1977;20#art6" xlink:type="simple">articolo 6 della legge regionale n. 20/1977</rif>
+					</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod2">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:1977;20#art6" xlink:type="simple">articolo 6 della legge regionale n. 20/1977</rif>
+								il secondo comma è sostituito dal seguente: "
+								<virgolette id="mod2-vir1" tipo="struttura">
+									<comma id="mod2-vir1-com1">
+										<num />
+										<corpo>Per partecipare all'assegnazione di contributi di cui al precedente comma, le "Pro-Loco" iscritte all'albo dovranno trasmettere, entro il 31 marzo di ogni anno, alla Giunta regionale apposita istanza con la quale si fornisce chiara indicazione di ogni singola iniziativa, specificando la spesa relativa e la misura del contributo che si intende richiedere. La Regione, entro il 30 giugno di ogni anno, provvede ad erogare un'anticipazione pari al 30 per cento di quanto spettante per l'anno in corso sulla base del riparto di fondi previsto.</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod3">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:1977;20#art6" xlink:type="simple">articolo 6 della legge regionale n. 20/1977</rif>
+								il quarto comma è sostituito dal seguente: "
+								<virgolette id="mod3-vir1" tipo="struttura">
+									<comma id="mod3-vir1-com1">
+										<num />
+										<corpo>Per ciascuna delle iniziative realizzate, le "Pro-Loco" debbono tassativamente, entro il 31 marzo dell'anno successivo a quello cui la concessione del contributo si riferisce trasmettere alla Giunta regionale, tramite l'Assessorato competente, il conto consuntivo approvato dall'Assemblea dei soci, vistato dal Collegio dei revisori dei conti dell'Associazione stessa e trasmesso per conoscenza al Comune.</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>Disposizioni transitorie</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							Nella fase di prima applicazione della presente legge, le disposizioni di cui al
+							<rif xlink:href="urn:nir:regione.molise:legge:1977-07-18;20#art6-com4" xlink:type="simple">quarto comma dell'articolo 6 della legge regionale 18 luglio 1977, n. 20</rif>
+							, come modificato dall'
+							<rif xlink:href="#art2" xlink:type="simple">articolo 2</rif>
+							, si applicano anche ai procedimenti in corso se, alla data dell'entrata in vigore della presente legge, non sia ancora intervenuta la concessione dei contributi da parte della Giunta regionale.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>Entrata in vigore</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

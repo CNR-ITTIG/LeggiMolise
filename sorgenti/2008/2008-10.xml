@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20080430" num="9" tipo="BURM" />
+					<entratainvigore norm="20080501" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2008-04-21;10" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="36.turismo e industria alberghiera" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20080501" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2008-04-21;10" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 36.Turismo e industria alberghiera 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N.9  del 30 aprile 2008 
+ 
+Oggetto 
+Campeggi villaggi turistici ed aree di sosta - Disciplina - Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20080421">21 aprile 2008</dataDoc>
+				, n.
+				<numDoc>10</numDoc>
+				.
+				<titoloDoc>
+					Modifiche alla
+					<rif xlink:href="urn:nir:regione.molise:legge:2001-03-21;5" xlink:type="simple">legge regionale 21 marzo 2001, n. 5</rif>
+					, recante: "Norme in materia di disciplina e classificazione di campeggi, villaggi turistici ed aree di sosta".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>
+						(Modifiche all'
+						<rif xlink:href="urn:nir:regione.molise:legge:2001-03-21;5#art2" xlink:type="simple">articolo 2 della legge regionale 21 marzo 2001, n. 5</rif>
+						)
+					</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								Al
+								<rif xlink:href="urn:nir:regione.molise:legge:2001-03-21;5#art2-com2" xlink:type="simple">comma 2, secondo periodo, dell'articolo 2 della legge regionale 21 marzo 2001, n. 5</rif>
+								, le parole "
+								<virgolette id="mod1-vir1" tipo="parola">superiore a mq. 40</virgolette>
+								" sono sostituite dalle parole "
+								<virgolette id="mod1-vir2" tipo="parola">superiore a mq. 45</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod2">
+								Al
+								<rif xlink:href="urn:nir:regione.molise:legge:2001;5#art2-com2" xlink:type="simple">comma 2 dell'articolo 2 della legge regionale n. 5/2001</rif>
+								è aggiunto il seguente periodo: "
+								<virgolette id="mod2-vir1" tipo="parola">Le medesime non possono avere altezza interna media inferiore a metri 2,30 ed altezza minima in gronda inferiore a metri 2,00 e la loro ricettività massima ammessa, valevole anche come parametro igienico-sanitario, è di mq. 5 a persona (rapporto superficie lorda/persona) con un massimo di sei occupanti.</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com3">
+						<num>3.</num>
+						<corpo>
+							<mod id="mod3">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2001;5#art2" xlink:type="simple">articolo 2 della legge regionale n. 5/2001</rif>
+								, dopo il comma 2, è aggiunto il seguente: "
+								<virgolette id="mod3-vir1" tipo="struttura">
+									<comma id="mod3-vir1-com2bis">
+										<num>2-bis.</num>
+										<corpo>Non è soggetta a permesso di costruire nè a DIA l'installazione del preingresso, inteso come struttura coperta chiusa con funzioni di protezione e soggiorno diurno delle persone, con possibile presenza di servizi, eventuale veranda aperta e sistemi di copertura a protezione dell'unità abitativa mobile, realizzate in materiali rigidi comunque smontabili e trasportabili, da accostare all'unità abitativa mobile</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>(Entrata in vigore)</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

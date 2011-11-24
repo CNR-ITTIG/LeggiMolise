@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20071231" num="30" tipo="BURM" />
+					<entratainvigore norm="20080101" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2007-12-31;31" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica" />
+						<materia valore="21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20080101" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2007-12-31;31" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 30 del 31 dicembre 2007 Oggetto L.R. 12 settembre 2007 n. 24 - Articolo 12 - Modifica?>
+			<intestazione>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20071231">31 dicembre 2007</dataDoc>
+				, n.
+				<numDoc>31</numDoc>
+				.
+				<titoloDoc>
+					Modifica dell'
+					<rif xlink:href="urn:nir:regione.molise:legge:2007-09-12;24#art12" xlink:type="simple">articolo 12 della legge regionale 12 settembre 2007, n. 24</rif>
+					.
+				</titoloDoc>
+				<emanante>Regione Molise</emanante>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2007-09-12;24#art12-com5" xlink:type="simple">articolo 12, comma 5, della legge regionale 12 settembre 2007, n. 24</rif>
+								(Primo intervento per l'attuazione del programma di razionalizzazione della spesa previsto dalla
+								<rif xlink:href="urn:nir:regione.molise:legge:2007-03-22;8" xlink:type="simple">legge regionale 22 marzo 2007, n. 8</rif>
+								) sostituire le parole "
+								<virgolette id="mod1-vir1" tipo="parola">31 dicembre 2007</virgolette>
+								" con le parole "
+								<virgolette id="mod1-vir2" tipo="parola">31 marzo 2008</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod2">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2007-09-12;24#art12-com5" xlink:type="simple">articolo 12, comma 5, della legge regionale 12 settembre 2007, n. 24</rif>
+								, è aggiunto il seguente periodo: "
+								<virgolette id="mod2-vir1" tipo="parola">La Giunta regionale è impegnata a presentare al Consiglio regionale, entro sessanta giorni dall'entrata in vigore della presente legge, una proposta di legge regionale finalizzata al riordinamento del sistema regionale della promozione turistica ed una sulla nuova disciplina dell'assistenza abitativa</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

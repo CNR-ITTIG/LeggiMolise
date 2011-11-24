@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20091016" num="24" tipo="BURM" />
+					<entratainvigore norm="20091017" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2009-10-09;26" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20091017" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2009-10-09;26" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 24 del 16 ottobre 2009 
+ 
+Oggetto 
+Esercizio finanziario 2008 - Rendiconto generale 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20091009">9 ottobre 2009</dataDoc>
+				, n.
+				<numDoc>26</numDoc>
+				.
+				<titoloDoc>Rendiconto generale della Regione Molise per l'esercizio finanziario 2008.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>(Rendiconto generale)</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>Il rendiconto generale della Regione Molise per l'esercizio finanziario 2008 è approvato con le risultanze esposte negli articoli seguenti.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>(Entrate di competenza)</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							Le entrate derivanti da tributi propri della Regione, dal gettito dei tributi erariali o di quote di esso devolute alla Regione; le entrate derivanti da contributi e trasferimenti di parte corrente dell'Unione Europea, dello Stato e di altri soggetti; le entrate extratributarie; le entrate derivanti da alienazioni, da trasformazione di capitale, da riscossione crediti e da trasferimenti in conto capitale; le entrate derivanti da mutui, prestiti ed altre operazioni creditizie; le entrate per contabilità speciali; accertate nell'esercizio 2008, per la competenza propria dell'esercizio stesso, risultano stabilite dal conto del bilancio in
+							<h:p>Euro 2.371.371.016,09</h:p>
+							<h:p>riscosse Euro 1.438.152.837,18</h:p>
+							<h:p>e rimaste da riscuotere Euro 416.002.265,75</h:p>
+							<h:p>avanzo di amministrazione accertato Euro 517.215.913,16</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>(Spese di competenza)</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							Le spese correnti, quelle in conto capitale, quelle per il rimborso di prestiti e per partite di giro, impegnate nell'esercizio finanziario 2008 per la competenza propria dell'esercizio stesso, risultano nel conto del bilancio in
+							<h:p>Euro 2.236.456.205,49</h:p>
+							<h:p>delle qualifurono pagate Euro 1.735.024.443,75</h:p>
+							<h:p>e rimasero da pagare Euro 501.431.761,74</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>(Accertamento ed impegni)</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>
+							Il riepilogo generale delle Entrate accertate e delle Spese impegnate di competenza dell'esercizio finanziario2008, dal conto del bilancio, risulta stabilito come segue:
+							<h:p>ENTRATE</h:p>
+							<h:p>Tit. I° - Entrate derivantida tributi propri della Regione, dal gettitodei tributi erariali o di quote di esso devolute alla Regione Euro 432.131.657,67</h:p>
+							<h:p>Tit. II° - Entrate derivanti da contributi e trasferimentidi parte corrente dell'Unione Europea, dello Stato edi altri soggetti Euro 433.995.873,28</h:p>
+							<h:p>Tit. III° - Entrateextratributarie Euro 20.996.948,99</h:p>
+							<h:p>Tit. IV° - Entrate derivantida alienazioni, da trasformazionedi capitale, da riscossione crediti e da trasferimenti in conto capitale Euro 153.084.941,49</h:p>
+							<h:p>Tit. V° - Entrate derivanti da mutui, prestiti ed altre operazioni creditizie Euro 0,00</h:p>
+							<h:p>Tit. VI° - Entrate per contabilità speciali Euro 813.945.681,50</h:p>
+							<h:p>Avanzo di amministrazione Euro 517.215.913,16</h:p>
+							<h:p>Totale ENTRATE accertate Euro 2.371.371.016,09</h:p>
+							<h:p>SPESE</h:p>
+							<h:p>Tit. I° - Spese correnti Euro 1.101.513.859,62</h:p>
+							<h:p>Tit. II° - Spese in conto capitale Euro 310.390.829,94</h:p>
+							<h:p>Tit. III° - Spese per rimborso prestiti Euro 10.605.834,43</h:p>
+							<h:p>Tit. IV° - Spese per partite di giro Euro 813.945.681,50</h:p>
+							<h:p>Totale SPESE impegnate Euro 2.236.456.205,49</h:p>
+							<h:p>RIEPILOGO GESTIONE DI COMPETENZA</h:p>
+							<h:p>- Entrate accertate Euro 2.371.371.016,09</h:p>
+							<h:p>- Spese impegnate Euro 2.236.456.205,49</h:p>
+							<h:p>AVANZO di competenza Euro 134.914.810,60</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>(Residui attivi 2007 e precedenti)</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>
+							I residui attivi rimasti accesi al 31 dicembre 2007 Euro 1.574.558.612,66
+							<h:p>di cui furono riscossi nell'esercizio 2008 Euro 570.112.486,44</h:p>
+							<h:p>e rimasero da riscuotere alla fine dell'esercizio Euro 974.506.795,96</h:p>
+							<h:p>Dal conto sono stati eliminati:</h:p>
+							<h:p>per insussistenza, prescrizione o perenzione, residui per Euro 33.398.226,58</h:p>
+							<h:p>e sono stati riaccertati residui per Euro 3.458.896,32</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>(Residui passivi 2007 e precedenti)</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>
+							I residui passivi rimasti accesi al 31 dicembre 2007 Euro 1.665.486.563,13
+							<h:p>di cui furono pagati nell'esercizio 2008 Euro 635.710.985,95</h:p>
+							<h:p>e rimasero da pagare</h:p>
+							<h:p>alla fine dell'esercizio Euro 785.553.180,26</h:p>
+							<h:p>Dal conto dei residui passivi sono stati eliminati:</h:p>
+							<h:p>per insussistenza o prescrizione Euro 13.130.619,86</h:p>
+							<h:p>per perenzione amministrativa Euro 231.091.777,06</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>(Somma dei residui attivi)</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>
+							I residui attivi alla chiusura dell'esercizio finanziario 2008, risultano stabiliti dal conto del bilancio, nelle seguenti somme:
+							<h:p>&gt; somme rimaste da riscuotere sulle entrate accertate per la competenza propria dell'esercizio 2008</h:p>
+							<h:p>(art. 2 ) Euro 416.002.265,75</h:p>
+							<h:p>&gt; esercizi precedenti</h:p>
+							<h:p>(art. 5 ) Euro 974.506.795,96</h:p>
+							<h:p>&gt; residui attivi al 31 dicembre 2008 Euro 1.390.509.061,71</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>(Somma dei residui passivi)</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>
+							I residui passivi alla chiusura dell'esercizio finanziario 2008, risultano stabiliti dal conto del bilancio, nelle seguenti somme:
+							<h:p>&gt; somme rimaste da pagare sulle spese impegnate per la competenza propria dell'esercizio 2008</h:p>
+							<h:p>(art. 3 ) Euro 501.431.761,74</h:p>
+							<h:p>&gt; esercizi precedenti</h:p>
+							<h:p>(art. 6) Euro 785.553.180,26</h:p>
+							<h:p>&gt; residui passivi al 31 dicembre 2008 Euro 1.286.984.942,00</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<rubrica>(Situazione finanziaria)</rubrica>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<corpo>
+							L'Avanzo di Amministrazione dell'esercizio finanziario 2008 è accertato in Euro 349.197.877,26 come risul-ta dai seguenti dati:
+							<h:p>ATTIVO</h:p>
+							<h:p>&gt; Fondo di cassa al 31 dicembre 2007 Euro 608.143.863,63</h:p>
+							<h:p>&gt; Riscossioni effettuate in conto residui Euro 570.112.486,44</h:p>
+							<h:p>&gt; Riscossioni effettuate in conto competenza Euro 1.438.152.837,18</h:p>
+							<h:p>TOTALE ATTIVO Euro 2.616.409.187,25</h:p>
+							<h:p>PASSIVO</h:p>
+							<h:p>&gt; Pagamenti effettuati in conto residui Euro 635.710.985,95</h:p>
+							<h:p>&gt; Pagamenti effettuati in conto competenza Euro 1.735.024.443,75</h:p>
+							<h:p>TOTALE PASSIVO Euro 2.370.735.429,70</h:p>
+							<h:p>&gt; Fondo di cassa al 31 dicembre 2008 Euro 245.673.757,55</h:p>
+							<h:p>&gt; Residui attivi Euro 1.390.509.061,71</h:p>
+							<h:p>SOMMA attiva Euro 1.636.182.819,26</h:p>
+							<h:p>&gt; Residui passivi Euro 1.286.984.942,00</h:p>
+							<h:p>&gt;AVANZO di Amministrazione al 31 dicembre 2008 Euro 349.197.877,26</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Art. 10</num>
+					<rubrica>(Eliminazione dal conto dei residui attivi)</rubrica>
+					<comma id="art10-com1">
+						<num>1.</num>
+						<corpo>I residui attivi rimasti accesi al 31 dicembre 2007 e non riscossi entro il termine dell'esercizio 2008, descritti nel-la colonna n. 10 del rendiconto dell'entrata, vengono di-chiarati insussistenti ed eliminati dal conto concorren-do così a determinare i risultati finali della gestione, co-me minori entrate.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art11">
+					<num>Art. 11</num>
+					<rubrica>(Eliminazione dal conto dei residui passivi)</rubrica>
+					<comma id="art11-com1">
+						<num>1.</num>
+						<corpo>I residui passivi accesi al 31 dicembre 2007 non paga-ti al termine dell'esercizio 2008, descritti nelle colonne n. 10 e n. 11 del rendiconto della spesa, sono da con-siderarsi economie di spesa ed eliminati dal conto con-correndo così a determinare i risultati finali della gestione, come minori uscite.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art12">
+					<num>Art. 12</num>
+					<rubrica>(Autonomia contabile del Consiglio regionale)</rubrica>
+					<comma id="art12-com1">
+						<num>1.</num>
+						<corpo>È approvato l'allegato rendiconto delle spese sostenu-te per l'esercizio della autonomia contabile del Consi-glio Regionale, così come determinato dall'Ufficio di Pre-sidenza del Consiglio.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art13">
+					<num>Art. 13</num>
+					<rubrica>(Operazioni di raccordo)</rubrica>
+					<comma id="art13-com1">
+						<num>1.</num>
+						<corpo>Sono approvate le operazioni di raccordo delle risultan-ze tra le scritture contabili della Ragioneria Generale della Regione con quelle della Tesoreria Regionale in ordine all'allocazione nei capitoli propri del bilancio delle entrate e delle spese regionali.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art14">
+					<num>Art. 14</num>
+					<rubrica>(Enti dipendenti)</rubrica>
+					<comma id="art14-com1">
+						<num>1.</num>
+						<alinea>Sono approvati gli allegati rendiconti degli esercizi fi-nanziari 2008 dei sottoelencati Enti Dipendenti ope-ranti nella Regione Molise, che si chiudono con le risul-tanze finali a fianco di ciascuno indicate:</alinea>
+						<en id="art14-com1-num1">
+							<num>1.</num>
+							<corpo>
+								-Ente Provinciale per il Turismo di CAMPOBASSO
+								<h:table>
+									<h:tbody>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 1° gennaio 2008</h:td>
+											<h:td />
+											<h:td>Euro 121.137,13</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Riscossioni:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 170.152,20</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro 856.135,66</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 1.026.287,86</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td />
+											<h:td>Euro 1.147.424,99</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Pagamenti:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 210.308,87</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro 811.317,52</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 1.021.626,39</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 31 dicembre 2008</h:td>
+											<h:td />
+											<h:td>Euro 125.798,60</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da riscuotere:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 18.410,00</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 0,00</h:td>
+											<h:td>Euro 18.410,00</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da pagare:</h:td>
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 144.208,60</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 40.586,12</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 52.175,13</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 92.761,25</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>AVANZO di Amministrazione al 31 dicembre 2008</h:td>
+											<h:td>Euro 51.447,35</h:td>
+										</h:tr>
+									</h:tbody>
+								</h:table>
+							</corpo>
+						</en>
+						<en id="art14-com1-num2">
+							<num>2.</num>
+							<corpo>
+								-Ente Provinciale per il Turismo di ISERNIA
+								<h:table>
+									<h:tbody>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 1° gennaio 2008</h:td>
+											<h:td />
+											<h:td>Euro 157.271,23</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Riscossioni:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 205,53</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro 401.692,99</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 401.898,52</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td />
+											<h:td>Euro 559.169, 75</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Pagamenti:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 83.054,77</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro 375.760,74</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 458.815,51</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 31 dicembre 2008</h:td>
+											<h:td />
+											<h:td>Euro 100.354,24</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da riscuotere:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 0,00</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 0,00</h:td>
+											<h:td>Euro 0,00</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 100.354,24</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da pagare:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 25.860,00</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 53.136,00</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 78.996,00</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>AVANZO di Amministrazione al 31 dicembre 2008</h:td>
+											<h:td>Euro 21.358,24</h:td>
+										</h:tr>
+									</h:tbody>
+								</h:table>
+							</corpo>
+						</en>
+						<en id="art14-com1-num3">
+							<num>3.</num>
+							<corpo>
+								-Azienda Autonoma di Soggiorno e Turismo di TERMOLI
+								<h:table>
+									<h:tbody>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 1° gennaio 2008</h:td>
+											<h:td />
+											<h:td>Euro 60.296,89</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Riscossioni:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 0,00</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro 397.773,02</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 397.773,02</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td />
+											<h:td>Euro 458.069,91</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Pagamenti:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 2.225,11</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro 380.551,81</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 382.776,92</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 31 dicembre 2008</h:td>
+											<h:td />
+											<h:td>Euro 75.292,99</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da riscuotere:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 0,00</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 0,00</h:td>
+											<h:td>Euro 0,00</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 75.292,99</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da pagare:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 3.080,00</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 35.443,65</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 38.523,65</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>AVANZO di Amministrazione al 31 dicembre 2008</h:td>
+											<h:td>Euro 36.769,34</h:td>
+										</h:tr>
+									</h:tbody>
+								</h:table>
+							</corpo>
+						</en>
+						<en id="art14-com1-num4">
+							<num>4.</num>
+							<corpo>
+								-Istituto Regionale per gli Studi Storici del Molise "V. CUOCO"
+								<h:table>
+									<h:tbody>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 1° gennaio 2008</h:td>
+											<h:td />
+											<h:td>Euro 312.181,82</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Riscossioni:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 5.939,38</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro168.942,87</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 174.882,25</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td />
+											<h:td>Euro 487.064,07</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Pagamenti:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 21.975,79</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro 65.672,11</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 87.647,90</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 31 dicembre 2008</h:td>
+											<h:td />
+											<h:td>Euro 399.416,17</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da riscuotere:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 0,00</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 2.627,40</h:td>
+											<h:td>Euro 2.627,40</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 402.043,57</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da pagare:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 20.425,75</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 32.101,35</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 52.527,10</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>AVANZO di Amministrazione al 31 dicembre 2008</h:td>
+											<h:td>Euro 349.516,47</h:td>
+										</h:tr>
+									</h:tbody>
+								</h:table>
+							</corpo>
+						</en>
+						<en id="art14-com1-num5">
+							<num>5.</num>
+							<corpo>
+								-Ente per il diritto allo Studio Universitario
+								<h:table>
+									<h:tbody>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 1° gennaio 2008</h:td>
+											<h:td />
+											<h:td>Euro 2.140.623,88</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Riscossioni:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 0,00</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro 2.468.201,46</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 2.468.201,46</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td />
+											<h:td>Euro 4.608.825,34</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Pagamenti:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 428.505,76</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro 965.850,44</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 1.394.356,20</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 31 dicembre 2008</h:td>
+											<h:td />
+											<h:td>Euro 3.214.469,14</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da riscuotere:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 0,00</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 0,00</h:td>
+											<h:td>Euro 0,00</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 3.214.469,14</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da pagare:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 431.775,82</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 1.367.195,32</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 1.798.971,14</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>AVANZO di Amministrazione al 31 dicembre 2008</h:td>
+											<h:td>Euro 1.415.498,00</h:td>
+										</h:tr>
+									</h:tbody>
+								</h:table>
+							</corpo>
+						</en>
+						<en id="art14-com1-num6">
+							<num>6.</num>
+							<corpo>
+								-Agenzia Regionale Molise Lavoro
+								<h:table>
+									<h:tbody>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 1° gennaio 2008</h:td>
+											<h:td />
+											<h:td>Euro 657.620,52</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Riscossioni:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 47.570,93</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro 464.570,80</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 512.141,73</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td />
+											<h:td>Euro 1.169.762,25</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Pagamenti:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 134.766,25</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro 589.550,91</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 724.317,16</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 31 dicembre 2008</h:td>
+											<h:td />
+											<h:td>Euro 445.445,09</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da riscuotere:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 0,00</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 375.087,25</h:td>
+											<h:td>Euro 375.087,25</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 820.532,34</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da pagare:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 62.168,98</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 227.308,19</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 289.477,17</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>AVANZO di Amministrazione al 31 dicembre 2008</h:td>
+											<h:td>Euro 531.055,17</h:td>
+										</h:tr>
+									</h:tbody>
+								</h:table>
+							</corpo>
+						</en>
+						<en id="art14-com1-num7">
+							<num>7.</num>
+							<corpo>
+								-Istituto Autonomo Case Popolari di CAMPOBASSO
+								<h:table>
+									<h:tbody>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 1° gennaio 2008</h:td>
+											<h:td />
+											<h:td>Euro 2.675.967,00</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Riscossioni:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 2.024.547,03</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro 7.320.633.53</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 9.345.180,56</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td />
+											<h:td>Euro 12.021.147,56</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Pagamenti:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 1.924.155,01</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro 7.559.775,33</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 9.483.930,34</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 31 dicembre 2008</h:td>
+											<h:td />
+											<h:td>Euro 2.537.217,22</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da riscuotere:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 4.541.585,30</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 2.046.810,09</h:td>
+											<h:td>Euro 6.588.395,39</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 9.125.612,61</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da pagare:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 7.080.647,31</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 2.002.250,58</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 9.082.897,89</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>AVANZO di Amministrazione al 31 dicembre 2008</h:td>
+											<h:td>Euro 42.714,72</h:td>
+										</h:tr>
+									</h:tbody>
+								</h:table>
+							</corpo>
+						</en>
+						<en id="art14-com1-num8">
+							<num>8.</num>
+							<corpo>
+								- Istituto Autonomo Case Popolari di ISERNIA
+								<h:table>
+									<h:tbody>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 1° gennaio 2008</h:td>
+											<h:td />
+											<h:td>Euro 11.434.407,65</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Riscossioni:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 755.059,98</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro 7.579.836,72</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 8.334.896,70</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td />
+											<h:td>Euro 19.769.304.35</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Pagamenti:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 2.725.383,39</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro 7.536.013,51</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 10.261.396,90</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 31 dicembre 2008</h:td>
+											<h:td />
+											<h:td>Euro 9.507.907,45</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da riscuotere:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 6.361.991,82</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 1.700.562,58</h:td>
+											<h:td>Euro 8.062.554,40</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 17.570.461,85</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da pagare:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 16.052.420,95</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 1.518.040,90</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 17.570.461,85</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>AVANZO di Amministrazione al 31 dicembre 2008</h:td>
+											<h:td>Euro 0,00</h:td>
+										</h:tr>
+									</h:tbody>
+								</h:table>
+							</corpo>
+						</en>
+						<en id="art14-com1-num9">
+							<num>9.</num>
+							<corpo>
+								-Agenzia Regionale per lo Sviluppo e l'Innovazione in Agricoltura
+								<h:table>
+									<h:tbody>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 1° gennaio 2008</h:td>
+											<h:td />
+											<h:td>Euro 726.169,09</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Riscossioni:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 1.811.627,21</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro 12.107.827,25</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 13.919.454,46</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td />
+											<h:td>Euro 14.645.623,55</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Pagamenti:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto residui</h:td>
+											<h:td>Euro 1.009.397,56</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; in conto competenza</h:td>
+											<h:td>Euro 10.883.407,36</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 11.892.804,92</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ FONDO DI CASSA al 31 dicembre 2008</h:td>
+											<h:td />
+											<h:td>Euro 2.752.818,63</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da riscuotere:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 764.377,25</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 274.314,17</h:td>
+											<h:td>Euro 1.038.691,42</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 3.791.510,05</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td>^ Somme rimaste da pagare:</h:td>
+											<h:td />
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sui residui</h:td>
+											<h:td>Euro 954.353,00</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td>&gt; sulla competenza</h:td>
+											<h:td>Euro 1.801.759,28</h:td>
+											<h:td />
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>SOMMANO</h:td>
+											<h:td>Euro 2.756.112,28</h:td>
+										</h:tr>
+										<h:tr>
+											<h:td />
+											<h:td>AVANZO di Amministrazione al 31 dicembre 2008</h:td>
+											<h:td>Euro 1.035.397,77</h:td>
+										</h:tr>
+									</h:tbody>
+								</h:table>
+							</corpo>
+						</en>
+					</comma>
+				</articolo>
+				<articolo id="art15">
+					<num>Art. 15</num>
+					<rubrica>(Enti economici)</rubrica>
+					<comma id="art15-com1">
+						<num>1.</num>
+						<alinea>Ai sensi della lettera d) dell'art. 65 della legge regionale 7 maggio 2002, n. 4: "Nuovo ordinamento contabile della Regione Molise" formano allegato, a titolo di documentazione, al rendiconto generale della Regione per l'esercizio 2008:</alinea>
+						<en id="art15-com1-num1">
+							<num>1.</num>
+							<corpo>il bilancio 2008 della Finanziaria Regionale per lo Sviluppo del Molise FINMOLISE - S.p.A. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale;</corpo>
+						</en>
+						<en id="art15-com1-num2">
+							<num>2.</num>
+							<corpo>il bilancio 2008 di Sviluppo Italia Molise - S.p.A. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale;</corpo>
+						</en>
+						<en id="art15-com1-num3">
+							<num>3.</num>
+							<corpo>il bilancio relativo al periodo 1° novembre 2007/31 ottobre 2008 della Campitello Matese - S.C.p.A. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale;</corpo>
+						</en>
+						<en id="art15-com1-num4">
+							<num>4.</num>
+							<corpo>il bilancio 2008 di Molise Dati - S.p.A. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale;</corpo>
+						</en>
+						<en id="art15-com1-num5">
+							<num>5.</num>
+							<corpo>il bilancio 2008 dello Zuccherificio del Molise - S.p.A. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale.</corpo>
+						</en>
+					</comma>
+				</articolo>
+				<articolo id="art16">
+					<num>Art. 16</num>
+					<rubrica>(Conto patrimoniale)</rubrica>
+					<comma id="art16-com1">
+						<num>1.</num>
+						<corpo>È approvato il conto generale del patrimonio della Regione Molise per l'esercizio finanziario 2008.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art17">
+					<num>Art. 17</num>
+					<rubrica>(Entrata in vigore)</rubrica>
+					<comma id="art17-com1">
+						<num>1.</num>
+						<corpo>La presente legge regionale entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

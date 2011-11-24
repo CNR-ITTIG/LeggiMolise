@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20100416" num="12" tipo="BURM" />
+					<entratainvigore norm="20100417" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2010-04-09;12" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20100417" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2010-04-09;12" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+36.Turismo e industria alberghiera 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 12 del 16 aprile 2010. 
+ 
+Oggetto 
+Agriturismo -Disciplina - Modifiche 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20100409">9 aprile 2010</dataDoc>
+				, n.
+				<numDoc>12</numDoc>
+				.
+				<titoloDoc>
+					Modifiche ed integrazioni alla
+					<rif xlink:href="urn:nir:regione.molise:legge:2010-03-22;9" xlink:type="simple">legge regionale 22 marzo 2010, n. 9</rif>
+					, recante: "Disciplina delle attività agrituristiche".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								Alla
+								<rif xlink:href="urn:nir:regione.molise:legge:2010-03-22;9#art10-com4-letb" xlink:type="simple">lettera b) del comma 4 dell'articolo 10 della legge regionale 22 marzo 2010, n. 9</rif>
+								, le parole: "
+								<virgolette id="mod1-vir1" tipo="parola">di superficie agricola totale</virgolette>
+								" sono sostituite dalle seguenti: "
+								<virgolette id="mod1-vir2" tipo="parola">di superficie agricola utilizzata</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod2">
+								Alla
+								<rif xlink:href="urn:nir:regione.molise:legge:2010;9#art10-com4-letc" xlink:type="simple">lettera c) del comma 4 dell'articolo 10 della legge regionale n. 9/2010</rif>
+								, le parole: "
+								<virgolette id="mod2-vir1" tipo="parola">fino a settantadue pasti giornalieri</virgolette>
+								" sono sostituite dalle seguenti: "
+								<virgolette id="mod2-vir2" tipo="parola">fino ad una media giornaliera di cinquanta posti, calcolata annualmente.</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com3">
+						<num>3.</num>
+						<corpo>
+							<mod id="mod3">
+								Al
+								<rif xlink:href="urn:nir:regione.molise:legge:2010;9#art10-com7" xlink:type="simple">comma 7 dell'articolo 10 della legge regionale n. 9/2010</rif>
+								, il secondo periodo è soppresso.
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com4">
+						<num>4.</num>
+						<corpo>
+							<mod id="mod4">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:2010;9#art11-com7" xlink:type="simple">comma 7 dell'articolo 11 della legge regionale n. 9/ 2010</rif>
+								, è abrogato.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino della Regione.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

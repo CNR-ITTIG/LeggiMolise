@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20070416" num="9" tipo="BURM" />
+					<entratainvigore norm="20070417" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2007-04-10;12" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="24.politiche per i migranti e rapporti con i molisani nel mondo" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20070417" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2007-04-10;12" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 24.Politiche per i migranti e rapporti con i molisani nel mondo 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 09 del 16 aprile 2007 
+ 
+Oggetto 
+L.R.n. 31/2006 &lt;&lt;Interventi della Regione a favore dei "Molisani nel mondo" - Modifiche ed integrazioni&gt;&gt; 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20070410">10 aprile 2007</dataDoc>
+				, n.
+				<numDoc>12</numDoc>
+				.
+				<titoloDoc>
+					Modifiche ed integrazioni alla
+					<rif xlink:href="urn:nir:regione.molise:legge:2006-10-02;31" xlink:type="simple">legge regionale 2 ottobre 2006, n. 31</rif>
+					, recante: «Interventi della Regione a favore dei "Molisani nel mondo"».
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2006-10-02;31#art2-com3" xlink:type="simple">articolo 2, comma 3, della legge regionale 2 ottobre 2006, n. 31</rif>
+								, recante: "Interventi della Regione a favore dei Molisani nel mondo" sono aggiunti i seguenti periodi: "
+								<virgolette id="mod1-vir1" tipo="parola">All'accertamento del grado di invalidità e della dipendenza da infortunio o malattia professionale provvede l'A.S.Re.M. tramite la competente commissione medica. La rilevanza degli eventi socio-politici agli effetti del presente comma è stabilita di volta in volta dal Consiglio regionale con proprio provvedimento</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod2">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2006;31#art3-com1" xlink:type="simple">articolo 3, comma 1, della legge regionale n. 31/2006</rif>
+								, dopo le parole "
+								<virgolette id="mod2-vir1" tipo="parola">con la propria terra d'origine e</virgolette>
+								", la parola "
+								<virgolette id="mod2-vir2" tipo="parola">tutela</virgolette>
+								" è sostituita dalla parola "
+								<virgolette id="mod2-vir3" tipo="parola">sostiene</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod3">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2006;31#art4-com2" xlink:type="simple">articolo 4, comma 2, della legge regionale n. 31/2006</rif>
+								, dopo le parole: "
+								<virgolette id="mod3-vir1" tipo="parola">Il programma operativo triennale</virgolette>
+								", sono aggiunte le parole "
+								<virgolette id="mod3-vir2" tipo="parola">, approvato dal Consiglio regionale,</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod4">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2006;31#art4" xlink:type="simple">articolo 4 della legge regionale n. 31/2006</rif>
+								, il comma 3 è abrogato.
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art3-com3">
+						<num>3.</num>
+						<corpo>
+							<mod id="mod5">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2006;31#art4" xlink:type="simple">articolo 4 della legge regionale n. 31/2006</rif>
+								, dopo il comma 3 , è inserito il seguente: "
+								<virgolette id="mod5-vir1" tipo="struttura">
+									<comma id="mod5-vir1-com3bis">
+										<num>3-bis.</num>
+										<alinea>Possono essere assunti dall'Ufficio di presidenza del Consiglio regionale singole iniziative che riguardino:</alinea>
+										<el id="mod5-vir1-com3bis-leta">
+											<num>a)</num>
+											<corpo>attività sul sistema dell'internazionalizzazione e dei gemellaggi;</corpo>
+										</el>
+										<el id="mod5-vir1-com3bis-letb">
+											<num>b)</num>
+											<corpo>attività con le organizzazioni dei molisani nel mondo e con le rappresentanze diplomatiche;</corpo>
+										</el>
+										<el id="mod5-vir1-com3bis-letc">
+											<num>c)</num>
+											<corpo>attività internazionali a supporto del ruolo delle assemblee elettive di concerto con le Associazioni delle autonomie locali e degli enti locali.</corpo>
+										</el>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art3-com4">
+						<num>4.</num>
+						<corpo>
+							<mod id="mod6">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2006;31#art4" xlink:type="simple">articolo 4 della legge regionale n. 31/2006</rif>
+								, il comma 5 è sostituito dal seguente: "
+								<virgolette id="mod6-vir1" tipo="struttura">
+									<comma id="mod6-vir1-com5">
+										<num>5.</num>
+										<corpo>Nel programma operativo triennale sono definiti tempi, criteri, modalità e condizioni di ammissibilità per gli interventi di cui al Capo II. Sulla base del programma operativo triennale la Giunta regionale, sentita la Commissione consiliare competente, adotta il piano operativo annuale degli interventi, con il quale stabilisce la dotazione finanziaria per l'anno che segue nonché la ripartizione dei contributi alle associazioni e federazioni di cui all'articolo 14.</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod7">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:2006;31#art6" xlink:type="simple">articolo 6 della legge regionale n. 31/2006</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod7-vir1" tipo="struttura">
+									<articolo id="mod7-vir1-art6">
+										<num>Art. 6</num>
+										<rubrica>Sostegno e diffusione della cultura di origine</rubrica>
+										<comma id="mod7-vir1-art6-com1">
+											<num>1.</num>
+											<alinea>La Regione, in un quadro di confronto e di relazione tra diverse culture, anche in collaborazione con enti, associazioni ed istituzioni, assume, in particolare all'estero ed essenzialmente in favore delle giovani generazioni, iniziative finalizzate a:</alinea>
+											<el id="mod7-vir1-art6-com1-leta">
+												<num>a)</num>
+												<corpo>rafforzamento del rapporto con la cultura di origine, anche attraverso l'insegnamento della lingua italiana, a beneficio dei molisani all'estero e delle persone di origine molisana che intendano mantenere la propria residenza fuori dal Molise;</corpo>
+											</el>
+											<el id="mod7-vir1-art6-com1-letb">
+												<num>b)</num>
+												<corpo>diffusione della conoscenza del patrimonio storico, culturale, artistico, ambientale, regionale e nazionale;</corpo>
+											</el>
+											<el id="mod7-vir1-art6-com1-letc">
+												<num>c)</num>
+												<corpo>organizzazione di incontri, convegni e seminari, riferiti alle finalità di cui alle lettere b) e d);</corpo>
+											</el>
+											<el id="mod7-vir1-art6-com1-letd">
+												<num>d)</num>
+												<corpo>svolgimento di attività di ricerca, di studio e di indagine relative al fenomeno migratorio e, in particolare, all'evoluzione delle comunità molisane all'estero.</corpo>
+											</el>
+										</comma>
+									</articolo>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod8">
+								Alla
+								<rif xlink:href="urn:nir:regione.molise:legge:2006;31#art7-com1-letb" xlink:type="simple">lettera b) del comma 1 dell'articolo 7 della legge regionale n. 31/2006</rif>
+								, le parole "
+								<virgolette id="mod8-vir1" tipo="parola">figli di molisani nel mondo</virgolette>
+								" sono sostituite dalle parole "
+								<virgolette id="mod8-vir2" tipo="parola">di origine molisana residenti all'estero</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod9">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2006;31#art9-com2" xlink:type="simple">articolo 9, comma 2, della legge regionale n. 31/2006</rif>
+								, dopo le parole "
+								<virgolette id="mod9-vir1" tipo="parola">sono erogati</virgolette>
+								", la parola "
+								<virgolette id="mod9-vir2" tipo="parola">annualmente</virgolette>
+								" è sostituita dalla parola "
+								<virgolette id="mod9-vir3" tipo="parola">trimestralmente</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod10">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:2006;31#art10" xlink:type="simple">articolo 10 della legge regionale n. 31/2006</rif>
+								è sostituito dal seguente: "
+								<virgolette id="mod10-vir1" tipo="struttura">
+									<articolo id="mod10-vir1-art10">
+										<num>Art. 10</num>
+										<rubrica>Consiglio dei "Molisani nel mondo"</rubrica>
+										<comma id="mod10-vir1-art10-com1">
+											<num>1.</num>
+											<corpo>È istituito il Consiglio dei "Molisani nel mondo" di seguito denominato "Consiglio".</corpo>
+										</comma>
+										<comma id="mod10-vir1-art10-com2">
+											<num>2.</num>
+											<alinea>Il Consiglio è composto:</alinea>
+											<el id="mod10-vir1-art10-com2-leta">
+												<num>a)</num>
+												<corpo>dal Presidente della Giunta regionale, o dall'assessore per i Molisani nel mondo, che lo presiede;</corpo>
+											</el>
+											<el id="mod10-vir1-art10-com2-letb">
+												<num>b)</num>
+												<corpo>da dodici rappresentanti delle associazioni e delle federazioni maggiormente rappresentative iscritte nel registro regionale di cui all'articolo 13; a tal fine le associazioni e le federazioni designano ciascuna tre candidati;</corpo>
+											</el>
+											<el id="mod10-vir1-art10-com2-letc">
+												<num>c)</num>
+												<corpo>da un rappresentante di ciascuna delle province di Campobasso e di Isernia;</corpo>
+											</el>
+											<el id="mod10-vir1-art10-com2-letd">
+												<num>d)</num>
+												<corpo>da un rappresentante di ciascuna delle Camere di commercio di Campobasso e di Isernia;</corpo>
+											</el>
+											<el id="mod10-vir1-art10-com2-lete">
+												<num>e)</num>
+												<corpo>da un rappresentante dell'Università degli studi del Molise;</corpo>
+											</el>
+											<el id="mod10-vir1-art10-com2-letf">
+												<num>f)</num>
+												<corpo>da tre sindaci dei Comuni della regione, designati dal Consiglio regionale, di cui almeno uno per ciascuna Provincia;</corpo>
+											</el>
+											<el id="mod10-vir1-art10-com2-letg">
+												<num>g)</num>
+												<corpo>da un rappresentante indicato dalle strutture regionali delle organizzazioni sindacali dei lavoratori maggiormente rappresentative in campo nazionale;</corpo>
+											</el>
+											<el id="mod10-vir1-art10-com2-leth">
+												<num>h)</num>
+												<corpo>dal Direttore dell'Agenzia "Molise lavoro";</corpo>
+											</el>
+											<el id="mod10-vir1-art10-com2-leti">
+												<num>i)</num>
+												<corpo>dal presidente del Consigli dei "Giovani molisani nel mondo";</corpo>
+											</el>
+											<el id="mod10-vir1-art10-com2-letl">
+												<num>l)</num>
+												<corpo>dal dirigente responsabile della struttura regionale competente per i Molisani nel mondo, che partecipa alle riunioni del Consiglio senza diritto di voto;</corpo>
+											</el>
+											<el id="mod10-vir1-art10-com2-letm">
+												<num>m)</num>
+												<corpo>dal Direttore del Museo regionale dell'emigrazione "Arturo Giovannitti", senza diritto di voto;</corpo>
+											</el>
+											<el id="mod10-vir1-art10-com2-letn">
+												<num>n)</num>
+												<corpo>dal Direttore del Centro studi sui molisani nel mondo, senza diritto di voto;</corpo>
+											</el>
+											<el id="mod10-vir1-art10-com2-leto">
+												<num>o)</num>
+												<corpo>dal presidente del Consiglio regionale o suo delegato;</corpo>
+											</el>
+											<el id="mod10-vir1-art10-com2-letp">
+												<num>p)</num>
+												<corpo>dal presidente dell'Associazione ASVEMO, senza diritto di voto;</corpo>
+											</el>
+										</comma>
+										<comma id="mod10-vir1-art10-com3">
+											<num>3.</num>
+											<corpo>Il presidente del Consiglio dei "Molisani nel mondo" può far intervenire alle sedute, senza diritto di voto, uno o più esperti nei problemi del settore, nonché funzionari regionali, rappresentanti di amministrazioni e di enti interessati; partecipano, con voto consultivo, i rappresentanti del Consiglio Generale degli italiani all'Estero (C.G.I.E.) di origine molisana.</corpo>
+										</comma>
+										<comma id="mod10-vir1-art10-com4">
+											<num>4.</num>
+											<corpo>Il Consiglio è nominato con decreto del Presidente della Giunta regionale, dura in carica per la durata della legislatura regionale ed è rinnovato successivamente all'insediamento del nuovo Consiglio regionale.</corpo>
+										</comma>
+										<comma id="mod10-vir1-art10-com5">
+											<num>5.</num>
+											<corpo>Il Consiglio, nella prima riunione, elegge due vicepresidenti di cui uno proveniente dall'estero.</corpo>
+										</comma>
+										<comma id="mod10-vir1-art10-com6">
+											<num>6.</num>
+											<corpo>Le funzioni di segretario del Consiglio sono svolte da un funzionario dell'assessorato regionale per i "Molisani nel mondo".</corpo>
+										</comma>
+										<comma id="mod10-vir1-art10-com7">
+											<num>7.</num>
+											<alinea>Il Consiglio adotta validamente le proprie deliberazioni:</alinea>
+											<el id="mod10-vir1-art10-com7-leta">
+												<num>a)</num>
+												<corpo>in prima convocazione con la presenza della metà più uno dei componenti;</corpo>
+											</el>
+											<el id="mod10-vir1-art10-com7-letb">
+												<num>b)</num>
+												<corpo>in seconda convocazione, con la presenza di almeno un terzo dei suoi componenti.</corpo>
+											</el>
+										</comma>
+										<comma id="mod10-vir1-art10-com8">
+											<num>8.</num>
+											<corpo>Il Consiglio si riunisce di norma due volte all'anno per l'espletamento dei compiti di cui all'articolo 11,</corpo>
+										</comma>
+										<comma id="mod10-vir1-art10-com9">
+											<num>9.</num>
+											<corpo>La Giunta regionale provvede alle spese per l'attività del Consiglio, nonché alle spese di viaggio e ospitalità per i componenti. La Giunta regionale provvede altresì alle medesime spese per quanto connesso al funzionamento del Consiglio di cui al comma 11.</corpo>
+										</comma>
+										<comma id="mod10-vir1-art10-com10">
+											<num>10.</num>
+											<corpo>Il Consiglio dei "Molisani nel mondo" può riunirsi anche in località al di fuori del territorio molisano, italiane o estere.</corpo>
+										</comma>
+										<comma id="mod10-vir1-art10-com11">
+											<num>11.</num>
+											<corpo>È istituito il Consiglio dei "Giovani molisani nel mondo" composto da quindici membri di età compresa tra i 18 ed i 35 anni, in rappresentanza delle aree geografiche dove la presenza degli emigrati molisani è più rilevante. Il Consiglio elegge al suo interno un Ufficio di presidenza costituito da un Presidente, due Vicepresidenti e da un Segretario. La Giunta regionale, entro due mesi dall'entrata in vigore della presente legge, predispone direttive per l'organizzazione ed il funzionamento dell'organo.</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod11">
+								Alla
+								<rif xlink:href="urn:nir:regione.molise:legge:2006;31#art11-com1-leta" xlink:type="simple">lettera a) del comma 1 dell'articolo 11 della legge regionale n. 31/2006</rif>
+								, in fine, le parole "
+								<virgolette id="mod11-vir1" tipo="parola">alle condizioni di vita e di lavoro degli emigrati e delle loro famiglie</virgolette>
+								', sono sostituite dalle parole '
+								<virgolette id="mod11-vir2" tipo="parola">alle condizioni di integrazione delle comunità molisane nel mondo;</virgolette>
+								'.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod12">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2006;31#art12-com1" xlink:type="simple">articolo 12, comma 1, della legge regionale n. 31/2006</rif>
+								, dopo le parole '
+								<virgolette id="mod12-vir1" tipo="parola">Molisani nel mondo</virgolette>
+								", sono aggiunte le parole "
+								<virgolette id="mod12-vir2" tipo="parola">e la Commissione consiliare competente,</virgolette>
+								" e la parola "
+								<virgolette id="mod12-vir3" tipo="parola">almeno</virgolette>
+								" è sostituita dalle parole "
+								<virgolette id="mod12-vir4" tipo="parola">di norma</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Art. 10</num>
+					<comma id="art10-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod13">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2006;31#art13" xlink:type="simple">articolo 13 della legge regionale n. 31/2006</rif>
+								, al comma 1 la parola "
+								<virgolette id="mod13-vir1" tipo="parola">riconosce</virgolette>
+								" è integrata dall'espressione "
+								<virgolette id="mod13-vir2" tipo="parola">e sostiene</virgolette>
+								" e la comma 3, dopo le parole "
+								<virgolette id="mod13-vir3" tipo="parola">proposta dall'assessore</virgolette>
+								", la parola "
+								<virgolette id="mod13-vir4" tipo="parola">ai</virgolette>
+								" è sostituita dalle parole "
+								<virgolette id="mod13-vir5" tipo="parola">per i</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art11">
+					<num>Art. 11</num>
+					<comma id="art11-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod14">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2006;31#art15-com6" xlink:type="simple">articolo 15, comma 6, della legge regionale n. 31/2006</rif>
+								, è aggiunto il seguente periodo: "
+								<virgolette id="mod14-vir1" tipo="parola">Ai lavori della commissione partecipa il dirigente responsabile della struttura regionale competente per i Molisani nel mondo senza diritto di voto.</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art11-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod15">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2006;31#art15" xlink:type="simple">articolo 15, della legge regionale n. 31/2006</rif>
+								è aggiunto il seguente comma: "
+								<virgolette id="mod15-vir1" tipo="struttura">
+									<comma id="mod15-vir1-com6bis">
+										<num>6-bis.</num>
+										<corpo>La commissione può riunirsi anche in località al di fuori del territorio molisano, italiane od estere.</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art12">
+					<num>Art. 12</num>
+					<comma id="art12-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod16">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2006;31#art16-com1" xlink:type="simple">articolo 16, comma 1, della legge regionale n. 31/2006</rif>
+								, le parole "
+								<virgolette id="mod16-vir1" tipo="parola">in via transitoria dall'articolo 19</virgolette>
+								" sono sostituite dalle parole "
+								<virgolette id="mod16-vir2" tipo="parola">in via transitoria dall'articolo 17</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art13">
+					<num>Art. 13</num>
+					<comma id="art13-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod17">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2006;31#art18" xlink:type="simple">articolo 18 della legge regionale n. 31/2006</rif>
+								, è aggiunto il seguente comma: "
+								<virgolette id="mod17-vir1" tipo="struttura">
+									<comma id="mod17-vir1-com2bis">
+										<num>2-bis.</num>
+										<corpo>Agli oneri relativi agli interventi di cui all'articolo 4, comma 3-bis, della presente legge provvede la Giunta regionale riservando annualmente al Consiglio regionale uno stanziamento non inferiore al 40 per cento della dotazione della unità revisionale di base n. 302.</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art14">
+					<num>Art. 14</num>
+					<comma id="art14-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

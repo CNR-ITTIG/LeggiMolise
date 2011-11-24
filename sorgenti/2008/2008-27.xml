@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20080901" num="21" tipo="BURM" />
+					<entratainvigore norm="20080916" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2008-08-18;27" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20080916" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2008-08-18;27" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
+ 
+Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 21 del 1 settembre 2008 
+ 
+Oggetto 
+Pesca produttiva - Sostegno - Istituzione del Fondo unico per la pesca produttiva e l'acquacoltura - Funzioni - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20080818">18 agosto 2008</dataDoc>
+				, n.
+				<numDoc>27</numDoc>
+				.
+				<titoloDoc>Istituzione del Fondo Unico per la Pesca Produttiva e l'Acquacoltura.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>ARTICOLO 1</num>
+					<rubrica>Istituzione del Fondo Unico per la Pesca Produttiva e l'Acquacoltura</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>Allo scopo di ottimizzare l'utilizzo delle risorse statali e comunitarie finalizzate all'attuazione di politiche di sostegno all'economia ittica della Regione Molise, nonché per dar corso a progetti a titolarità regionale, è istituito il "Fondo unico per la pesca produttiva e l'acquacoltura", di seguito indicato come "Fondo".</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>ARTICOLO 2</num>
+					<rubrica>Soggetti beneficiari</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<alinea>Sono ammessi ai benefici della presente legge, purché abilitate all'esercizio della pesca e dell'acquacoltura, iscritte nel registro delle imprese di pesca presso la Capitaneria di porto di Termoli o altro apposito albo regionale:</alinea>
+						<el id="art2-com1-leta">
+							<num>a)</num>
+							<corpo>le ditte individuali;</corpo>
+						</el>
+						<el id="art2-com1-letb">
+							<num>b)</num>
+							<corpo>le società di persone;</corpo>
+						</el>
+						<el id="art2-com1-letc">
+							<num>c)</num>
+							<corpo>le società di capitale o loro consorzi;</corpo>
+						</el>
+						<el id="art2-com1-letd">
+							<num>d)</num>
+							<corpo>le cooperative, ivi comprese le cooperative di servizi, costituite dalle imprese di pesca e loro consorzi.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>ARTICOLO 3</num>
+					<rubrica>Finalità del Fondo</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<alinea>Nel rispetto della normativa comunitaria, previa notifica degli interventi che configurino l'instaurazione di nuovi regimi di aiuti, il Fondo promuove e sostiene:</alinea>
+						<el id="art3-com1-leta">
+							<num>a)</num>
+							<corpo>le iniziative della Regione nonché le iniziative contemplate dalla legislazione statale e comunitaria in materia di pesca ed acquacoltura;</corpo>
+						</el>
+						<el id="art3-com1-letb">
+							<num>b)</num>
+							<corpo>il potenziamento di interventi cofinanziati o finanziati dallo Stato valutati come idonei nelle apposite procedure di selezione;</corpo>
+						</el>
+						<el id="art3-com1-letc">
+							<num>c)</num>
+							<corpo>accordi di programma previsti dai piani nazionali di settore, nell'ambito delle risorse in essi contemplate;</corpo>
+						</el>
+						<el id="art3-com1-letd">
+							<num>d)</num>
+							<corpo>attività di studio, di sperimentazione e di ricerca applicata alle problematiche del settore;</corpo>
+						</el>
+						<el id="art3-com1-lete">
+							<num>e)</num>
+							<corpo>altre azioni rimesse dai piani nazionali di settore alla competenza attuativa regionale, nonché le iniziative contemplate da programmi comunitari diversi;</corpo>
+						</el>
+						<el id="art3-com1-letf">
+							<num>f)</num>
+							<corpo>interventi miranti al ristoro, anche parziale, dei danni provenienti da eventi straordinari in mare o da mareggiate, calamità naturali o avverse condizioni ambientali;</corpo>
+						</el>
+						<el id="art3-com1-letg">
+							<num>g)</num>
+							<corpo>l'adeguamento alla normativa che tutela la sicurezza dei soggetti che esercitano la pesca in via professionale e delle relative navi, anche mediante contributi sulla stipula di polizze assicurative per la copertura di rischi di infortunio o morte e di rischi ai natanti.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>ARTICOLO 4</num>
+					<rubrica>Disposizioni procedurali</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<alinea>
+							La Giunta regionale, acquisito il parere della Commissione di cui all'
+							<rif xlink:href="#art5" xlink:type="simple">articolo 5</rif>
+							:
+						</alinea>
+						<el id="art4-com1-leta">
+							<num>a)</num>
+							<corpo>definisce i criteri generali e le modalità per l'attuazione degli interventi previsti dalla presente legge;</corpo>
+						</el>
+						<el id="art4-com1-letb">
+							<num>b)</num>
+							<corpo>seleziona le priorità da perseguire, tra le linee d'azione da attuare;</corpo>
+						</el>
+						<el id="art4-com1-letc">
+							<num>c)</num>
+							<corpo>delibera la ripartizione delle risorse disponibili, tra le priorità scelte, facendo salva la possibilità di riallocazione degli stanziamenti non utilizzati.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>ARTICOLO 5</num>
+					<rubrica>Commissione consultiva locale per la pesca e l'acquacoltura: composizione e funzioni</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>Con deliberazione della Giunta Regionale è istituita la Commissione consultiva locale per la pesca e l'acquacoltura della Regione Molise, di seguito denominata: Commissione, quale strumento permanente di concertazione sociale ed istituzionale sulle materie che interessano il settore.</corpo>
+					</comma>
+					<comma id="art5-com2">
+						<num>2.</num>
+						<alinea>La Commissione esprime pareri relativamente a:</alinea>
+						<el id="art5-com2-leta">
+							<num>a)</num>
+							<corpo>aspetti connessi all'applicazione di leggi o regolamenti nazionali o regionali;</corpo>
+						</el>
+						<el id="art5-com2-letb">
+							<num>b)</num>
+							<corpo>progetti di sviluppo delle attività ad esse connesse e di acquacoltura;</corpo>
+						</el>
+						<el id="art5-com2-letc">
+							<num>c)</num>
+							<corpo>progetti di pianificazione delle attività in aree demaniali di interesse per l'attività della pesca professionale;</corpo>
+						</el>
+						<el id="art5-com2-letd">
+							<num>d)</num>
+							<corpo>ogni altra problematica connessa al settore della pesca in ambito regionale.</corpo>
+						</el>
+					</comma>
+					<comma id="art5-com3">
+						<num>3.</num>
+						<corpo>La Commissione esprime altresì pareri in materia di programmazione degli interventi a valere sul Fondo.</corpo>
+					</comma>
+					<comma id="art5-com4">
+						<num>4.</num>
+						<alinea>La Commissione è composta da:</alinea>
+						<el id="art5-com4-leta">
+							<num>a)</num>
+							<corpo>l'Assessore competente per materia o suo delegato con funzioni di Presidente;</corpo>
+						</el>
+						<el id="art5-com4-letb">
+							<num>b)</num>
+							<corpo>il Direttore generale competente per materia o suo delegato;</corpo>
+						</el>
+						<el id="art5-com4-letc">
+							<num>c)</num>
+							<corpo>il Comandante della Capitaneria di Porto o suo delegato;</corpo>
+						</el>
+						<el id="art5-com4-letd">
+							<num>d)</num>
+							<corpo>il Dirigente responsabile del Servizio Pesca produttiva;</corpo>
+						</el>
+						<el id="art5-com4-lete">
+							<num>e)</num>
+							<corpo>un rappresentante di ciascuna associazione di categoria operante a livello regionale e riconosciuta a livello nazionale;</corpo>
+						</el>
+						<el id="art5-com4-letf">
+							<num>f)</num>
+							<corpo>un rappresentante del Servizio veterinario A.S.Re.M. competente per la zona di Termoli;</corpo>
+						</el>
+						<el id="art5-com4-letg">
+							<num>g)</num>
+							<corpo>un rappresentante del Comune di Termoli;</corpo>
+						</el>
+						<el id="art5-com4-leth">
+							<num>h)</num>
+							<corpo>un rappresentante dell'Istituto Zooprofilattico sperimentale dell'Abruzzo e del Molise "G. Caporale", sede di Termoli. i) eventuali altri componenti, non permanenti, che abbiano professionalità e competenze specifiche nel settore della pesca e dell'acquacoltura.</corpo>
+						</el>
+					</comma>
+					<comma id="art5-com5">
+						<num>5.</num>
+						<corpo>La Commissione, per il suo funzionamento, si dota di un proprio regolamento interno.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>ARTICOLO 6</num>
+					<rubrica>Segreteria Tecnico-Scientifica</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>Per la trattazione di materie a specifico contenuto tecnico, la Commissione può essere coadiuvata da una Segreteria tecnico-scientifica nominata con delibera di Giunta regionale.</corpo>
+					</comma>
+					<comma id="art6-com2">
+						<num>2.</num>
+						<corpo>La Segreteria tecnico-scientifica effettua studi ed indagini allo scopo di fornire utile supporto, per la successiva disamina, alla Commissione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>ARTICOLO 7</num>
+					<rubrica>Abrogazioni</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<alinea>
+							<mod id="mod1">Sono abrogate le seguenti leggi regionali:</mod>
+						</alinea>
+						<el id="art7-com1-leta">
+							<num>a)</num>
+							<corpo>
+								<mod id="mod2">
+									<rif xlink:href="urn:nir:regione.molise:legge:1990-05-11;23" xlink:type="simple">legge regionale 11 maggio 1990, n. 23</rif>
+									(Interventi a favore dei pescatori ed imprenditori di pesca singoli od associati danneggiati da avverse condizioni ambientali o da eventi calamitosi in mare);
+								</mod>
+							</corpo>
+						</el>
+						<el id="art7-com1-letb">
+							<num>b)</num>
+							<corpo>
+								<mod id="mod3">
+									<rif xlink:href="urn:nir:regione.molise:legge:1999-08-03;26" xlink:type="simple">legge regionale 3 agosto 1999, n. 26</rif>
+									(Interventi di sostegno agli operatori della pesca).
+								</mod>
+							</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>ARTICOLO 8</num>
+					<rubrica>Disposizioni finanziarie</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>Gli oneri derivanti dall'applicazione della presente legge sono quantificati in euro 250.000,00 per l'esercizio finanziario 2008 mediante incremento dello stanziamento iscritto nella U.P.B. n. 257 dello stato di previsione della spesa del bilancio regionale per l'importo di euro 250.000,00.</corpo>
+					</comma>
+					<comma id="art8-com2">
+						<num>2.</num>
+						<corpo>La Giunta regionale è autorizzata ad istituire apposito capitolo di spesa nel bilancio regionale, denominato: "Fondo unico delle politiche di sostegno all'economia ittica".</corpo>
+					</comma>
+					<comma id="art8-com3">
+						<num>3.</num>
+						<corpo>Per gli esercizi successivi si provvederà con la legge approvativa di bilancio.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

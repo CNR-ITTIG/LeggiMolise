@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20090814" num="18" tipo="BURM" />
+					<entratainvigore norm="20090815" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2009-08-04;21" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20090815" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2009-08-04;21" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 18 del 14 agosto 2009 Oggetto Autorizzazione all'esercizio di attività sanitarie e socio-sanitarie, accreditamento delle strutture sanitarie e socio-sanitarie - Disciplina regionale - l.r. 24 giugno 2008, n. 18 - Modifiche ?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20090804">4 agosto 2009</dataDoc>
+				, n.
+				<numDoc>21</numDoc>
+				.
+				<titoloDoc>
+					Modifiche alla
+					<rif xlink:href="urn:nir:regione.molise:legge:2008-06-24;18" xlink:type="simple">legge regionale 24 giugno 2008, n. 18</rif>
+					, recante: "Norme regionali in materia di autorizzazione alla realizzazione di strutture ed all'esercizio di attività sanitarie e socio-sanitarie, accreditamento istituzionale e accordi contrattuali delle strutture sanitarie e socio-sanitarie puhbliche e private.".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								Dopo l'
+								<rif xlink:href="urn:nir:regione.molise:legge:2008-06-24;18#art25" xlink:type="simple">articolo 25 della legge regionale 24 giugno 2008, n. 18</rif>
+								, è inserito il seguente: "
+								<virgolette id="mod1-vir1" tipo="struttura">
+									<articolo id="mod1-vir1-art25bis">
+										<num>Art. 25 bis</num>
+										<rubrica>CONDIZIONI E REQUISITI PER LA STIPULAZIONE DEGLI ACCORDI CONTRATTUALI E DEI CONTRATTI CON I SOGGETTI PRIVATI ACCREDITATI</rubrica>
+										<comma id="mod1-vir1-art25bis-com1">
+											<num>1.</num>
+											<corpo>I soggetti privati accreditati, per accedere agli accordi contrattuali ed ai contratti per l'erogazione di prestazioni sanitarie, devono essere qualificati ed improntare la loro attività ai principi di qualità, professionalità e correttezza.</corpo>
+										</comma>
+										<comma id="mod1-vir1-art25bis-com2">
+											<num>2.</num>
+											<alinea>Per la stipulazione annuale degli accordi contrattuali e dei contratti di valore superiore a 200.000,00 euro i soggetti privati accreditati devono dimostrare il possesso dei requisiti di capacità economica, tecnica ed organizzativa mediante:</alinea>
+											<el id="mod1-vir1-art25bis-com2-leta">
+												<num>a)</num>
+												<corpo>idonee referenze bancarie ed eventuale documentazione relativa al fatturato;</corpo>
+											</el>
+											<el id="mod1-vir1-art25bis-com2-letb">
+												<num>b)</num>
+												<corpo>indicazione del personale sanitario e del personale dirigenziale, nonché dei soggetti concretamente responsabili della prestazione dei servizi sanitari;</corpo>
+											</el>
+											<el id="mod1-vir1-art25bis-com2-letc">
+												<num>c)</num>
+												<corpo>documentazione attestante la regolarità della corresponsione delle retribuzioni al personale dipendente, nonché la relativa regolarità contributiva;</corpo>
+											</el>
+											<el id="mod1-vir1-art25bis-com2-letd">
+												<num>d)</num>
+												<corpo>descrizione delle attrezzature tecniche tale da consentirne l'individuazione e la rintracciabilità, delle misure adottate per garantire la qualità delle prestazioni sanitarie, nonché degli strumenti disponibili.</corpo>
+											</el>
+										</comma>
+										<comma id="mod1-vir1-art25bis-com3">
+											<num>3.</num>
+											<corpo>La perdita, in corso di esecuzione del contratto, dei requisiti accertati ai sensi del comma 2 o l'accertamento dell'inadeguatezza organizzativa della struttura sanitaria comportano, previa contestazione delle inadempienze e fissazione di un termine per regolarizzare, la risoluzione di diritto del contratto, la sospensione dell'accreditamento e l'avvio delle procedure per il subentro nell'erogazione delle prestazioni di altro soggetto accreditato. Il soggetto subentrante assicura il rispetto della normativa di tutela dei lavoratori e della contrattazione collettiva nazionale di categoria</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>Entrata in vigore</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

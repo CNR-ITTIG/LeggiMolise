@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20101011" num="29" tipo="BURM" />
+					<entratainvigore norm="20101012" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2010-10-08;17" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20101012" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2010-10-08;17" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error Bollettino 
+BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 29 del 11 ottobre 2010. 
+ 
+Oggetto 
+Raccolta e commercializzazione dei funghi epigei - Disciplina - Modifiche ed integrazioni 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20101008">8 ottobre 2010</dataDoc>
+				, n.
+				<numDoc>17</numDoc>
+				.
+				<titoloDoc>
+					Modifiche alla
+					<rif xlink:href="urn:nir:regione.molise:legge:2008-02-19;4" xlink:type="simple">Legge Regionale 19 Febbraio 2008, n. 4</rif>
+					, recante 'Nuova Disciplina in Materia di Raccolta e Commercializzazione dei Funghi Epigei"
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<alinea>
+							Alla
+							<rif xlink:href="urn:nir:regione.molise:legge:2008-02-19;4" xlink:type="simple">legge regionale 19 febbraio 2008, n. 4</rif>
+							(Nuova disciplina in materia di raccolta e commercializzazione dei funghi epigei) sono apportate le seguenti modifiche ed integrazioni:
+						</alinea>
+						<el id="art1-com1-leta">
+							<num>a)</num>
+							<corpo>
+								<mod id="mod1">
+									all'
+									<rif xlink:href="urn:nir:regione.molise:legge:2008-02-19;4#art2" xlink:type="simple">articolo 2</rif>
+									, è aggiunto il seguente comma: "
+									<virgolette id="mod1-vir1" tipo="struttura">
+										<comma id="mod1-vir1-com6bis">
+											<num>6-bis.</num>
+											<corpo>Sono esonerati dall'obbligo del versamento del contributo amministrativo annuale i raccoglitori residenti nel Molise che abbiano compiuto il sessantacinquesimo anno di età.</corpo>
+										</comma>
+									</virgolette>
+									";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letb">
+							<num>b)</num>
+							<corpo>
+								<mod id="mod2">
+									all'
+									<rif xlink:href="urn:nir:regione.molise:legge:2008-02-19;4#art3-com1-letc" xlink:type="simple">articolo 3, comma 1, la lettera c)</rif>
+									è sostituita dalla seguente: "
+									<virgolette id="mod2-vir1" tipo="struttura">
+										<el id="mod2-vir1-letc">
+											<num>c)</num>
+											<corpo>copia della ricevuta di versamento del contributo amministrativo di cui al comma 4, fatta esclusione per coloro che hanno compiuto il sessantacinquesimo anno di età.</corpo>
+										</el>
+									</virgolette>
+									";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letc">
+							<num>c)</num>
+							<corpo>
+								<mod id="mod3">
+									all'
+									<rif xlink:href="urn:nir:regione.molise:legge:2008-02-19;4#art4" xlink:type="simple">articolo 4</rif>
+									, è aggiunto il seguente comma: "
+									<virgolette id="mod3-vir1" tipo="struttura">
+										<comma id="mod3-vir1-com5bis">
+											<num>5-bis.</num>
+											<corpo>In deroga a quanto stabilito all'articolo 2, comma 2, il tesserino d'idoneità può essere rilasciato a coloro che hanno trasferito la propria residenza nella regione Molise e che siano gia in possesso del titolo abilitativo o autorizzativo o di altro documento previsto dalla normativa della regione di provenienza.</corpo>
+										</comma>
+									</virgolette>
+									";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letd">
+							<num>d)</num>
+							<corpo>
+								<mod id="mod4">
+									all'
+									<rif xlink:href="urn:nir:regione.molise:legge:2008-02-19;4#art7-com2" xlink:type="simple">articolo 7, comma 2</rif>
+									, dopo le parole "
+									<virgolette id="mod4-vir1" tipo="parola">, da installare a sua cura e spese,</virgolette>
+									", aggiungere le parole "
+									<virgolette id="mod4-vir2" tipo="parola">previa comunicazione alla Provincia competente per territorio,</virgolette>
+									";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-lete">
+							<num>e)</num>
+							<corpo>
+								<mod id="mod5">
+									all'
+									<rif xlink:href="urn:nir:regione.molise:legge:2008-02-19;4#art9-com1" xlink:type="simple">articolo 9, il comma 1</rif>
+									è sostituito dal seguente: "
+									<virgolette id="mod5-vir1" tipo="struttura">
+										<comma id="mod5-vir1-com1">
+											<num>1.</num>
+											<corpo>Per comprovati motivi scientifici o in occasione di mostre e manifestazioni di accertata rilevanza scientifica, il Servizio regionale competente può rilasciare speciali autorizzazioni per la raccolta di funghi epigei determinando il periodo di validità dell'autorizzazione e le persone autorizzate.</corpo>
+										</comma>
+									</virgolette>
+									";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letf">
+							<num>f)</num>
+							<corpo>
+								<mod id="mod6">
+									all'
+									<rif xlink:href="urn:nir:regione.molise:legge:2008-02-19;4#art9-com2" xlink:type="simple">articolo 9, il comma 2</rif>
+									è abrogato;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letg">
+							<num>g)</num>
+							<corpo>
+								<mod id="mod7">
+									all'
+									<rif xlink:href="urn:nir:regione.molise:legge:2008-02-19;4#art18" xlink:type="simple">articolo 18</rif>
+									, la rubrica è sostituita dalla seguente: "
+									<virgolette id="mod7-vir1" tipo="parola">Certificazione sanitaria</virgolette>
+									".
+								</mod>
+							</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>Entrata in vigore</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore il giorno sucessivo a quello della sua pubblicazione sul Bollettino ufficiale della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

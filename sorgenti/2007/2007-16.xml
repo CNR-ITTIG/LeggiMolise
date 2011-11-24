@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20070616" num="14" tipo="BURM" />
+					<entratainvigore norm="20070617" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2007-06-01;16" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20070617" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2007-06-01;16" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 14 del 16 giugno 2007 Oggetto L.R. 19 dicembre 1993 n. 19 recante "Norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio" - Art. 27 - Integrazioni?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20070601">1 giugno 2007</dataDoc>
+				, n.
+				<numDoc>16</numDoc>
+				<titoloDoc>
+					Disposizioni integrative dell'
+					<rif xlink:href="urn:nir:regione.molise:legge:1993-08-10;19#art27" xlink:type="simple">articolo 27 della legge regionale 10 agosto 1993, n. 19</rif>
+					, e successive modificazioni, recante: "Norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								La
+								<rif xlink:href="urn:nir:regione.molise:legge:1993-08-10;19#art27" xlink:type="simple">lettera b) dell'articolo 27 della legge regionale 10 agosto 1993, n. 19</rif>
+								, e successive modificazioni, è sostituita dalla seguente: "
+								<virgolette id="mod1-vir1" tipo="struttura">
+									<el id="mod1-vir1-letb">
+										<num>b)</num>
+										<corpo>specie cacciabili dall'1 settembre al 31 gennaio: volpe (vulpes vulpes) e cinghiale (sus scrofa)</corpo>
+									</el>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod2">
+								Al
+								<rif xlink:href="urn:nir:regione.molise:legge:1993-08-10;19#art27-com2bis" xlink:type="simple">comma 2-bis dell'articolo 27 della legge regionale 10 agosto 1993, n. 19</rif>
+								, aggiunto dall'
+								<rif xlink:href="urn:nir:regione.molise:legge:2004-05-20;15#art1-com29" xlink:type="simple">articolo 1, comma 29, della legge regionale 20 maggio 2004, n. 15</rif>
+								, dopo le parole "
+								<virgolette id="mod2-vir1" tipo="parola">(vulpes vulpes)</virgolette>
+								" sono aggiunte le parole "
+								<virgolette id="mod2-vir2" tipo="parola">, cinghiale (sus scrofa)</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>
