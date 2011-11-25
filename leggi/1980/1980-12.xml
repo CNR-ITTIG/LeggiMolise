@@ -115,23 +115,23 @@ Modifiche
 						</comma>
 						<comma id="art3-com2">
 							<num />
-							<corpo>L'incarico di coordinatore, di segretario del Consiglio, di segretario della Giunta Regionale è conferito a tempo determinato per un perodo non superiore ad anni 5. Puè essere revocato e rinnovato ed è attribuito, con provvedimento di Giunta o del Consiglio Regionale, al personale inserito nell'ottavo livello funzionale, di cui conserva le funzioni.</corpo>
+							<corpo>L'incarico di coordinatore, di segretario del Consiglio, di segretario della Giunta Regionale è conferito a tempo determinato per un perodo non superiore ad anni 5. può essere revocato e rinnovato ed è attribuito, con provvedimento di Giunta o del Consiglio Regionale, al personale inserito nell'ottavo livello funzionale, di cui conserva le funzioni.</corpo>
 						</comma>
 						<comma id="art3-com3">
 							<num />
 							<alinea>L'attribuzione dell'incarico si riferisce:</alinea>
 							<ep id="art3-com3-pun1">
 								<num>-</num>
-								<corpo>al coordinamento di campi di attivitè affini di ampiezza risultante dalla relazione di più unitè organiche complesse, in rapporto all'organizzazione delle strutture della Regione;</corpo>
+								<corpo>al coordinamento di campi di attività affini di ampiezza risultante dalla relazione di più unità organiche complesse, in rapporto all'organizzazione delle strutture della Regione;</corpo>
 							</ep>
 							<ep id="art3-com3-pun2">
 								<num>-</num>
-								<corpo>al coordinamento di unitè organizzative flessibili, pluridisciplinari o di progetti specificamente previsti dal programma regionale di sviluppo.</corpo>
+								<corpo>al coordinamento di unità organizzative flessibili, pluridisciplinari o di progetti specificamente previsti dal programma regionale di sviluppo.</corpo>
 							</ep>
 						</comma>
 						<comma id="art3-com4">
 							<num />
-							<corpo>Il numero di coordinatori ivi compresi i segretari del Consiglio e della Giunta, non puè superare il quarto della dotazione organica dell'ottavo livello.</corpo>
+							<corpo>Il numero di coordinatori ivi compresi i segretari del Consiglio e della Giunta, non può superare il quarto della dotazione organica dell'ottavo livello.</corpo>
 						</comma>
 						<comma id="art3-com5">
 							<num />
@@ -150,7 +150,7 @@ Modifiche
 					<rubrica>ACCESSO AGLI IMPIEGHI REGIONALI</rubrica>
 					<articolo id="art4">
 						<num>Art. 4</num>
-						<rubrica>Modalitè di costituzione del rapporto di impiego</rubrica>
+						<rubrica>Modalità di costituzione del rapporto di impiego</rubrica>
 						<comma id="art4-com1">
 							<num />
 							<corpo>La copertura dei posti previsti nel ruolo regionale avviene per pubblico concorso, fatte salve le norme sulle assunzioni obbligatorie.</corpo>
@@ -161,7 +161,7 @@ Modifiche
 						</comma>
 						<comma id="art4-com3">
 							<num />
-							<corpo>Il bando contiene l'indicazione dei requisiti di ammissione nonchè del contenuto e delle modalitè delle prove di esame.</corpo>
+							<corpo>Il bando contiene l'indicazione dei requisiti di ammissione nonché del contenuto e delle modalità delle prove di esame.</corpo>
 						</comma>
 						<comma id="art4-com4">
 							<num />
@@ -184,7 +184,7 @@ Modifiche
 							<alinea>
 								Le Commissioni giudicatrici dei concorsi di cui al
 								<rif xlink:href="#art4" xlink:type="simple">precedente art. 4</rif>
-								sono nominate dalla Giunta Regionale e sono cosè composte:
+								sono nominate dalla Giunta Regionale e sono così composte:
 							</alinea>
 							<ep id="art5-com1-pun1">
 								<num>-</num>
@@ -233,7 +233,7 @@ Modifiche
 						</comma>
 						<comma id="art6-com2">
 							<num />
-							<corpo>Spetta altresè l'indennità di trasferta ed il rimborso delle spese di viaggio con le modalitè ed alle condizioni stabilite per i dipendenti regionali di massimo livello.</corpo>
+							<corpo>Spetta altresì l'indennità di trasferta ed il rimborso delle spese di viaggio con le modalità ed alle condizioni stabilite per i dipendenti regionali di massimo livello.</corpo>
 						</comma>
 					</articolo>
 					<articolo id="art7">
@@ -248,11 +248,11 @@ Modifiche
 							</el>
 							<el id="art7-com1-letb">
 								<num>b)</num>
-								<corpo>l'etè non inferiore agli anni 18 e non superiore ai 35, elevata a 40 per i posti dell'ottavo livello funzionale;</corpo>
+								<corpo>l'età non inferiore agli anni 18 e non superiore ai 35, elevata a 40 per i posti dell'ottavo livello funzionale;</corpo>
 							</el>
 							<el id="art7-com1-letc">
 								<num>c)</num>
-								<corpo>l'idoneitè fisica all'impiego;</corpo>
+								<corpo>l'idoneità fisica all'impiego;</corpo>
 							</el>
 							<el id="art7-com1-letd">
 								<num>d)</num>
@@ -269,7 +269,7 @@ Modifiche
 						</comma>
 						<comma id="art7-com2">
 							<num />
-							<corpo>I predetti limiti di etè non si applicano per gli impiegati di ruolo in servizio presso le Amministrazioni dello Stato, e degli Enti pubblici anche economici. I requisiti prescritti devono essere posseduti alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda. Il requisito della buona condotta è accertata dall'Amministrazione.</corpo>
+							<corpo>I predetti limiti di età non si applicano per gli impiegati di ruolo in servizio presso le Amministrazioni dello Stato, e degli Enti pubblici anche economici. I requisiti prescritti devono essere posseduti alla data di scadenza del termine stabilito nel bando di concorso per la presentazione della domanda. Il requisito della buona condotta è accertata dall'Amministrazione.</corpo>
 						</comma>
 					</articolo>
 					<articolo id="art8">
@@ -328,11 +328,11 @@ Modifiche
 							<alinea>Gli esami per l'ammissione all'impiego consistono:</alinea>
 							<el id="art9-com2-leta">
 								<num>a)</num>
-								<corpo>per livelli V-VI-VII-VIII: in due prove scritte e in un colloquio, tendenti ad accertare il possesso di adeguata preparazione ed a valutare le capacitè del candidato;</corpo>
+								<corpo>per livelli V-VI-VII-VIII: in due prove scritte e in un colloquio, tendenti ad accertare il possesso di adeguata preparazione ed a valutare le capacità del candidato;</corpo>
 							</el>
 							<el id="art9-com2-letb">
 								<num>b)</num>
-								<corpo>per tutti gli altri livelli: in una prova scritta, in una prova pratica ed in un colloquio, tendenti ad accertare il possesso di adeguata cultura generale e di cognizioni tecniche per l'espletamento delle mansioni proprie del livello, nonchè l'idoneitè all'uso di macchine d'ufficio.</corpo>
+								<corpo>per tutti gli altri livelli: in una prova scritta, in una prova pratica ed in un colloquio, tendenti ad accertare il possesso di adeguata cultura generale e di cognizioni tecniche per l'espletamento delle mansioni proprie del livello, nonché l'idoneità all'uso di macchine d'ufficio.</corpo>
 							</el>
 						</comma>
 						<comma id="art9-com3">
@@ -357,7 +357,7 @@ Modifiche
 						</comma>
 						<comma id="art10-com2">
 							<num />
-							<alinea>Un quarto dei posti messi a concorso, con arrotondamento all'unitè superiore, è riservato agli impiegati della Regione con la seguente anzianitè di servizio senza demerito purchè in possesso almeno del titolo di studio immediatamente inferiore a quello previsto normalmente per l'accesso al singolo livello:</alinea>
+							<alinea>Un quarto dei posti messi a concorso, con arrotondamento all'unità superiore, è riservato agli impiegati della Regione con la seguente anzianità di servizio senza demerito purché in possesso almeno del titolo di studio immediatamente inferiore a quello previsto normalmente per l'accesso al singolo livello:</alinea>
 							<ep id="art10-com2-pun1">
 								<num>-</num>
 								<corpo>dal settimo all'ottavo livello: cinque anni nel livello funzionale di appartenenza;</corpo>
@@ -417,7 +417,7 @@ Modifiche
 						</comma>
 						<comma id="art11-com3">
 							<num />
-							<corpo>Possono coesistere più forme di orario secondo le esigenze del servizio, anche introducendo, per particolari settori, ove funzionalmente possibile, con adeguata regolamentazione, il criterio della flessibilitè.</corpo>
+							<corpo>Possono coesistere più forme di orario secondo le esigenze del servizio, anche introducendo, per particolari settori, ove funzionalmente possibile, con adeguata regolamentazione, il criterio della flessibilità.</corpo>
 						</comma>
 						<comma id="art11-com4">
 							<num />
@@ -433,7 +433,7 @@ Modifiche
 						<rubrica>Lavoro straordinario</rubrica>
 						<comma id="art12-com1">
 							<num />
-							<corpo>Le prestazioni di lavoro straordinario hanno carattere eccezionale, devono rispondere a comprovanti esigenze di servizio ed essere preventivamente autorizzate, ai fini dell'ammissibilitè a liquidazione, con provvedimento dell'Ufficio di Presidenza o della Giunta Regionale.</corpo>
+							<corpo>Le prestazioni di lavoro straordinario hanno carattere eccezionale, devono rispondere a comprovanti esigenze di servizio ed essere preventivamente autorizzate, ai fini dell'ammissibilità a liquidazione, con provvedimento dell'Ufficio di Presidenza o della Giunta Regionale.</corpo>
 						</comma>
 						<comma id="art12-com2">
 							<num />
@@ -441,7 +441,7 @@ Modifiche
 						</comma>
 						<comma id="art12-com3">
 							<num />
-							<corpo>La Giunta Regionale determina periodicamente previa ricerca d'intesa con le Organizzazioni sindacali maggiormente rappresentative in campo nazionale, sentito il Consiglio di Amministrazione del personale e d'intesa con l'Ufficio di Presidenza per quanto concerne il personale del Consiglio, i contingenti di personale che per particolari e definite funzioni o posizioni di lavoro puè essere autorizzato, in deroga al limite individuale di cui al precedente comma, a prestazioni di lavoro straordinario fino a 300 ore annue.</corpo>
+							<corpo>La Giunta Regionale determina periodicamente previa ricerca d'intesa con le Organizzazioni sindacali maggiormente rappresentative in campo nazionale, sentito il Consiglio di Amministrazione del personale e d'intesa con l'Ufficio di Presidenza per quanto concerne il personale del Consiglio, i contingenti di personale che per particolari e definite funzioni o posizioni di lavoro può essere autorizzato, in deroga al limite individuale di cui al precedente comma, a prestazioni di lavoro straordinario fino a 300 ore annue.</corpo>
 						</comma>
 						<comma id="art12-com4">
 							<num />
@@ -449,7 +449,7 @@ Modifiche
 						</comma>
 						<comma id="art12-com5">
 							<num />
-							<corpo>Il compenso orario è determinato secondo la seguente formula maggiorata del 15% retribuzione iniziale di livello + rateo 13° mensilitè 175.</corpo>
+							<corpo>Il compenso orario è determinato secondo la seguente formula maggiorata del 15% retribuzione iniziale di livello + rateo 13° mensilità 175.</corpo>
 						</comma>
 						<comma id="art12-com6">
 							<num />
@@ -465,7 +465,7 @@ Modifiche
 						</comma>
 						<comma id="art12-com9">
 							<num />
-							<corpo>Il lavoro straordinario puè essere compensato, in accordo con il dipendente, con riposo sostitutivo e con particolari adattamenti di orario.</corpo>
+							<corpo>Il lavoro straordinario può essere compensato, in accordo con il dipendente, con riposo sostitutivo e con particolari adattamenti di orario.</corpo>
 						</comma>
 					</articolo>
 					<articolo id="art13">
@@ -481,7 +481,7 @@ Modifiche
 						</comma>
 						<comma id="art13-com3">
 							<num />
-							<corpo>Per il servizio ordinario di turno prestato in giorno festivo compete un compenso di lire 2.700 se le prestazioni fornite siano di durata superiore alla metè dell'orario di turno, ridotta a lire 1.350 se le prestazioni sono di durata pari o inferiore alla metè dell'orario anzidetto, con un minimo di due ore.</corpo>
+							<corpo>Per il servizio ordinario di turno prestato in giorno festivo compete un compenso di lire 2.700 se le prestazioni fornite siano di durata superiore alla metà dell'orario di turno, ridotta a lire 1.350 se le prestazioni sono di durata pari o inferiore alla metà dell'orario anzidetto, con un minimo di due ore.</corpo>
 						</comma>
 						<comma id="art13-com4">
 							<num />
@@ -498,7 +498,7 @@ Modifiche
 						<comma id="art14-com1">
 							<num />
 							<corpo>
-								Il dipendente ha diritto, in ogni anno di servizio ad un congedo ordinario irrinunziabile e retribuito di 26 o 30 giornate lavorative, a secondo che la settimana lavorativa sia articolata in 5 o 6 giornate. Nel congedo sono comprese le due giornate conseguenti alla soppressione delle festivitè di cui alla
+								Il dipendente ha diritto, in ogni anno di servizio ad un congedo ordinario irrinunziabile e retribuito di 26 o 30 giornate lavorative, a secondo che la settimana lavorativa sia articolata in 5 o 6 giornate. Nel congedo sono comprese le due giornate conseguenti alla soppressione delle festività di cui alla
 								<rif xlink:href="urn:nir:stato:legge:1977-12-23;937" xlink:type="simple">legge 23 dicembre 1977, n. 937</rif>
 								.
 							</corpo>
@@ -506,7 +506,7 @@ Modifiche
 						<comma id="art14-com2">
 							<num />
 							<corpo>
-								Al dipendente sono attribuite, altresè quattro giornate di riposo da fruire nell'anno solare ai sensi della citata
+								Al dipendente sono attribuite, altresì quattro giornate di riposo da fruire nell'anno solare ai sensi della citata
 								<rif xlink:href="urn:nir:stato:legge:1977-12-23;937" xlink:type="simple">legge 23 dicembre 1977, n. 937</rif>
 								.
 							</corpo>
@@ -525,7 +525,7 @@ Modifiche
 						</comma>
 						<comma id="art14-com6">
 							<num />
-							<corpo>Il godimento del congedo puè essere inoltre interrotto o rinviato per le stesse ragioni di cui al comma precedente. In ogni caso il dipendente ha diritto al cumulo dei congedi entro il primo semestre dell'anno successivo.</corpo>
+							<corpo>Il godimento del congedo può essere inoltre interrotto o rinviato per le stesse ragioni di cui al comma precedente. In ogni caso il dipendente ha diritto al cumulo dei congedi entro il primo semestre dell'anno successivo.</corpo>
 						</comma>
 					</articolo>
 					<articolo id="art15">
@@ -540,7 +540,7 @@ Modifiche
 							</el>
 							<el id="art15-coma-letb">
 								<num>b)</num>
-								<corpo>per esami: fino a 20 giorni nell'anno per le giornate di esame e di effettuazione di concorsi od abilitazioni, oltrechè nella giornata immediatamente precedente e seguente soltanto se la sede dove si effettua la prova dista oltre 100 Km. dalla residenza;</corpo>
+								<corpo>per esami: fino a 20 giorni nell'anno per le giornate di esame e di effettuazione di concorsi od abilitazioni, oltreché nella giornata immediatamente precedente e seguente soltanto se la sede dove si effettua la prova dista oltre 100 Km. dalla residenza;</corpo>
 							</el>
 							<el id="art15-coma-letc">
 								<num>c)</num>
@@ -568,7 +568,7 @@ Modifiche
 							</el>
 							<el id="art15-coma-leth">
 								<num>h)</num>
-								<corpo>per richiamo alle armi e per obblighi di leva: nei termini e con le modalitè previste dalle leggi vigenti;</corpo>
+								<corpo>per richiamo alle armi e per obblighi di leva: nei termini e con le modalità previste dalle leggi vigenti;</corpo>
 							</el>
 							<el id="art15-coma-leti">
 								<num>i)</num>
@@ -577,11 +577,11 @@ Modifiche
 						</comma>
 						<comma id="art15-com55bis">
 							<num />
-							<corpo>L'Istituto si applica ad un numero di dipendenti non superiore al 3% del personale per ciascun anno scolastico secondo le modalitè che verranno stabilite dalla Giunta Regionale, d'intesa con le Organizzazioni sindacali.</corpo>
+							<corpo>L'Istituto si applica ad un numero di dipendenti non superiore al 3% del personale per ciascun anno scolastico secondo le modalità che verranno stabilite dalla Giunta Regionale, d'intesa con le Organizzazioni sindacali.</corpo>
 						</comma>
 						<comma id="art15-comb">
 							<num>B)</num>
-							<corpo>Congedi straordinari non retribuiti Il dipendente ha diritto a congedi straordinari non retribuiti per tutta la durata dello stato di malattia dei figli inferiori a 3 anni, dopo il 1è mese di congedo retribuito; tale congedo è computato nell'anzianitè di servizio, esclusi gli effetti relativi alle ferie ed alla 13è mensilitè.</corpo>
+							<corpo>Congedi straordinari non retribuiti Il dipendente ha diritto a congedi straordinari non retribuiti per tutta la durata dello stato di malattia dei figli inferiori a 3 anni, dopo il 1° mese di congedo retribuito; tale congedo è computato nell'anzianità di servizio, esclusi gli effetti relativi alle ferie ed alla 13° mensilità.</corpo>
 						</comma>
 						<comma id="art15-com3">
 							<num />
@@ -589,7 +589,7 @@ Modifiche
 						</comma>
 						<comma id="art15-com4">
 							<num />
-							<corpo>Al dipendente possono, altresè, essere concessi congedi straordinari non retribuiti per gravi e motivate ragioni personali o di famiglia per la durata massima di 1 anno; tale congedo riduce proporzionalmente il congedo ordinario e non è utile ai fini della progressine giuridica, economica e del trattamento di previdenza e di quiescenza.</corpo>
+							<corpo>Al dipendente possono, altresì, essere concessi congedi straordinari non retribuiti per gravi e motivate ragioni personali o di famiglia per la durata massima di 1 anno; tale congedo riduce proporzionalmente il congedo ordinario e non è utile ai fini della progressine giuridica, economica e del trattamento di previdenza e di quiescenza.</corpo>
 						</comma>
 					</articolo>
 					<articolo id="art16">
@@ -597,7 +597,7 @@ Modifiche
 						<rubrica>Lavoratori studenti</rubrica>
 						<comma id="art16-com1">
 							<num />
-							<corpo>Gli impiegati iscritti e frequentanti corsi regolari di studio in scuole primarie, secondarie e di qualificazione professionale statali, o comunque abilitate al rilascio di titoli di studio legali e nelle universitè hanno diritto, compatibilmente con le esigenze di servizio, ad orari di lavoro che, fermo restando l'obbligo di effettuare l'integrale orario settimanale di servizio, agevolino la frequenza ai corsi e la preparazione agli esami e non sono obbligati a prestazioni di lavoro straordinario.</corpo>
+							<corpo>Gli impiegati iscritti e frequentanti corsi regolari di studio in scuole primarie, secondarie e di qualificazione professionale statali, o comunque abilitate al rilascio di titoli di studio legali e nelle università hanno diritto, compatibilmente con le esigenze di servizio, ad orari di lavoro che, fermo restando l'obbligo di effettuare l'integrale orario settimanale di servizio, agevolino la frequenza ai corsi e la preparazione agli esami e non sono obbligati a prestazioni di lavoro straordinario.</corpo>
 						</comma>
 					</articolo>
 					<articolo id="art17">
@@ -613,11 +613,11 @@ Modifiche
 						</comma>
 						<comma id="art17-com3">
 							<num />
-							<corpo>Il tempo durante il quale il dipendente assente per malattia, è computato per intero ai fini dell'anzianitè di servizio della progressione economica e del trattamento di previdenza e di quiescenza.</corpo>
+							<corpo>Il tempo durante il quale il dipendente assente per malattia, è computato per intero ai fini dell'anzianità di servizio della progressione economica e del trattamento di previdenza e di quiescenza.</corpo>
 						</comma>
 						<comma id="art17-com4">
 							<num />
-							<corpo>Per motivi di particolare gravitè l'Amministrazione puè consentire al dipendente, che abbia raggiunto i limiti previsti dal comma precedente, un ulteriore periodo di assenza senza assegni, di durata non superiore a 6 mesi, durante il quale il dipendente ha diritto alla sola conservazione del posto.</corpo>
+							<corpo>Per motivi di particolare gravità l'Amministrazione può consentire al dipendente, che abbia raggiunto i limiti previsti dal comma precedente, un ulteriore periodo di assenza senza assegni, di durata non superiore a 6 mesi, durante il quale il dipendente ha diritto alla sola conservazione del posto.</corpo>
 						</comma>
 						<comma id="art17-com5">
 							<num />
@@ -629,19 +629,19 @@ Modifiche
 						</comma>
 						<comma id="art17-com7">
 							<num />
-							<corpo>Qualora l'assenza dovuta a malattia, si protragga per oltre due giorni lavorativi consecutivi il dipendente deve altresè trasmettere all'Amministrazione certificato rilasciato dal medico curante, attestante la durata prevedibile della malattia.</corpo>
+							<corpo>Qualora l'assenza dovuta a malattia, si protragga per oltre due giorni lavorativi consecutivi il dipendente deve altresì trasmettere all'Amministrazione certificato rilasciato dal medico curante, attestante la durata prevedibile della malattia.</corpo>
 						</comma>
 						<comma id="art17-com8">
 							<num />
-							<corpo>In tutte le ipotesi di assenza dal servizio per malattia del dipendente o del figlio minore di 3 anni è facoltè dell'Amministrazione verificare lo stato e la durata della malattia stessa.</corpo>
+							<corpo>In tutte le ipotesi di assenza dal servizio per malattia del dipendente o del figlio minore di 3 anni è facoltà dell'Amministrazione verificare lo stato e la durata della malattia stessa.</corpo>
 						</comma>
 						<comma id="art17-com9">
 							<num />
-							<corpo>Il controllo dell'infermitè avviene attraverso i servizi ispettivi dell'Istituto Assistenziale competente e, ove questi non siano in condizione di provvedere, a mezzo dell'Ufficiale Sanitario o del Medico designato da un Ospedale a scelta dell'Amministrazione.</corpo>
+							<corpo>Il controllo dell'infermità avviene attraverso i servizi ispettivi dell'Istituto Assistenziale competente e, ove questi non siano in condizione di provvedere, a mezzo dell'Ufficiale Sanitario o del Medico designato da un Ospedale a scelta dell'Amministrazione.</corpo>
 						</comma>
 						<comma id="art17-com10">
 							<num />
-							<corpo>I controlli di cui ai precedenti commi avverranno successivamente tramite le strutture dell'Unitè Sanitaria Locale competente per territorio.</corpo>
+							<corpo>I controlli di cui ai precedenti commi avverranno successivamente tramite le strutture dell'Unità Sanitaria Locale competente per territorio.</corpo>
 						</comma>
 						<comma id="art17-com11">
 							<num />
@@ -654,18 +654,18 @@ Modifiche
 					</articolo>
 					<articolo id="art18">
 						<num>Art. 18</num>
-						<rubrica>Segnalazione dell'infermitè o infortunio che si ritiene per causa di servizio</rubrica>
+						<rubrica>Segnalazione dell'infermità o infortunio che si ritiene per causa di servizio</rubrica>
 						<comma id="art18-com1">
 							<num />
-							<corpo>Il dipendente che contragga un'infermitè derivante o meno da infortunio che lo stesso ritenga possa dipendere da causa di servizio, è tenuto a darne tempestiva comunicazione scritta al servizio o settore regionale al quale è assegnato, nella quale dovrè specificare la natura dell'infermitè, le cause e le circostanze che ne hanno determinato l'insorgere.</corpo>
+							<corpo>Il dipendente che contragga un'infermità derivante o meno da infortunio che lo stesso ritenga possa dipendere da causa di servizio, è tenuto a darne tempestiva comunicazione scritta al servizio o settore regionale al quale è assegnato, nella quale dovrè specificare la natura dell'infermità, le cause e le circostanze che ne hanno determinato l'insorgere.</corpo>
 						</comma>
 						<comma id="art18-com2">
 							<num />
-							<corpo>Nel caso di infermitè derivante da infortunio, dovranno essere indicati giorno, ora e luogo, la sede anatomica delle ferite e lesioni riportate, le circostanze che vi concorsero e l'eventuale colpa di terzi, precisando, se possibile, i nomi dei testimoni o di chi possa essere accorso subito dopo.</corpo>
+							<corpo>Nel caso di infermità derivante da infortunio, dovranno essere indicati giorno, ora e luogo, la sede anatomica delle ferite e lesioni riportate, le circostanze che vi concorsero e l'eventuale colpa di terzi, precisando, se possibile, i nomi dei testimoni o di chi possa essere accorso subito dopo.</corpo>
 						</comma>
 						<comma id="art18-com3">
 							<num />
-							<corpo>Il responsabile del servizio o settore regionale di appartenenza, una volta ricevuta l'anzidetta comunicazione, o venuto a conoscenza di un infortunio o infermitè che si possano presumere dipendenti da causa di servizio, provvede senza indugio ad effettuare una preliminare istruttoria sul fatto, in contraddittorio con l'interessato, che potrè farsi assistere da un rappresentante sindacale di sua fiducia, raccogliendo tutti gli elementi idonei a provare la natura dell'infermitè e la sua entitè, e provvedendo altresè ad accertare le circostanze che hanno concorso al verificarsi dell'evento nonchè ad acquisire gli elementi di giudizio che possano risultare utili ai fini di un eventuale riconoscimento dell'infermitè stessa da causa di servizio.</corpo>
+							<corpo>Il responsabile del servizio o settore regionale di appartenenza, una volta ricevuta l'anzidetta comunicazione, o venuto a conoscenza di un infortunio o infermità che si possano presumere dipendenti da causa di servizio, provvede senza indugio ad effettuare una preliminare istruttoria sul fatto, in contraddittorio con l'interessato, che potrè farsi assistere da un rappresentante sindacale di sua fiducia, raccogliendo tutti gli elementi idonei a provare la natura dell'infermità e la sua entità, e provvedendo altresì ad accertare le circostanze che hanno concorso al verificarsi dell'evento nonché ad acquisire gli elementi di giudizio che possano risultare utili ai fini di un eventuale riconoscimento dell'infermità stessa da causa di servizio.</corpo>
 						</comma>
 						<comma id="art18-com4">
 							<num />
@@ -678,22 +678,22 @@ Modifiche
 					</articolo>
 					<articolo id="art19">
 						<num>Art. 19</num>
-						<rubrica>Procedimento per il riconoscimento della dipendenza dell'infermitè da causa di servizio</rubrica>
+						<rubrica>Procedimento per il riconoscimento della dipendenza dell'infermità da causa di servizio</rubrica>
 						<comma id="art19-com1">
 							<num />
-							<alinea>Il dipendente, o in caso di suo decesso gli aventi diritto, che intendano chiedere il riconoscimento della dipendenza da causa di servizio dell'infermitèo del decesso, debbono presentare domanda, inoltrandola al servizio personale, entro i seguenti termini:</alinea>
+							<alinea>Il dipendente, o in caso di suo decesso gli aventi diritto, che intendano chiedere il riconoscimento della dipendenza da causa di servizio dell'infermitào del decesso, debbono presentare domanda, inoltrandola al servizio personale, entro i seguenti termini:</alinea>
 							<en id="art19-com1-num1">
 								<num>1)</num>
-								<corpo>in caso di infermitè derivante da infortunio: sei mesi dalla data dell'infortunio o da quella in cui l'interessato ha avuto conoscenza dell'infermitè stessa. Nel caso di ulteriori manifestazioni di infermitè conseguenti all'infortunio, la domanda deve essere presentata entro sei mesi dalla data in cui tali infermitè si sono manifestate;</corpo>
+								<corpo>in caso di infermità derivante da infortunio: sei mesi dalla data dell'infortunio o da quella in cui l'interessato ha avuto conoscenza dell'infermità stessa. Nel caso di ulteriori manifestazioni di infermità conseguenti all'infortunio, la domanda deve essere presentata entro sei mesi dalla data in cui tali infermità si sono manifestate;</corpo>
 							</en>
 							<en id="art19-com1-num2">
 								<num>2)</num>
-								<corpo>in caso di infermitè non derivanti da infortunio: sei mesi dal loro insorgere.</corpo>
+								<corpo>in caso di infermità non derivanti da infortunio: sei mesi dal loro insorgere.</corpo>
 							</en>
 						</comma>
 						<comma id="art19-com2">
 							<num />
-							<corpo>Le domande di riconoscimento della causa di servizio dovranno contenere l'indicazione della natura dell'infermitè, le cause che la produssero, le circostanze che vi concorsero e, ove possibile, le conseguenze sull'integritè fisica; ad esse puè essere allegata la documentazione che i proponenti riterranno opportuno produrre.</corpo>
+							<corpo>Le domande di riconoscimento della causa di servizio dovranno contenere l'indicazione della natura dell'infermità, le cause che la produssero, le circostanze che vi concorsero e, ove possibile, le conseguenze sull'integrità fisica; ad esse può essere allegata la documentazione che i proponenti riterranno opportuno produrre.</corpo>
 						</comma>
 						<comma id="art19-com3">
 							<num />
@@ -710,25 +710,25 @@ Modifiche
 						<comma id="art19-com5">
 							<num />
 							<corpo>
-								La commissione medica di cui sopra, cui è devoluta la competenza di accertare la dipendenza dell'infermitè da causa di servizio, dichiara anche se, a suo giudizio, l'infermitè stessa costituisca o meno impedimento temporaneo o permanente alla prestazione del servizio e se abbia prodotto o meno menomazione dell'integritè fisica e, in caso affermativo, a quale categoria, prevista dalle tabb. A e B annesse al
+								La commissione medica di cui sopra, cui è devoluta la competenza di accertare la dipendenza dell'infermità da causa di servizio, dichiara anche se, a suo giudizio, l'infermità stessa costituisca o meno impedimento temporaneo o permanente alla prestazione del servizio e se abbia prodotto o meno menomazione dell'integrità fisica e, in caso affermativo, a quale categoria, prevista dalle tabb. A e B annesse al
 								<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-12-23;915" xlink:type="simple">D.P.R. 23 dicembre 1978, n. 915</rif>
 								, è iscrivile la predetta menomazione.
 							</corpo>
 						</comma>
 						<comma id="art19-com6">
 							<num />
-							<corpo>Il riconoscimento della dipendenza dell'infermitè da causa di servizio è effettuata con provvedimento della Giunta Regionale.</corpo>
+							<corpo>Il riconoscimento della dipendenza dell'infermità da causa di servizio è effettuata con provvedimento della Giunta Regionale.</corpo>
 						</comma>
 						<comma id="art19-com7">
 							<num />
-							<corpo>Qualora il dipendente, già assente per infermitè dipendente da causa di servizio, non possa-allo scadere del termine massimo dell'assenza per malattia - riprendere servizio, viene sottoposto a nuovo accertamento sanitario da parte della commissione medica.</corpo>
+							<corpo>Qualora il dipendente, già assente per infermità dipendente da causa di servizio, non possa-allo scadere del termine massimo dell'assenza per malattia - riprendere servizio, viene sottoposto a nuovo accertamento sanitario da parte della commissione medica.</corpo>
 						</comma>
 						<comma id="art19-com8">
 							<num />
 							<corpo>
 								A tale commissione sono demandati anche gli adempimenti previsti dall'
 								<rif xlink:href="urn:nir:regione.molise:legge:1974-08-31;11#art85" xlink:type="simple">art. 85 della legge regionale 31 agosto 1974, n. 11</rif>
-								, ai fini della dispensa del dipendente dall'impiego per invaliditè permanente nonchè gli eventuali accertamenti ritenuti necessari per constatare l'intervenuta idoneitè fisica di cui all'art. 34 della citata legge regionale.
+								, ai fini della dispensa del dipendente dall'impiego per invalidità permanente nonché gli eventuali accertamenti ritenuti necessari per constatare l'intervenuta idoneità fisica di cui all'art. 34 della citata legge regionale.
 							</corpo>
 						</comma>
 						<comma id="art19-com9">
@@ -742,33 +742,33 @@ Modifiche
 						<comma id="art20-com1">
 							<num />
 							<corpo>
-								In conformitè alle norme contenute nei DD.PP.RR. 10 gennaio 1957, n. 3 e 3 maggio 1957, n. 686 il dipendente, non soggetto all'obbligo dell'iscrizione all'I.N.A.I.L. che, per infermitè contratta per causa di servizio, abbia subito una menomazione permanente dell'integritè fisica ascrivibile ad una delle categorie di cui alle tabb. A e B del
+								In conformità alle norme contenute nei DD.PP.RR. 10 gennaio 1957, n. 3 e 3 maggio 1957, n. 686 il dipendente, non soggetto all'obbligo dell'iscrizione all'I.N.A.I.L. che, per infermità contratta per causa di servizio, abbia subito una menomazione permanente dell'integrità fisica ascrivibile ad una delle categorie di cui alle tabb. A e B del
 								<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-12-23;915" xlink:type="simple">D.P.R.23 dicembre 1978, n. 915</rif>
-								, compete un equo indennizzo nonchè il rimborso delle sole spese di cura, comprese quelle termali, per il ricovero in istituti specializzati o per protesi, limitatamente all'eventuale parte eccedente quella a carico di enti o istituti assistenziali o assicurativi ai quali il collaboratore abbia diritto di rivolgersi in base a norme di legge o di regolamento.
+								, compete un equo indennizzo nonché il rimborso delle sole spese di cura, comprese quelle termali, per il ricovero in istituti specializzati o per protesi, limitatamente all'eventuale parte eccedente quella a carico di enti o istituti assistenziali o assicurativi ai quali il collaboratore abbia diritto di rivolgersi in base a norme di legge o di regolamento.
 							</corpo>
 						</comma>
 						<comma id="art20-com2">
 							<num />
-							<corpo>Per quanto attiene modalitè ed organi competenti al riconoscimento dell'equo indennizzo, valgono le norme di cui ai successivi articoli.</corpo>
+							<corpo>Per quanto attiene modalità ed organi competenti al riconoscimento dell'equo indennizzo, valgono le norme di cui ai successivi articoli.</corpo>
 						</comma>
 					</articolo>
 					<articolo id="art21">
 						<num>Art. 21</num>
-						<rubrica>Modalitè e procedure per la concessione dell'equo indennizzo</rubrica>
+						<rubrica>Modalità e procedure per la concessione dell'equo indennizzo</rubrica>
 						<comma id="art21-com1">
 							<num />
-							<corpo>Per conseguire l'equo indennizzo il dipendente deve presentare domanda al servizio personale, trasmettendola mediante raccomandata con avviso di ricevimento, entro sei mesi dal giorno in cui gli è comunicata la decisione che riconosce la dipendenza della menomazione dell'integritè fisica da causa di servizio o entro sei mesi dalla data in cui si è verificata la menomazione medesima in conseguenza dell'infermitè già riconosciuta dipendente da causa di servizio.</corpo>
+							<corpo>Per conseguire l'equo indennizzo il dipendente deve presentare domanda al servizio personale, trasmettendola mediante raccomandata con avviso di ricevimento, entro sei mesi dal giorno in cui gli è comunicata la decisione che riconosce la dipendenza della menomazione dell'integrità fisica da causa di servizio o entro sei mesi dalla data in cui si è verificata la menomazione medesima in conseguenza dell'infermità già riconosciuta dipendente da causa di servizio.</corpo>
 						</comma>
 						<comma id="art21-com2">
 							<num />
-							<corpo>La disposizione di cui al comma precedente si applica anche nel caso in cui la menomazione dell'integritè fisica si manifesti dopo la cessazione del rapporto di impiego.</corpo>
+							<corpo>La disposizione di cui al comma precedente si applica anche nel caso in cui la menomazione dell'integrità fisica si manifesti dopo la cessazione del rapporto di impiego.</corpo>
 						</comma>
 						<comma id="art21-com3">
 							<num />
 							<corpo>
 								Nel caso di decesso del dipendente o del pensionato prima della scadenza del termine di cui al
 								<rif xlink:href="#art21-com1" xlink:type="simple">primo comma</rif>
-								, la domanda puè essere proposta dagli eredi entro sei mesi dal decesso stesso.
+								, la domanda può essere proposta dagli eredi entro sei mesi dal decesso stesso.
 							</corpo>
 						</comma>
 						<comma id="art21-com4">
@@ -776,15 +776,15 @@ Modifiche
 							<corpo>
 								Qualora la categoria di menomazione non risulti dalla dichiarazione di cui all'
 								<rif xlink:href="#art19" xlink:type="simple">art. 19</rif>
-								o la menomazione sia avvenuta successivamente al riconoscimento della dipendenza dell'infermitè da causa di servizio, il dipendente che abbia presentato domanda per la concessione dell'equo indennizzo è sottoposto a visita da parte del collegio medico di cui allo stesso articolo.
+								o la menomazione sia avvenuta successivamente al riconoscimento della dipendenza dell'infermità da causa di servizio, il dipendente che abbia presentato domanda per la concessione dell'equo indennizzo è sottoposto a visita da parte del collegio medico di cui allo stesso articolo.
 							</corpo>
 						</comma>
 						<comma id="art21-com5">
 							<num />
-							<alinea>Detto collegio redige processo verbale della visita dal quale, oltre le generalitè del dipendente e l'esposizione dei fatti che vengono riferiti come causa della menomazione dell'integritè fisica, deve risultare:</alinea>
+							<alinea>Detto collegio redige processo verbale della visita dal quale, oltre le generalità del dipendente e l'esposizione dei fatti che vengono riferiti come causa della menomazione dell'integrità fisica, deve risultare:</alinea>
 							<en id="art21-com5-num1">
 								<num>1)</num>
-								<corpo>se la menomazione lamentata sia da considerarsi conseguenza dell'infermitè dichiarata a suo tempo come dipendente da causa di servizio;</corpo>
+								<corpo>se la menomazione lamentata sia da considerarsi conseguenza dell'infermità dichiarata a suo tempo come dipendente da causa di servizio;</corpo>
 							</en>
 							<en id="art21-com5-num2">
 								<num>2)</num>
@@ -797,11 +797,11 @@ Modifiche
 						</comma>
 						<comma id="art21-com6">
 							<num />
-							<corpo>Il servizio personale rimette tutti gli atti alla Giunta, corredandoli con una relazione nella quale siano riassunti gli elementi di fatto, i pareri amministrativi e tutte le altre circostanze che possono far ammettere o escludere la concessione dell'equo indennizzo. La relazione deve concludere formulando proposte in ordine all'accoglimento o meno della richiesta e con quali modalitè.</corpo>
+							<corpo>Il servizio personale rimette tutti gli atti alla Giunta, corredandoli con una relazione nella quale siano riassunti gli elementi di fatto, i pareri amministrativi e tutte le altre circostanze che possono far ammettere o escludere la concessione dell'equo indennizzo. La relazione deve concludere formulando proposte in ordine all'accoglimento o meno della richiesta e con quali modalità.</corpo>
 						</comma>
 						<comma id="art21-com7">
 							<num />
-							<corpo>La Giunta puè acquisire sulle proposte del servizio personale il parere di organi tecnici.</corpo>
+							<corpo>La Giunta può acquisire sulle proposte del servizio personale il parere di organi tecnici.</corpo>
 						</comma>
 					</articolo>
 					<articolo id="art22">
@@ -809,7 +809,7 @@ Modifiche
 						<rubrica>Liquidazione dell'equo indennizzo</rubrica>
 						<comma id="art22-com1">
 							<num />
-							<corpo>L'equo indennizzo è riconosciuto e liquidato secondo equitè con provvedimento della Giunta Regionale in base alle categorie di menomazione dell'integritè fisica ed in conformitè all'allegato C annesso alla presente legge.</corpo>
+							<corpo>L'equo indennizzo è riconosciuto e liquidato secondo equità con provvedimento della Giunta Regionale in base alle categorie di menomazione dell'integrità fisica ed in conformità all'allegato C annesso alla presente legge.</corpo>
 						</comma>
 						<comma id="art22-com2">
 							<num />
@@ -817,19 +817,19 @@ Modifiche
 						</comma>
 						<comma id="art22-com3">
 							<num />
-							<corpo>L'etè ed il livello alle quali si ha riguardo ai fini della liquidazione stessa sono quelle che l'impiegato aveva al momento dell'evento dannoso.</corpo>
+							<corpo>L'età ed il livello alle quali si ha riguardo ai fini della liquidazione stessa sono quelle che l'impiegato aveva al momento dell'evento dannoso.</corpo>
 						</comma>
 						<comma id="art22-com4">
 							<num />
-							<corpo>L'indennizzo è ridotto del 25% se il dipendente ha superato i cinquanta anni di etè e del 50% se ha superato i sessanta.</corpo>
+							<corpo>L'indennizzo è ridotto del 25% se il dipendente ha superato i cinquanta anni di età e del 50% se ha superato i sessanta.</corpo>
 						</comma>
 						<comma id="art22-com5">
 							<num />
-							<corpo>Va dedotto dall'equo indennizzo quanto eventualmente percepito dal dipendente e in virtè di assicurazione a carico della Regione.</corpo>
+							<corpo>Va dedotto dall'equo indennizzo quanto eventualmente percepito dal dipendente e in virtà di assicurazione a carico della Regione.</corpo>
 						</comma>
 						<comma id="art22-com6">
 							<num />
-							<corpo>Nulla puè essere liquidato al dipendente se la menomazione dell'integritè fisica sia stata contratta per dolo o colpa grave di lui.</corpo>
+							<corpo>Nulla può essere liquidato al dipendente se la menomazione dell'integrità fisica sia stata contratta per dolo o colpa grave di lui.</corpo>
 						</comma>
 					</articolo>
 					<articolo id="art23">
@@ -837,7 +837,7 @@ Modifiche
 						<rubrica>Aggravamento sopravvenuto della menomazione</rubrica>
 						<comma id="art23-com1">
 							<num />
-							<corpo>Entro cinque anni dalla data della liquidazione dell'equo indennizzo, la Regione, nel caso di aggravamento della menomazione dell'integritè fisica per la quale sia stato concesso, puè provvedere, su richiesta del dipendente, e per una sola volta, alla revisione dell'indennizzo già concesso.</corpo>
+							<corpo>Entro cinque anni dalla data della liquidazione dell'equo indennizzo, la Regione, nel caso di aggravamento della menomazione dell'integrità fisica per la quale sia stato concesso, può provvedere, su richiesta del dipendente, e per una sola volta, alla revisione dell'indennizzo già concesso.</corpo>
 						</comma>
 						<comma id="art23-com2">
 							<num />
@@ -846,14 +846,14 @@ Modifiche
 					</articolo>
 					<articolo id="art24">
 						<num>Art. 24</num>
-						<rubrica>Cumulo dell'equo indennizzo con ulteriori menomazioni dell'integritè fisica o con la pensione privilegiata</rubrica>
+						<rubrica>Cumulo dell'equo indennizzo con ulteriori menomazioni dell'integrità fisica o con la pensione privilegiata</rubrica>
 						<comma id="art24-com1">
 							<num />
-							<corpo>L'equo indennizzo è ridotto della metè se il dipendente consegue anche la pensione privilegiata.</corpo>
+							<corpo>L'equo indennizzo è ridotto della metà se il dipendente consegue anche la pensione privilegiata.</corpo>
 						</comma>
 						<comma id="art24-com2">
 							<num />
-							<corpo>Nel caso inoltre in cui il dipendente riporti, per causa di servizio, altra menomazione dell'integritè fisica, si procede alla liquidazione del nuovo indennizzo se la menomazione complessiva dell'integritè fisica rientra in una classe di invaliditè superiore a quella precedentemente determinata.</corpo>
+							<corpo>Nel caso inoltre in cui il dipendente riporti, per causa di servizio, altra menomazione dell'integrità fisica, si procede alla liquidazione del nuovo indennizzo se la menomazione complessiva dell'integrità fisica rientra in una classe di invalidità superiore a quella precedentemente determinata.</corpo>
 						</comma>
 						<comma id="art24-com3">
 							<num />
@@ -865,7 +865,7 @@ Modifiche
 						<rubrica>Rinvio</rubrica>
 						<comma id="art25-com1">
 							<num />
-							<corpo>Per tutto quanto non previsto, valgono le norme vigenti per i dipendenti civili dello Stato in materia di riconoscimento di infermitè dipendente da causa di servizio e di equo indennizzo.</corpo>
+							<corpo>Per tutto quanto non previsto, valgono le norme vigenti per i dipendenti civili dello Stato in materia di riconoscimento di infermità dipendente da causa di servizio e di equo indennizzo.</corpo>
 						</comma>
 						<comma id="art25-com2">
 							<num />
@@ -877,7 +877,7 @@ Modifiche
 						<rubrica>Patrocinio legale</rubrica>
 						<comma id="art26-com1">
 							<num />
-							<corpo>La Regione, nell'ambito della tutela dei propri diritti ed interessi, assicura l'assistenza in sede processuale agli impiegati che si trovino implicati, in conseguenza di fatti ed atti connessi all'espletamento del servizio e all'adempimento dei compiti di ufficio, in procedimenti di responsabilitè civile o penale, in ogni stato e grado di giudizio.</corpo>
+							<corpo>La Regione, nell'ambito della tutela dei propri diritti ed interessi, assicura l'assistenza in sede processuale agli impiegati che si trovino implicati, in conseguenza di fatti ed atti connessi all'espletamento del servizio e all'adempimento dei compiti di ufficio, in procedimenti di responsabilità civile o penale, in ogni stato e grado di giudizio.</corpo>
 						</comma>
 						<comma id="art26-com2">
 							<num />
@@ -901,7 +901,7 @@ Modifiche
 						</comma>
 						<comma id="art27-com2">
 							<num />
-							<corpo>La Regione, in accordo con le locali associazioni ANCI e UPI, procederè con atto separato a fissare modi e limiti per la fruizione dei permessi retribuiti di cui al comma che precede, graduandoli opportunamente in relazione all'entitè degli incarichi svolti.</corpo>
+							<corpo>La Regione, in accordo con le locali associazioni ANCI e UPI, procederè con atto separato a fissare modi e limiti per la fruizione dei permessi retribuiti di cui al comma che precede, graduandoli opportunamente in relazione all'entità degli incarichi svolti.</corpo>
 						</comma>
 						<comma id="art27-com3">
 							<num />
@@ -910,10 +910,10 @@ Modifiche
 					</articolo>
 					<articolo id="art28">
 						<num>Art. 28</num>
-						<rubrica>Mutamento di mansioni per inidoneitè fisica</rubrica>
+						<rubrica>Mutamento di mansioni per inidoneità fisica</rubrica>
 						<comma id="art28-com1">
 							<num />
-							<corpo>Nei confronti dell'impiegato riconosciuto fisicamente inidoneo in via permanente allo svolgimento delle mansioni attribuitegli, la Regione non puè provvedere alla dispensa del servizio per motivi di salute prima di aver esperito ogni utile tentativo, compatibilmente con le strutture organizzative dei vari settori, per recuperarlo al servizio attivo, con mansioni diverse da quelle proprie del livello rivestito, appartenenti allo stesso livello funzionale-retributivo od a livello inferiore.</corpo>
+							<corpo>Nei confronti dell'impiegato riconosciuto fisicamente inidoneo in via permanente allo svolgimento delle mansioni attribuitegli, la Regione non può provvedere alla dispensa del servizio per motivi di salute prima di aver esperito ogni utile tentativo, compatibilmente con le strutture organizzative dei vari settori, per recuperarlo al servizio attivo, con mansioni diverse da quelle proprie del livello rivestito, appartenenti allo stesso livello funzionale-retributivo od a livello inferiore.</corpo>
 						</comma>
 						<comma id="art28-com2">
 							<num />
@@ -921,12 +921,12 @@ Modifiche
 						</comma>
 						<comma id="art28-com3">
 							<num />
-							<corpo>L'accertamento della permanente inidoneitè fisica ad alcune o a tutte le mansioni della qualifica funzionale di appartenenza è effettuata a richiesta dell'Amministrazione o dell'interessato.</corpo>
+							<corpo>L'accertamento della permanente inidoneità fisica ad alcune o a tutte le mansioni della qualifica funzionale di appartenenza è effettuata a richiesta dell'Amministrazione o dell'interessato.</corpo>
 						</comma>
 					</articolo>
 					<articolo id="art29">
 						<num>Art. 29</num>
-						<rubrica>Mobilitè in sede</rubrica>
+						<rubrica>Mobilità in sede</rubrica>
 						<comma id="art29-com1">
 							<num />
 							<corpo>Il trasferimento di personale, determinato da modifiche dell'organigramma o da altre esigenze di servizio e non comportante cambiamento di sede, è disposto, con ordine di servizio del Presidente della Giunta Regionale, d'intesa con gli Assessori competenti e col Presidente del Consiglio per quanto concerne i servizi del Consiglio, sentite le Organizzazioni Sindacali.</corpo>
@@ -942,13 +942,13 @@ Modifiche
 					</articolo>
 					<articolo id="art30">
 						<num>Art. 30</num>
-						<rubrica>Mobilitè territoriale nell'ambito della Regione</rubrica>
+						<rubrica>Mobilità territoriale nell'ambito della Regione</rubrica>
 						<comma id="art30-com1">
 							<num />
-							<alinea>L'assegnazione del dipendente ad altra sede regionale di lavoro al di fuori del territorio comunale ove è situata la sede di provenienza , nel caso in cui il tempo di percorrenza dei mezzi pubblici di trasporto extraurbano dalla localitè della precedente sede di lavoro a quella di destinazione superi la durata di 30 minuti, si effettua con l'osservanza delle seguenti modalitè:</alinea>
+							<alinea>L'assegnazione del dipendente ad altra sede regionale di lavoro al di fuori del territorio comunale ove è situata la sede di provenienza , nel caso in cui il tempo di percorrenza dei mezzi pubblici di trasporto extraurbano dalla località della precedente sede di lavoro a quella di destinazione superi la durata di 30 minuti, si effettua con l'osservanza delle seguenti modalità:</alinea>
 							<en id="art30-com1-num1">
 								<num>1)</num>
-								<corpo>fissazione di criteri oggettivi con le OO.SS. maggiormente rappresentative su base nazionale, tenuto conto della residenza, delle condizioni familiari, dell'etè, dell'anzianitè di servizio e delle necessitè di studio dei dipendenti;</corpo>
+								<corpo>fissazione di criteri oggettivi con le OO.SS. maggiormente rappresentative su base nazionale, tenuto conto della residenza, delle condizioni familiari, dell'età, dell'anzianità di servizio e delle necessità di studio dei dipendenti;</corpo>
 							</en>
 							<en id="art30-com1-num2">
 								<num>2)</num>
@@ -965,11 +965,11 @@ Modifiche
 						</comma>
 						<comma id="art30-com2">
 							<num />
-							<corpo>Qualora il settore di attivitè di nuova destinazione comporti sostanziali modificazioni delle condizioni di lavoro, l'individuazione del personale da trasferire dovrè, comunque, avvenire secondo i criteri oggettivi predetti, anche se il tempo di percorrenza di cui al comma precedente non superi la durata di 30 minuti.</corpo>
+							<corpo>Qualora il settore di attività di nuova destinazione comporti sostanziali modificazioni delle condizioni di lavoro, l'individuazione del personale da trasferire dovrè, comunque, avvenire secondo i criteri oggettivi predetti, anche se il tempo di percorrenza di cui al comma precedente non superi la durata di 30 minuti.</corpo>
 						</comma>
 						<comma id="art30-com3">
 							<num />
-							<corpo>Al solo scopo di assicurare in via d'urgenza la continuitè dei servizi, l'amministrazione puè derogare alle suddette procedure, mediante provvedimenti adottati d'ufficio per la durata non superiore a 30 giorni, non prorogabile nè rinnovabile.</corpo>
+							<corpo>Al solo scopo di assicurare in via d'urgenza la continuità dei servizi, l'amministrazione può derogare alle suddette procedure, mediante provvedimenti adottati d'ufficio per la durata non superiore a 30 giorni, non prorogabile nè rinnovabile.</corpo>
 						</comma>
 						<comma id="art30-com4">
 							<num />
@@ -978,10 +978,10 @@ Modifiche
 					</articolo>
 					<articolo id="art31">
 						<num>Art. 31</num>
-						<rubrica>Mobilitè territoriale</rubrica>
+						<rubrica>Mobilità territoriale</rubrica>
 						<comma id="art31-com1">
 							<num />
-							<corpo>In relazione alle esigenze di mobilitè derivanti in primo luogo dal trasferimento di personale alle Regioni, e per un periodo non superiore a due anni, l'impiegato, per esigenze di servizio ed a seguito di formale provvedimento, puè essere utilizzato temporaneamente preso un diverso ufficio regionale o alle dipendenze di altro Ente presso una sede di servizio distante dalla circoscrizione comunale della precedente sede non oltre 40 Km., ovvero per un percorso non superiore a 60 minuti con mezzi pubblici di trasporto.</corpo>
+							<corpo>In relazione alle esigenze di mobilità derivanti in primo luogo dal trasferimento di personale alle Regioni, e per un periodo non superiore a due anni, l'impiegato, per esigenze di servizio ed a seguito di formale provvedimento, può essere utilizzato temporaneamente preso un diverso ufficio regionale o alle dipendenze di altro Ente presso una sede di servizio distante dalla circoscrizione comunale della precedente sede non oltre 40 Km., ovvero per un percorso non superiore a 60 minuti con mezzi pubblici di trasporto.</corpo>
 						</comma>
 						<comma id="art31-com2">
 							<num />
@@ -989,18 +989,18 @@ Modifiche
 						</comma>
 						<comma id="art31-com3">
 							<num />
-							<corpo>Nel caso in cui il tempo di percorrenza dei mezzi pubblici di trasporto extraurbano dalla localitè di partenza a quella di destinazione superi la durata di 60 minuti, il dipendente ha il diritto di usufruire di un servizio di mensa eventualmente esistente in zona, al medesimo prezzo convenzionato per gli altri lavoratori degli Enti pubblici che hanno accesso al servizio.</corpo>
+							<corpo>Nel caso in cui il tempo di percorrenza dei mezzi pubblici di trasporto extraurbano dalla località di partenza a quella di destinazione superi la durata di 60 minuti, il dipendente ha il diritto di usufruire di un servizio di mensa eventualmente esistente in zona, al medesimo prezzo convenzionato per gli altri lavoratori degli Enti pubblici che hanno accesso al servizio.</corpo>
 						</comma>
 						<comma id="art31-com4">
 							<num />
-							<corpo>Ciascun Ente deve ricercare soluzioni di orario funzionale, anche con carattere di flessibilitè, che favoriscano la possibilitè degli impiegati di usufruire di mezzi di trasporto di linea, fermo restando l'osservanza dell'orario complessivo settimanale di 36 ore.</corpo>
+							<corpo>Ciascun Ente deve ricercare soluzioni di orario funzionale, anche con carattere di flessibilità, che favoriscano la possibilità degli impiegati di usufruire di mezzi di trasporto di linea, fermo restando l'osservanza dell'orario complessivo settimanale di 36 ore.</corpo>
 						</comma>
 						<comma id="art31-com5">
 							<num />
 							<alinea>Non rientrano nella disciplina del presente articolo:</alinea>
 							<el id="art31-com5-leta">
 								<num>a)</num>
-								<corpo>gli spostamenti temporanei di impiegati per lo svolgimento in altra localitè di compiti propri dell'ufficio di appartenenza e configurabili come missioni, da sottoporre alla specifica disciplina prevista per tale istituto;</corpo>
+								<corpo>gli spostamenti temporanei di impiegati per lo svolgimento in altra località di compiti propri dell'ufficio di appartenenza e configurabili come missioni, da sottoporre alla specifica disciplina prevista per tale istituto;</corpo>
 							</el>
 							<el id="art31-com5-letb">
 								<num>b)</num>
@@ -1013,7 +1013,7 @@ Modifiche
 						<rubrica>Comando</rubrica>
 						<comma id="art32-com1">
 							<num />
-							<corpo>è consentito, su assenso dell'impiegato interessato, il comando di personale presso altre regioni e presso gli Enti Locali e gli Enti destinatari di deleghe di funzioni amministrative, per comprovate esigenze connesse a specifiche professionalitè e per consentire l'interscambio di esperienze, la formazione e l'aggiornamento professionale. è parimenti consentito, con gli stessi criteri, il comando presso la Regione di impiegati di altre Regioni o di Enti Locali.</corpo>
+							<corpo>è consentito, su assenso dell'impiegato interessato, il comando di personale presso altre regioni e presso gli Enti Locali e gli Enti destinatari di deleghe di funzioni amministrative, per comprovate esigenze connesse a specifiche professionalità e per consentire l'interscambio di esperienze, la formazione e l'aggiornamento professionale. è parimenti consentito, con gli stessi criteri, il comando presso la Regione di impiegati di altre Regioni o di Enti Locali.</corpo>
 						</comma>
 						<comma id="art32-com2">
 							<num />
@@ -1021,7 +1021,7 @@ Modifiche
 						</comma>
 						<comma id="art32-com3">
 							<num />
-							<corpo>Il provvedimento che dispone il comando di personale deve indicarne la durata, che non potrè essere comunque superiore a 24 mesi; detto comando, su assenso dell'impiegato interessato, puè essere peraltro, alla scadenza, ulteriormente prorogato nei limiti massimi sopra specificati.</corpo>
+							<corpo>Il provvedimento che dispone il comando di personale deve indicarne la durata, che non potrè essere comunque superiore a 24 mesi; detto comando, su assenso dell'impiegato interessato, può essere peraltro, alla scadenza, ulteriormente prorogato nei limiti massimi sopra specificati.</corpo>
 						</comma>
 					</articolo>
 					<articolo id="art33">
@@ -1034,14 +1034,14 @@ Modifiche
 					</articolo>
 					<articolo id="art34">
 						<num>Art. 34</num>
-						<rubrica>Aspettative e permessi per attivitè sindacale</rubrica>
+						<rubrica>Aspettative e permessi per attività sindacale</rubrica>
 						<comma id="art34-com1">
 							<num />
 							<corpo>I dipendenti regionali, per funzioni di carattere sindacale nazionale, sono, a domanda da presentare per il tramite della competente Organizzazione, collocati in aspettativa per motivi sindacali.</corpo>
 						</comma>
 						<comma id="art34-com2">
 							<num />
-							<corpo>Il contingente complessivo di aspettativa per la Regione è fissato in rapporto ad una unitè ogni 5 mila dipendenti o frazione superiore a 2500, da ripartire fra le organizzazioni sindacali maggiormente rappresentative su base nazionale.</corpo>
+							<corpo>Il contingente complessivo di aspettativa per la Regione è fissato in rapporto ad una unità ogni 5 mila dipendenti o frazione superiore a 2500, da ripartire fra le organizzazioni sindacali maggiormente rappresentative su base nazionale.</corpo>
 						</comma>
 						<comma id="art34-com3">
 							<num />
@@ -1069,7 +1069,7 @@ Modifiche
 						</comma>
 						<comma id="art34-com9">
 							<num />
-							<corpo>Le modalitè per la concessione dei permessi e dei congedi retribuiti, sono stabilite dalla Giunta Regionale di intesa con le rappresentanze sindacali del personale regionale.</corpo>
+							<corpo>Le modalità per la concessione dei permessi e dei congedi retribuiti, sono stabilite dalla Giunta Regionale di intesa con le rappresentanze sindacali del personale regionale.</corpo>
 						</comma>
 						<comma id="art34-com10">
 							<num />
@@ -1081,15 +1081,15 @@ Modifiche
 						<rubrica>Locali in uso alle organizzazioni sindacali e diritto di affissione</rubrica>
 						<comma id="art35-com1">
 							<num />
-							<corpo>Nel capoluogo della Regione viene assicurata permanentemente la disponibilitè di un idoneo e attrezzato locale a ciascuna rappresentanza delle Organizzazioni Sindacali maggiormente rappresentative in campo nazionale.</corpo>
+							<corpo>Nel capoluogo della Regione viene assicurata permanentemente la disponibilità di un idoneo e attrezzato locale a ciascuna rappresentanza delle Organizzazioni Sindacali maggiormente rappresentative in campo nazionale.</corpo>
 						</comma>
 						<comma id="art35-com2">
 							<num />
-							<corpo>La Regione pone, altresè, di volta in volta, a disposizione delle rappresentanze sindacali, per l'esercizio delle loro funzioni, un idoneo locale comune per ogni capoluogo di Provincia, all'interno di una sede regionale.</corpo>
+							<corpo>La Regione pone, altresì, di volta in volta, a disposizione delle rappresentanze sindacali, per l'esercizio delle loro funzioni, un idoneo locale comune per ogni capoluogo di Provincia, all'interno di una sede regionale.</corpo>
 						</comma>
 						<comma id="art35-com3">
 							<num />
-							<corpo>Qualora il numero degli impiegati in una unitè, sede o altra entitè organizzativa sia superiore a dieci, le rappresentanze hanno diritto di usufruire, ove ne facciano richiesta, di un locale idoneo per le loro riunioni.</corpo>
+							<corpo>Qualora il numero degli impiegati in una unità, sede o altra entità organizzativa sia superiore a dieci, le rappresentanze hanno diritto di usufruire, ove ne facciano richiesta, di un locale idoneo per le loro riunioni.</corpo>
 						</comma>
 						<comma id="art35-com4">
 							<num />
@@ -1101,7 +1101,7 @@ Modifiche
 						<rubrica>Contributi sindacali</rubrica>
 						<comma id="art36-com1">
 							<num />
-							<corpo>I dipendenti hanno facoltè di rilasciare delega a favore della propria organizzazione sindacale, per la riscossione di contributi sindacali, la cui misura viene fissata all'inizio di ogni anno a livello nazionale dalle organizzazioni nazionali di categoria.</corpo>
+							<corpo>I dipendenti hanno facoltà di rilasciare delega a favore della propria organizzazione sindacale, per la riscossione di contributi sindacali, la cui misura viene fissata all'inizio di ogni anno a livello nazionale dalle organizzazioni nazionali di categoria.</corpo>
 						</comma>
 						<comma id="art36-com2">
 							<num />
@@ -1109,11 +1109,11 @@ Modifiche
 						</comma>
 						<comma id="art36-com3">
 							<num />
-							<corpo>La relativa riscossione viene effettuata dall'Amministrazione mediante ritenute mensili il cui ammontare viene versato entro 15 giorni secondo le modalitè indicate dalle organizzazioni.</corpo>
+							<corpo>La relativa riscossione viene effettuata dall'Amministrazione mediante ritenute mensili il cui ammontare viene versato entro 15 giorni secondo le modalità indicate dalle organizzazioni.</corpo>
 						</comma>
 						<comma id="art36-com4">
 							<num />
-							<corpo>La delega ha validitè dal primo giorno del mese successivo a quello del rilascio fino al 31 dicembre di ogni anno e si intende tacitamente rinnovata, ove non venga revocata dall'interessato entro la data del 31 ottobre mediante comunicazione scritta all'organizzazione sindacale interessata ed all'amministrazione regionale.</corpo>
+							<corpo>La delega ha validità dal primo giorno del mese successivo a quello del rilascio fino al 31 dicembre di ogni anno e si intende tacitamente rinnovata, ove non venga revocata dall'interessato entro la data del 31 ottobre mediante comunicazione scritta all'organizzazione sindacale interessata ed all'amministrazione regionale.</corpo>
 						</comma>
 					</articolo>
 					<articolo id="art37">
@@ -1121,11 +1121,11 @@ Modifiche
 						<rubrica>Atti discriminatori</rubrica>
 						<comma id="art37-com1">
 							<num />
-							<corpo>è vietato ogni comportamento diretto ad impedire o limitare le libertè personali e sindacali degli impiegati l'esercizio dell'attivitè sindacale e del diritto di sciopero.</corpo>
+							<corpo>è vietato ogni comportamento diretto ad impedire o limitare le libertà personali e sindacali degli impiegati l'esercizio dell'attività sindacale e del diritto di sciopero.</corpo>
 						</comma>
 						<comma id="art37-com2">
 							<num />
-							<corpo>L'esercizio delle libertè sindacali non puè essere motivo di pregiudizio all'impiegato nel caso del rapporto di impiego.</corpo>
+							<corpo>L'esercizio delle libertà sindacali non può essere motivo di pregiudizio all'impiegato nel caso del rapporto di impiego.</corpo>
 						</comma>
 						<comma id="art37-com3">
 							<num />
@@ -1147,7 +1147,7 @@ Modifiche
 								<alinea>Il Consiglio di Amministrazione del personale è presieduto dal Presidente della Giunta Regionale o da un Assessore da lui delegato ed è composto:</alinea>
 								<el id="art38-com1-leta">
 									<num>a)</num>
-									<corpo>da cinque Consiglieri regionali eletti dal Consiglio Regionale; a tal fine ciascun Consigliere puè votare non più di tre nomi;</corpo>
+									<corpo>da cinque Consiglieri regionali eletti dal Consiglio Regionale; a tal fine ciascun Consigliere può votare non più di tre nomi;</corpo>
 								</el>
 								<el id="art38-com1-letb">
 									<num>b)</num>
@@ -1172,7 +1172,7 @@ Modifiche
 							</comma>
 							<comma id="art38-com5">
 								<num />
-								<corpo>Per la validitè delle deliberazioni è necessaria la presenza di almeno cinque dei componenti; le deliberazioni si adottano a maggioranza assoluta dei presenti.</corpo>
+								<corpo>Per la validità delle deliberazioni è necessaria la presenza di almeno cinque dei componenti; le deliberazioni si adottano a maggioranza assoluta dei presenti.</corpo>
 							</comma>
 							<comma id="art38-com6">
 								<num />
@@ -1198,7 +1198,7 @@ Modifiche
 										<rif xlink:href="urn:nir:regione.molise:legge:1974;11" xlink:type="simple">11</rif>
 										e
 										<rif xlink:href="urn:nir:regione.molise:legge:1974;12" xlink:type="simple">12</rif>
-										è cosè modificato: &lt;&lt;
+										è così modificato: &lt;&lt;
 										<virgolette id="mod1-vir1" tipo="struttura">
 											<el id="mod1-vir1-letb">
 												<num>b)</num>
@@ -1223,7 +1223,7 @@ Modifiche
 										<virgolette id="mod2-vir1" tipo="struttura">
 											<comma id="mod2-vir1-com1">
 												<num />
-												<corpo>La Giunta Regionale provvede in conformitè della proposta della Commissione, salvo che non ritenga di disporre in modo più favorevole al dipendente</corpo>
+												<corpo>La Giunta Regionale provvede in conformità della proposta della Commissione, salvo che non ritenga di disporre in modo più favorevole al dipendente</corpo>
 											</comma>
 										</virgolette>
 										&gt;&gt;.
@@ -1238,7 +1238,7 @@ Modifiche
 								<num />
 								<corpo>
 									Il termine di 60 giorni previsto dal
-									<rif xlink:href="urn:nir:regione.molise:legge:1974-08-31;11#art71-com1" xlink:type="simple">1è comma dell'art. 71 della legge regionale 31 agosto 1974, n. 11</rif>
+									<rif xlink:href="urn:nir:regione.molise:legge:1974-08-31;11#art71-com1" xlink:type="simple">1° comma dell'art. 71 della legge regionale 31 agosto 1974, n. 11</rif>
 									, ai fini dell'estinzione del procedimento disciplinare è aumentato a 90 giorni.
 								</corpo>
 							</comma>
@@ -1259,19 +1259,19 @@ Modifiche
 							<rubrica>Stipendi ed indennità</rubrica>
 							<comma id="art42-com1">
 								<num />
-								<corpo>La progressione economica nell'ambito di ciascun livello si svolge mediante attribuzione di aumenti periodici e classi stipendiali. Le classi stipendiali, del valore del 16% costante riferito al trattamento economico iniziale assegnato a ciascun livello, hanno scadenza al 3°, 6è, 10è, 15è e 20è anno di servizio.</corpo>
+								<corpo>La progressione economica nell'ambito di ciascun livello si svolge mediante attribuzione di aumenti periodici e classi stipendiali. Le classi stipendiali, del valore del 16% costante riferito al trattamento economico iniziale assegnato a ciascun livello, hanno scadenza al 3°, 6°, 10°, 15° e 20° anno di servizio.</corpo>
 							</comma>
 							<comma id="art42-com2">
 								<num />
-								<corpo>Gli aumenti periodici sono determinati in ragione del 2,50% sulla classe in godimento e si conseguono dopo il 2è, 5è, 8è, 12è, 14è, 17è 19è e 22è anno di servizio e sono assorbiti all atto dell'acquisizione della successiva classe.</corpo>
+								<corpo>Gli aumenti periodici sono determinati in ragione del 2,50% sulla classe in godimento e si conseguono dopo il 2°, 5°, 8°, 12°, 14°, 17° 19° e 22° anno di servizio e sono assorbiti all atto dell'acquisizione della successiva classe.</corpo>
 							</comma>
 							<comma id="art42-com3">
 								<num />
-								<corpo>Gli aumenti periodici biennali dopo il 22è anno sono illimitati.</corpo>
+								<corpo>Gli aumenti periodici biennali dopo il 22° anno sono illimitati.</corpo>
 							</comma>
 							<comma id="art42-com4">
 								<num />
-								<corpo>Gli aumenti periodici e le classi di stipendio sono attribuiti dal primo giorno del mese di compimento dell'anzianitè richiesta.</corpo>
+								<corpo>Gli aumenti periodici e le classi di stipendio sono attribuiti dal primo giorno del mese di compimento dell'anzianità richiesta.</corpo>
 							</comma>
 							<comma id="art42-com5">
 								<num />
@@ -1279,7 +1279,7 @@ Modifiche
 							</comma>
 							<comma id="art42-com6">
 								<num />
-								<corpo>Al personale spettano altresè l'aggiunta di famiglia, l'indennità integrativa speciale e la tredicesima mensilitè secondo le norme previste per i dipendenti civili dello Stato, nonchè l'indennità di missione, di trasferimento e di prima sistemazione secondo quanto previsto dalla presente legge.</corpo>
+								<corpo>Al personale spettano altresì l'aggiunta di famiglia, l'indennità integrativa speciale e la tredicesima mensilità secondo le norme previste per i dipendenti civili dello Stato, nonché l'indennità di missione, di trasferimento e di prima sistemazione secondo quanto previsto dalla presente legge.</corpo>
 							</comma>
 						</articolo>
 						<articolo id="art43">
@@ -1296,7 +1296,7 @@ Modifiche
 							<comma id="art43-com2">
 								<num />
 								<corpo>
-									Restano esclusi dal principio di cui al precedente comma il compenso per il lavoro straordinario e per lavoro ordinario notturno e festivo nonchè l'indennità per le funzioni di coordinamento di cui al
+									Restano esclusi dal principio di cui al precedente comma il compenso per il lavoro straordinario e per lavoro ordinario notturno e festivo nonché l'indennità per le funzioni di coordinamento di cui al
 									<rif xlink:href="#art3" xlink:type="simple">precedente art. 3</rif>
 									.
 								</corpo>
@@ -1338,10 +1338,10 @@ Modifiche
 							<num>Art. 45</num>
 							<comma id="art45-com1">
 								<num />
-								<alinea>A decorrere dal 1è ottobre 1978 al personale della Regione Molise comandato in missione fuori dell'ordinaria sede di servizio in localitè distante almeno 10 chilometri spetta l'indennità di trasferta nelle misure di seguito indicate per ogni 24 ore di assenza dalla sede:</alinea>
+								<alinea>A decorrere dal 1° ottobre 1978 al personale della Regione Molise comandato in missione fuori dell'ordinaria sede di servizio in località distante almeno 10 chilometri spetta l'indennità di trasferta nelle misure di seguito indicate per ogni 24 ore di assenza dalla sede:</alinea>
 								<ep id="art45-com1-pun1">
 									<num>-</num>
-									<corpo>Livelli 5è, 6è, 7è e 8è ................L. 19.000</corpo>
+									<corpo>Livelli 5°, 6°, 7° e 8° ................L. 19.000</corpo>
 								</ep>
 								<ep id="art45-com1-pun2">
 									<num>-</num>
@@ -1366,11 +1366,11 @@ Modifiche
 							</comma>
 							<comma id="art45-com6">
 								<num />
-								<corpo>Per sede di servizio si intende il centro abitato o la localitè isolata dove ha sede l'ufficio presso il quale il dipendente presta abitualmente servizio.</corpo>
+								<corpo>Per sede di servizio si intende il centro abitato o la località isolata dove ha sede l'ufficio presso il quale il dipendente presta abitualmente servizio.</corpo>
 							</comma>
 							<comma id="art45-com7">
 								<num />
-								<corpo>L'indennità di trasferta per le missioni effettuate fuori del territorio nazionale è determinata in conformitè delle disposizioni contenute nel decreto del Ministero del Tesoro in data 2 marzo 1976 e successive modificazioni ed integrazioni.</corpo>
+								<corpo>L'indennità di trasferta per le missioni effettuate fuori del territorio nazionale è determinata in conformità delle disposizioni contenute nel decreto del Ministero del Tesoro in data 2 marzo 1976 e successive modificazioni ed integrazioni.</corpo>
 							</comma>
 							<comma id="art45-com8">
 								<num />
@@ -1381,7 +1381,7 @@ Modifiche
 								</el>
 								<el id="art45-com8-letb">
 									<num>b)</num>
-									<corpo>sia compiuta nella localitè di abituale dimora anche se distante più di 10 Km. dall'ordinaria sede di servizio o in localitè distanti dall'abituale dimora meno di 10 Km.;</corpo>
+									<corpo>sia compiuta nella località di abituale dimora anche se distante più di 10 Km. dall'ordinaria sede di servizio o in località distanti dall'abituale dimora meno di 10 Km.;</corpo>
 								</el>
 								<el id="art45-com8-letc">
 									<num>c)</num>
@@ -1389,12 +1389,12 @@ Modifiche
 								</el>
 								<el id="art45-com8-letd">
 									<num>d)</num>
-									<corpo>sia compiuta nelle localitè distanti meno di 10 Km. dalla sede di servizio.</corpo>
+									<corpo>sia compiuta nelle località distanti meno di 10 Km. dalla sede di servizio.</corpo>
 								</el>
 							</comma>
 							<comma id="art45-com9">
 								<num />
-								<corpo>L'indennità di trasferta cessa dopo i primi 240 giorni di missione continuativa nella medesima localitè.</corpo>
+								<corpo>L'indennità di trasferta cessa dopo i primi 240 giorni di missione continuativa nella medesima località.</corpo>
 							</comma>
 							<comma id="art45-com10">
 								<num />
@@ -1408,7 +1408,7 @@ Modifiche
 								<num />
 								<corpo>
 									Dal primo gennaio 1979 le misure dell'indennità di trasferta sono automaticamente rideterminate in relazione al disposto del Decreto del Ministero del Tesoro previsto dall'
-									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-01-16#art1-com3" xlink:type="simple">art. 1 - 3è comma- del D.P.R. 16 gennaio 1978</rif>
+									<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-01-16#art1-com3" xlink:type="simple">art. 1 - 3° comma- del D.P.R. 16 gennaio 1978</rif>
 									; n. 513.
 								</corpo>
 							</comma>
@@ -1422,7 +1422,7 @@ Modifiche
 							<rubrica>Missioni di lunga durata</rubrica>
 							<comma id="art47-com1">
 								<num />
-								<corpo>Il dipendente inviato in missione anche per incarichi di lunga durata deve rientrare giornalmente in sede qualora la natura del servizio che esplica, riferita alle possibilitè pratiche del rientro, lo consente e la localitè delle missioni non disti, dalla sede di servizio, più di 90 minuti di viaggio, con il mezzo più veloce desumibile dagli orari ufficiali dei servizi di linea.</corpo>
+								<corpo>Il dipendente inviato in missione anche per incarichi di lunga durata deve rientrare giornalmente in sede qualora la natura del servizio che esplica, riferita alle possibilità pratiche del rientro, lo consente e la località delle missioni non disti, dalla sede di servizio, più di 90 minuti di viaggio, con il mezzo più veloce desumibile dagli orari ufficiali dei servizi di linea.</corpo>
 							</comma>
 							<comma id="art47-com2">
 								<num />
@@ -1434,7 +1434,7 @@ Modifiche
 							<rubrica>Rimborso spesa d'albergo</rubrica>
 							<comma id="art48-com1">
 								<num />
-								<corpo>Al dipendente inviato in missione è data facoltè di chiedere, dietro presentazione di regolare fattura il rimborso della spesa dell'albergo di 1è categoria per il personale appartenente al 7è e 8è livello e per il rimanente personale di 2a categoria.</corpo>
+								<corpo>Al dipendente inviato in missione è data facoltà di chiedere, dietro presentazione di regolare fattura il rimborso della spesa dell'albergo di 1° categoria per il personale appartenente al 7° e 8° livello e per il rimanente personale di 2a categoria.</corpo>
 							</comma>
 							<comma id="art48-com2">
 								<num />
@@ -1446,7 +1446,7 @@ Modifiche
 							<rubrica>Mezzi di trasporto</rubrica>
 							<comma id="art49-com1">
 								<num />
-								<alinea>Per recarsi in missione e per rientrare in sede il dipendente puè servirsi:</alinea>
+								<alinea>Per recarsi in missione e per rientrare in sede il dipendente può servirsi:</alinea>
 								<el id="art49-com1-leta">
 									<num>a)</num>
 									<corpo>dei treni anche se rapidi o speciali;</corpo>
@@ -1457,11 +1457,11 @@ Modifiche
 								</el>
 								<el id="art49-com1-letc">
 									<num>c)</num>
-									<corpo>dell'aereo o dei mezzi di trasporto marittimo quando alla localitè da raggiungere non si possa accedere con un mezzo di trasporto terrestre;</corpo>
+									<corpo>dell'aereo o dei mezzi di trasporto marittimo quando alla località da raggiungere non si possa accedere con un mezzo di trasporto terrestre;</corpo>
 								</el>
 								<el id="art49-com1-letd">
 									<num>d)</num>
-									<corpo>dell'aereo quando la localitè da raggiungere disti almeno 500 chilometri, previa apposita autorizzazione;</corpo>
+									<corpo>dell'aereo quando la località da raggiungere disti almeno 500 chilometri, previa apposita autorizzazione;</corpo>
 								</el>
 								<el id="art49-com1-lete">
 									<num>e)</num>
@@ -1470,19 +1470,19 @@ Modifiche
 							</comma>
 							<comma id="art49-com2">
 								<num />
-								<corpo>Se viene fatto uso del treno è consentito viaggiare in 1è classe; ai dipendenti spetta altresè il rimborso dell'eventuale spesa sostenuta per l'uso di un posto letto per il personale dei livelli 6è, 7è e 8è direttivo e per cuccette di 1è classe per il rimanente personale per percorsi non inferiori a 500 chilometri.</corpo>
+								<corpo>Se viene fatto uso del treno è consentito viaggiare in 1° classe; ai dipendenti spetta altresì il rimborso dell'eventuale spesa sostenuta per l'uso di un posto letto per il personale dei livelli 6°, 7° e 8° direttivo e per cuccette di 1° classe per il rimanente personale per percorsi non inferiori a 500 chilometri.</corpo>
 							</comma>
 							<comma id="art49-com3">
 								<num />
-								<corpo>Al personale autorizzato a servirsi del proprio automezzo è rimborsata un'indennità chilometrica pari ad 1/5 del costo di un litro di benzina super vigente nel tempo con eventuale arrotondamento per eccesso a lire intere, nonchè la spesa eventualmente sostenuta e documentata per pedaggi autostradali.</corpo>
+								<corpo>Al personale autorizzato a servirsi del proprio automezzo è rimborsata un'indennità chilometrica pari ad 1/5 del costo di un litro di benzina super vigente nel tempo con eventuale arrotondamento per eccesso a lire intere, nonché la spesa eventualmente sostenuta e documentata per pedaggi autostradali.</corpo>
 							</comma>
 							<comma id="art49-com4">
 								<num />
-								<corpo>L'autorizzazione all'uso del mezzo proprio di trasporto è rilasciata a domanda dall'Amministratore o Funzionario che autorizza la missione, quando i mezzi di servizio risultino non disponibili e l'impiego dei mezzi pubblici di linea sia inconciliabile con lo svolgimento della missione o comunque quando se ne ravvisi l'opportunitè nell'interesse dell'Amministrazione.</corpo>
+								<corpo>L'autorizzazione all'uso del mezzo proprio di trasporto è rilasciata a domanda dall'Amministratore o Funzionario che autorizza la missione, quando i mezzi di servizio risultino non disponibili e l'impiego dei mezzi pubblici di linea sia inconciliabile con lo svolgimento della missione o comunque quando se ne ravvisi l'opportunità nell'interesse dell'Amministrazione.</corpo>
 							</comma>
 							<comma id="art49-com5">
 								<num />
-								<corpo>L'autorizzazione non puè essere concessa se il dipendente nel farne richiesta non abbia dichiarato di sollevare l'amministrazione da qualsiasi responsabilitè derivante dall'uso del mezzo proprio per danni a terzi o cose.</corpo>
+								<corpo>L'autorizzazione non può essere concessa se il dipendente nel farne richiesta non abbia dichiarato di sollevare l'amministrazione da qualsiasi responsabilità derivante dall'uso del mezzo proprio per danni a terzi o cose.</corpo>
 							</comma>
 							<comma id="art49-com6">
 								<num />
@@ -1506,7 +1506,7 @@ Modifiche
 							</comma>
 							<comma id="art50-com3">
 								<num />
-								<corpo>Per l'uso dei mezzi aerei di linea, è dovuto anche il rimborso di un'assicurazione sulla vita stipulata dal dipendente nel limite del massimale ragguagliato allo stipendio annuo lordo moltiplicato per il coefficiente 10 per i casi di morte o invaliditè permanente.</corpo>
+								<corpo>Per l'uso dei mezzi aerei di linea, è dovuto anche il rimborso di un'assicurazione sulla vita stipulata dal dipendente nel limite del massimale ragguagliato allo stipendio annuo lordo moltiplicato per il coefficiente 10 per i casi di morte o invalidità permanente.</corpo>
 							</comma>
 							<comma id="art50-com4">
 								<num />
@@ -1521,7 +1521,7 @@ Modifiche
 								<corpo>
 									Le misure delle indennità di cui al
 									<rif xlink:href="#art50-com5" xlink:type="simple">comma 5</rif>
-									è del presente articolo hanno decorrenza dal 1è ottobre 1978 e sono rideterminate annualmente, ai sensi del
+									è del presente articolo hanno decorrenza dal 1° ottobre 1978 e sono rideterminate annualmente, ai sensi del
 									<rif xlink:href="#art46" xlink:type="simple">precedente articolo 46</rif>
 									.
 								</corpo>
@@ -1559,16 +1559,16 @@ Modifiche
 								</el>
 								<el id="art53-com1-letc">
 									<num>c)</num>
-									<corpo>dal Responsabile dell'unitè organizzativa per missioni che si svolgono nel territorio regionale.</corpo>
+									<corpo>dal Responsabile dell'unità organizzativa per missioni che si svolgono nel territorio regionale.</corpo>
 								</el>
 							</comma>
 							<comma id="art53-com2">
 								<num />
-								<corpo>Le missioni dei Coordinatori dei Servizi e dei Responsabili delle unitè organizzative sono autorizzate dall'Assessore competente e dai Presidenti degli Organi regionali di Controllo.</corpo>
+								<corpo>Le missioni dei Coordinatori dei Servizi e dei Responsabili delle unità organizzative sono autorizzate dall'Assessore competente e dai Presidenti degli Organi regionali di Controllo.</corpo>
 							</comma>
 							<comma id="art53-com3">
 								<num />
-								<corpo>Le missioni del personale del Consiglio Regionale sono disposte da un componente dell'Ufficio di Presidenza a ciè delegato. In caso di assenza o impedimento degli Amministratori e dei dipendenti abilitati ad autorizzare le missioni puè provvedere un sostituto degli stessi preventivamente individuato e delegato.</corpo>
+								<corpo>Le missioni del personale del Consiglio Regionale sono disposte da un componente dell'Ufficio di Presidenza a cI' delegato. In caso di assenza o impedimento degli Amministratori e dei dipendenti abilitati ad autorizzare le missioni può provvedere un sostituto degli stessi preventivamente individuato e delegato.</corpo>
 							</comma>
 						</articolo>
 						<articolo id="art54">
@@ -1597,7 +1597,7 @@ Modifiche
 							<comma id="art55-com1">
 								<num />
 								<corpo>
-									Al personale regionale temporaneamente distaccato per esigenze di servizio da un Ufficio ad un altro della Giunta Regionale è corrisposto il trattamento economico di missione con le modalitè ed i limiti di cui all'
+									Al personale regionale temporaneamente distaccato per esigenze di servizio da un Ufficio ad un altro della Giunta Regionale è corrisposto il trattamento economico di missione con le modalità ed i limiti di cui all'
 									<rif xlink:href="#art45" xlink:type="simple">art. 45</rif>
 									della presente legge.
 								</corpo>
@@ -1629,12 +1629,12 @@ Modifiche
 						<rubrica>Primo inquadramento nella posizione giuridica</rubrica>
 						<comma id="art57-com1">
 							<num />
-							<corpo>Con decorrenza dal 1è ottobre 1978 il dipendente regionale di ruolo è inquadrato d'ufficio nel nuovo livello funzionale sulla base della tabella di corrispondenza di cui all'allegato &lt;&lt;B&gt;&gt; e relative note.</corpo>
+							<corpo>Con decorrenza dal 1° ottobre 1978 il dipendente regionale di ruolo è inquadrato d'ufficio nel nuovo livello funzionale sulla base della tabella di corrispondenza di cui all'allegato &lt;&lt;B&gt;&gt; e relative note.</corpo>
 						</comma>
 						<comma id="art57-com2">
 							<num />
 							<corpo>
-								L'inquadramento nei nuovi livelli funzionali viene effettuato con le modalitè previste dall'
+								L'inquadramento nei nuovi livelli funzionali viene effettuato con le modalità previste dall'
 								<rif xlink:href="urn:nir:regione.molise:legge:1974-08-31;11#art98" xlink:type="simple">art. 98 della legge regionale 31 agosto 1974, n. 11</rif>
 								.
 							</corpo>
@@ -1659,7 +1659,7 @@ Modifiche
 							<num />
 							<corpo>
 								I docenti che operano nel settore della formazione professionale i quali, a norma della tabella &lt;&lt;B&gt;&gt; allegata, dovrebbero essere inquadrati nel V livello, vengono inquadrati al VI livello se esercitano una funzionale docente per l'esercizio della quale è richiesto uno specifico diploma di laurea del quale devono essere in possesso . A questi dipendenti non si applica il disposto di cui al
-								<rif xlink:href="#art57-com3" xlink:type="simple">3è comma</rif>
+								<rif xlink:href="#art57-com3" xlink:type="simple">3° comma</rif>
 								del presente articolo.
 							</corpo>
 						</comma>
@@ -1677,7 +1677,7 @@ Modifiche
 						</comma>
 						<comma id="art58-com3">
 							<num />
-							<alinea>Al dipendente viene altresè riconosciuto il &lt;&lt;maturato in itinere&gt;&gt; ai fini del conseguimento della posizione superiore nel nuovo ordinamento, mediante il seguente procedimento:</alinea>
+							<alinea>Al dipendente viene altresì riconosciuto il &lt;&lt;maturato in itinere&gt;&gt; ai fini del conseguimento della posizione superiore nel nuovo ordinamento, mediante il seguente procedimento:</alinea>
 							<el id="art58-com3-leta">
 								<num>a)</num>
 								<corpo>si calcola la frazione di tempo intercorsa tra le date di maturazione dell'ultimo scatto e dell'ultima classe e la data del 30 settembre 1978;</corpo>
@@ -1688,15 +1688,15 @@ Modifiche
 							</el>
 							<el id="art58-com3-letc">
 								<num>c)</num>
-								<corpo>i ratei cosè ottenuti sono rapportati alle quantità economiche costituite, nel vecchio ordinamento dallo scatto e dalla classe (o dal secondo parametro retributivo) in maturazione ottenendo quindi, espresso in lire, il &lt;&lt;maturato in itinere&gt;&gt; alla data dell'inquadramento;</corpo>
+								<corpo>i ratei così ottenuti sono rapportati alle quantità economiche costituite, nel vecchio ordinamento dallo scatto e dalla classe (o dal secondo parametro retributivo) in maturazione ottenendo quindi, espresso in lire, il &lt;&lt;maturato in itinere&gt;&gt; alla data dell'inquadramento;</corpo>
 							</el>
 							<el id="art58-com3-letd">
 								<num>d)</num>
-								<corpo>si calcola la differenza intercorrente, nel nuovo ordinamento tra la posizione giuridica e quella immediatamente superiore; si calcola altresè la differenza individuale maggiorata del &lt;&lt;maturato in itinere&gt;&gt; determinato come ai punti precedenti;</corpo>
+								<corpo>si calcola la differenza intercorrente, nel nuovo ordinamento tra la posizione giuridica e quella immediatamente superiore; si calcola altresì la differenza individuale maggiorata del &lt;&lt;maturato in itinere&gt;&gt; determinato come ai punti precedenti;</corpo>
 							</el>
 							<el id="art58-com3-lete">
 								<num>e)</num>
-								<corpo>si esegue la proporzione tra tale differenza e il tempo che nel nuovo ordinamento è necessario per passare dalla posizione inferiore a quella superiore, ottenendo cosè il tempo di cui si abbrevia il conseguimento della posizione superiore.</corpo>
+								<corpo>si esegue la proporzione tra tale differenza e il tempo che nel nuovo ordinamento è necessario per passare dalla posizione inferiore a quella superiore, ottenendo così il tempo di cui si abbrevia il conseguimento della posizione superiore.</corpo>
 							</el>
 						</comma>
 						<comma id="art58-com4">
@@ -1717,7 +1717,7 @@ Modifiche
 						</comma>
 						<comma id="art58-com8">
 							<num />
-							<corpo>Viene assunta la relativa proporzione tra il tempo trascorso e l'intero importo risultante dalla differenza delle due classi in questione (considerandosi nelle stesse comprese gli aumenti periodici eventualmente coincidenti nella maturazione del diritto); dall'importo cosè determinato va detratto il valore degli scatti intermedi maturati tra le classi medesime.</corpo>
+							<corpo>Viene assunta la relativa proporzione tra il tempo trascorso e l'intero importo risultante dalla differenza delle due classi in questione (considerandosi nelle stesse comprese gli aumenti periodici eventualmente coincidenti nella maturazione del diritto); dall'importo così determinato va detratto il valore degli scatti intermedi maturati tra le classi medesime.</corpo>
 						</comma>
 						<comma id="art58-com9">
 							<num />
@@ -1748,11 +1748,11 @@ Modifiche
 							</en>
 							<en id="art60-com1-num2">
 								<num>2)</num>
-								<corpo>dalle qualifiche non operaie del 4è livello con parametro 142 al 5è livello con parametro 167;</corpo>
+								<corpo>dalle qualifiche non operaie del 4° livello con parametro 142 al 5° livello con parametro 167;</corpo>
 							</en>
 							<en id="art60-com1-num3">
 								<num>3)</num>
-								<corpo>dal 5è livello con parametro 167 al 6è livello con parametro 178.</corpo>
+								<corpo>dal 5° livello con parametro 167 al 6° livello con parametro 178.</corpo>
 							</en>
 						</comma>
 						<comma id="art60-com2">
@@ -1763,8 +1763,8 @@ Modifiche
 							<num />
 							<corpo>
 								L'inquadramento nel livello, conseguito a seguito della positiva partecipazione al concorso interno di cui al
-								<rif xlink:href="#art60-com1" xlink:type="simple">1è comma</rif>
-								del presente articolo, ha decorrenza giuridica ed economica dal 1è ottobre 1978, applicando lo stesso meccanismo economico per il generale inquadramento.
+								<rif xlink:href="#art60-com1" xlink:type="simple">1° comma</rif>
+								del presente articolo, ha decorrenza giuridica ed economica dal 1° ottobre 1978, applicando lo stesso meccanismo economico per il generale inquadramento.
 							</corpo>
 						</comma>
 					</articolo>
@@ -1779,8 +1779,8 @@ Modifiche
 							<num />
 							<corpo>
 								L'inquadramento nel livello superiore, conseguito a seguito della positiva partecipazione a concorso interno di cui al
-								<rif xlink:href="#art61-com1" xlink:type="simple">1è comma</rif>
-								del presente articolo, ha decorrenza giuridica ed economica dal 1è ottobre 1978 applicando lo stesso meccanismo economico per il generale inquadramento previsto dal
+								<rif xlink:href="#art61-com1" xlink:type="simple">1° comma</rif>
+								del presente articolo, ha decorrenza giuridica ed economica dal 1° ottobre 1978 applicando lo stesso meccanismo economico per il generale inquadramento previsto dal
 								<rif xlink:href="#art58" xlink:type="simple">precedente art. 58</rif>
 								.
 							</corpo>
@@ -1836,7 +1836,7 @@ Modifiche
 							</alinea>
 							<el id="art63-com1-leta">
 								<num>a)</num>
-								<corpo>anzianitè effettiva minima di anni otto senza demerito alla data del 30 settembre 1978 nella carriera correlata al livello di appartenenza;</corpo>
+								<corpo>anzianità effettiva minima di anni otto senza demerito alla data del 30 settembre 1978 nella carriera correlata al livello di appartenenza;</corpo>
 							</el>
 							<el id="art63-com1-letb">
 								<num>b)</num>
@@ -1872,7 +1872,7 @@ Modifiche
 							</el>
 							<el id="art64-com1-letc">
 								<num>c)</num>
-								<corpo>l'idoneitè conseguita in concorsi pubblici per titoli ed esami o per soli esami;</corpo>
+								<corpo>l'idoneità conseguita in concorsi pubblici per titoli ed esami o per soli esami;</corpo>
 							</el>
 							<el id="art64-com1-letd">
 								<num>d)</num>
@@ -1905,7 +1905,7 @@ Modifiche
 						</comma>
 						<comma id="art65-com3">
 							<num />
-							<alinea>Nella domanda l'interessato dovrè dichiarare a tutti gli effetti, anche disciplinari e sotto la personale responsabilitè:</alinea>
+							<alinea>Nella domanda l'interessato dovrè dichiarare a tutti gli effetti, anche disciplinari e sotto la personale responsabilità:</alinea>
 							<el id="art65-com3-leta">
 								<num>a)</num>
 								<corpo>
@@ -1941,7 +1941,7 @@ Modifiche
 						</comma>
 						<comma id="art65-com6">
 							<num />
-							<corpo>La firma del dipendente dovrè essere autenticata in presenza del responsabile dell'unitè organizzativa cui il dipendente medesimo risulti assegnato.</corpo>
+							<corpo>La firma del dipendente dovrè essere autenticata in presenza del responsabile dell'unità organizzativa cui il dipendente medesimo risulti assegnato.</corpo>
 						</comma>
 					</articolo>
 					<articolo id="art66">
@@ -1960,7 +1960,7 @@ Modifiche
 							<corpo>
 								Nel primo concorso per ciascun livello bandito successivamente all'entrata in vigore della presente legge, e successivamente ai concorsi interni di cui ai precedenti artt. 60 e 61 la riserva dei posti di cui al
 								<rif xlink:href="#art10" xlink:type="simple">precedente art. 10</rif>
-								puè essere aumentata al 35 per cento e si applica al personale regionale di ruolo appartenente al livello immediatamente inferiore, purchè in possesso del titolo di studio richiesto per l'accesso a quest'ultimo, o appartenente al livello ancora sottostante, purchè in possesso del titolo di studio richiesto per l'accesso al livello per il quale è bandito il concorso, sempre chè sussista in entrambi i casi un'anzianitè di un anno nel livello di appartenenza.
+								può essere aumentata al 35 per cento e si applica al personale regionale di ruolo appartenente al livello immediatamente inferiore, purché in possesso del titolo di studio richiesto per l'accesso a quest'ultimo, o appartenente al livello ancora sottostante, purché in possesso del titolo di studio richiesto per l'accesso al livello per il quale è bandito il concorso, sempre ché sussista in entrambi i casi un'anzianità di un anno nel livello di appartenenza.
 							</corpo>
 						</comma>
 					</articolo>
@@ -1969,11 +1969,11 @@ Modifiche
 						<rubrica>Decorrenza</rubrica>
 						<comma id="art68-com1">
 							<num />
-							<corpo>La decorrenza degli effetti giuridici ed economici, previsti nella presente legge, è fissata all'unica data del 1è ottobre 1978.</corpo>
+							<corpo>La decorrenza degli effetti giuridici ed economici, previsti nella presente legge, è fissata all'unica data del 1° ottobre 1978.</corpo>
 						</comma>
 						<comma id="art68-com2">
 							<num />
-							<corpo>Il periodo di validitè del contratto triennale è venuto a scadenza il 31 dicembre 1978.</corpo>
+							<corpo>Il periodo di validità del contratto triennale è venuto a scadenza il 31 dicembre 1978.</corpo>
 						</comma>
 					</articolo>
 					<articolo id="art69">

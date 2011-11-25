@@ -12,7 +12,7 @@
                     <materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xe0;"/>
                 </materie>
             </descrittori>
-        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, università 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 22 del 16 ottobre 2002 
@@ -52,7 +52,7 @@ Campo di applicazione
 </alinea>
                     <el id="art1-com1-leta">
                         <num>a)</num>
-                        <corpo> l'attivitè di revisione contabile e finanziaria dei rendiconti delle spese, predisposti dagli organismi di formazione professionale, dalle aziende ed in genere da soggetti che realizzano o hanno realizzato attivitè formative;</corpo>
+                        <corpo> l'attività di revisione contabile e finanziaria dei rendiconti delle spese, predisposti dagli organismi di formazione professionale, dalle aziende ed in genere da soggetti che realizzano o hanno realizzato attività formative;</corpo>
                     </el>
                     <el id="art1-com1-letb">
                         <num> 
@@ -86,14 +86,14 @@ Rendicontazione
  
 2.</num>
 
-                    <corpo> Tale obbligo potrè essere assolto anche mediante apposita certificazione contabile, rilasciata da dottori o ragionieri commercialisti, ovvero da societè o professionisti, regolarmente iscritti da non meno di tre anni nel registro dei revisori contabili di cui al <rif
+                    <corpo> Tale obbligo potrè essere assolto anche mediante apposita certificazione contabile, rilasciata da dottori o ragionieri commercialisti, ovvero da società o professionisti, regolarmente iscritti da non meno di tre anni nel registro dei revisori contabili di cui al <rif
                             xlink:href="urn:nir:stato:decreto.legislativo:1992-01-27;88">decreto legislativo 27 gennaio 1992, n. 88</rif> e del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1992-11-20;474">D.P.R. 20 novembre 1992, n. 474</rif> e successive modificazioni ed integrazioni. </corpo>
                 </comma>
                 <comma id="art2-com3">
                     <num>
  
 3.</num>
-                    <corpo> La certificazione di cui al precedente comma deve attestare la corrispondenza del risultato contabile con quello di gestione delle attivitè rendicontate, nonchè la rispondenza dello stesso all'attuazione delle normative comunitarie, nazionali e regionali. Dalla certificazione devono emergere gli importi richiesti dal soggetto attuatore e certificati come spettanti quale saldo definitivo dell'intera azione formativa svolta, 
+                    <corpo> La certificazione di cui al precedente comma deve attestare la corrispondenza del risultato contabile con quello di gestione delle attività rendicontate, nonché la rispondenza dello stesso all'attuazione delle normative comunitarie, nazionali e regionali. Dalla certificazione devono emergere gli importi richiesti dal soggetto attuatore e certificati come spettanti quale saldo definitivo dell'intera azione formativa svolta, 
  </corpo>
                 </comma>
                 <comma id="art2-com4">
@@ -108,14 +108,14 @@ Rendicontazione
                 <num>Art. 3  </num>
                 <rubrica>
  
-Attivitè pregressa 
+Attività pregressa 
  </rubrica>
                 <comma id="art3-com1">
                     <num>
 1.</num>
 
                     <corpo> I soggetti affidatari di interventi formativi di cui al <rif
-                            xlink:href="#art1-com1-leta">precedente articolo 1, comma 1, lettera a)</rif>, riferiti a periodi pregressi all'entrata in vigore della presente legge e comunque fino al 31 dicembre 1999, hanno facoltè di presentare, per i rendiconti ancora aperti, con le procedure del relativo regolamento da emanarsi dalla Giunta regionale, sentita la competente commissione, entro 60 giorni dall'entrata in vigore della presente legge, la certificazione contabile di cui al <rif xlink:href="#art2-com2">precedente articolo 2, comma 2</rif>. </corpo>
+                            xlink:href="#art1-com1-leta">precedente articolo 1, comma 1, lettera a)</rif>, riferiti a periodi pregressi all'entrata in vigore della presente legge e comunque fino al 31 dicembre 1999, hanno facoltà di presentare, per i rendiconti ancora aperti, con le procedure del relativo regolamento da emanarsi dalla Giunta regionale, sentita la competente commissione, entro 60 giorni dall'entrata in vigore della presente legge, la certificazione contabile di cui al <rif xlink:href="#art2-com2">precedente articolo 2, comma 2</rif>. </corpo>
                 </comma>
                 <comma id="art3-com2">
                     <num>
@@ -133,7 +133,7 @@ Attivitè pregressa
                         <num> 
  
 b)</num>
-                        <corpo> ammissibilitè delle spese, per ciascun soggetto attuatore, in ogni caso, in misura non eccedente i limiti dei preventivi finanziari previsti nei progetti approvati e indicati in convenzione. 
+                        <corpo> ammissibilità delle spese, per ciascun soggetto attuatore, in ogni caso, in misura non eccedente i limiti dei preventivi finanziari previsti nei progetti approvati e indicati in convenzione. 
  
 </corpo>
                     </el>
@@ -154,7 +154,7 @@ Pubblicazione
             </articolo>
         </articolato>
         <formulafinale/>
-        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
 
 ?>
     </LeggeRegionale>

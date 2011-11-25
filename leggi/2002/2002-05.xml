@@ -12,7 +12,7 @@
                     <materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xe0;"/>
                 </materie>
             </descrittori><ciclodivita><eventi><evento data="20030416" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2003;11" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, università 
  
 Bollettino 
 BOLLETTINO UFFICIALE N. 9 del 8 maggio 2002 
@@ -63,7 +63,7 @@ Fondo speciale per l'incentivazione alle dimissioni volontarie dal servizio
                     <num>
  
 3.</num>
-                    <corpo> La gestione dei fondi necessari per l'attuazione del programma puè essere affidata ad Associazioni temporanee d'impresa (A.T.I.) convenzionabili con la Regione Molise.  
+                    <corpo> La gestione dei fondi necessari per l'attuazione del programma può essere affidata ad Associazioni temporanee d'impresa (A.T.I.) convenzionabili con la Regione Molise.  
  
 </corpo>
                 </comma>
@@ -116,7 +116,7 @@ Presentazione delle istanze per la concessione del beneficio
                             xlink:href="#art1">articolo 1</rif>, dovranno essere ripresentate all'assessorato regionale alla "Formazione professionale" entro 30 giorni dalla data di pubblicazione della presente legge sul Bollettino Ufficiale della Regione Molise e dovranno essere corredate dalla seguente documentazione: 
  
 dichiarazione sostitutiva resa ai sensi del <rif
-                            xlink:href="urn:nir:presidente.repubblica:decreto:2000;445">D.P.R. n. 445/2000</rif>, attestante il luogo e la data di nascita, l'anzianitè di servizio nella " Formazione professionale", riferita alla data di pubblicazione della presente legge e la inesistenza delle condizioni ostative di cui al <rif xlink:href="#art3">precedente articolo 3</rif>; 
+                            xlink:href="urn:nir:presidente.repubblica:decreto:2000;445">D.P.R. n. 445/2000</rif>, attestante il luogo e la data di nascita, l'anzianità di servizio nella " Formazione professionale", riferita alla data di pubblicazione della presente legge e la inesistenza delle condizioni ostative di cui al <rif xlink:href="#art3">precedente articolo 3</rif>; 
  
 impegno del dipendente alle dimissioni volontarie dal servizio, al verificarsi dell'esito positivo dell'istanza.  </corpo>
                 </comma>
@@ -124,13 +124,13 @@ impegno del dipendente alle dimissioni volontarie dal servizio, al verificarsi d
                     <num>
  
 2.</num>
-                    <corpo> La Giunta regionale accoglie, entro i limiti delle risorse finanziarie disponibili, le richieste regolarmente presentate, sulla base di una graduatoria generale a scorrimento, formulato secondo criteri che diano prioritè agli operatori appartenenti ai livelli contrattuali più bassi.  </corpo>
+                    <corpo> La Giunta regionale accoglie, entro i limiti delle risorse finanziarie disponibili, le richieste regolarmente presentate, sulla base di una graduatoria generale a scorrimento, formulato secondo criteri che diano priorità agli operatori appartenenti ai livelli contrattuali più bassi.  </corpo>
                 </comma>
                 <comma id="art3-com3">
                     <num>
  
 3.</num>
-                    <corpo> A paritè di condizioni prevarrè la maggiore anzianitè di servizio nella "Formazione professionale" e, successivamente, l'anzianitè anagrafica.  </corpo>
+                    <corpo> A parità di condizioni prevarrè la maggiore anzianità di servizio nella "Formazione professionale" e, successivamente, l'anzianità anagrafica.  </corpo>
                 </comma>
                 <comma id="art3-com4">
                     <num>
@@ -196,7 +196,7 @@ Abrogazioni
             </articolo>
         </articolato>
         <formulafinale/>
-        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
 
 ?>
     </LeggeRegionale>

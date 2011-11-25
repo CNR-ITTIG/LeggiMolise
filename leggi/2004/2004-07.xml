@@ -52,7 +52,7 @@ Modifiche
                                 id="art1-com1-mod1-vir1" tipo="struttura">
                                 <comma id="art1-com1-mod1-vir1-com0">
                                     <num>2.</num>
-                                    <corpo> I contributi di cui al comma 1 possono essere concessi ai Confidi a condizione che essi costituiscono speciali fondi di garanzia, separati dai fondi rischi ordinari, destinati a garantire fino all'80% le banche e gli istituiti di credito e finanziari che concedono finanziamenti a medio e lungo termine, ovvero di durata compresa tra i 5 e i 15 anni, a favore delle piccole e medie imprese ad elevato rischio finanziario che operino in Molise. I finanziamenti possono essere finalizzati anche a transazioni con istituti di credito. La garanzia del fondo speciale puè essere concessa dal Confidi a condizione che per lo stesso finanziamento sia concessa una garanzia integrativa nella misura minima del 5% a valere sul fondo rischi ordinario dello stesso Confidi.</corpo>
+                                    <corpo> I contributi di cui al comma 1 possono essere concessi ai Confidi a condizione che essi costituiscono speciali fondi di garanzia, separati dai fondi rischi ordinari, destinati a garantire fino all'80% le banche e gli istituiti di credito e finanziari che concedono finanziamenti a medio e lungo termine, ovvero di durata compresa tra i 5 e i 15 anni, a favore delle piccole e medie imprese ad elevato rischio finanziario che operino in Molise. I finanziamenti possono essere finalizzati anche a transazioni con istituti di credito. La garanzia del fondo speciale può essere concessa dal Confidi a condizione che per lo stesso finanziamento sia concessa una garanzia integrativa nella misura minima del 5% a valere sul fondo rischi ordinario dello stesso Confidi.</corpo>
                                 </comma>
                             </virgolette>". 
  
@@ -93,7 +93,7 @@ Modifiche
 "<virgolette
                                 id="art3-com1-mod3-vir3">1. Possono beneficiare dei contributi del </virgolette>"fondo"<virgolette
                                 id="art3-com1-mod3-vir4"
-                                    tipo="parola"> i Confidi con sede operativa nella regione Molise e che abbiano un numero di soci o consorziati per almeno il 60% aventi sede operativa nella regione Molise, iscritti nell'apposita sezione dell'elenco generale, di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-09-01;385#art155-com4">art. 155, comma 4 del decreto legislativo 1è settembre 1993, n. 385</rif> o che abbiano presentato apposita domanda d'iscrizione. <h:br/>
+                                    tipo="parola"> i Confidi con sede operativa nella regione Molise e che abbiano un numero di soci o consorziati per almeno il 60% aventi sede operativa nella regione Molise, iscritti nell'apposita sezione dell'elenco generale, di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-09-01;385#art155-com4">art. 155, comma 4 del decreto legislativo 1° settembre 1993, n. 385</rif> o che abbiano presentato apposita domanda d'iscrizione. <h:br/>
                                 <h:br/>
 2.  Beneficiari finali in via mediata sono le piccole e medie imprese, costituite anche in forma di cooperativa o consorzi, con sede operativa nella regione Molise aventi i parametri dimensionali di cui alla disciplina comunitaria in materia di aiuti di Stato alla PMI vigente alla data di presentazione della richiesta di ammissione ai benefici del fondo.</virgolette>". 
  
@@ -121,10 +121,10 @@ Modifiche
                                 <h:br/>
 a)  l'ammontare del contributo richiesto; <h:br/>
                                 <h:br/>
-b)  il numero di conto corrente bancario sul quale accreditare il contributo, specificando la banca, nonchè la sede, filiale o sportello; <h:br/>
+b)  il numero di conto corrente bancario sul quale accreditare il contributo, specificando la banca, nonché la sede, filiale o sportello; <h:br/>
 
                                 <h:br/>
-c) la dichiarazione resa dal legale rappresentante che attesta che il Confidi è iscritto nell'apposita sezione dell'elenco generale di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-09-01;385#art155-com4">art. 155, comma 4 del decreto legislativo 1è settembre 1993, n. 385</rif> e che ricorrono le caratteristiche del fondo per le imprese ad elevato rischio finanziario di cui all'articolo 5; <h:br/>
+c) la dichiarazione resa dal legale rappresentante che attesta che il Confidi è iscritto nell'apposita sezione dell'elenco generale di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-09-01;385#art155-com4">art. 155, comma 4 del decreto legislativo 1° settembre 1993, n. 385</rif> e che ricorrono le caratteristiche del fondo per le imprese ad elevato rischio finanziario di cui all'articolo 5; <h:br/>
 
                                 <h:br/>
 d)  altre informazioni che </virgolette>"FINMOLISE - S.p.A. "<virgolette
@@ -143,7 +143,7 @@ d)  altra documentazione che </virgolette>"FINMOLISE-S.p.A."<virgolette id="art4
 
                                 <h:br/>
 3.  </virgolette>"FINMOLISE-S.p.A."<virgolette
-                                id="art4-com1-mod4-vir9" tipo="parola"> procede annualmente all'erogazione dei contributi di cui alla presente legge previa pubblicazione di apposito avviso nel Bollettino Ufficiale della Regione nonchè su un quotidiano a diffusione regionale.</virgolette>". 
+                                id="art4-com1-mod4-vir9" tipo="parola"> procede annualmente all'erogazione dei contributi di cui alla presente legge previa pubblicazione di apposito avviso nel Bollettino Ufficiale della Regione nonché su un quotidiano a diffusione regionale.</virgolette>". 
  
 </mod>
                     </corpo>
@@ -282,7 +282,7 @@ tra REGIONE e </virgolette>"FINMOLISE - S.p.A. "<virgolette
             </articolo>
         </articolato>
         <formulafinale/>
-        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
 
 ?>
     </LeggeRegionale>

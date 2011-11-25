@@ -12,7 +12,7 @@
                     <materia valore="11.enti locali, comunit&amp;#xe0; montane"/>
                 </materie>
             </descrittori><ciclodivita><eventi><evento data="20090303" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2002;12" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 11.Enti locali, comunit&#xE0; montane 
+        </meta><?error 11.Enti locali, comunità montane 
  
 Bollettino 
 Bollettino Ufficiale n. 11 del 16/06/99 
@@ -47,7 +47,7 @@ Modifiche
             </articolo>
         </articolato>
         <formulafinale/>
-        <conclusione/><?error La presente Legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come Legge della Regione Molise. 
+        <conclusione/><?error La presente Legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come Legge della Regione Molise. 
 
 ?>
     </LeggeRegionale>

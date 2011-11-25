@@ -43,13 +43,13 @@ Modifiche
                 <comma id="art1-com1">
                     <num>
 1.</num>
-                    <corpo> Al fine di prevenire lievitazioni anomale dei prezzi al consumo di prodotti ittici nel periodo di maggiore affluenza turistica, la Giunta regionale è autorizzata a concedere contribuiti alle imprese esercenti il commercio al minuto del pesce fresco, a copertura dei maggiori costi che gravano sulle medesime per l'approvvigionamento del prodotto in conseguenza del fermo biologico dell'attivitè di pesca disposto annualmente con provvedimento dello Stato. </corpo>
+                    <corpo> Al fine di prevenire lievitazioni anomale dei prezzi al consumo di prodotti ittici nel periodo di maggiore affluenza turistica, la Giunta regionale è autorizzata a concedere contribuiti alle imprese esercenti il commercio al minuto del pesce fresco, a copertura dei maggiori costi che gravano sulle medesime per l'approvvigionamento del prodotto in conseguenza del fermo biologico dell'attività di pesca disposto annualmente con provvedimento dello Stato. </corpo>
                 </comma>
                 <comma id="art1-com2">
                     <num>
  
 2.</num>
-                    <corpo> L'aiuto di cui al <rif xlink:href="#art1-com1">comma 1</rif> è erogato annualmente in unica soluzione a rimborso, anche parziale, dei costi, debitamente documentati, sostenuti per l'approvvigionamento, la conservazione e il trasporto di pescato fresco acquistato in localitè extraregionali dagli imprenditori del commercio al dettaglio di prodotti ittici del mare residenti, o aventi sede legale, ed esercenti l'attivitè da almeno due anni nel territorio regionale. </corpo>
+                    <corpo> L'aiuto di cui al <rif xlink:href="#art1-com1">comma 1</rif> è erogato annualmente in unica soluzione a rimborso, anche parziale, dei costi, debitamente documentati, sostenuti per l'approvvigionamento, la conservazione e il trasporto di pescato fresco acquistato in località extraregionali dagli imprenditori del commercio al dettaglio di prodotti ittici del mare residenti, o aventi sede legale, ed esercenti l'attività da almeno due anni nel territorio regionale. </corpo>
                 </comma>
                 <comma id="art1-com3">
                     <num>
@@ -82,25 +82,25 @@ b)</num>
                         <num> 
  
 c)</num>
-                        <corpo> i termini e le modalitè per la presentazione delle domande;</corpo>
+                        <corpo> i termini e le modalità per la presentazione delle domande;</corpo>
                     </el>
                     <el id="art2-com1-letd">
                         <num> 
  
 d)</num>
-                        <corpo> eventuali prioritè, anche in relazione alle disponibilitè di bilancio;</corpo>
+                        <corpo> eventuali priorità, anche in relazione alle disponibilità di bilancio;</corpo>
                     </el>
                     <el id="art2-com1-lete">
                         <num> 
  
 e)</num>
-                        <corpo> le modalitè di documentazione delle spese sostenute;</corpo>
+                        <corpo> le modalità di documentazione delle spese sostenute;</corpo>
                     </el>
                     <el id="art2-com1-letf">
                         <num> 
  
 f)</num>
-                        <corpo> le modalitè per la concessione, la revoca e la decadenza dei benefici. 
+                        <corpo> le modalità per la concessione, la revoca e la decadenza dei benefici. 
  
 </corpo>
                     </el>
@@ -123,7 +123,7 @@ f)</num>
                     <num>
 1.</num>
 
-                    <corpo> Il regime di aiuto previsto annualmente dal provvedimento della Giunta regionale di cui all'<rif xlink:href="#art2">articolo 2</rif> è soggetto alla procedura di notifica preventiva in osservanza dell'articolo 88, paragrafo 3, del Trattato istitutivo della Comunitè europea e i relativi contributi possono essere concessi a condizione che la Commissione europea abbia comunicato parere favorevole di compatibilitè. 
+                    <corpo> Il regime di aiuto previsto annualmente dal provvedimento della Giunta regionale di cui all'<rif xlink:href="#art2">articolo 2</rif> è soggetto alla procedura di notifica preventiva in osservanza dell'articolo 88, paragrafo 3, del Trattato istitutivo della Comunità europea e i relativi contributi possono essere concessi a condizione che la Commissione europea abbia comunicato parere favorevole di compatibilità. 
  
 </corpo>
                 </comma>
@@ -133,7 +133,7 @@ f)</num>
                 <comma id="art5-com1">
                     <num>
 1.</num>
-                    <corpo> In fase di prima applicazione della presente legge, il regime di aiuto per l'anno in corso è definito dalla Giunta regionale con provvedimento il cui schema è inviato alla Commissione europea per la verifica di compatibilitè entro venti giorni dall'entrata in vigore della legge stessa. 
+                    <corpo> In fase di prima applicazione della presente legge, il regime di aiuto per l'anno in corso è definito dalla Giunta regionale con provvedimento il cui schema è inviato alla Commissione europea per la verifica di compatibilità entro venti giorni dall'entrata in vigore della legge stessa. 
  
 </corpo>
                 </comma>
@@ -165,7 +165,7 @@ f)</num>
             </articolo>
         </articolato>
         <formulafinale/>
-        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
 
 ?>
     </LeggeRegionale>

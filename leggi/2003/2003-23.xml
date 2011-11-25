@@ -32,7 +32,7 @@ Modifiche
             <tipoDoc>LEGGE REGIONALE </tipoDoc>
             <dataDoc norm="20030527">27 maggio 2003</dataDoc>, n. <numDoc>23</numDoc>. 
  
-<titoloDoc>Intervento urgente a sostegno delle attivitè dell' "A.P.A. - ASSOCIAZIONE PROVINCIALE ALLEVATORI" di Campobasso. 
+<titoloDoc>Intervento urgente a sostegno delle attività dell' "A.P.A. - ASSOCIAZIONE PROVINCIALE ALLEVATORI" di Campobasso. 
  
 </titoloDoc>
         </intestazione>
@@ -43,7 +43,7 @@ Modifiche
                 <comma id="art1-com1">
                     <num>
 1.</num>
-                    <corpo>  Per garantire l'efficienza e l'operativitè dei controlli funzionali per il miglioramento genetico del bestiame allevato in Molise e lo svolgimento di tutte le attivitè per la tenuta dei libri genealogici, per l'anno 2003, la Regione Molise concede 
+                    <corpo>  Per garantire l'efficienza e l'operatività dei controlli funzionali per il miglioramento genetico del bestiame allevato in Molise e lo svolgimento di tutte le attività per la tenuta dei libri genealogici, per l'anno 2003, la Regione Molise concede 
  
 UN CONTRIBUTO STRAORDINARIO DI 
  
@@ -86,7 +86,7 @@ Norma finanziaria
  
  Euro 500.000,00 (CINQUECENTOMILA/00) 
  
- da iscriversi, ai fini della gestione, in apposito capitolo cosè denominato: 
+ da iscriversi, ai fini della gestione, in apposito capitolo così denominato: 
  
  "Contributo straordinario all'Associazione Provinciale Allevatori di Campobasso (A.P.A.)"; 
  
@@ -108,7 +108,7 @@ Norma finanziaria
             </articolo>
         </articolato>
         <formulafinale/>
-        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
 
 ?>
     </LeggeRegionale>

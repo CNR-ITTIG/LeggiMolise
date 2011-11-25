@@ -50,13 +50,13 @@ Modifiche
 1.</num>
                     <corpo>
                         <mod id="art1-com1-mod1"> La <rif
-                                xlink:href="urn:nir:regione.molise:legge:1999;33#art31-com1-letg">lettera g) del comma 1 dell'art. 31 della Legge Regionale n. 33/1999</rif> è cosè sostituita: 
+                                xlink:href="urn:nir:regione.molise:legge:1999;33#art31-com1-letg">lettera g) del comma 1 dell'art. 31 della Legge Regionale n. 33/1999</rif> è così sostituita: 
  
 "<virgolette
                                 id="art1-com1-mod1-vir1" tipo="struttura">
                                 <el id="art1-com1-mod1-vir1-let">
                                     <num>g)</num>
-                                    <corpo> è fatto divieto di istituire nuovi mercati e nuove fiere nei giorni di Natale, Capodanno, Pasqua, 1è maggio e 25 aprile</corpo>
+                                    <corpo> è fatto divieto di istituire nuovi mercati e nuove fiere nei giorni di Natale, Capodanno, Pasqua, 1° maggio e 25 aprile</corpo>
                                 </el>
                             </virgolette>". 
  
@@ -81,7 +81,7 @@ Modifiche
             </articolo>
         </articolato>
         <formulafinale/>
-        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
 
 ?>
     </LeggeRegionale>

@@ -52,7 +52,7 @@ Modifiche
                                 id="art1-com1-mod1-vir1" tipo="struttura">
                                 <comma id="art1-com1-mod1-vir1-com0">
                                     <num>3.</num>
-                                    <corpo> Per le opere e gli edifici pubblici o di uso pubblico, compresi quelli definiti strategici con delibera della Giunta regionale n. 182 del 16 febbraio 2004, provvisti di permesso di costruire o già approvati, appaltati o in fase di costruzione, si tiene conto della nuova classificazione sismica di cui all'articolo 1 con la possibilitè, per non oltre 18 mesi a partire dall'8 maggio 2003, di applicare le norme tecniche vigenti alla data di pubblicazione dell'Ordinanza</corpo>
+                                    <corpo> Per le opere e gli edifici pubblici o di uso pubblico, compresi quelli definiti strategici con delibera della Giunta regionale n. 182 del 16 febbraio 2004, provvisti di permesso di costruire o già approvati, appaltati o in fase di costruzione, si tiene conto della nuova classificazione sismica di cui all'articolo 1 con la possibilità, per non oltre 18 mesi a partire dall'8 maggio 2003, di applicare le norme tecniche vigenti alla data di pubblicazione dell'Ordinanza</corpo>
                                 </comma>
                             </virgolette>". </mod>
                     </corpo>
@@ -77,7 +77,7 @@ Modifiche
                                 id="art1-com3-mod3-vir2" tipo="struttura">
                                 <comma id="art1-com3-mod3-vir2-com0">
                                     <num>6.</num>
-                                    <corpo> In tutti i restanti casi, fatti salvi gli edifici e le opere di cui al comma 3 dell'articolo 2 dell'Ordinanza, la progettazione dovrè essere conforme a quanto prescritto dalla nuova classificazione sismica di cui all'articolo 1 della presente legge, con la possibilitè, per non oltre 18 mesi, a partire dall'8 maggio 2003, di continuare ad applicare le norme tecniche vigenti per le costruzioni in zona sismica</corpo>
+                                    <corpo> In tutti i restanti casi, fatti salvi gli edifici e le opere di cui al comma 3 dell'articolo 2 dell'Ordinanza, la progettazione dovrè essere conforme a quanto prescritto dalla nuova classificazione sismica di cui all'articolo 1 della presente legge, con la possibilità, per non oltre 18 mesi, a partire dall'8 maggio 2003, di continuare ad applicare le norme tecniche vigenti per le costruzioni in zona sismica</corpo>
                                 </comma>
                             </virgolette>". 
  
@@ -96,7 +96,7 @@ Modifiche
             </articolo>
         </articolato>
         <formulafinale/>
-        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. A fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. A fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
 
 ?>
     </LeggeRegionale>

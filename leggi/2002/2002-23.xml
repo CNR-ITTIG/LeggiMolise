@@ -12,7 +12,7 @@
                     <materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xe0;"/>
                 </materie>
             </descrittori>
-        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, università 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 22 del 16 ottobre 2002 
@@ -69,7 +69,7 @@ Modifiche
                                 id="art1-com2-mod2-vir2" tipo="struttura">
                                 <comma id="art1-com2-mod2-vir2-com0">
                                     <num>3.</num>
-                                    <corpo> L'importo totale del finanziamento regionale, comprensivo del contributo alle spese generali determinato nella misura massima del 10% omnicomprensivo, non puè superare 
+                                    <corpo> L'importo totale del finanziamento regionale, comprensivo del contributo alle spese generali determinato nella misura massima del 10% omnicomprensivo, non può superare 
  
 LA SOMMA DI 
  
@@ -94,7 +94,7 @@ Euro 72.000.
             </articolo>
         </articolato>
         <formulafinale/>
-        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
 
 ?>
     </LeggeRegionale>

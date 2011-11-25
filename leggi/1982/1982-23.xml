@@ -30,7 +30,7 @@ Modifiche
         <intestazione>
             <emanante>Regione Molise</emanante>
             <tipoDoc>Legge Regionale </tipoDoc>del <dataDoc norm="19821025">25 Ottobre 1982</dataDoc>, n. <numDoc>23</numDoc>
-            <titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1979-12-07;35">legge regionale 7 dicembre 1979, n. 35</rif> e norme per la disciplina dei compiti e del funzionamento del Collegio dei Revisori delle Unitè Locali 
+            <titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1979-12-07;35">legge regionale 7 dicembre 1979, n. 35</rif> e norme per la disciplina dei compiti e del funzionamento del Collegio dei Revisori delle Unità Locali 
  
 </titoloDoc>
         </intestazione>
@@ -38,17 +38,17 @@ Modifiche
         <articolato>
             <articolo id="art1">
                 <num>Art. 1</num>
-                <rubrica>: Organi delle Unitè Locali 
+                <rubrica>: Organi delle Unità Locali 
 </rubrica>
                 <comma id="art1-com1">
                     <num/>
                     <corpo>
                         <mod id="art1-com1-mod1"> 
 L'<rif
-                                xlink:href="urn:nir:regione.molise:legge:1979-12-07;35#art3">art. 3 della legge regionale n. 35 del 7 dicembre 1979</rif> è cosè modificato: 
+                                xlink:href="urn:nir:regione.molise:legge:1979-12-07;35#art3">art. 3 della legge regionale n. 35 del 7 dicembre 1979</rif> è così modificato: 
  
 &lt;&lt;<virgolette
-                                id="art1-com1-mod1-vir1" tipo="parola">Sono organi delle Unitè Locali: <h:br/>
+                                id="art1-com1-mod1-vir1" tipo="parola">Sono organi delle Unità Locali: <h:br/>
                                 <h:br/>
 1) l'Assemblea generale; <h:br/>
                                 <h:br/>
@@ -65,7 +65,7 @@ L'<rif
                 <comma id="art2-com1">
                     <num/>
                     <corpo> 
-Il Collegio dei Revisori è composto di tre membri, esperti in materia di contabilitè pubblica, di cui uno designato dal Ministero del Tesoro, uno eletto dal Consiglio Regionale e uno eletto dall'Assemblea dell'Unitè Locale. </corpo>
+Il Collegio dei Revisori è composto di tre membri, esperti in materia di contabilità pubblica, di cui uno designato dal Ministero del Tesoro, uno eletto dal Consiglio Regionale e uno eletto dall'Assemblea dell'Unità Locale. </corpo>
                 </comma>
                 <comma id="art2-com2">
                     <num/>
@@ -82,54 +82,54 @@ Il Collegio dei Revisori è composto di tre membri, esperti in materia di contabi
             </articolo>
             <articolo id="art3">
                 <num>Art. 3</num>
-                <rubrica>: Ineleggibilitè ed incompatibilitè 
+                <rubrica>: Ineleggibilità ed incompatibilità 
 </rubrica>
                 <comma id="art3-com1">
                     <num/>
                     <alinea> 
-Non puè essere nominato revisore, e, se nominato, decade dall'ufficio: 
+Non può essere nominato revisore, e, se nominato, decade dall'ufficio: 
  
 </alinea>
                     <el id="art3-com1-leta">
                         <num>a)</num>
-                        <corpo> chi si trova in uno dei casi di ineleggibilitè o di incompatibilitè a componente del Comitato di gestione dell'Unitè Locale;</corpo>
+                        <corpo> chi si trova in uno dei casi di ineleggibilità o di incompatibilità a componente del Comitato di gestione dell'Unità Locale;</corpo>
                     </el>
                     <el id="art3-com1-letb">
                         <num> 
  
 b)</num>
-                        <corpo> chi ha ascendenti o discendenti, ovvero parenti o affini fino al 2è grado, che coprano nell'Amministrazione dell'Unitè Locale l'Ufficio di Presidente o Componente del Comitato di Gestione, componente dell'Ufficio di Direzione, ovvero coprano posti nell'Istituto di Credito che svolge funzione di Tesoriere nell'Unitè Locale;</corpo>
+                        <corpo> chi ha ascendenti o discendenti, ovvero parenti o affini fino al 2° grado, che coprano nell'Amministrazione dell'Unità Locale l'Ufficio di Presidente o Componente del Comitato di Gestione, componente dell'Ufficio di Direzione, ovvero coprano posti nell'Istituto di Credito che svolge funzione di Tesoriere nell'Unità Locale;</corpo>
                     </el>
                     <el id="art3-com1-letc">
                         <num> 
  
 c)</num>
-                        <corpo> chi è fornitore dell'Unitè Locale;</corpo>
+                        <corpo> chi è fornitore dell'Unità Locale;</corpo>
                     </el>
                     <el id="art3-com1-letd">
                         <num> 
  
 d)</num>
-                        <corpo> i componenti del Comitato di Gestione e i dipendenti dell'Unitè Locale;</corpo>
+                        <corpo> i componenti del Comitato di Gestione e i dipendenti dell'Unità Locale;</corpo>
                     </el>
                     <el id="art3-com1-lete">
                         <num> 
  
 e)</num>
-                        <corpo> gli amministratori ed i dipendenti di istituzioni sanitarie di carattere privato, ubicati nell'ambito della Regione e coloro che, a qualsiasi titolo, svolgono in modo continuativo attivitè retribuite presso le istituzioni predette;</corpo>
+                        <corpo> gli amministratori ed i dipendenti di istituzioni sanitarie di carattere privato, ubicati nell'ambito della Regione e coloro che, a qualsiasi titolo, svolgono in modo continuativo attività retribuite presso le istituzioni predette;</corpo>
                     </el>
                     <el id="art3-com1-letf">
                         <num> 
  
 f)</num>
 
-                        <corpo> chi ha liti pendenti per questioni attinenti l'attivitè dell'Unitè Locale, ovvero, avendo un debito liquido ed esigibile nei confronti della medesima, sia stato regolarmente costituito in mora ai sensi dell'<rif
-                                xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art1219">art.1219 codice civile</rif> o si trovi nelle condizioni previste dal <rif xlink:href="#art3-com2">2è comma</rif> dello stesso articolo. </corpo>
+                        <corpo> chi ha liti pendenti per questioni attinenti l'attività dell'Unità Locale, ovvero, avendo un debito liquido ed esigibile nei confronti della medesima, sia stato regolarmente costituito in mora ai sensi dell'<rif
+                                xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art1219">art.1219 codice civile</rif> o si trovi nelle condizioni previste dal <rif xlink:href="#art3-com2">2° comma</rif> dello stesso articolo. </corpo>
                     </el>
                 </comma>
                 <comma id="art3-com2">
                     <num/>
-                    <corpo>L'Ufficio di revisore non puè essere contemporaneamente ricoperto in più di una Unitè Locale. </corpo>
+                    <corpo>L'Ufficio di revisore non può essere contemporaneamente ricoperto in più di una Unità Locale. </corpo>
                 </comma>
             </articolo>
             <articolo id="art4">
@@ -139,7 +139,7 @@ f)</num>
                 <comma id="art4-com1">
                     <num/>
                     <corpo> 
-Il Collegio dei Revisori dei conti vigila perchè sia assicurata la regolaritè della gestione relativa al patrimonio ed al bilancio dell'Unitè Locale. </corpo>
+Il Collegio dei Revisori dei conti vigila perché sia assicurata la regolarità della gestione relativa al patrimonio ed al bilancio dell'Unità Locale. </corpo>
                 </comma>
                 <comma id="art4-com2">
                     <num/>
@@ -154,23 +154,23 @@ Il Collegio dei Revisori dei conti vigila perchè sia assicurata la regolaritè de
                         <num> 
  
 b)</num>
-                        <corpo> accerta la regolaritè delle scritture e delle operazioni contabili;</corpo>
+                        <corpo> accerta la regolarità delle scritture e delle operazioni contabili;</corpo>
                     </el>
                     <el id="art4-com2-letc">
                         <num> 
  
 c)</num>
-                        <corpo> effettua i riscontri sulla consistenza di cassa e, almeno una volta all'anno, sull'esistenza dei valori e dei titoli in proprietè, deposito, cauzione e custodia. </corpo>
+                        <corpo> effettua i riscontri sulla consistenza di cassa e, almeno una volta all'anno, sull'esistenza dei valori e dei titoli in proprietà, deposito, cauzione e custodia. </corpo>
                     </el>
                 </comma>
                 <comma id="art4-com3">
                     <num/>
-                    <corpo>Il Collegio dei revisori riferisce all'assemblea dell'Unitè Locale sui risultati dell'attivitè svolta, ed esprime in tale sede le proprie motivate valutazioni in ordine ai livelli di economicitè ed efficienza conseguiti nella gestione della spesa, proponendo altresè, ogni qualvolta ne rilevi l'opportunitè, l'adozione di provvedimenti o disposizioni di qualsiasi specie nell'interesse della gestione finanziaria dell'Unitè Locale. </corpo>
+                    <corpo>Il Collegio dei revisori riferisce all'assemblea dell'Unità Locale sui risultati dell'attività svolta, ed esprime in tale sede le proprie motivate valutazioni in ordine ai livelli di economicità ed efficienza conseguiti nella gestione della spesa, proponendo altresì, ogni qualvolta ne rilevi l'opportunità, l'adozione di provvedimenti o disposizioni di qualsiasi specie nell'interesse della gestione finanziaria dell'Unità Locale. </corpo>
                 </comma>
                 <comma id="art4-com4">
                     <num/>
 
-                    <corpo>Il Collegio dei revisori è tenuto, annualmente, in particolare, a sottoscrivere i rendiconti di cui all'<rif xlink:href="urn:nir:stato:legge:1978-12-23;833#art50-com2">art. 50, secondo comma, della legge 23 dicembre 1978, n. 833</rif>, ed a redigere trimestralmente una relazione sulla gestione amministrativo-contabile dell'Unitè Locale da trasmettere alla Regione ed ai Ministeri del Tesoro e della Sanitè. </corpo>
+                    <corpo>Il Collegio dei revisori è tenuto, annualmente, in particolare, a sottoscrivere i rendiconti di cui all'<rif xlink:href="urn:nir:stato:legge:1978-12-23;833#art50-com2">art. 50, secondo comma, della legge 23 dicembre 1978, n. 833</rif>, ed a redigere trimestralmente una relazione sulla gestione amministrativo-contabile dell'Unità Locale da trasmettere alla Regione ed ai Ministeri del Tesoro e della Sanità. </corpo>
                 </comma>
             </articolo>
             <articolo id="art5">
@@ -180,12 +180,12 @@ c)</num>
                 <comma id="art5-com1">
                     <num/>
                     <corpo> 
-Il collegio dei revisori si riunisce almeno una volta al mese. I componenti il collegio assistono alle riunioni dell'assemblea e del comitato di gestione dell'Unitè Locale. </corpo>
+Il collegio dei revisori si riunisce almeno una volta al mese. I componenti il collegio assistono alle riunioni dell'assemblea e del comitato di gestione dell'Unità Locale. </corpo>
                 </comma>
                 <comma id="art5-com2">
                     <num/>
 
-                    <corpo>Ai componenti il collegio dei revisori spetta un'indennità di carica annuale non superiore al 70% per il Presidente ed al 60% per gli altri componenti di quella corrisposta ai componenti del   Comitato di Gestione, nonchè il rimborso delle spese secondo quanto stabilitè dall'<rif xlink:href="urn:nir:stato:legge:1974-04-26;169#art7">art. 7 della legge 26 aprile 1974, n. 169</rif>. </corpo>
+                    <corpo>Ai componenti il collegio dei revisori spetta un'indennità di carica annuale non superiore al 70% per il Presidente ed al 60% per gli altri componenti di quella corrisposta ai componenti del   Comitato di Gestione, nonché il rimborso delle spese secondo quanto stabilità dall'<rif xlink:href="urn:nir:stato:legge:1974-04-26;169#art7">art. 7 della legge 26 aprile 1974, n. 169</rif>. </corpo>
                 </comma>
             </articolo>
             <articolo id="art6">

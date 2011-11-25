@@ -12,7 +12,7 @@
                     <materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xe0;"/>
                 </materie>
             </descrittori>
-        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
+        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, università 
  
 Bollettino 
 Bollettino Ufficiale n. 07 del 1 aprile 2000 
@@ -74,13 +74,13 @@ Modifiche
                     <num>
  
 3.</num>
-                    <corpo> Le Istituzioni scolastiche interessate fanno domanda all'Assessorato regionale all'Istruzione, il quale provvede, entro trenta giorni, agli adempimenti istruttori compresi i necessari accertamenti in ordine all'effettiva necessitè del beneficio da parte dello studente. </corpo>
+                    <corpo> Le Istituzioni scolastiche interessate fanno domanda all'Assessorato regionale all'Istruzione, il quale provvede, entro trenta giorni, agli adempimenti istruttori compresi i necessari accertamenti in ordine all'effettiva necessità del beneficio da parte dello studente. </corpo>
                 </comma>
                 <comma id="art2-com4">
                     <num>
  
 4.</num>
-                    <corpo> Le modalitè di dettaglio per l'espletamento dell'istruttoria sono stabilite con proprio atto dalla Giunta regionale entro trenta giorni dall'entrata in vigore della presente legge. 
+                    <corpo> Le modalità di dettaglio per l'espletamento dell'istruttoria sono stabilite con proprio atto dalla Giunta regionale entro trenta giorni dall'entrata in vigore della presente legge. 
  
 </corpo>
                 </comma>
@@ -106,7 +106,7 @@ Modifiche
             </articolo>
         </articolato>
         <formulafinale/>
-        <conclusione/><?error La presente legge sar&#xE0; pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
 
 ?>
     </LeggeRegionale>
