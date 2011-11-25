@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19791116" num="21" tipo="BURM"/>
-                <entratainvigore norm="19791201"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1979-11-02;31"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="05.commercio, fiere e mercati, camere di commercio"/>
-                </materie>
-            </descrittori>
-        </meta><?error 05.Commercio, fiere e mercati, camere di commercio 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19791116" num="21" tipo="BURM" />
+					<entratainvigore norm="19791117" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1979-11-02;31" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="05.commercio, fiere e mercati, camere di commercio" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19791117" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1979-11-02;31" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 05.Commercio, fiere e mercati, camere di commercio 
  
 Bollettino 
 Bollettino Ufficiale n. 21 del 16/11/79 
@@ -27,203 +36,195 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19791102">2 Novembre 1979</dataDoc>, n. <numDoc>31</numDoc>
-            <titoloDoc>Criteri regionali ai Comuni per la determinazione degli orari di apertura e chiusura degli impianti stradali di distribuzione dei carburanti per uso autotrazione, esclusi gli impianti autostradali 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1</num>
-                <rubrica>: Criteri generali 
-</rubrica>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo> 
-I Comuni, ai sensi dell'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616#art54">art. 54, lettera d), del D.P.R, 24 luglio 1977, n. 616</rif>, fissano gli orari di apertura e chiusura degli impianti stradali di distribuzione dei carburanti, esclusi gli impianti autostradali, sulla base dei criteri contenuti nella presente legge, sentiti i pareri delle rappresentanze sindacali a livello provinciale delle organizzazioni sindacali dei gestori e dei concessionari nonchè quelle dei lavoratori dipendenti, i pareri delle aziende petrolifere interessate ai rifornimenti dei punti di vendita siti nel Comune e delle rappresentanze degli   interessati degli utenti, con l'obiettivo di determinare le migliori condizioni possibili del servizio, nel rispetto delle esigenze del tempo libero delle categorie dei lavoratori interessati. </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2</num>
-                <rubrica>: Orario Giornaliero 
-</rubrica>
-                <comma id="art2-com1">
-                    <num/>
-                    <corpo> 
-I Comuni, data l'esigenza di uniformitè del servizio a garanzia dell'utenza, devono di norma fissare gli orari giornalieri di apertura e chiusura degli impianti di distribuzione dei carburanti   dalle ore 7 alle ore 21, assicurando, nei giorni feriali un effettivo servizio di detti impianti per non meno di dieci ore nel periodo estivo e di nove ore e mezza nel periodo invernale. </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art. 3</num>
-                <rubrica>: Turni di riposo 
-</rubrica>
-                <comma id="art3-com1">
-                    <num/>
-                    <corpo> 
-Nelle domeniche e nei giorni festivi infrasettimanali deve essere determinata l'apertura degli impianti in ragione del 25% di quelli esistenti e funzionanti nel territorio comunale. </corpo>
-                </comma>
-                <comma id="art3-com2">
-                    <num/>
-                    <corpo>Nei Comuni o in frazioni di Comuni particolarmente isolate ove siano esistenti e funzionanti n. 3 o n. 2 impianti, detta percentuale puè essere portata rispettivamente al 33% o al 50%. </corpo>
-                </comma>
-                <comma id="art3-com3">
-                    <num/>
-                    <corpo>In base alla valutazione degli interessi dell'utenza in Comuni o in frazioni di Comuni ove sia esistente e funzionante un solo impianto, puè essere determinata l'esenzione dalla chiusura   domenicale e festiva. </corpo>
-                </comma>
-                <comma id="art3-com4">
-                    <num/>
-                    <corpo>Gli impianti che effettuano l'apertura domenicale sospendono l'attivitè nel primo giorno feriale successivo a quello in cui   è stato effettuato il turno. </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>Art. 4</num>
-                <rubrica>: Turni notturni 
-</rubrica>
-                <comma id="art4-com1">
-                    <num/>
-                    <corpo> 
-Il servizio notturno viene svolto nell'ambito del territorio provinciale da un numero di impianti non inferiori al 3%. Esso ha inizio non prima delle ore 21 e termina alle ore 7. </corpo>
-                </comma>
-                <comma id="art4-com2">
-                    <num/>
-                    <alinea>I Comuni concedono l'autorizzazione al servizio notturno in base a calendari elaborati annualmente dai Comuni in accordo con gli altri Comuni della Provincia, affinchè venga rispettata: 
- 
-</alinea>
-                    <en id="art4-com2-num1">
-                        <num>1)</num>
-                        <corpo> l'esigenza di assicurare il servizio di distribuzione in localitè opportunamente dislocate nei quartieri urbani e sulle vie di accesso ai centri abitati;</corpo>
-                    </en>
-                    <en id="art4-com2-num2">
-                        <num> 
- 
-2)</num>
-                        <corpo> l'eventuale rotazione dei punti di vendita abilitati ai turni qualora le richieste dovessero superare la percentuale sopra indicata. </corpo>
-                    </en>
-                </comma>
-                <comma id="art4-com3">
-                    <num/>
-                    <corpo>L'autorizzazione al turno notturno deve tenere nel massimo conto la qualità dell'organizzazione di vendita offerta all'utenza, con particolare riguardo all'assistenza ai mezzi e alle persone,   nonchè alle condizioni di sicurezza fornite agli operatori addetti al servizio. </corpo>
-                </comma>
-                <comma id="art4-com4">
-                    <num/>
-                    <corpo>Particolare valutazione devono quindi avere anche le correnti di traffico e le consuetudini di afflusso specie dei mezzi destinati a coprire lunghe distanze, in relazione anche alle possibilitè   di ristoro offerte dal punto di vendita. </corpo>
-                </comma>
-                <comma id="art4-com5">
-                    <num/>
-                    <corpo>Per evitare squilibri nel funzionamento del servizio notturno e disservizi per l'utenza motorizzata dovranno essere comunque autorizzati a svolgere il servizio notturno gli impianti già abilitati alla data del 31 dicembre 1977. </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art5">
-                <num>Art. 5</num>
-                <rubrica>: Avviso agli utenti 
-</rubrica>
-                <comma id="art5-com1">
-                    <num/>
-                    <alinea> 
-I distributori sono tenuti ad esporre al pubblico un cartello indicante: 
- 
-</alinea>
-                    <ep>
-                        <num>-</num>
-                        <corpo> gli orari di apertura e chiusura; 
- 
-- gli impianti che osservano il turno di apertura nei giorni festivi; 
- 
-- gli esercizi aperti per servizio notturno.</corpo>
-                    </ep>
-                </comma>
-            </articolo>
-            <articolo id="art6">
-                <num>Art. 6</num>
-                <rubrica>: Esenzioni 
-</rubrica>
-                <comma id="art6-com1">
-                    <num/>
-                    <corpo> 
-I criteri di cui alla presente legge si applicano agli impianti stradali di distribuzione al pubblico dei carburanti per autotrazione quali: le benzine, le miscele, il gasolio, il gas di petroli liquefatti e il metano. </corpo>
-                </comma>
-                <comma id="art6-com2">
-                    <num/>
-                    <corpo>A richiesta degli interessati, gli impianti di distribuzione del gas e del metano possono essere esentati dall'osservanza dell'intervallo di chiusura pomeridiana e serale, nonchè dei turni di chiusura di cui agli articoli precedenti a condizione che siano abilitati all'erogazione esclusiva, di detti prodotti e non risultino ubicati in un complesso più vasto di distribuzione comprendente anche altri carburanti. </corpo>
-                </comma>
-                <comma id="art6-com3">
-                    <num/>
-                    <alinea>Possono essere autorizzate esenzioni temporanee dalle limitazioni di orario e dall'osservanza dei turni di cui agli articoli 2 e 3, nei seguenti casi: 
- 
-</alinea>
-                    <ep>
-                        <num>-</num>
-                        <corpo> per manifestazioni di interesse sovracomunale che   determinano affluenza notevole di utenza motorizzata quali fiere, mercati, gare sportive e celebrazioni, limitatamente alla durata delle predette manifestazioni; 
- 
-- per comprovate necessitè locali relative ad eventi imprevedibili che determinano l'isolamento di parti del territorio comunale; 
- 
-- per consentire la regolaritè del servizio nella localitè di particolare interesse turistico limitatamente ai periodi di maggiore afflusso, sentiti gli Enti Provinciali per il Turismo e le organizzazioni sindacali a livello provinciale dei gestori e dei concessionari.</corpo>
-                    </ep>
-                </comma>
-            </articolo>
-            <articolo id="art7">
-                <num>Art. 7</num>
-                <rubrica>: Ferie 
-</rubrica>
-                <comma id="art7-com1">
-                    <num/>
-                    <corpo> 
-Su domanda dei concessionari e sentiti i gestori degli impianti, i Comuni autorizzano la sospensione dell'attivitè per ferie per un periodo non superiore alle due settimane per ogni anno solare, fruibili in qualsiasi periodo. </corpo>
-                </comma>
-                <comma id="art7-com2">
-                    <num/>
-                    <corpo>Le sospensioni per ferie vengono determinate annualmente in base a un criterio di fruizione graduale che prevede comunque l'apertura degli impianti in ragione tale da assicurare il servizio all'utenza motorizzata nonchè lo svolgimento dei turni domenicali e notturni. </corpo>
-                </comma>
-                <comma id="art7-com3">
-                    <num/>
-                    <corpo>Anche in caso di malattia del gestore o per altri gravi motivi i Comuni possono concedere l'autorizzazione alla chiusura degli impianti, su proposta dei concessionari sentiti i gestori   interessati. </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art8">
-                <num>Art. 8</num>
-                <rubrica>: Impianti con apparecchiature a moneta o a lettura ottica (self-service) 
-</rubrica>
-                <comma id="art8-com1">
-                    <num/>
-                    <corpo> 
-Per gli impianti di distribuzione dotati di apparecchiature a moneta o a lettura ottica (self-service) dovrè essere determinata l'esclusione dall'osservanza degli orari e dei turni festivi e notturni, alla condizione perè che essi funzionino senza l'assistenza di apposito personale e, quindi, senza l'apporto di quei servizi collaterali generalmente forniti dal gestore. </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art9">
-                <num>Art. 9</num>
-                <rubrica>: Sanzioni amministrative 
-</rubrica>
-                <comma id="art9-com1">
-                    <num/>
-                    <corpo> 
-Ai sensi dell'<rif
-                            xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616#art54">articolo 54, lettera d), del D.P.R. 24 luglio 1977, n. 616</rif>, i Comuni applicheranno le sanzioni amministrative previste dall'<rif
-                            xlink:href="urn:nir:stato:legge:1971-07-28;558#art10">articolo 10 della legge 28 luglio 1971, n. 558</rif>, nel rispetto   delle norme di cui alla <rif xlink:href="urn:nir:stato:legge:1975-12-24;706">legge 24 dicembre 1975, n. 706</rif>. </corpo>
-                </comma>
-                <comma id="art9-com2">
-                    <num/>
-                    <corpo>Le sanzioni amministrative sono irrogate dal Sindaco del Comune competente per territorio. </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art10">
-                <num>Art. 10 </num>
-                <comma id="art10-com1">
-                    <num/>
-
-                    <corpo>
-La presente legge è dichiarata urgente ai sensi dell'<rif
-                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
-
-?>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19791102">2 Novembre 1979</dataDoc>
+				, n.
+				<numDoc>31</numDoc>
+				<titoloDoc>Criteri regionali ai Comuni per la determinazione degli orari di apertura e chiusura degli impianti stradali di distribuzione dei carburanti per uso autotrazione, esclusi gli impianti autostradali</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>Criteri generali</rubrica>
+					<comma id="art1-com1">
+						<num />
+						<corpo>
+							I Comuni, ai sensi dell'
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616#art54" xlink:type="simple">art. 54, lettera d), del D.P.R, 24 luglio 1977, n. 616</rif>
+							, fissano gli orari di apertura e chiusura degli impianti stradali di distribuzione dei carburanti, esclusi gli impianti autostradali, sulla base dei criteri contenuti nella presente legge, sentiti i pareri delle rappresentanze sindacali a livello provinciale delle organizzazioni sindacali dei gestori e dei concessionari nonchè quelle dei lavoratori dipendenti, i pareri delle aziende petrolifere interessate ai rifornimenti dei punti di vendita siti nel Comune e delle rappresentanze degli interessati degli utenti, con l'obiettivo di determinare le migliori condizioni possibili del servizio, nel rispetto delle esigenze del tempo libero delle categorie dei lavoratori interessati.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>Orario Giornaliero</rubrica>
+					<comma id="art2-com1">
+						<num />
+						<corpo>I Comuni, data l'esigenza di uniformitè del servizio a garanzia dell'utenza, devono di norma fissare gli orari giornalieri di apertura e chiusura degli impianti di distribuzione dei carburanti dalle ore 7 alle ore 21, assicurando, nei giorni feriali un effettivo servizio di detti impianti per non meno di dieci ore nel periodo estivo e di nove ore e mezza nel periodo invernale.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>Turni di riposo</rubrica>
+					<comma id="art3-com1">
+						<num />
+						<corpo>Nelle domeniche e nei giorni festivi infrasettimanali deve essere determinata l'apertura degli impianti in ragione del 25% di quelli esistenti e funzionanti nel territorio comunale.</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num />
+						<corpo>Nei Comuni o in frazioni di Comuni particolarmente isolate ove siano esistenti e funzionanti n. 3 o n. 2 impianti, detta percentuale puè essere portata rispettivamente al 33% o al 50%.</corpo>
+					</comma>
+					<comma id="art3-com3">
+						<num />
+						<corpo>In base alla valutazione degli interessi dell'utenza in Comuni o in frazioni di Comuni ove sia esistente e funzionante un solo impianto, puè essere determinata l'esenzione dalla chiusura domenicale e festiva.</corpo>
+					</comma>
+					<comma id="art3-com4">
+						<num />
+						<corpo>Gli impianti che effettuano l'apertura domenicale sospendono l'attivitè nel primo giorno feriale successivo a quello in cui è stato effettuato il turno.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>Turni notturni</rubrica>
+					<comma id="art4-com1">
+						<num />
+						<corpo>Il servizio notturno viene svolto nell'ambito del territorio provinciale da un numero di impianti non inferiori al 3%. Esso ha inizio non prima delle ore 21 e termina alle ore 7.</corpo>
+					</comma>
+					<comma id="art4-com2">
+						<num />
+						<alinea>I Comuni concedono l'autorizzazione al servizio notturno in base a calendari elaborati annualmente dai Comuni in accordo con gli altri Comuni della Provincia, affinchè venga rispettata:</alinea>
+						<en id="art4-com2-num1">
+							<num>1)</num>
+							<corpo>l'esigenza di assicurare il servizio di distribuzione in localitè opportunamente dislocate nei quartieri urbani e sulle vie di accesso ai centri abitati;</corpo>
+						</en>
+						<en id="art4-com2-num2">
+							<num>2)</num>
+							<corpo>l'eventuale rotazione dei punti di vendita abilitati ai turni qualora le richieste dovessero superare la percentuale sopra indicata.</corpo>
+						</en>
+					</comma>
+					<comma id="art4-com3">
+						<num />
+						<corpo>L'autorizzazione al turno notturno deve tenere nel massimo conto la qualità dell'organizzazione di vendita offerta all'utenza, con particolare riguardo all'assistenza ai mezzi e alle persone, nonchè alle condizioni di sicurezza fornite agli operatori addetti al servizio.</corpo>
+					</comma>
+					<comma id="art4-com4">
+						<num />
+						<corpo>Particolare valutazione devono quindi avere anche le correnti di traffico e le consuetudini di afflusso specie dei mezzi destinati a coprire lunghe distanze, in relazione anche alle possibilitè di ristoro offerte dal punto di vendita.</corpo>
+					</comma>
+					<comma id="art4-com5">
+						<num />
+						<corpo>Per evitare squilibri nel funzionamento del servizio notturno e disservizi per l'utenza motorizzata dovranno essere comunque autorizzati a svolgere il servizio notturno gli impianti già abilitati alla data del 31 dicembre 1977.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>Avviso agli utenti</rubrica>
+					<comma id="art5-com1">
+						<num />
+						<alinea>I distributori sono tenuti ad esporre al pubblico un cartello indicante:</alinea>
+						<ep id="art5-com1-pun1">
+							<num>-</num>
+							<corpo>gli orari di apertura e chiusura;</corpo>
+						</ep>
+						<ep id="art5-com1-pun2">
+							<num>-</num>
+							<corpo>gli impianti che osservano il turno di apertura nei giorni festivi;</corpo>
+						</ep>
+						<ep id="art5-com1-pun3">
+							<num>-</num>
+							<corpo>gli esercizi aperti per servizio notturno.</corpo>
+						</ep>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>Esenzioni</rubrica>
+					<comma id="art6-com1">
+						<num />
+						<corpo>I criteri di cui alla presente legge si applicano agli impianti stradali di distribuzione al pubblico dei carburanti per autotrazione quali: le benzine, le miscele, il gasolio, il gas di petroli liquefatti e il metano.</corpo>
+					</comma>
+					<comma id="art6-com2">
+						<num />
+						<corpo>A richiesta degli interessati, gli impianti di distribuzione del gas e del metano possono essere esentati dall'osservanza dell'intervallo di chiusura pomeridiana e serale, nonchè dei turni di chiusura di cui agli articoli precedenti a condizione che siano abilitati all'erogazione esclusiva, di detti prodotti e non risultino ubicati in un complesso più vasto di distribuzione comprendente anche altri carburanti.</corpo>
+					</comma>
+					<comma id="art6-com3">
+						<num />
+						<alinea>Possono essere autorizzate esenzioni temporanee dalle limitazioni di orario e dall'osservanza dei turni di cui agli articoli 2 e 3, nei seguenti casi:</alinea>
+						<ep id="art6-com3-pun1">
+							<num>-</num>
+							<corpo>per manifestazioni di interesse sovracomunale che determinano affluenza notevole di utenza motorizzata quali fiere, mercati, gare sportive e celebrazioni, limitatamente alla durata delle predette manifestazioni;</corpo>
+						</ep>
+						<ep id="art6-com3-pun2">
+							<num>-</num>
+							<corpo>per comprovate necessitè locali relative ad eventi imprevedibili che determinano l'isolamento di parti del territorio comunale;</corpo>
+						</ep>
+						<ep id="art6-com3-pun3">
+							<num>-</num>
+							<corpo>per consentire la regolaritè del servizio nella localitè di particolare interesse turistico limitatamente ai periodi di maggiore afflusso, sentiti gli Enti Provinciali per il Turismo e le organizzazioni sindacali a livello provinciale dei gestori e dei concessionari.</corpo>
+						</ep>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>Ferie</rubrica>
+					<comma id="art7-com1">
+						<num />
+						<corpo>Su domanda dei concessionari e sentiti i gestori degli impianti, i Comuni autorizzano la sospensione dell'attivitè per ferie per un periodo non superiore alle due settimane per ogni anno solare, fruibili in qualsiasi periodo.</corpo>
+					</comma>
+					<comma id="art7-com2">
+						<num />
+						<corpo>Le sospensioni per ferie vengono determinate annualmente in base a un criterio di fruizione graduale che prevede comunque l'apertura degli impianti in ragione tale da assicurare il servizio all'utenza motorizzata nonchè lo svolgimento dei turni domenicali e notturni.</corpo>
+					</comma>
+					<comma id="art7-com3">
+						<num />
+						<corpo>Anche in caso di malattia del gestore o per altri gravi motivi i Comuni possono concedere l'autorizzazione alla chiusura degli impianti, su proposta dei concessionari sentiti i gestori interessati.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>Impianti con apparecchiature a moneta o a lettura ottica (self-service)</rubrica>
+					<comma id="art8-com1">
+						<num />
+						<corpo>Per gli impianti di distribuzione dotati di apparecchiature a moneta o a lettura ottica (self-service) dovrè essere determinata l'esclusione dall'osservanza degli orari e dei turni festivi e notturni, alla condizione perè che essi funzionino senza l'assistenza di apposito personale e, quindi, senza l'apporto di quei servizi collaterali generalmente forniti dal gestore.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<rubrica>Sanzioni amministrative</rubrica>
+					<comma id="art9-com1">
+						<num />
+						<corpo>
+							Ai sensi dell'
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1977-07-24;616#art54" xlink:type="simple">articolo 54, lettera d), del D.P.R. 24 luglio 1977, n. 616</rif>
+							, i Comuni applicheranno le sanzioni amministrative previste dall'
+							<rif xlink:href="urn:nir:stato:legge:1971-07-28;558#art10" xlink:type="simple">articolo 10 della legge 28 luglio 1971, n. 558</rif>
+							, nel rispetto delle norme di cui alla
+							<rif xlink:href="urn:nir:stato:legge:1975-12-24;706" xlink:type="simple">legge 24 dicembre 1975, n. 706</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art9-com2">
+						<num />
+						<corpo>Le sanzioni amministrative sono irrogate dal Sindaco del Comune competente per territorio.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Art. 10</num>
+					<comma id="art10-com1">
+						<num />
+						<corpo>
+							La presente legge è dichiarata urgente ai sensi dell'
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art127" xlink:type="simple">art. 127 della Costituzione</rif>
+							e dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art38" xlink:type="simple">art. 38 dello Statuto Regionale</rif>
+							ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

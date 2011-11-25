@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19790116" num="1" tipo="BURM"/>
-                <entratainvigore norm="19790131"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1979-01-04;2"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
-                </materie>
-            </descrittori>
-        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19790116" num="1" tipo="BURM" />
+					<entratainvigore norm="19790131" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1979-01-04;2" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte" />
+					</materie>
+				</descrittori>
+			</meta>
+			<?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
 Bollettino Ufficiale n. 01 del 16/01/79 
@@ -27,84 +28,100 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19790104">4 Gennaio 1979</dataDoc>, n. <numDoc>2</numDoc>
-            <titoloDoc>Modifiche alla <rif
-                    xlink:href="urn:nir:regione.molise:legge:1979-01-04;1">legge regionale 4 gennaio 1979 n. 1</rif>, concernente: &lt;&lt; Regionalizzazione dell'Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise "G. Caporale", ai sensi della <rif xlink:href="urn:nir:stato:legge:1975-12-23;745">legge 23 dicembre 1975, n.745</rif> &gt;&gt; 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1 </num>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>
-                        <mod
-                                id="art1-com1-mod1">
-Sono abrogati il secondo e <rif
-                                xlink:href="urn:nir:regione.molise:legge:1979-01-04;1#art3-com3">terzo comma dell'art. 3 della legge regionale 4 gennaio 1979, n. 1</rif>, concernente: &lt;&lt;<virgolette
-                                id="art1-com1-mod1-vir1"
-                                    tipo="parola"> Regionalizzazione dell'Istituto Zooprofilattico Sperimentale dell'Abruzzo e del   Molise "G. Caporale", ai sensi della <rif xlink:href="urn:nir:stato:legge:1975-12-23;745">legge 23 dicembre 1975, n.745</rif>
-                            </virgolette>&gt;&gt;. </mod>
-                    </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2 </num>
-                <comma id="art2-com1">
-                    <num/>
-
-                    <alinea>
-Al testo dell'accordo, allegato alla legge regionale di cui al <rif xlink:href="#art1">precedente articolo 1</rif>, sono apportate le seguenti modifiche: 
- 
-</alinea>
-                    <el id="art2-com1-leta">
-                        <num>a)</num>
-                        <corpo>
-                            <mod
-                                    id="art2-com1-leta-mod2"> al secondo comma dell'art.4 è soppresso la dizione&lt;&lt;<virgolette id="art2-com1-leta-mod2-vir2">generale</virgolette>&gt;&gt;;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art2-com1-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo>
-                            <mod
-                                    id="art2-com1-letb-mod3"> al secondo comma dell'art.8 le parole &lt;&lt;<virgolette
-                                    id="art2-com1-letb-mod3-vir3">dalla presente legge</virgolette>&gt;&gt;  sono sostituite con le parole &lt;&lt;<virgolette id="art2-com1-letb-mod3-vir4"> dal presente accordo </virgolette>&gt;&gt;;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art2-com1-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo>
-                            <mod
-                                    id="art2-com1-letc-mod4"> al secondo comma dell'art. 19 è soppressa la seguente dizione, &lt;&lt;<virgolette id="art2-com1-letc-mod4-vir5"> con voto limitato ad un nome,</virgolette>&gt;&gt;. </mod>
-                        </corpo>
-                    </el>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art. 3 </num>
-                <comma id="art3-com1">
-                    <num/>
-
-                    <corpo>
-La presente legge è dichiarata urgente ai sensi dell'<rif
-                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
-
-?>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19790104">4 Gennaio 1979</dataDoc>
+				, n.
+				<numDoc>2</numDoc>
+				<titoloDoc>
+					Modifiche alla
+					<rif xlink:href="urn:nir:regione.molise:legge:1979-01-04;1" xlink:type="simple">legge regionale 4 gennaio 1979 n. 1</rif>
+					, concernente: &lt;&lt; Regionalizzazione dell'Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise "G. Caporale", ai sensi della
+					<rif xlink:href="urn:nir:stato:legge:1975-12-23;745" xlink:type="simple">legge 23 dicembre 1975, n.745</rif>
+					&gt;&gt;
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num />
+						<corpo>
+							<mod id="mod1">
+								Sono abrogati il secondo e terzo comma dell'
+								<rif xlink:href="urn:nir:regione.molise:legge:1979-01-04;1#art3-com3" xlink:type="simple">art. 3 della legge regionale 4 gennaio 1979, n. 1</rif>
+								, concernente: &lt;&lt;
+								<virgolette id="mod1-vir1" tipo="parola">
+									Regionalizzazione dell'Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise "G. Caporale", ai sensi della
+									<rif xlink:href="urn:nir:stato:legge:1975-12-23;745" xlink:type="simple">legge 23 dicembre 1975, n.745</rif>
+								</virgolette>
+								&gt;&gt;.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<comma id="art2-com1">
+						<num />
+						<alinea>
+							<mod id="mod2">
+								Al testo dell'accordo, allegato alla legge regionale di cui al precedente
+								<rif xlink:href="#art1" xlink:type="simple">articolo 1</rif>
+								, sono apportate le seguenti modifiche:
+							</mod>
+						</alinea>
+						<el id="art2-com1-leta">
+							<num>a)</num>
+							<corpo>
+								<mod id="mod3">
+									al secondo comma dell'art. 4 è soppresso la dizione&lt;&lt;
+									<virgolette id="mod3-vir1" tipo="parola">generale</virgolette>
+									&gt;&gt;;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art2-com1-letb">
+							<num>b)</num>
+							<corpo>
+								<mod id="mod4">
+									al secondo comma dell'art. 8 le parole &lt;&lt;
+									<virgolette id="mod4-vir1" tipo="parola">dalla presente legge</virgolette>
+									&gt;&gt; sono sostituite con le parole &lt;&lt;
+									<virgolette id="mod4-vir2" tipo="parola">dal presente accordo</virgolette>
+									&gt;&gt;;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art2-com1-letc">
+							<num>c)</num>
+							<corpo>
+								<mod id="mod5">
+									al secondo comma dell'art. 19 è soppressa la seguente dizione, &lt;&lt;
+									<virgolette id="mod5-vir1" tipo="parola">con voto limitato ad un nome,</virgolette>
+									&gt;&gt;.
+								</mod>
+							</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<comma id="art3-com1">
+						<num />
+						<corpo>
+							La presente legge è dichiarata urgente ai sensi dell'
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art127" xlink:type="simple">art. 127 della Costituzione</rif>
+							e dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art38" xlink:type="simple">art. 38 dello Statuto Regionale</rif>
+							ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

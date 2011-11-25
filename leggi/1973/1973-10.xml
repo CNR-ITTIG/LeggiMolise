@@ -5,13 +5,21 @@
 			<meta>
 				<descrittori>
 					<pubblicazione norm="19730604" num="16" tipo="BURM" />
-					<entratainvigore norm="19730619" />
+					<entratainvigore norm="19730607" />
 					<redazione id="red1" nome="" norm="" />
 					<urn valore="urn:nir:regione.molise:legge:1973-05-30;10" />
 					<materie vocabolario="Regione Molise">
 						<materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica" />
 					</materie>
 				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19730607" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1973-05-30;10" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
 			</meta>
 			<?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
  
@@ -96,13 +104,9 @@ Modifiche
 							, ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione.
 						</corpo>
 					</comma>
-					<comma id="art3-com2">
-						<num />
-						<corpo>La presente legge è pubblicata sul Bollettino Ufficiale della Regione. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise.</corpo>
-					</comma>
 				</articolo>
 			</articolato>
-			<formulafinale />
+			<formulafinale>La presente legge è pubblicata sul Bollettino Ufficiale della Regione. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise.</formulafinale>
 			<conclusione />
 		</LeggeRegionale>
 	</NIR>

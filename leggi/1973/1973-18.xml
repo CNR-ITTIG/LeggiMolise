@@ -5,13 +5,21 @@
 			<meta>
 				<descrittori>
 					<pubblicazione norm="19730910" num="23" tipo="BURM" />
-					<entratainvigore norm="19730925" />
+					<entratainvigore norm="19730911" />
 					<redazione id="red1" nome="" norm="" />
 					<urn valore="urn:nir:regione.molise:legge:1973-08-22;18" />
 					<materie vocabolario="Regione Molise">
 						<materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xe0;" />
 					</materie>
 				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19730911" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1973-08-22;18" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
 			</meta>
 			<?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&#xE0; 
  
@@ -200,7 +208,6 @@ Modifiche
 							<num />
 							<corpo>L'erogazione dei contributi annuali per la gestione degli Asili-nido viene disposta con il decreto di concessione.</corpo>
 						</comma>
-						
 					</articolo>
 				</titolo>
 				<titolo id="tit2">
@@ -244,7 +251,6 @@ Modifiche
 							<num />
 							<corpo>I contributi per l'impianto e la gestione dei micro-nido sono a carico della Regione, secondo la previsioni di piano di cui alla lettera a) del precedente articolo 3.</corpo>
 						</comma>
-						
 					</articolo>
 				</titolo>
 				<titolo id="tit3">
@@ -350,7 +356,6 @@ Modifiche
 								<corpo>l'orario di apertura in modo che il servizio sia assicurato tutti i giorni non festivi per la durata dell'intero anno solare e per tutta la durata della giornata lavorativa, tenuto conto degli usi e delle situazioni locali.</corpo>
 							</el>
 						</comma>
-						
 					</articolo>
 				</titolo>
 				<titolo id="tit4">
@@ -400,7 +405,6 @@ Modifiche
 							<num />
 							<corpo>La funzione di coordinatore responsabile dell'Asilo deve essere affidata dall'ente gestore, sentito il Comitato di gestione, a persona scelta entro la categoria del personale addetto all'assistenza.</corpo>
 						</comma>
-						
 					</articolo>
 				</titolo>
 				<titolo id="tit5">
@@ -473,10 +477,7 @@ Modifiche
 					</articolo>
 				</titolo>
 			</articolato>
-			<formulafinale />
+			<formulafinale>E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise.</formulafinale>
 			<conclusione />
-			<?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
-
-?>
 		</LeggeRegionale>
 	</NIR>

@@ -5,7 +5,7 @@
 			<meta>
 				<descrittori>
 					<pubblicazione norm="19730528" num="14" tipo="BURM" />
-					<entratainvigore norm="19730612" />
+					<entratainvigore norm="19730529" />
 					<redazione id="red1" nome="" norm="" />
 					<urn valore="urn:nir:regione.molise:legge:1973-05-22;7" />
 					<materie vocabolario="Regione Molise">
@@ -15,8 +15,10 @@
 				<ciclodivita>
 					<eventi>
 						<evento data="19991031" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="19730529" fonte="ro1" id="t2" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1973-05-22;7" xlink:type="simple" />
 						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1999;34" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
@@ -325,7 +327,7 @@ Modificato art. 4 dalla legge n. 34/1999 art. 63
 					</comma>
 				</articolo>
 			</articolato>
-			<formulafinale />
+			<formulafinale>E' fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
 			<conclusione />
 			<?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
 

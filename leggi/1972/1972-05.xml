@@ -5,7 +5,7 @@
 			<meta>
 				<descrittori>
 					<pubblicazione norm="19720520" num="7" tipo="BURM" />
-					<entratainvigore norm="19720604" />
+					<entratainvigore norm="19720521" />
 					<redazione id="red1" nome="" norm="" />
 					<urn valore="urn:nir:regione.molise:legge:1972-03-31;5" />
 					<materie vocabolario="Regione Molise">
@@ -15,8 +15,10 @@
 				<ciclodivita>
 					<eventi>
 						<evento data="20091113" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="19720521" fonte="ro1" id="t2" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1972-03-31;5" xlink:type="simple" />
 						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2003;28" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
@@ -86,16 +88,9 @@ Modificato art. 2 dalla legge n. 28/2003 art. 5
 							, è dichiarata urgente ed entra in vigore il giorno successivo alla sua pubblicazione.
 						</corpo>
 					</comma>
-					<comma id="art5-com2">
-						<num />
-						<corpo>La stessa sarè pubblicata sul Bollettino Ufficiale della Regione. E' fatto obbligo a chiunque spetti, di osservarla e farla osservare come Legge della Regione Molise.</corpo>
-					</comma>
 				</articolo>
 			</articolato>
-			<formulafinale />
+			<formulafinale>La stessa sarà pubblicata sul Bollettino Ufficiale della Regione. E' fatto obbligo a chiunque spetti, di osservarla e farla osservare come Legge della Regione Molise.</formulafinale>
 			<conclusione />
-			<?error &#xC8; fatto obbligo a chiunque spetti, di osservarla e farla osservare come Legge della Regione Molise. 
-
-?>
 		</LeggeRegionale>
 	</NIR>

@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19770201" num="2" tipo="BURM"/>
-                <entratainvigore norm="19770216"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1977-01-28;7"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20000514" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19770201" num="2" tipo="BURM" />
+					<entratainvigore norm="19770216" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1977-01-28;7" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20000514" fonte="" id="t1" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
  
 Bollettino 
 Bollettino Ufficiale n. 02 del 01/02/77 
@@ -27,224 +36,33 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19770128">28 Gennaio 1977</dataDoc>, n. <numDoc>7</numDoc>
-            <titoloDoc>Modifica alla <rif xlink:href="urn:nir:regione.molise:legge:1975-12-19;47">legge regionale 19 dicembre 1975, n. 47</rif> - Provvidenze per l'acquisto di sementi selezionate. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 31/2000 art. 1, primo comma, lettera m)</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19770128">28 Gennaio 1977</dataDoc>
+				, n.
+				<numDoc>7</numDoc>
+				<titoloDoc>
+					Modifica alla
+					<rif xlink:href="urn:nir:regione.molise:legge:1975-12-19;47" xlink:type="simple">legge regionale 19 dicembre 1975, n. 47</rif>
+					- Provvidenze per l'acquisto di sementi selezionate.
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>abrogata intera legge dalla legge n. 31/2000 art. 1, primo comma, lettera m)</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+			<?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
  
 
 ?>
-        <annessi>
-            <annesso id="ann1">
-                <testata>
-                    <denAnnesso>
-                        <h:p>   Allegato A</h:p>
-                    </denAnnesso>
-                    <titAnnesso>
-                        <h:p/>
-                    </titAnnesso>
-                    <preAnnesso>
-                        <h:p/>
-                    </preAnnesso>
-                </testata>
-                <DocumentoNIR nome="">
-                    <meta>
-                        <descrittori>
-                            <pubblicazione norm="" num="" tipo="GU"/>
-                            <entratainvigore norm=""/>
-                            <redazione id="ann1-red1" nome="" norm=""/>
-                            <urn valore=""/>
-                        </descrittori><ciclodivita><eventi><evento data="20000514" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple"/></relazioni></ciclodivita>
-                    </meta>
-                    <intestazione/>
-                    <formulainiziale/>
-                    <contenitore id="ann1-" nome="">
-                        <h:p/>
-                        <h:p>MODELLO Dl DOMANDA 
- 
-   </h:p>
-                        <h:p>Alla Regione Molise 
- 
-   </h:p>
-                        <h:p>Assessorato dell'Agricoltura e Foreste 
- 
-   </h:p>
-                        <h:p>Ispettorato Provinciale dell'Agricoltura 
- 
-   </h:p>
-                        <h:p>OGGETTO: Domanda di contributo sulle spese sostenute 
- 
-   </h:p>
-                        <h:p>nell'annata 
- 
-   </h:p>
-                        <h:p>agraria 19. -19 
- 
-   </h:p>
-                        <h:p>per l'acquisto di sementi selezionate di grani duri e di foraggere, 
- 
-   </h:p>
-                        <h:p>in applicazione della legge regionale N. 
-</h:p>
-                        <h:p> 
-     Il sottoscritto 
- 
-   </h:p>
-                        <h:p>nato a 
- 
-   </h:p>
-                        <h:p>il 
- 
-   </h:p>
-                        <h:p>residente nel Comune di 
- 
-   </h:p>
-                        <h:p>Via n nella qualità di (1) 
- 
-   </h:p>
-                        <h:p>e conduttore in (2) dell'azienda denominata 
- 
-         </h:p>
-                        <h:p>estesa Ha  , ricadente 
- 
-     </h:p>
-                        <h:p>nell'agro di      foglio di mappa 
- 
-   </h:p>
-                        <h:p>O particelle e di proprietè di 
- 
-   </h:p>
-                        <h:p>CHIEDE 
- 
-   </h:p>
-                        <h:p>ai termini della legge regionale N         il contributo sulle spese 
- 
-   </h:p>
-                        <h:p>sostenute per l'acquisto delle sementi selezionate sotto indicate, 
- 
-   </h:p>
-                        <h:p>acquistate ed 
- 
-   </h:p>
-                        <h:p>impiegate nell'annata agraria 
- 
-   </h:p>
-                        <h:p>Specie o varietè quantità   Spesa sostenuta 
- 
-   </h:p>
-                        <h:p>- grano duro , 
- 
-   </h:p>
-                        <h:p>- foraggere 
- 
-   </h:p>
-                        <h:p>TOTALE L ? 
-</h:p>
-                        <h:p> 
-   ........................................ 
-</h:p>
-                        <h:p> 
-   (1) Coltivatore diretto, coltivatore lavoratore iscritto negli 
- 
-   </h:p>
-                        <h:p>elenchi anagrafici, presidente cooperativa agricola. 
-</h:p>
-                        <h:p> 
-   (2) Proprietè, affitto, colonia parziale, ecc. 
-</h:p>
-                        <h:p> 
-   Il sottoscritto dichiara sotto la sua personale responsabilitè: 
-</h:p>
-                        <h:p> 
-   a) che le predette sementi sono state utilizzate nei terreni della 
- 
-   </h:p>
-                        <h:p>propria azienda come appresso specificato: 
-</h:p>
-                        <h:p> 
-   Colture Comune Contrada  Superficie 
- 
-   </h:p>
-                        <h:p>- grano duro   Ha. 
-</h:p>
-                        <h:p> 
-   - foraggere 
- 
-   </h:p>
-                        <h:p>- b) che la superficie di Ha. della propria azienda è cosè 
-</h:p>
-                        <h:p> 
-   ripartita per qualità di colture: 
-</h:p>
-                        <h:p> 
-   - seminativi semplici . . . . . . . . . Ha. 
-</h:p>
-                        <h:p> 
-   - seminativi arborati 
- 
-   </h:p>
-                        <h:p>- colture legnose 
- 
-   </h:p>
-                        <h:p>- pascoli, boschi e tare . 
-</h:p>
-                        <h:p> 
-   Superficie totale Ha. 
-</h:p>
-                        <h:p> 
-   Si allegano i seguenti documenti: 
-</h:p>
-                        <h:p> 
-   1) Duplicato valido delle fatture N. , rispettivamente in data 
- 
-   </h:p>
-                        <h:p>2) Cartellini di certificazione del produttore dell'ENSE. 
-</h:p>
-                        <h:p> 
-   Data. 
-</h:p>
-                        <h:p> 
-   (firma del richiedente) 
- 
-   </h:p>
-                        <h:p>PARERE DELL'ISPETTORATO PROVINCIALE 
- 
-   </h:p>
-                        <h:p>DELL'AGRICOLTURA 
- 
-   </h:p>
-                        <h:p>A SEGUITO DEGLI OPPORTUNI ACCERTAMENTI 
- 
-   </h:p>
-                        <h:p>Data, 
- 
-   </h:p>
-                        <h:p>IL CAPO DELL'ISPETTORATO 
- 
- 
-</h:p>
-                        <h:p/>
-                    </contenitore>
-                    <formulafinale/>
-                    <conclusione/>
-                </DocumentoNIR>
-            </annesso>
-        </annessi>
-    </LeggeRegionale>
-</NIR>
+		</LeggeRegionale>
+	</NIR>

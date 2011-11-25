@@ -5,7 +5,7 @@
 			<meta>
 				<descrittori>
 					<pubblicazione norm="19720320" num="3" tipo="BURM" />
-					<entratainvigore norm="19720404" />
+					<entratainvigore norm="19720321" />
 					<redazione id="red1" nome="" norm="" />
 					<urn valore="urn:nir:regione.molise:legge:1972-02-16;2" />
 					<materie vocabolario="Regione Molise">
@@ -15,8 +15,10 @@
 				<ciclodivita>
 					<eventi>
 						<evento data="19911115" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="19720321" fonte="ro1" id="t2" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1972-02-16;2" xlink:type="simple" />
 						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1991;18" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
@@ -117,7 +119,6 @@ Modificato art. 19 dalla legge n. 18/1991 art. 2
 							<num />
 							<corpo>Tutti gli atti ed i provvedimenti emessi in applicazione della presente legge sono notificati con le modalitè e dagli organi previsti dalla normativa statale.</corpo>
 						</comma>
-						
 					</articolo>
 				</titolo>
 				<titolo id="tit2">
@@ -202,7 +203,6 @@ Modificato art. 19 dalla legge n. 18/1991 art. 2
 								. L'interruzione e la sospensione della prescrizione operano nei casi e nei limiti previsti dalle leggi dello Stato.
 							</corpo>
 						</comma>
-						
 					</articolo>
 				</titolo>
 				<titolo id="tit3">
@@ -259,7 +259,6 @@ Modificato art. 19 dalla legge n. 18/1991 art. 2
 								del presente articolo, si incorre in una soprattassa pari al dieci per cento della tassa dovuta.
 							</corpo>
 						</comma>
-						
 					</articolo>
 				</titolo>
 				<titolo id="tit4">
@@ -326,7 +325,6 @@ Modificato art. 19 dalla legge n. 18/1991 art. 2
 							<num />
 							<corpo>Il conducente ed il proprietario del veicolo sono solidalmente obbligati al pagamento delle pene pecuniarie indicate nella Tabella stessa.</corpo>
 						</comma>
-						
 					</articolo>
 				</titolo>
 				<titolo id="tit5">
@@ -375,7 +373,6 @@ Modificato art. 19 dalla legge n. 18/1991 art. 2
 								e successive modificazioni ed integrazioni.
 							</corpo>
 						</comma>
-						
 					</articolo>
 				</titolo>
 				<titolo id="tit6">
@@ -562,7 +559,6 @@ Modificato art. 19 dalla legge n. 18/1991 art. 2
 								e 31.
 							</corpo>
 						</comma>
-						
 					</articolo>
 				</titolo>
 				<titolo id="tit7">
@@ -613,7 +609,6 @@ Modificato art. 19 dalla legge n. 18/1991 art. 2
 							<num />
 							<corpo>Avverso detta ordinanza l'azione giudiziaria dinanzi al giudice ordinario deve essere proposta, a pena di decadenza, entro sei mesi dalla notificazione.</corpo>
 						</comma>
-						
 					</articolo>
 				</titolo>
 				<titolo id="tit8">
@@ -640,15 +635,10 @@ Modificato art. 19 dalla legge n. 18/1991 art. 2
 								, è dichiarata urgente ed entra in vigore il giorno successivo alla sua pubblicazione.
 							</corpo>
 						</comma>
-						<comma id="art39-com2">
-							<num />
-							<corpo>La stessa sarè pubblicata sul Bollettino Ufficiale della Regione. E' fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</corpo>
-						</comma>
 					</articolo>
 				</titolo>
 			</articolato>
-			<formulafinale />
+			<formulafinale>La stessa sarà pubblicata sul Bollettino Ufficiale della Regione. E' fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
 			<conclusione />
-			
 		</LeggeRegionale>
 	</NIR>

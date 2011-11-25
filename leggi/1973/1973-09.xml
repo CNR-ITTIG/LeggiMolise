@@ -5,7 +5,7 @@
 			<meta>
 				<descrittori>
 					<pubblicazione norm="19730604" num="16" tipo="BURM" />
-					<entratainvigore norm="19730619" />
+					<entratainvigore norm="19730607" />
 					<redazione id="red1" nome="" norm="" />
 					<urn valore="urn:nir:regione.molise:legge:1973-05-30;9" />
 					<materie vocabolario="Regione Molise">
@@ -15,8 +15,10 @@
 				<ciclodivita>
 					<eventi>
 						<evento data="19730619" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="19730607" fonte="ro1" id="t2" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1973-05-30;9" xlink:type="simple" />
 						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1973;10" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
@@ -116,16 +118,9 @@ Modificato art. 6-bis dalla legge n. 10/1973 art. 2
 							, ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione.
 						</corpo>
 					</comma>
-					<comma id="art8-com2">
-						<num />
-						<corpo>La presente legge è pubblicata sul Bollettino Ufficiale della Regione.</corpo>
-					</comma>
 				</articolo>
 			</articolato>
-			<formulafinale />
+			<formulafinale>La presente legge è pubblicata sul Bollettino Ufficiale della Regione. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise.</formulafinale>
 			<conclusione />
-			<?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
-
-?>
 		</LeggeRegionale>
 	</NIR>

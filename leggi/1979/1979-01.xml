@@ -1,18 +1,33 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19790116" num="1" tipo="BURM"/>
-                <entratainvigore norm="19790131"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1979-01-04;1"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="19790131" fonte="rp1" id="t1" tipo="modifica"/><evento data="19980829" fonte="rp2" id="t2" tipo="modifica"/><evento data="20051025" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1979;02" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1998;13" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2005;33" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19790116" num="1" tipo="BURM" />
+					<entratainvigore norm="19790117" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1979-01-04;1" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19790131" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="19980829" fonte="rp2" id="t2" tipo="modifica" />
+						<evento data="20051025" fonte="rp3" id="t3" tipo="modifica" />
+						<evento data="19790117" fonte="ro1" id="t4" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1979-01-04;1" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1979;02" xlink:type="simple" />
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1998;13" xlink:type="simple" />
+						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2005;33" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
 Bollettino Ufficiale n. 01 del 16/01/79 
@@ -32,833 +47,815 @@ Modificato art. 24 dalla legge n. 13/1998 art. 1
 Modificato art. 27 dalla legge n. 33/2005 art. 1 
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19790104">4 Gennaio 1979</dataDoc>, n. <numDoc>1</numDoc>
-
-            <titoloDoc>Regionalizzazione dell'Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise &lt;&lt; G. Caporale &gt;&gt;, ai sensi della <rif xlink:href="urn:nir:stato:legge:1975-12-23;745">legge 23 dicembre 1975, n. 745</rif>
-            </titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1 </num>
-                <comma id="art1-com1">
-                    <num/>
-
-                    <corpo>
-L'organizzazione e la gestione dell'Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise sono disciplinate, in attuazione della <rif xlink:href="urn:nir:stato:legge:1975-12-23;745">legge 23 dicembre 1975, n. 745</rif>, secondo le norme dell'accordo allegato alla presente legge, che forma parte integrante della stessa. </corpo>
-                </comma>
-                <comma id="art1-com2">
-                    <num/>
-                    <corpo>Eventuali modificazioni alla predetta disciplina saranno disposte sulla base di accordi fra le Regioni Abruzzo e Molise approvati  con legge regionale. </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2 </num>
-                <comma id="art2-com1">
-                    <num/>
-                    <corpo>
-Per l'elezione dei rappresentanti della Regione Molise in seno al Consiglio di Amministrazione dell'Istituto, si procede con scheda limitata a due nomi. </corpo>
-                </comma>
-                <comma id="art2-com2">
-                    <num/>
-                    <corpo>Per la designazione dei componenti del Consiglio Sindacale, si procede con voto limitato a un nome. </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art. 3 </num>
-                <comma id="art3-com1">
-                    <num/>
-                    <corpo>
-I componenti effettivi e supplenti del Comitato di Vigilanza e di Controllo vengono eletti con votazione separata e con voto limitato ad uno. </corpo>
-                </comma>
-                <comma id="art3-com2">
-                    <num/>
-                    <corpo>Un dipendente della Regione Abruzzo, con qualifica non inferiore a istruttore, esercita le funzioni di Segretario.I Componenti ed il Segretario del Comitato sono nominati con decreto del Presidente della Regione Abruzzo. </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>Art. 4 </num>
-                <comma id="art4-com1">
-                    <num/>
-
-                    <corpo>
-Al finanziamento dell'onere globale di L. 350.900.000 a carico della Regione Molise ai sensi del 2è comma dell'art. 29 dell'accordo allegato, coperto con quota dei fondi attribuiti alla Regione ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1970-05-16;281#art8">art. 8 della legge 16 maggio 1970, n. 281</rif>, si provvede per l'anno 1978 mediante riduzione di L. 175.450.000 dello stanziamento di competenza e di cassa iscritto al capitolo 5520 e l'incremento di pari importo del capitolo 3510 dello stato di previsione della spesa del bilancio   per l'esercizio finanziario 1978 &lt;&lt; contributi della Regione all'istituto Zooprofilattico per l'Abruzzo e il Molise con sede in Teramo &gt;&gt;. </corpo>
-                </comma>
-                <comma id="art4-com2">
-                    <num/>
-
-                    <corpo>L'entitè della spesa a carico del bilancio regionale della Regione Molise, relativa agli anni 1979 e successivi, sarè determinata con leggi approvate dei rispettivi bilanci di previsione, ai sensi   dell'<rif xlink:href="urn:nir:regione.molise:legge:1977-12-03;44#art6">art. 6 della legge regionale 3 dicembre 1977, n. 44</rif>. </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art5">
-                <num>Art. 5 </num>
-                <comma id="art5-com1">
-                    <num/>
-
-                    <corpo>
-La presente legge è dichiarata urgente ai sensi dell'<rif
-                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione. 
- 
-è fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise.</corpo>
-                </comma>
-                <comma id="art5-com2">
-                    <num/>
-                    <corpo>ACCORDO TRA LA REGIONE ABRUZZO E LA REGIONE MOLISE PER L'ORGANIZZAZIONE E LA GESTIONE DELL'ISTITUTO ZOOPROFILATTICO SPERIMENTALE 
- </corpo>
-                </comma>
-                <comma id="art5-com3">
-                    <num/>
-                    <corpo>
-                        <rif xlink:href="#art1">Art. 1</rif>: Esercizio delle funzioni 
- 
-Le Regioni Abruzzo e Molise esercitano le funzioni amministrative sull'Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise, previste dalle leggi 23 giugno 1970, n. 503 e 11 marzo 1974, n. 101. </corpo>
-                </comma><?error Marker Warning 103 (last articolo:5 next:1)?>
-                <comma id="art5-com4">
-                    <num/>
-                    <corpo>Le modalitè per l'esercizio di tali funzioni e per la gestione comune dell'Istituto sono disciplinate dal presente accordo. </corpo>
-                </comma>
-                <comma id="art5-com5">
-                    <num/>
-                    <corpo>
-                        <rif xlink:href="#art2">Art. 2</rif>: Natura giuridica e sede dell'istituto 
- 
-L'Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise, con sede in Teramo, è Ente di diritto pubblico a carattere interregionale, denominato Istituto Zooprofilattico Sperimentale   dell'Abruzzo e del Molise  &lt;&lt; G. Caporale &gt;&gt;. </corpo>
-                </comma>
-                <comma id="art5-com6">
-                    <num/>
-                    <corpo>Le Regioni Abruzzo e Molise si avvalgono dell'Istituto Zooprofilattico Sperimentale quale strumento operativo di ricerca tecnico-scientifica e di erogazione di servizi di sanitè pubblica   veterinaria, di zoo-economia e di formazione professionale degli operatori e delle maestranze di questi tre settori di attivitè tecnico-economiche in ambito regionale. </corpo>
-                </comma>
-                <comma id="art5-com7">
-                    <num/>
-                    <corpo>L'istituto è articolato in sezioni provinciali zooprofilattiche con sedi in Avezzano, Campobasso, Isernia, Lanciano, Pescara e in due sezioni per la ricerca ed il controllo dei prodotti ittici con   sedi in Pescara e Termoli. </corpo>
-                </comma>
-                <comma id="art5-com8">
-                    <num/>
-                    <corpo>
-                        <mod id="art5-com8-mod1">All'istituzione di nuove sezioni provinciali ed all'eventuale soppressione di quelle esistenti si provvede con legge delle due Regioni interessate, sentito il Comitato Tecnico. </mod>
-                    </corpo>
-                </comma>
-                <comma id="art5-com9">
-                    <num/>
-                    <alinea>
-                        <rif
-                            xlink:href="#art3">Art. 3</rif>: Compiti 
- 
-All'Istituto Zooprofilattico competono le attribuzioni di cui all'<rif xlink:href="urn:nir:stato:legge:1975-12-23;745#art4">art. 4 della legge 23 dicembre 1975, n. 745</rif>. Sono inoltre allo stesso devolute le seguenti attribuzioni: 
- 
-</alinea>
-                    <el id="art5-com9-leta">
-                        <num>a)</num>
-                        <corpo> informazione ed educazione sanitaria dei consumatori sui prodotti di origine animale;</corpo>
-                    </el>
-                    <el id="art5-com9-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> aggiornamento e qualificazione professionale dei tecnici adibiti alle attivitè inerenti la zoosanitè e la zoo economia anche in attuazione di regolamenti e direttive comunitarie debitamente recepite;</corpo>
-                    </el>
-                    <el id="art5-com9-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> cooperazione tecnico-scientifica con enti ed istituti operanti nel campo della zootecnia;</corpo>
-                    </el>
-                    <el id="art5-com9-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> cooperazione tecnico-scientifica con enti ed istituzioni di ricerca biomedica operanti nel territorio delle regioni interessate;</corpo>
-                    </el>
-                    <el id="art5-com9-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> servizi di consulenza ed assistenza tecnica nei campi della   sanitè pubblica veterinaria agli operatori, agli Enti, alle organizzazioni professionali, alle cooperative e servizi zooprofilattici, zooeconomici, di sanitè pubblica e della pesca operanti in ambito regionale;</corpo>
-                    </el>
-                    <el id="art5-com9-letf">
-                        <num> 
- 
-f)</num>
-                        <corpo> produzione di prodotti biologici occorrenti all'esercizio della polizia veterinaria e per attuare i piani di risanamento ed il miglioramento delle produzioni zootecniche;</corpo>
-                    </el>
-                    <el id="art5-com9-letg">
-                        <num> 
- 
-g)</num>
-                        <corpo> formulazione di proposte di piani di miglioramento ed incremento zootecnico e dell'allevamento, nonchè d'intervento sulle strutture, anche in attuazione di direttive e regolamenti nazionali e comunitari con suggerimento delle norme per l'erogazione di contributi e di incentivi;</corpo>
-                    </el>
-                    <el id="art5-com9-leth">
-                        <num> 
- 
-h)</num>
-                        <corpo> il servizio di laboratorio per gli esami e le analisi necessarie al controllo igienico-sanitario ed annonario dei prodotti della pesca freschi e conservati, anche ai fini della loro tutela dall'inquinamento, dallo sfruttamento irrazionale e da ogni altra forma di degradazione;</corpo>
-                    </el>
-                    <el id="art5-com9-leti">
-                        <num> 
- 
-i)</num>
-                        <corpo> la ricerca sperimentale sulla produzione, trasporto, commercializzazione, conservazione, lavorazione e trasformazione dei pesci e di altri animali acquatici commestibili. L'Istituto esprime pareri in ordine ai problemi inerenti ai servizi zooprofilattici, zoo-economici e sanitari, regionali e locali.Per l'espletamento dei compiti di cui al presente articolo, con l'esclusione di quelli previsti alle lettere d) ed f), l'Istituto non puè richiedere alcun pagamento, neppure a titolo di rimborso   spese. </corpo>
-                    </el>
-                </comma>
-                <comma id="art5-com10">
-                    <num/>
-                    <corpo>L'Istiuto Zooprofilattico svolge, altresè, qualsiasi altro compito che gli venga affidato dalle Regioni interessate. </corpo>
-                </comma>
-                <comma id="art5-com11">
-                    <num/>
-                    <corpo>
-                        <rif xlink:href="#art4">Art. 4</rif>: Organi 
- 
-Sono organi dell'Istituto: il Consiglio di amministrazione, la Giunta esecutiva, il Presidente, il Collegio sindacale. </corpo>
-                </comma>
-                <comma id="art5-com12">
-                    <num/>
-                    <corpo>Il Comitato tecnico-scientifico e il Direttore generale sono organi ausiliari dell'Ente. </corpo>
-                </comma>
-                <comma id="art5-com13">
-                    <num/>
-                    <alinea>
-                        <rif xlink:href="#art5">Art. 5</rif>: Composizione del Consiglio di amministrazione 
- 
-Il Consiglio di amministrazione dell'Istituto è composto:</alinea>
-                    <ep>
-                        <num>-</num>
-                        <corpo> dai sei membri, di cui tre per ciascuna Regione, eletti dai rispettivi Consigli regionali; 
- 
-- da sei membri, tre per ciascuna Regione, designati dalle Confederazioni sindacali dei lavoratori dipendenti maggiormente rappresentative a livello nazionale; 
- 
-- da sei membri, tre par ciascuna Regione, designati dalle Organizzazioni professionali e dei lavoratori autonomi dell'agricoltura maggiormente rappresentative a livello nazionale.</corpo>
-                    </ep>
-                </comma>
-                <comma id="art5-com14">
-                    <num/>
-                    <corpo>Partecipa alle sedute del Consiglio di Amministrazione, con voto consultivo, il Direttore. Il Segretario Amministrativo dell'Istituto svolge le funzioni di Segretario. </corpo>
-                </comma>
-                <comma id="art5-com15">
-                    <num/>
-                    <corpo>Il Consiglio di Amministrazione è nominato con decreto del Presidente della Giunta Regionale dell'Abruzzo e dura in carica cinque anni. </corpo>
-                </comma>
-                <comma id="art5-com16">
-                    <num/>
-                    <corpo>Per la validitè delle adunanze del Consiglio di Amministrazione occorre la maggioranza assoluta dei componenti assegnati. </corpo>
-                </comma>
-                <comma id="art5-com17">
-                    <num/>
-                    <corpo>Il Consiglio di amministrazione delibera validamente a maggioranza dei presenti. </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art6">
-                <num>Art. 6</num>
-                <rubrica>: Incompatibilitè 
-</rubrica>
-                <comma id="art6-com1">
-                    <num/>
-                    <alinea> 
-Non possono far parte del Consiglio di Amministrazione: 
- 
-</alinea>
-                    <en id="art6-com1-num1">
-                        <num>1)</num>
-                        <corpo> coloro che non sono in possesso della cittadinanza italiana, dei diritti civili e non sono iscritti alle liste elettorali;</corpo>
-                    </en>
-                    <en id="art6-com1-num2">
-                        <num> 
- 
-2)</num>
-                        <corpo> coloro che ricevono uno stipendio dall'istituto Zooprofilattico;</corpo>
-                    </en>
-                    <en id="art6-com1-num3">
-                        <num> 
- 
-3)</num>
-                        <corpo> coloro che hanno il maneggio del denaro dell'Ente e non ne hanno ancora reso il conto;</corpo>
-                    </en>
-                    <en id="art6-com1-num4">
-                        <num> 
- 
-4)</num>
-                        <corpo> coloro che hanno liti pendenti con l'Ente o debiti verso il medesimo o siano in mora con i pagamenti;</corpo>
-                    </en>
-                    <en id="art6-com1-num5">
-                        <num> 
- 
-5)</num>
-                        <corpo> gli ascendenti, ovvero parenti ed affini fino al quarto grado del tesoriere, degli assuntori di appalti, dei somministratori di servizi nell'interesse dell'Ente;</corpo>
-                    </en>
-                    <en id="art6-com1-num6">
-                        <num> 
- 
-6)</num>
-                        <corpo> coloro che direttamente hanno parte in servizi, esazioni di diritto, somministrazioni o appalti nell'interesse dell'Ente;</corpo>
-                    </en>
-                    <en id="art6-com1-num7">
-                        <num> 
- 
-7)</num>
-                        <corpo> i componenti dell'organo di vigilanza di cui all'art. 25 della presente legge;</corpo>
-                    </en>
-                    <en id="art6-com1-num8">
-                        <num> 
- 
-8)</num>
-                        <corpo> i dipendenti delle Regioni Abruzzo e Molise.Art. 7: Perdita della qualità di componente del Consiglio di amministrazione. </corpo>
-                    </en>
-                </comma>
-                <comma id="art6-com2">
-                    <num/>
-                    <alinea>La qualità di componente del Consiglio di Amministrazione viene a cessare, oltre che per morte e scioglimento del Consiglio: 
- 
-</alinea>
-                    <el id="art6-com2-leta">
-                        <num>a)</num>
-                        <corpo> per scadenza del mandato;</corpo>
-                    </el>
-                    <el id="art6-com2-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> per il verificarsi di uno dei casi di impedimento o di incompatibilitè o di incapacitè;</corpo>
-                    </el>
-                    <el id="art6-com2-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> per dimissioni volontarie. </corpo>
-                    </el>
-                </comma>
-                <comma id="art6-com3">
-                    <num/>
-                    <corpo>Art. 8: Decadenza 
- 
-I componenti del Consiglio di Amministrazione che non intervengono, senza giustificato motivo, a tre sedute consecutive, decadono dalla carica. </corpo>
-                </comma><?error Marker Warning 103 (last articolo:6 next:8)?>
-                <comma id="art6-com4">
-                    <num/>
-                    <corpo>Importano, altresè, decadenza le cause di incompatibilitè previste dalla presente legge, salvo i casi di opzione. </corpo>
-                </comma>
-                <comma id="art6-com5">
-                    <num/>
-                    <corpo>La causa di decadenza è contestata dal Presidente della Giunta Regionale dell'Abruzzo all'interessato, il quale ha dieci giorni di tempo per controdedurre; trascorso tale termine, il Presidente della Giunta Regionale dell'Abruzzo decide definitivamente, sentite le   Giunte delle due Regioni. </corpo>
-                </comma>
-                <comma id="art6-com6">
-                    <num/>
-                    <corpo>Gli Amministratori suddetti decadono di diritto dalla carica quando, con sentenza passata in giudicato, sono stati condannati per uno dei reati che importino la decadenza dalla carica di   amministratore comunale. </corpo>
-                </comma>
-                <comma id="art6-com7">
-                    <num/>
-                    <corpo>Art. 9: Dimissioni 
- 
-Le dimissioni devono essere date per iscritto e, sin dal momento della loro presentazione, il dimissionario è in diritto di ritenersi esonerato dagli obblighi del suo ufficio. </corpo>
-                </comma>
-                <comma id="art6-com8">
-                    <num/>
-                    <corpo>Il Consiglio di Amministrazione è tenuto a prenderne atto nella prima seduta utile successiva alla data di presentazione. </corpo>
-                </comma>
-                <comma id="art6-com9">
-                    <num/>
-
-                    <corpo>Art. 10: Sostituzione 
- 
-In caso di dimissione, di decadenza, di rinunzia o morte dei componenti, si procede alle sostituzioni con le modalitè previste dal <rif xlink:href="#art5">precedente articolo 5</rif>. </corpo>
-                </comma>
-                <comma id="art6-com10">
-                    <num/>
-                    <corpo>I nuovi nominati restano in carica per il tempo residuo che rimaneva da compiersi dai predecessori. </corpo>
-                </comma>
-                <comma id="art6-com11">
-                    <num/>
-
-                    <corpo>Art. 11: Sospensione individuale 
- 
-La sospensione degli amministratori per giudizio penale è disciplinata in  conformitè alle disposizioni previste dalla <rif xlink:href="urn:nir:stato:legge:1977-06-01;286">legge n. 286 del 1è giugno 1977</rif>. </corpo>
-                </comma>
-                <comma id="art6-com12">
-                    <num/>
-                    <corpo>Art. 12: Scioglimento 
- 
-Il Consiglio di Amministrazione puè essere sciolto, con decreto motivato, dal Presidente della Regione Abruzzo, su deliberazione delle Giunte Regionali dell'Abruzzo e del Molise, quando sia venuta a mancare, per qualsiasi causa, la metè dei componenti il Consiglio, o quando questi violi persistentemente, nonostante diffida, le norme di legge e di regolamento. </corpo>
-                </comma>
-                <comma id="art6-com13">
-                    <num/>
-                    <corpo>Con lo stesso decreto e con le medesime modalitè viene nominato un Commissario straordinario per la provvisoria gestione dell'Ente. </corpo>
-                </comma>
-                <comma id="art6-com14">
-                    <num/>
-                    <corpo>Il Consiglio di amministrazione deve essere ricostituito nel termine di sei mesi dalla data del decreto di scioglimento. </corpo>
-                </comma>
-                <comma id="art6-com15">
-                    <num/>
-                    <alinea>Art. 13: Attribuzioni del consiglio di amministrazione 
- 
-Il Consiglio di Amministrazione provvede alla gestione dell'Ente ed in particolare delibera: 
- 
-</alinea>
-                    <el id="art6-com15-leta">
-                        <num>a)</num>
-                        <corpo> sullo <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto</rif>;</corpo>
-                    </el>
-                    <el id="art6-com15-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> sul bilancio preventivo, sulle eventuali variazioni e sul conto consuntivo;</corpo>
-                    </el>
-                    <el id="art6-com15-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> sui programmi poliennali di attivitè;</corpo>
-                    </el>
-                    <el id="art6-com15-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> sugli atti che comunque impegnino i bilanci per più esercizi;</corpo>
-                    </el>
-                    <el id="art6-com15-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> sull'alienazione ed acquisto di beni immobili costituenti il patrimonio dell'Ente;</corpo>
-                    </el>
-                    <el id="art6-com15-letf">
-                        <num> 
- 
-f)</num>
-
-                        <corpo> sui regolamenti del personale e sulla relativa pianta organica, nonchè sullo stato giuridico e trattamento economico del personale, in armonia con quanto previsto dall'<rif xlink:href="urn:nir:stato:legge:1975-12-23;745#art10">art. 10 della legge 23 dicembre 1975, n. 745</rif>;</corpo>
-                    </el>
-                    <el id="art6-com15-letg">
-                        <num> 
- 
-g)</num>
-                        <corpo> sulla struttura organizzativa dell'Ente, ad eccezione di quanto previsto nell'art. 2, terzo comma;</corpo>
-                    </el>
-                    <el id="art6-com15-leth">
-                        <num> 
- 
-h)</num>
-                        <corpo> sugli atti che comportino spese superiori a lire 100 milioni;</corpo>
-                    </el>
-                    <el id="art6-com15-leti">
-                        <num> 
- 
-i)</num>
-                        <corpo> sui regolamenti di amministrazione, di contabilitè e di funzionamento dell'Istituto;</corpo>
-                    </el>
-                    <el id="art6-com15-letl">
-                        <num> 
- 
-l)</num>
-                        <corpo> sulla nomina del tesoriere;</corpo>
-                    </el>
-                    <el id="art6-com15-letm">
-                        <num> 
- 
-m)</num>
-
-                        <corpo> sulle norme di gestione dei laboratori di produzione e del  centro tori e sulla relativa contabilitè, ai sensi del secondo e <rif xlink:href="urn:nir:stato:legge:1975-12-23;745#art6-com3">terzo comma dell'articolo 6 della legge 23 dicembre 1975, n. 745</rif>;</corpo>
-                    </el>
-                    <el id="art6-com15-letn">
-                        <num> 
- 
-n)</num>
-                        <corpo> sui ricorsi e sulle azioni giudiziarie, sulle liti attive e passive, nonchè sulle relative transazioni;</corpo>
-                    </el>
-                    <el id="art6-com15-leto">
-                        <num> 
- 
-o)</num>
-                        <corpo> sul regolamento interno di funzionamento del Consiglio di Amministrazione. </corpo>
-                    </el>
-                </comma>
-                <comma id="art6-com16">
-                    <num/>
-                    <corpo>Art. 14: Giunta esecutiva 
- 
-La Giunta esecutiva, eletta nel proprio seno dal Consiglio di Amministrazione, è composta dal Presidente del Consiglio stesso e da sei membri, di cui quattro scelti fra quelli designati dai   Consigli regionali, rispettivamente due dell'Abruzzo e due del Molise. </corpo>
-                </comma>
-                <comma id="art6-com17">
-                    <num/>
-                    <corpo>All'elezione si procede con votazioni separate e segrete per ogni binomio. </corpo>
-                </comma>
-                <comma id="art6-com18">
-                    <num/>
-                    <corpo>Risultano eletti coloro che hanno riportato la maggioranza assoluta dei voti. </corpo>
-                </comma>
-                <comma id="art6-com19">
-                    <num/>
-                    <corpo>Se dopo due votazioni nessun candidato abbia ottenuto la maggioranza assoluta, è eletto colui che ha riportato il maggior numero di voti. </corpo>
-                </comma>
-                <comma id="art6-com20">
-                    <num/>
-                    <corpo>A paritè di voti è eletto il più anziano di etè. </corpo>
-                </comma>
-                <comma id="art6-com21">
-                    <num/>
-                    <corpo>Partecipa alle sedute della Giunta esecutiva con voto consultivo, il Direttore. Il Segretario Amministrativo dell'Istituto svolge le funzioni di Segretario. </corpo>
-                </comma>
-                <comma id="art6-com22">
-                    <num/>
-                    <corpo>Per la validitè delle sedute è richiesta la presenza di almeno quattro membri. Le decisioni vengono adottate a maggioranza di voti. </corpo>
-                </comma>
-                <comma id="art6-com23">
-                    <num/>
-                    <corpo>Art. 15: Attribuzioni della Giunta esecutiva 
- 
-La Giunta esecutiva è l'organo di gestione e di esecuzione delle delibere adottate dal Consiglio di Amministrazione. </corpo>
-                </comma>
-                <comma id="art6-com24">
-                    <num/>
-                    <alinea>Essa provvede a: 
- 
-</alinea>
-                    <el id="art6-com24-leta">
-                        <num>a)</num>
-                        <corpo> predisporre il bilancio preventivo;</corpo>
-                    </el>
-                    <el id="art6-com24-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> predisporre il conto consuntivo;</corpo>
-                    </el>
-                    <el id="art6-com24-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> proporre al Consiglio di Amministrazione i provvedimenti di  variazione al bilancio;</corpo>
-                    </el>
-                    <el id="art6-com24-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> deliberare la nomina, la progressione di carriera, il trattamento economico ed il collocamento a riposo del personale dell'Istituto, secondo le norme del Regolamento;</corpo>
-                    </el>
-                    <el id="art6-com24-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> deliberare i contratti, le convenzioni e le spese nell'ambito degli stanziamenti di bilancio;</corpo>
-                    </el>
-                    <el id="art6-com24-letf">
-                        <num> 
- 
-f)</num>
-
-                        <corpo> deliberare le modalitè per la vendita agli allevatori dei prodotti di cui all'<rif xlink:href="urn:nir:stato:legge:1975-12-23;745#art5">art. 5 della legge 23 dicembre 1975, n. 745</rif> per la commercializzazione dei prodotti medesimi;</corpo>
-                    </el>
-                    <el id="art6-com24-letg">
-                        <num> 
- 
-g)</num>
-                        <corpo> deliberare le modalitè e il prezzo di cessione del seme per fecondazione artificiale. </corpo>
-                    </el>
-                </comma>
-                <comma id="art6-com25">
-                    <num/>
-                    <corpo>Art. 16: Il Presidente 
- 
-Il Presidente è scelto ogni quinquennio tra i membri eletti dai Consigli regionali dell'Abruzzo e del Molise, in rappresentanza delle rispettive Regioni. </corpo>
-                </comma>
-                <comma id="art6-com26">
-                    <num/>
-                    <corpo>Il Presidente è eletto nella prima seduta del Consiglio di Amministrazione, a scrutinio segreto e a maggioranza assoluta di voti. </corpo>
-                </comma>
-                <comma id="art6-com27">
-                    <num/>
-                    <corpo>Il Presidente dura in carica quanto il Consiglio di Amministrazione che lo ha eletto. </corpo>
-                </comma>
-                <comma id="art6-com28">
-                    <num/>
-                    <corpo>Art. 17: Sostituzione del Presidente 
- 
-La Giunta esecutiva provvede alla designazione del Vice Presidente, con il compito di sostituire il Presidente in caso di assenza o impedimento. </corpo>
-                </comma>
-                <comma id="art6-com29">
-                    <num/>
-                    <corpo>In caso di sua assenza o impedimento, il Vice Presidente viene sostituito dal membro della Giunta più anziano di etè. </corpo>
-                </comma>
-                <comma id="art6-com30">
-                    <num/>
-
-                    <corpo>Art. 18: Attribuzioni del Presidente 
- 
-Il Presidente ha la legale rappresentanza dell'Ente, convoca e presiede il Consiglio di Amministrazione e la Giunta esecutiva, firma gli atti che comportano impegni ed esercita tutte le altre attribuzioni dovutegli dalle leggi, dallo <rif xlink:href="urn:nir:regione.molise:statuto:">statuto</rif> e dai regolamenti.Formula l'ordine del giorno del Consiglio di Amministrazione, sentita la Giunta esecutiva, ed inserisce gli argomenti la cui   discussione sia proposta da singoli consiglieri. </corpo>
-                </comma>
-                <comma id="art6-com31">
-                    <num/>
-                    <corpo>Il Presidente è tenuto, altresè, a convocare il Consiglio di  Amministrazione su richiesta di almeno un terzo dei Consiglieri assegnati; in tal caso la seduta deve aver luogo entro venti giorni. </corpo>
-                </comma>
-                <comma id="art6-com32">
-                    <num/>
-                    <corpo>Art. 19: Composizione del Collegio sindacale 
- 
-Il Collegio sindacale è composto da un Presidente, scelto dal Presidente della Regione Abruzzo tra gli iscritti all'Albo Ufficiale dei Revisori dei Conti, da due componenti effettivi e da due  supplenti. </corpo>
-                </comma>
-                <comma id="art6-com33">
-                    <num/>
-                    <corpo>I Consigli regionali dell'Abruzzo e del Molise, con voto limitato ad un nome, designano ciascuno due componenti del Collegio sindacale. </corpo>
-                </comma>
-                <comma id="art6-com34">
-                    <num/>
-                    <corpo>Assolve le funzioni di componente effettivo colui che avrè riportato il maggior numero di voti, il secondo designato assolve le funzioni di componente supplente con diritto di partecipazione alle sedute del Collegio. </corpo>
-                </comma>
-                <comma id="art6-com35">
-                    <num/>
-                    <corpo>Il Collegio sindacale è nominato con decreto del Presidente della Giunta Regionale dell'Abruzzo e dura in carica cinque anni. </corpo>
-                </comma>
-                <comma id="art6-com36">
-                    <num/>
-                    <corpo>Art. 20: Attribuzioni del Collegio sindacale 
- 
-Il Collegio sindacale svolge le funzioni di vigilanza sulla gestione economica e finanziaria dell'Ente, esamina i bilanci, predispone le opportune relazioni. Accerta la regolare tenuta dei   libri e delle scritture contabili ed effettua verifiche di cassa trimestrali. </corpo>
-                </comma>
-                <comma id="art6-com37">
-                    <num/>
-                    <corpo>I membri del Collegio partecipano alle riunioni del Consiglio di amministrazione. </corpo>
-                </comma>
-                <comma id="art6-com38">
-                    <num/>
-                    <alinea>Art. 21: Composizione del Comitato Tecnico-Scientifico 
- 
-Il Comitato Tecnico-Scientifico è composto dal Direttore dell'Istituto che lo presiede, ed inoltre: 
- 
-</alinea>
-                    <el id="art6-com38-leta">
-                        <num>a)</num>
-                        <corpo> da sei dipendenti dell'Istituto Zooprofilattico Sperimentale di cui tre tecnici laureati, due tecnici ed un operaio tecnico eletti in assemblea generale dal personale dell'Istituto;</corpo>
-                    </el>
-                    <el id="art6-com38-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> da otto esperti nelle discipline tecnico-scientifiche che interessano l'attivitè dell'Istituto, designati in pari numero da ciascun Consiglio regionale. </corpo>
-                    </el>
-                </comma>
-                <comma id="art6-com39">
-                    <num/>
-                    <corpo>Il Comitato Tecnico-Scientifico è nominato dal Consiglio di Amministrazione dell'Istituto Zooprofilattico Sperimentale e dura in carica quanto l'organo che lo ha nominato. </corpo>
-                </comma>
-                <comma id="art6-com40">
-                    <num/>
-                    <alinea>Art. 22: Attribuzioni del Comitato Tecnico-Scientifico 
- 
-Il Comitato Tecnico-Scientifico esprime parere: 
- 
-</alinea>
-                    <el id="art6-com40-leta">
-                        <num>a)</num>
-                        <corpo> sui programmi generali di attivitè: 
- </corpo>
-                    </el>
-                </comma>
-                <comma id="art6-com41">
-                    <num/>
-                    <corpo>
-                        <mod id="art6-com41-mod2">b) sui programmi di acquisto di attrezzature che rivestano particolare importanza diagnostica e scientifica; 
- 
-c) sull'istituzione, soppressione e modificazione di settori, laboratori, reparti e sulla determinazione delle tariffe per le prestazioni sanitarie a pagamento. </mod>
-                    </corpo>
-                </comma>
-                <comma id="art6-com42">
-                    <num/>
-                    <corpo>Esprime, inoltre, parere su ogni altra questione che gli viene sottoposta dal Direttore e dagli organi deliberanti dell'Ente. </corpo>
-                </comma>
-                <comma id="art6-com43">
-                    <num/>
-                    <corpo>Art. 23: Organizzazione 
- 
-La sede centrale dell'Istituto Zooprofilattico e le Sezioni provinciali possono articolarsi in Settori e Laboratori. </corpo>
-                </comma>
-                <comma id="art6-com44">
-                    <num/>
-                    <corpo>Il laboratorio è l'unitè organica fondamentale. </corpo>
-                </comma>
-                <comma id="art6-com45">
-                    <num/>
-                    <corpo>Due o più laboratori affini sono riuniti in settori, per lo svolgimento di compiti omogenei. </corpo>
-                </comma>
-                <comma id="art6-com46">
-                    <num/>
-                    <corpo>L'istituzione di nuovi laboratori, oltre quelli già esistenti, deliberata ai sensi dell'art. 13 lett. g) del presente accordo, deve essere approvata dalle Giunte Regionali dell'Abruzzo e del Molise, sentite le competenti Commissioni Consiliari. </corpo>
-                </comma>
-                <comma id="art6-com47">
-                    <num/>
-                    <corpo>Per l'attivitè di riproduzione animale e fecondazione artificiale, nonchè per quella di produzione dei prodotti biologici, l'Istituto deve istituire appositi servizi con impianti, attrezzature, personale e gestione contabile separati dagli altri Laboratori. </corpo>
-                </comma>
-                <comma id="art6-com48">
-                    <num/>
-                    <corpo>Alla direzione dell'Istituto è preposto un direttore laureato in medicina veterinaria, che sovraintende al funzionamento dei servizi tecnici e generali. </corpo>
-                </comma>
-                <comma id="art6-com49">
-                    <num/>
-                    <corpo>Alla direzione delle Sezioni provinciali dell'Istituto sono preposti laureati in Medicina veterinaria, che sovraintendono al funzionamento dei servizi tecnici e generali a livello provinciale   nell'ambito delle direttive emanate dal Direttore dell'Istituto, in esecuzione dei programmi formulati dal Consiglio di Amministrazione, sentito il Comitato Tecnico-Scientifico. </corpo>
-                </comma>
-                <comma id="art6-com50">
-                    <num/>
-                    <corpo>Il Consiglio di Amministrazione, nell'approvare il regolamento per l'ordinamento interno, deve attenersi a principi stabiliti nei comma precedenti. </corpo>
-                </comma>
-                <comma id="art6-com51">
-                    <num/>
-                    <corpo>Art. 24: indennità ai componenti degli organi dell'Ente 
- 
-Ai componenti del Consiglio di Amministrazione e del Comitato Tecnico-Scientifico, che non siano dipendenti dell'Istituto e delle Regioni interessate, per ogni giornata di partecipazione alle sedute, spetta un gettone di presenza di L. 15.000. </corpo>
-                </comma>
-                <comma id="art6-com52">
-                    <num/>
-                    <corpo>Al Presidente del Consiglio e della Giunta esecutiva spetta un'indennità di funzione di L. 200.000 mensili. </corpo>
-                </comma>
-                <comma id="art6-com53">
-                    <num/>
-                    <corpo>Ai componenti della Giunta esecutiva spetta un'indennità di funzione di L. 90.000 mensili. </corpo>
-                </comma>
-                <comma id="art6-com54">
-                    <num/>
-                    <corpo>Al Presidente del Collegio sindacale spetta un compenso di L.75.000 mensili e ai componenti un compenso di L. 50.000 mensili. </corpo>
-                </comma>
-                <comma id="art6-com55">
-                    <num/>
-
-                    <corpo>Le indennità di cui al secondo, terzo e <rif xlink:href="#art6-com4">quarto comma</rif> non sono cumulabili con il gettone di presenza. </corpo>
-                </comma>
-                <comma id="art6-com56">
-                    <num/>
-                    <corpo>Ai membri del Consiglio di Amministrazione della Giunta esecutiva, del Comitato Tecnico-Scientifico ed ai componenti del Collegio sindacale, spetta, altresè, oltre il rimborso delle spese di viaggio, l'indennità di missione, in quanto dovuta, nella misura e con le modalitè previste dalla vigente normativa statale. </corpo>
-                </comma>
-                <comma id="art6-com57">
-                    <num/>
-
-                    <corpo>Art. 25: Comitato di vigilanza e controllo 
- 
-Le funzioni di vigilanza e di controllo, ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1975-12-23;745#art3">art. 3 della legge 23 dicembre 1975, n. 745</rif> sono esercitate da un Comitato interregionale composto da cinque membri effettivi e due supplenti di cui tre effettivi e uno supplente eletti dal Consiglio Regionale d'Abruzzo e due effettivi e un supplente eletti dal Consiglio Regionale del Molise. </corpo>
-                </comma>
-                <comma id="art6-com58">
-                    <num/>
-                    <corpo>Il Comitato ha sede presso il Settore Igiene e Sanitè della Regione Abruzzo. </corpo>
-                </comma>
-                <comma id="art6-com59">
-                    <num/>
-                    <corpo>Nella prima seduta il Comitato elegge, a scrutinio segreto e a maggioranza assoluta, il Presidente. </corpo>
-                </comma>
-                <comma id="art6-com60">
-                    <num/>
-                    <corpo>Il Componente supplente ha diritto al voto solo in assenza del componente effettivo. </corpo>
-                </comma>
-                <comma id="art6-com61">
-                    <num/>
-                    <corpo>Un dipendente della Regione Abruzzo esercita le funzioni di Segretario. </corpo>
-                </comma>
-                <comma id="art6-com62">
-                    <num/>
-                    <corpo>I Componenti e il Segretario del Comitato sono nominati con decreto del Presidente della Giunta Regionale dell'Abruzzo. </corpo>
-                </comma>
-                <comma id="art6-com63">
-                    <num/>
-                    <corpo>Il Comitato dura in carica cinque anni. </corpo>
-                </comma>
-                <comma id="art6-com64">
-                    <num/>
-                    <corpo>Per la validitè delle deliberazioni si richiede l'intervento di almeno tre membri. Le decisioni debbono essere adottate a maggioranza assoluta di voti. </corpo>
-                </comma>
-                <comma id="art6-com65">
-                    <num/>
-                    <corpo>I provvedimenti adottati dal suddetto Comitato sono definitivi. </corpo>
-                </comma>
-                <comma id="art6-com66">
-                    <num/>
-                    <corpo>Art. 26: Attribuzioni del Comitato di vigilanza 
- 
-Il Comitato di vigilanza esercita il controllo sulla gestione economico-finanziaria dell'Ente. </corpo>
-                </comma>
-                <comma id="art6-com67">
-                    <num/>
-
-                    <corpo>Il controllo sulle deliberazioni concernenti lo <rif xlink:href="urn:nir:regione.molise:statuto:">statuto</rif>, il bilancio preventivo annuale ed i piani pluriennali di attivitè è esercitato, previo parere delle competenti Commissioni Consiliari   permanenti della Regione Abruzzo e del Molise. </corpo>
-                </comma>
-                <comma id="art6-com68">
-                    <num/>
-
-                    <corpo>Sono sottoposte anche al controllo di merito con le modalitè di cui all'<rif
-                            xlink:href="urn:nir:stato:legge:1953-02-10;62#art60">art. 60 della legge 10 febbraio 1953, n. 62</rif>, le deliberazioni concernenti lo <rif xlink:href="urn:nir:regione.molise:statuto:">Statuto</rif>, i programmi pluriennali di attivitè, il regolamento organico del personale e la relativa pianta organica, i regolamenti di amministrazione, di contabilitè, di economato, i regolamenti sui servizi generali e sanitari, il   programma di attivitè dell'Ente, il bilancio di previsione e le relative variazioni, il conto consuntivo, l'alienazione e l'acquisto di immobili, di titoli del debito pubblico di titoli di credito e di azioni, l'accettazione di donazioni, ereditè e legati e le altre trasformazioni e riduzioni del patrimonio superiori a L. 10 milioni. </corpo>
-                </comma>
-                <comma id="art6-com69">
-                    <num/>
-                    <corpo>Le restanti deliberazioni sono inviate in duplice copia al Comitato di Vigilanza e divengono esecutive qualora, entro il termine di trenta giorni dalla data di ricevimento, il Comitato non abbia chiesto chiarimenti o elementi integrativi di giudizio o non ne abbia pronunciato l'annullamento con provvedimento motivato. </corpo>
-                </comma>
-                <comma id="art6-com70">
-                    <num/>
-                    <corpo>La decorrenza del predetto termine è comprovata dal timbro data apposto dall'Ufficio di Segreteria dell'Organo di controllo. </corpo>
-                </comma>
-                <comma id="art6-com71">
-                    <num/>
-                    <corpo>Qualora l'Ente ometta o ritardi un atto obbligatorio, il Comitato di vigilanza, previa diffida, con assegnazione di un termine non  inferiore, di norma, a quindici giorni, puè inviare un commissario   per il compimento dell'atto. </corpo>
-                </comma>
-                <comma id="art6-com72">
-                    <num/>
-                    <corpo>Entro il 31 marzo di ciascun anno il Comitato di vigilanza invia apposita relazione ai Presidenti delle Giunte Regionali dell'Abruzzo e del Molise sui risultati della gestione dell'Ente nell'anno precedente. </corpo>
-                </comma>
-                <comma id="art6-com73">
-                    <num/>
-                    <corpo>Art. 27: indennità ai componenti del Comitato di Vigilanza 
- 
-Ai componenti elettivi del Comitato di vigilanza spetta un gettone di presenza di L. 15.000 per ogni giorno di partecipazione alle sedute nonchè, oltre al rimborso delle spese di viaggio, indennità di missione in quanto dovuta, nella misura e con le modalitè previste dalla vigente normativa statale. </corpo>
-                </comma>
-                <comma id="art6-com74">
-                    <num/>
-                    <corpo>Art. 28: Norme transitorie e finali 
- 
-Entro tre mesi dalla nomina, il Consiglio di Amministrazione dell'Ente deve adottare il regolamento per il funzionamento dei propri organi da sottoporsi all'approvazione dei Consigli Regionali dell'Abruzzo e del Molise che vi provvederanno entro il termine di tre mesi. </corpo>
-                </comma>
-                <comma id="art6-com75">
-                    <num/>
-
-                    <corpo>Nello stesso termine il Consiglio di Amministrazione deve approvare, nel rispetto dell'<rif xlink:href="urn:nir:stato:legge:1975-12-23;745#art10">art. 10 della legge 23 dicembre 1975, n. 745</rif> il regolamento organico del personale, in ogni caso prevedendo la necessitè di pubblico concorso per l'assunzione agli impieghi. </corpo>
-                </comma>
-                <comma id="art6-com76">
-                    <num/>
-                    <corpo>Qualora detto regolamento organico non potesse, per qualsiasi causa, essere deliberato entro il mese di dicembre 1978, il Consiglio di Amministrazione delibera un regolamento organico   provvisorio, da concordare con le Organizzazioni Sindacali dei Lavoratori dipendenti maggiormente rappresentative a livello nazionale. </corpo>
-                </comma>
-                <comma id="art6-com77">
-                    <num/>
-
-                    <corpo>Nel regolamento di cui al precedente comma devono essere dettate norme per l'equiparazione, in sede di primo inquadramento, del trattamento giuridico ed economico del personale dell'Istituto   a quello del personale della Regione Abruzzo previsto dalla <rif xlink:href="urn:nir:regione.molise:legge:1973-08-02;32">legge regionale 2 agosto 1973, n. 32</rif> e in particolare dagli artt. 72 e seguenti della medesima Legge. </corpo>
-                </comma>
-                <comma id="art6-com78">
-                    <num/>
-                    <corpo>Devono essere fatte salve le posizioni economiche e giuridiche già acquisite dal personale comunque in servizio alla data del 31 dicembre 1977. </corpo>
-                </comma>
-                <comma id="art6-com79">
-                    <num/>
-
-                    <corpo>Ai fini della determinazione del trattamento economico successivamente al primo inquadramento si osservano le norme di cui alla <rif xlink:href="urn:nir:regione.abruzzo:legge:1977-05-17;21">legge regionale dell'Abruzzo 17 maggio 1977, n. 21</rif> e quelle   derivanti dall'applicazione degli accordi contrattuali nazionali dei dipendenti regionali. </corpo>
-                </comma>
-                <comma id="art6-com80">
-                    <num/>
-
-                    <corpo>Art. 29: Finanziamento dell'Istituto 
- 
-L'Istituto provvede alla sua attivitè con le quote attribuite alle Regioni Abruzzo e Molise ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1975-12-23;745#art11">art. 11 della legge 23 dicembre 1975, n. 745</rif>. </corpo>
-                </comma>
-                <comma id="art6-com81">
-                    <num/>
-                    <corpo>La restante parte è posta per due terzi a carico della Regione Abruzzo e per un terzo a carico della Regione Molise, che istituiscono idonei stanziamenti annuali di bilancio. </corpo>
-                </comma>
-                <comma id="art6-com82">
-                    <num/>
-                    <corpo>Per l'attuazione delle attivitè e delle iniziative di istituto, l'Ente si puè avvalere anche delle dotazioni finanziarie previste dai provvedimenti comunitari e dalle leggi regionali. </corpo>
-                </comma>
-                <comma id="art6-com83">
-                    <num/>
-                    <corpo>Allo scopo, l'Ente è ammesso a fruire, in via prioritaria, dei contributi, delle sovvenzioni e delle provvidenze previste dalle leggi regionali di intervento in zoosanitè zooeconomia e sanitè   pubblica. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19790104">4 Gennaio 1979</dataDoc>
+				, n.
+				<numDoc>1</numDoc>
+				<titoloDoc>
+					Regionalizzazione dell'Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise &lt;&lt; G. Caporale &gt;&gt;, ai sensi della
+					<rif xlink:href="urn:nir:stato:legge:1975-12-23;745" xlink:type="simple">legge 23 dicembre 1975, n. 745</rif>
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num />
+						<corpo>
+							L'organizzazione e la gestione dell'Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise sono disciplinate, in attuazione della
+							<rif xlink:href="urn:nir:stato:legge:1975-12-23;745" xlink:type="simple">legge 23 dicembre 1975, n. 745</rif>
+							, secondo le norme dell'accordo allegato alla presente legge, che forma parte integrante della stessa.
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num />
+						<corpo>Eventuali modificazioni alla predetta disciplina saranno disposte sulla base di accordi fra le Regioni Abruzzo e Molise approvati con legge regionale.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<comma id="art2-com1">
+						<num />
+						<corpo>Per l'elezione dei rappresentanti della Regione Molise in seno al Consiglio di Amministrazione dell'Istituto, si procede con scheda limitata a due nomi.</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num />
+						<corpo>Per la designazione dei componenti del Consiglio Sindacale, si procede con voto limitato a un nome.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<comma id="art3-com1">
+						<num />
+						<corpo>I componenti effettivi e supplenti del Comitato di Vigilanza e di Controllo vengono eletti con votazione separata e con voto limitato ad uno.</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num />
+						<corpo>Un dipendente della Regione Abruzzo, con qualifica non inferiore a istruttore, esercita le funzioni di Segretario. I Componenti ed il Segretario del Comitato sono nominati con decreto del Presidente della Regione Abruzzo.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<comma id="art4-com1">
+						<num />
+						<corpo>
+							Al finanziamento dell'onere globale di L. 350.900.000 a carico della Regione Molise ai sensi del 2° comma dell'art. 29 dell'accordo allegato, coperto con quota dei fondi attribuiti alla Regione ai sensi dell'
+							<rif xlink:href="urn:nir:stato:legge:1970-05-16;281#art8" xlink:type="simple">art. 8 della legge 16 maggio 1970, n. 281</rif>
+							, si provvede per l'anno 1978 mediante riduzione di L. 175.450.000 dello stanziamento di competenza e di cassa iscritto al capitolo 5520 e l'incremento di pari importo del capitolo 3510 dello stato di previsione della spesa del bilancio per l'esercizio finanziario 1978 &lt;&lt; contributi della Regione all'istituto Zooprofilattico per l'Abruzzo e il Molise con sede in Teramo &gt;&gt;.
+						</corpo>
+					</comma>
+					<comma id="art4-com2">
+						<num />
+						<corpo>
+							L'entitè della spesa a carico del bilancio regionale della Regione Molise, relativa agli anni 1979 e successivi, sarè determinata con leggi approvate dei rispettivi bilanci di previsione, ai sensi dell'
+							<rif xlink:href="urn:nir:regione.molise:legge:1977-12-03;44#art6" xlink:type="simple">art. 6 della legge regionale 3 dicembre 1977, n. 44</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<comma id="art5-com1">
+						<num />
+						<corpo>
+							La presente legge è dichiarata urgente ai sensi dell'
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art127" xlink:type="simple">art. 127 della Costituzione</rif>
+							e dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art38" xlink:type="simple">art. 38 dello Statuto Regionale</rif>
+							ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>Allegato</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:regione.molise:legge:1979-01-04;1:allegato" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<tipoDoc />
+							<dataDoc norm="" />
+							<numDoc />
+							<titoloDoc>ACCORDO TRA LA REGIONE ABRUZZO E LA REGIONE MOLISE PER L'ORGANIZZAZIONE E LA GESTIONE DELL'ISTITUTO ZOOPROFILATTICO SPERIMENTALE</titoloDoc>
+						</intestazione>
+						<formulainiziale />
+						<articolato>
+							<articolo id="ann1-art1">
+								<num>Art. 1</num>
+								<rubrica>Esercizio delle funzioni</rubrica>
+								<comma id="ann1-art1-com1">
+									<num />
+									<corpo>Le Regioni Abruzzo e Molise esercitano le funzioni amministrative sull'Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise, previste dalle leggi 23 giugno 1970, n. 503 e 11 marzo 1974, n. 101.</corpo>
+								</comma>
+								<comma id="ann1-art1-com2">
+									<num />
+									<corpo>Le modalità per l'esercizio di tali funzioni e per la gestione comune dell'Istituto sono disciplinate dal presente accordo.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art2">
+								<num>Art. 2</num>
+								<rubrica>Natura giuridica e sede dell'istituto</rubrica>
+								<comma id="ann1-art2-com1">
+									<num />
+									<corpo>L'Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise, con sede in Teramo, è Ente di diritto pubblico a carattere interregionale, denominato Istituto Zooprofilattico Sperimentale dell'Abruzzo e del Molise &lt;&lt; G. Caporale &gt;&gt;.</corpo>
+								</comma>
+								<comma id="ann1-art2-com2">
+									<num />
+									<corpo>Le Regioni Abruzzo e Molise si avvalgono dell'Istituto Zooprofilattico Sperimentale quale strumento operativo di ricerca tecnico-scientifica e di erogazione di servizi di sanità pubblica veterinaria, di zoo-economia e di formazione professionale degli operatori e delle maestranze di questi tre settori di attività tecnico-economiche in ambito regionale.</corpo>
+								</comma>
+								<comma id="ann1-art2-com3">
+									<num />
+									<corpo>L'istituto è articolato in sezioni provinciali zooprofilattiche con sedi in Avezzano, Campobasso, Isernia, Lanciano, Pescara e in due sezioni per la ricerca ed il controllo dei prodotti ittici con sedi in Pescara e Termoli.</corpo>
+								</comma>
+								<comma id="ann1-art2-com4">
+									<num />
+									<corpo>All'istituzione di nuove sezioni provinciali ed all'eventuale soppressione di quelle esistenti si provvede con legge delle due Regioni interessate, sentito il Comitato Tecnico.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art3">
+								<num>Art. 3</num>
+								<rubrica>Compiti</rubrica>
+								<comma id="ann1-art3-com1">
+									<num />
+									<alinea>All'Istituto Zooprofilattico competono le attribuzioni di cui all'art. 4 della legge 23 dicembre 1975, n. 745. Sono inoltre allo stesso devolute le seguenti attribuzioni:</alinea>
+									<el id="ann1-art3-com1-leta">
+										<num>a)</num>
+										<corpo>informazione ed educazione sanitaria dei consumatori sui prodotti di origine animale;</corpo>
+									</el>
+									<el id="ann1-art3-com1-letb">
+										<num>b)</num>
+										<corpo>aggiornamento e qualificazione professionale dei tecnici adibiti alle attività inerenti la zoosanità e la zoo economia anche in attuazione di regolamenti e direttive comunitarie debitamente recepite;</corpo>
+									</el>
+									<el id="ann1-art3-com1-letc">
+										<num>c)</num>
+										<corpo>cooperazione tecnico-scientifica con enti ed istituti operanti nel campo della zootecnia;</corpo>
+									</el>
+									<el id="ann1-art3-com1-letd">
+										<num>d)</num>
+										<corpo>cooperazione tecnico-scientifica con enti ed istituzioni di ricerca biomedica operanti nel territorio delle regioni interessate;</corpo>
+									</el>
+									<el id="ann1-art3-com1-lete">
+										<num>e)</num>
+										<corpo>servizi di consulenza ed assistenza tecnica nei campi della sanità pubblica veterinaria agli operatori, agli Enti, alle organizzazioni professionali, alle cooperative e servizi zooprofilattici, zooeconomici, di sanità pubblica e della pesca operanti in ambito regionale;</corpo>
+									</el>
+									<el id="ann1-art3-com1-letf">
+										<num>f)</num>
+										<corpo>produzione di prodotti biologici occorrenti all'esercizio della polizia veterinaria e per attuare i piani di risanamento ed il miglioramento delle produzioni zootecniche;</corpo>
+									</el>
+									<el id="ann1-art3-com1-letg">
+										<num>g)</num>
+										<corpo>formulazione di proposte di piani di miglioramento ed incremento zootecnico e dell'allevamento, nonché d'intervento sulle strutture, anche in attuazione di direttive e regolamenti nazionali e comunitari con suggerimento delle norme per l'erogazione di contributi e di incentivi;</corpo>
+									</el>
+									<el id="ann1-art3-com1-leth">
+										<num>h)</num>
+										<corpo>il servizio di laboratorio per gli esami e le analisi necessarie al controllo igienico-sanitario ed annonario dei prodotti della pesca freschi e conservati, anche ai fini della loro tutela dall'inquinamento, dallo sfruttamento irrazionale e da ogni altra forma di degradazione;</corpo>
+									</el>
+									<el id="ann1-art3-com1-leti">
+										<num>i)</num>
+										<corpo>la ricerca sperimentale sulla produzione, trasporto, commercializzazione, conservazione, lavorazione e trasformazione dei pesci e di altri animali acquatici commestibili. L'Istituto esprime pareri in ordine ai problemi inerenti ai servizi zooprofilattici, zoo-economici e sanitari, regionali e locali.Per l'espletamento dei compiti di cui al presente articolo, con l'esclusione di quelli previsti alle lettere d) ed f), l'Istituto non può richiedere alcun pagamento, neppure a titolo di rimborso spese.</corpo>
+									</el>
+								</comma>
+								<comma id="ann1-art3-com2">
+									<num />
+									<corpo>L'Istiuto Zooprofilattico svolge, altresì, qualsiasi altro compito che gli venga affidato dalle Regioni interessate.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art4">
+								<num>Art. 4</num>
+								<rubrica>Organi</rubrica>
+								<comma id="ann1-art4-com1">
+									<num />
+									<corpo>Sono organi dell'Istituto: il Consiglio di amministrazione, la Giunta esecutiva, il Presidente, il Collegio sindacale.</corpo>
+								</comma>
+								<comma id="ann1-art4-com2">
+									<num />
+									<corpo>Il Comitato tecnico-scientifico e il Direttore generale sono organi ausiliari dell'Ente.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art5">
+								<num>Art. 5</num>
+								<rubrica>Composizione del Consiglio di amministrazione</rubrica>
+								<comma id="ann1-art5-com1">
+									<num />
+									<alinea>Il Consiglio di amministrazione dell'Istituto è composto:</alinea>
+									<ep id="ann1-art5-com1-pun1">
+										<num>-</num>
+										<corpo>dai sei membri, di cui tre per ciascuna Regione, eletti dai rispettivi Consigli regionali;</corpo>
+									</ep>
+									<ep id="ann1-art5-com1-pun2">
+										<num>-</num>
+										<corpo>da sei membri, tre per ciascuna Regione, designati dalle Confederazioni sindacali dei lavoratori dipendenti maggiormente rappresentative a livello nazionale;</corpo>
+									</ep>
+									<ep id="ann1-art5-com1-pun3">
+										<num>-</num>
+										<corpo>da sei membri, tre par ciascuna Regione, designati dalle Organizzazioni professionali e dei lavoratori autonomi dell'agricoltura maggiormente rappresentative a livello nazionale.</corpo>
+									</ep>
+								</comma>
+								<comma id="ann1-art5-com2">
+									<num />
+									<corpo>Partecipa alle sedute del Consiglio di Amministrazione, con voto consultivo, il Direttore. Il Segretario Amministrativo dell'Istituto svolge le funzioni di Segretario.</corpo>
+								</comma>
+								<comma id="ann1-art5-com3">
+									<num />
+									<corpo>Il Consiglio di Amministrazione è nominato con decreto del Presidente della Giunta Regionale dell'Abruzzo e dura in carica cinque anni.</corpo>
+								</comma>
+								<comma id="ann1-art5-com4">
+									<num />
+									<corpo>Per la validità delle adunanze del Consiglio di Amministrazione occorre la maggioranza assoluta dei componenti assegnati.</corpo>
+								</comma>
+								<comma id="ann1-art5-com5">
+									<num />
+									<corpo>Il Consiglio di amministrazione delibera validamente a maggioranza dei presenti.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art6">
+								<num>Art. 6</num>
+								<rubrica>Incompatibilità</rubrica>
+								<comma id="ann1-art6-com1">
+									<num />
+									<alinea>Non possono far parte del Consiglio di Amministrazione:</alinea>
+									<en id="ann1-art6-com1-num1">
+										<num>1)</num>
+										<corpo>coloro che non sono in possesso della cittadinanza italiana, dei diritti civili e non sono iscritti alle liste elettorali;</corpo>
+									</en>
+									<en id="ann1-art6-com1-num2">
+										<num>2)</num>
+										<corpo>coloro che ricevono uno stipendio dall'istituto Zooprofilattico;</corpo>
+									</en>
+									<en id="ann1-art6-com1-num3">
+										<num>3)</num>
+										<corpo>coloro che hanno il maneggio del denaro dell'Ente e non ne hanno ancora reso il conto;</corpo>
+									</en>
+									<en id="ann1-art6-com1-num4">
+										<num>4)</num>
+										<corpo>coloro che hanno liti pendenti con l'Ente o debiti verso il medesimo o siano in mora con i pagamenti;</corpo>
+									</en>
+									<en id="ann1-art6-com1-num5">
+										<num>5)</num>
+										<corpo>gli ascendenti, ovvero parenti ed affini fino al quarto grado del tesoriere, degli assuntori di appalti, dei somministratori di servizi nell'interesse dell'Ente;</corpo>
+									</en>
+									<en id="ann1-art6-com1-num6">
+										<num>6)</num>
+										<corpo>coloro che direttamente hanno parte in servizi, esazioni di diritto, somministrazioni o appalti nell'interesse dell'Ente;</corpo>
+									</en>
+									<en id="ann1-art6-com1-num7">
+										<num>7)</num>
+										<corpo>i componenti dell'organo di vigilanza di cui all'art. 25 della presente legge;</corpo>
+									</en>
+									<en id="ann1-art6-com1-num8">
+										<num>8)</num>
+										<corpo>i dipendenti delle Regioni Abruzzo e Molise.</corpo>
+									</en>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art7">
+								<num>Art. 7</num>
+								<rubrica>Perdita della qualità di componente del Consiglio di amministrazione.</rubrica>
+								<comma id="ann1-art7-com1">
+									<num />
+									<alinea>La qualità di componente del Consiglio di Amministrazione viene a cessare, oltre che per morte e scioglimento del Consiglio:</alinea>
+									<el id="ann1-art7-com1-leta">
+										<num>a)</num>
+										<corpo>per scadenza del mandato;</corpo>
+									</el>
+									<el id="ann1-art7-com1-letb">
+										<num>b)</num>
+										<corpo>per il verificarsi di uno dei casi di impedimento o di incompatibilità o di incapacità;</corpo>
+									</el>
+									<el id="ann1-art7-com1-letc">
+										<num>c)</num>
+										<corpo>per dimissioni volontarie.</corpo>
+									</el>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art8">
+								<num>Art. 8</num>
+								<rubrica>Decadenza</rubrica>
+								<comma id="ann1-art8-com1">
+									<num />
+									<corpo>I componenti del Consiglio di Amministrazione che non intervengono, senza giustificato motivo, a tre sedute consecutive, decadono dalla carica.</corpo>
+								</comma>
+								<comma id="ann1-art8-com2">
+									<num />
+									<corpo>Importano, altresì, decadenza le cause di incompatibilità previste dalla presente legge, salvo i casi di opzione.</corpo>
+								</comma>
+								<comma id="ann1-art8-com3">
+									<num />
+									<corpo>La causa di decadenza è contestata dal Presidente della Giunta Regionale dell'Abruzzo all'interessato, il quale ha dieci giorni di tempo per controdedurre; trascorso tale termine, il Presidente della Giunta Regionale dell'Abruzzo decide definitivamente, sentite le Giunte delle due Regioni.</corpo>
+								</comma>
+								<comma id="ann1-art8-com4">
+									<num />
+									<corpo>Gli Amministratori suddetti decadono di diritto dalla carica quando, con sentenza passata in giudicato, sono stati condannati per uno dei reati che importino la decadenza dalla carica di amministratore comunale.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art9">
+								<num>Art. 9</num>
+								<rubrica>Dimissioni</rubrica>
+								<comma id="ann1-art9-com1">
+									<num />
+									<corpo>Le dimissioni devono essere date per iscritto e, sin dal momento della loro presentazione, il dimissionario è in diritto di ritenersi esonerato dagli obblighi del suo ufficio.</corpo>
+								</comma>
+								<comma id="ann1-art9-com2">
+									<num />
+									<corpo>Il Consiglio di Amministrazione è tenuto a prenderne atto nella prima seduta utile successiva alla data di presentazione.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art10">
+								<num>Art. 10</num>
+								<rubrica>Sostituzione</rubrica>
+								<comma id="ann1-art10-com1">
+									<num />
+									<corpo>In caso di dimissione, di decadenza, di rinunzia o morte dei componenti, si procede alle sostituzioni con le modalità previste dal precedente articolo 5.</corpo>
+								</comma>
+								<comma id="ann1-art10-com2">
+									<num />
+									<corpo>I nuovi nominati restano in carica per il tempo residuo che rimaneva da compiersi dai predecessori.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art11">
+								<num>Art. 11</num>
+								<rubrica>Sospensione individuale</rubrica>
+								<comma id="ann1-art11-com1">
+									<num />
+									<corpo>La sospensione degli amministratori per giudizio penale è disciplinata in conformità alle disposizioni previste dalla legge n. 286 del 1° giugno 1977.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art12">
+								<num>Art. 12</num>
+								<rubrica>Scioglimento</rubrica>
+								<comma id="ann1-art12-com1">
+									<num />
+									<corpo>Il Consiglio di Amministrazione può essere sciolto, con decreto motivato, dal Presidente della Regione Abruzzo, su deliberazione delle Giunte Regionali dell'Abruzzo e del Molise, quando sia venuta a mancare, per qualsiasi causa, la metà dei componenti il Consiglio, o quando questi violi persistentemente, nonostante diffida, le norme di legge e di regolamento.</corpo>
+								</comma>
+								<comma id="ann1-art12-com2">
+									<num />
+									<corpo>Con lo stesso decreto e con le medesime modalità viene nominato un Commissario straordinario per la provvisoria gestione dell'Ente.</corpo>
+								</comma>
+								<comma id="ann1-art12-com3">
+									<num />
+									<corpo>Il Consiglio di amministrazione deve essere ricostituito nel termine di sei mesi dalla data del decreto di scioglimento.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art13">
+								<num>Art. 13</num>
+								<rubrica>Attribuzioni del consiglio di amministrazione</rubrica>
+								<comma id="ann1-art13-com1">
+									<num />
+									<alinea>Il Consiglio di Amministrazione provvede alla gestione dell'Ente ed in particolare delibera:</alinea>
+									<el id="ann1-art13-com1-leta">
+										<num>a)</num>
+										<corpo>sullo Statuto;</corpo>
+									</el>
+									<el id="ann1-art13-com1-letb">
+										<num>b)</num>
+										<corpo>sul bilancio preventivo, sulle eventuali variazioni e sul conto consuntivo;</corpo>
+									</el>
+									<el id="ann1-art13-com1-letc">
+										<num>c)</num>
+										<corpo>sui programmi poliennali di attività;</corpo>
+									</el>
+									<el id="ann1-art13-com1-letd">
+										<num>d)</num>
+										<corpo>sugli atti che comunque impegnino i bilanci per più esercizi;</corpo>
+									</el>
+									<el id="ann1-art13-com1-lete">
+										<num>e)</num>
+										<corpo>sull'alienazione ed acquisto di beni immobili costituenti il patrimonio dell'Ente;</corpo>
+									</el>
+									<el id="ann1-art13-com1-letf">
+										<num>f)</num>
+										<corpo>sui regolamenti del personale e sulla relativa pianta organica, nonché sullo stato giuridico e trattamento economico del personale, in armonia con quanto previsto dall'art. 10 della legge 23 dicembre 1975, n. 745;</corpo>
+									</el>
+									<el id="ann1-art13-com1-letg">
+										<num>g)</num>
+										<corpo>sulla struttura organizzativa dell'Ente, ad eccezione di quanto previsto nell'art. 2, terzo comma;</corpo>
+									</el>
+									<el id="ann1-art13-com1-leth">
+										<num>h)</num>
+										<corpo>sugli atti che comportino spese superiori a lire 100 milioni;</corpo>
+									</el>
+									<el id="ann1-art13-com1-leti">
+										<num>i)</num>
+										<corpo>sui regolamenti di amministrazione, di contabilità e di funzionamento dell'Istituto;</corpo>
+									</el>
+									<el id="ann1-art13-com1-letl">
+										<num>l)</num>
+										<corpo>sulla nomina del tesoriere;</corpo>
+									</el>
+									<el id="ann1-art13-com1-letm">
+										<num>m)</num>
+										<corpo>sulle norme di gestione dei laboratori di produzione e del centro tori e sulla relativa contabilità, ai sensi del secondo e terzo comma dell'articolo 6 della legge 23 dicembre 1975, n. 745;</corpo>
+									</el>
+									<el id="ann1-art13-com1-letn">
+										<num>n)</num>
+										<corpo>sui ricorsi e sulle azioni giudiziarie, sulle liti attive e passive, nonché sulle relative transazioni;</corpo>
+									</el>
+									<el id="ann1-art13-com1-leto">
+										<num>o)</num>
+										<corpo>sul regolamento interno di funzionamento del Consiglio di Amministrazione.</corpo>
+									</el>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art14">
+								<num>Art. 14</num>
+								<rubrica>Giunta esecutiva</rubrica>
+								<comma id="ann1-art14-com1">
+									<num />
+									<corpo>La Giunta esecutiva, eletta nel proprio seno dal Consiglio di Amministrazione, è composta dal Presidente del Consiglio stesso e da sei membri, di cui quattro scelti fra quelli designati dai Consigli regionali, rispettivamente due dell'Abruzzo e due del Molise.</corpo>
+								</comma>
+								<comma id="ann1-art14-com2">
+									<num />
+									<corpo>All'elezione si procede con votazioni separate e segrete per ogni binomio.</corpo>
+								</comma>
+								<comma id="ann1-art14-com3">
+									<num />
+									<corpo>Risultano eletti coloro che hanno riportato la maggioranza assoluta dei voti.</corpo>
+								</comma>
+								<comma id="ann1-art14-com4">
+									<num />
+									<corpo>Se dopo due votazioni nessun candidato abbia ottenuto la maggioranza assoluta, è eletto colui che ha riportato il maggior numero di voti.</corpo>
+								</comma>
+								<comma id="ann1-art14-com5">
+									<num />
+									<corpo>A parità di voti è eletto il più anziano di età.</corpo>
+								</comma>
+								<comma id="ann1-art14-com6">
+									<num />
+									<corpo>Partecipa alle sedute della Giunta esecutiva con voto consultivo, il Direttore. Il Segretario Amministrativo dell'Istituto svolge le funzioni di Segretario.</corpo>
+								</comma>
+								<comma id="ann1-art14-com7">
+									<num />
+									<corpo>Per la validità delle sedute è richiesta la presenza di almeno quattro membri. Le decisioni vengono adottate a maggioranza di voti.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art15">
+								<num>Art. 15</num>
+								<rubrica>Attribuzioni della Giunta esecutiva</rubrica>
+								<comma id="ann1-art15-com1">
+									<num />
+									<corpo>La Giunta esecutiva è l'organo di gestione e di esecuzione delle delibere adottate dal Consiglio di Amministrazione.</corpo>
+								</comma>
+								<comma id="ann1-art15-com2">
+									<num />
+									<alinea>Essa provvede a:</alinea>
+									<el id="ann1-art15-com2-leta">
+										<num>a)</num>
+										<corpo>predisporre il bilancio preventivo;</corpo>
+									</el>
+									<el id="ann1-art15-com2-letb">
+										<num>b)</num>
+										<corpo>predisporre il conto consuntivo;</corpo>
+									</el>
+									<el id="ann1-art15-com2-letc">
+										<num>c)</num>
+										<corpo>proporre al Consiglio di Amministrazione i provvedimenti di variazione al bilancio;</corpo>
+									</el>
+									<el id="ann1-art15-com2-letd">
+										<num>d)</num>
+										<corpo>deliberare la nomina, la progressione di carriera, il trattamento economico ed il collocamento a riposo del personale dell'Istituto, secondo le norme del Regolamento;</corpo>
+									</el>
+									<el id="ann1-art15-com2-lete">
+										<num>e)</num>
+										<corpo>deliberare i contratti, le convenzioni e le spese nell'ambito degli stanziamenti di bilancio;</corpo>
+									</el>
+									<el id="ann1-art15-com2-letf">
+										<num>f)</num>
+										<corpo>deliberare le modalità per la vendita agli allevatori dei prodotti di cui all'art. 5 della legge 23 dicembre 1975, n. 745 per la commercializzazione dei prodotti medesimi;</corpo>
+									</el>
+									<el id="ann1-art15-com2-letg">
+										<num>g)</num>
+										<corpo>deliberare le modalità e il prezzo di cessione del seme per fecondazione artificiale.</corpo>
+									</el>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art16">
+								<num>Art. 16</num>
+								<rubrica>Il Presidente</rubrica>
+								<comma id="ann1-art16-com1">
+									<num />
+									<corpo>Il Presidente è scelto ogni quinquennio tra i membri eletti dai Consigli regionali dell'Abruzzo e del Molise, in rappresentanza delle rispettive Regioni.</corpo>
+								</comma>
+								<comma id="ann1-art16-com2">
+									<num />
+									<corpo>Il Presidente è eletto nella prima seduta del Consiglio di Amministrazione, a scrutinio segreto e a maggioranza assoluta di voti.</corpo>
+								</comma>
+								<comma id="ann1-art16-com3">
+									<num />
+									<corpo>Il Presidente dura in carica quanto il Consiglio di Amministrazione che lo ha eletto.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art17">
+								<num>Art. 17</num>
+								<rubrica>Sostituzione del Presidente</rubrica>
+								<comma id="ann1-art17-com1">
+									<num />
+									<corpo>La Giunta esecutiva provvede alla designazione del Vice Presidente, con il compito di sostituire il Presidente in caso di assenza o impedimento.</corpo>
+								</comma>
+								<comma id="ann1-art17-com2">
+									<num />
+									<corpo>In caso di sua assenza o impedimento, il Vice Presidente viene sostituito dal membro della Giunta più anziano di età.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art18">
+								<num>Art. 18</num>
+								<rubrica>Attribuzioni del Presidente</rubrica>
+								<comma id="ann1-art18-com1">
+									<num />
+									<corpo>Il Presidente ha la legale rappresentanza dell'Ente, convoca e presiede il Consiglio di Amministrazione e la Giunta esecutiva, firma gli atti che comportano impegni ed esercita tutte le altre attribuzioni dovutegli dalle leggi, dallo statuto e dai regolamenti.Formula l'ordine del giorno del Consiglio di Amministrazione, sentita la Giunta esecutiva, ed inserisce gli argomenti la cui discussione sia proposta da singoli consiglieri.</corpo>
+								</comma>
+								<comma id="ann1-art18-com2">
+									<num />
+									<corpo>Il Presidente è tenuto, altresì, a convocare il Consiglio di Amministrazione su richiesta di almeno un terzo dei Consiglieri assegnati; in tal caso la seduta deve aver luogo entro venti giorni.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art19">
+								<num>Art. 19</num>
+								<rubrica>Composizione del Collegio sindacale</rubrica>
+								<comma id="ann1-art19-com1">
+									<num />
+									<corpo>Il Collegio sindacale è composto da un Presidente, scelto dal Presidente della Regione Abruzzo tra gli iscritti all'Albo Ufficiale dei Revisori dei Conti, da due componenti effettivi e da due supplenti.</corpo>
+								</comma>
+								<comma id="ann1-art19-com2">
+									<num />
+									<corpo>I Consigli regionali dell'Abruzzo e del Molise, con voto limitato ad un nome, designano ciascuno due componenti del Collegio sindacale.</corpo>
+								</comma>
+								<comma id="ann1-art19-com3">
+									<num />
+									<corpo>Assolve le funzioni di componente effettivo colui che avrà riportato il maggior numero di voti, il secondo designato assolve le funzioni di componente supplente con diritto di partecipazione alle sedute del Collegio.</corpo>
+								</comma>
+								<comma id="ann1-art19-com4">
+									<num />
+									<corpo>Il Collegio sindacale è nominato con decreto del Presidente della Giunta Regionale dell'Abruzzo e dura in carica cinque anni.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art20">
+								<num>Art. 20</num>
+								<rubrica>Attribuzioni del Collegio sindacale</rubrica>
+								<comma id="ann1-art20-com1">
+									<num />
+									<corpo>Il Collegio sindacale svolge le funzioni di vigilanza sulla gestione economica e finanziaria dell'Ente, esamina i bilanci, predispone le opportune relazioni. Accerta la regolare tenuta dei libri e delle scritture contabili ed effettua verifiche di cassa trimestrali.</corpo>
+								</comma>
+								<comma id="ann1-art20-com2">
+									<num />
+									<corpo>I membri del Collegio partecipano alle riunioni del Consiglio di amministrazione.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art21">
+								<num>Art. 21</num>
+								<rubrica>Composizione del Comitato Tecnico-Scientifico</rubrica>
+								<comma id="ann1-art21-com1">
+									<num />
+									<alinea>Il Comitato Tecnico-Scientifico è composto dal Direttore dell'Istituto che lo presiede, ed inoltre:</alinea>
+									<el id="ann1-art21-com1-leta">
+										<num>a)</num>
+										<corpo>da sei dipendenti dell'Istituto Zooprofilattico Sperimentale di cui tre tecnici laureati, due tecnici ed un operaio tecnico eletti in assemblea generale dal personale dell'Istituto;</corpo>
+									</el>
+									<el id="ann1-art21-com1-letb">
+										<num>b)</num>
+										<corpo>da otto esperti nelle discipline tecnico-scientifiche che interessano l'attività dell'Istituto, designati in pari numero da ciascun Consiglio regionale.</corpo>
+									</el>
+								</comma>
+								<comma id="ann1-art21-com2">
+									<num />
+									<corpo>Il Comitato Tecnico-Scientifico è nominato dal Consiglio di Amministrazione dell'Istituto Zooprofilattico Sperimentale e dura in carica quanto l'organo che lo ha nominato.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art22">
+								<num>Art. 22</num>
+								<rubrica>Attribuzioni del Comitato Tecnico-Scientifico</rubrica>
+								<comma id="ann1-art22-com1">
+									<num />
+									<alinea>Il Comitato Tecnico-Scientifico esprime parere:</alinea>
+									<el id="ann1-art22-com1-leta">
+										<num>a)</num>
+										<corpo>sui programmi generali di attività:</corpo>
+									</el>
+									<el id="ann1-art22-com1-letb">
+										<num>b)</num>
+										<corpo>sui programmi di acquisto di attrezzature che rivestano particolare importanza diagnostica e scientifica;</corpo>
+									</el>
+									<el id="ann1-art22-com1-letc">
+										<num>c)</num>
+										<corpo>sull'istituzione, soppressione e modificazione di settori, laboratori, reparti e sulla determinazione delle tariffe per le prestazioni sanitarie a pagamento.</corpo>
+									</el>
+								</comma>
+								<comma id="ann1-art22-com2">
+									<num />
+									<corpo>Esprime, inoltre, parere su ogni altra questione che gli viene sottoposta dal Direttore e dagli organi deliberanti dell'Ente.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art23">
+								<num>Art. 23</num>
+								<rubrica>Organizzazione</rubrica>
+								<comma id="ann1-art23-com1">
+									<num />
+									<corpo>La sede centrale dell'Istituto Zooprofilattico e le Sezioni provinciali possono articolarsi in Settori e Laboratori.</corpo>
+								</comma>
+								<comma id="ann1-art23-com2">
+									<num />
+									<corpo>Il laboratorio è l'unità organica fondamentale.</corpo>
+								</comma>
+								<comma id="ann1-art23-com3">
+									<num />
+									<corpo>Due o più laboratori affini sono riuniti in settori, per lo svolgimento di compiti omogenei.</corpo>
+								</comma>
+								<comma id="ann1-art23-com4">
+									<num />
+									<corpo>L'istituzione di nuovi laboratori, oltre quelli già esistenti, deliberata ai sensi dell'art. 13 lett. g) del presente accordo, deve essere approvata dalle Giunte Regionali dell'Abruzzo e del Molise, sentite le competenti Commissioni Consiliari.</corpo>
+								</comma>
+								<comma id="ann1-art23-com5">
+									<num />
+									<corpo>Per l'attività di riproduzione animale e fecondazione artificiale, nonché per quella di produzione dei prodotti biologici, l'Istituto deve istituire appositi servizi con impianti, attrezzature, personale e gestione contabile separati dagli altri Laboratori.</corpo>
+								</comma>
+								<comma id="ann1-art23-com6">
+									<num />
+									<corpo>Alla direzione dell'Istituto è preposto un direttore laureato in medicina veterinaria, che sovraintende al funzionamento dei servizi tecnici e generali.</corpo>
+								</comma>
+								<comma id="ann1-art23-com7">
+									<num />
+									<corpo>Alla direzione delle Sezioni provinciali dell'Istituto sono preposti laureati in Medicina veterinaria, che sovraintendono al funzionamento dei servizi tecnici e generali a livello provinciale nell'ambito delle direttive emanate dal Direttore dell'Istituto, in esecuzione dei programmi formulati dal Consiglio di Amministrazione, sentito il Comitato Tecnico-Scientifico.</corpo>
+								</comma>
+								<comma id="ann1-art23-com8">
+									<num />
+									<corpo>Il Consiglio di Amministrazione, nell'approvare il regolamento per l'ordinamento interno, deve attenersi a principi stabiliti nei comma precedenti.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art24">
+								<num>Art. 24</num>
+								<rubrica>Indennità ai componenti degli organi dell'Ente</rubrica>
+								<comma id="ann1-art24-com1">
+									<num />
+									<corpo>Ai componenti del Consiglio di Amministrazione e del Comitato Tecnico-Scientifico, che non siano dipendenti dell'Istituto e delle Regioni interessate, per ogni giornata di partecipazione alle sedute, spetta un gettone di presenza di L. 15.000.</corpo>
+								</comma>
+								<comma id="ann1-art24-com2">
+									<num />
+									<corpo>Al Presidente del Consiglio e della Giunta esecutiva spetta un'indennità di funzione di L. 200.000 mensili.</corpo>
+								</comma>
+								<comma id="ann1-art24-com3">
+									<num />
+									<corpo>Ai componenti della Giunta esecutiva spetta un'indennità di funzione di L. 90.000 mensili.</corpo>
+								</comma>
+								<comma id="ann1-art24-com4">
+									<num />
+									<corpo>Al Presidente del Collegio sindacale spetta un compenso di L.75.000 mensili e ai componenti un compenso di L. 50.000 mensili.</corpo>
+								</comma>
+								<comma id="ann1-art24-com5">
+									<num />
+									<corpo>Le indennità di cui al secondo, terzo e quarto comma non sono cumulabili con il gettone di presenza.</corpo>
+								</comma>
+								<comma id="ann1-art24-com6">
+									<num />
+									<corpo>Ai membri del Consiglio di Amministrazione della Giunta esecutiva, del Comitato Tecnico-Scientifico ed ai componenti del Collegio sindacale, spetta, altresì, oltre il rimborso delle spese di viaggio, l'indennità di missione, in quanto dovuta, nella misura e con le modalità previste dalla vigente normativa statale.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art25">
+								<num>Art. 25</num>
+								<rubrica>Comitato di vigilanza e controllo</rubrica>
+								<comma id="ann1-art25-com1">
+									<num />
+									<corpo>Le funzioni di vigilanza e di controllo, ai sensi dell'art. 3 della legge 23 dicembre 1975, n. 745 sono esercitate da un Comitato interregionale composto da cinque membri effettivi e due supplenti di cui tre effettivi e uno supplente eletti dal Consiglio Regionale d'Abruzzo e due effettivi e un supplente eletti dal Consiglio Regionale del Molise.</corpo>
+								</comma>
+								<comma id="ann1-art25-com2">
+									<num />
+									<corpo>Il Comitato ha sede presso il Settore Igiene e Sanità della Regione Abruzzo.</corpo>
+								</comma>
+								<comma id="ann1-art25-com3">
+									<num />
+									<corpo>Nella prima seduta il Comitato elegge, a scrutinio segreto e a maggioranza assoluta, il Presidente.</corpo>
+								</comma>
+								<comma id="ann1-art25-com4">
+									<num />
+									<corpo>Il Componente supplente ha diritto al voto solo in assenza del componente effettivo.</corpo>
+								</comma>
+								<comma id="ann1-art25-com5">
+									<num />
+									<corpo>Un dipendente della Regione Abruzzo esercita le funzioni di Segretario.</corpo>
+								</comma>
+								<comma id="ann1-art25-com6">
+									<num />
+									<corpo>I Componenti e il Segretario del Comitato sono nominati con decreto del Presidente della Giunta Regionale dell'Abruzzo.</corpo>
+								</comma>
+								<comma id="ann1-art25-com7">
+									<num />
+									<corpo>Il Comitato dura in carica cinque anni.</corpo>
+								</comma>
+								<comma id="ann1-art25-com8">
+									<num />
+									<corpo>Per la validità delle deliberazioni si richiede l'intervento di almeno tre membri. Le decisioni debbono essere adottate a maggioranza assoluta di voti.</corpo>
+								</comma>
+								<comma id="ann1-art25-com9">
+									<num />
+									<corpo>I provvedimenti adottati dal suddetto Comitato sono definitivi.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art26">
+								<num>Art. 26</num>
+								<rubrica>Attribuzioni del Comitato di vigilanza</rubrica>
+								<comma id="ann1-art26-com1">
+									<num />
+									<corpo>Il Comitato di vigilanza esercita il controllo sulla gestione economico-finanziaria dell'Ente.</corpo>
+								</comma>
+								<comma id="ann1-art26-com2">
+									<num />
+									<corpo>Il controllo sulle deliberazioni concernenti lo statuto, il bilancio preventivo annuale ed i piani pluriennali di attività è esercitato, previo parere delle competenti Commissioni Consiliari permanenti della Regione Abruzzo e del Molise.</corpo>
+								</comma>
+								<comma id="ann1-art26-com3">
+									<num />
+									<corpo>Sono sottoposte anche al controllo di merito con le modalità di cui all'art. 60 della legge 10 febbraio 1953, n. 62, le deliberazioni concernenti lo Statuto, i programmi pluriennali di attività, il regolamento organico del personale e la relativa pianta organica, i regolamenti di amministrazione, di contabilità, di economato, i regolamenti sui servizi generali e sanitari, il programma di attività dell'Ente, il bilancio di previsione e le relative variazioni, il conto consuntivo, l'alienazione e l'acquisto di immobili, di titoli del debito pubblico di titoli di credito e di azioni, l'accettazione di donazioni, eredità e legati e le altre trasformazioni e riduzioni del patrimonio superiori a L. 10 milioni.</corpo>
+								</comma>
+								<comma id="ann1-art26-com4">
+									<num />
+									<corpo>Le restanti deliberazioni sono inviate in duplice copia al Comitato di Vigilanza e divengono esecutive qualora, entro il termine di trenta giorni dalla data di ricevimento, il Comitato non abbia chiesto chiarimenti o elementi integrativi di giudizio o non ne abbia pronunciato l'annullamento con provvedimento motivato.</corpo>
+								</comma>
+								<comma id="ann1-art26-com5">
+									<num />
+									<corpo>La decorrenza del predetto termine è comprovata dal timbro data apposto dall'Ufficio di Segreteria dell'Organo di controllo.</corpo>
+								</comma>
+								<comma id="ann1-art26-com6">
+									<num />
+									<corpo>Qualora l'Ente ometta o ritardi un atto obbligatorio, il Comitato di vigilanza, previa diffida, con assegnazione di un termine non inferiore, di norma, a quindici giorni, può inviare un commissario per il compimento dell'atto.</corpo>
+								</comma>
+								<comma id="ann1-art26-com7">
+									<num />
+									<corpo>Entro il 31 marzo di ciascun anno il Comitato di vigilanza invia apposita relazione ai Presidenti delle Giunte Regionali dell'Abruzzo e del Molise sui risultati della gestione dell'Ente nell'anno precedente.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art27">
+								<num>Art. 27</num>
+								<rubrica>Indennità ai componenti del Comitato di Vigilanza</rubrica>
+								<comma id="ann1-art27-com1">
+									<num />
+									<corpo>Ai componenti elettivi del Comitato di vigilanza spetta un gettone di presenza di L. 15.000 per ogni giorno di partecipazione alle sedute nonché, oltre al rimborso delle spese di viaggio, indennità di missione in quanto dovuta, nella misura e con le modalità previste dalla vigente normativa statale.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art28">
+								<num>Art. 28</num>
+								<rubrica>Norme transitorie e finali</rubrica>
+								<comma id="ann1-art28-com1">
+									<num />
+									<corpo>Entro tre mesi dalla nomina, il Consiglio di Amministrazione dell'Ente deve adottare il regolamento per il funzionamento dei propri organi da sottoporsi all'approvazione dei Consigli Regionali dell'Abruzzo e del Molise che vi provvederanno entro il termine di tre mesi.</corpo>
+								</comma>
+								<comma id="ann1-art28-com2">
+									<num />
+									<corpo>Nello stesso termine il Consiglio di Amministrazione deve approvare, nel rispetto dell'art. 10 della legge 23 dicembre 1975, n. 745 il regolamento organico del personale, in ogni caso prevedendo la necessità di pubblico concorso per l'assunzione agli impieghi.</corpo>
+								</comma>
+								<comma id="ann1-art28-com3">
+									<num />
+									<corpo>Qualora detto regolamento organico non potesse, per qualsiasi causa, essere deliberato entro il mese di dicembre 1978, il Consiglio di Amministrazione delibera un regolamento organico provvisorio, da concordare con le Organizzazioni Sindacali dei Lavoratori dipendenti maggiormente rappresentative a livello nazionale.</corpo>
+								</comma>
+								<comma id="ann1-art28-com4">
+									<num />
+									<corpo>Nel regolamento di cui al precedente comma devono essere dettate norme per l'equiparazione, in sede di primo inquadramento, del trattamento giuridico ed economico del personale dell'Istituto a quello del personale della Regione Abruzzo previsto dalla legge regionale 2 agosto 1973, n. 32 e in particolare dagli artt. 72 e seguenti della medesima Legge.</corpo>
+								</comma>
+								<comma id="ann1-art28-com5">
+									<num />
+									<corpo>Devono essere fatte salve le posizioni economiche e giuridiche già acquisite dal personale comunque in servizio alla data del 31 dicembre 1977.</corpo>
+								</comma>
+								<comma id="ann1-art28-com6">
+									<num />
+									<corpo>Ai fini della determinazione del trattamento economico successivamente al primo inquadramento si osservano le norme di cui alla legge regionale dell'Abruzzo 17 maggio 1977, n. 21 e quelle derivanti dall'applicazione degli accordi contrattuali nazionali dei dipendenti regionali.</corpo>
+								</comma>
+							</articolo>
+							<articolo id="ann1-art29">
+								<num>Art. 29</num>
+								<rubrica>Finanziamento dell'Istituto</rubrica>
+								<comma id="ann1-art29-com1">
+									<num />
+									<corpo>L'Istituto provvede alla sua attività con le quote attribuite alle Regioni Abruzzo e Molise ai sensi dell'art. 11 della legge 23 dicembre 1975, n. 745.</corpo>
+								</comma>
+								<comma id="ann1-art29-com2">
+									<num />
+									<corpo>La restante parte è posta per due terzi a carico della Regione Abruzzo e per un terzo a carico della Regione Molise, che istituiscono idonei stanziamenti annuali di bilancio.</corpo>
+								</comma>
+								<comma id="ann1-art29-com3">
+									<num />
+									<corpo>Per l'attuazione delle attività e delle iniziative di istituto, l'Ente si può avvalere anche delle dotazioni finanziarie previste dai provvedimenti comunitari e dalle leggi regionali.</corpo>
+								</comma>
+								<comma id="ann1-art29-com4">
+									<num />
+									<corpo>Allo scopo, l'Ente è ammesso a fruire, in via prioritaria, dei contributi, delle sovvenzioni e delle provvidenze previste dalle leggi regionali di intervento in zoosanità zooeconomia e sanità pubblica.</corpo>
+								</comma>
+							</articolo>
+						</articolato>
+						<formulafinale>
+							<h:p />
+						</formulafinale>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</LeggeRegionale>
+	</NIR>

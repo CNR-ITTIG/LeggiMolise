@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19760216" num="2" tipo="BURM" />
+					<entratainvigore norm="19760217" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1976-02-13;11" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="24.Politiche per i migranti e rapporti con i molisani nel mondo" />
+					</materie>
+				</descrittori>
+			</meta>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19770103">13 Febbraio 1976</dataDoc>
+				, n.
+				<numDoc>11</numDoc>
+				<titoloDoc>
+					Utilizzo di fondi del bilancio 1975 per la consulta dell'emigrazione
+					<rif xlink:href="urn:nir:regione.molise:legge:1975-03-17;25" xlink:type="simple">Legge Regionale 17 marzo 1975, n. 25</rif>
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>Omissis</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>
