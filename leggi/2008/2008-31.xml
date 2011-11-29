@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="ISO-8859-15"?>
 	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
 	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
 		<LeggeRegionale>
@@ -114,7 +114,7 @@ Modifiche
 					<rubrica>Norma transitoria</rubrica>
 					<comma id="art5-com1">
 						<num>1.</num>
-						<corpo>Agli oneri derivanti dall'attuazione della presente legge regionale, quantificati per l'anno 2008 in ? 150.000,00, si fa fronte mediante utilizzo di parte dello stanziamento iscritto alla U.P.B. n. 337 dello stato di previsione della spesa per il medesimo esercizio finanziario. La Giunta Regionale istituisce apposito capitolo di spesa nel Bilancio gestionale.</corpo>
+						<corpo>Agli oneri derivanti dall'attuazione della presente legge regionale, quantificati per l'anno 2008 in ¤ 150.000,00, si fa fronte mediante utilizzo di parte dello stanziamento iscritto alla U.P.B. n. 337 dello stato di previsione della spesa per il medesimo esercizio finanziario. La Giunta Regionale istituisce apposito capitolo di spesa nel Bilancio gestionale.</corpo>
 					</comma>
 					<comma id="art5-com2">
 						<num>2.</num>
