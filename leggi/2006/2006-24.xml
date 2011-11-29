@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20060901" num="25" tipo="BURM" />
+					<entratainvigore norm="20060902" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2006-08-29;24" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20060902" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2006-08-29;24" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 25 del 1 settembre 2006 Oggetto Legge regionale 4 marzo 2005 n. 7 "Nuove norme per la protezione dei cani e per l'istituzione dell'anagrafe canina" - Modifiche ed integrazioni?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20060829">29 agosto 2006</dataDoc>
+				, n.
+				<numDoc>24</numDoc>
+				<titoloDoc>
+					Modifiche ed integrazioni alla
+					<rif xlink:href="urn:nir:regione.molise:legge:2005-03-04;7" xlink:type="simple">legge regionale 4 marzo 2005, n. 7</rif>
+					, recante: "Nuove norme per la protezione dei cani e per l'istituzione dell'anagrafe canina".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2005-03-04;7#art5" xlink:type="simple">articolo 5 della legge regionale 4 marzo 2005, n. 7</rif>
+								"Nuove norme per la protezione dei cani e per l'istituzione dell'anagrafe canina) è aggiunto, in fine, il seguente comma: "
+								<virgolette id="mod1-vir1" tipo="struttura">
+									<comma id="mod1-vir1-com6bis">
+										<num>6-bis.</num>
+										<corpo>Il canile del capoluogo di regione può ricoverare un numero massimo di 750 cani, fatti salvi i requisiti tecnico-costruttivi ed igienico-sanitari previsti dalla presente legge.</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica />
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod2">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2005;7#art6" xlink:type="simple">articolo 6 della legge regionale n. 7/2005</rif>
+								, nella rubrica, sono aggiunte le parole "
+								<virgolette id="mod2-vir1" tipo="parola">o rifugio per cani</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod3">
+								Al
+								<rif xlink:href="urn:nir:regione.molise:legge:2005;7#art6-com1" xlink:type="simple">comma 1 dell'articolo 6 della legge regionale n. 7/ 2005</rif>
+								, dopo le parole "
+								<virgolette id="mod3-vir1" tipo="parola">canili comunali</virgolette>
+								" aggiungere la parola "
+								<virgolette id="mod3-vir2" tipo="parola">o</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica />
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod4">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2005;7#art9-com1" xlink:type="simple">articolo 9, comma 1, della legge regionale n. 7/2005</rif>
+								, alla lettera b), dopo le parole "
+								<virgolette id="mod4-vir1" tipo="parola">privati, anche in forma associativa o cooperativa</virgolette>
+								", sono aggiunte le parole "
+								<virgolette id="mod4-vir2" tipo="parola">che non abbiano riportato condanne o che siano stati destinatari di provvedimenti amministrativi sanzionatori per violazione di norme poste a tutela degli animali</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod5">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2005;7#art9-com2" xlink:type="simple">articolo 9, comma 2, della legge regionale n. 7/2005</rif>
+								, nel secondo periodo dell'alinea, prima delle parole "
+								<virgolette id="mod5-vir1" tipo="parola">Possono esercitare</virgolette>
+								", sono aggiunte le parole "
+								<virgolette id="mod5-vir2" tipo="parola">Le associazioni protezionistiche e i privati di cui al comma 1</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art3-com3">
+						<num>3.</num>
+						<corpo>
+							<mod id="mod6">
+								Alla
+								<rif xlink:href="urn:nir:regione.molise:legge:2005;7#art9-com2-letc" xlink:type="simple">lettera c) del comma 2 dell'articolo 9 della legge regionale n. 7/2005</rif>
+								, prima della parola "
+								<virgolette id="mod6-vir1" tipo="parola">gestione</virgolette>
+								" sono aggiunte le parole "
+								<virgolette id="mod6-vir2" tipo="parola">realizzazione e</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art3-com4">
+						<num>4.</num>
+						<corpo>
+							<mod id="mod7">
+								Al
+								<rif xlink:href="urn:nir:regione.molise:legge:2005;7#art9-com2" xlink:type="simple">comma 2 dell'articolo 9 della legge regionale n. 7/2005</rif>
+								, in fine, è aggiunta la seguente lettera: "
+								<virgolette id="mod7-vir1" tipo="struttura">
+									<el id="mod7-vir1-letfbis">
+										<num>f -bis)</num>
+										<corpo>cattura degli animali vaganti, garantendo a tal fine la reperibilità costante</corpo>
+									</el>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art3-com5">
+						<num>5.</num>
+						<corpo>
+							<mod id="mod8">
+								Al
+								<rif xlink:href="urn:nir:regione.molise:legge:2005;7#art9-com3" xlink:type="simple">comma 3 dell'articolo 9 della legge regionale n. 7/ 2005</rif>
+								, dopo le parole "
+								<virgolette id="mod8-vir1" tipo="parola">Le associazioni protezionistiche</virgolette>
+								" sono aggiunte le parole "
+								<virgolette id="mod8-vir2" tipo="parola">ed i privati</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art3-com6">
+						<num>6.</num>
+						<corpo>
+							<mod id="mod9">
+								Al
+								<rif xlink:href="urn:nir:regione.molise:legge:2005;7#art9-com4" xlink:type="simple">comma 4 dell'articolo 9 della legge regionale n. 7/ 2005</rif>
+								, dopo le parole "
+								<virgolette id="mod9-vir1" tipo="parola">le associazioni protezionistiche di cui al comma 2</virgolette>
+								" sono aggiunte le parole "
+								<virgolette id="mod9-vir2" tipo="parola">ed i privati</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art3-com7">
+						<num>7.</num>
+						<corpo>
+							<mod id="mod10">
+								Al
+								<rif xlink:href="urn:nir:regione.molise:legge:2005;7#art9-com5" xlink:type="simple">comma 5 dell'articolo 9 della legge regionale n. 7/ 2005</rif>
+								, dopo le parole "
+								<virgolette id="mod10-vir1" tipo="parola">le associazioni protezionistiche</virgolette>
+								", sono aggiunte le parole "
+								<virgolette id="mod10-vir2" tipo="parola">ed i privati</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art3-com8">
+						<num>8.</num>
+						<corpo>
+							<mod id="mod11">
+								Al
+								<rif xlink:href="urn:nir:regione.molise:legge:2005;7#art9-com6" xlink:type="simple">comma 6 dell'articolo 9 della legge regionale n. 7/ 2005</rif>
+								, il secondo periodo è soppresso.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica />
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>
+							Nelle more dell'adeguamento del regolamento di attuazione della
+							<rif xlink:href="urn:nir:regione.molise:legge:2005-03-04;7" xlink:type="simple">legge regionale 4 marzo 2005, n. 7</rif>
+							, come modificata ed integrata dalla presente legge, la Giunta regionale, con provvedimento motivato, può concedere i contributi previsti dall'
+							<rif xlink:href="urn:nir:regione.molise:legge:2005;7#art9-com4" xlink:type="simple">articolo 9, comma 4, della stessa legge regionale n. 7/2005</rif>
+							, nonché disporre le iniziative ritenute urgenti al fine di una migliore protezione degli animali di affezione ed a tutela della salute pubblica e dell'ambiente.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica />
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20060715" num="20" tipo="BURM" />
+					<entratainvigore norm="20060730" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2006-07-07;14" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="11.enti locali, comunità montane" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20060730" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2006-07-07;14" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 11.Enti locali, comunità montane Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 20 del 15 luglio 2006 Oggetto Comunità montane - L.R. 8 luglio 2002 n. 12 - sostituzione art. 27?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20060707">7 luglio 2006</dataDoc>
+				, n.
+				<numDoc>14</numDoc>
+				.
+				<titoloDoc>
+					Sostituzione dell'
+					<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art27" xlink:type="simple">articolo 27 della legge regionale 8 luglio 2002, n. 12</rif>
+					, recante: "Riordino e ridefinizione delle Comunità montane".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art27" xlink:type="simple">articolo 27 della legge regionale 8 luglio 2002, n. 12</rif>
+								recante: "Riordino e ridefinizione delle Comunità montane" è sostituito dal seguente: "
+								<virgolette id="mod1-vir1" tipo="struttura">
+									<articolo id="mod1-vir1-art27">
+										<num>Art. 27</num>
+										<rubrica>ORGANIZZAZIONE DELLE FUNZIONI DIRIGENZIALI</rubrica>
+										<comma id="mod1-vir1-art27-com1">
+											<num>1.</num>
+											<corpo>Le Comunità montane, nell'ambito della propria autonomia statutaria e regolamentare, possono stabilire che, in mancanza di altro personale con qualifica dirigenziale oltre il segretario, le funzioni di cui all'articolo 107, commi 2 e 3, del Testo Unico siano attribuite ai responsabili degli uffici e dei servizi indipendentemente dalla loro qualifica funzionale, prevedendo altresì i criteri e le modalità per l'attribuzione</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

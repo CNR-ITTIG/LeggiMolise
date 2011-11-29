@@ -1,82 +1,91 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20060601" num="15" tipo="BURM"/>
-                <entratainvigore norm="20060616"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2006-05-24;7"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="34.trasporti e viabilit&amp;#xe0;, navigazione nelle acque interne"/>
-                </materie>
-            </descrittori>
-        </meta><?error 34.Trasporti e viabilità, navigazione nelle acque interne 
- 
-Bollettino 
-BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 15 del 1 giugno 2006 
- 
-Oggetto 
-Trasporti pubblici - Funzioni amministrative - Competenze - Servizi - Procedure - Disciplina - Disposizioni integrative 
- 
-Abrogazioni 
- 
- 
-Modifiche 
- 
- 
-?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc
-                    norm="20060524">24 maggio 2006</dataDoc>, n. <numDoc>7</numDoc>. 
- 
-<titoloDoc>Modifica dell'<rif xlink:href="urn:nir:regione.molise:legge:1984-08-20;19#art78">articolo 78 della legge regionale 20 agosto 1984, n. 19</rif>, recante: "Norme in materia di trasporti di competenza regionale - Deleghe". 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1 </num>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-                    <corpo>
-                        <mod id="art1-com1-mod1"> All'<rif
-                                xlink:href="urn:nir:regione.molise:legge:1984-08-20;19#art78-com1">articolo 78, comma 1, della legge regionale 20 agosto 1984, n. 19</rif>, dopo l'espressione "<virgolette
-                                id="art1-com1-mod1-vir1">misura del</virgolette>", la percentuale "<virgolette
-                                id="art1-com1-mod1-vir2">75%</virgolette>" è sostituita dalla percentuale "<virgolette
-                                id="art1-com1-mod1-vir3">90%</virgolette>" ed è soppressa l'espressione "<virgolette id="art1-com1-mod1-vir4">ovvero del 50%</virgolette>". </mod>
-                    </corpo>
-                </comma>
-                <comma id="art1-com2">
-                    <num>
- 
-2.</num>
-                    <corpo>
-                        <mod id="art1-com2-mod2"> All'<rif
-                                xlink:href="urn:nir:regione.molise:legge:1984-08-20;19#art78-com2">articolo 78, comma 2, della legge regionale 20 agosto 1984, n. 19</rif>, dopo la sigla "<virgolette
-                                id="art1-com2-mod2-vir5">I. V.A.</virgolette>", la parola "<virgolette
-                                id="art1-com2-mod2-vir6">inclusa</virgolette>" è sostituita dalla parola "<virgolette id="art1-com2-mod2-vir7">esclusa</virgolette>". </mod>
-                    </corpo>
-                </comma>
-                <comma id="art1-com3">
-                    <num>
- 
-3.</num>
-                    <corpo>
-                        <mod id="art1-com3-mod3"> Il <rif xlink:href="urn:nir:regione.molise:legge:1984-08-20;19#art78-com3">comma 3 dell'articolo 78 della legge regionale 20 agosto 1984, n. 19</rif>, è soppresso. 
-</mod>
-                    </corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
-
-?>
-    </LeggeRegionale>
-</NIR>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20060601" num="15" tipo="BURM" />
+					<entratainvigore norm="20060616" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2006-05-24;7" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="34.trasporti e viabilit&amp;#xe0;, navigazione nelle acque interne" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20060616" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2006-05-24;7" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 34.Trasporti e viabilità, navigazione nelle acque interne Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 15 del 1 giugno 2006 Oggetto Trasporti pubblici - Funzioni amministrative - Competenze - Servizi - Procedure - Disciplina - Disposizioni integrative Abrogazioni Modifiche ?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20060524">24 maggio 2006</dataDoc>
+				, n.
+				<numDoc>7</numDoc>
+				.
+				<titoloDoc>
+					Modifica dell'
+					<rif xlink:href="urn:nir:regione.molise:legge:1984-08-20;19#art78" xlink:type="simple">articolo 78 della legge regionale 20 agosto 1984, n. 19</rif>
+					, recante: "Norme in materia di trasporti di competenza regionale - Deleghe".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:1984-08-20;19#art78-com1" xlink:type="simple">articolo 78, comma 1, della legge regionale 20 agosto 1984, n. 19</rif>
+								, dopo l'espressione "
+								<virgolette id="mod1-vir1" tipo="parola">misura del</virgolette>
+								", la percentuale "
+								<virgolette id="mod1-vir2" tipo="parola">75%</virgolette>
+								" è sostituita dalla percentuale "
+								<virgolette id="mod1-vir3" tipo="parola">90%</virgolette>
+								" ed è soppressa l'espressione "
+								<virgolette id="mod1-vir4" tipo="parola">ovvero del 50%</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod2">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:1984-08-20;19#art78-com2" xlink:type="simple">articolo 78, comma 2, della legge regionale 20 agosto 1984, n. 19</rif>
+								, dopo la sigla "
+								<virgolette id="mod2-vir1" tipo="parola">I. V.A.</virgolette>
+								", la parola "
+								<virgolette id="mod2-vir2" tipo="parola">inclusa</virgolette>
+								" è sostituita dalla parola "
+								<virgolette id="mod2-vir3" tipo="parola">esclusa</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com3">
+						<num>3.</num>
+						<corpo>
+							<mod id="mod3">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1984-08-20;19#art78-com3" xlink:type="simple">comma 3 dell'articolo 78 della legge regionale 20 agosto 1984, n. 19</rif>
+								, è soppresso.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

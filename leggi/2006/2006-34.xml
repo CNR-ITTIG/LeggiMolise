@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20061005" num="28" tipo="BURM"/>
-                <entratainvigore norm="20061020"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2006-10-02;34"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20070524" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20061005" num="28" tipo="BURM" />
+					<entratainvigore norm="20061006" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2006-10-02;34" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20061006" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20070524" fonte="rp1" id="t2" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2006-10-02;34" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 28 del 5 ottobre 2006 
@@ -28,114 +39,112 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc
-                    norm="20061002">2 ottobre 2006</dataDoc>, n. <numDoc>34</numDoc>. 
- 
-<titoloDoc>Ulteriori modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1993-08-10;19">legge regionale 10 agosto 1993, n. 19</rif>, concernente: "Norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio". 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1 </num>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-                    <alinea> Alla <rif xlink:href="urn:nir:regione.molise:legge:1993-08-10;19">legge regionale 10 agosto 1993, n. 19</rif>, recante: "Norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio" sono apportate le seguenti modifiche: 
- 
-</alinea>
-                    <el id="art1-com1-leta">
-                        <num>a)</num>
-                        <corpo>
-                            <mod
-                                    id="art1-com1-leta-mod1"> la lettera d) del comma 1 dell'articolo 9 bis è sostituita dalla seguente: 
- 
-"<virgolette
-                                    id="art1-com1-leta-mod1-vir2" tipo="struttura">
-                                    <el id="art1-com1-leta-mod1-vir2-letc">
-                                    <num>d)</num>
-                                    <corpo> un rappresentante per ogni associazione venatoria riconosciuta a livello nazionale ed organizzata in regione da almeno 1 anno</corpo>
-                                    </el>
-                                </virgolette>";</mod>
-                        </corpo>
-                    </el>
-                    <el id="art1-com1-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo>
-                            <mod
-                                    id="art1-com1-letb-mod2"> la lettera c) del comma 2 dell'articolo 9 ter è sostituita dalla seguente: 
- 
-"<virgolette
-                                    id="art1-com1-letb-mod2-vir3" tipo="struttura">
-                                    <el id="art1-com1-letb-mod2-vir3-letc">
-                                    <num>c)</num>
-                                    <corpo> un rappresentante per ogni associazione venatoria riconosciuta a livello nazionale ed organizzata in regione da almeno 1 anno</corpo>
-                                    </el>
-                                </virgolette>";</mod>
-                        </corpo>
-                    </el>
-                    <el id="art1-com1-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo>
-                            <mod
-                                    id="art1-com1-letc-mod3"> la lettera b) del comma 1 dell'articolo 19 è sostituita dalla seguente: 
- 
-"<virgolette
-                                    id="art1-com1-letc-mod3-vir4" tipo="struttura">
-                                    <el id="art1-com1-letc-mod3-vir4-letc">
-                                    <num>b)</num>
-                                    <corpo> da un rappresentante per ciascuna associazione venatoria riconosciuta a livello nazionale ed organizzata nella provincia da almeno 1 anno. Inoltre ciascuna associazione designa, fino ad un massimo di tre, un numero di componenti che rappresentino ciascuno almeno un decimo del totale dei cacciatori residenti nella provincia ammessi ad esercitare l'attività venatoria negli ATC;</corpo>
-                                    </el>
-                                </virgolette>". 
- 
-</mod>
-                        </corpo>
-                    </el>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2 </num>
-                <comma id="art2-com1">
-                    <num>
-1.</num>
-                    <corpo> La Giunta regionale entro il 31 dicembre di ogni anno verifica la consistenza numerica degli associati ed il radicamento territoriale delle associazioni venatorie riconosciute. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art. 3 </num>
-                <comma id="art3-com1">
-                    <num>
-1.</num>
-
-                    <corpo> La Consulta regionale e le Consulte provinciali, nonché i Comitati, di cui agli articoli 9 bis, 9 ter e 19 della <rif
-                            xlink:href="urn:nir:regione.molise:legge:1993;19">legge regionale n. 19/1993</rif>, decadono dopo gli adempimenti di cui all'<rif xlink:href="#art2">articolo 2</rif> della presente legge. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>Art. 4 </num>
-                <comma id="art4-com1">
-                    <num>
-1.</num>
-                    <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
-
-?>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20061002">2 ottobre 2006</dataDoc>
+				, n.
+				<numDoc>34</numDoc>
+				.
+				<titoloDoc>
+					Ulteriori modifiche alla
+					<rif xlink:href="urn:nir:regione.molise:legge:1993-08-10;19" xlink:type="simple">legge regionale 10 agosto 1993, n. 19</rif>
+					, concernente: "Norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<alinea>
+							Alla
+							<rif xlink:href="urn:nir:regione.molise:legge:1993-08-10;19" xlink:type="simple">legge regionale 10 agosto 1993, n. 19</rif>
+							, recante: "Norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio" sono apportate le seguenti modifiche:
+						</alinea>
+						<el id="art1-com1-leta">
+							<num>a)</num>
+							<corpo>
+								<mod id="mod1">
+									la
+									<rif xlink:href="urn:nir:regione.molise:legge:1993-08-10;19#art9bis-com1-letd" xlink:type="simple">lettera d) del comma 1 dell'articolo 9 bis</rif>
+									è sostituita dalla seguente: "
+									<virgolette id="mod1-vir1" tipo="struttura">
+										<el id="mod1-vir1-letd">
+											<num>d)</num>
+											<corpo>un rappresentante per ogni associazione venatoria riconosciuta a livello nazionale ed organizzata in regione da almeno 1 anno</corpo>
+										</el>
+									</virgolette>
+									";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letb">
+							<num>b)</num>
+							<corpo>
+								<mod id="mod2">
+									la
+									<rif xlink:href="urn:nir:regione.molise:legge:1993-08-10;19#art9ter-com2-letc" xlink:type="simple">lettera c) del comma 2 dell'articolo 9 ter</rif>
+									è sostituita dalla seguente: "
+									<virgolette id="mod2-vir1" tipo="struttura">
+										<el id="mod2-vir1-letc">
+											<num>c)</num>
+											<corpo>un rappresentante per ogni associazione venatoria riconosciuta a livello nazionale ed organizzata in regione da almeno 1 anno</corpo>
+										</el>
+									</virgolette>
+									";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letc">
+							<num>c)</num>
+							<corpo>
+								<mod id="mod3">
+									la
+									<rif xlink:href="urn:nir:regione.molise:legge:1993-08-10;19#art19-com1-letb" xlink:type="simple">lettera b) del comma 1 dell'articolo 19</rif>
+									è sostituita dalla seguente: "
+									<virgolette id="mod3-vir1" tipo="struttura">
+										<el id="mod3-vir1-letb">
+											<num>b)</num>
+											<corpo>da un rappresentante per ciascuna associazione venatoria riconosciuta a livello nazionale ed organizzata nella provincia da almeno 1 anno. Inoltre ciascuna associazione designa, fino ad un massimo di tre, un numero di componenti che rappresentino ciascuno almeno un decimo del totale dei cacciatori residenti nella provincia ammessi ad esercitare l'attività venatoria negli ATC;</corpo>
+										</el>
+									</virgolette>
+									".
+								</mod>
+							</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>La Giunta regionale entro il 31 dicembre di ogni anno verifica la consistenza numerica degli associati ed il radicamento territoriale delle associazioni venatorie riconosciute.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							La Consulta regionale e le Consulte provinciali, nonché i Comitati, di cui agli articoli 9 bis, 9 ter e 19 della
+							<rif xlink:href="urn:nir:regione.molise:legge:1993;19" xlink:type="simple">legge regionale n. 19/1993</rif>
+							, decadono dopo gli adempimenti di cui all'
+							<rif xlink:href="#art2" xlink:type="simple">articolo 2</rif>
+							della presente legge.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>
