@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="ISO-8859-15"?>
 	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
 	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
 		<LeggeRegionale>
@@ -56,7 +56,7 @@ Modifiche
 					</comma>
 					<comma id="art1-com2">
 						<num>2.</num>
-						<corpo>Considerato che la quota di rischio totale garantita dalla Regione è pari ad ? 2.500.000,00, la Regione destina, inoltre, nel bilancio di previsione per l'esercizio finanziario 2007 la somma complessiva di ? 190.000,00 per la copertura finanziaria della relativa quota di rischio, e così di seguito per ciascuno dei 24 anni dell'ammortamento del relativo mutuo.</corpo>
+						<corpo>Considerato che la quota di rischio totale garantita dalla Regione è pari ad ¤ 2.500.000,00, la Regione destina, inoltre, nel bilancio di previsione per l'esercizio finanziario 2007 la somma complessiva di ¤ 190.000,00 per la copertura finanziaria della relativa quota di rischio, e così di seguito per ciascuno dei 24 anni dell'ammortamento del relativo mutuo.</corpo>
 					</comma>
 				</articolo>
 				<articolo id="art2">
@@ -96,7 +96,7 @@ Modifiche
 					<rubrica>Copertura finanziaria della relativa quota di rischio</rubrica>
 					<comma id="art5-com1">
 						<num>1.</num>
-						<corpo>La quota di rischio totale è stabilita in ? 2.500.000,00.</corpo>
+						<corpo>La quota di rischio totale è stabilita in ¤ 2.500.000,00.</corpo>
 					</comma>
 					<comma id="art5-com2">
 						<num>2.</num>
