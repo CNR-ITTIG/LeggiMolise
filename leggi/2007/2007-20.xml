@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="ISO-8859-15"?>
 	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
 	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
 		<LeggeRegionale>
@@ -353,7 +353,7 @@ Modifiche
 						<rubrica>Disposizioni finanziarie</rubrica>
 						<comma id="art12-com1">
 							<num>1.</num>
-							<corpo>L'importo complessivo del capitale mutuabile è pari ad ? 3.500.000,00 (TREMILIONICINQUECENTOMILA/00). La garanzia della Regione Molise è prestata per il capitale di rischio dell'importo complessivo di ? 2.800.000,00 (DUEMILIONIOTTOCENTOMILA/00), pari all'80 per cento del capitale mutuabile.</corpo>
+							<corpo>L'importo complessivo del capitale mutuabile è pari ad ¤ 3.500.000,00 (TREMILIONICINQUECENTOMILA/00). La garanzia della Regione Molise è prestata per il capitale di rischio dell'importo complessivo di ¤ 2.800.000,00 (DUEMILIONIOTTOCENTOMILA/00), pari all'80 per cento del capitale mutuabile.</corpo>
 						</comma>
 						<comma id="art12-com2">
 							<num>2.</num>
@@ -392,10 +392,7 @@ Modifiche
 					</articolo>
 				</capo>
 			</articolato>
-			<formulafinale />
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
 			<conclusione />
-			<?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
-
-?>
 		</LeggeRegionale>
 	</NIR>

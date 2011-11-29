@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="ISO-8859-15"?>
 	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
 	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
 		<LeggeRegionale>
@@ -63,42 +63,42 @@ Modifiche
 									<h:tr>
 										<h:td>Fondo presunto di cassa</h:td>
 										<h:td />
-										<h:td>? 10.239.919,29</h:td>
+										<h:td>¤ 10.239.919,29</h:td>
 									</h:tr>
 									<h:tr>
 										<h:td>Entrate da trasferimenti correnti</h:td>
-										<h:td>? 1.010.000,00</h:td>
-										<h:td>? 4.241.737,63</h:td>
+										<h:td>¤ 1.010.000,00</h:td>
+										<h:td>¤ 4.241.737,63</h:td>
 									</h:tr>
 									<h:tr>
 										<h:td>Altre entrate</h:td>
-										<h:td>? 2.270.510,00</h:td>
-										<h:td>? 4.068.969,58</h:td>
+										<h:td>¤ 2.270.510,00</h:td>
+										<h:td>¤ 4.068.969,58</h:td>
 									</h:tr>
 									<h:tr>
 										<h:td>Entrate per alienazione di beni e riscossione crediti</h:td>
-										<h:td>? 643.000,00</h:td>
-										<h:td>? 1.134.849,32</h:td>
+										<h:td>¤ 643.000,00</h:td>
+										<h:td>¤ 1.134.849,32</h:td>
 									</h:tr>
 									<h:tr>
 										<h:td>Entrate derivanti da trasferimenti in conto capitale</h:td>
-										<h:td>? 3.900.000,00</h:td>
-										<h:td>? 3.900.000,00</h:td>
+										<h:td>¤ 3.900.000,00</h:td>
+										<h:td>¤ 3.900.000,00</h:td>
 									</h:tr>
 									<h:tr>
 										<h:td>Accensione di prestiti</h:td>
-										<h:td>? 251.000,00</h:td>
-										<h:td>? 265.436,57</h:td>
+										<h:td>¤ 251.000,00</h:td>
+										<h:td>¤ 265.436,57</h:td>
 									</h:tr>
 									<h:tr>
 										<h:td>Partite di giro</h:td>
-										<h:td>? 8.575.500,00</h:td>
-										<h:td>? 9.786.227,69</h:td>
+										<h:td>¤ 8.575.500,00</h:td>
+										<h:td>¤ 9.786.227,69</h:td>
 									</h:tr>
 									<h:tr>
 										<h:td>TOTALE ENTRATE</h:td>
-										<h:td>? 16.650.010,00</h:td>
-										<h:td>? 33.637.139,98</h:td>
+										<h:td>¤ 16.650.010,00</h:td>
+										<h:td>¤ 33.637.139,98</h:td>
 									</h:tr>
 									<h:tr>
 										<h:td>USCITE</h:td>
@@ -107,33 +107,33 @@ Modifiche
 									</h:tr>
 									<h:tr>
 										<h:td>Disavanzo presunto di amministrazione</h:td>
-										<h:td>? 109.893,60</h:td>
+										<h:td>¤ 109.893,60</h:td>
 										<h:td />
 									</h:tr>
 									<h:tr>
 										<h:td>Spese correnti</h:td>
-										<h:td>? 2.776.316,40</h:td>
-										<h:td>? 5.040.312,97</h:td>
+										<h:td>¤ 2.776.316,40</h:td>
+										<h:td>¤ 5.040.312,97</h:td>
 									</h:tr>
 									<h:tr>
 										<h:td>Spese in conto capitale</h:td>
-										<h:td>? 4.211.300,00</h:td>
-										<h:td>? 8.679.831,64</h:td>
+										<h:td>¤ 4.211.300,00</h:td>
+										<h:td>¤ 8.679.831,64</h:td>
 									</h:tr>
 									<h:tr>
 										<h:td>Estinzione di mutui ed anticipazioni</h:td>
-										<h:td>? 977.000,00</h:td>
-										<h:td>? 6.607.690,07</h:td>
+										<h:td>¤ 977.000,00</h:td>
+										<h:td>¤ 6.607.690,07</h:td>
 									</h:tr>
 									<h:tr>
 										<h:td>Partite di giro</h:td>
-										<h:td>? 8.575.500,00</h:td>
-										<h:td>? 13.309.305,30</h:td>
+										<h:td>¤ 8.575.500,00</h:td>
+										<h:td>¤ 13.309.305,30</h:td>
 									</h:tr>
 									<h:tr>
 										<h:td>TOTALE USCITE</h:td>
-										<h:td>? 16.650.010,00</h:td>
-										<h:td>? 33.637.139,98</h:td>
+										<h:td>¤ 16.650.010,00</h:td>
+										<h:td>¤ 33.637.139,98</h:td>
 									</h:tr>
 								</h:tbody>
 							</h:table>
