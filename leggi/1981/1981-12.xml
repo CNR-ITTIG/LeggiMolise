@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19810701" num="13" tipo="BURM"/>
-                <entratainvigore norm="19810716"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1981-06-20;12"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="02.artigianato"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="19961115" fonte="rp1" id="t1" tipo="modifica"/><evento data="19850131" fonte="rp2" id="t2" tipo="modifica"/><evento data="20000514" fonte="rp3" id="t3" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1996;33" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1985;02" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 02.Artigianato 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19810701" num="13" tipo="BURM" />
+					<entratainvigore norm="19810716" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1981-06-20;12" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="02.artigianato" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19961115" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="19850131" fonte="rp2" id="t2" tipo="modifica" />
+						<evento data="20000514" fonte="rp3" id="t3" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1996;33" xlink:type="simple" />
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1985;02" xlink:type="simple" />
+						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 02.Artigianato 
  
 Bollettino 
 Bollettino Ufficiale n. 13 del 01/07/81 
@@ -36,29 +49,28 @@ Modificato art. 21 dalla legge n. 2/1985 art. 4
 Modificato art. 27 dalla legge n. 33/1996 art. 2 
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19810620">20 Giugno 1981</dataDoc>, n. <numDoc>12</numDoc>
-            <titoloDoc>Ulteriori provvidenze a favore dell'Artigianato 
- 
-Titolo I: Finalità E BENEFICIARI 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 31/2000 art. art. 1, primo comma, lettera aa)</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19810620">20 Giugno 1981</dataDoc>
+				, n.
+				<numDoc>12</numDoc>
+				<titoloDoc>Ulteriori provvidenze a favore dell'Artigianato</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>abrogata intera legge dalla legge n. 31/2000 art. art. 1, primo comma, lettera aa)</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+			<?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
 
 ?>
-    </LeggeRegionale>
-</NIR>
+		</LeggeRegionale>
+	</NIR>
