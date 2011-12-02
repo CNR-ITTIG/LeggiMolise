@@ -262,9 +262,37 @@ Modifiche
 			<formulafinale />
 			<conclusione>
 				<dataeluogo codice="" norm="">Data a Campobasso, addì 12 aprile 2006</dataeluogo>
-				SEGUE ALLEGATO
-				<h:br />
-				<h:a xlink:href="2006-03-tabA.pdf" xlink:type="simple">Tabella "A"</h:a>
 			</conclusione>
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>
+							<h:a xlink:href="2006-03-tabA.pdf" xlink:type="simple">Tabella A</h:a>
+						</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:regione.molise:legge:2006-04-12;3:tabella.a" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc />
+							<dataDoc norm="" />
+							<numDoc />
+							<titoloDoc />
+						</intestazione>
+						<contenitore id="con1" nome="corpo">
+							<h:p />
+							<h:p />
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
 		</LeggeRegionale>
 	</NIR>
