@@ -135,10 +135,37 @@ Modifiche
 				</articolo>
 			</articolato>
 			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
-			<conclusione>
-				SEGUE ALLEGATO
-				<h:br />
-				<h:a xlink:href="2008-28-all1.pdf" xlink:type="simple">Allegato n. 1</h:a>
-			</conclusione>
+			<conclusione />
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>
+							<h:a xlink:href="2008-28-all1.pdf" xlink:type="simple">Allegato 1</h:a>
+						</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:regione.molise:legge:2008-11-04;28:allegato.1" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc />
+							<dataDoc norm="" />
+							<numDoc />
+							<titoloDoc />
+						</intestazione>
+						<contenitore id="con1" nome="corpo">
+							<h:p />
+							<h:p />
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
 		</LeggeRegionale>
 	</NIR>

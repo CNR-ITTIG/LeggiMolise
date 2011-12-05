@@ -554,10 +554,38 @@ Modificato art. 1 dalla legge n. 1/2009 art. 3
 				</articolo>
 			</articolato>
 			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
-			<conclusione>
-				SEGUE ALLEGATO
-				<h:br />
-				<h:a xlink:href="2008-30-allA.pdf" xlink:type="simple">Allegato "A"</h:a>
-			</conclusione>
+			<conclusione />
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>
+							<h:a xlink:href="2008-30-allA.pdf" xlink:type="simple">Allegato A</h:a>
+						</denAnnesso>
+						<titAnnesso>Parco regionale dell'olivo di Venafro</titAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:regione.molise:legge:2008-11-04;30:allegato.a" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc />
+							<dataDoc norm="" />
+							<numDoc />
+							<titoloDoc />
+						</intestazione>
+						<contenitore id="con1" nome="corpo">
+							<h:p />
+							<h:p />
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
 		</LeggeRegionale>
 	</NIR>

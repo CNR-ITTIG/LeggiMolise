@@ -1031,12 +1031,38 @@ Modificato art. art. 6, comma 1, primo periodo dalla legge n. 1/2009 art. 3
 					Il Presidente
 					<h:br />
 					IORIO
-					<h:p>
-						SEGUE ALLEGATO "
-						<h:a xlink:href="2008-12-tabA.pdf" xlink:type="simple">Tabella A</h:a>
-						"
-					</h:p>
 				</firma>
 			</conclusione>
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>
+							<h:a xlink:href="2008-12-tabA.pdf" xlink:type="simple">Tabella A</h:a>
+						</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:regione.molise:legge:2008-05-09;12:tabella.a" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc />
+							<dataDoc norm="" />
+							<numDoc />
+							<titoloDoc />
+						</intestazione>
+						<contenitore id="con1" nome="corpo">
+							<h:p />
+							<h:p />
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
 		</LeggeRegionale>
 	</NIR>
