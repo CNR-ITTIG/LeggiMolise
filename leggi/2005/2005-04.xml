@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20050115" num="1" tipo="BURM"/>
-                <entratainvigore norm="20050130"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2005-01-10;4"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="06.consiglieri regionali e gruppi consiliari"/>
-                </materie>
-            </descrittori>
-        </meta><?error 06.Consiglieri regionali e gruppi consiliari 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20050115" num="1" tipo="BURM" />
+					<entratainvigore norm="20050116" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2005-01-10;4" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="06.consiglieri regionali e gruppi consiliari" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20050116" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2005-01-10;4" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 06.Consiglieri regionali e gruppi consiliari 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 1 del 15 gennaio 2005 
@@ -27,98 +36,142 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc
-                    norm="20050110">10 gennaio 2005</dataDoc>, n. <numDoc>4</numDoc>. 
- 
-<titoloDoc>Disposizioni per il funzionamento dei gruppi consiliari - Modifiche ed integrazioni alla <rif xlink:href="urn:nir:regione.molise:legge:1991-11-04;20">legge regionale 4 novembre 1991, n. 20</rif>, come modificata dalle leggi regionali 2 agosto 2002, n. 17, e 24 dicembre 2002, n. 43. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>ARTICOLO 1 </num>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-                    <alinea> All'<rif
-                            xlink:href="urn:nir:regione.molise:legge:1991-11-04;20#art3">articolo 3 della legge regionale 4 novembre 1991, n. 20</rif>, già sostituito dall'<rif
-                            xlink:href="urn:nir:regione.molise:legge:2002-08-02;17#art1">articolo 1 della legge regionale 2 agosto 2002, n. 17</rif>, e nuovamente sostituito dall'<rif xlink:href="urn:nir:regione.molise:legge:2002-12-24;43#art1">articolo 1 della legge regionale 24 dicembre 2002, n. 43</rif>, sono apportate le seguenti modificazioni: 
- 
-</alinea>
-                    <el id="art1-com1-leta">
-                        <num>a)</num>
-                        <corpo>
-                            <mod id="art1-com1-leta-mod1"> alla <rif
-                                    xlink:href="#art1-com1-leta">lettera a) del comma 1</rif>, l'espressione "<virgolette
-                                    id="art1-com1-leta-mod1-vir1">Euro 1.125, 00 (millecentoventicinque/00)</virgolette>" è sostituita dall'espressione "<virgolette
-                                    id="art1-com1-leta-mod1-vir2">Euro 2.625,00 (duemilaseicentoventicinque/00)</virgolette>" 
- 
-b) alla lettera b) del comma 1, l'espressione "<virgolette
-                                    id="art1-com1-leta-mod1-vir3">Euro 450,00 (quattrocentocinquanta/00)</virgolette>" è sostituita dall'espressione "<virgolette
-                                    id="art1-com1-leta-mod1-vir4">Euro 800,00 (ottocento/00)</virgolette>" e l'espressione "<virgolette
-                                    id="art1-com1-leta-mod1-vir5">Euro 375,00 (trecentosettantacinque/ 00)</virgolette>"è sostituita dall'espressione "<virgolette
-                                    id="art1-com1-leta-mod1-vir6" tipo="parola">Euro 600,00 (seicento/00)'' <h:br/>
-                                    <h:br/>
-c) la lettera c) del comma 1 è soppressa; <h:br/>
-
-                                    <h:br/>
-d) al comma 2, dopo le parole </virgolette>"di cui alle lettere"<virgolette
-                                    id="art1-com1-leta-mod1-vir7">; l'espressione </virgolette>"a), b) e c)"<virgolette
-                                    id="art1-com1-leta-mod1-vir8"> è sostituita dall'espressione </virgolette>"a) e b)"<virgolette
-                                    id="art1-com1-leta-mod1-vir9" tipo="struttura"><?error . 
- 
-?>
-                                    <articolo id="art0">
-                                    <num>ARTICOLO 2 </num>
-                                    <rubrica/>
-                                    <comma id="art0-com1">
-                                    <num>
-1.</num>
-                                    <corpo> Il <rif xlink:href="urn:nir:regione.molise:legge:1991-11-04;20#art4-com1">primo comma dell'articolo 4 della legge regionale 4 novembre 1991, n. 20</rif>, è sostituito dal seguente: 
- 
-</corpo>
-                                    </comma>
-                                    </articolo>
-
-                                </virgolette>"1.  I contributi di cui all'articolo 3 sono erogati in rate quadrimestrali anticipate e sono spendibili senza vincoli di destinazione. Entro il successivo 31 gennaio di ogni anno, le somme non impegnate devono essere riversate alla Tesoreria regionale"<virgolette
-                                    id="art1-com1-leta-mod1-vir10" tipo="struttura"><?error . 
- 
-?>
-                                    <articolo id="art0">
-                                    <num>ARTICOLO 3 </num>
-                                    <rubrica/>
-                                    <comma id="art0-com1">
-                                    <num>
-1.</num>
-                                    <corpo> Il <rif xlink:href="urn:nir:regione.molise:legge:1991-11-04;20#art2-com4">quarto comma dell'articolo 2 della legge regionale 4 novembre 1991, n. 20</rif>, è abrogato. 
- 
-</corpo>
-                                    </comma>
-                                    </articolo>
-                                    <articolo id="art1">
-                                    <num>ARTICOLO 4 </num>
-                                    <rubrica/>
-                                    <comma id="art1-com1">
-                                    <num>
-1.</num>
-                                    <corpo> La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione. 
- 
-La presente legge sarè pubblicata nel Bollettino Ufficiale della Regione. è fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
-</corpo>
-                                    </comma>
-                                    </articolo>
-                                </virgolette><?error Marker Warning 106?><?error Marker Warning 106?>
-                            </mod>
-                        </corpo>
-                    </el>
-                </comma>
-            </articolo><?error Marker Warning 105?>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20050110">10 gennaio 2005</dataDoc>
+				, n.
+				<numDoc>4</numDoc>
+				.
+				<titoloDoc>
+					Disposizioni per il funzionamento dei gruppi consiliari - Modifiche ed integrazioni alla
+					<rif xlink:href="urn:nir:regione.molise:legge:1991-11-04;20" xlink:type="simple">legge regionale 4 novembre 1991, n. 20</rif>
+					, come modificata dalle leggi regionali
+					<rif xlink:href="urn:nir:regione.molise:legge:2002-08-02;17" xlink:type="simple">2 agosto 2002, n. 17</rif>
+					, e
+					<rif xlink:href="urn:nir:regione.molise:legge:2002-12-24;43" xlink:type="simple">24 dicembre 2002, n. 43</rif>
+					.
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>ARTICOLO 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<alinea>
+							All'
+							<rif xlink:href="urn:nir:regione.molise:legge:1991-11-04;20#art3" xlink:type="simple">articolo 3 della legge regionale 4 novembre 1991, n. 20</rif>
+							, già sostituito dall'
+							<rif xlink:href="urn:nir:regione.molise:legge:2002-08-02;17#art1" xlink:type="simple">articolo 1 della legge regionale 2 agosto 2002, n. 17</rif>
+							, e nuovamente sostituito dall'
+							<rif xlink:href="urn:nir:regione.molise:legge:2002-12-24;43#art1" xlink:type="simple">articolo 1 della legge regionale 24 dicembre 2002, n. 43</rif>
+							, sono apportate le seguenti modificazioni:
+						</alinea>
+						<el id="art1-com1-leta">
+							<num>a)</num>
+							<corpo>
+								<mod id="mod1">
+									alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1991-11-04;20#art3-com1-leta" xlink:type="simple">lettera a) del comma 1</rif>
+									, l'espressione "
+									<virgolette id="mod1-vir1" tipo="parola">Euro 1.125, 00 (millecentoventicinque/00)</virgolette>
+									" è sostituita dall'espressione "
+									<virgolette id="mod1-vir2" tipo="parola">Euro 2.625,00 (duemilaseicentoventicinque/00)</virgolette>
+									"
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letb">
+							<num>b)</num>
+							<corpo>
+								<mod id="mod2">
+									alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1991-11-04;20#art3-com1-letb" xlink:type="simple">lettera b) del comma 1</rif>
+									, l'espressione "
+									<virgolette id="mod2-vir1" tipo="parola">Euro 450,00 (quattrocentocinquanta/00)</virgolette>
+									" è sostituita dall'espressione "
+									<virgolette id="mod2-vir2" tipo="parola">Euro 800,00 (ottocento/00)</virgolette>
+									" e l'espressione "
+									<virgolette id="mod2-vir3" tipo="parola">Euro 375,00 (trecentosettantacinque/ 00)</virgolette>
+									" è sostituita dall'espressione "
+									<virgolette id="mod2-vir4" tipo="parola">Euro 600,00 (seicento/00)''</virgolette>
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letc">
+							<num>c)</num>
+							<corpo>
+								<mod id="mod3">
+									la
+									<rif xlink:href="urn:nir:regione.molise:legge:1991-11-04;20#art3-com1-letc" xlink:type="simple">lettera c) del comma 1</rif>
+									è soppressa;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letd">
+							<num>d)</num>
+							<corpo>
+								<mod id="mod4">
+									al
+									<rif xlink:href="urn:nir:regione.molise:legge:1991-11-04;20#art3-com2" xlink:type="simple">comma 2</rif>
+									, dopo le parole "
+									<virgolette id="mod4-vir1" tipo="parola">di cui alle lettere</virgolette>
+									"; l'espressione "
+									<virgolette id="mod4-vir2" tipo="parola">a), b) e c)</virgolette>
+									" è sostituita dall'espressione "
+									<virgolette id="mod4-vir3" tipo="parola">a) e b)</virgolette>
+									".
+								</mod>
+							</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>ARTICOLO 2</num>
+					<rubrica />
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod5">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1991-11-04;20#art4-com1" xlink:type="simple">primo comma dell'articolo 4 della legge regionale 4 novembre 1991, n. 20</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod5-vir1" tipo="struttura">
+									<comma id="mod5-vir1-com1">
+										<num>1.</num>
+										<corpo>I contributi di cui all'articolo 3 sono erogati in rate quadrimestrali anticipate e sono spendibili senza vincoli di destinazione. Entro il successivo 31 gennaio di ogni anno, le somme non impegnate devono essere riversate alla Tesoreria regionale</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>ARTICOLO 3</num>
+					<rubrica />
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod6">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1991-11-04;20#art2-com4" xlink:type="simple">quarto comma dell'articolo 2 della legge regionale 4 novembre 1991, n. 20</rif>
+								, è abrogato.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>ARTICOLO 4</num>
+					<rubrica />
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20050516" num="10" tipo="BURM"/>
-                <entratainvigore norm="20050531"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2005-05-05;13"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="34.trasporti e viabilit&amp;#xe0;, navigazione nelle acque interne"/>
-                </materie>
-            </descrittori>
-        </meta><?error 34.Trasporti e viabilità, navigazione nelle acque interne 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20050516" num="10" tipo="BURM" />
+					<entratainvigore norm="20050531" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2005-05-05;13" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="34.trasporti e viabilità, navigazione nelle acque interne" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20050531" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2005-05-05;13" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 34.Trasporti e viabilità, navigazione nelle acque interne 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 10 del 16 maggio 2005 
@@ -27,64 +36,66 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc
-                    norm="20050505">5 maggio 2005</dataDoc>, n. <numDoc>13</numDoc>. 
- 
-<titoloDoc>Ulteriori modifiche alla <rif
-                    xlink:href="urn:nir:regione.molise:legge:1984;19">legge regionale n. 19/1984</rif>, recante ad oggetto: "Norme in materia di trasporti di competenza regionale - Deleghe", modificata dalla <rif xlink:href="urn:nir:regione.molise:legge:2003-09-02;26">legge regionale 2 settembre 2003, n. 26</rif>. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>ARTICOLO 1 </num>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-                    <corpo>
-                        <mod id="art1-com1-mod1"> L'<rif
-                                xlink:href="urn:nir:regione.molise:legge:1984;19#art28bis">articolo 28 bis della legge regionale n. 19/1984</rif>, aggiunto con la <rif
-                                xlink:href="urn:nir:regione.molise:legge:2003-09-02;26">legge regionale 2 settembre 2003, n. 26</rif>, è modificato nel comma 5, che è sostituito dal seguente: 
- 
-"<virgolette
-                                id="art1-com1-mod1-vir1" tipo="struttura">
-                                <comma id="art1-com1-mod1-vir1-com0">
-                                    <num>5.</num>
-                                    <corpo> Per l'ottenimento della tessera di libera circolazione i soggetti di cui al comma 1 devono inoltrare apposita domanda, in carta libera, al competente settore </corpo>
-                                </comma>
-                            </virgolette>"Trasporti"<virgolette
-                                id="art1-com1-mod1-vir2" tipo="parola"> della Regione, unitamente a due fotografie ed alla documentazione relativa allo stato di invalidità, tramite il Comune di residenza o tramite le associazioni di categoria. L'ottenimento della tessera è gratuito </virgolette>". </mod>
-                    </corpo>
-                </comma>
-                <comma id="art1-com2">
-                    <num>
- 
-2.</num>
-                    <corpo>
-                        <mod id="art1-com2-mod2"> L'<rif
-                                xlink:href="urn:nir:regione.molise:legge:1984;19#art28bis">articolo 28 bis della legge regionale n. 19/1984</rif>, aggiunto con la <rif
-                                xlink:href="urn:nir:regione.molise:legge:2003-09-02;26">legge regionale 2 settembre 2003, n. 26</rif>, è modificato nel comma 6, che è sostituito dal seguente: 
- 
-"<virgolette
-                                id="art1-com2-mod2-vir3" tipo="struttura">
-                                <comma id="art1-com2-mod2-vir3-com0">
-                                    <num>6.</num>
-                                    <corpo> Le tessere rilasciate ai sensi del presente articolo sono consegnate dal competente settore </corpo>
-                                </comma>
-                            </virgolette>"Trasporti"<virgolette
-                                id="art1-com2-mod2-vir4" tipo="parola"> della Regione ai Comuni di residenza o alle associazioni di categoria</virgolette>". 
-</mod>
-                    </corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
-
-?>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20050505">5 maggio 2005</dataDoc>
+				, n.
+				<numDoc>13</numDoc>
+				.
+				<titoloDoc>
+					Ulteriori modifiche alla
+					<rif xlink:href="urn:nir:regione.molise:legge:1984;19" xlink:type="simple">legge regionale n. 19/1984</rif>
+					, recante ad oggetto: "Norme in materia di trasporti di competenza regionale - Deleghe", modificata dalla
+					<rif xlink:href="urn:nir:regione.molise:legge:2003-09-02;26" xlink:type="simple">legge regionale 2 settembre 2003, n. 26</rif>
+					.
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>ARTICOLO 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:1984;19#art28bis" xlink:type="simple">articolo 28 bis della legge regionale n. 19/1984</rif>
+								, aggiunto con la
+								<rif xlink:href="urn:nir:regione.molise:legge:2003-09-02;26" xlink:type="simple">legge regionale 2 settembre 2003, n. 26</rif>
+								, è modificato nel comma 5, che è sostituito dal seguente: "
+								<virgolette id="mod1-vir1" tipo="struttura">
+									<comma id="mod1-vir1-com5">
+										<num>5.</num>
+										<corpo>Per l'ottenimento della tessera di libera circolazione i soggetti di cui al comma 1 devono inoltrare apposita domanda, in carta libera, al competente settore "Trasporti" della Regione, unitamente a due fotografie ed alla documentazione relativa allo stato di invalidità, tramite il Comune di residenza o tramite le associazioni di categoria. L'ottenimento della tessera è gratuito</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod2">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:1984;19#art28bis" xlink:type="simple">articolo 28 bis della legge regionale n. 19/1984</rif>
+								, aggiunto con la
+								<rif xlink:href="urn:nir:regione.molise:legge:2003-09-02;26" xlink:type="simple">legge regionale 2 settembre 2003, n. 26</rif>
+								, è modificato nel comma 6, che è sostituito dal seguente: "
+								<virgolette id="mod2-vir1" tipo="struttura">
+									<comma id="mod2-vir1-com6">
+										<num>6.</num>
+										<corpo>Le tessere rilasciate ai sensi del presente articolo sono consegnate dal competente settore "Trasporti" della Regione ai Comuni di residenza o alle associazioni di categoria</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20051031" num="30" tipo="BURM"/>
-                <entratainvigore norm="20051115"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2005-10-24;35"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20080316" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2008;04" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20051031" num="30" tipo="BURM" />
+					<entratainvigore norm="20051101" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2005-10-24;35" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20051101" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20080316" fonte="rp1" id="t2" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2005-10-24;35" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2008;04" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 30 del 31 ottobre 2005 
@@ -27,31 +38,37 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc
-                    norm="20051024">24 ottobre 2005</dataDoc>, n. <numDoc>35</numDoc>. 
- 
-<titoloDoc>Modifiche alla <rif
-                    xlink:href="urn:nir:regione.molise:legge:2000-02-21;11">legge regionale 21 febbraio 2000, n. 11</rif>, concernente "Norme sulla raccolta e sulla commercializzazione dei funghi epigei, secondo i principi stabiliti dalla <rif
-                    xlink:href="urn:nir:stato:legge:1993;352">legge n. 352/1993</rif>, come modificata dalla <rif xlink:href="urn:nir:regione.molise:legge:2004-10-18;20">legge regionale 18 ottobre 2004, n. 20</rif>". 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 4/2008 art. 24</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
-
-?>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20051024">24 ottobre 2005</dataDoc>
+				, n.
+				<numDoc>35</numDoc>
+				.
+				<titoloDoc>
+					Modifiche alla
+					<rif xlink:href="urn:nir:regione.molise:legge:2000-02-21;11" xlink:type="simple">legge regionale 21 febbraio 2000, n. 11</rif>
+					, concernente "Norme sulla raccolta e sulla commercializzazione dei funghi epigei, secondo i principi stabiliti dalla
+					<rif xlink:href="urn:nir:stato:legge:1993;352" xlink:type="simple">legge n. 352/1993</rif>
+					, come modificata dalla
+					<rif xlink:href="urn:nir:regione.molise:legge:2004-10-18;20" xlink:type="simple">legge regionale 18 ottobre 2004, n. 20</rif>
+					".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>
+							abrogata intera legge dalla
+							<rif xlink:href="urn:nir:regione.molise:legge:2008;4#art24" xlink:type="simple">legge n. 4/2008 art. 24</rif>
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

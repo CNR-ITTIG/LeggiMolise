@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20050416" num="8" tipo="BURM" />
+					<entratainvigore norm="20050501" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2005-04-11;12" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="30.promozione e organizzazione di attività culturali e delle tradizioni locali, associazionismo" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20050501" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2005-04-11;12" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 30.Promozione e organizzazione di attività culturali e delle tradizioni locali, associazionismo Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 8 del 16 aprile 2005 Oggetto Manifestazioni storiche e culturali - Riconoscimento della loro rilevanza di patrimonio storico ai sensi della legge 20 luglio 2004, n. 189 - Autorizzazione - Disciplina?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20050411">11 aprile 2005</dataDoc>
+				, n.
+				<numDoc>12</numDoc>
+				.
+				<titoloDoc>
+					Disposizioni concernenti le manifestazioni storiche e culturali autorizzate dalla Regione ai sensi dell'
+					<rif xlink:href="urn:nir:stato:legge:2004-07-20;189#art3-com1" xlink:type="simple">art. 3, comma 1, della legge 20 luglio 2004, n. 189</rif>
+					.
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>Oggetto e finalità</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							La presente legge disciplina l'autorizzazione delle manifestazioni storiche e culturali per le quali viene riconosciuta, ai sensi dell'
+							<rif xlink:href="urn:nir:stato:legge:2004-07-20;189#art3-com1" xlink:type="simple">art. 3, comma 1, della legge 20 luglio 2004, n. 189</rif>
+							, la rilevanza di patrimonio storico e peculiare delle comunità locali interessate.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art, 2</num>
+					<rubrica>Definizione ed ambito di applicazione</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<alinea>
+							Sono ammesse al riconoscimento di cui all'
+							<rif xlink:href="#art1" xlink:type="simple">art. 1</rif>
+							ed ai benefici connessi all'erogazione di provvidenze finanziarie per la loro valorizzazione le seguenti iniziative:
+						</alinea>
+						<el id="art2-com1-leta">
+							<num>a)</num>
+							<corpo>le carresi dei comuni di Portocannone, San Martino in Pensilis ed Ururi;</corpo>
+						</el>
+						<el id="art2-com1-letb">
+							<num>b)</num>
+							<corpo>il rodeo pentro di Montenero Valcocchiara;</corpo>
+						</el>
+						<el id="art2-com1-letc">
+							<num>c)</num>
+							<corpo>i carri di S. Pardo di Larino;</corpo>
+						</el>
+						<el id="art2-com1-letd">
+							<num>d)</num>
+							<corpo>il palio delle quercigliole di Ripalimosani;</corpo>
+						</el>
+						<el id="art2-com1-lete">
+							<num>e)</num>
+							<corpo>il palio delle contrade di Montelongo;</corpo>
+						</el>
+						<el id="art2-com1-letf">
+							<num>f)</num>
+							<corpo>i cavalli bardati di Capracotta;</corpo>
+						</el>
+						<el id="art2-com1-letg">
+							<num>g)</num>
+							<corpo>i cavalli bardati di Isernia del 13 giugno.</corpo>
+						</el>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>
+							Le manifestazioni di cui al
+							<rif xlink:href="#art1-com1" xlink:type="simple">comma 1</rif>
+							sono considerate "manifestazioni storiche e culturali" dalla Regione Molise. Ai sensi dell'
+							<rif xlink:href="urn:nir:stato:legge:2004-07-20;189#art3-com1" xlink:type="simple">art. 3, comma 1, della legge 20 luglio 2004, n. 189</rif>
+							, è riconosciuta la piena rilevanza delle manifestazioni di cui al
+							<rif xlink:href="#art1-com1" xlink:type="simple">comma 1</rif>
+							del presente articolo in quanto rappresentano il patrimonio storico e peculiare delle comunità locali interessate.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>Modalità di erogazione del contributo</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							La Regione Molise, d'intesa con le Province, per favorire anche il coordinamento delle iniziative, si impegna a concedere a scadenze annuali programmate un contributo finalizzato all'organizzazione ed all'espletamento delle manifestazioni di cui all'
+							<rif xlink:href="#art2" xlink:type="simple">art. 2</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<corpo>In attuazione delle disposizioni della presente legge, la Regione adempie all'onere finanziario mediante il ricorso agli strumenti di finanziamento annuali predisposti nel piano turistico regionale.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>Disposizioni transitorie</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>I Comuni richiamati dalla presente legge sono tenuti ad inviare all'Assessorato al turismo ed alla cultura della Regione Molise una relazione che illustri lo svolgimento della manifestazione folkloristica ed il valore storico e culturale della stessa, unitamente ad una documentazione che indichi il conto consuntivo degli anni precedenti. La Provincia, ad integrazione, può fornire ulteriori elementi di valutazione e di approfondimento. La Regione, d'intesa con le Province, elabora linee direttive per fruire dei benefici previsti nella presente legge.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>Disposizioni finali</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore quindici giorni dopo la pubblicazione sul Bollettino Ufficiale della Regione Molise</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

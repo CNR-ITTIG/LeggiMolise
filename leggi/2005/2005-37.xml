@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20051116" num="33" tipo="BURM"/>
-                <entratainvigore norm="20051201"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2005-11-11;37"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
-                </materie>
-            </descrittori>
-        </meta><?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20051116" num="33" tipo="BURM" />
+					<entratainvigore norm="20051117" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2005-11-11;37" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20051117" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2005-11-11;37" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 33 del 16 novembre 2005 
@@ -27,688 +36,443 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc norm="20051111">11 novembre 2005</dataDoc>, n. <numDoc>37</numDoc>
-            <titoloDoc>Rendiconto generale della Regione Molise per l'esercizio finanziario 2004. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1 </num>
-                <rubrica>
- 
-Il rendiconto Generale della Regione Molise per l'esercizio 2004 è approvato con le risultanze esposte negli articoli seguenti. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2 </num>
-                <rubrica>
- 
-Entrate di competenza 
- 
-Le entrate derivanti da tributi propri della Regione, dal gettito dei tributi erariali o di quote di esso devolute alla Regione; le entrate derivanti da contributi e trasferimenti di parte corrente dell'Unione Europea, dello Stato e di altri soggetti; le entrate extratributarie, le entrate derivanti da alienazioni, da trasformazione di capitale, da riscossione crediti e da trasferimenti in conto capitale; le entrate derivanti da mutui, prestiti ed altre operazioni creditizie; le entrate per contabilità speciali; accertate nell'esercizio 2004, per la competenza propria dell'esercizio stesso, risultano stabilite dal conto del bilancio in 
- 
-      Euro</rubrica>
-                <comma id="art2-com1">
-                    <num> 1.</num>
-                    <corpo>835.764.728,77 
- 
-&gt; riscosse     Euro 930.874.441,21 
- 
-&gt; e rimaste da riscuotere    Euro 665.212.430,45 
- 
-&gt; avanzo di amministrazione accertato Euro 239.704.857,11 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art. 3 </num>
-                <rubrica>
- 
-Spese di competenza 
- 
-Le spese correnti, quelle in conto capitale, quelle per il rimborso di prestiti e per partite di giro, impegnate nell'esercizio finanziario per la competenza propria dell'esercizio stesso, risultano nel conto del bilancio in 
- 
-      Euro</rubrica>
-                <comma id="art3-com1">
-                    <num> 1.</num>
-                    <corpo>724.563.568,07 
- 
-&gt; delle quali furono pagate   Euro 948.392.147,84 
- 
-&gt; e rimasero da pagare    Euro 776.171.420,23 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>Art. 4 </num>
-                <rubrica>
- 
-Accertamento ed impegni 
- 
-Il riepilogo generale delle Entrate accertate e delle Spese impegnate di competenza dell'esercizio finanziario 2004, dal conto del bilancio, risulta stabilito come segue: 
- 
-ENTRATE 
- 
-Tit. I' - Entrate derivanti da tributi propri della Regione, dal gettito di tributi erariali o di quote di esso devolute alla Regione    Euro 331.667.918,16 
- 
-Tit. II' - Entrate derivanti da contributi e trasferimenti di parte corrente dell'Unione Europea, dello Stato e di altri soggetti   Euro 258.887.390,66 
- 
-Tit. III' - Entrate extratributarie               Euro 12.344.184,40 
- 
-Tit. IV' - Entrate derivanti da alienazioni, da trasformazione di capitale, da riscossione crediti e da trasferimenti in conto capitale  Euro 242.312.339,46 
- 
-Tit. V' - Entrate derivanti da mutui, prestiti ed altre operazioni creditizie         Euro 0,00 
- 
-Tit. VI' - Entrate per contabilità speciali             Euro 750.848.038,98 
- 
-Avanzo di amministrazione               Euro 239.704.857,11 
- 
-Totale ENTRATE accertate              Euro</rubrica>
-                <comma id="art4-com1">
-                    <num> 1.</num>
-                    <corpo>835.764.728,77 
- 
-SPESE 
- 
-Tit. I' - Spese correnti               Euro 559.091.095,85 
- 
-Tit. II' - Spese in conto capitale              Euro 401.975.226,72 
- 
-Tit. III' - Spese per rimborsi prestiti              Euro 12.649.206,52 
- 
-Tit. V' - Spese per partite di giro              Euro 750.848.038,98 
- 
-Totale SPESE impegnate              Euro 1.724.563.568,07 
- 
-RIEPILOGO GESTIONE DI COMPETENZA 
- 
-- Entrate accertate                Euro 1.835.764.728,77 
- 
-- Spese impegnate                Euro 1.724.563.568,07 
- 
-AVANZO di competenza               Euro 111.201.160,70 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art5">
-                <num>Art. 5 </num>
-                <rubrica>
- 
-Residui attivi 2003 e precedenti 
- 
-I residui attivi rimasti accesi al 31 dicembre 2003 in           Euro</rubrica>
-                <comma id="art5-com1">
-                    <num> 1.</num>
-                    <corpo>404.212.942,73 
- 
-di cui furono riscossi nell'esercizio 2004              Euro 697.906.666,49 
- 
-e rimasero da riscuotere alla fine dell'esercizio             Euro 668.258.454,99 
- 
-Dal conto sono stati eliminati, per insussistenza, prescrizione o perenzione, residui per        Euro 55.675.318,92 
- 
-e sono stati riaccertati residui per             Euro 17.627.497,67 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art6">
-                <num>Art. 6 </num>
-                <rubrica>
- 
-Residui passivi 2003 e precedenti 
- 
-I residui passivi rimasti accesi al 31 dicembre 2003 in           Euro</rubrica>
-                <comma id="art6-com1">
-                    <num> 1.</num>
-                    <alinea>270.344.846,30 
- 
-di cui furono pagati nell'esercizio 2004             Euro 494.574.526,50 
- 
-e rimasero da pagare alla fine dell'esercizio            Euro 378.125.472,16 
- 
-Dal conto dei residui passivi sono stati eliminati: 
- 
-</alinea>
-                    <el id="art6-com1-leta">
-                        <num>a)</num>
-                        <corpo> per insussistenza o prescrizione             Euro 33.620.877,30 
- 
-b) per perenzione amministrativa             Euro 364.023.970,34 
- 
-</corpo>
-                    </el>
-                </comma>
-            </articolo>
-            <articolo id="art7">
-                <num>Art. 7 </num>
-
-                <rubrica>
- 
-Somma dei residui attivi 
- 
-I residui attivi alla chiusura dell'esercizio finanziario 2004, risultano stabiliti dal conto del bilancio, nelle seguenti somme: 
- 
-- somme rimaste da riscuotere sulle entrate accertate per la competenza propria dell'esercizio 2004 (<rif
-                        xlink:href="#art2">art. 2</rif>)     Euro 665.212.430,45 
- 
-- esercizi precedenti (<rif xlink:href="#art5">art. 5</rif>)               Euro 668.258.454,99 
- 
-- residui attivi al 31 dicembre 2004             Euro</rubrica>
-                <comma id="art7-com1">
-                    <num> 1.</num>
-                    <corpo>333.470.885,44 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art8">
-                <num>Art. 8 </num>
-
-                <rubrica>
- 
-Somma dei residui passivi 
- 
-I residui passivi alla chiusura dell'esercizio finanziario 2004, risultano stabiliti dal conto del bilancio, nelle seguenti somme: 
- 
-- somme rimaste da pagare sulle spese impegnate per la competenza propria dell'esercizio 2004 (<rif
-                        xlink:href="#art3">art. 3</rif>)      Euro 776.171.420,23 
- 
-- esercizi precedenti (<rif xlink:href="#art6">art. 6</rif>)               Euro 378.125.472,16 
- 
-- residui passivi al 31 dicembre 2004             Euro</rubrica>
-                <comma id="art8-com1">
-                    <num> 1.</num>
-                    <corpo>154.296.892,39 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art9">
-                <num>Art. 9 </num>
-                <rubrica>
- 
-Situazione finanziaria 
- 
-  L'Avanzo di Amministrazione dell'esercizio finanziario 2004 è accertato in Euro 470.798.187, 09 come risulta dai seguenti dati: 
- 
-ATTIVO 
- 
-- Fondo di cassa al 31 dicembre 2003             Euro 105.836.760,68 
- 
-- Riscossioni effettuate in conto residui             Euro 697.906.666,49 
- 
-- Riscossioni effettuate in conto competenza            Euro 930.874.441,21 
- 
-Totale ATTIVO                Euro</rubrica>
-                <comma id="art9-com1">
-                    <num> 1.</num>
-                    <corpo>734.590.868,38 
- 
-PASSIVO 
- 
-- Pagamenti effettuati in conto residui             Euro 494.574.526,50 
- 
-- Pagamenti effettuati in conto della competenza             Euro 948.392.147,84 
- 
-Totale PASSIVO               Euro 1.442.966.674,34 
- 
-- Fondo di cassa al 31 dicembre 2004             Euro 291.624.194,04 
- 
-- Residui attivi                Euro 1.333.470.885,44 
- 
-SOMMA attiva                Euro 1.625.095.079,48 
- 
-- Residui passivi                Euro 1.154.296.892,39 
- 
-- AVANZO di Amministrazione al 31 dicembre 2004            Euro 470.798.187,09 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art10">
-                <num>Art. 10 </num>
-                <rubrica>
- 
-Eliminazione dal conto dei residui attivi 
- 
-I residui attivi rimasti accesi al 31 dicembre 2003 e non riscossi entro il termine dell'esercizio 2004, descritti nella colonna n. 10 del rendiconto dell'entrata, vengono dichiarati insussistenti ed eliminati dal conto concorrendo così a determinare i risultati finali della gestione, come minori entrate. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art10-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art11">
-                <num>Art. 11 </num>
-                <rubrica>
- 
-Eliminazione dal conto dei residui passivi 
- 
-I residui passivi accesi al 31 dicembre 2003 non pagati al termine dell'esercizio 2004, descritti nelle colonne n. 10 e n. 11 del rendiconto della spesa, sono da considerarsi economie di spesa ed eliminati dal conto concorrendo così a determinare i risultati finali della gestione, come minori uscite. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art11-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art12">
-                <num>Art. 12 </num>
-                <rubrica>
- 
-Operazioni di raccordo 
- 
-Sono approvate le operazioni di raccordo delle risultanze tra le scritture contabili della Ragioneria Generale della Regione con quelle della Tesoreria Regionale in ordine all'allocazione nei capitoli propri del bilancio delle entrate e delle spese regionali. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art12-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art13">
-                <num>Art. 13 </num>
-                <rubrica>
- 
-Enti Dipendenti 
- 
-Sono approvati gli allegati rendiconti degli esercizi finanziari 2004 dei sottoelencati Enti Dipendenti operanti nella Regione Molise, che si chiudono con le risultanze finali a fianco di ciascuno indicate: 
- 
-  
- </rubrica>
-                <comma id="art13-com1">
-                    <num>
-1.</num>
-                    <corpo> - Ente Provinciale per il Turismo di CAMPOBASSO 
- 
-^ FONDO DI CASSA   al 1 è gennaio 2004      Euro 129.851,34  
- 
-^ Riscossioni: 
- 
-&gt; in conto residui      Euro 149,70 
- 
-&gt; in conto competenza      Euro 376.597,14   Euro 376 746,84 
- 
-SOMMANO          Euro 506.598,18 
- 
-^ Pagamenti: 
- 
-&gt; in conto residui      Euro 85.517,70 
- 
-&gt; in conto competenza      Euro 382.190,63 
- 
-SOMMANO      Euro 467.708,33   Euro 467.708,33 
- 
-^ FONDO DI CASSA al 31 dicembre 2004      Euro 38.889,85 
- 
-^ Somme rimaste da riscuotere: 
- 
-&gt; sui residui       Euro 0,00 
- 
-&gt; sulla competenza      Euro 82.500,00    Euro 82.500,00 
- 
-SOMMANO          Euro 121.389,85  
- 
-^ Somme rimaste da pagare: 
- 
-&gt; sui residui       Euro 13.289,60 
- 
-&gt; sulla competenza     Euro 53.956,81 
- 
-SOMMANO          Euro 67.246,41 
- 
-AVANZO di Amministrazione al 31 dicembre 2004      Euro 54.143,44 
- </corpo>
-                </comma>
-                <comma id="art13-com2">
-                    <num>
-2.</num>
-                    <corpo> - Ente Provinciale per il Turismo di ISERNIA 
- 
-^ FONDO DI CASSA al 1° gennaio 2004       Euro 113.117,28 
- 
-^ Riscossioni: 
- 
-&gt; in conto residui      Euro 0,00 
- 
-&gt; in conto competenza      Euro 395.490,68   Euro 395.490,68 
- 
-SOMMANO          Euro 508.607,96 
- 
-^ Pagamenti: 
- 
-&gt; in conto residui      Euro 81.860,93 
- 
-&gt; in conto competenza      Euro 367.624,95 
- 
-SOMMANO          Euro 449.485,88 
- 
-^ FONDO DI CASSA al 31 dicembre 2004      Euro 59.122,08 
- 
-^ Somme rimaste da riscuotere: 
- 
-&gt; sui residui       Euro 0,00 
- 
-&gt; sulla competenza      Euro 77.500,00    Euro 77.500,00 
- 
-SOMMANO          Euro 136622,08 
- 
-^ Somme rimaste da pagare: 
- 
-&gt; sui residui       Euro 21.612,71 
- 
-&gt; sulla competenza      Euro 82.451,89 
- 
-SOMMANO          Euro 104.064,60 
- 
-AVANZO di Amministrazione al 31 dicembre 2004     Euro 32.557,48 
- </corpo>
-                </comma>
-                <comma id="art13-com3">
-                    <num>
-3.</num>
-                    <corpo> - Azienda Autonoma di Soggiorno e Turismo di TERMOLI 
- 
-^ FONDO DI CASSA al 1 è gennaio 2004       Euro 163.522,16 
- 
-^ Riscossioni: 
- 
-&gt; in conto residui     Euro 0,00 
- 
-&gt; in conto competenza      Euro 219.169,05   Euro 219.169,05 
- 
-SOMMANO          Euro 382.691,21 
- 
-^ Pagamenti: 
- 
-&gt; in conto residui      Euro 1.235,64 
- 
-&gt; in conto competenza      Euro 248.825,71 
- 
-SOMMANO          Euro 250.061,35 
- 
-^ FONDO DI CASSA al 31 dicembre 2004      Euro 132.629,86 
- 
-^ Somme rimaste da riscuotere: 
- 
-&gt; sui residui       Euro 0,00 
- 
-&gt; sulla competenza      Euro 60.000,00    Euro 60.000,00 
- 
-SOMMANO          Euro 192.629,86 
- 
-Somme rimaste da pagare: 
- 
-&gt; sui residui       Euro 0,00 
- 
-&gt; sulla competenza      Euro 73.949,74 
- 
-SOMMANO          Euro 73.949,74 
- 
-AVANZO di Amministrazione al 31 dicembre 2004      Euro 118.680,12 
- </corpo>
-                </comma>
-                <comma id="art13-com4">
-                    <num>
-4.</num>
-                    <corpo> - Istituto Regionale per gli Studi Storici del Molise "V. CUOCO" 
- 
-^ FONDO DI CASSA   al 1 è gennaio 2004      Euro 276.543, 60  
- 
- Riscossioni: 
- 
-&gt; in conto residui      Euro 0,00 
- 
-&gt; in conto competenza     Euro 38.344,20    Euro 38.344,20 
- 
-SOMMANO          Euro 314.887,80 
- 
-^ Pagamenti: 
- 
-&gt; in conto residui      Euro 12.476,91 
- 
-&gt; in conto competenza      Euro 49.360,30 
- 
-SOMMANO      Euro 61.837,21 
- 
-^ FONDO DI CASSA   al 31 dicembre 2004      Euro 253.050,59 
- 
-^ Somme rimaste da riscuotere: 
- 
-&gt; sui residui       Euro 0,00 
- 
-&gt; sulla competenza      Euro 4.760,66    Euro 4.760, 66 
- 
-SOMMANO Euro 257.811,25 
- 
-Somme rimaste da pagare. 
- 
-&gt; sui residui       Euro 27.642,65 
- 
-&gt; sulla competenza      Euro 26.679,64 
- 
-SOMMANO          Euro 54.322,29 
- 
-AVANZO di Amministrazione al 31 dicembre 2004      Euro 203.488,96 
- </corpo>
-                </comma>
-                <comma id="art13-com5">
-                    <num>
-5.</num>
-                    <corpo> - Ente Regionale di Sviluppo Agricolo per il Molise 
- 
-a) Attività di Sviluppo 
- 
-^ FONDO DI CASSA   al 1 è gennaio 2004      Euro 2.534.554,60 
- 
-Riscossioni: 
- 
-&gt; in conto residui      Euro 4.789.274,82 
- 
-&gt; in conto competenza      Euro 4.817.281,79   Euro 9.606.556,61 
- 
- SOMMANO          Euro12.141.111,21 
- 
-^ Pagamenti: 
- 
-&gt; in conto residui      Euro 776.581,48 
- 
-&gt; in conto competenza     Euro 5.701.916,97 
- 
-SOMMANO          Euro 6.478.498, 45 
- 
-^ FONDO DI CASSA   al 31 dicembre 2004      Euro 5.662.612,76 
- 
-^ Somme rimaste da riscuotere: 
- 
-&gt; sui residui           Euro11.595.836,93 
- 
-&gt; sulla competenza      Euro 839.940,55   Euro12.435.777,48 
- 
-SOMMANO Euro 18.098.390,24 
- 
-^ Somme rimaste da pagare: 
- 
-&gt; sui residui       Euro 3.315.943,82 
- 
-&gt; sulla competenza      Euro 1.640.867,61 
- 
-SOMMANO      Euro 4.956811,43 
- 
-AVANZO di Amministrazione al 31 dicembre 2004      Euro13.141.578,81 
- 
-b) Compiti Residui di Riforma Fondiaria 
- 
-^ FONDO DI CASSA al 1 è gennaio 2004       Euro 488.900, 77 
- 
-^ Riscossioni: 
- 
-&gt; in conto residui      Euro 7.043,52 
- 
-&gt; in conto competenza      Euro 0,00    Euro 7.043,52 
- 
-SOMMANO          Euro 495.944,29 
- 
-^ Pagamenti: 
- 
-&gt; in conto residui      Euro 101.991,51 
- 
-&gt; in conto competenza      Euro 0,00 
- 
-SOMMANO          Euro 101.991,51 
- 
-^ FONDO DI CASSA al 31 dicembre 2004      Euro 393.952, 78 
- 
-^ Somme rimaste da riscuotere: 
- 
-&gt; sui residui       Euro 182.067,84 
- 
-&gt; sulla competenza      Euro 0,00    Euro 182.067, 84 
- 
-SOMMANO          Euro 576.020,62 
- 
-^ Somme rimaste da pagare: 
- 
-&gt; sui residui       Euro 369.498,93 
- 
-&gt; sulla competenza      Euro 0,00 
- 
-SOMMANO          Euro 369.498,93 
- 
-AVANZO di Amministrazione al 31 dicembre 2004      Euro 206.521,69 
- </corpo>
-                </comma>
-                <comma id="art13-com6">
-                    <num>
-6.</num>
-                    <corpo> - Ente per il diritto allo Studio Universitario 
- 
-^ FONDO DI CASSA al 1 è gennaio 2004       Euro 1.398.151,98 
- 
-^ Riscossioni: 
- 
-&gt; in conto residui      Euro 0,00 
- 
-&gt; in conto competenza      Euro 2.087.696,51   Euro 2.087.696,51 
- 
-SOMMANO          Euro 3.485.848,49 
- 
-^ Pagamenti: 
- 
-&gt; in conto residui      Euro 1.020.174,53 
- 
-&gt; in conto competenza      Euro 1.162.765,37 
- 
-SOMMANO          Euro 2.182.939,90 
- 
-^ FONDO DI CASSA al 31 dicembre 2004      Euro 1.302.908,59 
- 
- ^ Somme rimaste da riscuotere: 
- 
-&gt; sui residui       Euro 783.631,60 
- 
-&gt; sulla competenza      Euro 200.000,00   Euro 983.631,60 
- 
-SOMMANO          Euro 2.286540,19 
- 
-^ Somme rimaste da pagare: 
- 
-&gt; sui residui       Euro 807.403,59 
- 
-&gt; sulla competenza      Euro 1.161.380,78 
- 
-SOMMANO          Euro 1.968.784,37 
- 
-AVANZO di Amministrazione al 31 dicembre 2004      Euro 317.755,82 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art14">
-                <num>Art. 14 </num>
-                <rubrica>
- 
-Enti economici 
- 
-Ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art65">lettera d) dell'art. 65 della legge regionale 7 maggio 2002, n. 4</rif>: "Nuovo ordinamento contabile della Regione Molise" formano allegato, a titolo di documentazione, al rendiconto generale della Regione per l'esercizio 2004: 
- </rubrica>
-                <comma id="art14-com1">
-                    <num>
-1.</num>
-                    <corpo> il bilancio 2004 della 
- 
-Finanziaria Regionale per lo Sviluppo del Molise FINMOLISE - S.p.A. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale; 
- </corpo>
-                </comma>
-                <comma id="art14-com2">
-                    <num>
-2.</num>
-                    <corpo> il bilancio 2004 di Sviluppo Italia Molise - S.p.A. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale; 
- </corpo>
-                </comma>
-                <comma id="art14-com3">
-                    <num>
-3.</num>
-                    <corpo> il bilancio 2004 della Campitello Matese - s.c.p.a. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale; 
- </corpo>
-                </comma>
-                <comma id="art14-com4">
-                    <num>
-4.</num>
-                    <corpo> il bilancio 2003 della Molise Dati - S.p.A. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art15">
-                <num>Art. 15 </num>
-                <rubrica>
- 
-Conto Patrimoniale 
- 
-è approvato il Conto Generale del Patrimonio della Regione Molise per l'esercizio 2004. 
- 
-La consistenza finale del patrimonio regionale espone un saldo di Euro 258.741.956,44. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art15-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art16">
-                <num>Art. 16 </num>
-                <rubrica>
- 
-Pubblicazione 
- 
-La presente legge regionale entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise. 
- 
-La presente legge sarè pubblicata nel Bollettino Ufficiale della Regione Molise. è fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
-<?error Marker Warning 109?>
-                </rubrica>
-                <comma id="art16-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20051111">11 novembre 2005</dataDoc>
+				, n.
+				<numDoc>37</numDoc>
+				<titoloDoc>Rendiconto generale della Regione Molise per l'esercizio finanziario 2004.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica />
+					<comma id="art1-com1">
+						<num />
+						<corpo>Il rendiconto Generale della Regione Molise per l'esercizio 2004 è approvato con le risultanze esposte negli articoli seguenti.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>Entrate di competenza</rubrica>
+					<comma id="art2-com1">
+						<num />
+						<corpo>
+							Le entrate derivanti da tributi propri della Regione, dal gettito dei tributi erariali o di quote di esso devolute alla Regione; le entrate derivanti da contributi e trasferimenti di parte corrente dell'Unione Europea, dello Stato e di altri soggetti; le entrate extratributarie, le entrate derivanti da alienazioni, da trasformazione di capitale, da riscossione crediti e da trasferimenti in conto capitale; le entrate derivanti da mutui, prestiti ed altre operazioni creditizie; le entrate per contabilità speciali; accertate nell'esercizio 2004, per la competenza propria dell'esercizio stesso, risultano stabilite dal conto del bilancio
+							<h:p>in Euro 1.835.764.728,77</h:p>
+							<h:p>&gt; riscosse Euro 930.874.441,21</h:p>
+							<h:p>&gt; e rimaste da riscuotere Euro 665.212.430,45</h:p>
+							<h:p>&gt; avanzo di amministrazione accertato Euro 239.704.857,11</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>Spese di competenza</rubrica>
+					<comma id="art3-com1">
+						<num />
+						<corpo>
+							Le spese correnti, quelle in conto capitale, quelle per il rimborso di prestiti e per partite di giro, impegnate nell'esercizio finanziario per la competenza propria dell'esercizio stesso, risultano nel conto del bilancio in
+							<h:p>Euro 1.724.563.568,07</h:p>
+							<h:p>&gt; delle quali furono pagate Euro 948.392.147,84</h:p>
+							<h:p>&gt; e rimasero da pagare Euro 776.171.420,23</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>Accertamento ed impegni</rubrica>
+					<comma id="art4-com1">
+						<num />
+						<corpo>
+							Il riepilogo generale delle Entrate accertate e delle Spese impegnate di competenza dell'esercizio finanziario 2004, dal conto del bilancio, risulta stabilito come segue:
+							<h:p>ENTRATE</h:p>
+							<h:p>Tit. I° - Entrate derivanti da tributi propri della Regione, dal gettito di tributi erariali o di quote di esso devolute alla Regione Euro 331.667.918,16</h:p>
+							<h:p>Tit. II° - Entrate derivanti da contributi e trasferimenti di parte corrente dell'Unione Europea, dello Stato e di altri soggetti Euro 258.887.390,66</h:p>
+							<h:p>Tit. III° - Entrate extratributarie Euro 12.344.184,40</h:p>
+							<h:p>Tit. IV° - Entrate derivanti da alienazioni, da trasformazione di capitale, da riscossione crediti e da trasferimenti in conto capitale Euro 242.312.339,46</h:p>
+							<h:p>Tit. V° - Entrate derivanti da mutui, prestiti ed altre operazioni creditizie Euro 0,00</h:p>
+							<h:p>Tit. VI° - Entrate per contabilità speciali Euro 750.848.038,98</h:p>
+							<h:p>Avanzo di amministrazione Euro 239.704.857,11</h:p>
+							<h:p>Totale ENTRATE accertate Euro 1.835.764.728,77</h:p>
+							<h:p>SPESE</h:p>
+							<h:p>Tit. I° - Spese correnti Euro 559.091.095,85</h:p>
+							<h:p>Tit. II° - Spese in conto capitale Euro 401.975.226,72</h:p>
+							<h:p>Tit. III° - Spese per rimborsi prestiti Euro 12.649.206,52</h:p>
+							<h:p>Tit. V° - Spese per partite di giro Euro 750.848.038,98</h:p>
+							<h:p>Totale SPESE impegnate Euro 1.724.563.568,07</h:p>
+							<h:p>RIEPILOGO GESTIONE DI COMPETENZA</h:p>
+							<h:p>- Entrate accertate Euro 1.835.764.728,77</h:p>
+							<h:p>- Spese impegnate Euro 1.724.563.568,07</h:p>
+							<h:p>AVANZO di competenza Euro 111.201.160,70</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>Residui attivi 2003 e precedenti</rubrica>
+					<comma id="art5-com1">
+						<num />
+						<corpo>
+							I residui attivi rimasti accesi al 31 dicembre 2003 in Euro 1.404.212.942,73
+							<h:p>di cui furono riscossi nell'esercizio 2004 Euro 697.906.666,49</h:p>
+							<h:p>e rimasero da riscuotere alla fine dell'esercizio Euro 668.258.454,99</h:p>
+							<h:p>Dal conto sono stati eliminati, per insussistenza, prescrizione o perenzione, residui per Euro 55.675.318,92</h:p>
+							<h:p>e sono stati riaccertati residui per Euro 17.627.497,67</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>Residui passivi 2003 e precedenti</rubrica>
+					<comma id="art6-com1">
+						<num />
+						<alinea>
+							I residui passivi rimasti accesi al 31 dicembre 2003 in Euro 1.270.344.846,30
+							<h:br />
+							di cui furono pagati nell'esercizio 2004 Euro 494.574.526,50
+							<h:br />
+							e rimasero da pagare alla fine dell'esercizio Euro 378.125.472,16
+							<h:br />
+							Dal conto dei residui passivi sono stati eliminati:
+						</alinea>
+						<el id="art6-com1-leta">
+							<num>a)</num>
+							<corpo>per insussistenza o prescrizione Euro 33.620.877,30</corpo>
+						</el>
+						<el id="art6-com1-letb">
+							<num>b)</num>
+							<corpo>per perenzione amministrativa Euro 364.023.970,34</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>Somma dei residui attivi</rubrica>
+					<comma id="art7-com1">
+						<num />
+						<alinea>I residui attivi alla chiusura dell'esercizio finanziario 2004, risultano stabiliti dal conto del bilancio, nelle seguenti somme:</alinea>
+						<ep id="art7-com1-pun1">
+							<num>-</num>
+							<corpo>somme rimaste da riscuotere sulle entrate accertate per la competenza propria dell'esercizio 2004 (art. 2) Euro 665.212.430,45</corpo>
+						</ep>
+						<ep id="art7-com1-pun2">
+							<num>-</num>
+							<corpo>esercizi precedenti (art. 5) Euro 668.258.454,99</corpo>
+						</ep>
+						<ep id="art7-com1-pun3">
+							<num>-</num>
+							<corpo>residui attivi al 31 dicembre 2004 Euro 1.333.470.885,44</corpo>
+						</ep>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>Somma dei residui passivi</rubrica>
+					<comma id="art8-com1">
+						<num />
+						<alinea>I residui passivi alla chiusura dell'esercizio finanziario 2004, risultano stabiliti dal conto del bilancio, nelle seguenti somme:</alinea>
+						<ep id="art8-com1-pun1">
+							<num>-</num>
+							<corpo>somme rimaste da pagare sulle spese impegnate per la competenza propria dell'esercizio 2004 (art. 3) Euro 776.171.420,23</corpo>
+						</ep>
+						<ep id="art8-com1-pun2">
+							<num>-</num>
+							<corpo>esercizi precedenti (art. 6) Euro 378.125.472,16</corpo>
+						</ep>
+						<ep id="art8-com1-pun3">
+							<num>-</num>
+							<corpo>residui passivi al 31 dicembre 2004 Euro 1.154.296.892,39</corpo>
+						</ep>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<rubrica>Situazione finanziaria</rubrica>
+					<comma id="art9-com1">
+						<num />
+						<corpo>
+							L'Avanzo di Amministrazione dell'esercizio finanziario 2004 è accertato in Euro 470.798.187, 09 come risulta dai seguenti dati:
+							<h:p>ATTIVO</h:p>
+							<h:p>- Fondo di cassa al 31 dicembre 2003 Euro 105.836.760,68</h:p>
+							<h:p>- Riscossioni effettuate in conto residui Euro 697.906.666,49</h:p>
+							<h:p>- Riscossioni effettuate in conto competenza Euro 930.874.441,21</h:p>
+							<h:p>Totale ATTIVO Euro 1.734.590.868,38</h:p>
+							<h:p>PASSIVO</h:p>
+							<h:p>- Pagamenti effettuati in conto residui Euro 494.574.526,50</h:p>
+							<h:p>- Pagamenti effettuati in conto della competenza Euro 948.392.147,84</h:p>
+							<h:p>Totale PASSIVO Euro 1.442.966.674,34</h:p>
+							<h:p>- Fondo di cassa al 31 dicembre 2004 Euro 291.624.194,04</h:p>
+							<h:p>- Residui attivi Euro 1.333.470.885,44</h:p>
+							<h:p>SOMMA attiva Euro 1.625.095.079,48</h:p>
+							<h:p>- Residui passivi Euro 1.154.296.892,39</h:p>
+							<h:p>- AVANZO di Amministrazione al 31 dicembre 2004 Euro 470.798.187,09</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Art. 10</num>
+					<rubrica>Eliminazione dal conto dei residui attivi</rubrica>
+					<comma id="art10-com1">
+						<num />
+						<corpo>I residui attivi rimasti accesi al 31 dicembre 2003 e non riscossi entro il termine dell'esercizio 2004, descritti nella colonna n. 10 del rendiconto dell'entrata, vengono dichiarati insussistenti ed eliminati dal conto concorrendo così a determinare i risultati finali della gestione, come minori entrate.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art11">
+					<num>Art. 11</num>
+					<rubrica>Eliminazione dal conto dei residui passivi</rubrica>
+					<comma id="art11-com1">
+						<num />
+						<corpo>I residui passivi accesi al 31 dicembre 2003 non pagati al termine dell'esercizio 2004, descritti nelle colonne n. 10 e n. 11 del rendiconto della spesa, sono da considerarsi economie di spesa ed eliminati dal conto concorrendo così a determinare i risultati finali della gestione, come minori uscite.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art12">
+					<num>Art. 12</num>
+					<rubrica>Operazioni di raccordo</rubrica>
+					<comma id="art12-com1">
+						<num />
+						<corpo>Sono approvate le operazioni di raccordo delle risultanze tra le scritture contabili della Ragioneria Generale della Regione con quelle della Tesoreria Regionale in ordine all'allocazione nei capitoli propri del bilancio delle entrate e delle spese regionali.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art13">
+					<num>Art. 13</num>
+					<rubrica>Enti Dipendenti</rubrica>
+					<comma id="art13-com1">
+						<num />
+						<alinea>Sono approvati gli allegati rendiconti degli esercizi finanziari 2004 dei sottoelencati Enti Dipendenti operanti nella Regione Molise, che si chiudono con le risultanze finali a fianco di ciascuno indicate:</alinea>
+						<en id="art13-com1-num1">
+							<num>1.</num>
+							<corpo>
+								- Ente Provinciale per il Turismo di CAMPOBASSO
+								<h:p>^ FONDO DI CASSA al 1 ° gennaio 2004 Euro 129.851,34</h:p>
+								<h:p>^ Riscossioni:</h:p>
+								<h:p>&gt; in conto residui Euro 149,70</h:p>
+								<h:p>&gt; in conto competenza Euro 376.597,14 Euro 376 746,84</h:p>
+								<h:p>SOMMANO Euro 506.598,18</h:p>
+								<h:p>^ Pagamenti:</h:p>
+								<h:p>&gt; in conto residui Euro 85.517,70</h:p>
+								<h:p>&gt; in conto competenza Euro 382.190,63</h:p>
+								<h:p>SOMMANO Euro 467.708,33 Euro 467.708,33</h:p>
+								<h:p>^ FONDO DI CASSA al 31 dicembre 2004 Euro 38.889,85</h:p>
+								<h:p>^ Somme rimaste da riscuotere:</h:p>
+								<h:p>&gt; sui residui Euro 0,00</h:p>
+								<h:p>&gt; sulla competenza Euro 82.500,00 Euro 82.500,00</h:p>
+								<h:p>SOMMANO Euro 121.389,85</h:p>
+								<h:p>^ Somme rimaste da pagare:</h:p>
+								<h:p>&gt; sui residui Euro 13.289,60</h:p>
+								<h:p>&gt; sulla competenza Euro 53.956,81</h:p>
+								<h:p>SOMMANO Euro 67.246,41</h:p>
+								<h:p>AVANZO di Amministrazione al 31 dicembre 2004 Euro 54.143,44</h:p>
+							</corpo>
+						</en>
+						<en id="art13-com1-num2">
+							<num>2.</num>
+							<corpo>
+								- Ente Provinciale per il Turismo di ISERNIA
+								<h:p>^ FONDO DI CASSA al 1° gennaio 2004 Euro 113.117,28</h:p>
+								<h:p>^ Riscossioni:</h:p>
+								<h:p>&gt; in conto residui Euro 0,00</h:p>
+								<h:p>&gt; in conto competenza Euro 395.490,68 Euro 395.490,68</h:p>
+								<h:p>SOMMANO Euro 508.607,96</h:p>
+								<h:p>^ Pagamenti:</h:p>
+								<h:p>&gt; in conto residui Euro 81.860,93</h:p>
+								<h:p>&gt; in conto competenza Euro 367.624,95</h:p>
+								<h:p>SOMMANO Euro 449.485,88</h:p>
+								<h:p>^ FONDO DI CASSA al 31 dicembre 2004 Euro 59.122,08</h:p>
+								<h:p>^ Somme rimaste da riscuotere:</h:p>
+								<h:p>&gt; sui residui Euro 0,00</h:p>
+								<h:p>&gt; sulla competenza Euro 77.500,00 Euro 77.500,00</h:p>
+								<h:p>SOMMANO Euro 136622,08</h:p>
+								<h:p>^ Somme rimaste da pagare:</h:p>
+								<h:p>&gt; sui residui Euro 21.612,71</h:p>
+								<h:p>&gt; sulla competenza Euro 82.451,89</h:p>
+								<h:p>SOMMANO Euro 104.064,60</h:p>
+								<h:p>AVANZO di Amministrazione al 31 dicembre 2004 Euro 32.557,48</h:p>
+							</corpo>
+						</en>
+						<en id="art13-com1-num3">
+							<num>3.</num>
+							<corpo>
+								- Azienda Autonoma di Soggiorno e Turismo di TERMOLI
+								<h:p>^ FONDO DI CASSA al 1 ° gennaio 2004 Euro 163.522,16</h:p>
+								<h:p>^ Riscossioni:</h:p>
+								<h:p>&gt; in conto residui Euro 0,00</h:p>
+								<h:p>&gt; in conto competenza Euro 219.169,05 Euro 219.169,05</h:p>
+								<h:p>SOMMANO Euro 382.691,21</h:p>
+								<h:p>^ Pagamenti:</h:p>
+								<h:p>&gt; in conto residui Euro 1.235,64</h:p>
+								<h:p>&gt; in conto competenza Euro 248.825,71</h:p>
+								<h:p>SOMMANO Euro 250.061,35</h:p>
+								<h:p>^ FONDO DI CASSA al 31 dicembre 2004 Euro 132.629,86</h:p>
+								<h:p>^ Somme rimaste da riscuotere:</h:p>
+								<h:p>&gt; sui residui Euro 0,00</h:p>
+								<h:p>&gt; sulla competenza Euro 60.000,00 Euro 60.000,00</h:p>
+								<h:p>SOMMANO Euro 192.629,86</h:p>
+								<h:p>Somme rimaste da pagare:</h:p>
+								<h:p>&gt; sui residui Euro 0,00</h:p>
+								<h:p>&gt; sulla competenza Euro 73.949,74</h:p>
+								<h:p>SOMMANO Euro 73.949,74</h:p>
+								<h:p>AVANZO di Amministrazione al 31 dicembre 2004 Euro 118.680,12</h:p>
+							</corpo>
+						</en>
+						<en id="art13-com1-num4">
+							<num>4.</num>
+							<corpo>
+								- Istituto Regionale per gli Studi Storici del Molise "V. CUOCO"
+								<h:p>^ FONDO DI CASSA al 1 ° gennaio 2004 Euro 276.543, 60</h:p>
+								<h:p>Riscossioni:</h:p>
+								<h:p>&gt; in conto residui Euro 0,00</h:p>
+								<h:p>&gt; in conto competenza Euro 38.344,20 Euro 38.344,20</h:p>
+								<h:p>SOMMANO Euro 314.887,80</h:p>
+								<h:p>^ Pagamenti:</h:p>
+								<h:p>&gt; in conto residui Euro 12.476,91</h:p>
+								<h:p>&gt; in conto competenza Euro 49.360,30</h:p>
+								<h:p>SOMMANO Euro 61.837,21</h:p>
+								<h:p>^ FONDO DI CASSA al 31 dicembre 2004 Euro 253.050,59</h:p>
+								<h:p>^ Somme rimaste da riscuotere:</h:p>
+								<h:p>&gt; sui residui Euro 0,00</h:p>
+								<h:p>&gt; sulla competenza Euro 4.760,66 Euro 4.760, 66</h:p>
+								<h:p>SOMMANO Euro 257.811,25</h:p>
+								<h:p>Somme rimaste da pagare.</h:p>
+								<h:p>&gt; sui residui Euro 27.642,65</h:p>
+								<h:p>&gt; sulla competenza Euro 26.679,64</h:p>
+								<h:p>SOMMANO Euro 54.322,29</h:p>
+								<h:p>AVANZO di Amministrazione al 31 dicembre 2004 Euro 203.488,96</h:p>
+							</corpo>
+						</en>
+						<en id="art13-com1-num5">
+							<num>5.</num>
+							<alinea>- Ente Regionale di Sviluppo Agricolo per il Molise</alinea>
+							<el id="art13-com1-num5-leta">
+								<num>a)</num>
+								<corpo>
+									Attività di Sviluppo
+									<h:p>^ FONDO DI CASSA al 1 ° gennaio 2004 Euro 2.534.554,60</h:p>
+									<h:p>Riscossioni:</h:p>
+									<h:p>&gt; in conto residui Euro 4.789.274,82</h:p>
+									<h:p>&gt; in conto competenza Euro 4.817.281,79 Euro 9.606.556,61</h:p>
+									<h:p>SOMMANO Euro12.141.111,21</h:p>
+									<h:p>^ Pagamenti:</h:p>
+									<h:p>&gt; in conto residui Euro 776.581,48</h:p>
+									<h:p>&gt; in conto competenza Euro 5.701.916,97</h:p>
+									<h:p>SOMMANO Euro 6.478.498, 45</h:p>
+									<h:p>^ FONDO DI CASSA al 31 dicembre 2004 Euro 5.662.612,76</h:p>
+									<h:p>^ Somme rimaste da riscuotere:</h:p>
+									<h:p>&gt; sui residui Euro11.595.836,93</h:p>
+									<h:p>&gt; sulla competenza Euro 839.940,55 Euro12.435.777,48</h:p>
+									<h:p>SOMMANO Euro 18.098.390,24</h:p>
+									<h:p>^ Somme rimaste da pagare:</h:p>
+									<h:p>&gt; sui residui Euro 3.315.943,82</h:p>
+									<h:p>&gt; sulla competenza Euro 1.640.867,61</h:p>
+									<h:p>SOMMANO Euro 4.956811,43</h:p>
+									<h:p>AVANZO di Amministrazione al 31 dicembre 2004 Euro13.141.578,81</h:p>
+								</corpo>
+							</el>
+							<el id="art13-com1-num5-letb">
+								<num>b)</num>
+								<corpo>
+									Compiti Residui di Riforma Fondiaria
+									<h:p>^ FONDO DI CASSA al 1 ° gennaio 2004 Euro 488.900, 77</h:p>
+									<h:p>^ Riscossioni:</h:p>
+									<h:p>&gt; in conto residui Euro 7.043,52</h:p>
+									<h:p>&gt; in conto competenza Euro 0,00 Euro 7.043,52</h:p>
+									<h:p>SOMMANO Euro 495.944,29</h:p>
+									<h:p>^ Pagamenti:</h:p>
+									<h:p>&gt; in conto residui Euro 101.991,51</h:p>
+									<h:p>&gt; in conto competenza Euro 0,00</h:p>
+									<h:p>SOMMANO Euro 101.991,51</h:p>
+									<h:p>^ FONDO DI CASSA al 31 dicembre 2004 Euro 393.952, 78</h:p>
+									<h:p>^ Somme rimaste da riscuotere:</h:p>
+									<h:p>&gt; sui residui Euro 182.067,84</h:p>
+									<h:p>&gt; sulla competenza Euro 0,00 Euro 182.067, 84</h:p>
+									<h:p>SOMMANO Euro 576.020,62</h:p>
+									<h:p>^ Somme rimaste da pagare:</h:p>
+									<h:p>&gt; sui residui Euro 369.498,93</h:p>
+									<h:p>&gt; sulla competenza Euro 0,00</h:p>
+									<h:p>SOMMANO Euro 369.498,93</h:p>
+									<h:p>AVANZO di Amministrazione al 31 dicembre 2004 Euro 206.521,69</h:p>
+								</corpo>
+							</el>
+						</en>
+						<en id="art13-com1-num6">
+							<num>6.</num>
+							<corpo>
+								- Ente per il diritto allo Studio Universitario
+								<h:p>^ FONDO DI CASSA al 1 ° gennaio 2004 Euro 1.398.151,98</h:p>
+								<h:p>^ Riscossioni:</h:p>
+								<h:p>&gt; in conto residui Euro 0,00</h:p>
+								<h:p>&gt; in conto competenza Euro 2.087.696,51 Euro 2.087.696,51</h:p>
+								<h:p>SOMMANO Euro 3.485.848,49</h:p>
+								<h:p>^ Pagamenti:</h:p>
+								<h:p>&gt; in conto residui Euro 1.020.174,53</h:p>
+								<h:p>&gt; in conto competenza Euro 1.162.765,37</h:p>
+								<h:p>SOMMANO Euro 2.182.939,90</h:p>
+								<h:p>^ FONDO DI CASSA al 31 dicembre 2004 Euro 1.302.908,59</h:p>
+								<h:p>^ Somme rimaste da riscuotere:</h:p>
+								<h:p>&gt; sui residui Euro 783.631,60</h:p>
+								<h:p>&gt; sulla competenza Euro 200.000,00 Euro 983.631,60</h:p>
+								<h:p>SOMMANO Euro 2.286540,19</h:p>
+								<h:p>^ Somme rimaste da pagare:</h:p>
+								<h:p>&gt; sui residui Euro 807.403,59</h:p>
+								<h:p>&gt; sulla competenza Euro 1.161.380,78</h:p>
+								<h:p>SOMMANO Euro 1.968.784,37</h:p>
+								<h:p>AVANZO di Amministrazione al 31 dicembre 2004 Euro 317.755,82</h:p>
+							</corpo>
+						</en>
+					</comma>
+				</articolo>
+				<articolo id="art14">
+					<num>Art. 14</num>
+					<rubrica>Enti economici</rubrica>
+					<comma id="art14-com1">
+						<num />
+						<alinea>
+							Ai sensi della
+							<rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art65" xlink:type="simple">lettera d) dell'art. 65 della legge regionale 7 maggio 2002, n. 4</rif>
+							: "Nuovo ordinamento contabile della Regione Molise" formano allegato, a titolo di documentazione, al rendiconto generale della Regione per l'esercizio 2004:
+						</alinea>
+						<en id="art14-com1-num1">
+							<num>1.</num>
+							<corpo>il bilancio 2004 della Finanziaria Regionale per lo Sviluppo del Molise FINMOLISE - S.p.A. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale;</corpo>
+						</en>
+						<en id="art14-com1-num2">
+							<num>2.</num>
+							<corpo>il bilancio 2004 di Sviluppo Italia Molise - S.p.A. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale;</corpo>
+						</en>
+						<en id="art14-com1-num3">
+							<num>3.</num>
+							<corpo>il bilancio 2004 della Campitello Matese - s.c.p.a. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale;</corpo>
+						</en>
+						<en id="art14-com1-num4">
+							<num>4.</num>
+							<corpo>il bilancio 2003 della Molise Dati - S.p.A. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale.</corpo>
+						</en>
+					</comma>
+				</articolo>
+				<articolo id="art15">
+					<num>Art. 15</num>
+					<rubrica>Conto Patrimoniale</rubrica>
+					<comma id="art15-com1">
+						<num />
+						<corpo>È approvato il Conto Generale del Patrimonio della Regione Molise per l'esercizio 2004.</corpo>
+					</comma>
+					<comma id="art15-com2">
+						<num />
+						<corpo>La consistenza finale del patrimonio regionale espone un saldo di Euro 258.741.956,44.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art16">
+					<num>Art. 16</num>
+					<rubrica>Pubblicazione</rubrica>
+					<comma id="art16-com1">
+						<num />
+						<corpo>La presente legge regionale entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione Molise. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

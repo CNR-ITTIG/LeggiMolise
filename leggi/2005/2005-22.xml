@@ -1,18 +1,34 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20050601" num="12" tipo="BURM"/>
-                <entratainvigore norm="20050616"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2005-05-27;22"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
-                </materie>
-            </descrittori>
-        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20050601" num="12" tipo="BURM" />
+					<entratainvigore norm="20050602" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2005-05-27;22" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20050602" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20060621" fonte="rp1" id="t2" tipo="illegittimità" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2005-05-27;22" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:corte.costituzionale:sentenza:2006-06-21;247" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+				<redazionale xlink:type="simple">
+					<nota id="n1">
+						<h:p>La presente legge è stata dichiarata incostituzionale con sentenza del 21-28 giugno 2006, n. 247</h:p>
+					</nota>
+				</redazionale>
+			</meta>
+			<?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 12 del 1 giugno 2005 
@@ -27,56 +43,52 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc norm="20050527">27 maggio 2005</dataDoc>, n. <numDoc>22</numDoc>. 
- 
-<titoloDoc>Disciplina regionale in materia di rifiuti radioattivi.* 
-La presente legge è stata dichiarata incostituzionale con sentenza del 21-28 giugno 2006, n. 247 
- 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1 </num>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-                    <corpo> Sul territorio della Regione Molise sono preclusi il deposito, anche temporaneo, e lo stoccaggio di materiali nucleari non prodotti nel territorio regionale. Tale preclusione non si applica ai materiali necessari per scopi sanitari e per la ricerca scientifica. </corpo>
-                </comma>
-                <comma id="art1-com2">
-                    <num>
- 
-2.</num>
-
-                    <corpo> La Regione, attraverso le proprie strutture preposte alla vigilanza ambientale e sanitaria, ivi compresa l'ARPAM e le Aziende del Servizio sanitario regionale, cura la rilevazione tecnica e strumentale di presenze necessarie sul territorio regionale di materiale nucleare e adotta le misure di prevenzione idonee ai fini di cui al <rif xlink:href="#art1-com1">comma 1</rif>. </corpo>
-                </comma>
-                <comma id="art1-com3">
-                    <num>
- 
-3.</num>
-
-                    <corpo> Al fine di rendere noto l'assenza sul territorio regionale di materiale depositato e/o stoccato di cui al <rif xlink:href="#art1-com1">comma 1</rif>, la Giunta regionale prevede un congruo stanziamento nell'apposito capitolo. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2 </num>
-                <comma id="art2-com1">
-                    <num>
-1.</num>
-                    <corpo>  La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
-
-?>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20050527">27 maggio 2005</dataDoc>
+				, n.
+				<numDoc>22</numDoc>
+				.
+				<titoloDoc>
+					Disciplina regionale in materia di rifiuti radioattivi.
+					<ndr num="#n1" valore="" xlink:type="simple">(*)</ndr>
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>Sul territorio della Regione Molise sono preclusi il deposito, anche temporaneo, e lo stoccaggio di materiali nucleari non prodotti nel territorio regionale. Tale preclusione non si applica ai materiali necessari per scopi sanitari e per la ricerca scientifica.</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>
+							La Regione, attraverso le proprie strutture preposte alla vigilanza ambientale e sanitaria, ivi compresa l'ARPAM e le Aziende del Servizio sanitario regionale, cura la rilevazione tecnica e strumentale di presenze necessarie sul territorio regionale di materiale nucleare e adotta le misure di prevenzione idonee ai fini di cui al
+							<rif xlink:href="#art1-com1" xlink:type="simple">comma 1</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art1-com3">
+						<num>3.</num>
+						<corpo>
+							Al fine di rendere noto l'assenza sul territorio regionale di materiale depositato e/o stoccato di cui al
+							<rif xlink:href="#art1-com1" xlink:type="simple">comma 1</rif>
+							, la Giunta regionale prevede un congruo stanziamento nell'apposito capitolo.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>
