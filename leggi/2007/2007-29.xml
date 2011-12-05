@@ -140,16 +140,74 @@ Modifiche
 					</comma>
 				</articolo>
 			</articolato>
-			<formulafinale>
-				SEGUE ALLEGATO:
-				<h:br />
-				<h:a xlink:href="2007-29-tabAB.pdf" xlink:type="simple">TABELLA "A" e TABELLA "B": Assestamento del bilancio 2007</h:a>
-			</formulafinale>
+			<formulafinale />
 			<conclusione />
 			<?error SEGUE ALLEGATO: 
  
  
 
 ?>
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>
+							<h:a xlink:href="2007-29-tabAB.pdf" xlink:type="simple">Tabella A</h:a>
+						</denAnnesso>
+						<titAnnesso>Assestamento delle Entrate</titAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:regione.molise:legge:2007-12-03;29:tabella.a;assestamento.delle.entrate" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc />
+							<dataDoc norm="" />
+							<numDoc />
+							<titoloDoc />
+						</intestazione>
+						<contenitore id="con1" nome="corpo">
+							<h:p />
+							<h:p />
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann2">
+					<testata>
+						<denAnnesso>
+							<h:a xlink:href="2007-29-tabAB.pdf" xlink:type="simple">Tabella B</h:a>
+						</denAnnesso>
+						<titAnnesso>Assestamento delle Uscite</titAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red3" nome="" norm="" />
+								<urn valore="urn:nir:regione.molise:legge:2007-12-03;29:tabella.b;assestamento.delle.uscite" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc />
+							<dataDoc norm="" />
+							<numDoc />
+							<titoloDoc />
+						</intestazione>
+						<contenitore id="con2" nome="corpo">
+							<h:p />
+							<h:p />
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
 		</LeggeRegionale>
 	</NIR>
