@@ -197,7 +197,7 @@ Modifiche
 			<annessi>
 				<annesso id="ann1">
 					<testata>
-						<denAnnesso>ALLEGATO 1.</denAnnesso>
+						<denAnnesso>ALLEGATO 1</denAnnesso>
 					</testata>
 					<DocumentoNIR nome="xxxxx">
 						<meta>
@@ -4441,7 +4441,7 @@ Modifiche
 				</annesso>
 				<annesso id="ann2">
 					<testata>
-						<denAnnesso>ALLEGATO 2.</denAnnesso>
+						<denAnnesso>ALLEGATO 2</denAnnesso>
 					</testata>
 					<DocumentoNIR nome="xxxxx">
 						<meta>
@@ -4507,7 +4507,7 @@ Modifiche
 				</annesso>
 				<annesso id="ann3">
 					<testata>
-						<denAnnesso>ALLEGATO 3.</denAnnesso>
+						<denAnnesso>ALLEGATO 3</denAnnesso>
 					</testata>
 					<DocumentoNIR nome="xxxxx">
 						<meta>
@@ -4522,7 +4522,6 @@ Modifiche
 							<emanante />
 							<tipoDoc />
 							<dataDoc norm="" />
-							, n.
 							<numDoc />
 							<titoloDoc>
 								Regolamenti convalidati ai sensi dell'
