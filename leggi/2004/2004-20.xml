@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="" num="" tipo="GU"/>
-                <entratainvigore norm=""/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2004-10-18;20"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20080316" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2008;04" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20041030" num="22" tipo="BURM" />
+					<entratainvigore norm="20041114" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2004-10-18;20" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20041114" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20080316" fonte="rp1" id="t2" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2004-10-18;20" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2008;04" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x96; N. 22  del 30 ottobre  2004 
@@ -27,28 +38,35 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc
-                    norm="20041018">18 ottobre 2004</dataDoc>, n. <numDoc>20</numDoc>. 
- 
-<titoloDoc>Modifiche alla <rif
-                    xlink:href="urn:nir:regione.molise:legge:2000-02-21;11">legge regionale 21 febbraio 2000, n. 11</rif>, recante: "Norme sulla raccolta e sulla commercializzazione dei funghi epigei, secondo i principi stabiliti dalla <rif xlink:href="urn:nir:stato:legge:1993;352">legge n. 352/1993</rif>". 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 4/2008 art. 24</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20041018">18 ottobre 2004</dataDoc>
+				, n.
+				<numDoc>20</numDoc>
+				.
+				<titoloDoc>
+					Modifiche alla
+					<rif xlink:href="urn:nir:regione.molise:legge:2000-02-21;11" xlink:type="simple">legge regionale 21 febbraio 2000, n. 11</rif>
+					, recante: "Norme sulla raccolta e sulla commercializzazione dei funghi epigei, secondo i principi stabiliti dalla
+					<rif xlink:href="urn:nir:stato:legge:1993;352" xlink:type="simple">legge n. 352/1993</rif>
+					".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>
+							abrogata intera legge dalla
+							<rif xlink:href="urn:nir:regione.molise:legge:2008;4#art24" xlink:type="simple">legge n. 4/2008 art. 24</rif>
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

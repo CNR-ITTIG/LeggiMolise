@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="" num="" tipo="GU"/>
-                <entratainvigore norm=""/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2004-11-23;27"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20090131" fonte="rp1" id="t1" tipo="modifica"/><evento data="20080816" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;01" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2007;24" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20041201" num="26" tipo="BURM" />
+					<entratainvigore norm="20041202" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2004-11-23;27" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20041202" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20080816" fonte="rp1" id="t2" tipo="modifica" />
+						<evento data="20090131" fonte="rp2" id="t3" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2004-11-23;27" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;24" xlink:type="simple" />
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2009;01" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 26 dell' 1 dicembre 2004 
@@ -29,1411 +42,1065 @@ Modificato art. 6 dalla legge n. 24/2007 art. 3
 Modificato art. 8 dalla legge n. 24/2007 art. 3 
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc norm="20041123">23 novembre 2004</dataDoc>, n. <numDoc>27</numDoc>. 
- 
-<titoloDoc>Istituzione dell'Agenzia regionale per lo sviluppo e l'innovazione dell'agricoltura nel Molise "Giacomo Sedati" (ARSIAM). 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1 . </num>
-                <rubrica>
- 
-Scopo della legge 
- </rubrica>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-                    <alinea> Al fine di riordinare e di organizzare l'attività amministrativa in agricoltura la presente legge disciplina: 
- 
-</alinea>
-                    <el id="art1-com1-leta">
-                        <num>a)</num>
-                        <corpo> l'istituzione dell'Agenzia regionale per lo sviluppo e l'innovazione dell'agricoltura nel Molise "Giacomo Sedati"; di seguito denominata: "Agenzia" o, in sigla, ARSIAM;</corpo>
-                    </el>
-                    <el id="art1-com1-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo>
-                            <mod id="art1-com1-letb-mod1"> la soppressione dell'Ente regionale di sviluppo agricolo per il Molise (ERSAM). 
- 
-</mod>
-                        </corpo>
-                    </el>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2 </num>
-                <rubrica>
- 
-Istituzione dell'Agenzia -Finalità 
- </rubrica>
-                <comma id="art2-com1">
-                    <num>
-1.</num>
-                    <corpo> è istituita l'Agenzia: regionale per lo sviluppo e l'innovazione dell'agricoltura nel Molise "Giacomo Sedati" (ARSIAM) con sede in Campobasso. </corpo>
-                </comma>
-                <comma id="art2-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> L'Agenzia è organismo tecnico strumentale della Regione, con personalità giuridica di diritto pubblico, ed è dotata di autonomia organizzativa, amministrativa, patrimoniale, gestionale, contabile e finanziaria. </corpo>
-                </comma>
-                <comma id="art2-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> L'Agenzia, nel quadro della politica agricola comunitaria e nazionale, svolge le proprie funzioni ed attribuzioni secondo gli indirizzi del Consiglio regionale ed in conformità alle direttive della Giunta regionale e dell'assessore regionale all'Agricoltura, foreste e pesca produttiva., anche in collaborazione con le Province, i Comuni, le Comunità montane e le organizzazioni e le associazioni di settore. </corpo>
-                </comma>
-                <comma id="art2-com4">
-                    <num>
- 
-4.</num>
-
-                    <corpo> L'Agenzia coordina le attività svolte dal Co.Re.Di.Mo. (Consorzio regionale molisano di difesa) disciplinate dalla <rif xlink:href="urn:nir:regione.molise:legge:2002-11-06;31">legge regionale 6 novembre 2002, n. 31</rif>, e dalle A.P.A. (Associazioni provinciali allevatori). Il Co.Re.Di.Mo. e le A.P.A, trasmettono entro il 31 agosto di ogni anno alla struttura competente dell'Agenzia i programmi di attività tecnica specialistica di loro competenza ed i relativi conti finanziari, 
- </corpo>
-                </comma>
-                <comma id="art2-com5">
-                    <num>
-5.</num>
-                    <alinea> L'Agenzia persegue le seguenti finalità istituzionali: 
- 
-</alinea>
-                    <el id="art2-com5-leta">
-                        <num>a)</num>
-                        <corpo> ammodernamento, potenziamento, specializzazione e sviluppo razionale delle imprese agricole;</corpo>
-                    </el>
-                    <el id="art2-com5-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> predisposizione ed esecuzione di piani e programmi operativi di interesse agricolo riguardanti il miglioramento delle strutture fondiarie ed agrarie approvati dalla Regione;</corpo>
-                    </el>
-                    <el id="art2-com5-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> prestazione, su richiesta, di consulenza ed assistenza in materia agricola alle Comunità montane, agli enti territoriali locali e ad altri enti pubblici del settore;</corpo>
-                    </el>
-                    <el id="art2-com5-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> orientamento produttivo alle imprese agricole singole od associate per la migliore conduzione e gestione delle aziende o dei fondi;</corpo>
-                    </el>
-                    <el id="art2-com5-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> elaborazione e collaborazione esecutiva di progetti di miglioramento fondiario ed agrario, su richiesta dei produttori agricoli singoli od associati;</corpo>
-                    </el>
-                    <el id="art2-com5-letf">
-                        <num> 
- 
-f)</num>
-                        <corpo> promozione e diffusione della moderna cultura d'impresa, funzionale alla costituzione di competitive aziende agricole e zootecniche nelle forme singole od associate;</corpo>
-                    </el>
-                    <el id="art2-com5-letg">
-                        <num> 
- 
-g)</num>
-                        <corpo> promozione e sostegno alla diffusione ed al trasferimento dell'innovazione tecnologica nel settore agricolo, zootecnico, agro-alimentare, agro-industriale, agro-forestale e pesca produttiva;</corpo>
-                    </el>
-                    <el id="art2-com5-leth">
-                        <num> 
- 
-h)</num>
-                        <corpo> consulenza ed assistenza tecnica in materia di produzione, trasformazione, conservazione, commercializzazione di prodotti agricoli e introduzione di innovazioni tecnico-produttive finalizzate alla tutela della salute degli operatori agricoli, alla salvaguardia dell'ambiente naturale, al risparmio energetico ed alla razionalizzazione dei mezzi di produzione;</corpo>
-                    </el>
-                    <el id="art2-com5-leti">
-                        <num> 
- 
-i)</num>
-                        <corpo> attività di supporto allo sviluppo dell'associazionismo;</corpo>
-                    </el>
-                    <el id="art2-com5-letj">
-                        <num> 
- 
-j)</num>
-                        <corpo> riordino, ricomposizione ed ampliamento fondiario. </corpo>
-                    </el>
-                </comma>
-                <comma id="art2-com6">
-                    <num>
- 
-6.</num>
-
-                    <corpo> L'Agenzia svolge le funzioni di organismo pagatore, previo riconoscimento, ai sensi del <rif xlink:href="urn:nir:stato:decreto.legislativo:1999-05-27;165">decreto legislativo 27 maggio 1999, n. 165</rif>. La Giunta regionale adotta i necessari provvedimenti ed impartisce le opportune direttive. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art. 3 </num>
-                <rubrica>
- 
-Funzioni 
- </rubrica>
-                <comma id="art3-com1">
-                    <num>
-1.</num>
-
-                    <alinea> Per il conseguimento delle finalità di cui all'<rif xlink:href="#art2-com5">articolo 2, comma 5</rif>, l'Agenzia svolge le seguenti funzioni: 
- 
-</alinea>
-                    <el id="art3-com1-leta">
-                        <num>a)</num>
-                        <corpo> elabora ed attua iniziative per favorire la diffusione ed il trasferimento alle imprese agricole e della pesca produttiva delle innovazioni tecnologiche, al fine di elevare la produzione, di valorizzare le caratteristiche qualitative, di abbattere l'uso di pesticidi in agricoltura e di migliorare la qualità dell'ambiente;</corpo>
-                    </el>
-                    <el id="art3-com1-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> garantisce assistenza e consulenza tecnica alle imprese agricole e della pesca produttiva singole ed associate con l'erogazione di servizi diretti alla diffusione e trasferimento di innovazioni di processo e di prodotto ed in materia di trasformazione, conservazione e commercializzazione di prodotti;</corpo>
-                    </el>
-                    <el id="art3-com1-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> promuove iniziative volte a favorire lo sviluppo rurale in special modo nelle aree interne della regione, con particolare riferimento alle produzioni ecocompatibili ed a basso impatto ambientale;</corpo>
-                    </el>
-                    <el id="art3-com1-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> gestisce la rete agrometereologica regionale in collegamento con le altre reti regionali, il Servizio regionale dei suoli ed il Sistema informativo agricolo regionale (S.I.A.R.);</corpo>
-                    </el>
-                    <el id="art3-com1-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> garantisce consulenza ed assistenza in materia agricola alle Comunità montane ed agli altri Enti territoriali locali;</corpo>
-                    </el>
-                    <el id="art3-com1-letf">
-                        <num> 
- 
-f)</num>
-                        <corpo> promuove e gestisce servizi e sistemi di informazione in ordine alle normative ed alle iniziative in ambito comunitario, statale e regionale;</corpo>
-                    </el>
-                    <el id="art3-com1-letg">
-                        <num> 
- 
-g)</num>
-                        <corpo> elabora studi, indagini e progetti finalizzati alla sperimentazione ed alla diffusione di tecniche produttive biologiche e di altre tecniche di produzione eco-compatibili;</corpo>
-                    </el>
-                    <el id="art3-com1-leth">
-                        <num> 
- 
-h)</num>
-                        <corpo> elabora e diffonde indagini di mercato, svolte di concerto con le associazioni e con gli organismi collettivi del settore agricolo della Regione Molise, finalizzate a favorire l'esportazione delle produzioni tipiche della Regione, anche mediante assistenza tecnica ed amministrativa;</corpo>
-                    </el>
-                    <el id="art3-com1-leti">
-                        <num> 
- 
-i)</num>
-                        <corpo> promuove la qualità d'origine attraverso la creazione di marchi di qualità;</corpo>
-                    </el>
-                    <el id="art3-com1-letj">
-                        <num> 
- 
-j)</num>
-                        <corpo> promuove, d'intesa con la formazione professionale regionale, corsi di qualificazione e di aggiornamento dei produttori agricoli e dei quadri tecnici degli organismi agricoli con particolare riguardo all'accesso ed alla gestione di nuove tecnologie;</corpo>
-                    </el>
-                    <el id="art3-com1-letk">
-                        <num> 
- 
-k)</num>
-
-                        <corpo> coordina e gestisce, anche in convenzione con le Comunità montane, i piani, i programmi ed il personale nel campo della forestazione di cui alla <rif xlink:href="urn:nir:regione.molise:legge:2000-01-18;6">legge regionale 18 gennaio 2000, n. 6</rif>. </corpo>
-                    </el>
-                </comma>
-                <comma id="art3-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Nelle more dell'attuazione della <rif xlink:href="urn:nir:regione.molise:legge:1999-09-29;34">legge regionale 29 settembre 1999, n. 34</rif>, i compiti ivi previsti in materia di agricoltura possono essere attribuiti di volta in volta all'Agenzia con provvedimento della Giunta regionale. </corpo>
-                </comma>
-                <comma id="art3-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> In Applicazione dell'<rif
-                            xlink:href="urn:nir:stato:legge:1998-05-08;146#art24">articolo 24 della legge 8 maggio 1998, n. 146</rif>, l'Agenzia, inoltre, esplica e completa, con le modalità e le condizioni previste dagli articoli 9, 10 e 11 della <rif xlink:href="urn:nir:stato:legge:1976-04-30;386">legge 30 aprile 1976, n. 386</rif>, i compiti residui della riforma fondiaria e quelli in materia fondiaria già attribuiti all'Ente regionale di sviluppo agricolo per il Molise. </corpo>
-                </comma>
-                <comma id="art3-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Le attività di cui al presente articolo potranno essere svolte in collaborazione con altri soggetti ed istituzioni, pubbliche o private, attraverso la stipula di convenzioni o mediante la partecipazione a forme associative, consortili o societarie, nell'ottica della ottimizzazione dei servizi di sviluppo forniti agli operatori del settore primario. </corpo>
-                </comma>
-                <comma id="art3-com5">
-                    <num>
- 
-5.</num>
-                    <alinea> L'Agenzia svolge, inoltre, le seguenti funzioni: 
- 
-</alinea>
-                    <el id="art3-com5-leta">
-                        <num>a)</num>
-                        <corpo> opera come intermediario qualificato tra il sistema produttivo ed i soggetti detentori o creatori di tecnologie specifiche, in particolare con le Università, gli enti e gli istituti pubblici e privati di ricerca operanti in Italia e all'estero;</corpo>
-                    </el>
-                    <el id="art3-com5-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> realizza l'osservatorio dei mercati dei prodotti agroa l i mentari;</corpo>
-                    </el>
-                    <el id="art3-com5-letc">
-                        <num> 
- 
-c)</num>
-
-                        <corpo> esegue ogni altro compito e funzione ad essa delegato dalla Regione e coerente con le finalità di cui all'<rif xlink:href="#art2">articolo 2</rif>;</corpo>
-                    </el>
-                    <el id="art3-com5-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> acquisisce brevetti e know-how di cui promuove l'adozione nei processi produttivi delle aziende agricole, forestali ed agro-alimentari;</corpo>
-                    </el>
-                    <el id="art3-com5-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> redige studi, progetti di fattibilità ed esecutivi anche su commessa di enti pubblici e privati. 
- 
-</corpo>
-                    </el>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>Art. 4 </num>
-                <rubrica>
- 
-Programmazione 
- </rubrica>
-                <comma id="art4-com1">
-                    <num>
-1.</num>
-                    <corpo> L'Agenzia opera sulla base di un programma triennale generale e di programmi annuali che disciplinano le attività proprie e quelle degli Enti da essa coordinati; in essi sono individuati le linee d'intervento, gli obiettivi da perseguire nel triennio, gli strumenti per la verifica dei risultati e quelli necessari allo svolgimento dell'attività stessa. </corpo>
-                </comma>
-                <comma id="art4-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> L'Agenzia propone all'assessorato regionale all' "Agricoltura" il programma triennale ed i programmi annuali; l'assessorato li trasmette non oltre trenta giorni alla Giunta regionale per l'adozione. </corpo>
-                </comma>
-                <comma id="art4-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Entro novanta giorni dall'adozione, il Consiglio regionale approva il programma triennale di cui al comma precedente; decorso inutilmente tale termine il programma triennale si intende approvato. </corpo>
-                </comma>
-                <comma id="art4-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Il programma triennale è attuato mediante programmi annuali che il Consiglio di amministrazione presenta, entro il 30 ottobre di ogni anno, alla Giunta regionale che provvederè alla loro approvazione nei successivi trenta giorni. Decorso inutilmente tale termine, i programmi annuali si intendono approvati. </corpo>
-                </comma>
-                <comma id="art4-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> Il programma annuale individua le attività da svolgere nell'anno di riferimento, indicando i settori di intervento, le iniziative progettuali, i beneficiari, le previsioni di spesa e di mezzi per attuarle, nonché gli strumenti per la verifica dei risultati. </corpo>
-                </comma>
-                <comma id="art4-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> Il Presidente della Regione, la Giunta regionale ed il Consiglio regionale possono impartire, in ogni tempo, direttive in ordine all'attività dell'Agenzia. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art5">
-                <num>Art. 5 </num>
-                <rubrica>
- 
-Organi 
- </rubrica>
-                <comma id="art5-com1">
-                    <num>
-1.</num>
-                    <corpo> Sono organi dell'Agenzia,  
- 
-a) il Presidente;  
- 
-b) il Consiglio di amministrazione; 
- 
-c) il Collegio dei revisori dei conti. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art6">
-                <num>Art. 6 </num>
-                <rubrica>
- 
-Consiglio di amministrazione - Composizione -Attribuzioni - Compensi 
- </rubrica>
-                <comma id="art6-com1">
-                    <num>
-1.</num>
-                    <corpo> Il Consiglio di amministrazione è composto da cinque membri, oltre al Presidente. I cinque membri componenti sono nominati dal Consiglio regionale, con voto limitato a tre. Alle riunioni del Consiglio di amministrazione partecipa, senza diritto di voto, il direttore generale dell'ARSIAM. Un funzionario dell'ARSIAM svolge le mansioni di segretario. In fase di prima applicazione della presente legge il Consiglio di amministrazione è nominato entro novanta giorni dall'entrata in vigore della stessa. </corpo>
-                </comma>
-                <comma id="art6-com2">
-                    <num>
- 
-2.</num>
-                    <alinea> In particolare il Consiglio di amministrazione: 
- 
-</alinea>
-                    <el id="art6-com2-leta">
-                        <num>a)</num>
-
-                        <corpo> propone alla Giunta regionale, per l'approvazione, la programmazione triennale dell'attività dell'Agenzia tenendo conto anche dei programmi trasmessi ai sensi dell'<rif xlink:href="#art2-com4">art 2, comma 4</rif>;</corpo>
-                    </el>
-                    <el id="art6-com2-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> sulla base degli indirizzi regionali definisce i piani da attuare e fissa gli obiettivi che il direttore generale deve perseguire nella gestione dell'Agenzia;</corpo>
-                    </el>
-                    <el id="art6-com2-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> approva il bilancio di previsione, le relative variazioni ed il conto consuntivo;</corpo>
-                    </el>
-                    <el id="art6-com2-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> propone alla Giunta regionale tutte le modificazioni e le innovazioni utili all'ottimizzazione delle strutture e dei servizi dell'Agenzia;</corpo>
-                    </el>
-                    <el id="art6-com2-lete">
-                        <num> 
- 
-e)</num>
-
-                        <corpo> predispone, sentito il Comitato tecnico-scientifico di cui all'<rif xlink:href="#art13">articolo 13</rif>, il programma annuale di attività, in conformità al piano triennale dell'attività dell'Agenzia approvato dal Consiglio regionale;</corpo>
-                    </el>
-                    <el id="art6-com2-letf">
-                        <num> 
- 
-f)</num>
-                        <corpo> propone all'approvazione della Giunta regionale l'istituzione degli Uffici territoriali (U T.) dell'Agenzia;</corpo>
-                    </el>
-                    <el id="art6-com2-letg">
-                        <num> 
- 
-g)</num>
-                        <corpo> assegna il personale alle strutture dell'Agenzia ed agli Uffici territoriali attribuendo i relativi incarichi. </corpo>
-                    </el>
-                </comma>
-                <comma id="art6-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Il Consiglio di amministrazione resta in carica per tutta la durata del Consiglio regionale che lo ha nominato. </corpo>
-                </comma>
-                <comma id="art6-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Per la validità delle sedute del Consiglio di amministrazione è necessaria la presenza di almeno quattro componenti. Per la validità delle deliberazioni è necessario il voto favorevole della maggioranza dei consiglieri presenti. Nel computo dei presenti vanno inclusi i consiglieri astenuti. A parità di voti, la maggioranza è determinata dal voto del Presidente. </corpo>
-                </comma>
-                <comma id="art6-com5">
-                    <num>
- 
-5.</num>
-
-                    <corpo> Al Presidente del Consiglio di amministrazione dell'Agenzia ed ai componenti del Consiglio stesso è attribuita un'indennità di funzione mensile non superiore, rispettivamente, al 50% ed al 25% di quella stabilita, ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:2000-08-18;267#art82">art. 82 del decreto legislativo 18 agosto 2000, n. 267</rif>, per i sindaci dei comuni di dimensione demografica pari a quella della Regione Molise. </corpo>
-                </comma>
-                <comma id="art6-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> L'indennità di cui al comma precedente è ridotta del 25% per ogni assenza che non sia dovuta a grave e motivato impedimento od impegno istituzionale. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art7">
-                <num>Art. 7 </num>
-                <rubrica>
- 
-Presidente 
- </rubrica>
-                <comma id="art7-com1">
-                    <num>
-1.</num>
-                    <corpo> Il Presidente è nominato con decreto del Presidente della Regione su conforme deliberazione della Giunta. </corpo>
-                </comma>
-                <comma id="art7-com2">
-                    <num>
- 
-2.</num>
-                    <alinea> Il Presidente: 
- 
-</alinea>
-                    <el id="art7-com2-leta">
-                        <num>a)</num>
-                        <corpo> ha la rappresentanza legale dell'Agenzia;</corpo>
-                    </el>
-                    <el id="art7-com2-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> sovrintende all'attività gestionale dell'Agenzia;</corpo>
-                    </el>
-                    <el id="art7-com2-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> convoca e presiede il Consiglio di amministrazione;</corpo>
-                    </el>
-                    <el id="art7-com2-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> impartisce al direttore generale le direttive strategiche stabilite dal Consiglio di amministrazione;</corpo>
-                    </el>
-                    <el id="art7-com2-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> stipula il contratto di lavoro con il direttore generale;</corpo>
-                    </el>
-                    <el id="art7-com2-letf">
-                        <num> 
- 
-f)</num>
-                        <corpo> relaziona annualmente alla Giunta regionale sull'andamento dell'Azienda;</corpo>
-                    </el>
-                    <el id="art7-com2-letg">
-                        <num> 
- 
-g)</num>
-                        <corpo> adotta gli altri atti non attribuiti al Consiglio di amministrazione, al direttore generale o al personale dirigente dell'Agenzia;</corpo>
-                    </el>
-                    <el id="art7-com2-leth">
-                        <num> 
- 
-h)</num>
-
-                        <corpo> può assumere le figure previste dagli articoli 7 e 9 della <rif xlink:href="urn:nir:stato:legge:2000-06-07;150">legge 7 giugno 2000, n. 150</rif>. </corpo>
-                    </el>
-                </comma>
-                <comma id="art7-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> In caso di assenza o di impedimento, il Presidente è sostituito da uno dei consiglieri di amministrazione formalmente delegato di volta in volta o, in mancanza di delega, dal consigliere più anziano d'età. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art8">
-                <num>Art. 8 </num>
-                <rubrica>
- 
-Collegio dei revisori dei conti - Composizione -Attribuzioni - Compensi 
- </rubrica>
-                <comma id="art8-com1">
-                    <num>
-1.</num>
-                    <corpo> Il Collegio dei revisori, individuato tra soggetti iscritti all'Albo dei revisori dei conti, si compone di tre membri effettivi e di due membri supplenti. è nominato con decreto del Presidente della Giunta regionale ed i suoi componenti sono eletti, con voto limitato, dal Consiglio regionale, che individua il Presidente e per ciascun componente effettivo il rispettivo supplente. </corpo>
-                </comma>
-                <comma id="art8-com2">
-                    <num>
- 
-2.</num>
-                    <alinea> Il Collegio dei revisori, per l'esercizio del controllo sull'amministrazione dell'Agenzia, svolge le seguenti funzioni: 
- 
-</alinea>
-                    <el id="art8-com2-leta">
-                        <num>a)</num>
-                        <corpo> esamina i bilanci preventivi ed i conti consuntivi, esprimendo a tal fine pareri e redigendo apposite relazioni;</corpo>
-                    </el>
-                    <el id="art8-com2-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> effettua la verifica, almeno una volta ogni trimestre, della cassa e dei valori dell'Agenzia o da questa ricevuti a qualsiasi titolo;</corpo>
-                    </el>
-                    <el id="art8-com2-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> esprime pareri sulle variazioni di bilancio, sugli storni di fondi e formula proposte al Consiglio di amministrazione ed al direttore generale finalizzate a conseguire una migliore efficienza, produttività ed economicità di gestione. </corpo>
-                    </el>
-                </comma>
-                <comma id="art8-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Le verifiche e gli accertamenti effettuati, i pareri espressi e le relazioni vengono trascritti in apposito registro e sottoscritti dagli intervenuti. </corpo>
-                </comma>
-                <comma id="art8-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Le decisioni del Collegio dei revisori sono assunte a maggioranza. Le motivazioni dei dissenzienti devono essere riportate a verbale. </corpo>
-                </comma>
-                <comma id="art8-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> Qualora il Collegio dei revisori accerti gravi irregolarità nella gestione dell'Agenzia deve fornirne tempestiva informativa al Consiglio di amministrazione ed al Presidente della Regione. </corpo>
-                </comma>
-                <comma id="art8-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> Tutti gli atti del Collegio dei revisori sono comunicati al direttore generale dell'Agenzia. </corpo>
-                </comma>
-                <comma id="art8-com7">
-                    <num>
- 
-7.</num>
-                    <corpo> Il Collegio dei revisori dura in carica per il periodo di durata del Consiglio regionale che lo ha nominato. </corpo>
-                </comma>
-                <comma id="art8-com8">
-                    <num>
- 
-8.</num>
-                    <corpo> Al Presidente ed ai componenti del Collegio dei revisori dei conti spetta un'indennità mensile pari, rispettivamente, al 40 ed al 30 per cento di quella prevista per il Presidente dell'Agenzia, nonché il rimborso delle spese di viaggio. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art9">
-                <num>Art. 9 </num>
-                <rubrica>
- 
-Incompatibilità -Decadenza 
- </rubrica>
-                <comma id="art9-com1">
-                    <num>
-1.</num>
-
-                    <alinea> Fatte salve le cause di incompatibilità previste dall'<rif xlink:href="urn:nir:regione.molise:legge:2002-08-02;16#art2-com1">articolo 2, comma 1, della legge regionale 2 agosto 2002, n. 16</rif>, non possono essere nominati Presidente o componente del Consiglio di amministrazione nè componente del Collegio dei revisori dei conti: 
- 
-</alinea>
-                    <el id="art9-com1-leta">
-                        <num>a)</num>
-                        <corpo> i consiglieri e gli assessori regionali, i componenti di organi di altri enti, istituti e aziende dipendenti dalla Regione Molise; i sindaci, i consiglieri e gli assessori comunali; i presidenti, i consiglieri e gli assessori provinciali; i presidenti, i consiglieri e gli assessori delle Comunità montane; i componenti di organi delle A.S.L.;</corpo>
-                    </el>
-                    <el id="art9-com1-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> coloro che, in qualità di imprenditori o di amministratori di società, abbiano effettuato negli ultimi tre anni o effettuino forniture di beni o di servizi all'Agenzia;</corpo>
-                    </el>
-                    <el id="art9-com1-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> il personale in servizio presso l'Agenzia e coloro che negli ultimi tre anni abbiano avuto o abbiano contenziosi giudiziari con l'Agenzia;</corpo>
-                    </el>
-                    <el id="art9-com1-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> tutti coloro per i quali l'incapacità è sentenziata da una condanna penale e per il periodo in essa indicato, salvo gli effetti della riabilitazione. </corpo>
-                    </el>
-                </comma>
-                <comma id="art9-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Non possono, altresì, essere nominati coloro che sono legati tra di loro da vincolo di parentela o di affinità entro il terzo grado. </corpo>
-                </comma>
-                <comma id="art9-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> I componenti del Collegio dei revisori dei conti non possono far parte di commissioni e di altri organismi costituiti nell'ambito dell'Agenzia, nè ricevere da questa incarichi di studio e di consulenza. </corpo>
-                </comma>
-                <comma id="art9-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Le dimissioni dei componenti degli organi dell'Agenzia devono essere presentate al Presidente della Regione ed esplicano efficacia dalla data della loro accettazione. </corpo>
-                </comma>
-                <comma id="art9-com5">
-                    <num>
- 
-5.</num>
-                    <alinea> Costituiscono causa di decadenza dalla carica: 
- 
-</alinea>
-                    <el id="art9-com5-leta">
-                        <num>a)</num>
-                        <corpo> per il Presidente, per i componenti il Consiglio di amministrazione e per i componenti del Collegio dei revisori dei conti la sopraggiunta incompatibilità per una delle cause contemplate ai precedenti commi 1, 2 e 3;</corpo>
-                    </el>
-                    <el id="art9-com5-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> per i componenti il Collegio dei revisori dei conti la sospensione o la cancellazione dall'Albo dei revisori dei conti e la mancata partecipazione, anche se giustificata, per tre volte consecutive alle riunioni dell'organo. </corpo>
-                    </el>
-                </comma>
-                <comma id="art9-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> Le cause di decadenza sono accertate dal direttore generale dell'Agenzia, il quale le notifica all'interessato ed al Presidente della Regione. La relativa decadenza dalle cariche è decretata dal Presidente della Regione entro 15 giorni dalla notifica. </corpo>
-                </comma>
-                <comma id="art9-com7">
-                    <num>
- 
-7.</num>
-                    <corpo> Nel caso di dimissioni, decadenza, revoca, decesso o altra causa di impedimento, la sostituzione dei componenti degli organi è effettuata con le stesse modalità previste per la nomina. I soggetti subentranti restano in carica per il residuo periodo del mandato conferito ai sostituiti. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art10">
-                <num>Art. 10 </num>
-                <rubrica>
- 
-Controllo 
- </rubrica>
-                <comma id="art10-com1">
-                    <num>
-1.</num>
-                    <corpo> Il Presidente della Regione e la Giunta regionale possono disporre controlli sugli organi dell'Agenzia al fine di accertare il regolare esercizio dei mandato conferito. </corpo>
-                </comma>
-                <comma id="art10-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Nel caso di mancata adozione di atti dovuti, il Presidente della Regione, previa diffida ad adempiere, dispone la nomina di "commissari ad acta". </corpo>
-                </comma>
-                <comma id="art10-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Qualora nella gestione dell'Agenzia siano accertate inefficienze amministrative o gravi irregolarità o inadempienze, reiterate violazioni di disposizioni normative e regolamentari, di prescrizioni programmatiche ovvero di direttive del Consiglio regionale e di atti di indirizzo della Giunta regionale, o in caso di dimissioni della maggioranza dei consiglieri di amministrazione, il Presidente della Regione, con proprio decreto, previa conforme deliberazione Giunta regionale, dispone lo scioglimento degli organi di amministrazione dell'Agenzia e la nomina di un commissario straordinario. </corpo>
-                </comma>
-                <comma id="art10-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Il commissario straordinario cura l'ordinaria amministrazione dell'Agenzia sino all'insediamento dei nuovi organi. </corpo>
-                </comma>
-                <comma id="art10-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> L'organo sciolto deve essere ricostituito entro quarantacinque giorni dalla nomina del commissario straordinario. </corpo>
-                </comma>
-                <comma id="art10-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> Al commissario straordinario spetta lo stesso compenso previsto per il Presidente dell'Agenzia. </corpo>
-                </comma>
-                <comma id="art10-com7">
-                    <num>
- 
-7.</num>
-                    <corpo> Tutti gli atti non soggetti a preventiva autorizzazione o approvazione ai sensi della presente legge sono immediatamente efficaci ed esecutivi. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art11">
-                <num>Art. 11 </num>
-                <rubrica>
- 
-Gestione economica e finanziaria 
- </rubrica>
-                <comma id="art11-com1">
-                    <num>
-1.</num>
-                    <corpo> La gestione economica e finanziaria dell'Agenzia è disciplinata dalle norme che regolano la contabilità, l'amministrazione dei beni e l'attività contrattuale della Regione, nonché dalle leggi della Repubblica in materia. </corpo>
-                </comma>
-                <comma id="art11-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Il Consiglio regionale approva, su proposta della Giunta, con legge regionale, il bilancio di previsione dell'Agenzia ed il conto consuntivo. </corpo>
-                </comma>
-                <comma id="art11-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Nelle more dell'approvazione del bilancio preventivo, l'Agenzia è autorizzata all'esercizio provvisorio nei limiti stabiliti per l'esercizio provvisorio del bilancio regionale. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art12">
-                <num>Art 12 </num>
-                <rubrica>
- 
-Direttore generale dell'ARSIAM 
- </rubrica>
-                <comma id="art12-com1">
-                    <num>
-1.</num>
-                    <corpo> All'Agenzia è preposto un direttore generale nominato dal Consiglio di amministrazione, previo parere favorevole della Giunta regionale. </corpo>
-                </comma>
-                <comma id="art12-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> L'incarico di direzione può essere conferito a dirigenti regionali o dell'Agenzia muniti di diploma di laurea, dotati di esperienza pluriennale nelle funzioni dirigenziali. L'incarico può essere, altresì, conferito a persone esterne all'Amministrazione regionale ed all'Agenzia, muniti di diploma di laurea, che abbiano maturato esperienza ed adeguata preparazione professionale per lo svolgimento di attività a livello dirigenziale presso enti o aziende pubblici o privati. </corpo>
-                </comma>
-                <comma id="art12-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Il direttore generale rimane in carica per il periodo di durata del Consiglio di amministrazione che lo ha nominato e comunque non oltre il sessantesimo giorno dalla nomina del nuovo Consiglio di amministrazione. </corpo>
-                </comma>
-                <comma id="art12-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> L'incarico di direttore generale è rinnovabile e può essere revocato prima della scadenza con atto motivato dei Consiglio di amministrazione. </corpo>
-                </comma>
-                <comma id="art12-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> Il direttore generale risponde al Consiglio di amministrazione circa il raggiungimento degli obiettivi e della gestione delle risorse assegnate. </corpo>
-                </comma>
-                <comma id="art12-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> Il trattamento giuridico ed economico del direttore generale è determinato e regolato dal contratto collettivo nazionale di lavoro del personale con qualifica dirigenziale del comparto "Regioni - Autonomie locali". </corpo>
-                </comma>
-                <comma id="art12-com7">
-                    <num>
- 
-7.</num>
-                    <alinea> Salve le attribuzioni devolute al Consiglio di amministrazione e quelle di competenza dei dirigenti dell'Agenzia, al direttore generale compete di: 
- 
-</alinea>
-                    <el id="art12-com7-leta">
-                        <num>a)</num>
-                        <corpo> coadiuvare il Consiglio di amministrazione ed il Presidente nello svolgimento dell'attività amministrativa, assumendo direttamente la responsabilità del conseguimento degli obiettivi dell'Agenzia nonché dell'attuazione dei piani e dei programmi;</corpo>
-                    </el>
-                    <el id="art12-com7-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> predisporre il bilancio di previsione e le proposte di variazione in corso di esercizio e redigere il conto consuntivo;</corpo>
-                    </el>
-                    <el id="art12-com7-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> formulare proposte al Consiglio di amministrazione;</corpo>
-                    </el>
-                    <el id="art12-com7-letd">
-                        <num> 
- 
-d)</num>
-
-                        <corpo> promuovere e resistere alle liti, conciliare e transigere nell'ambito delle funzioni di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art16">art. 16 decreto legislativo 30 marzo 2001, n. 165</rif>;</corpo>
-                    </el>
-                    <el id="art12-com7-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> dare esecuzione alle deliberazioni del Consiglio di amministrazione;</corpo>
-                    </el>
-                    <el id="art12-com7-letf">
-                        <num> 
- 
-f)</num>
-                        <corpo> assistere all'attività deliberativa del Consiglio di amministrazione ed esprimere, su ogni atto deliberativo, il proprio parere circa la legittimità del provvedimento;</corpo>
-                    </el>
-                    <el id="art12-com7-letg">
-                        <num> 
- 
-g)</num>
-                        <corpo> adottare gli atti ed i provvedimenti amministrativi ed esercitare i poteri di spesa e quelli di acquisizione delle entrate salvo quelli delegati ai dirigenti;</corpo>
-                    </el>
-                    <el id="art12-com7-leth">
-                        <num> 
- 
-h)</num>
-                        <corpo> sovrintendere ai procedimenti inerenti l'attività contrattuale e stipulare i contratti;</corpo>
-                    </el>
-                    <el id="art12-com7-leti">
-                        <num> 
- 
-i)</num>
-                        <corpo> sovrintendere alla gestione del personale ed all'organizzazione dei servizi attribuiti alla responsabilità dei dirigenti, assicurando la funzionalità, l'economicità e la rispondenza dell'azione tecnico-amministrativa agli scopi dell'Agenzia;</corpo>
-                    </el>
-                    <el id="art12-com7-letj">
-                        <num> 
- 
-j)</num>
-                        <corpo> esercitare ogni altro compito assegnatogli dal Consiglio di amministrazione e comunque non attribuito espressamente al Presidente od ai dirigenti dell'Agenzia. </corpo>
-                    </el>
-                </comma>
-                <comma id="art12-com8">
-                    <num>
- 
-8.</num>
-                    <corpo> Il direttore generale dell'ARSIAM partecipa alle conferenze di servizio sull'attività e sui programmi dell'Agenzia indette, di regola mensilmente, dal direttore generale della Regione alle "Politiche agricole". I risultati di tali conferenze sono inviate dal direttore generale della Regione all'Assessore regionale alle "Politiche agricole" ed agli organi dell'Agenzia. </corpo>
-                </comma>
-                <comma id="art12-com9">
-                    <num>
- 
-9.</num>
-                    <corpo> In caso di assenza o di impedimento, il direttore generale può essere sostituito temporaneamente, con provvedimento del Consiglio di amministrazione, da un dirigente della qualifica più elevato in servizio presso l'Agenzia. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art13">
-                <num>Art. 13 </num>
-                <rubrica>
- 
-Comitato tecnico-scientifico 
- </rubrica>
-                <comma id="art13-com1">
-                    <num>
-1.</num>
-                    <corpo> è istituito presso l'Agenzia un Comitato tecnico-scientifico che esprime parere consultivo sui programmi dell'Agenzia. </corpo>
-                </comma>
-                <comma id="art13-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Su richiesta del Consiglio di amministrazione, il Comitato tecnico-scientifico esprime parere sugli atti di amministrazione ed elabora studi o proposte per i programmi di attività dell'ARSIAM. </corpo>
-                </comma>
-                <comma id="art13-com3">
-                    <num>
- 
-3.</num>
-                    <alinea> Comitato tecnico-scientifico è nominato dal Presidente della Regione ed è composto dai seguenti membri: 
- 
-</alinea>
-                    <el id="art13-com3-leta">
-                        <num>a)</num>
-                        <corpo> il Presidente del Consiglio di amministrazione dell'ARSIAM,;</corpo>
-                    </el>
-                    <el id="art13-com3-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> il direttore generale dell'ARSIAM;</corpo>
-                    </el>
-                    <el id="art13-com3-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> un docente esperto in discipline agrarie designato dall'Università degli studi del Molise;</corpo>
-                    </el>
-                    <el id="art13-com3-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> un rappresentante del Consiglio nazionale delle ricerche;</corpo>
-                    </el>
-                    <el id="art13-com3-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> tre esperti nominati da ciascuna delle tre organizzazioni professionali agricole maggiormente rappresentate a livello regionale;</corpo>
-                    </el>
-                    <el id="art13-com3-letf">
-                        <num> 
- 
-f)</num>
-                        <corpo> un esperto scelto fra quelli designati dalle associazioni del movimento cooperativo maggiormente rappresentative a livello nazionale e presenti nella regione Molise;</corpo>
-                    </el>
-                    <el id="art13-com3-letg">
-                        <num> 
- 
-g)</num>
-                        <corpo> un dirigente dell'assessorato alle 'Politiche agricole" della Regione Molise designato dall'assessore alle 'Politiche agricole". 
- 
-Un funzionario dell'ARSIAM svolge le mansioni di segretario del Comitato. </corpo>
-                    </el>
-                </comma>
-                <comma id="art13-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Il Comitato tecnico-scientifico è presieduto dal Presidente dell'Agenzia il quale provvede alla convocazione delle riunioni ed all'organizzazione dell'attività. </corpo>
-                </comma>
-                <comma id="art13-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> Il Comitato tecnico-scientifico resta in carica per il periodo di nomina del Consiglio di amministrazione. </corpo>
-                </comma>
-                <comma id="art13-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> Il Comitato tecnico-scientifico è validamente costituito quando risultano nominati almeno la metà più uno dei suoi componenti. Sono fatte salve le successive integrazioni con gli altri componenti designati aventi diritto. </corpo>
-                </comma>
-                <comma id="art13-com7">
-                    <num>
- 
-7.</num>
-                    <corpo> I pareri del Comitato tecnico-scientifico sono validamente espressi con la presenza di almeno la metà più uno dei suoi componenti. Dei pareri espressi è redatto apposito verbale da conservare agli atti dell'Agenzia. </corpo>
-                </comma>
-                <comma id="art13-com8">
-                    <num>
- 
-8.</num>
-                    <corpo> Nei provvedimenti emanati dall'ARSIAM si deve comunque far riferimento ai contenuti del parere espresso dal Comitato tecnico-scientifico. </corpo>
-                </comma>
-                <comma id="art13-com9">
-                    <num>
- 
-9.</num>
-                    <corpo> Ai componenti del Comitato tecnico-scientifico spetta, con onere a carico del bilancio dell'Agenzia, un gettone di presenza determinato dal Consiglio di amministrazione, nonché il rimborso delle spese di viaggio. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art14">
-                <num>Art. 14 </num>
-                <rubrica>
- 
-Personale 
- </rubrica>
-                <comma id="art14-com1">
-                    <num>
-1.</num>
-                    <corpo> Il Consiglio di amministrazione, entro quattro mesi dall'insediamento, provvede alla definizione dell'assetto strutturale e della dotazione organica dell'Agenzia per l'inquadramento del personale nei ruoli della stessa. La dotazione organica è approvata dalla Giunta regionale. </corpo>
-                </comma>
-                <comma id="art14-com2">
-                    <num>
- 
-2.</num>
-
-                    <corpo> Le disposizioni di cui al precedente comma non valgono per l'assunzione delle figure professionali previste dagli artt. 7 e 9 della <rif xlink:href="urn:nir:stato:legge:2000-06-07;150">legge 7 giugno 2000, n. 150</rif>. </corpo>
-                </comma>
-                <comma id="art14-com3">
-                    <num>
- 
-3.</num>
-                    <corpo>
-                        <mod
-                                id="art14-com3-mod2"> Entro trenta giorni dall'approvazione della dotazione organica, il Presidente della Regione, con proprio decreto, previa deliberazione del Consiglio di amministrazione, assegna il personale all'Agenzia con le qualifiche, l'anzianità ed il trattamento economico in godimento. Al personale del disciolto ERSAM assegnato all'Agenzia si applicano i benefici previdenziali integrativi previsti dalla <rif xlink:href="urn:nir:regione.molise:legge:1977;40">legge regionale n. 40/1977</rif>. Il personale del soppresso Ente regionale di sviluppo agricolo per il Molise che risultasse in esubero a seguito della revisione della dotazione organica è trasferito nei ruoli regionali e conserva lo stato giuridico, il trattamento economico ed i benefici in godimento nell'ente di provenienza. </mod>
-                    </corpo>
-                </comma>
-                <comma id="art14-com4">
-                    <num>
- 
-4.</num>
-                    <corpo>
-                        <mod id="art14-com4-mod3"> In sede di prima applicazione della presente legge, all'Agenzia viene temporaneamente assegnato il personale in servizio presso il soppresso E.R.S.A.M., il quale mantiene, fino all'adozione dei provvedimenti di cui ai commi 1 e 3, lo stato giuridico ed il trattamento economico attribuiti nell'ente di provenienza alla data di entrata in vigore della presente legge. </mod>
-                    </corpo>
-                </comma>
-                <comma id="art14-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> Se dalla dotazione organica dell'Agenzia, così come approvata dalla Giunta regionale, dovessero risultare necessarie ulteriori figure professionali non presenti nell'organico dell'ERSAM, la Giunta può predispone il passaggio del personale dai ruoli regionali all'Agenzia. </corpo>
-                </comma>
-                <comma id="art14-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> I rapporti tra l'Agenzia ed il personale dipendente sono regolati dal contratto collettivo nazionale dei dipendenti regionali. </corpo>
-                </comma>
-                <comma id="art14-com7">
-                    <num>
- 
-7.</num>
-                    <corpo> Il personale dell'Agenzia è iscritto, ai fini del trattamento di quiescenza e di previdenza, all'I.N.P.D.A.P.. </corpo>
-                </comma>
-                <comma id="art14-com8">
-                    <num>
- 
-8.</num>
-
-                    <corpo> Al personale dell'Agenzia, già inquadrato nell'ERSAM ai sensi dell'<rif
-                            xlink:href="#art23-com1">articolo 23, comma 1</rif>, e dell'<rif xlink:href="urn:nir:regione.molise:legge:1977;40#art24-com2">articolo 24, comma 2, della legge regionale n. 40/1977</rif>, viene riconosciuto anche ai fini pensionistici il servizio prestato nel Molise per il cessato Ente di sviluppo in Puglia, Lucania e Molise, con la ripartizione degli oneri secondo la normativa vigente. </corpo>
-                </comma>
-                <comma id="art14-com9">
-                    <num>
- 
-9.</num>
-                    <corpo> Per gli operai delle aziende o gestioni agricole e forestali si applicano i rispettivi contratti nazionali di lavoro e la relativa previdenza di settore. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art15">
-                <num>Art. 15 </num>
-                <rubrica>
- 
-Esercizio finanziario 
- </rubrica>
-                <comma id="art15-com1">
-                    <num>
-1.</num>
-                    <corpo> L'esercizio finanziario ha durata dal 1° gennaio al 31 dicembre di ciascun anno. </corpo>
-                </comma>
-                <comma id="art15-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Il bilancio di previsione è approvato dal Consiglio di amministrazione entro il 30 settembre dell'esercizio precedente a quello di riferimento e trasmesso entro pari data alla Giunta regionale e da questa presentato per l'approvazione al Consiglio regionale. </corpo>
-                </comma>
-                <comma id="art15-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Il conto consuntivo è approvato dal Consiglio di amministrazione entro il 30 marzo dell'anno successivo a quello di riferimento ed in pari data trasmesso alla Giunta regionale e da questa presentato per l'approvazione del Consiglio regionale. </corpo>
-                </comma>
-                <comma id="art15-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Il Consiglio regionale approva il bilancio di previsione ed il conto consuntivo entra 60 giorni dal loro ricevimento. </corpo>
-                </comma>
-                <comma id="art15-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> In caso di diniego di approvazione del bilancio o del conto consuntivo ovvero nel caso di mancata presentazione degli stessi nei termini di cui ai commi 2 e 3, la Giunta regionale delibera lo scioglimento degli organi dell'Agenzia. </corpo>
-                </comma>
-                <comma id="art15-com6">
-                    <num>
- 
-6.</num>
-
-                    <corpo> La deliberazione di scioglimento di cui al <rif xlink:href="#art15-com5">comma 5</rif> è resa esecutiva dal Presidente della Regione con decreto che dispone altresì la nomina del commissario incaricato della redazione del bilancio e del conto consuntivo nonché dell'amministrazione dell'Agenzia sino al rinnovo degli organi. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art16">
-                <num>Art. 16 </num>
-                <rubrica>
- 
-Patrimonio 
- </rubrica>
-                <comma id="art16-com1">
-                    <num>
-1.</num>
-                    <corpo> L'Agenzia ha un proprio patrimonio che deve essere oggetto di inventario. </corpo>
-                </comma>
-                <comma id="art16-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> patrimonio è costituito originariamente dai beni immobili, mobili e dalle partecipazioni che vengono trasferiti dall'ERSAM all'Agenzia con deliberazione della Giunta regionale. </corpo>
-                </comma>
-                <comma id="art16-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> L'Agenzia propone piani per l'alienazione o il trasferimento ad altri soggetti pubblici o privati dei beni non funzionali all'espletamento dei compiti assegnati, nonché per l'utilizzazione nel settore agricolo dei relativi proventi. I piani sono approvati dalla Giunta regionale previo parere della Commissione consiliare competente, da rendersi nei termine di novanta giorni. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art17">
-                <num>Art. 17 </num>
-                <rubrica>
- 
-Finanziamenti 
- </rubrica>
-                <comma id="art17-com1">
-                    <num>
-1.</num>
-                    <corpo> La Regione stanzia nel bilancio di previsione di ciascun anno le risorse necessarie al funzionamento dell'Agenzia. </corpo>
-                </comma>
-                <comma id="art17-com2">
-                    <num>
- 
-2.</num>
-                    <alinea> I finanziamenti sono assicurati altresì attraverso: 
- 
-</alinea>
-                    <el id="art17-com2-leta">
-                        <num>a)</num>
-                        <corpo> proventi dei servizi e delle attività;</corpo>
-                    </el>
-                    <el id="art17-com2-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> entrate derivanti dalla eventuale partecipazione a progetti comunitari, nazionali e regionali;</corpo>
-                    </el>
-                    <el id="art17-com2-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> contributi disposti a qualsiasi titolo da enti pubblici e soggetti privati;</corpo>
-                    </el>
-                    <el id="art17-com2-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> eventuali ulteriori entrate. </corpo>
-                    </el>
-                </comma>
-                <comma id="art17-com3">
-                    <num>
- 
-3.</num>
-
-                    <corpo> L'Agenzia, in relazione ai servizi informatici, si avvale del soggetto di cui alla <rif xlink:href="urn:nir:regione.molise:legge:1999;3">legge regionale n. 3/1999</rif>. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art18">
-                <num>Art. 18 </num>
-                <rubrica>
- 
-Scioglimento e liquidazione dell'ERSAM 
- </rubrica>
-                <comma id="art18-com1">
-                    <num>
-1.</num>
-                    <corpo> L'ERSAM, istituito con l'<rif xlink:href="urn:nir:stato:legge:1970-02-02;20#art6">articolo 6 della legge 2 febbraio 1970, n. 20</rif>, è sciolto e posto in liquidazione. </corpo>
-                </comma>
-                <comma id="art18-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Le relative funzioni, non assegnate all'Agenzia della presente legge, sono esercitate dai competenti organi della Regione Molise. </corpo>
-                </comma>
-                <comma id="art18-com3">
-                    <num>
- 
-3.</num>
-
-                    <corpo> Le strade realizzate nel comprensorio della riforma fondiaria sono trasferite, a titolo gratuito, ai sensi dell'<rif xlink:href="urn:nir:stato:legge:1976;386#art11-com3">articolo 11, comma 3, della legge n. 386/1976</rif>, ai Comuni nel cui territorio esse ricadono, con deliberazione del Consiglio di amministrazione dell'Agenzia. </corpo>
-                </comma>
-                <comma id="art18-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Sono riservate alla Regione tutte le funzioni di programmazione, di indirizzo e di controllo delle attività amministrative in materia di sviluppo ed innovazione nell'agricoltura, nonché le politiche relative ai rapporti con l'Unione Europea, lo Stato e le Regioni. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art19">
-                <num>Art. 19 </num>
-                <rubrica>
- 
-Assetto organizzativo 
- </rubrica>
-                <comma id="art19-com1">
-                    <num>
-1.</num>
-
-                    <corpo> L'organizzazione dell'Agenzia regionale per lo sviluppo e l'innovazione dell'agricoltura nel Molise "Giacomo Sedati" (ARSIAM), è articolata in una sede centrale, nel capoluogo regionale, ed in unità territoriali, decentrate sul territorio regionale, così come previsto dalla <rif xlink:href="urn:nir:regione.molise:legge:1989-09-13;14">legge regionale 13 settembre 1989, n. 14</rif>. </corpo>
-                </comma>
-                <comma id="art19-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> L'assetto organizzativo dell'ARSIAM, in riferimento ai compiti ed alle funzioni dell'Agenzia, previsti negli articoli 2 e 3 della presente legge, è definito sulla base della distribuzione di cui alla Tabella A), allegata alla presente legge. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art20">
-                <num>Art. 20 </num>
-                <rubrica>
- 
-Commissario liquidatore 
- </rubrica>
-                <comma id="art20-com1">
-                    <num>
-1.</num>
-
-                    <corpo> Entro trenta giorni dall'entrata in vigore della presente legge, il Consiglio regionale nomina il Commissario per la liquidazione dell'ERSAM; alla nomina non si applica la <rif xlink:href="urn:nir:regione.molise:legge:2002-08-02;16">legge regionale 2 agosto 2002, n. 16</rif>. </corpo>
-                </comma>
-                <comma id="art20-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Al Commissario liquidatore spetta a titolo di compenso, per il periodo dell'incarico, una indennità mensile lorda pari a quella prevista per il Presidente del Consiglio di amministrazione dell'Agenzia. </corpo>
-                </comma>
-                <comma id="art20-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> I compensi e le indennità da corrispondere al Commissario fanno carico alla gestione liquidatoria dell'ERSAM. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art21">
-                <num>Art. 21 </num>
-                <rubrica>
- 
-Procedura di liquidazione 
- </rubrica>
-                <comma id="art21-com1">
-                    <num>
-1.</num>
-                    <corpo>
-                        <mod id="art21-com1-mod4"> Il Commissario liquidatore procede a tutte le operazioni secondo le direttive e sotto il controllo della Giunta regionale. Durante la liquidazione, il Commissario può adottare soltanto gli atti necessari alla liquidazione dei rapporti attivi e passivi del soppresso ERSAM. </mod>
-                    </corpo>
-                </comma>
-                <comma id="art21-com2">
-                    <num>
- 
-2.</num>
-                    <alinea> Entro trenta giorni del suo insediamento il Commissario: 
- 
-</alinea>
-                    <el id="art21-com2-leta">
-                        <num>a)</num>
-                        <corpo> prende in consegna i beni compresi nella liquidazione, le scritture ed i libri contabili e gli altri documenti dell'ERSAM, 
- 
-b) riceve il conto della gestione relativo al tempo posteriore all'ultimo bilancio; 
- 
-c) trasferisce gratuitamente all'Agenzia le attrezzature, gli arredi ed i macchinari d'ufficio necessari al primo funzionamento. 
- 
-3. Entro i successivi sessanta giorni il Commissario presenta il piano di liquidazione da sottoporre all'approvazione della Giunta regionale. Il Piano di liquidazione deve contenere: 
- 
-a) la ricognizione e l'inventario dei beni e dei cespiti di pertinenza dell'ERSAM, con relativa stima;</corpo><?error Marker Warning 102 (last lettera:1 next:3)?>
-                    </el>
-                    <el id="art21-com2-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> lo stato delle passività, con particolare riguardo alle garanzie ed alle fidejussioni prestate ed eventualmente escusse;</corpo>
-                    </el>
-                    <el id="art21-com2-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> la ricognizione dei rapporti attivi e passivi e delle pendenze giudiziarie all'epoca dello scioglimento;</corpo>
-                    </el>
-                    <el id="art21-com2-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> i residui provvedimenti dell'ERSAM da completare;</corpo>
-                    </el>
-                    <el id="art21-com2-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> il programma di attuazione della gestione liquidatoria. 
- 
-4. Entro trenta giorni dall'approvazione del piano di liquidazione, la Giunta regionale con apposita direttiva individua i beni ed i rapporti non rientranti nella gestione liquidatoria e li trasferisce all'Agenzia. Contestualmente la Giunta stabilisce le priorità, le modalità e le procedure per la dismissione dei beni e dei rapporti da liquidare. Il provvedimento è adottato previo parere della competente Commissione consiliare che è rilasciato entro e non oltre il termine di trenta giorni, decorso inutilmente il quale la Giunta procede prescindendone. 
- 
-5. Per lo svolgimento della funzione liquidatoria il Commissario si avvale di un contingente del personale dell'Agenzia assegnato provvisoriamente dal Presidente della Giunta regionale. 
- 
-6. Il Commissario compie gli atti necessari alla liquidazione comprese le transazioni, previa autorizzazione della Giunta regionale. Il Commissario presenta alla fine di ogni semestre alla Giunta regionale una relazione sull'andamento della gestione, sulla situazione patrimoniale e sulle operazioni eseguite. 
- 
-7. Entro ventiquattro mesi dal suo insediamento, il Commissario presenta alla Giunta regionale, per l'approvazione, il bilancio finale della liquidazione con il rendiconto della gestione ed una relazione conclusiva. 
- 
-8. Esaurita la procedura di liquidazione, le eventuali residue attività sono acquisite al bilancio della Regione; le passività residue e non soddisfatte sono iscritte a carico del bilancio regionale. 
- 
-</corpo>
-                    </el><?error Marker Warning 101 (last comma:2 next:4)?>
-                </comma>
-            </articolo>
-            <articolo id="art22">
-                <num>Art. 22 </num>
-                <rubrica>
- 
-Esercizio delle funzioni 
- </rubrica>
-                <comma id="art22-com1">
-                    <num>
-1.</num>
-                    <corpo> I riferimenti all'ERSAM contenuti nelle norme e nelle disposizioni regionali si intendono riferiti all'Agenzia. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art23">
-                <num>Art. 23 </num>
-                <rubrica>
- 
-Norma finanziaria 
- </rubrica>
-                <comma id="art23-com1">
-                    <num>
-1.</num>
-                    <corpo> Per le spese di primo funzionamento dell'ARSIAM, che per l'esercizio finanziario 2004 si quantificano in Euro 200.000,00, si provvede con gli stanziamenti previsti dal bilancio regionale nella UPB 220. La Giunta regionale provvede ad apportare le necessarie variazioni nel bilancio di gestione. </corpo>
-                </comma>
-                <comma id="art23-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Per gli anni 2005 e successivi si provvederè con le rispettive leggi di approvazione del bilancio. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art24">
-                <num>Art. 24 </num>
-                <rubrica>
- 
-Norme abrogate 
- </rubrica>
-                <comma id="art24-com1">
-                    <num>
-1.</num>
-                    <corpo>
-                        <mod id="art24-com1-mod5"> Sono abrogate la <rif
-                                xlink:href="urn:nir:regione.molise:legge:1977-11-09;40">legge regionale 9 novembre 1977, n. 40</rif>; la <rif
-                                xlink:href="urn:nir:regione.molise:legge:1988-09-06;21">legge regionale 6 settembre 1988, n. 21</rif>; la <rif xlink:href="urn:nir:regione.molise:legge:1989-09-13;14">legge regionale 13 settembre 1989, n. 14</rif>, limitatamente alle parti in contrasto con la presente legge e tutte le altre disposizioni incompatibili con la presente legge. </mod>
-                    </corpo>
-                </comma>
-                <comma id="art24-com2">
-                    <num>
- 
-2.</num>
-                    <corpo>
-                        <mod
-                                id="art24-com2-mod6"> Sono abrogate, altresì, le disposizioni della <rif
-                                xlink:href="urn:nir:regione.molise:legge:1988-11-21;22">legge regionale 21 novembre 1988, n. 22</rif>, e della <rif xlink:href="urn:nir:regione.molise:legge:1996-03-06;14">legge regionale 6 marzo 1996, n. 14</rif>, in contrasto o incompatibili con la presente legge. 
- 
-</mod>
-                    </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art25">
-                <num>Art. 25 </num>
-                <rubrica>
- 
-Norma transitoria 
- </rubrica>
-                <comma id="art25-com1">
-                    <num>
-1.</num>
-                    <corpo> Fermo restando il servizio di cui all'articolo 3, lett. d), in materia di gestione della rete agrometereologica regionale, lo stesso, mediante convenzione, potrè essere gestito dal servizio regionale di 'Protezione civile" per far fronte ai compiti di allertamento nazionale e regionale per il rischio idrogeologico ed idraulico, al fine di creare un sistema integrato. 
- 
-Art. 26 
- 
-Entrata in vigore 
- 
-1. La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. 
- 
-SEGUE ALLEGATO 
-</corpo>
-                </comma>
-            </articolo><?error Marker Warning 105?>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20041123">23 novembre 2004</dataDoc>
+				, n.
+				<numDoc>27</numDoc>
+				.
+				<titoloDoc>Istituzione dell'Agenzia regionale per lo sviluppo e l'innovazione dell'agricoltura nel Molise "Giacomo Sedati" (ARSIAM).</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1 .</num>
+					<rubrica>Scopo della legge</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<alinea>Al fine di riordinare e di organizzare l'attività amministrativa in agricoltura la presente legge disciplina:</alinea>
+						<el id="art1-com1-leta">
+							<num>a)</num>
+							<corpo>l'istituzione dell'Agenzia regionale per lo sviluppo e l'innovazione dell'agricoltura nel Molise "Giacomo Sedati"; di seguito denominata: "Agenzia" o, in sigla, ARSIAM;</corpo>
+						</el>
+						<el id="art1-com1-letb">
+							<num>b)</num>
+							<corpo>la soppressione dell'Ente regionale di sviluppo agricolo per il Molise (ERSAM).</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>Istituzione dell'Agenzia - Finalità</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>È istituita l'Agenzia: regionale per lo sviluppo e l'innovazione dell'agricoltura nel Molise "Giacomo Sedati" (ARSIAM) con sede in Campobasso.</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>L'Agenzia è organismo tecnico strumentale della Regione, con personalità giuridica di diritto pubblico, ed è dotata di autonomia organizzativa, amministrativa, patrimoniale, gestionale, contabile e finanziaria.</corpo>
+					</comma>
+					<comma id="art2-com3">
+						<num>3.</num>
+						<corpo>L'Agenzia, nel quadro della politica agricola comunitaria e nazionale, svolge le proprie funzioni ed attribuzioni secondo gli indirizzi del Consiglio regionale ed in conformità alle direttive della Giunta regionale e dell'assessore regionale all'Agricoltura, foreste e pesca produttiva., anche in collaborazione con le Province, i Comuni, le Comunità montane e le organizzazioni e le associazioni di settore.</corpo>
+					</comma>
+					<comma id="art2-com4">
+						<num>4.</num>
+						<corpo>
+							L'Agenzia coordina le attività svolte dal Co.Re.Di.Mo. (Consorzio regionale molisano di difesa) disciplinate dalla
+							<rif xlink:href="urn:nir:regione.molise:legge:2002-11-06;31" xlink:type="simple">legge regionale 6 novembre 2002, n. 31</rif>
+							, e dalle A.P.A. (Associazioni provinciali allevatori). Il Co.Re.Di.Mo. e le A.P.A, trasmettono entro il 31 agosto di ogni anno alla struttura competente dell'Agenzia i programmi di attività tecnica specialistica di loro competenza ed i relativi conti finanziari,
+						</corpo>
+					</comma>
+					<comma id="art2-com5">
+						<num>5.</num>
+						<alinea>L'Agenzia persegue le seguenti finalità istituzionali:</alinea>
+						<el id="art2-com5-leta">
+							<num>a)</num>
+							<corpo>ammodernamento, potenziamento, specializzazione e sviluppo razionale delle imprese agricole;</corpo>
+						</el>
+						<el id="art2-com5-letb">
+							<num>b)</num>
+							<corpo>predisposizione ed esecuzione di piani e programmi operativi di interesse agricolo riguardanti il miglioramento delle strutture fondiarie ed agrarie approvati dalla Regione;</corpo>
+						</el>
+						<el id="art2-com5-letc">
+							<num>c)</num>
+							<corpo>prestazione, su richiesta, di consulenza ed assistenza in materia agricola alle Comunità montane, agli enti territoriali locali e ad altri enti pubblici del settore;</corpo>
+						</el>
+						<el id="art2-com5-letd">
+							<num>d)</num>
+							<corpo>orientamento produttivo alle imprese agricole singole od associate per la migliore conduzione e gestione delle aziende o dei fondi;</corpo>
+						</el>
+						<el id="art2-com5-lete">
+							<num>e)</num>
+							<corpo>elaborazione e collaborazione esecutiva di progetti di miglioramento fondiario ed agrario, su richiesta dei produttori agricoli singoli od associati;</corpo>
+						</el>
+						<el id="art2-com5-letf">
+							<num>f)</num>
+							<corpo>promozione e diffusione della moderna cultura d'impresa, funzionale alla costituzione di competitive aziende agricole e zootecniche nelle forme singole od associate;</corpo>
+						</el>
+						<el id="art2-com5-letg">
+							<num>g)</num>
+							<corpo>promozione e sostegno alla diffusione ed al trasferimento dell'innovazione tecnologica nel settore agricolo, zootecnico, agro-alimentare, agro-industriale, agro-forestale e pesca produttiva;</corpo>
+						</el>
+						<el id="art2-com5-leth">
+							<num>h)</num>
+							<corpo>consulenza ed assistenza tecnica in materia di produzione, trasformazione, conservazione, commercializzazione di prodotti agricoli e introduzione di innovazioni tecnico-produttive finalizzate alla tutela della salute degli operatori agricoli, alla salvaguardia dell'ambiente naturale, al risparmio energetico ed alla razionalizzazione dei mezzi di produzione;</corpo>
+						</el>
+						<el id="art2-com5-leti">
+							<num>i)</num>
+							<corpo>attività di supporto allo sviluppo dell'associazionismo;</corpo>
+						</el>
+						<el id="art2-com5-letj">
+							<num>j)</num>
+							<corpo>riordino, ricomposizione ed ampliamento fondiario.</corpo>
+						</el>
+					</comma>
+					<comma id="art2-com6">
+						<num>6.</num>
+						<corpo>
+							L'Agenzia svolge le funzioni di organismo pagatore, previo riconoscimento, ai sensi del
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-05-27;165" xlink:type="simple">decreto legislativo 27 maggio 1999, n. 165</rif>
+							. La Giunta regionale adotta i necessari provvedimenti ed impartisce le opportune direttive.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>Funzioni</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<alinea>
+							Per il conseguimento delle finalità di cui all'
+							<rif xlink:href="#art2-com5" xlink:type="simple">articolo 2, comma 5</rif>
+							, l'Agenzia svolge le seguenti funzioni:
+						</alinea>
+						<el id="art3-com1-leta">
+							<num>a)</num>
+							<corpo>elabora ed attua iniziative per favorire la diffusione ed il trasferimento alle imprese agricole e della pesca produttiva delle innovazioni tecnologiche, al fine di elevare la produzione, di valorizzare le caratteristiche qualitative, di abbattere l'uso di pesticidi in agricoltura e di migliorare la qualità dell'ambiente;</corpo>
+						</el>
+						<el id="art3-com1-letb">
+							<num>b)</num>
+							<corpo>garantisce assistenza e consulenza tecnica alle imprese agricole e della pesca produttiva singole ed associate con l'erogazione di servizi diretti alla diffusione e trasferimento di innovazioni di processo e di prodotto ed in materia di trasformazione, conservazione e commercializzazione di prodotti;</corpo>
+						</el>
+						<el id="art3-com1-letc">
+							<num>c)</num>
+							<corpo>promuove iniziative volte a favorire lo sviluppo rurale in special modo nelle aree interne della regione, con particolare riferimento alle produzioni ecocompatibili ed a basso impatto ambientale;</corpo>
+						</el>
+						<el id="art3-com1-letd">
+							<num>d)</num>
+							<corpo>gestisce la rete agrometereologica regionale in collegamento con le altre reti regionali, il Servizio regionale dei suoli ed il Sistema informativo agricolo regionale (S.I.A.R.);</corpo>
+						</el>
+						<el id="art3-com1-lete">
+							<num>e)</num>
+							<corpo>garantisce consulenza ed assistenza in materia agricola alle Comunità montane ed agli altri Enti territoriali locali;</corpo>
+						</el>
+						<el id="art3-com1-letf">
+							<num>f)</num>
+							<corpo>promuove e gestisce servizi e sistemi di informazione in ordine alle normative ed alle iniziative in ambito comunitario, statale e regionale;</corpo>
+						</el>
+						<el id="art3-com1-letg">
+							<num>g)</num>
+							<corpo>elabora studi, indagini e progetti finalizzati alla sperimentazione ed alla diffusione di tecniche produttive biologiche e di altre tecniche di produzione eco-compatibili;</corpo>
+						</el>
+						<el id="art3-com1-leth">
+							<num>h)</num>
+							<corpo>elabora e diffonde indagini di mercato, svolte di concerto con le associazioni e con gli organismi collettivi del settore agricolo della Regione Molise, finalizzate a favorire l'esportazione delle produzioni tipiche della Regione, anche mediante assistenza tecnica ed amministrativa;</corpo>
+						</el>
+						<el id="art3-com1-leti">
+							<num>i)</num>
+							<corpo>promuove la qualità d'origine attraverso la creazione di marchi di qualità;</corpo>
+						</el>
+						<el id="art3-com1-letj">
+							<num>j)</num>
+							<corpo>promuove, d'intesa con la formazione professionale regionale, corsi di qualificazione e di aggiornamento dei produttori agricoli e dei quadri tecnici degli organismi agricoli con particolare riguardo all'accesso ed alla gestione di nuove tecnologie;</corpo>
+						</el>
+						<el id="art3-com1-letk">
+							<num>k)</num>
+							<corpo>
+								coordina e gestisce, anche in convenzione con le Comunità montane, i piani, i programmi ed il personale nel campo della forestazione di cui alla
+								<rif xlink:href="urn:nir:regione.molise:legge:2000-01-18;6" xlink:type="simple">legge regionale 18 gennaio 2000, n. 6</rif>
+								.
+							</corpo>
+						</el>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<corpo>
+							Nelle more dell'attuazione della
+							<rif xlink:href="urn:nir:regione.molise:legge:1999-09-29;34" xlink:type="simple">legge regionale 29 settembre 1999, n. 34</rif>
+							, i compiti ivi previsti in materia di agricoltura possono essere attribuiti di volta in volta all'Agenzia con provvedimento della Giunta regionale.
+						</corpo>
+					</comma>
+					<comma id="art3-com3">
+						<num>3.</num>
+						<corpo>
+							In Applicazione dell'
+							<rif xlink:href="urn:nir:stato:legge:1998-05-08;146#art24" xlink:type="simple">articolo 24 della legge 8 maggio 1998, n. 146</rif>
+							, l'Agenzia, inoltre, esplica e completa, con le modalità e le condizioni previste dagli articoli 9, 10 e 11 della
+							<rif xlink:href="urn:nir:stato:legge:1976-04-30;386" xlink:type="simple">legge 30 aprile 1976, n. 386</rif>
+							, i compiti residui della riforma fondiaria e quelli in materia fondiaria già attribuiti all'Ente regionale di sviluppo agricolo per il Molise.
+						</corpo>
+					</comma>
+					<comma id="art3-com4">
+						<num>4.</num>
+						<corpo>Le attività di cui al presente articolo potranno essere svolte in collaborazione con altri soggetti ed istituzioni, pubbliche o private, attraverso la stipula di convenzioni o mediante la partecipazione a forme associative, consortili o societarie, nell'ottica della ottimizzazione dei servizi di sviluppo forniti agli operatori del settore primario.</corpo>
+					</comma>
+					<comma id="art3-com5">
+						<num>5.</num>
+						<alinea>L'Agenzia svolge, inoltre, le seguenti funzioni:</alinea>
+						<el id="art3-com5-leta">
+							<num>a)</num>
+							<corpo>opera come intermediario qualificato tra il sistema produttivo ed i soggetti detentori o creatori di tecnologie specifiche, in particolare con le Università, gli enti e gli istituti pubblici e privati di ricerca operanti in Italia e all'estero;</corpo>
+						</el>
+						<el id="art3-com5-letb">
+							<num>b)</num>
+							<corpo>realizza l'osservatorio dei mercati dei prodotti agroa l i mentari;</corpo>
+						</el>
+						<el id="art3-com5-letc">
+							<num>c)</num>
+							<corpo>
+								esegue ogni altro compito e funzione ad essa delegato dalla Regione e coerente con le finalità di cui all'
+								<rif xlink:href="#art2" xlink:type="simple">articolo 2</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art3-com5-letd">
+							<num>d)</num>
+							<corpo>acquisisce brevetti e know-how di cui promuove l'adozione nei processi produttivi delle aziende agricole, forestali ed agro-alimentari;</corpo>
+						</el>
+						<el id="art3-com5-lete">
+							<num>e)</num>
+							<corpo>redige studi, progetti di fattibilità ed esecutivi anche su commessa di enti pubblici e privati.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>Programmazione</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>L'Agenzia opera sulla base di un programma triennale generale e di programmi annuali che disciplinano le attività proprie e quelle degli Enti da essa coordinati; in essi sono individuati le linee d'intervento, gli obiettivi da perseguire nel triennio, gli strumenti per la verifica dei risultati e quelli necessari allo svolgimento dell'attività stessa.</corpo>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<corpo>L'Agenzia propone all'assessorato regionale all' "Agricoltura" il programma triennale ed i programmi annuali; l'assessorato li trasmette non oltre trenta giorni alla Giunta regionale per l'adozione.</corpo>
+					</comma>
+					<comma id="art4-com3">
+						<num>3.</num>
+						<corpo>Entro novanta giorni dall'adozione, il Consiglio regionale approva il programma triennale di cui al comma precedente; decorso inutilmente tale termine il programma triennale si intende approvato.</corpo>
+					</comma>
+					<comma id="art4-com4">
+						<num>4.</num>
+						<corpo>Il programma triennale è attuato mediante programmi annuali che il Consiglio di amministrazione presenta, entro il 30 ottobre di ogni anno, alla Giunta regionale che provvederà alla loro approvazione nei successivi trenta giorni. Decorso inutilmente tale termine, i programmi annuali si intendono approvati.</corpo>
+					</comma>
+					<comma id="art4-com5">
+						<num>5.</num>
+						<corpo>Il programma annuale individua le attività da svolgere nell'anno di riferimento, indicando i settori di intervento, le iniziative progettuali, i beneficiari, le previsioni di spesa e di mezzi per attuarle, nonché gli strumenti per la verifica dei risultati.</corpo>
+					</comma>
+					<comma id="art4-com6">
+						<num>6.</num>
+						<corpo>Il Presidente della Regione, la Giunta regionale ed il Consiglio regionale possono impartire, in ogni tempo, direttive in ordine all'attività dell'Agenzia.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>Organi</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<alinea>Sono organi dell'Agenzia,</alinea>
+						<el id="art5-com1-leta">
+							<num>a)</num>
+							<corpo>il Presidente;</corpo>
+						</el>
+						<el id="art5-com1-letb">
+							<num>b)</num>
+							<corpo>il Consiglio di amministrazione;</corpo>
+						</el>
+						<el id="art5-com1-letc">
+							<num>c)</num>
+							<corpo>il Collegio dei revisori dei conti.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>Consiglio di amministrazione - Composizione - Attribuzioni - Compensi</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>Il Consiglio di amministrazione è composto da cinque membri, oltre al Presidente. I cinque membri componenti sono nominati dal Consiglio regionale, con voto limitato a tre. Alle riunioni del Consiglio di amministrazione partecipa, senza diritto di voto, il direttore generale dell'ARSIAM. Un funzionario dell'ARSIAM svolge le mansioni di segretario. In fase di prima applicazione della presente legge il Consiglio di amministrazione è nominato entro novanta giorni dall'entrata in vigore della stessa.</corpo>
+					</comma>
+					<comma id="art6-com2">
+						<num>2.</num>
+						<alinea>In particolare il Consiglio di amministrazione:</alinea>
+						<el id="art6-com2-leta">
+							<num>a)</num>
+							<corpo>
+								propone alla Giunta regionale, per l'approvazione, la programmazione triennale dell'attività dell'Agenzia tenendo conto anche dei programmi trasmessi ai sensi dell'
+								<rif xlink:href="#art2-com4" xlink:type="simple">art 2, comma 4</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art6-com2-letb">
+							<num>b)</num>
+							<corpo>sulla base degli indirizzi regionali definisce i piani da attuare e fissa gli obiettivi che il direttore generale deve perseguire nella gestione dell'Agenzia;</corpo>
+						</el>
+						<el id="art6-com2-letc">
+							<num>c)</num>
+							<corpo>approva il bilancio di previsione, le relative variazioni ed il conto consuntivo;</corpo>
+						</el>
+						<el id="art6-com2-letd">
+							<num>d)</num>
+							<corpo>propone alla Giunta regionale tutte le modificazioni e le innovazioni utili all'ottimizzazione delle strutture e dei servizi dell'Agenzia;</corpo>
+						</el>
+						<el id="art6-com2-lete">
+							<num>e)</num>
+							<corpo>
+								predispone, sentito il Comitato tecnico-scientifico di cui all'
+								<rif xlink:href="#art13" xlink:type="simple">articolo 13</rif>
+								, il programma annuale di attività, in conformità al piano triennale dell'attività dell'Agenzia approvato dal Consiglio regionale;
+							</corpo>
+						</el>
+						<el id="art6-com2-letf">
+							<num>f)</num>
+							<corpo>propone all'approvazione della Giunta regionale l'istituzione degli Uffici territoriali (U T.) dell'Agenzia;</corpo>
+						</el>
+						<el id="art6-com2-letg">
+							<num>g)</num>
+							<corpo>assegna il personale alle strutture dell'Agenzia ed agli Uffici territoriali attribuendo i relativi incarichi.</corpo>
+						</el>
+					</comma>
+					<comma id="art6-com3">
+						<num>3.</num>
+						<corpo>Il Consiglio di amministrazione resta in carica per tutta la durata del Consiglio regionale che lo ha nominato.</corpo>
+					</comma>
+					<comma id="art6-com4">
+						<num>4.</num>
+						<corpo>Per la validità delle sedute del Consiglio di amministrazione è necessaria la presenza di almeno quattro componenti. Per la validità delle deliberazioni è necessario il voto favorevole della maggioranza dei consiglieri presenti. Nel computo dei presenti vanno inclusi i consiglieri astenuti. A parità di voti, la maggioranza è determinata dal voto del Presidente.</corpo>
+					</comma>
+					<comma id="art6-com5">
+						<num>5.</num>
+						<corpo>
+							Al Presidente del Consiglio di amministrazione dell'Agenzia ed ai componenti del Consiglio stesso è attribuita un'indennità di funzione mensile non superiore, rispettivamente, al 50% ed al 25% di quella stabilita, ai sensi dell'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2000-08-18;267#art82" xlink:type="simple">art. 82 del decreto legislativo 18 agosto 2000, n. 267</rif>
+							, per i sindaci dei comuni di dimensione demografica pari a quella della Regione Molise.
+						</corpo>
+					</comma>
+					<comma id="art6-com6">
+						<num>6.</num>
+						<corpo>L'indennità di cui al comma precedente è ridotta del 25% per ogni assenza che non sia dovuta a grave e motivato impedimento od impegno istituzionale.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>Presidente</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>Il Presidente è nominato con decreto del Presidente della Regione su conforme deliberazione della Giunta.</corpo>
+					</comma>
+					<comma id="art7-com2">
+						<num>2.</num>
+						<alinea>Il Presidente:</alinea>
+						<el id="art7-com2-leta">
+							<num>a)</num>
+							<corpo>ha la rappresentanza legale dell'Agenzia;</corpo>
+						</el>
+						<el id="art7-com2-letb">
+							<num>b)</num>
+							<corpo>sovrintende all'attività gestionale dell'Agenzia;</corpo>
+						</el>
+						<el id="art7-com2-letc">
+							<num>c)</num>
+							<corpo>convoca e presiede il Consiglio di amministrazione;</corpo>
+						</el>
+						<el id="art7-com2-letd">
+							<num>d)</num>
+							<corpo>impartisce al direttore generale le direttive strategiche stabilite dal Consiglio di amministrazione;</corpo>
+						</el>
+						<el id="art7-com2-lete">
+							<num>e)</num>
+							<corpo>stipula il contratto di lavoro con il direttore generale;</corpo>
+						</el>
+						<el id="art7-com2-letf">
+							<num>f)</num>
+							<corpo>relaziona annualmente alla Giunta regionale sull'andamento dell'Azienda;</corpo>
+						</el>
+						<el id="art7-com2-letg">
+							<num>g)</num>
+							<corpo>adotta gli altri atti non attribuiti al Consiglio di amministrazione, al direttore generale o al personale dirigente dell'Agenzia;</corpo>
+						</el>
+						<el id="art7-com2-leth">
+							<num>h)</num>
+							<corpo>
+								può assumere le figure previste dagli articoli 7 e 9 della
+								<rif xlink:href="urn:nir:stato:legge:2000-06-07;150" xlink:type="simple">legge 7 giugno 2000, n. 150</rif>
+								.
+							</corpo>
+						</el>
+					</comma>
+					<comma id="art7-com3">
+						<num>3.</num>
+						<corpo>In caso di assenza o di impedimento, il Presidente è sostituito da uno dei consiglieri di amministrazione formalmente delegato di volta in volta o, in mancanza di delega, dal consigliere più anziano d'età.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>Collegio dei revisori dei conti - Composizione - Attribuzioni - Compensi</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>Il Collegio dei revisori, individuato tra soggetti iscritti all'Albo dei revisori dei conti, si compone di tre membri effettivi e di due membri supplenti. è nominato con decreto del Presidente della Giunta regionale ed i suoi componenti sono eletti, con voto limitato, dal Consiglio regionale, che individua il Presidente e per ciascun componente effettivo il rispettivo supplente.</corpo>
+					</comma>
+					<comma id="art8-com2">
+						<num>2.</num>
+						<alinea>Il Collegio dei revisori, per l'esercizio del controllo sull'amministrazione dell'Agenzia, svolge le seguenti funzioni:</alinea>
+						<el id="art8-com2-leta">
+							<num>a)</num>
+							<corpo>esamina i bilanci preventivi ed i conti consuntivi, esprimendo a tal fine pareri e redigendo apposite relazioni;</corpo>
+						</el>
+						<el id="art8-com2-letb">
+							<num>b)</num>
+							<corpo>effettua la verifica, almeno una volta ogni trimestre, della cassa e dei valori dell'Agenzia o da questa ricevuti a qualsiasi titolo;</corpo>
+						</el>
+						<el id="art8-com2-letc">
+							<num>c)</num>
+							<corpo>esprime pareri sulle variazioni di bilancio, sugli storni di fondi e formula proposte al Consiglio di amministrazione ed al direttore generale finalizzate a conseguire una migliore efficienza, produttività ed economicità di gestione.</corpo>
+						</el>
+					</comma>
+					<comma id="art8-com3">
+						<num>3.</num>
+						<corpo>Le verifiche e gli accertamenti effettuati, i pareri espressi e le relazioni vengono trascritti in apposito registro e sottoscritti dagli intervenuti.</corpo>
+					</comma>
+					<comma id="art8-com4">
+						<num>4.</num>
+						<corpo>Le decisioni del Collegio dei revisori sono assunte a maggioranza. Le motivazioni dei dissenzienti devono essere riportate a verbale.</corpo>
+					</comma>
+					<comma id="art8-com5">
+						<num>5.</num>
+						<corpo>Qualora il Collegio dei revisori accerti gravi irregolarità nella gestione dell'Agenzia deve fornirne tempestiva informativa al Consiglio di amministrazione ed al Presidente della Regione.</corpo>
+					</comma>
+					<comma id="art8-com6">
+						<num>6.</num>
+						<corpo>Tutti gli atti del Collegio dei revisori sono comunicati al direttore generale dell'Agenzia.</corpo>
+					</comma>
+					<comma id="art8-com7">
+						<num>7.</num>
+						<corpo>Il Collegio dei revisori dura in carica per il periodo di durata del Consiglio regionale che lo ha nominato.</corpo>
+					</comma>
+					<comma id="art8-com8">
+						<num>8.</num>
+						<corpo>Al Presidente ed ai componenti del Collegio dei revisori dei conti spetta un'indennità mensile pari, rispettivamente, al 40 ed al 30 per cento di quella prevista per il Presidente dell'Agenzia, nonché il rimborso delle spese di viaggio.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<rubrica>Incompatibilità - Decadenza</rubrica>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<alinea>
+							Fatte salve le cause di incompatibilità previste dall'
+							<rif xlink:href="urn:nir:regione.molise:legge:2002-08-02;16#art2-com1" xlink:type="simple">articolo 2, comma 1, della legge regionale 2 agosto 2002, n. 16</rif>
+							, non possono essere nominati Presidente o componente del Consiglio di amministrazione nè componente del Collegio dei revisori dei conti:
+						</alinea>
+						<el id="art9-com1-leta">
+							<num>a)</num>
+							<corpo>i consiglieri e gli assessori regionali, i componenti di organi di altri enti, istituti e aziende dipendenti dalla Regione Molise; i sindaci, i consiglieri e gli assessori comunali; i presidenti, i consiglieri e gli assessori provinciali; i presidenti, i consiglieri e gli assessori delle Comunità montane; i componenti di organi delle A.S.L.;</corpo>
+						</el>
+						<el id="art9-com1-letb">
+							<num>b)</num>
+							<corpo>coloro che, in qualità di imprenditori o di amministratori di società, abbiano effettuato negli ultimi tre anni o effettuino forniture di beni o di servizi all'Agenzia;</corpo>
+						</el>
+						<el id="art9-com1-letc">
+							<num>c)</num>
+							<corpo>il personale in servizio presso l'Agenzia e coloro che negli ultimi tre anni abbiano avuto o abbiano contenziosi giudiziari con l'Agenzia;</corpo>
+						</el>
+						<el id="art9-com1-letd">
+							<num>d)</num>
+							<corpo>tutti coloro per i quali l'incapacità è sentenziata da una condanna penale e per il periodo in essa indicato, salvo gli effetti della riabilitazione.</corpo>
+						</el>
+					</comma>
+					<comma id="art9-com2">
+						<num>2.</num>
+						<corpo>Non possono, altresì, essere nominati coloro che sono legati tra di loro da vincolo di parentela o di affinità entro il terzo grado.</corpo>
+					</comma>
+					<comma id="art9-com3">
+						<num>3.</num>
+						<corpo>I componenti del Collegio dei revisori dei conti non possono far parte di commissioni e di altri organismi costituiti nell'ambito dell'Agenzia, nè ricevere da questa incarichi di studio e di consulenza.</corpo>
+					</comma>
+					<comma id="art9-com4">
+						<num>4.</num>
+						<corpo>Le dimissioni dei componenti degli organi dell'Agenzia devono essere presentate al Presidente della Regione ed esplicano efficacia dalla data della loro accettazione.</corpo>
+					</comma>
+					<comma id="art9-com5">
+						<num>5.</num>
+						<alinea>Costituiscono causa di decadenza dalla carica:</alinea>
+						<el id="art9-com5-leta">
+							<num>a)</num>
+							<corpo>per il Presidente, per i componenti il Consiglio di amministrazione e per i componenti del Collegio dei revisori dei conti la sopraggiunta incompatibilità per una delle cause contemplate ai precedenti commi 1, 2 e 3;</corpo>
+						</el>
+						<el id="art9-com5-letb">
+							<num>b)</num>
+							<corpo>per i componenti il Collegio dei revisori dei conti la sospensione o la cancellazione dall'Albo dei revisori dei conti e la mancata partecipazione, anche se giustificata, per tre volte consecutive alle riunioni dell'organo.</corpo>
+						</el>
+					</comma>
+					<comma id="art9-com6">
+						<num>6.</num>
+						<corpo>Le cause di decadenza sono accertate dal direttore generale dell'Agenzia, il quale le notifica all'interessato ed al Presidente della Regione. La relativa decadenza dalle cariche è decretata dal Presidente della Regione entro 15 giorni dalla notifica.</corpo>
+					</comma>
+					<comma id="art9-com7">
+						<num>7.</num>
+						<corpo>Nel caso di dimissioni, decadenza, revoca, decesso o altra causa di impedimento, la sostituzione dei componenti degli organi è effettuata con le stesse modalità previste per la nomina. I soggetti subentranti restano in carica per il residuo periodo del mandato conferito ai sostituiti.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Art. 10</num>
+					<rubrica>Controllo</rubrica>
+					<comma id="art10-com1">
+						<num>1.</num>
+						<corpo>Il Presidente della Regione e la Giunta regionale possono disporre controlli sugli organi dell'Agenzia al fine di accertare il regolare esercizio dei mandato conferito.</corpo>
+					</comma>
+					<comma id="art10-com2">
+						<num>2.</num>
+						<corpo>Nel caso di mancata adozione di atti dovuti, il Presidente della Regione, previa diffida ad adempiere, dispone la nomina di "commissari ad acta".</corpo>
+					</comma>
+					<comma id="art10-com3">
+						<num>3.</num>
+						<corpo>Qualora nella gestione dell'Agenzia siano accertate inefficienze amministrative o gravi irregolarità o inadempienze, reiterate violazioni di disposizioni normative e regolamentari, di prescrizioni programmatiche ovvero di direttive del Consiglio regionale e di atti di indirizzo della Giunta regionale, o in caso di dimissioni della maggioranza dei consiglieri di amministrazione, il Presidente della Regione, con proprio decreto, previa conforme deliberazione Giunta regionale, dispone lo scioglimento degli organi di amministrazione dell'Agenzia e la nomina di un commissario straordinario.</corpo>
+					</comma>
+					<comma id="art10-com4">
+						<num>4.</num>
+						<corpo>Il commissario straordinario cura l'ordinaria amministrazione dell'Agenzia sino all'insediamento dei nuovi organi.</corpo>
+					</comma>
+					<comma id="art10-com5">
+						<num>5.</num>
+						<corpo>L'organo sciolto deve essere ricostituito entro quarantacinque giorni dalla nomina del commissario straordinario.</corpo>
+					</comma>
+					<comma id="art10-com6">
+						<num>6.</num>
+						<corpo>Al commissario straordinario spetta lo stesso compenso previsto per il Presidente dell'Agenzia.</corpo>
+					</comma>
+					<comma id="art10-com7">
+						<num>7.</num>
+						<corpo>Tutti gli atti non soggetti a preventiva autorizzazione o approvazione ai sensi della presente legge sono immediatamente efficaci ed esecutivi.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art11">
+					<num>Art. 11</num>
+					<rubrica>Gestione economica e finanziaria</rubrica>
+					<comma id="art11-com1">
+						<num>1.</num>
+						<corpo>La gestione economica e finanziaria dell'Agenzia è disciplinata dalle norme che regolano la contabilità, l'amministrazione dei beni e l'attività contrattuale della Regione, nonché dalle leggi della Repubblica in materia.</corpo>
+					</comma>
+					<comma id="art11-com2">
+						<num>2.</num>
+						<corpo>Il Consiglio regionale approva, su proposta della Giunta, con legge regionale, il bilancio di previsione dell'Agenzia ed il conto consuntivo.</corpo>
+					</comma>
+					<comma id="art11-com3">
+						<num>3.</num>
+						<corpo>Nelle more dell'approvazione del bilancio preventivo, l'Agenzia è autorizzata all'esercizio provvisorio nei limiti stabiliti per l'esercizio provvisorio del bilancio regionale.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art12">
+					<num>Art 12</num>
+					<rubrica>Direttore generale dell'ARSIAM</rubrica>
+					<comma id="art12-com1">
+						<num>1.</num>
+						<corpo>All'Agenzia è preposto un direttore generale nominato dal Consiglio di amministrazione, previo parere favorevole della Giunta regionale.</corpo>
+					</comma>
+					<comma id="art12-com2">
+						<num>2.</num>
+						<corpo>L'incarico di direzione può essere conferito a dirigenti regionali o dell'Agenzia muniti di diploma di laurea, dotati di esperienza pluriennale nelle funzioni dirigenziali. L'incarico può essere, altresì, conferito a persone esterne all'Amministrazione regionale ed all'Agenzia, muniti di diploma di laurea, che abbiano maturato esperienza ed adeguata preparazione professionale per lo svolgimento di attività a livello dirigenziale presso enti o aziende pubblici o privati.</corpo>
+					</comma>
+					<comma id="art12-com3">
+						<num>3.</num>
+						<corpo>Il direttore generale rimane in carica per il periodo di durata del Consiglio di amministrazione che lo ha nominato e comunque non oltre il sessantesimo giorno dalla nomina del nuovo Consiglio di amministrazione.</corpo>
+					</comma>
+					<comma id="art12-com4">
+						<num>4.</num>
+						<corpo>L'incarico di direttore generale è rinnovabile e può essere revocato prima della scadenza con atto motivato dei Consiglio di amministrazione.</corpo>
+					</comma>
+					<comma id="art12-com5">
+						<num>5.</num>
+						<corpo>Il direttore generale risponde al Consiglio di amministrazione circa il raggiungimento degli obiettivi e della gestione delle risorse assegnate.</corpo>
+					</comma>
+					<comma id="art12-com6">
+						<num>6.</num>
+						<corpo>Il trattamento giuridico ed economico del direttore generale è determinato e regolato dal contratto collettivo nazionale di lavoro del personale con qualifica dirigenziale del comparto "Regioni - Autonomie locali".</corpo>
+					</comma>
+					<comma id="art12-com7">
+						<num>7.</num>
+						<alinea>Salve le attribuzioni devolute al Consiglio di amministrazione e quelle di competenza dei dirigenti dell'Agenzia, al direttore generale compete di:</alinea>
+						<el id="art12-com7-leta">
+							<num>a)</num>
+							<corpo>coadiuvare il Consiglio di amministrazione ed il Presidente nello svolgimento dell'attività amministrativa, assumendo direttamente la responsabilità del conseguimento degli obiettivi dell'Agenzia nonché dell'attuazione dei piani e dei programmi;</corpo>
+						</el>
+						<el id="art12-com7-letb">
+							<num>b)</num>
+							<corpo>predisporre il bilancio di previsione e le proposte di variazione in corso di esercizio e redigere il conto consuntivo;</corpo>
+						</el>
+						<el id="art12-com7-letc">
+							<num>c)</num>
+							<corpo>formulare proposte al Consiglio di amministrazione;</corpo>
+						</el>
+						<el id="art12-com7-letd">
+							<num>d)</num>
+							<corpo>
+								promuovere e resistere alle liti, conciliare e transigere nell'ambito delle funzioni di cui all'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:2001-03-30;165#art16" xlink:type="simple">art. 16 decreto legislativo 30 marzo 2001, n. 165</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art12-com7-lete">
+							<num>e)</num>
+							<corpo>dare esecuzione alle deliberazioni del Consiglio di amministrazione;</corpo>
+						</el>
+						<el id="art12-com7-letf">
+							<num>f)</num>
+							<corpo>assistere all'attività deliberativa del Consiglio di amministrazione ed esprimere, su ogni atto deliberativo, il proprio parere circa la legittimità del provvedimento;</corpo>
+						</el>
+						<el id="art12-com7-letg">
+							<num>g)</num>
+							<corpo>adottare gli atti ed i provvedimenti amministrativi ed esercitare i poteri di spesa e quelli di acquisizione delle entrate salvo quelli delegati ai dirigenti;</corpo>
+						</el>
+						<el id="art12-com7-leth">
+							<num>h)</num>
+							<corpo>sovrintendere ai procedimenti inerenti l'attività contrattuale e stipulare i contratti;</corpo>
+						</el>
+						<el id="art12-com7-leti">
+							<num>i)</num>
+							<corpo>sovrintendere alla gestione del personale ed all'organizzazione dei servizi attribuiti alla responsabilità dei dirigenti, assicurando la funzionalità, l'economicità e la rispondenza dell'azione tecnico-amministrativa agli scopi dell'Agenzia;</corpo>
+						</el>
+						<el id="art12-com7-letj">
+							<num>j)</num>
+							<corpo>esercitare ogni altro compito assegnatogli dal Consiglio di amministrazione e comunque non attribuito espressamente al Presidente od ai dirigenti dell'Agenzia.</corpo>
+						</el>
+					</comma>
+					<comma id="art12-com8">
+						<num>8.</num>
+						<corpo>Il direttore generale dell'ARSIAM partecipa alle conferenze di servizio sull'attività e sui programmi dell'Agenzia indette, di regola mensilmente, dal direttore generale della Regione alle "Politiche agricole". I risultati di tali conferenze sono inviate dal direttore generale della Regione all'Assessore regionale alle "Politiche agricole" ed agli organi dell'Agenzia.</corpo>
+					</comma>
+					<comma id="art12-com9">
+						<num>9.</num>
+						<corpo>In caso di assenza o di impedimento, il direttore generale può essere sostituito temporaneamente, con provvedimento del Consiglio di amministrazione, da un dirigente della qualifica più elevato in servizio presso l'Agenzia.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art13">
+					<num>Art. 13</num>
+					<rubrica>Comitato tecnico-scientifico</rubrica>
+					<comma id="art13-com1">
+						<num>1.</num>
+						<corpo>È istituito presso l'Agenzia un Comitato tecnico-scientifico che esprime parere consultivo sui programmi dell'Agenzia.</corpo>
+					</comma>
+					<comma id="art13-com2">
+						<num>2.</num>
+						<corpo>Su richiesta del Consiglio di amministrazione, il Comitato tecnico-scientifico esprime parere sugli atti di amministrazione ed elabora studi o proposte per i programmi di attività dell'ARSIAM.</corpo>
+					</comma>
+					<comma id="art13-com3">
+						<num>3.</num>
+						<alinea>Comitato tecnico-scientifico è nominato dal Presidente della Regione ed è composto dai seguenti membri:</alinea>
+						<el id="art13-com3-leta">
+							<num>a)</num>
+							<corpo>il Presidente del Consiglio di amministrazione dell'ARSIAM,;</corpo>
+						</el>
+						<el id="art13-com3-letb">
+							<num>b)</num>
+							<corpo>il direttore generale dell'ARSIAM;</corpo>
+						</el>
+						<el id="art13-com3-letc">
+							<num>c)</num>
+							<corpo>un docente esperto in discipline agrarie designato dall'Università degli studi del Molise;</corpo>
+						</el>
+						<el id="art13-com3-letd">
+							<num>d)</num>
+							<corpo>un rappresentante del Consiglio nazionale delle ricerche;</corpo>
+						</el>
+						<el id="art13-com3-lete">
+							<num>e)</num>
+							<corpo>tre esperti nominati da ciascuna delle tre organizzazioni professionali agricole maggiormente rappresentate a livello regionale;</corpo>
+						</el>
+						<el id="art13-com3-letf">
+							<num>f)</num>
+							<corpo>un esperto scelto fra quelli designati dalle associazioni del movimento cooperativo maggiormente rappresentative a livello nazionale e presenti nella regione Molise;</corpo>
+						</el>
+						<el id="art13-com3-letg">
+							<num>g)</num>
+							<corpo>un dirigente dell'assessorato alle 'Politiche agricole" della Regione Molise designato dall'assessore alle 'Politiche agricole".</corpo>
+						</el>
+						<coda>Un funzionario dell'ARSIAM svolge le mansioni di segretario del Comitato.</coda>
+					</comma>
+					<comma id="art13-com4">
+						<num>4.</num>
+						<corpo>Il Comitato tecnico-scientifico è presieduto dal Presidente dell'Agenzia il quale provvede alla convocazione delle riunioni ed all'organizzazione dell'attività.</corpo>
+					</comma>
+					<comma id="art13-com5">
+						<num>5.</num>
+						<corpo>Il Comitato tecnico-scientifico resta in carica per il periodo di nomina del Consiglio di amministrazione.</corpo>
+					</comma>
+					<comma id="art13-com6">
+						<num>6.</num>
+						<corpo>Il Comitato tecnico-scientifico è validamente costituito quando risultano nominati almeno la metà più uno dei suoi componenti. Sono fatte salve le successive integrazioni con gli altri componenti designati aventi diritto.</corpo>
+					</comma>
+					<comma id="art13-com7">
+						<num>7.</num>
+						<corpo>I pareri del Comitato tecnico-scientifico sono validamente espressi con la presenza di almeno la metà più uno dei suoi componenti. Dei pareri espressi è redatto apposito verbale da conservare agli atti dell'Agenzia.</corpo>
+					</comma>
+					<comma id="art13-com8">
+						<num>8.</num>
+						<corpo>Nei provvedimenti emanati dall'ARSIAM si deve comunque far riferimento ai contenuti del parere espresso dal Comitato tecnico-scientifico.</corpo>
+					</comma>
+					<comma id="art13-com9">
+						<num>9.</num>
+						<corpo>Ai componenti del Comitato tecnico-scientifico spetta, con onere a carico del bilancio dell'Agenzia, un gettone di presenza determinato dal Consiglio di amministrazione, nonché il rimborso delle spese di viaggio.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art14">
+					<num>Art. 14</num>
+					<rubrica>Personale</rubrica>
+					<comma id="art14-com1">
+						<num>1.</num>
+						<corpo>Il Consiglio di amministrazione, entro quattro mesi dall'insediamento, provvede alla definizione dell'assetto strutturale e della dotazione organica dell'Agenzia per l'inquadramento del personale nei ruoli della stessa. La dotazione organica è approvata dalla Giunta regionale.</corpo>
+					</comma>
+					<comma id="art14-com2">
+						<num>2.</num>
+						<corpo>
+							Le disposizioni di cui al precedente comma non valgono per l'assunzione delle figure professionali previste dagli artt. 7 e 9 della
+							<rif xlink:href="urn:nir:stato:legge:2000-06-07;150" xlink:type="simple">legge 7 giugno 2000, n. 150</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art14-com3">
+						<num>3.</num>
+						<corpo>
+							Entro trenta giorni dall'approvazione della dotazione organica, il Presidente della Regione, con proprio decreto, previa deliberazione del Consiglio di amministrazione, assegna il personale all'Agenzia con le qualifiche, l'anzianità ed il trattamento economico in godimento. Al personale del disciolto ERSAM assegnato all'Agenzia si applicano i benefici previdenziali integrativi previsti dalla
+							<rif xlink:href="urn:nir:regione.molise:legge:1977;40" xlink:type="simple">legge regionale n. 40/1977</rif>
+							. Il personale del soppresso Ente regionale di sviluppo agricolo per il Molise che risultasse in esubero a seguito della revisione della dotazione organica è trasferito nei ruoli regionali e conserva lo stato giuridico, il trattamento economico ed i benefici in godimento nell'ente di provenienza.
+						</corpo>
+					</comma>
+					<comma id="art14-com4">
+						<num>4.</num>
+						<corpo>In sede di prima applicazione della presente legge, all'Agenzia viene temporaneamente assegnato il personale in servizio presso il soppresso E.R.S.A.M., il quale mantiene, fino all'adozione dei provvedimenti di cui ai commi 1 e 3, lo stato giuridico ed il trattamento economico attribuiti nell'ente di provenienza alla data di entrata in vigore della presente legge.</corpo>
+					</comma>
+					<comma id="art14-com5">
+						<num>5.</num>
+						<corpo>Se dalla dotazione organica dell'Agenzia, così come approvata dalla Giunta regionale, dovessero risultare necessarie ulteriori figure professionali non presenti nell'organico dell'ERSAM, la Giunta può predispone il passaggio del personale dai ruoli regionali all'Agenzia.</corpo>
+					</comma>
+					<comma id="art14-com6">
+						<num>6.</num>
+						<corpo>I rapporti tra l'Agenzia ed il personale dipendente sono regolati dal contratto collettivo nazionale dei dipendenti regionali.</corpo>
+					</comma>
+					<comma id="art14-com7">
+						<num>7.</num>
+						<corpo>Il personale dell'Agenzia è iscritto, ai fini del trattamento di quiescenza e di previdenza, all'I.N.P.D.A.P..</corpo>
+					</comma>
+					<comma id="art14-com8">
+						<num>8.</num>
+						<corpo>
+							Al personale dell'Agenzia, già inquadrato nell'ERSAM ai sensi dell'
+							<rif xlink:href="urn:nir:regione.molise:legge:1977;40#art23-com1" xlink:type="simple">articolo 23, comma 1</rif>
+							, e dell'
+							<rif xlink:href="urn:nir:regione.molise:legge:1977;40#art24-com2" xlink:type="simple">articolo 24, comma 2, della legge regionale n. 40/1977</rif>
+							, viene riconosciuto anche ai fini pensionistici il servizio prestato nel Molise per il cessato Ente di sviluppo in Puglia, Lucania e Molise, con la ripartizione degli oneri secondo la normativa vigente.
+						</corpo>
+					</comma>
+					<comma id="art14-com9">
+						<num>9.</num>
+						<corpo>Per gli operai delle aziende o gestioni agricole e forestali si applicano i rispettivi contratti nazionali di lavoro e la relativa previdenza di settore.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art15">
+					<num>Art. 15</num>
+					<rubrica>Esercizio finanziario</rubrica>
+					<comma id="art15-com1">
+						<num>1.</num>
+						<corpo>L'esercizio finanziario ha durata dal 1° gennaio al 31 dicembre di ciascun anno.</corpo>
+					</comma>
+					<comma id="art15-com2">
+						<num>2.</num>
+						<corpo>Il bilancio di previsione è approvato dal Consiglio di amministrazione entro il 30 settembre dell'esercizio precedente a quello di riferimento e trasmesso entro pari data alla Giunta regionale e da questa presentato per l'approvazione al Consiglio regionale.</corpo>
+					</comma>
+					<comma id="art15-com3">
+						<num>3.</num>
+						<corpo>Il conto consuntivo è approvato dal Consiglio di amministrazione entro il 30 marzo dell'anno successivo a quello di riferimento ed in pari data trasmesso alla Giunta regionale e da questa presentato per l'approvazione del Consiglio regionale.</corpo>
+					</comma>
+					<comma id="art15-com4">
+						<num>4.</num>
+						<corpo>Il Consiglio regionale approva il bilancio di previsione ed il conto consuntivo entra 60 giorni dal loro ricevimento.</corpo>
+					</comma>
+					<comma id="art15-com5">
+						<num>5.</num>
+						<corpo>In caso di diniego di approvazione del bilancio o del conto consuntivo ovvero nel caso di mancata presentazione degli stessi nei termini di cui ai commi 2 e 3, la Giunta regionale delibera lo scioglimento degli organi dell'Agenzia.</corpo>
+					</comma>
+					<comma id="art15-com6">
+						<num>6.</num>
+						<corpo>
+							La deliberazione di scioglimento di cui al
+							<rif xlink:href="#art15-com5" xlink:type="simple">comma 5</rif>
+							è resa esecutiva dal Presidente della Regione con decreto che dispone altresì la nomina del commissario incaricato della redazione del bilancio e del conto consuntivo nonché dell'amministrazione dell'Agenzia sino al rinnovo degli organi.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art16">
+					<num>Art. 16</num>
+					<rubrica>Patrimonio</rubrica>
+					<comma id="art16-com1">
+						<num>1.</num>
+						<corpo>L'Agenzia ha un proprio patrimonio che deve essere oggetto di inventario.</corpo>
+					</comma>
+					<comma id="art16-com2">
+						<num>2.</num>
+						<corpo>patrimonio è costituito originariamente dai beni immobili, mobili e dalle partecipazioni che vengono trasferiti dall'ERSAM all'Agenzia con deliberazione della Giunta regionale.</corpo>
+					</comma>
+					<comma id="art16-com3">
+						<num>3.</num>
+						<corpo>L'Agenzia propone piani per l'alienazione o il trasferimento ad altri soggetti pubblici o privati dei beni non funzionali all'espletamento dei compiti assegnati, nonché per l'utilizzazione nel settore agricolo dei relativi proventi. I piani sono approvati dalla Giunta regionale previo parere della Commissione consiliare competente, da rendersi nei termine di novanta giorni.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art17">
+					<num>Art. 17</num>
+					<rubrica>Finanziamenti</rubrica>
+					<comma id="art17-com1">
+						<num>1.</num>
+						<corpo>La Regione stanzia nel bilancio di previsione di ciascun anno le risorse necessarie al funzionamento dell'Agenzia.</corpo>
+					</comma>
+					<comma id="art17-com2">
+						<num>2.</num>
+						<alinea>I finanziamenti sono assicurati altresì attraverso:</alinea>
+						<el id="art17-com2-leta">
+							<num>a)</num>
+							<corpo>proventi dei servizi e delle attività;</corpo>
+						</el>
+						<el id="art17-com2-letb">
+							<num>b)</num>
+							<corpo>entrate derivanti dalla eventuale partecipazione a progetti comunitari, nazionali e regionali;</corpo>
+						</el>
+						<el id="art17-com2-letc">
+							<num>c)</num>
+							<corpo>contributi disposti a qualsiasi titolo da enti pubblici e soggetti privati;</corpo>
+						</el>
+						<el id="art17-com2-letd">
+							<num>d)</num>
+							<corpo>eventuali ulteriori entrate.</corpo>
+						</el>
+					</comma>
+					<comma id="art17-com3">
+						<num>3.</num>
+						<corpo>
+							L'Agenzia, in relazione ai servizi informatici, si avvale del soggetto di cui alla
+							<rif xlink:href="urn:nir:regione.molise:legge:1999;3" xlink:type="simple">legge regionale n. 3/1999</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art18">
+					<num>Art. 18</num>
+					<rubrica>Scioglimento e liquidazione dell'ERSAM</rubrica>
+					<comma id="art18-com1">
+						<num>1.</num>
+						<corpo>
+							L'ERSAM, istituito con l'
+							<rif xlink:href="urn:nir:stato:legge:1970-02-02;20#art6" xlink:type="simple">articolo 6 della legge 2 febbraio 1970, n. 20</rif>
+							, è sciolto e posto in liquidazione.
+						</corpo>
+					</comma>
+					<comma id="art18-com2">
+						<num>2.</num>
+						<corpo>Le relative funzioni, non assegnate all'Agenzia della presente legge, sono esercitate dai competenti organi della Regione Molise.</corpo>
+					</comma>
+					<comma id="art18-com3">
+						<num>3.</num>
+						<corpo>
+							Le strade realizzate nel comprensorio della riforma fondiaria sono trasferite, a titolo gratuito, ai sensi dell'
+							<rif xlink:href="urn:nir:stato:legge:1976;386#art11-com3" xlink:type="simple">articolo 11, comma 3, della legge n. 386/1976</rif>
+							, ai Comuni nel cui territorio esse ricadono, con deliberazione del Consiglio di amministrazione dell'Agenzia.
+						</corpo>
+					</comma>
+					<comma id="art18-com4">
+						<num>4.</num>
+						<corpo>Sono riservate alla Regione tutte le funzioni di programmazione, di indirizzo e di controllo delle attività amministrative in materia di sviluppo ed innovazione nell'agricoltura, nonché le politiche relative ai rapporti con l'Unione Europea, lo Stato e le Regioni.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art19">
+					<num>Art. 19</num>
+					<rubrica>Assetto organizzativo</rubrica>
+					<comma id="art19-com1">
+						<num>1.</num>
+						<corpo>
+							L'organizzazione dell'Agenzia regionale per lo sviluppo e l'innovazione dell'agricoltura nel Molise "Giacomo Sedati" (ARSIAM), è articolata in una sede centrale, nel capoluogo regionale, ed in unità territoriali, decentrate sul territorio regionale, così come previsto dalla
+							<rif xlink:href="urn:nir:regione.molise:legge:1989-09-13;14" xlink:type="simple">legge regionale 13 settembre 1989, n. 14</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art19-com2">
+						<num>2.</num>
+						<corpo>L'assetto organizzativo dell'ARSIAM, in riferimento ai compiti ed alle funzioni dell'Agenzia, previsti negli articoli 2 e 3 della presente legge, è definito sulla base della distribuzione di cui alla Tabella A), allegata alla presente legge.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art20">
+					<num>Art. 20</num>
+					<rubrica>Commissario liquidatore</rubrica>
+					<comma id="art20-com1">
+						<num>1.</num>
+						<corpo>
+							Entro trenta giorni dall'entrata in vigore della presente legge, il Consiglio regionale nomina il Commissario per la liquidazione dell'ERSAM; alla nomina non si applica la
+							<rif xlink:href="urn:nir:regione.molise:legge:2002-08-02;16" xlink:type="simple">legge regionale 2 agosto 2002, n. 16</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art20-com2">
+						<num>2.</num>
+						<corpo>Al Commissario liquidatore spetta a titolo di compenso, per il periodo dell'incarico, una indennità mensile lorda pari a quella prevista per il Presidente del Consiglio di amministrazione dell'Agenzia.</corpo>
+					</comma>
+					<comma id="art20-com3">
+						<num>3.</num>
+						<corpo>I compensi e le indennità da corrispondere al Commissario fanno carico alla gestione liquidatoria dell'ERSAM.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art21">
+					<num>Art. 21</num>
+					<rubrica>Procedura di liquidazione</rubrica>
+					<comma id="art21-com1">
+						<num>1.</num>
+						<corpo>Il Commissario liquidatore procede a tutte le operazioni secondo le direttive e sotto il controllo della Giunta regionale. Durante la liquidazione, il Commissario può adottare soltanto gli atti necessari alla liquidazione dei rapporti attivi e passivi del soppresso ERSAM.</corpo>
+					</comma>
+					<comma id="art21-com2">
+						<num>2.</num>
+						<alinea>Entro trenta giorni del suo insediamento il Commissario:</alinea>
+						<el id="art21-com2-leta">
+							<num>a)</num>
+							<corpo>prende in consegna i beni compresi nella liquidazione, le scritture ed i libri contabili e gli altri documenti dell'ERSAM,</corpo>
+						</el>
+						<el id="art21-com2-letb">
+							<num>b)</num>
+							<corpo>riceve il conto della gestione relativo al tempo posteriore all'ultimo bilancio;</corpo>
+						</el>
+						<el id="art21-com2-letc">
+							<num>c)</num>
+							<corpo>trasferisce gratuitamente all'Agenzia le attrezzature, gli arredi ed i macchinari d'ufficio necessari al primo funzionamento.</corpo>
+						</el>
+					</comma>
+					<comma id="art21-com3">
+						<num>3.</num>
+						<alinea>Entro i successivi sessanta giorni il Commissario presenta il piano di liquidazione da sottoporre all'approvazione della Giunta regionale. Il Piano di liquidazione deve contenere:</alinea>
+						<el id="art21-com3-leta">
+							<num>a)</num>
+							<corpo>la ricognizione e l'inventario dei beni e dei cespiti di pertinenza dell'ERSAM, con relativa stima;</corpo>
+						</el>
+						<el id="art21-com3-letb">
+							<num>b)</num>
+							<corpo>lo stato delle passività, con particolare riguardo alle garanzie ed alle fidejussioni prestate ed eventualmente escusse;</corpo>
+						</el>
+						<el id="art21-com3-letc">
+							<num>c)</num>
+							<corpo>la ricognizione dei rapporti attivi e passivi e delle pendenze giudiziarie all'epoca dello scioglimento;</corpo>
+						</el>
+						<el id="art21-com3-letd">
+							<num>d)</num>
+							<corpo>i residui provvedimenti dell'ERSAM da completare;</corpo>
+						</el>
+						<el id="art21-com3-lete">
+							<num>e)</num>
+							<corpo>il programma di attuazione della gestione liquidatoria.</corpo>
+						</el>
+					</comma>
+					<comma id="art21-com4">
+						<num>4.</num>
+						<corpo>Entro trenta giorni dall'approvazione del piano di liquidazione, la Giunta regionale con apposita direttiva individua i beni ed i rapporti non rientranti nella gestione liquidatoria e li trasferisce all'Agenzia. Contestualmente la Giunta stabilisce le priorità, le modalità e le procedure per la dismissione dei beni e dei rapporti da liquidare. Il provvedimento è adottato previo parere della competente Commissione consiliare che è rilasciato entro e non oltre il termine di trenta giorni, decorso inutilmente il quale la Giunta procede prescindendone.</corpo>
+					</comma>
+					<comma id="art21-com5">
+						<num>5.</num>
+						<corpo>Per lo svolgimento della funzione liquidatoria il Commissario si avvale di un contingente del personale dell'Agenzia assegnato provvisoriamente dal Presidente della Giunta regionale.</corpo>
+					</comma>
+					<comma id="art21-com6">
+						<num>6.</num>
+						<corpo>Il Commissario compie gli atti necessari alla liquidazione comprese le transazioni, previa autorizzazione della Giunta regionale. Il Commissario presenta alla fine di ogni semestre alla Giunta regionale una relazione sull'andamento della gestione, sulla situazione patrimoniale e sulle operazioni eseguite.</corpo>
+					</comma>
+					<comma id="art21-com7">
+						<num>7.</num>
+						<corpo>Entro ventiquattro mesi dal suo insediamento, il Commissario presenta alla Giunta regionale, per l'approvazione, il bilancio finale della liquidazione con il rendiconto della gestione ed una relazione conclusiva.</corpo>
+					</comma>
+					<comma id="art21-com8">
+						<num>8.</num>
+						<corpo>Esaurita la procedura di liquidazione, le eventuali residue attività sono acquisite al bilancio della Regione; le passività residue e non soddisfatte sono iscritte a carico del bilancio regionale.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art22">
+					<num>Art. 22</num>
+					<rubrica>Esercizio delle funzioni</rubrica>
+					<comma id="art22-com1">
+						<num>1.</num>
+						<corpo>I riferimenti all'ERSAM contenuti nelle norme e nelle disposizioni regionali si intendono riferiti all'Agenzia.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art23">
+					<num>Art. 23</num>
+					<rubrica>Norma finanziaria</rubrica>
+					<comma id="art23-com1">
+						<num>1.</num>
+						<corpo>Per le spese di primo funzionamento dell'ARSIAM, che per l'esercizio finanziario 2004 si quantificano in Euro 200.000,00, si provvede con gli stanziamenti previsti dal bilancio regionale nella UPB 220. La Giunta regionale provvede ad apportare le necessarie variazioni nel bilancio di gestione.</corpo>
+					</comma>
+					<comma id="art23-com2">
+						<num>2.</num>
+						<corpo>Per gli anni 2005 e successivi si provvederà con le rispettive leggi di approvazione del bilancio.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art24">
+					<num>Art. 24</num>
+					<rubrica>Norme abrogate</rubrica>
+					<comma id="art24-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								Sono abrogate la
+								<rif xlink:href="urn:nir:regione.molise:legge:1977-11-09;40" xlink:type="simple">legge regionale 9 novembre 1977, n. 40</rif>
+								; la
+								<rif xlink:href="urn:nir:regione.molise:legge:1988-09-06;21" xlink:type="simple">legge regionale 6 settembre 1988, n. 21</rif>
+								; la
+								<rif xlink:href="urn:nir:regione.molise:legge:1989-09-13;14" xlink:type="simple">legge regionale 13 settembre 1989, n. 14</rif>
+								, limitatamente alle parti in contrasto con la presente legge e tutte le altre disposizioni incompatibili con la presente legge.
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art24-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod2">
+								Sono abrogate, altresì, le disposizioni della
+								<rif xlink:href="urn:nir:regione.molise:legge:1988-11-21;22" xlink:type="simple">legge regionale 21 novembre 1988, n. 22</rif>
+								, e della
+								<rif xlink:href="urn:nir:regione.molise:legge:1996-03-06;14" xlink:type="simple">legge regionale 6 marzo 1996, n. 14</rif>
+								, in contrasto o incompatibili con la presente legge.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art25">
+					<num>Art. 25</num>
+					<rubrica>Norma transitoria</rubrica>
+					<comma id="art25-com1">
+						<num>1.</num>
+						<corpo>Fermo restando il servizio di cui all'articolo 3, lett. d), in materia di gestione della rete agrometereologica regionale, lo stesso, mediante convenzione, potrà essere gestito dal servizio regionale di 'Protezione civile" per far fronte ai compiti di allertamento nazionale e regionale per il rischio idrogeologico ed idraulico, al fine di creare un sistema integrato.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art26">
+					<num>Art. 26</num>
+					<rubrica>Entrata in vigore</rubrica>
+					<comma id="art26-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>
+							<h:a xlink:href="2004-27-tabA.pdf" xlink:type="simple">Tabella A</h:a>
+						</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:regione.molise:legge:2004-11-23;27:tabella.a" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc />
+							<dataDoc norm="" />
+							<numDoc />
+							<titoloDoc />
+						</intestazione>
+						<contenitore id="con1" nome="corpo">
+							<h:p />
+							<h:p />
+							<h:p />
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</LeggeRegionale>
+	</NIR>

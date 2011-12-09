@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20040116" num="1" tipo="BURM"/>
-                <entratainvigore norm="20040131"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2004-01-09;2"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
-                </materie>
-            </descrittori>
-        </meta><?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20040116" num="1" tipo="BURM" />
+					<entratainvigore norm="20040117" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2004-01-09;2" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20040117" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2004-01-09;2" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x96; N. 1 del 16 gennaio 2004 
@@ -27,405 +36,292 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc norm="20040109">9 gennaio 2004</dataDoc>, n. <numDoc>2</numDoc>. 
- 
-<titoloDoc>Bilancio di competenza e di cassa 2004 - Bilancio pluriennale 2004/2006. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1 </num>
-                <rubrica>
- 
-Stato di previsione delle entrate 
- </rubrica>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-                    <corpo> è approvato in 
- 
-Euro 1.889.486.531,60 
- 
-lo stato di previsione delle entrate di competenza della Regione Molise, secondo la tabella "A" annessa alla presente legge e riferita all'esercizio finanziario 2004 (in supplemento). </corpo>
-                </comma>
-                <comma id="art1-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> è approvato in 
- 
-Euro 3.268.980.361,10 
- 
-lo stato di previsione delle entrate di cassa della Regione Molise che si prevede di riscuotere nel corso dell'esercizio 2004, secondo la tabella "A" annessa alla presente legge (in supplemento). </corpo>
-                </comma>
-                <comma id="art1-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Sono autorizzati, secondo le leggi in vigore, l'accertamento e la riscossione dei tributi della Regione, la riscossione, nei confronti dello Stato, delle quote dei tributi erariali attribuiti alla Regione e il versamento, alla Tesoreria della Regione, di ogni altra somma e provento dovuto per l'anno 2004, giusto lo stato di previsione delle entrate di cui ai commi precedenti. </corpo>
-                </comma>
-                <comma id="art1-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> è autorizzata l'emanazione dei provvedimenti necessari per rendere esecutivi ruoli dei proventi spettanti alla Regione. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2 </num>
-                <rubrica>
- 
-Stato di previsione delle spese 
- </rubrica>
-                <comma id="art2-com1">
-                    <num>
-1.</num>
-                    <corpo> è approvato in 
- 
-Euro 1.889.486.531,60 
- 
-lo stato di previsione delle spese di competenza della Regione Molise, secondo la tabella "B" annessa alla presente legge e riferita all'esercizio finanziario 2004 (in supplemento). </corpo>
-                </comma>
-                <comma id="art2-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> è autorizzata l'assunzione di impegni di spesa entro i limiti degli stanziamenti di competenza secondo lo stato di previsione di spesa. </corpo>
-                </comma>
-                <comma id="art2-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> è approvato in 
- 
-Euro 3.268.980.361,10 
- 
-lo stato di previsione delle spese di cassa della Regione Molise secondo la tabella "B" annessa alla presente legge e riferita all'esercizio finanziario 2004 (in supplemento). </corpo>
-                </comma>
-                <comma id="art2-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> è autorizzato il pagamento delle spese della Regione entro i limiti degli stanziamenti di cassa secondo lo stato di previsione della spesa. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art. 3 </num>
-                <rubrica>
- 
-Autonomia contabile del Consiglio Regionale 
- </rubrica>
-                <comma id="art3-com1">
-                    <num>
-1.</num>
-                    <corpo> Ai sensi dell'<rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art63">art. 63 della legge regionale 7 maggio 2002 n. 4</rif>, la spesa corrente per assicurare l'autonomia del Consiglio regionale è stabilita, per l'anno 2004, in 
- 
-Euro 10.438.500,00 
- 
-così come descritta nella unità previsionale di base n. 010 - funzione obiettivo n. 1 (in supplemento). 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>Art. 4 </num>
-                <rubrica>
- 
-Classificazione delle entrate 
- </rubrica>
-                <comma id="art4-com1">
-                    <num>
-1.</num>
-
-                    <corpo> Le entrate del bilancio regionale per l'esercizio finanziario 2004, sono ripartite in sei titoli, in categorie e in unità previsionali di base secondo la classificazione prevista dall'<rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art17">art. 17 della legge regionale 7 maggio 2002, n. 4</rif>. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art5">
-                <num>Art. 5 </num>
-                <rubrica>
- 
-Classificazione delle spese 
- </rubrica>
-                <comma id="art5-com1">
-                    <num>
-1.</num>
-
-                    <corpo> Le spese del bilancio regionale 2004, sono ripartite, ai sensi dell'<rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art18">art. 18 della legge regionale 7 maggio 2002 n. 4</rif>, in unità previsionali di base e funzioni obiettivo, raggruppate in aree di coordinamento delle stesse. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art6">
-                <num>Art. 6 </num>
-                <rubrica>
- 
-Riepiloghi e prospetti allegati al bilancio annuale 
- </rubrica>
-                <comma id="art6-com1">
-                    <num>
-1.</num>
-                    <corpo> Al bilancio di previsione annuale per l'esercizio 2004 sono allegati i seguenti prospetti: 
- 
-Tabella n. 1 quadro riassuntivo delle entrate e delle spese di competenza e di cassa suddivise per titoli e per funzioni obiettivo; 
- 
-Tabella n. 2 tabella di raffronto delle entrate e delle spese distinte per unità previsionali di base, derivanti da assegnazioni di Fondi della Unione Europea e dello Stato a specifica destinazione; 
- 
-Tabella n. 3 elenco dei capitoli collegati alle unità previsionali di base; 
- 
-Tabella n. 4 elenco delle spese obbligatorie; 
- 
-Tabella n. 5 elenco dei provvedimenti legislativi in corso, riferito all'esercizio finanziario 2003; 
- 
-Tabella n. 6 elenco delle garanzie fidejussorie principali e sussidiarie concesse dalla Re-gione; 
- 
-Tabella n. 7 elenco dei capitoli finanziati con il ricorso all'indebitamento; 
- 
-Tabella n. 8 dimostrazione della formazione del saldo finanziario presunto al 31 dicembre 2003; 
- 
-Tabella n. 9 dimostrazione dell'utilizzo del presunto avanzo di amministrazione finalizzato applicato al bilancio 2004. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art7">
-                <num>Art. 7 </num>
-                <rubrica>
- 
-Bilancio pluriennale 
- </rubrica>
-                <comma id="art7-com1">
-                    <num>
-1.</num>
-                    <corpo> è adottato per il triennio 2004/2006 l'allegato bilancio pluriennale descritto nella tabella "C" annessa alla presente legge (in supplemento). 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art8">
-                <num>Art. 8 </num>
-                <rubrica>
- 
-Avanzo di amministrazione 
- </rubrica>
-                <comma id="art8-com1">
-                    <num>
-1.</num>
-                    <corpo> è autorizzata, ai sensi del <rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art15-com5">5° comma dell'art. 15 della legge regionale del 7 maggio 2002 n. 4</rif>, l'iscrizione nello stato di previsione dell'entrata 
- 
-DELLA SOMMA DI 
- 
-Euro 206.755.498,00 
- 
-a titolo di presunto avanzo di amministrazione, come da tabella n. 8 allegata alla presente legge (in supplemento). 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art9">
-                <num>Art. 9 </num>
-                <rubrica>
- 
-Giacenze presunte di cassa all'inizio dell'esercizio 
- </rubrica>
-                <comma id="art9-com1">
-                    <num>
-1.</num>
-                    <corpo> è autorizzata, ai sensi del <rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art15-com5">5° comma dell'art. 15 della legge regionale del 7 maggio 2002 n. 4</rif>, l'iscrizione nelle stato di previsione delle entrate di cassa per l'esercizio finanziario 2004 
- 
-DELLA SOMMA DI 
- 
-Euro 102.032.787,66 
- 
-a titolo di "Giacenze presunte di cassa all'inizio dell'esercizio 2004". 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art10">
-                <num>Art. 10 </num>
-                <rubrica>
- 
-Oneri continuativi 
- </rubrica>
-                <comma id="art10-com1">
-                    <num>
-1.</num>
-                    <corpo> L'autorizzazione di spesa per l'esercizio 2004, concernente leggi regionali e statali, attualmente in vigore che regolano attività o interventi di carattere continuativo o ricorrente, è disposta dalla presente legge negli importi indicati in corrispondenza a ciascuna unità previsionale di base della spesa nell'allegato stato di previsione. </corpo>
-                </comma>
-                <comma id="art10-com2">
-                    <num>
- 
-2.</num>
-
-                    <corpo> Le procedure di gestione e le modalità di erogazione sono quelle dalle leggi statali e regionali espressamente richiamate nella denominazione dei capitoli, aggiornate sulla base della normativa in materia di gestione delle spese introdotta dalla <rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4">legge regionale 7 maggio 2002 n. 4</rif>. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art11">
-                <num>Art. 11 </num>
-                <rubrica>
- 
-Fondo di riserva per spese obbligatorie 
- </rubrica>
-                <comma id="art11-com1">
-                    <num>
-1.</num>
-                    <corpo> Alla unità previsionale di base n. 830 dello stato di previsione della spesa è autorizzata l'iscrizione di uno stanziamento di competenza di 
- 
-Euro 442.931,51 
- 
-a titolo di "Fondo di riserva per spese obbligatorie", con uguale dotazione di cassa. </corpo>
-                </comma>
-                <comma id="art11-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Sono considerate obbligatorie le spese indicate nella tabella n. 4 allegata alla presente legge (in supplemento). </corpo>
-                </comma>
-                <comma id="art11-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> L'utilizzo del fondo è disciplinato dalle norme previste dall'art. 24 della legge regionale di contabilità 7 maggio 2002, n. 4. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art12">
-                <num>Art. 12 </num>
-                <rubrica>
- 
-Fondo di riserva per spese impreviste 
- </rubrica>
-                <comma id="art12-com1">
-                    <num>
-1.</num>
-                    <corpo> è autorizzata l'iscrizione alla unità previsionale di base n. 840 dello stato di previsione della spesa di uno stanziamento di 
- 
-Euro 30.000,00 
- 
-a titolo di "Fondo di riserva per spese impreviste". </corpo>
-                </comma>
-                <comma id="art12-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> L'utilizzo di somme da prelevare dal fondo è disciplinato dalle norme di cui all'art. 25 della legge regionale di contabilità 7 maggio 2002, n. 4. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art13">
-                <num>Art. 13 </num>
-                <rubrica>
- 
-Capitolo di spesa per finanziare residui cancellati 
- </rubrica>
-                <comma id="art13-com1">
-                    <num>
-1.</num>
-                    <corpo> Per il pagamento di somme eliminate dai residui passivi per le quali sia prevedibile da parte dei creditori l'esercizio del proprio diritto a riscuotere è autorizzata l'iscrizione, nella unità previsionale di base n. 860 dello stato di previsione della spe1sa, di un fondo con una dotazione di competenza e di cassa, per l'anno 2004, di 
- 
-Euro 224.000,00. </corpo>
-                </comma>
-                <comma id="art13-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Per l'utilizzo del fondo sarè osservato quanto previsto dall'art. 27 della legge regionale di contabilità 7 maggio 2002, n. 4. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art14">
-                <num>Art. 14 </num>
-                <rubrica>
- 
-Fondo di riserva di cassa 
- </rubrica>
-                <comma id="art14-com1">
-                    <num>
-1.</num>
-                    <corpo> è autorizzata l'iscrizione alla unità previsionale di base n. 850 dello stato di previsione della spesa del solo bilancio di cassa 
- 
-DELL'IMPORTO DI 
- 
-Euro 6.687.163,83 
- 
-a titolo di "Fondo di riserva di cassa". </corpo>
-                </comma>
-                <comma id="art14-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> I prelievi dal fondo di cui al <rif
-                            xlink:href="#art14-com1">primo comma</rif>, occorrenti sia per far fronte a maggiori spese, che per sopperire a minori entrate e le relative destinazioni ad integrazione di altri capitoli di spesa del bilancio di cassa, sono disposti, ai sensi dell'<rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art26">art. 26 della legge regionale 7 maggio 2002, n, 4</rif>. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art15">
-                <num>Art. 15 </num>
-                <rubrica>
- 
-Annualità del bilancio 
- </rubrica>
-                <comma id="art15-com1">
-                    <num>
-1.</num>
-                    <corpo> L'esercizio finanziario 2004 ha inizio con il 1° gennaio ed ha termine il 31 dicembre 2004. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art16">
-                <num>Art. 16 </num>
-                <rubrica>
- 
-Esercizio delle funzioni trasferite dallo Stato 
- </rubrica>
-                <comma id="art16-com1">
-                    <num>
-1.</num>
-
-                    <corpo> Alle spese per l'esercizio delle funzioni trasferite dallo Stato ai sensi dell'<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art117">art. 117 della Costituzione</rif>, in assenza di legislazione regionale, si provvede sulla base della normativa statale. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art17">
-                <num>Art. 17 </num>
-                <rubrica>
- 
-Pubblicazione 
- </rubrica>
-                <comma id="art17-com1">
-                    <num>
-1.</num>
-                    <corpo> La presente legge regionale entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise. </corpo>
-                </comma>
-                <comma id="art17-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> è fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20040109">9 gennaio 2004</dataDoc>
+				, n.
+				<numDoc>2</numDoc>
+				.
+				<titoloDoc>Bilancio di competenza e di cassa 2004 - Bilancio pluriennale 2004/2006.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>Stato di previsione delle entrate</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							È approvato in
+							<h:p>Euro 1.889.486.531,60</h:p>
+							<h:p>lo stato di previsione delle entrate di competenza della Regione Molise, secondo la tabella "A" annessa alla presente legge e riferita all'esercizio finanziario 2004 (in supplemento).</h:p>
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>
+							È approvato in
+							<h:p>Euro 3.268.980.361,10</h:p>
+							<h:p>lo stato di previsione delle entrate di cassa della Regione Molise che si prevede di riscuotere nel corso dell'esercizio 2004, secondo la tabella "A" annessa alla presente legge (in supplemento).</h:p>
+						</corpo>
+					</comma>
+					<comma id="art1-com3">
+						<num>3.</num>
+						<corpo>Sono autorizzati, secondo le leggi in vigore, l'accertamento e la riscossione dei tributi della Regione, la riscossione, nei confronti dello Stato, delle quote dei tributi erariali attribuiti alla Regione e il versamento, alla Tesoreria della Regione, di ogni altra somma e provento dovuto per l'anno 2004, giusto lo stato di previsione delle entrate di cui ai commi precedenti.</corpo>
+					</comma>
+					<comma id="art1-com4">
+						<num>4.</num>
+						<corpo>È autorizzata l'emanazione dei provvedimenti necessari per rendere esecutivi ruoli dei proventi spettanti alla Regione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>Stato di previsione delle spese</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							È approvato in
+							<h:p>Euro 1.889.486.531,60</h:p>
+							<h:p>lo stato di previsione delle spese di competenza della Regione Molise, secondo la tabella "B" annessa alla presente legge e riferita all'esercizio finanziario 2004 (in supplemento).</h:p>
+						</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>È autorizzata l'assunzione di impegni di spesa entro i limiti degli stanziamenti di competenza secondo lo stato di previsione di spesa.</corpo>
+					</comma>
+					<comma id="art2-com3">
+						<num>3.</num>
+						<corpo>
+							È approvato in
+							<h:p>Euro 3.268.980.361,10</h:p>
+							<h:p>lo stato di previsione delle spese di cassa della Regione Molise secondo la tabella "B" annessa alla presente legge e riferita all'esercizio finanziario 2004 (in supplemento).</h:p>
+						</corpo>
+					</comma>
+					<comma id="art2-com4">
+						<num>4.</num>
+						<corpo>È autorizzato il pagamento delle spese della Regione entro i limiti degli stanziamenti di cassa secondo lo stato di previsione della spesa.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>Autonomia contabile del Consiglio Regionale</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							Ai sensi dell'
+							<rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art63" xlink:type="simple">art. 63 della legge regionale 7 maggio 2002 n. 4</rif>
+							, la spesa corrente per assicurare l'autonomia del Consiglio regionale è stabilita, per l'anno 2004, in
+							<h:p>Euro 10.438.500,00</h:p>
+							<h:p>così come descritta nella unità previsionale di base n. 010 - funzione obiettivo n. 1 (in supplemento).</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>Classificazione delle entrate</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>
+							Le entrate del bilancio regionale per l'esercizio finanziario 2004, sono ripartite in sei titoli, in categorie e in unità previsionali di base secondo la classificazione prevista dall'
+							<rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art17" xlink:type="simple">art. 17 della legge regionale 7 maggio 2002, n. 4</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>Classificazione delle spese</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>
+							Le spese del bilancio regionale 2004, sono ripartite, ai sensi dell'
+							<rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art18" xlink:type="simple">art. 18 della legge regionale 7 maggio 2002 n. 4</rif>
+							, in unità previsionali di base e funzioni obiettivo, raggruppate in aree di coordinamento delle stesse.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>Riepiloghi e prospetti allegati al bilancio annuale</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>
+							Al bilancio di previsione annuale per l'esercizio 2004 sono allegati i seguenti prospetti:
+							<h:p>Tabella n. 1 quadro riassuntivo delle entrate e delle spese di competenza e di cassa suddivise per titoli e per funzioni obiettivo;</h:p>
+							<h:p>Tabella n. 2 tabella di raffronto delle entrate e delle spese distinte per unità previsionali di base, derivanti da assegnazioni di Fondi della Unione Europea e dello Stato a specifica destinazione;</h:p>
+							<h:p>Tabella n. 3 elenco dei capitoli collegati alle unità previsionali di base;</h:p>
+							<h:p>Tabella n. 4 elenco delle spese obbligatorie;</h:p>
+							<h:p>Tabella n. 5 elenco dei provvedimenti legislativi in corso, riferito all'esercizio finanziario 2003;</h:p>
+							<h:p>Tabella n. 6 elenco delle garanzie fidejussorie principali e sussidiarie concesse dalla Regione;</h:p>
+							<h:p>Tabella n. 7 elenco dei capitoli finanziati con il ricorso all'indebitamento;</h:p>
+							<h:p>Tabella n. 8 dimostrazione della formazione del saldo finanziario presunto al 31 dicembre 2003;</h:p>
+							<h:p>Tabella n. 9 dimostrazione dell'utilizzo del presunto avanzo di amministrazione finalizzato applicato al bilancio 2004.</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>Bilancio pluriennale</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>È adottato per il triennio 2004/2006 l'allegato bilancio pluriennale descritto nella tabella "C" annessa alla presente legge (in supplemento).</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>Avanzo di amministrazione</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>
+							È autorizzata, ai sensi del
+							<rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art15-com5" xlink:type="simple">5° comma dell'art. 15 della legge regionale del 7 maggio 2002 n. 4</rif>
+							, l'iscrizione nello stato di previsione dell'entrata
+							<h:p>DELLA SOMMA DI</h:p>
+							<h:p>Euro 206.755.498,00</h:p>
+							<h:p>a titolo di presunto avanzo di amministrazione, come da tabella n. 8 allegata alla presente legge (in supplemento).</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<rubrica>Giacenze presunte di cassa all'inizio dell'esercizio</rubrica>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<corpo>
+							È autorizzata, ai sensi del
+							<rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art15-com5" xlink:type="simple">5° comma dell'art. 15 della legge regionale del 7 maggio 2002 n. 4</rif>
+							, l'iscrizione nelle stato di previsione delle entrate di cassa per l'esercizio finanziario 2004
+							<h:p>DELLA SOMMA DI</h:p>
+							<h:p>Euro 102.032.787,66</h:p>
+							<h:p>a titolo di "Giacenze presunte di cassa all'inizio dell'esercizio 2004".</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Art. 10</num>
+					<rubrica>Oneri continuativi</rubrica>
+					<comma id="art10-com1">
+						<num>1.</num>
+						<corpo>L'autorizzazione di spesa per l'esercizio 2004, concernente leggi regionali e statali, attualmente in vigore che regolano attività o interventi di carattere continuativo o ricorrente, è disposta dalla presente legge negli importi indicati in corrispondenza a ciascuna unità previsionale di base della spesa nell'allegato stato di previsione.</corpo>
+					</comma>
+					<comma id="art10-com2">
+						<num>2.</num>
+						<corpo>
+							Le procedure di gestione e le modalità di erogazione sono quelle dalle leggi statali e regionali espressamente richiamate nella denominazione dei capitoli, aggiornate sulla base della normativa in materia di gestione delle spese introdotta dalla
+							<rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4" xlink:type="simple">legge regionale 7 maggio 2002 n. 4</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art11">
+					<num>Art. 11</num>
+					<rubrica>Fondo di riserva per spese obbligatorie</rubrica>
+					<comma id="art11-com1">
+						<num>1.</num>
+						<corpo>
+							Alla unità previsionale di base n. 830 dello stato di previsione della spesa è autorizzata l'iscrizione di uno stanziamento di competenza di
+							<h:p>Euro 442.931,51</h:p>
+							<h:p>a titolo di "Fondo di riserva per spese obbligatorie", con uguale dotazione di cassa.</h:p>
+						</corpo>
+					</comma>
+					<comma id="art11-com2">
+						<num>2.</num>
+						<corpo>Sono considerate obbligatorie le spese indicate nella tabella n. 4 allegata alla presente legge (in supplemento).</corpo>
+					</comma>
+					<comma id="art11-com3">
+						<num>3.</num>
+						<corpo>L'utilizzo del fondo è disciplinato dalle norme previste dall'art. 24 della legge regionale di contabilità 7 maggio 2002, n. 4.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art12">
+					<num>Art. 12</num>
+					<rubrica>Fondo di riserva per spese impreviste</rubrica>
+					<comma id="art12-com1">
+						<num>1.</num>
+						<corpo>
+							È autorizzata l'iscrizione alla unità previsionale di base n. 840 dello stato di previsione della spesa di uno stanziamento di
+							<h:p>Euro 30.000,00</h:p>
+							<h:p>a titolo di "Fondo di riserva per spese impreviste".</h:p>
+						</corpo>
+					</comma>
+					<comma id="art12-com2">
+						<num>2.</num>
+						<corpo>L'utilizzo di somme da prelevare dal fondo è disciplinato dalle norme di cui all'art. 25 della legge regionale di contabilità 7 maggio 2002, n. 4.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art13">
+					<num>Art. 13</num>
+					<rubrica>Capitolo di spesa per finanziare residui cancellati</rubrica>
+					<comma id="art13-com1">
+						<num>1.</num>
+						<corpo>
+							Per il pagamento di somme eliminate dai residui passivi per le quali sia prevedibile da parte dei creditori l'esercizio del proprio diritto a riscuotere è autorizzata l'iscrizione, nella unità previsionale di base n. 860 dello stato di previsione della spe1sa, di un fondo con una dotazione di competenza e di cassa, per l'anno 2004, di
+							<h:p>Euro 224.000,00.</h:p>
+						</corpo>
+					</comma>
+					<comma id="art13-com2">
+						<num>2.</num>
+						<corpo>Per l'utilizzo del fondo sarà osservato quanto previsto dall'art. 27 della legge regionale di contabilità 7 maggio 2002, n. 4.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art14">
+					<num>Art. 14</num>
+					<rubrica>Fondo di riserva di cassa</rubrica>
+					<comma id="art14-com1">
+						<num>1.</num>
+						<corpo>
+							È autorizzata l'iscrizione alla unità previsionale di base n. 850 dello stato di previsione della spesa del solo bilancio di cassa
+							<h:p>DELL'IMPORTO DI</h:p>
+							<h:p>Euro 6.687.163,83</h:p>
+							<h:p>a titolo di "Fondo di riserva di cassa".</h:p>
+						</corpo>
+					</comma>
+					<comma id="art14-com2">
+						<num>2.</num>
+						<corpo>
+							I prelievi dal fondo di cui al
+							<rif xlink:href="#art14-com1" xlink:type="simple">primo comma</rif>
+							, occorrenti sia per far fronte a maggiori spese, che per sopperire a minori entrate e le relative destinazioni ad integrazione di altri capitoli di spesa del bilancio di cassa, sono disposti, ai sensi dell'
+							<rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art26" xlink:type="simple">art. 26 della legge regionale 7 maggio 2002, n, 4</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art15">
+					<num>Art. 15</num>
+					<rubrica>Annualità del bilancio</rubrica>
+					<comma id="art15-com1">
+						<num>1.</num>
+						<corpo>L'esercizio finanziario 2004 ha inizio con il 1° gennaio ed ha termine il 31 dicembre 2004.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art16">
+					<num>Art. 16</num>
+					<rubrica>Esercizio delle funzioni trasferite dallo Stato</rubrica>
+					<comma id="art16-com1">
+						<num>1.</num>
+						<corpo>
+							Alle spese per l'esercizio delle funzioni trasferite dallo Stato ai sensi dell'
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art117" xlink:type="simple">art. 117 della Costituzione</rif>
+							, in assenza di legislazione regionale, si provvede sulla base della normativa statale.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art17">
+					<num>Art. 17</num>
+					<rubrica>Pubblicazione</rubrica>
+					<comma id="art17-com1">
+						<num>1.</num>
+						<corpo>La presente legge regionale entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise.</corpo>
+					</comma>
+					<comma id="art17-com2">
+						<num>2.</num>
+						<corpo>È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>
