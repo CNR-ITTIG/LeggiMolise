@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20030516" num="10" tipo="BURM"/>
-                <entratainvigore norm="20030531"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2003-05-07;17"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="08.demanio e patrimonio, beni di uso civico"/>
-                </materie>
-            </descrittori>
-        </meta><?error 08.Demanio e patrimonio, beni di uso civico 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20030516" num="10" tipo="BURM" />
+					<entratainvigore norm="20030531" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2003-05-07;17" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="08.demanio e patrimonio, beni di uso civico" />
+						<materia valore="38.Valorizzazione dei beni culturali e ambientali, impatto ambientale" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20030531" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2003-05-07;17" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 08.Demanio e patrimonio, beni di uso civico 
 38.Valorizzazione dei beni culturali e ambientali, impatto ambientale 
  
 Bollettino 
@@ -28,69 +38,70 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc
-                    norm="20030507">7 maggio 2003</dataDoc>, n. <numDoc>17</numDoc>. 
- 
-<titoloDoc>Integrazioni e modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1997-04-11;9">legge regionale n. 9 dell'11 aprile 1997</rif>, concernente: "Tutela, valorizzazione e gestione del demanio dei tratturi". 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1 </num>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-                    <corpo>
-                        <mod id="art1-com1-mod1"> All'<rif
-                                xlink:href="urn:nir:regione.molise:legge:1997-04-11;9#art7">articolo 7 della legge regionale n. 9 dell'11 aprile 1997</rif> è aggiunto, dopo il comma 4, il seguente comma: "<virgolette
-                                id="art1-com1-mod1-vir1" tipo="struttura">
-                                <comma id="art1-com1-mod1-vir1-com0">
-                                    <num>5.</num>
-                                    <corpo> Il prezzo di vendita fissato dal precedente comma 3 è decurtato dell'ammontare dei canoni corrisposti con decorrenza dall'inizio del quarto anno dalla data di entrata in vigore della presente legge</corpo>
-                                </comma>
-                            </virgolette>". 
- 
-</mod>
-                    </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2 </num>
-                <comma id="art2-com1">
-                    <num>
-1.</num>
-                    <corpo>
-                        <mod id="art2-com1-mod2"> Il <rif
-                                xlink:href="urn:nir:regione.molise:legge:1997-04-11;9#art13-com2">comma 2 dell'articolo 13 della legge regionale n. 9 dell'11 aprile 1997</rif>, è così sostituito: "<virgolette
-                                id="art2-com1-mod2-vir2" tipo="struttura">
-                                <comma id="art2-com1-mod2-vir2-com0">
-                                    <num>2.</num>
-                                    <corpo> Per il raggiungimento dei fondi interclusi sono autorizzati, a titolo gratuito, il passaggio ed il transito, purché cI' non comporti alcuna modifica allo stato dei luoghi</corpo>
-                                </comma>
-                            </virgolette>". 
- 
-</mod>
-                    </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art. 3 </num>
-                <comma id="art3-com1">
-                    <num>
-1.</num>
-                    <corpo> La presente legge è pubblicata sul Bollettino Ufficiale della Regione Molise. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
-
-?>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20030507">7 maggio 2003</dataDoc>
+				, n.
+				<numDoc>17</numDoc>
+				.
+				<titoloDoc>
+					Integrazioni e modifiche alla
+					<rif xlink:href="urn:nir:regione.molise:legge:1997-04-11;9" xlink:type="simple">legge regionale n. 9 dell'11 aprile 1997</rif>
+					, concernente: "Tutela, valorizzazione e gestione del demanio dei tratturi".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:1997-04-11;9#art7" xlink:type="simple">articolo 7 della legge regionale n. 9 dell'11 aprile 1997</rif>
+								è aggiunto, dopo il comma 4, il seguente comma: "
+								<virgolette id="mod1-vir1" tipo="struttura">
+									<comma id="mod1-vir1-com5">
+										<num>5.</num>
+										<corpo>Il prezzo di vendita fissato dal precedente comma 3 è decurtato dell'ammontare dei canoni corrisposti con decorrenza dall'inizio del quarto anno dalla data di entrata in vigore della presente legge</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod2">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1997-04-11;9#art13-com2" xlink:type="simple">comma 2 dell'articolo 13 della legge regionale n. 9 dell'11 aprile 1997</rif>
+								, è così sostituito: "
+								<virgolette id="mod2-vir1" tipo="struttura">
+									<comma id="mod2-vir1-com2">
+										<num>2.</num>
+										<corpo>Per il raggiungimento dei fondi interclusi sono autorizzati, a titolo gratuito, il passaggio ed il transito, purché cI' non comporti alcuna modifica allo stato dei luoghi</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>La presente legge è pubblicata sul Bollettino Ufficiale della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

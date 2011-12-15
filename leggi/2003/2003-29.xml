@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20031115" num="23" tipo="BURM"/>
-                <entratainvigore norm="20031130"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2003-11-12;29"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="30.promozione e organizzazione di attivit&amp;#xe0; culturali e delle tradizioni locali, associazionismo"/>
-                </materie>
-            </descrittori>
-        </meta><?error 30.Promozione e organizzazione di attività culturali e delle tradizioni locali, associazionismo 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20031115" num="23" tipo="BURM" />
+					<entratainvigore norm="20031130" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2003-11-12;29" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="30.promozione e organizzazione di attivit&amp;#xe0; culturali e delle tradizioni locali, associazionismo" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20031130" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2003-11-12;29" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 30.Promozione e organizzazione di attività culturali e delle tradizioni locali, associazionismo 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 23 del 15 novembre 2003 
@@ -27,60 +36,53 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc norm="20031112">12 novembre 2003</dataDoc>, n. <numDoc>29</numDoc>. 
- 
-<titoloDoc>Istituzione della "Giornata della Memoria" 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1 </num>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-                    <corpo> A ricordo dell'evento sismico che ha colpito la comunità molisana nel 2002, la Regione istituisce la "Giornata della Memoria", la cui celebrazione è fissata al 31 ottobre di ogni anno, nella ricorrenza del crollo della scuola "Jovine" di San Giuliano di Puglia, che ha causato la morte di 27 bambini e della loro maestra. </corpo>
-                </comma>
-                <comma id="art1-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> La "Giornata della Memoria", rappresenta occasione di riflessione e di approfondimento delle problematiche relative all'evento verificatosi, alla protezione civile, alla prevenzione, alla sicurezza ed al mondo dell'infanzia. </corpo>
-                </comma>
-                <comma id="art1-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> A tal fine, il Consiglio regionale si riunisce nella predetta data per dibattere sui temi richiamati al comma precedente. </corpo>
-                </comma>
-                <comma id="art1-com4">
-                    <num>
- 
-4.</num>
-
-                    <corpo> Nella stessa "Giornata della Memoria", la Regione promuove nelle scuole e negli Enti locali la discussione degli argomenti indicati al <rif xlink:href="#art1-com2">comma 2</rif>. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2 </num>
-                <comma id="art2-com1">
-                    <num>
-1.</num>
-
-                    <corpo> La Giunta regionale, anche alla luce delle indicazioni che annualmente il Consiglio regionale elabora ai sensi dell'<rif xlink:href="#art1">art. 1</rif> e sentiti gli Enti locali, le Istituzioni scolastiche, le forze sociali, le associazioni e le organizzazioni del volontariato, promuove e valorizza opportune iniziative volte ad accrescere la consapevolezza sociale e culturale nonché l'attenzione alla soluzione delle specifiche problematiche oggetto della presente legge. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osselvare come legge della Regione Molise. 
-
-?>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20031112">12 novembre 2003</dataDoc>
+				, n.
+				<numDoc>29</numDoc>
+				.
+				<titoloDoc>Istituzione della "Giornata della Memoria"</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>A ricordo dell'evento sismico che ha colpito la comunità molisana nel 2002, la Regione istituisce la "Giornata della Memoria", la cui celebrazione è fissata al 31 ottobre di ogni anno, nella ricorrenza del crollo della scuola "Jovine" di San Giuliano di Puglia, che ha causato la morte di 27 bambini e della loro maestra.</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>La "Giornata della Memoria", rappresenta occasione di riflessione e di approfondimento delle problematiche relative all'evento verificatosi, alla protezione civile, alla prevenzione, alla sicurezza ed al mondo dell'infanzia.</corpo>
+					</comma>
+					<comma id="art1-com3">
+						<num>3.</num>
+						<corpo>A tal fine, il Consiglio regionale si riunisce nella predetta data per dibattere sui temi richiamati al comma precedente.</corpo>
+					</comma>
+					<comma id="art1-com4">
+						<num>4.</num>
+						<corpo>
+							Nella stessa "Giornata della Memoria", la Regione promuove nelle scuole e negli Enti locali la discussione degli argomenti indicati al
+							<rif xlink:href="#art1-com2" xlink:type="simple">comma 2</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							La Giunta regionale, anche alla luce delle indicazioni che annualmente il Consiglio regionale elabora ai sensi dell'
+							<rif xlink:href="#art1" xlink:type="simple">art. 1</rif>
+							e sentiti gli Enti locali, le Istituzioni scolastiche, le forze sociali, le associazioni e le organizzazioni del volontariato, promuove e valorizza opportune iniziative volte ad accrescere la consapevolezza sociale e culturale nonché l'attenzione alla soluzione delle specifiche problematiche oggetto della presente legge.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osselvare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

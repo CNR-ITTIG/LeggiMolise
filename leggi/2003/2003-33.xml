@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20031201" num="24" tipo="BURM"/>
-                <entratainvigore norm="20031216"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2003-11-21;33"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
-                </materie>
-            </descrittori>
-        </meta><?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20031201" num="24" tipo="BURM" />
+					<entratainvigore norm="20031202" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2003-11-21;33" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20031202" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2003-11-21;33" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x96; N. 24 del 1 dicembre 2003 
@@ -27,682 +36,625 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc norm="20031121">21 novembre 2003</dataDoc>, n. <numDoc>33</numDoc>. 
- 
-<titoloDoc>Rendiconto generale della Regione Molise per l'esercizio finanziario 2002. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1 </num>
-                <rubrica>
- 
-Il rendiconto generale della Regione Molise per l'esercizio 2002 è approvato con le risultanze esposte negli articoli seguenti. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2 </num>
-                <rubrica>
- 
-Entrate di competenza 
- 
-Le entrate derivanti da tributi propri della Regione, dal gettito dei tributi erariali o di quote di esso devolute alla Regione; le entrate derivanti da contributi e trasferimenti dell'Unione Europea, dello Stato e di altri soggetti; le entrate extratributarie, le entrate derivanti da alienazioni, da trasformazione di capitale, da riscossione di crediti e da trasferimenti in conto capitale; le entrate derivanti da mutui, prestiti ed altre operazioni creditizie; le entrate per contabilità speciali, accertate nell'esercizio 2002, per la competenza propria dell'esercizio stesso, risultano stabilite dal conto del bilancio in 
- 
-Euro</rubrica>
-                <comma id="art2-com1">
-                    <num> 1.</num>
-                    <corpo>637.271.436,41 
- 
-di cui: 
- 
-&gt; riscosse                                                                                                                                                Euro 692.516.074,84 
- 
-&gt; e rimaste da riscuotere                                                                                                                         Euro 575.028.340,88 
- 
-&gt; avanzo di amministrazione accertato                                                                                                   Euro 369.727.020,69 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art. 3 </num>
-                <rubrica>
- 
-Spese di competenza 
- 
-Le spese correnti, quelle in conto capitale, quelle per il rimborso di prestiti e per contabilità speciali, impegnate nell'esercizio finanziario per la competenza propria dell'esercizio stesso, risultano nel conto del bilancio in 
- 
-Euro</rubrica>
-                <comma id="art3-com1">
-                    <num> 1.</num>
-                    <corpo>555.332.560,69 
- 
-&gt; delle quali furono pagate                                                                                                                     Euro 727.154.611,72 
- 
-&gt; e rimasero da pagare                                                                                                                            Euro 828.177.948,97 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>Art. 4 </num>
-                <rubrica>
- 
-Accertamento ed impegni 
- 
-Il riepilogo generale delle Entrate accertate e delle Spese impegnate di competenza dell'esercizio finanziario 2002, dal conto consuntivo, risulta stabilito come segue: 
- 
-ENTRATE 
- 
-Tit. I' - 
- 
- Entrate derivanti da tributi propri della Regione, dal gettito di tributi erariali o di quote di esso devolute alla Regione Euro 337.575.758,21 
- 
-        Tit. II'- 
- 
- Entrate derivanti da contributi e trasferimenti di parte corrente dell'Unione Europea, dello Stato e di altri soggetti Euro 233.065.047,70 
- 
-Tit. III'- 
- 
- Entrate extratributarie Euro 12.185.189,66 
- 
-Tit. IV'- Entrate derivanti da alienazioni, da trasformazione di capitale, da riscossione crediti e da trasferimenti in conto capitale 
- 
-  Euro 164.459.930,57 
- 
-Tit. V'- Entrate derivanti da mutui, prestiti ed altre operazioni creditizie 
- 
-  Euro 7.456.826,09 
- 
-Tit. VI'- Entrate per contabilità speciali 
- 
-  
- 
- Avanzo di amministrazione Euro 512.801.663,49 
- 
-   
- 
-  Euro 369.727.020,69 
- 
- Totale ENTRATE accertate Euro</rubrica>
-                <comma id="art4-com1">
-                    <num> 1.</num>
-                    <corpo>637.271.436,41 
- 
-SPESE 
- 
-Tit. I' - Spese correnti 
- 
-      Euro 537.528.938,69 
- 
-Tit. II'- Spese in conto capitale 
- 
-  Euro 494.543.529,52  
- 
-Tit. III'- Spese per rimborsi prestiti 
- 
-  Euro 10.458.428,99 
- 
-Tit. V'- Spese per contabilità speciali 
- 
-  Euro 512.801.663,49  
- 
- Totale SPESE impegnate Euro 1.555.332.560,69 
- 
-RIEPILOGO GESTIONE DI COMPETENZA 
- 
- - Entrate accertate 
- 
-  Euro 1.637.271.436,41 
- 
- - Spese impegnate Euro 1.555.332.560,69 
- 
-  
- 
- AVANZO di competenza  
- 
-  Euro 81.938.875,72 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art5">
-                <num>Art. 5 </num>
-                <rubrica>
- 
-Residui attivi 2001 e precedenti 
- 
-I residui attivi rimasti accessi al 31 dicembre 2001 in 
- 
- Euro 965.955.129,21 
- 
-di cui furono riscossi nell'esercizio 2002 Euro 271.041.277,19 
- 
-e rimasero da riscuotere alla fine dell'esercizio  
- 
- Euro 679.857.756,75 
- 
-Dal conto sono stati eliminati, per insussistenza, prescrizione o perenzione, residui per  
- 
- Euro 18.829.060,42 
- 
-e sono stati riaccertati residui per  
- 
- Euro 3.772.965,15 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art5-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art6">
-                <num>Art. 6 </num>
-                <rubrica>
- 
-Residui passivi 2001 e precedenti 
- 
-I residui passivi rimasti accessi al 31 dicembre 2001 in  Euro 678.679.992,89 
- 
-   
- 
-di cui furono pagati nell'esercizio 2002  Euro 270.910.970,66 
- 
-   
- 
-e rimasero da pagare alla fine dell'esercizio  Euro 142.564.950,03 
- 
-   
- 
-Dal conto dei residui passivi sono stati eliminati:    
- 
- a) per insussistenza o prescrizione Euro 8.616.903,25 
- 
- b) per perenzione amministrativa Euro 256.587.168,95 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art6-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art7">
-                <num>Art. 7 </num>
-
-                <rubrica>
- 
-Somma dei residui attivi 
- 
-I residui attivi alla chiusura dell'esercizio finanziario 2002, risultano stabiliti dal conto del bilancio, nelle seguenti somme: 
- 
-&gt; somme rimaste da riscuotere sulle entrate accertate per la competenza propria dell'esercizio 2002 (<rif
-                        xlink:href="#art2">art. 2</rif>)  
- 
- Euro 575.028.340,88 
- 
-&gt; esercizi precedenti (<rif xlink:href="#art5">art. 5</rif>)  
- 
- Euro 679.857.756,75 
- 
-&gt; residui attivi al 31 dicembre 2002  
- 
- Euro</rubrica>
-                <comma id="art7-com1">
-                    <num> 1.</num>
-                    <corpo>254.886.097,63 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art8">
-                <num>Art. 8 </num>
-
-                <rubrica>
- 
-Somma dei residui passivi 
- 
-I residui passivi alla chiusura dell'esercizio finanziario 2002, risultano stabiliti dal conto del bilancio, nelle seguenti somme: 
- 
-&gt; somme rimaste da pagare sulle spese impegnate per la competenza propria dell'esercizio 2002 (<rif
-                        xlink:href="#art3">art. 3</rif>)  
- 
- Euro 828.177.948,97 
- 
-&gt; esercizi precedenti (<rif xlink:href="#art6">art. 6</rif>)  
- 
- Euro 142.564.950,03 
- 
-&gt; residui passivi al 31 dicembre 2002  
- 
- Euro 970.742.899,00 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art8-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art9">
-                <num>Art. 9 </num>
-                <rubrica>
- 
-Situazione finanziaria 
- 
-L'Avanzo di Amministrazione del conto consuntivo dell'esercizio finanziario 2002 è accertato in 
- 
-Euro 332.086.849,75 
- 
-come risulta dai seguenti dati: 
- 
-ATTIVO 
- 
-&gt; Fondo di cassa al 31 dicembre 2001 
- 
- Euro 82.451.881,47 
- 
-&gt; Riscossioni effettuate in conto residui 
- 
- Euro 271.041.277,19 
- 
-&gt; Riscossioni effettuate in conto competenza 
- 
- Euro 692.516.074,84 
- 
-Totale ATTIVO Euro</rubrica>
-                <comma id="art9-com1">
-                    <num> 1.</num>
-                    <corpo>046.009.233,50 
- 
-PASSIVO 
- 
-&gt; Pagamenti effettuati in conto residui 
- 
- Euro 270.910.970,66 
- 
-&gt; Pagamenti effettuati in conto della competenza 
- 
- Euro 727.154.611,72 
- 
-Totale PASSIVO Euro 998.065.582,38 
- 
-&gt; Fondo di cassa al 31 dicembre 2002 
- 
-  
- 
- Euro 47.943.651,12 
- 
-&gt; Residui attivi 
- 
- Euro 1.254.886.097,63 
- 
-&gt; Somma attiva 
- 
- Euro 1.302.829.748,75 
- 
-&gt; Residui passivi 
- 
- Euro 970.742.899,00 
- 
-AVANZO di Amministrazione al 31 dicembre 2002 Euro 332.086.849,75 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art10">
-                <num>Art. 10 </num>
-                <rubrica>
- 
-Eliminazione dal conto dei residui attivi 
- 
-I residui attivi rimasti accesi al 31 dicembre 2001 e non riscossi entro il termine dell'esercizio 2002, descritti nella colonna n. 10 del rendiconto dell'entrata, vengono dichiarati insussistenti ed eliminati dal conto concorrendo così a determinare i risultati finali della gestione, come minori entrate. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art10-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art11">
-                <num>Art. 11 </num>
-                <rubrica>
- 
-Eliminazione dal conto dei residui passivi 
- 
-I residui passivi accesi al 31 dicembre 2001 e non pagati al termine dell'esercizio 2002, descritti nelle colonne nn. 10 e 11 del rendiconto della spesa, sono da considerarsi economie di spesa ed eliminati dal conto concorrendo così a determinare i risultati finali della gestione, come minori uscite. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art11-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art12">
-                <num>Art. 12 </num>
-                <rubrica>
- 
-Autonomia contabile del Consiglio 
- 
-è approvato l'accluso rendiconto delle spese sostenute per l'esercizio della autonomia contabile del Consiglio Regionale, così come determinato dall'Ufficio di Presidenza del Consiglio. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art12-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art13">
-                <num>Art. 13 </num>
-                <rubrica>
- 
-Operazioni di raccordo 
- 
-Sono approvate le operazioni di raccordo delle risultanze tra le scritture contabili della Ragioneria Generale della Regione con quelle della Tesoreria Regionale in ordine all'allocazione nei capitoli propri del bilancio delle entrate e delle spese regionali. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art13-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art14">
-                <num>Art. 14 </num>
-                <rubrica>
- 
-Enti Dipendenti 
- 
-Sono approvati gli acclusi consuntivi degli esercizi finanziari 2002 dei sottoelencati Enti Dipendenti operanti nella Regione Molise, che si chiudono con le risultanze finali a fianco di ciascuno indicate: 
- </rubrica>
-                <comma id="art14-com1">
-                    <num>
-1.</num>
-                    <corpo> - Ente Provinciale per il Turismo di CAMPOBASSO 
- 
-/\ FONDO DI CASSA al 1° gennaio 2002                                                                                                         Euro 165.330,16 
- 
-/\ Riscossioni: 
- 
- &gt; in conto residui                                                                          Euro 41.781,37 
- 
- &gt; in conto competenza                                                                 Euro 265.884,65                                        Euro 307.666,02 
- 
-                                                                                                      SOMMANO                                              Euro 472.996,18 
- 
- &gt; in cont      sidui Euro 67.024,95 
- 
- &gt; in conto competenza Euro 241.146,43 
- 
-SOMMANO Euro 308.171,38 
- 
-/\ FONDO DI CASSA al 31 dicembre 2002 Euro 164.824,80 
- 
-/\ Somme rimaste da riscuotere: 
- 
- &gt; sui residui Euro   ---------- 
- 
- &gt; sulla competenza Euro 56.200,00 Euro56.200,00 
- 
-SOMMANO Euro 221.024,80 
- 
-/\ Somme rimaste da pagare: 
- 
-&gt; sui residui Euro 671,39 
- 
-&gt; sulla competenza Euro 144.322,05 Euro144.993,44 
- 
-AVANZO di Amministrazione al 31 dicembre 2002 Euro 76.031,36 
- </corpo>
-                </comma>
-                <comma id="art14-com2">
-                    <num>
-2.</num>
-                    <corpo> - Ente Provinciale per il Turismo di ISERNIA 
- 
-/\ FONDO DI CASSA al 1° gennaio 2002 Euro 168.635,09 
- 
-/\ Riscossioni: 
- 
- &gt; in conto residui Euro 206.58 
- 
- &gt; in conto competenza Euro 317.195,05 Euro 317.401,63 
- 
-SOMMANO Euro 486.036,72 
- 
-/\ Pagamenti: 
- 
- &gt; in conto residui Euro 33.688,95 
- 
- &gt; in conto competenzaEuro 380.305,75 
- 
-SOMMANO Euro 413.994,70 
- 
-/\ FONDO DI CASSA al 31 dicembre 2002 Euro 72.042,02 
- 
-/\ Somme rimaste da riscuotere: 
- 
- &gt; sui residui Euro 51.645,69 
- 
- &gt; sulla competenza Euro 131.200,00 Euro182.845,69 
- 
-SOMMANO Euro 254.887,71 
- 
-/\ Somme rimaste da pagare: 
- 
-&gt; sui residui Euro 2.209,73 
- 
-&gt; sulla competenza Euro 74.193,82 Euro76.403,55 
- 
-AVANZO di Amministrazione al 31 dicembre 2002 Euro 178.484,16 
- </corpo>
-                </comma>
-                <comma id="art14-com3">
-                    <num>
-3.</num>
-                    <corpo> - Azienda Autonoma di Soggiorno e Turismo di TERMOLI 
- 
-/\ FONDO DI CASSA al 1° gennaio 2002 Euro 41.710,66 
- 
-/\ Riscossioni: 
- 
- &gt; in conto residui Euro 51.643,11 
- 
- &gt; in conto competenza Euro 310.228,40 Euro 61.871,51 
- 
-SOMMANO Euro 403.528,17 
- 
-/\ Pagamenti: 
- 
- &gt; in conto residui Euro 5.303,83 
- 
- &gt; in conto competenza Euro 323.948,23 
- 
-SOMMANO Euro 329.252,06 
- 
-/\ FONDO DI CASSA al 31 dicembre 2002 Euro 74.330,11 
- 
-/\ Somme rimaste da riscuotere: 
- 
- &gt; sui residui Euro   ---------- 
- 
- &gt; sulla competenzaEuro 57.500,00 Euro 57.500,00 
- 
-SOMMANO Euro 131.830,11 
- 
-/\ Somme rimaste da pagare: 
- 
-&gt; sui residui Euro 4.493,18 
- 
-&gt; sulla competenza Euro 17.467,03 Euro 21.960,21 
- 
-AVANZO di Amministrazione al 31 dicembre 2002 Euro 109.869,90 
- </corpo>
-                </comma>
-                <comma id="art14-com4">
-                    <num>
-4.</num>
-                    <corpo> - Istituto Regionale per gli Studi Storici del Molise "V. CUOCO" 
- 
-/\ FONDO DI CASSA al 1° gennaio 2002 Euro 297.709,49 
- 
-/\ Riscossioni: 
- 
- &gt; in conto residui Euro 1.564.00 
- 
- &gt; in conto competenza Euro64.783.50 Euro 66.347,50 
- 
-SOMMANO Euro 364.056.99 
- 
-/\ Pagamenti: 
- 
- &gt; in conto residui Euro 51.675.59 
- 
- &gt; in conto competenza Euro 54.962.77 
- 
-SOMMANO Euro 106.638,36 
- 
-/\ FONDO DI CASSA al 31 dicembre 2002 Euro 257.418,63 
- 
-/\ Somme rimaste da riscuotere: 
- 
- &gt; sui residui Euro 4.131,66 
- 
- &gt; sulla competenza Euro 4.131,66Euro8.263,32 
- 
-SOMMANO Euro 265.681,95 
- 
-/\ Somme rimaste da pagare: 
- 
-&gt; sui residui Euro 88.959,53 
- 
-&gt; sulla competenza Euro    ---------     Euro88.959,53 
- 
-AVANZO di Amministrazione al 31 dicembre 2002 Euro 176.722,42 
- </corpo>
-                </comma>
-                <comma id="art14-com5">
-                    <num>
-5.</num>
-                    <corpo> ? Ente Risorse Idriche Molise 
- 
-/\ FONDO DI CASSA al 1° gennaio 2002 Euro 2.351.270,01 
- 
-/\ Riscossioni: 
- 
- &gt; in conto residui Euro 9.515.224,84 
- 
- &gt; in conto competenza Euro11.266.422,07 Euro 20.781.646,91 
- 
-SOMMANO Euro 23.132.916,92 
- 
-/\ Pagamenti: 
- 
- &gt; in conto residui Euro 860.887,46 
- 
- &gt; in conto competenza Euro 14.853.947,40 
- 
-SOMMANO Euro 15.714.834,86 
- 
-/\ FONDO DI CASSA al 31 dicembre 2002 Euro 7.418.082,06 
- 
-/\ Somme rimaste da riscuotere: 
- 
- &gt; sui residui Euro 28.910.574,70 
- 
- &gt; sulla competenza Euro 10.197.190,16 Euro 39.107.764,86 
- 
-SOMMANO Euro 46.525.846,92 
- 
-/\ Somme rimaste da pagare: 
- 
-&gt; sui residui Euro 5.771.387,72 
- 
-&gt; sulla competenza Euro 1.719.889,95 Euro 7.491.277,67 
- 
-AVANZO di Amministrazione al 31 dicembre 2002 Euro 9.034.569,25 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art15">
-                <num>Art. 15 </num>
-                <rubrica>
- 
-Enti economici 
- 
-Ai sensi della <rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art65">lettera d) dell'art. 65 della legge regionale 7 maggio 2002, n. 4</rif>: "Nuovo ordinamento contabile della Regione Molise" formano allegato, a titolo di documentazione, al rendiconto generale della Regione per l'esercizio 2002: 
- </rubrica>
-                <comma id="art15-com1">
-                    <num>
-1.</num>
-                    <corpo> il bilancio 2002 della Finanziaria Regionale per lo Sviluppo del Molise FINMOLISE - S.p.A. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale; 
- </corpo>
-                </comma>
-                <comma id="art15-com2">
-                    <num>
-2.</num>
-                    <corpo> il bilancio 2002 della Molise Dati ? S.p.A. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale; 
- </corpo>
-                </comma>
-                <comma id="art15-com3">
-                    <num>
-3.</num>
-                    <corpo> il bilancio 2002 del CISI Molise PER BREVItà Sviluppo Italia Molise ? S.p.A. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale; 
- </corpo>
-                </comma>
-                <comma id="art15-com4">
-                    <num>
-4.</num>
-                    <corpo> i bilanci 2001 e 2002 della Campitello Matese - s.c.p.a. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art16">
-                <num>Art. 16 </num>
-                <rubrica>
- 
-Conto Patrimoniale 
- 
-è approvato il Conto Generale del Patrimonio della Re-gione Molise per l'esercizio 2002. 
- 
-La consistenza finale del patrimonio regionale espone un saldo di 
- 
-Euro 65.380.509,66. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art16-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art17">
-                <num>Art. 17 </num>
-
-                <rubrica>
- 
-Pubblicazione 
- 
-La presente legge è dichiarata urgente ai sensi dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. 
- 
-è fatto obbligo a chiunque spetti di osservarla e di far-la osservare come legge della Regione Molise. 
-<?error Marker Warning 109?>
-                </rubrica>
-                <comma id="art17-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20031121">21 novembre 2003</dataDoc>
+				, n.
+				<numDoc>33</numDoc>
+				.
+				<titoloDoc>Rendiconto generale della Regione Molise per l'esercizio finanziario 2002.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica />
+					<comma id="art1-com1">
+						<num />
+						<corpo>Il rendiconto generale della Regione Molise per l'esercizio 2002 è approvato con le risultanze esposte negli articoli seguenti.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>Entrate di competenza</rubrica>
+					<comma id="art2-com1">
+						<num />
+						<corpo>
+							Le entrate derivanti da tributi propri della Regione, dal gettito dei tributi erariali o di quote di esso devolute alla Regione; le entrate derivanti da contributi e trasferimenti dell'Unione Europea, dello Stato e di altri soggetti; le entrate extratributarie, le entrate derivanti da alienazioni, da trasformazione di capitale, da riscossione di crediti e da trasferimenti in conto capitale; le entrate derivanti da mutui, prestiti ed altre operazioni creditizie; le entrate per contabilità speciali, accertate nell'esercizio 2002, per la competenza propria dell'esercizio stesso, risultano stabilite dal conto del bilancio in
+							<h:p>Euro 1.637.271.436,41</h:p>
+							<h:p>di cui:</h:p>
+							<h:p>&gt; riscosse Euro 692.516.074,84</h:p>
+							<h:p>&gt; e rimaste da riscuotere Euro 575.028.340,88</h:p>
+							<h:p>&gt; avanzo di amministrazione accertato Euro 369.727.020,69</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>Spese di competenza</rubrica>
+					<comma id="art3-com1">
+						<num />
+						<corpo>
+							Le spese correnti, quelle in conto capitale, quelle per il rimborso di prestiti e per contabilità speciali, impegnate nell'esercizio finanziario per la competenza propria dell'esercizio stesso, risultano nel conto del bilancio in
+							<h:p>Euro 1.555.332.560,69</h:p>
+							<h:p>&gt; delle quali furono pagate Euro 727.154.611,72</h:p>
+							<h:p>&gt; e rimasero da pagare Euro 828.177.948,97</h:p>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>Accertamento ed impegni</rubrica>
+					<comma id="art4-com1">
+						<num />
+						<corpo>
+							Il riepilogo generale delle Entrate accertate e delle Spese impegnate di competenza dell'esercizio finanziario 2002, dal conto consuntivo, risulta stabilito come segue:
+							<h:table>
+								<h:tbody>
+									<h:tr>
+										<h:td />
+										<h:td>ENTRATE</h:td>
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Tit. I'-</h:td>
+										<h:td>Entrate derivanti da tributi propri della Regione, dal gettito di tributi erariali o di quote di esso devolute alla Regione</h:td>
+										<h:td>Euro</h:td>
+										<h:td>337.575.758,21</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Tit. II-</h:td>
+										<h:td>Entrate derivanti da contributi e trasferimenti di parte corrente dell'Unione Europea, dello Stato e di altri soggetti</h:td>
+										<h:td>Euro</h:td>
+										<h:td>233.065.047,70</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Tit.III'-</h:td>
+										<h:td>Entrate extratributarie</h:td>
+										<h:td>Euro</h:td>
+										<h:td>12.185.189,66</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Tit.IV'-</h:td>
+										<h:td>Entrate derivanti da alienazioni, da trasformazione di capitale, da riscossione crediti e da trasferimenti in conto capitale</h:td>
+										<h:td>Euro</h:td>
+										<h:td>164.459.930,57</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Tit. V'-</h:td>
+										<h:td>Entrate derivanti da mutui, prestiti ed altre operazioni creditizie</h:td>
+										<h:td>Euro</h:td>
+										<h:td>7.456.826,09</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Tit.VI'-</h:td>
+										<h:td>Entrate per contabilità speciali</h:td>
+										<h:td>Euro</h:td>
+										<h:td>512.801.663,49</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>Avanzo di amministrazione</h:td>
+										<h:td>Euro</h:td>
+										<h:td>369.727.020,69</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>Totale ENTRATE accertate</h:td>
+										<h:td>Euro</h:td>
+										<h:td>1.637.271.436,41</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>SPESE</h:td>
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>Tit. I' -</h:td>
+										<h:td>Spese correnti</h:td>
+										<h:td>Euro</h:td>
+										<h:td>537.528.938,69</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Tit. II'-</h:td>
+										<h:td>Spese in conto capitale</h:td>
+										<h:td>Euro</h:td>
+										<h:td>494.543.529,52</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Tit.III'-</h:td>
+										<h:td>Spese per rimborsi prestiti</h:td>
+										<h:td>Euro</h:td>
+										<h:td>10.458.428,99</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Tit. V'-</h:td>
+										<h:td>Spese per contabilità speciali</h:td>
+										<h:td>Euro</h:td>
+										<h:td>512.801.663,49</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>Totale SPESE impegnate</h:td>
+										<h:td>Euro</h:td>
+										<h:td>1.555.332.560,69</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>RIEPILOGO GESTIONE DI COMPETENZA</h:td>
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>- Entrate accertate</h:td>
+										<h:td>Euro</h:td>
+										<h:td>1.637.271.436,41</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>- Spese impegnate</h:td>
+										<h:td>Euro</h:td>
+										<h:td>1.555.332.560,69</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td />
+										<h:td>AVANZO di competenza</h:td>
+										<h:td>Euro</h:td>
+										<h:td>81.938.875,72</h:td>
+									</h:tr>
+								</h:tbody>
+							</h:table>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>Residui attivi 2001 e precedenti</rubrica>
+					<comma id="art5-com1">
+						<num />
+						<corpo>
+							<h:table>
+								<h:tbody>
+									<h:tr>
+										<h:td>I residui attivi rimasti accessi al 31 dicembre 2001 in</h:td>
+										<h:td>Euro</h:td>
+										<h:td>965.955.129,21</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>di cui furono riscossi nell'esercizio 2002</h:td>
+										<h:td>Euro</h:td>
+										<h:td>271.041.277,19</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>e rimasero da riscuotere alla fine dell'esercizio</h:td>
+										<h:td>Euro</h:td>
+										<h:td>679.857.756,75</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Dal conto sono stati eliminati, per insussistenza, prescrizione o perenzione, residui per</h:td>
+										<h:td>Euro</h:td>
+										<h:td>18.829.060,42</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>e sono stati riaccertati residui per</h:td>
+										<h:td>Euro</h:td>
+										<h:td>3.772.965,15</h:td>
+									</h:tr>
+								</h:tbody>
+							</h:table>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>Residui passivi 2001 e precedenti</rubrica>
+					<comma id="art6-com1">
+						<num />
+						<corpo>
+							<h:table>
+								<h:tbody>
+									<h:tr>
+										<h:td>I residui passivi rimasti accessi al 31 dicembre 2001 in</h:td>
+										<h:td>Euro</h:td>
+										<h:td>678.679.992,89</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>di cui furono pagati nell'esercizio 2002</h:td>
+										<h:td>Euro</h:td>
+										<h:td>270.910.970,66</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>e rimasero da pagare alla fine dell'esercizio</h:td>
+										<h:td>Euro</h:td>
+										<h:td>142.564.950,03</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Dal conto dei residui passivi sono stati eliminati:</h:td>
+										<h:td>Euro</h:td>
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>a) per insussistenza o prescrizione</h:td>
+										<h:td>Euro</h:td>
+										<h:td>8.616.903,25</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>b) per perenzione amministrativa</h:td>
+										<h:td>Euro</h:td>
+										<h:td>256.587.168,95</h:td>
+									</h:tr>
+								</h:tbody>
+							</h:table>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>Somma dei residui attivi</rubrica>
+					<comma id="art7-com1">
+						<num />
+						<corpo>
+							I residui attivi alla chiusura dell'esercizio finanziario 2002, risultano stabiliti dal conto del bilancio, nelle seguenti somme:
+							<h:table>
+								<h:tbody>
+									<h:tr>
+										<h:td>&gt; somme rimaste da riscuotere sulle entrate accertate per la competenza propria dell'esercizio 2002 (art. 2)</h:td>
+										<h:td>Euro</h:td>
+										<h:td>575.028.340,88</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>&gt; esercizi precedenti (art. 5)</h:td>
+										<h:td>Euro</h:td>
+										<h:td>679.857.756,75</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>&gt; residui attivi al 31 dicembre 2002</h:td>
+										<h:td>Euro</h:td>
+										<h:td>1.254.886.097,63</h:td>
+									</h:tr>
+								</h:tbody>
+							</h:table>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>Somma dei residui passivi</rubrica>
+					<comma id="art8-com1">
+						<num />
+						<corpo>
+							I residui passivi alla chiusura dell'esercizio finanziario 2002, risultano stabiliti dal conto del bilancio, nelle seguenti somme:
+							<h:table>
+								<h:tbody>
+									<h:tr>
+										<h:td>&gt; somme rimaste da pagare sulle spese impegnate per la competenza propria dell'esercizio 2002 (art. 3)</h:td>
+										<h:td>Euro</h:td>
+										<h:td>828.177.948,97</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>&gt; esercizi precedenti (art. 6)</h:td>
+										<h:td>Euro</h:td>
+										<h:td>142.564.950,03</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>&gt; residui passivi al 31 dicembre 2002</h:td>
+										<h:td>Euro</h:td>
+										<h:td>970.742.899,00</h:td>
+									</h:tr>
+								</h:tbody>
+							</h:table>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<rubrica>Situazione finanziaria</rubrica>
+					<comma id="art9-com1">
+						<num />
+						<corpo>
+							L'Avanzo di Amministrazione del conto consuntivo dell'esercizio finanziario 2002 è accertato in
+							<h:br />
+							Euro 332.086.849,75
+							<h:br />
+							come risulta dai seguenti dati:
+							<h:table>
+								<h:tbody>
+									<h:tr>
+										<h:td>ATTIVO</h:td>
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>&gt; Fondo di cassa al 31 dicembre 2001</h:td>
+										<h:td>Euro</h:td>
+										<h:td>82.451.881,47</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>&gt; Riscossioni effettuate in conto residui Euro</h:td>
+										<h:td>Euro</h:td>
+										<h:td>271.041.277,19</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>&gt; Riscossioni effettuate in conto competenza</h:td>
+										<h:td>Euro</h:td>
+										<h:td>692.516.074,84</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale ATTIVO</h:td>
+										<h:td>Euro</h:td>
+										<h:td>1.046.009.233,50</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>PASSIVO</h:td>
+										<h:td />
+										<h:td />
+									</h:tr>
+									<h:tr>
+										<h:td>&gt; Pagamenti effettuati in conto residui</h:td>
+										<h:td>Euro</h:td>
+										<h:td>270.910.970,66</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>&gt; Pagamenti effettuati in conto della competenza</h:td>
+										<h:td>Euro</h:td>
+										<h:td>727.154.611,72</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>Totale PASSIVO</h:td>
+										<h:td>Euro</h:td>
+										<h:td>998.065.582,38</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>&gt; Fondo di cassa al 31 dicembre 2002</h:td>
+										<h:td>Euro</h:td>
+										<h:td>47.943.651,12</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>&gt; Residui attivi</h:td>
+										<h:td>Euro</h:td>
+										<h:td>1.254.886.097,63</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>&gt; Somma attiva</h:td>
+										<h:td>Euro</h:td>
+										<h:td>1.302.829.748,75</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>&gt; Residui passivi</h:td>
+										<h:td>Euro</h:td>
+										<h:td>970.742.899,00</h:td>
+									</h:tr>
+									<h:tr>
+										<h:td>AVANZO di Amministrazione al 31 dicembre 2002</h:td>
+										<h:td>Euro</h:td>
+										<h:td>332.086.849,75</h:td>
+									</h:tr>
+								</h:tbody>
+							</h:table>
+						</corpo>
+					</comma>
+					<comma id="art9-com2">
+						<num />
+						<corpo />
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Art. 10</num>
+					<rubrica>Eliminazione dal conto dei residui attivi</rubrica>
+					<comma id="art10-com1">
+						<num />
+						<corpo>I residui attivi rimasti accesi al 31 dicembre 2001 e non riscossi entro il termine dell'esercizio 2002, descritti nella colonna n. 10 del rendiconto dell'entrata, vengono dichiarati insussistenti ed eliminati dal conto concorrendo così a determinare i risultati finali della gestione, come minori entrate.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art11">
+					<num>Art. 11</num>
+					<rubrica>Eliminazione dal conto dei residui passivi</rubrica>
+					<comma id="art11-com1">
+						<num />
+						<corpo>I residui passivi accesi al 31 dicembre 2001 e non pagati al termine dell'esercizio 2002, descritti nelle colonne nn. 10 e 11 del rendiconto della spesa, sono da considerarsi economie di spesa ed eliminati dal conto concorrendo così a determinare i risultati finali della gestione, come minori uscite.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art12">
+					<num>Art. 12</num>
+					<rubrica>Autonomia contabile del Consiglio</rubrica>
+					<comma id="art12-com1">
+						<num />
+						<corpo>È approvato l'accluso rendiconto delle spese sostenute per l'esercizio della autonomia contabile del Consiglio Regionale, così come determinato dall'Ufficio di Presidenza del Consiglio.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art13">
+					<num>Art. 13</num>
+					<rubrica>Operazioni di raccordo</rubrica>
+					<comma id="art13-com1">
+						<num />
+						<corpo>Sono approvate le operazioni di raccordo delle risultanze tra le scritture contabili della Ragioneria Generale della Regione con quelle della Tesoreria Regionale in ordine all'allocazione nei capitoli propri del bilancio delle entrate e delle spese regionali.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art14">
+					<num>Art. 14</num>
+					<rubrica>Enti Dipendenti</rubrica>
+					<comma id="art14-com1">
+						<num />
+						<alinea>Sono approvati gli acclusi consuntivi degli esercizi finanziari 2002 dei sottoelencati Enti Dipendenti operanti nella Regione Molise, che si chiudono con le risultanze finali a fianco di ciascuno indicate:</alinea>
+						<en id="art14-com1-num1">
+							<num>1.</num>
+							<corpo>
+								- Ente Provinciale per il Turismo di CAMPOBASSO
+								<h:p>^ FONDO DI CASSA al 1° gennaio 2002 Euro 165.330,16</h:p>
+								<h:p>^ Riscossioni:</h:p>
+								<h:p>&gt; in conto residui Euro 41.781,37</h:p>
+								<h:p>&gt; in conto competenza Euro 265.884,65 Euro 307.666,02</h:p>
+								<h:p>SOMMANO Euro 472.996,18</h:p>
+								<h:p>&gt; in cont sidui Euro 67.024,95</h:p>
+								<h:p>&gt; in conto competenza Euro 241.146,43</h:p>
+								<h:p>SOMMANO Euro 308.171,38</h:p>
+								<h:p>^ FONDO DI CASSA al 31 dicembre 2002 Euro 164.824,80</h:p>
+								<h:p>^ Somme rimaste da riscuotere:</h:p>
+								<h:p>&gt; sui residui Euro ----------</h:p>
+								<h:p>&gt; sulla competenza Euro 56.200,00 Euro56.200,00</h:p>
+								<h:p>SOMMANO Euro 221.024,80</h:p>
+								<h:p>^ Somme rimaste da pagare:</h:p>
+								<h:p>&gt; sui residui Euro 671,39</h:p>
+								<h:p>&gt; sulla competenza Euro 144.322,05 Euro144.993,44</h:p>
+								<h:p>AVANZO di Amministrazione al 31 dicembre 2002 Euro 76.031,36</h:p>
+							</corpo>
+						</en>
+						<en id="art14-com1-num2">
+							<num>2.</num>
+							<corpo>
+								- Ente Provinciale per il Turismo di ISERNIA
+								<h:p>^ FONDO DI CASSA al 1° gennaio 2002 Euro 168.635,09</h:p>
+								<h:p>^ Riscossioni:</h:p>
+								<h:p>&gt; in conto residui Euro 206.58</h:p>
+								<h:p>&gt; in conto competenza Euro 317.195,05 Euro 317.401,63</h:p>
+								<h:p>SOMMANO Euro 486.036,72</h:p>
+								<h:p>^ Pagamenti:</h:p>
+								<h:p>&gt; in conto residui Euro 33.688,95</h:p>
+								<h:p>&gt; in conto competenza Euro 380.305,75</h:p>
+								<h:p>SOMMANO Euro 413.994,70</h:p>
+								<h:p>^ FONDO DI CASSA al 31 dicembre 2002 Euro 72.042,02</h:p>
+								<h:p>^ Somme rimaste da riscuotere:</h:p>
+								<h:p>&gt; sui residui Euro 51.645,69</h:p>
+								<h:p>&gt; sulla competenza Euro 131.200,00 Euro182.845,69</h:p>
+								<h:p>SOMMANO Euro 254.887,71</h:p>
+								<h:p>^ Somme rimaste da pagare:</h:p>
+								<h:p>&gt; sui residui Euro 2.209,73</h:p>
+								<h:p>&gt; sulla competenza Euro 74.193,82 Euro76.403,55</h:p>
+								<h:p>AVANZO di Amministrazione al 31 dicembre 2002 Euro 178.484,16</h:p>
+							</corpo>
+						</en>
+						<en id="art14-com1-num3">
+							<num>3.</num>
+							<corpo>
+								- Azienda Autonoma di Soggiorno e Turismo di TERMOLI
+								<h:p>^ FONDO DI CASSA al 1° gennaio 2002 Euro 41.710,66</h:p>
+								<h:p>^ Riscossioni:</h:p>
+								<h:p>&gt; in conto residui Euro 51.643,11</h:p>
+								<h:p>&gt; in conto competenza Euro 310.228,40 Euro 61.871,51</h:p>
+								<h:p>SOMMANO Euro 403.528,17</h:p>
+								<h:p>^ Pagamenti:</h:p>
+								<h:p>&gt; in conto residui Euro 5.303,83</h:p>
+								<h:p>&gt; in conto competenza Euro 323.948,23</h:p>
+								<h:p>SOMMANO Euro 329.252,06</h:p>
+								<h:p>^ FONDO DI CASSA al 31 dicembre 2002 Euro 74.330,11</h:p>
+								<h:p>^ Somme rimaste da riscuotere:</h:p>
+								<h:p>&gt; sui residui Euro ----------</h:p>
+								<h:p>&gt; sulla competenza Euro 57.500,00 Euro 57.500,00</h:p>
+								<h:p>SOMMANO Euro 131.830,11</h:p>
+								<h:p>^ Somme rimaste da pagare:</h:p>
+								<h:p>&gt; sui residui Euro 4.493,18</h:p>
+								<h:p>&gt; sulla competenza Euro 17.467,03 Euro 21.960,21</h:p>
+								<h:p>AVANZO di Amministrazione al 31 dicembre 2002 Euro 109.869,90</h:p>
+							</corpo>
+						</en>
+						<en id="art14-com1-num4">
+							<num>4.</num>
+							<corpo>
+								- Istituto Regionale per gli Studi Storici del Molise "V. CUOCO"
+								<h:p>^ FONDO DI CASSA al 1° gennaio 2002 Euro 297.709,49</h:p>
+								<h:p>^ Riscossioni:</h:p>
+								<h:p>&gt; in conto residui Euro 1.564.00</h:p>
+								<h:p>&gt; in conto competenza Euro 64.783.50 Euro 66.347,50</h:p>
+								<h:p>SOMMANO Euro 364.056.99</h:p>
+								<h:p>^ Pagamenti:</h:p>
+								<h:p>&gt; in conto residui Euro 51.675.59</h:p>
+								<h:p>&gt; in conto competenza Euro 54.962.77</h:p>
+								<h:p>SOMMANO Euro 106.638,36</h:p>
+								<h:p>^ FONDO DI CASSA al 31 dicembre 2002 Euro 257.418,63</h:p>
+								<h:p>^ Somme rimaste da riscuotere:</h:p>
+								<h:p>&gt; sui residui Euro 4.131,66</h:p>
+								<h:p>&gt; sulla competenza Euro 4.131,66 Euro 8.263,32</h:p>
+								<h:p>SOMMANO Euro 265.681,95</h:p>
+								<h:p>^ Somme rimaste da pagare:</h:p>
+								<h:p>&gt; sui residui Euro 88.959,53</h:p>
+								<h:p>&gt; sulla competenza Euro --------- Euro 88.959,53</h:p>
+								<h:p>AVANZO di Amministrazione al 31 dicembre 2002 Euro 176.722,42</h:p>
+							</corpo>
+						</en>
+						<en id="art14-com1-num5">
+							<num>5.</num>
+							<corpo>
+								- Ente Risorse Idriche Molise
+								<h:p>^ FONDO DI CASSA al 1° gennaio 2002 Euro 2.351.270,01</h:p>
+								<h:p>^ Riscossioni:</h:p>
+								<h:p>&gt; in conto residui Euro 9.515.224,84</h:p>
+								<h:p>&gt; in conto competenza Euro 11.266.422,07 Euro 20.781.646,91</h:p>
+								<h:p>SOMMANO Euro 23.132.916,92</h:p>
+								<h:p>^ Pagamenti:</h:p>
+								<h:p>&gt; in conto residui Euro 860.887,46</h:p>
+								<h:p>&gt; in conto competenza Euro 14.853.947,40</h:p>
+								<h:p>SOMMANO Euro 15.714.834,86</h:p>
+								<h:p>^ FONDO DI CASSA al 31 dicembre 2002 Euro 7.418.082,06</h:p>
+								<h:p>^ Somme rimaste da riscuotere:</h:p>
+								<h:p>&gt; sui residui Euro 28.910.574,70</h:p>
+								<h:p>&gt; sulla competenza Euro 10.197.190,16 Euro 39.107.764,86</h:p>
+								<h:p>SOMMANO Euro 46.525.846,92</h:p>
+								<h:p>^ Somme rimaste da pagare:</h:p>
+								<h:p>&gt; sui residui Euro 5.771.387,72</h:p>
+								<h:p>&gt; sulla competenza Euro 1.719.889,95 Euro 7.491.277,67</h:p>
+								<h:p>AVANZO di Amministrazione al 31 dicembre 2002 Euro 9.034.569,25</h:p>
+							</corpo>
+						</en>
+					</comma>
+				</articolo>
+				<articolo id="art15">
+					<num>Art. 15</num>
+					<rubrica>Enti economici</rubrica>
+					<comma id="art15-com1">
+						<num />
+						<alinea>
+							Ai sensi della
+							<rif xlink:href="urn:nir:regione.molise:legge:2002-05-07;4#art65" xlink:type="simple">lettera d) dell'art. 65 della legge regionale 7 maggio 2002, n. 4</rif>
+							: "Nuovo ordinamento contabile della Regione Molise" formano allegato, a titolo di documentazione, al rendiconto generale della Regione per l'esercizio 2002:
+						</alinea>
+						<en id="art15-com1-num1">
+							<num>1.</num>
+							<corpo>il bilancio 2002 della Finanziaria Regionale per lo Sviluppo del Molise FINMOLISE - S.p.A. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale;</corpo>
+						</en>
+						<en id="art15-com1-num2">
+							<num>2.</num>
+							<corpo>il bilancio 2002 della Molise Dati - S.p.A. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale;</corpo>
+						</en>
+						<en id="art15-com1-num3">
+							<num>3.</num>
+							<corpo>il bilancio 2002 del CISI Molise PER BREVItà Sviluppo Italia Molise - S.p.A. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale;</corpo>
+						</en>
+						<en id="art15-com1-num4">
+							<num>4.</num>
+							<corpo>i bilanci 2001 e 2002 della Campitello Matese - s.c.p.a. con le unite relazioni del Consiglio di Amministrazione e del Collegio Sindacale.</corpo>
+						</en>
+					</comma>
+				</articolo>
+				<articolo id="art16">
+					<num>Art. 16</num>
+					<rubrica>Conto Patrimoniale</rubrica>
+					<comma id="art16-com1">
+						<num />
+						<corpo>
+							È approvato il Conto Generale del Patrimonio della Regione Molise per l'esercizio 2002. La consistenza finale del patrimonio regionale espone un saldo di
+							<h:br />
+							Euro 65.380.509,66.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art17">
+					<num>Art. 17</num>
+					<rubrica>Pubblicazione</rubrica>
+					<comma id="art17-com1">
+						<num />
+						<corpo>
+							La presente legge è dichiarata urgente ai sensi dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art38" xlink:type="simple">art. 38 dello Statuto</rif>
+							ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

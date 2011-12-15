@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20030516" num="10" tipo="BURM"/>
-                <entratainvigore norm="20030531"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2003-05-07;20"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
-                </materie>
-            </descrittori>
-        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20030516" num="10" tipo="BURM" />
+					<entratainvigore norm="20030531" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2003-05-07;20" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20030531" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2003-05-07;20" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x96; N. 10 del 16 maggio 2003 
@@ -27,221 +36,167 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc norm="20030507">7 maggio 2003</dataDoc>, n. <numDoc>20</numDoc>. 
- 
-<titoloDoc>Interventi urgenti per la bonifica dell'amianto. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>ARTICOLO 1 </num>
-                <rubrica>
- 
-Finalità 
- </rubrica>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-                    <corpo> Al fine di salvaguardare la salute dei cittadini ed il risanamento dell'ambiente, la Regione Molise concede contributi a favore dei soggetti pubblici e privati che intendano effettuare interventi di bonifica dall'amianto su beni o siti ricadenti nel territorio di competenza, nonché delle Province per i beni di proprietà. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>ARTICOLO 2 </num>
-                <rubrica>
- 
-Interventi 
- </rubrica>
-                <comma id="art2-com1">
-                    <num>
-1.</num>
-
-                    <corpo> Ai soggetti pubblici e privati che abbiano presentato richieste ritenute ammissibili dalla commissione tecnica di cui al <rif xlink:href="#art3">successivo articolo 3</rif>, è riconosciuto un contributo in conto capitale pari al 60 per cento della spesa documentata. </corpo>
-                </comma>
-                <comma id="art2-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Costituiscono priorità di finanziamento gli interventi di bonifica su manufatti contenenti amianto le cui condizioni siano tali da aver determinato o da determinare rilascio di fibre. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>ARTICOLO 3 </num>
-                <rubrica>
- 
-Commissione Tecnica 
- </rubrica>
-                <comma id="art3-com1">
-                    <num>
-1.</num>
-                    <corpo> Entro trenta giorni dall'entrata in vigore della presente legge, la Giunta regionale istituisce la Commissione tecnica preposta alla valutazione di congruità tecnico-economica delle richieste di finanziamento per gli interventi di bonifica previsti dalla presente legge. La Commissione, che opera presso la Direzione Generale della Regione competente in materia di ambiente, è composta da: 
- 
-è DIRETTORE GENERALE della Regione competente in materia di ambiente, che la presiede; 
- 
-è DIRETTORE GENERALE dell' Agenzia Regionale per la Protezione Ambientale del Molise (A.R.P.A.M.) o suo delegato; 
- 
-è DIRIGENTE REGIONALE responsabile della struttura regionale competente in materia di Prevenzione e Tutela ambientale; 
- 
-è DIRIGENTE REGIONALE designato dal Direttore Generale regionale dei Lavori Pubblici. </corpo>
-                </comma>
-                <comma id="art3-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> La Commissione esprime le definitive valutazioni di congruità tecnico-economica delle richieste ad essa inoltrate e munite del parere dell'Agenzia Regionale per la Protezione Ambientale del Molise (A.R.PA.M.), predispone la graduatoria degli interventi ammissibili e trasmette gli atti alla Direzione Generale della Regione competente in materia di ambiente per la relativa istruttoria. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>ARTICOLO 4 </num>
-                <rubrica>
- 
-Procedure 
- </rubrica>
-                <comma id="art4-com1">
-                    <num>
-1.</num>
-                    <alinea> I Comuni trasmettono alla Direzione regionale competente in materia di ambiente le richieste pervenute a seguito della emanazione dell'avviso pubblico regionale da parte della Direzione medesima e corredate di: 
- 
-</alinea>
-                    <el id="art4-com1-leta">
-                        <num>a)</num>
-                        <corpo> relazione tecnica asseverata da tecnico abilitato in cui deve essere specificata la destinazione d'uso dei beni o dei siti sede dell'intervento, la localizzazione e la destinazione d'uso dei manufatti contenenti amianto, la tipologia, la quantità e lo stato di conservazione dei materiali nonché la tipologia dell'intervento di bonifica proposto;</corpo>
-                    </el>
-                    <el id="art4-com1-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> documentazione che attesti la presenza di materiali contenenti amianto nei manufatti oggetto di interventi;</corpo>
-                    </el>
-                    <el id="art4-com1-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> planimetria dei luoghi;</corpo>
-                    </el>
-                    <el id="art4-com1-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> progetto esecutivo dello stato attuale e dell'intervento di bonifica proposto;</corpo>
-                    </el>
-                    <el id="art4-com1-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> computo metrico dettagliato dei costi di bonifica e quadro economico riepilogativo della spesa preventivata. </corpo>
-                    </el>
-                </comma>
-                <comma id="art4-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Le richieste di cui al <rif
-                            xlink:href="#art4-com1">comma 1</rif> sono trasmesse entro dieci giorni dal ricevimento dell' Agenzia Regionale per la Protezione Ambientale del Molise che provvede entro novanta giorni a fornire alla Commissione tecnica di cui all'<rif xlink:href="#art3">art. 3</rif> la relazione tecnica in ordine alla valutazione del rischio igienico-sanitario ed ambientale connesso alla presenza dell'amianto nei beni e nei siti indicati nella richiesta. </corpo>
-                </comma>
-                <comma id="art4-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> La Giunta Regionale approva la graduatoria degli interventi ammessi a finanziamento che è pubblicata nel Bollettino Ufficiale della Regione. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art5">
-                <num>ARTICOLO 5 </num>
-                <rubrica>
- 
-Concessione di contributi 
- </rubrica>
-                <comma id="art5-com1">
-                    <num>
-1.</num>
-                    <alinea> I contributi di cui all'<rif
-                            xlink:href="#art2">art. 2</rif> definiti nella graduatoria di cui all'<rif xlink:href="#art4">articolo 4</rif> sono erogati con atto del Responsabile del Servizio Prevenzione e sicurezza secondo le seguenti modalità: 
- 
-</alinea>
-                    <el id="art5-com1-leta">
-                        <num>a)</num>
-                        <corpo> primo rateo pari al 30% del finanziamento alla ricezione della comunicazione di inizio lavori e alla presentazione della fidejussione assicurativa di copertura dei costi complessivi di bonifica a favore del Servizio di Sicurezza Sociale;</corpo>
-                    </el>
-                    <el id="art5-com1-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> successivi ratei fino alla concorrenza massima dell'80% a seguito della presentazione degli stati di avanzamento dei lavori e della documentazione dimostrativa dei costi sostenuti nonché della documentazione tecnico-contabile dimostrativa dell'avvenuto conferimento in discarica autorizzata dei rifiuti provenienti dall'intervento di bonifica;</corpo>
-                    </el>
-                    <el id="art5-com1-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> saldo del finanziamento a seguito della presentazione del verbale di sopralluogo dell'Agenzia Regionale per la Protezione Ambientale del Molise che attesti l'avvenuta bonifica, della certificazione di restituibilità degli ambienti bonificati rilasciata dalla A.S.L. competente per territorio nonché della certificazione di collaudo. 
- 
-</corpo>
-                    </el>
-                </comma>
-            </articolo>
-            <articolo id="art6">
-                <num>ARTICOLO 6 </num>
-                <rubrica>
- 
-Funzione della Provincia 
- </rubrica>
-                <comma id="art6-com1">
-                    <num>
-1.</num>
-                    <corpo> Le Province, con il supporto tecnico delle strutture dell'A.R.P.A.M., individuano, entro 60 giorni dalla emanazione della presente legge, gli impianti autorizzati allo smaltimento dell'amianto. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art7">
-                <num>ARTICOLO 7 </num>
-                <rubrica>
- 
-Promozione 
- </rubrica>
-                <comma id="art7-com1">
-                    <num>
-1.</num>
-                    <corpo> I Comuni, d'intesa con l'A.R.PAM., provvedono a censire una mappa delle situazioni a rischio per la realizzazione di un archivio dati che individui gli edifici con presenza di amianto libero od in matrice friabile. </corpo>
-                </comma>
-                <comma id="art7-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> La Regione avvalendosi dell'A.R.P.A.M., promuove nelle scuole campagne di educazione ambientale con lo scopo di informare sulle problematiche connesse alla presenza di fibre di amianto, al suo smantellamento ed al relativo smaltimento. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art8">
-                <num>ARTICOLO 8 </num>
-                <rubrica>
- 
-Norma Finanziaria 
- </rubrica>
-                <comma id="art8-com1">
-                    <num>
-1.</num>
-                    <corpo> All'onere derivante dall'applicazione della presente legge, quantificato per l'esercizio finanziario 2003 in Euro 150.000 si provvede con la legge approvativa del bilancio per il medesimo anno. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
-
-?>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20030507">7 maggio 2003</dataDoc>
+				, n.
+				<numDoc>20</numDoc>
+				.
+				<titoloDoc>Interventi urgenti per la bonifica dell'amianto.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>ARTICOLO 1</num>
+					<rubrica>Finalità</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>Al fine di salvaguardare la salute dei cittadini ed il risanamento dell'ambiente, la Regione Molise concede contributi a favore dei soggetti pubblici e privati che intendano effettuare interventi di bonifica dall'amianto su beni o siti ricadenti nel territorio di competenza, nonché delle Province per i beni di proprietà.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>ARTICOLO 2</num>
+					<rubrica>Interventi</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							Ai soggetti pubblici e privati che abbiano presentato richieste ritenute ammissibili dalla commissione tecnica di cui al
+							<rif xlink:href="#art3" xlink:type="simple">successivo articolo 3</rif>
+							, è riconosciuto un contributo in conto capitale pari al 60 per cento della spesa documentata.
+						</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>Costituiscono priorità di finanziamento gli interventi di bonifica su manufatti contenenti amianto le cui condizioni siano tali da aver determinato o da determinare rilascio di fibre.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>ARTICOLO 3</num>
+					<rubrica>Commissione Tecnica</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<alinea>Entro trenta giorni dall'entrata in vigore della presente legge, la Giunta regionale istituisce la Commissione tecnica preposta alla valutazione di congruità tecnico-economica delle richieste di finanziamento per gli interventi di bonifica previsti dalla presente legge. La Commissione, che opera presso la Direzione Generale della Regione competente in materia di ambiente, è composta da:</alinea>
+						<ep id="art3-com1-pun1">
+							<num>-</num>
+							<corpo>DIRETTORE GENERALE della Regione competente in materia di ambiente, che la presiede;</corpo>
+						</ep>
+						<ep id="art3-com1-pun2">
+							<num>-</num>
+							<corpo>DIRETTORE GENERALE dell' Agenzia Regionale per la Protezione Ambientale del Molise (A.R.P.A.M.) o suo delegato;</corpo>
+						</ep>
+						<ep id="art3-com1-pun3">
+							<num>-</num>
+							<corpo>DIRIGENTE REGIONALE responsabile della struttura regionale competente in materia di Prevenzione e Tutela ambientale;</corpo>
+						</ep>
+						<ep id="art3-com1-pun4">
+							<num>-</num>
+							<corpo>DIRIGENTE REGIONALE designato dal Direttore Generale regionale dei Lavori Pubblici.</corpo>
+						</ep>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<corpo>La Commissione esprime le definitive valutazioni di congruità tecnico-economica delle richieste ad essa inoltrate e munite del parere dell'Agenzia Regionale per la Protezione Ambientale del Molise (A.R.PA.M.), predispone la graduatoria degli interventi ammissibili e trasmette gli atti alla Direzione Generale della Regione competente in materia di ambiente per la relativa istruttoria.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>ARTICOLO 4</num>
+					<rubrica>Procedure</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<alinea>I Comuni trasmettono alla Direzione regionale competente in materia di ambiente le richieste pervenute a seguito della emanazione dell'avviso pubblico regionale da parte della Direzione medesima e corredate di:</alinea>
+						<el id="art4-com1-leta">
+							<num>a)</num>
+							<corpo>relazione tecnica asseverata da tecnico abilitato in cui deve essere specificata la destinazione d'uso dei beni o dei siti sede dell'intervento, la localizzazione e la destinazione d'uso dei manufatti contenenti amianto, la tipologia, la quantità e lo stato di conservazione dei materiali nonché la tipologia dell'intervento di bonifica proposto;</corpo>
+						</el>
+						<el id="art4-com1-letb">
+							<num>b)</num>
+							<corpo>documentazione che attesti la presenza di materiali contenenti amianto nei manufatti oggetto di interventi;</corpo>
+						</el>
+						<el id="art4-com1-letc">
+							<num>c)</num>
+							<corpo>planimetria dei luoghi;</corpo>
+						</el>
+						<el id="art4-com1-letd">
+							<num>d)</num>
+							<corpo>progetto esecutivo dello stato attuale e dell'intervento di bonifica proposto;</corpo>
+						</el>
+						<el id="art4-com1-lete">
+							<num>e)</num>
+							<corpo>computo metrico dettagliato dei costi di bonifica e quadro economico riepilogativo della spesa preventivata.</corpo>
+						</el>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<corpo>
+							Le richieste di cui al
+							<rif xlink:href="#art4-com1" xlink:type="simple">comma 1</rif>
+							sono trasmesse entro dieci giorni dal ricevimento dell' Agenzia Regionale per la Protezione Ambientale del Molise che provvede entro novanta giorni a fornire alla Commissione tecnica di cui all'
+							<rif xlink:href="#art3" xlink:type="simple">art. 3</rif>
+							la relazione tecnica in ordine alla valutazione del rischio igienico-sanitario ed ambientale connesso alla presenza dell'amianto nei beni e nei siti indicati nella richiesta.
+						</corpo>
+					</comma>
+					<comma id="art4-com3">
+						<num>3.</num>
+						<corpo>La Giunta Regionale approva la graduatoria degli interventi ammessi a finanziamento che è pubblicata nel Bollettino Ufficiale della Regione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>ARTICOLO 5</num>
+					<rubrica>Concessione di contributi</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<alinea>
+							I contributi di cui all'
+							<rif xlink:href="#art2" xlink:type="simple">art. 2</rif>
+							definiti nella graduatoria di cui all'
+							<rif xlink:href="#art4" xlink:type="simple">articolo 4</rif>
+							sono erogati con atto del Responsabile del Servizio Prevenzione e sicurezza secondo le seguenti modalità:
+						</alinea>
+						<el id="art5-com1-leta">
+							<num>a)</num>
+							<corpo>primo rateo pari al 30% del finanziamento alla ricezione della comunicazione di inizio lavori e alla presentazione della fidejussione assicurativa di copertura dei costi complessivi di bonifica a favore del Servizio di Sicurezza Sociale;</corpo>
+						</el>
+						<el id="art5-com1-letb">
+							<num>b)</num>
+							<corpo>successivi ratei fino alla concorrenza massima dell'80% a seguito della presentazione degli stati di avanzamento dei lavori e della documentazione dimostrativa dei costi sostenuti nonché della documentazione tecnico-contabile dimostrativa dell'avvenuto conferimento in discarica autorizzata dei rifiuti provenienti dall'intervento di bonifica;</corpo>
+						</el>
+						<el id="art5-com1-letc">
+							<num>c)</num>
+							<corpo>saldo del finanziamento a seguito della presentazione del verbale di sopralluogo dell'Agenzia Regionale per la Protezione Ambientale del Molise che attesti l'avvenuta bonifica, della certificazione di restituibilità degli ambienti bonificati rilasciata dalla A.S.L. competente per territorio nonché della certificazione di collaudo.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>ARTICOLO 6</num>
+					<rubrica>Funzione della Provincia</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>Le Province, con il supporto tecnico delle strutture dell'A.R.P.A.M., individuano, entro 60 giorni dalla emanazione della presente legge, gli impianti autorizzati allo smaltimento dell'amianto.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>ARTICOLO 7</num>
+					<rubrica>Promozione</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>I Comuni, d'intesa con l'A.R.PAM., provvedono a censire una mappa delle situazioni a rischio per la realizzazione di un archivio dati che individui gli edifici con presenza di amianto libero od in matrice friabile.</corpo>
+					</comma>
+					<comma id="art7-com2">
+						<num>2.</num>
+						<corpo>La Regione avvalendosi dell'A.R.P.A.M., promuove nelle scuole campagne di educazione ambientale con lo scopo di informare sulle problematiche connesse alla presenza di fibre di amianto, al suo smantellamento ed al relativo smaltimento.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>ARTICOLO 8</num>
+					<rubrica>Norma Finanziaria</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>All'onere derivante dall'applicazione della presente legge, quantificato per l'esercizio finanziario 2003 in Euro 150.000 si provvede con la legge approvativa del bilancio per il medesimo anno.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>
