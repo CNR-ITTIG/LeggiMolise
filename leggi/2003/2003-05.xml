@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20030201" num="2" tipo="BURM" />
+					<entratainvigore norm="20030216" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2003-01-27;5" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20030216" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20030531" fonte="rp1" id="t2" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2003-01-27;5" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2003-05-07;16" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 2 del 1 febbraio 2003 Oggetto Legge Regionale del 30 Luglio 1998 n° 7 - Modifiche ed integrazioni.Abrogazioni Modifiche Modificato art. 1 dalla legge n. 16/2003 art. 2?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20030127">27 gennaio 2003</dataDoc>
+				, n.
+				<numDoc>5</numDoc>
+				.
+				<titoloDoc>
+					Modifiche ed integrazioni alla
+					<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7" xlink:type="simple">legge regionale n. 7 del 30 luglio 1998</rif>
+					, ad oggetto: "Norme per la protezione e l'incremento della fauna ittica e per l'esercizio della pesca nelle acque interne".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>
+						(Modifica ed integrazione alla
+						<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7" xlink:type="simple">legge regionale 30 luglio 1998, n. 7</rif>
+						)
+					</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							Alla
+							<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7" xlink:type="simple">legge regionale 30 luglio 1998 n. 7</rif>
+							, concernente: "Norme per la protezione e l'incremento della fauna ittica e per l'esercizio della pesca nelle acque interne", sono apportate le modifiche ed integrazioni di cui ai seguenti commi.
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod1">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art6-com1" xlink:type="simple">comma 1 dell'articolo 6</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod1-vir1" tipo="struttura">
+									<comma id="mod1-vir1-com1">
+										<num>1.</num>
+										<corpo>Chiunque eserciti la pesca senza la prescritta licenza o con la licenza scaduta è soggetto al pagamento della sanzione amministrativa da un minimo di Lire 100.000 ad un massimo di Lire 600.000</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com3">
+						<num>3.</num>
+						<corpo>
+							<mod id="mod2">
+								Dopo il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art6-com1" xlink:type="simple">comma 1 dell'articolo 6</rif>
+								è inserito il seguente: "
+								<virgolette id="mod2-vir1" tipo="struttura">
+									<comma id="mod2-vir1-com1bis">
+										<num>1bis.</num>
+										<corpo>Chiunque eserciti la pesca senza aver pagato la tassa regionale è soggetto al pagamento della sanzione amministrativa da un minimo pari al doppio ed un massimo pari al sestuplo della tassa dovuta in relazione al tipo di pesca praticata al momento</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com4">
+						<num>4.</num>
+						<corpo>
+							<mod id="mod3">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art7-com9" xlink:type="simple">comma 9 dell'articolo 7</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod3-vir1" tipo="struttura">
+									<comma id="mod3-vir1-com9">
+										<num>9.</num>
+										<corpo>La violazione dei divieti e degli obblighi di cui ai comma 3,4 e 7 del presente articolo comporta la sanzione amministrativa da un minimo di Lire 200.000 ad un massimo di Lire 1.200.000 oltre al ritiro della licenza per tre anni. In caso di recidiva, la sanzione amministrativa da Lire 300.000 a Lire 1.800.000, oltre alla sospensione della licenza per un periodo massimo di anni sei</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com5">
+						<num>5.</num>
+						<corpo>
+							<mod id="mod4">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art8-com1" xlink:type="simple">comma 1 dell'articolo 8</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod4-vir1" tipo="struttura">
+									<comma id="mod4-vir1-com1">
+										<num>1.</num>
+										<corpo>Ogni immissione di specie ittiche estranee alla fauna locale nelle acque interne pubbliche, deve essere autorizzata dal Presidente della Giunta regionale, sentito la Commissione Tecnico Consultiva regionale ad eccezione dei ripopolamenti pronta pesca con Trota Iridea (salmo gairdneri), nelle acque di categoria "B"</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com6">
+						<num>6.</num>
+						<corpo>
+							<mod id="mod5">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art8-com5" xlink:type="simple">comma 5 dell'articolo 8</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod5-vir1" tipo="struttura">
+									<comma id="mod5-vir1-com5">
+										<num>5.</num>
+										<corpo>La violazione delle disposizioni di cui al comma 1 del presente articolo è punita con la sanzione amministrativa da un minimo di Lire 200.000 ad un massimo di Lire 1.200.000</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com7">
+						<num>7.</num>
+						<corpo>
+							<mod id="mod6">
+								Dopo il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art10-com3" xlink:type="simple">comma 3 dell'articolo 10</rif>
+								è inserito il seguente: "
+								<virgolette id="mod6-vir1" tipo="struttura">
+									<comma id="mod6-vir1-com3bis">
+										<num>3bis.</num>
+										<corpo>La violazione delle disposizioni di cui al comma 1 del presente articolo, comporta la sanzione amministrativa da un minimo di Lire 200.000 ad un massimo di Lire 1.200.000</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com8">
+						<num>8.</num>
+						<corpo>
+							<mod id="mod7">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art11-com4" xlink:type="simple">comma 4 dell'articolo 11</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod7-vir1" tipo="struttura">
+									<comma id="mod7-vir1-com4">
+										<num>4.</num>
+										<corpo>
+											Lo scarico in acque pubbliche delle acque di lavaggio dei materiali sabbiosi e ghiaiosi lavorati negli impianti di estrazione e frantumazione deve avvenire previa decantazione dei fanghi in sospensione e comunque nel rispetto delle normative del
+											<rif xlink:href="urn:nir:stato:decreto.legislativo:1999;152" xlink:type="simple">decreto legislativo n. 152/1999</rif>
+											e successive modificazioni
+										</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com9">
+						<num>9.</num>
+						<corpo>
+							<mod id="mod8">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art12-com2" xlink:type="simple">comma 2 dell'articolo 12</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod8-vir1" tipo="struttura">
+									<comma id="mod8-vir1-com2">
+										<num>2.</num>
+										<corpo>Per le dighette, briglie e sbarramenti in genere, già realizzati, quando la loro stabilità richiederà opere di manutenzione straordinaria o ristrutturazione, si provvederà anche a realizzare quanto disposto nel comma precedente</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com10">
+						<num>10.</num>
+						<corpo>
+							<mod id="mod9">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art12-com3" xlink:type="simple">comma 3 dell'articolo 12</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod9-vir1" tipo="struttura">
+									<comma id="mod9-vir1-com3">
+										<num>3.</num>
+										<corpo>La violazione delle disposizioni di cui al comma 2 del presente articolo, comporta la sanzione amministrativa da un minimo di £. 3.000.000 ad un massimo di £.18.000.000</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com11">
+						<num>11.</num>
+						<corpo>
+							<mod id="mod10">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art13-com6" xlink:type="simple">comma 6 dell'articolo 13</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod10-vir1" tipo="struttura">
+									<comma id="mod10-vir1-com6">
+										<num>6.</num>
+										<corpo>La violazione delle disposizioni di cui ai comma 1, 3 e 5 del presente articolo comporta il pagamento delle sanzioni amministrative da Lire 1.000.000 ad un massimo di Lire 6.000.000</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com12">
+						<num>12.</num>
+						<corpo>
+							<mod id="mod11">
+								La
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art18-com1-letd" xlink:type="simple">lettera d) del comma 1 dell'articolo 18</rif>
+								, è sostituita dalla seguente lettera: "
+								<virgolette id="mod11-vir1" tipo="struttura">
+									<el id="mod11-vir1-letd">
+										<num>d)</num>
+										<corpo>Un rappresentante regionale, per ciascuna provincia, designato di concerto dalle Associazioni dei pescatori sportivi organizzate nella Regione e riconosciute in sede nazionale od operanti in ambito locale da almeno un decennio</corpo>
+									</el>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com13">
+						<num>13.</num>
+						<corpo>
+							<mod id="mod12">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art20-com7" xlink:type="simple">comma 7 dell'articolo 20</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod12-vir1" tipo="struttura">
+									<comma id="mod12-vir1-com7">
+										<num>7.</num>
+										<corpo>La violazione delle disposizioni di cui al comma 4 del presente articolo, comporta la sanzione amministrativa da un minimo di Lire 200.000 ad un massimo di Lire 1.200.000, mentre quella relativa alla violazione delle disposizioni dei commi 3 e 5 comporta la sanzione amministrativa da un minimo di Lire 500.000 ad un massimo di Lire 3.000.000</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com14">
+						<num>14.</num>
+						<corpo>
+							<mod id="mod13">
+								I commi 1 e 2 dell'
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art21" xlink:type="simple">articolo 21</rif>
+								, sono sostituiti dai seguenti: "
+								<virgolette id="mod13-vir1" tipo="struttura">
+									<comma id="mod13-vir1-com1">
+										<num>1.</num>
+										<corpo>Per l'esercizio della pesca sportiva e per l'incremento della fauna ittica, tratti di acque pubbliche, sono dati in concessione dalla Provincia, previa convenzione, alle Sezioni Provinciali delle associazioni di pescatori sportivi dilettanti riconosciute a livello nazionale ovvero ad Associazioni operanti in ambito locale da almeno un quinquennio, secondo modalità e criteri esplicitati in apposito regolamento regionale. Al fine di consentire uniformità di indirizzo, la Giunta regionale, sentite le Province, entro sei mesi dalla data di entrata in vigore della presente legge, approva e divulga una convenzione tipo.</corpo>
+									</comma>
+									<comma id="mod13-vir1-com2">
+										<num>2.</num>
+										<corpo>L'ammontare delle autorizzazioni concesse per ciascuna Provincia, non può avere un'estensione complessiva superiore al 25% della lunghezza di ciascun corpo idrico, rispettando i tratti di categoria A, B e C, con il limite massima di Km.8 per le Associazioni riconosciute a livello nazionale. Tale limite è concesso per lo svolgimento di gare di pesca a carattere nazionale o internazionale. Per le Associazioni riconosciute a livello regionale o provinciale il limite massimo per il rilascio delle autorizzazioni è di Km.4.Sui tratti autorizzati è vietato lo svolgimento di gare di pesca ad Associazioni diverse da quelle concessionarie. La distanza minima tra due tratti di corpi idrici è almeno Km.1. Le concessioni sui laghi, bacini naturali o artificiali non devono superare il 50% della loro lunghezza perimetrale complessiva. In caso di più autorizzazioni concesse deve essere garantita una distanza minima tra esse non inferiore al 10% della loro lunghezza perimetrale complessiva, destinata alla libera pesca</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com15">
+						<num>15.</num>
+						<corpo>
+							<mod id="mod14">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art21-com4" xlink:type="simple">comma 4 dell'articolo 21</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod14-vir1" tipo="struttura">
+									<comma id="mod14-vir1-com4">
+										<num>4.</num>
+										<corpo>L'inosservanza delle norme contenute nei commi 2 e 3 del presente articolo comporta la sanzione amministrativa da Lire 3.000.000 a Lire 18.000.000 e l'immediata revoca della concessione</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com16">
+						<num>16.</num>
+						<corpo>
+							<mod id="mod15">
+								Dopo il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art22-com4" xlink:type="simple">comma 4 dell'articolo 22</rif>
+								, sono inseriti i seguenti: "
+								<virgolette id="mod15-vir1" tipo="struttura">
+									<comma id="mod15-vir1-com4bis">
+										<num>4bis.</num>
+										<corpo>I titolari dei laghetti per la pesca a pagamento esistenti alla data di pubblicazione della presente legge, devono uniformarsi alle disposizioni contenute nel presente articolo entro l'anno 2003.</corpo>
+									</comma>
+									<comma id="mod15-vir1-com4ter">
+										<num>4ter.</num>
+										<corpo>L'introduzione di fauna ittica negli invasi ove si pratica la pesca a pagamento deve essere accompagnata da idonea certificazione veterinaria rilasciata a norma di legge</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com17">
+						<num>17.</num>
+						<corpo>
+							<mod id="mod16">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art22-com5" xlink:type="simple">comma 5 dell'articolo 22</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod16-vir1" tipo="struttura">
+									<comma id="mod16-vir1-com5">
+										<num>5.</num>
+										<corpo>La violazione delle disposizioni di cui a i commi 3 e 4bis del presente articolo comporta la sanzione amministrativa da Lire 3.000.000 a Lire 18.000.000 mentre quella relativa alla violazione di cui al comma 4ter è punita con la sanzione amministrativa da Lire 500.000 a Lire 3.000.000</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com18">
+						<num>18.</num>
+						<corpo>
+							<mod id="mod17">
+								Dopo la lettera g) dell'
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art27" xlink:type="simple">articolo 27</rif>
+								, è aggiunta la seguente lettera: "
+								<virgolette id="mod17-vir1" tipo="struttura">
+									<el id="mod17-vir1-leth">
+										<num>h)</num>
+										<corpo>Trabucco: con rete suddivisa in due parti cioè: parte centrale e parte esterna; la parte centrale con lato inferiore a metri 4 (QUATTRO) e con maglia non inferiore a mm. 10 (DIECI) per lato; la parte esterna con lato massimo di metri 20 (VENTI) e con maglia non inferiore a mm. 20 (VENTI) per lato e che comunque non occupi oltre la metà del letto del fiume e dell'alveo idrico</corpo>
+									</el>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com19">
+						<num>19.</num>
+						<corpo>
+							<mod id="mod18">
+								La
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art28-com1-letb" xlink:type="simple">lettera b) del comma 1 dell'articolo 28</rif>
+								, è sostituita dalla seguente lettera: "
+								<virgolette id="mod18-vir1" tipo="struttura">
+									<el id="mod18-vir1-letb">
+										<num>b)</num>
+										<corpo>una bilancella con lato massimo della rete di metri 1,50, montata su palo di manovra. Il lato delle maglie della rete non deve essere inferiore a mm. 20 (VENTI). L'uso della bilancella deve essere fatto a piede asciutto</corpo>
+									</el>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com20">
+						<num>20.</num>
+						<corpo>
+							<mod id="mod19">
+								Dopo la
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art28-com2-leta" xlink:type="simple">lettera a) del comma 2 dell'articolo 28</rif>
+								è inserita la seguente lettera: "
+								<virgolette id="mod19-vir1" tipo="struttura">
+									<el id="mod19-vir1-letabis">
+										<num>abis)</num>
+										<corpo>una bilancella con lato massimo della rete di metri 1,50, montata su palo di manovra. Il lato delle maglie della rete non deve essere inferiore a mm. 20 (VENTI). L'uso della bilancella deve essere fatto a piede asciutto</corpo>
+									</el>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com21">
+						<num>21.</num>
+						<corpo>
+							<mod id="mod20">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art28-com6" xlink:type="simple">comma 6 dell'articolo 28</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod20-vir1" tipo="struttura">
+									<comma id="mod20-vir1-com6">
+										<num>6.</num>
+										<corpo>La violazione delle disposizioni del presente articolo è punita con la sanzione amministrativa da Lire 100.000 a Lire 600.000 aumentata di Lire 50.000 per ogni attrezzo in più rispetto al numero consentito dal presente articolo</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com22">
+						<num>22.</num>
+						<corpo>
+							<mod id="mod21">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art29-com2" xlink:type="simple">comma 2 dell'articolo 29</rif>
+								,è sostituito dal seguente: "
+								<virgolette id="mod21-vir1" tipo="struttura">
+									<comma id="mod21-vir1-com2">
+										<num>2.</num>
+										<corpo>La pesca notturna è consentita per la sola anguilla nelle acque di categoria "A" e "B" ad esclusione del fiume Biferno ove la pesca è consentita solo a valle della diga del Liscione</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com23">
+						<num>23.</num>
+						<corpo>
+							<mod id="mod22">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art29-com13" xlink:type="simple">comma 13 dell'articolo 29</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod22-vir1" tipo="struttura">
+									<comma id="mod22-vir1-com13">
+										<num>13.</num>
+										<corpo>La violazione delle disposizioni di cui ai commi 1, 2bis, 8 e 9 del presente articolo comporta la sanzione amministrativa da un minimo di Lire 200.000 ad un massimo di Lire 1.200.000 mentre per ogni capo pescato in violazione dei commi 1, 2bis, 8, 9 e 10 si applica la sanzione amministrativa da Lire 10.000 a Lire 60.000</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com24">
+						<num>24.</num>
+						<corpo>
+							<mod id="mod23">
+								La lettera d) del comma 1, dell'articolo 30 è sostituito dalla seguente lettera: "
+								<virgolette id="mod23-vir1" tipo="struttura">
+									<el id="mod23-vir1-letd">
+										<num>d)</num>
+										<corpo>mediante pasturazione ed esca con organi contenenti sangue e sostanze chimiche</corpo>
+									</el>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com25">
+						<num>25.</num>
+						<corpo>
+							<mod id="mod24">
+								Dopo la
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art30-com1-letf" xlink:type="simple">lettera f) del comma 1 dell'articolo30</rif>
+								è inserita la seguente lettera: "
+								<virgolette id="mod24-vir1" tipo="struttura">
+									<el id="mod24-vir1-letfbis">
+										<num>fbis)</num>
+										<corpo>nei tratti in concessione senza il permesso del concessionario</corpo>
+									</el>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com26">
+						<num>26.</num>
+						<corpo>
+							<mod id="mod25">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art30-com4" xlink:type="simple">comma 4 dell'articolo 30</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod25-vir1" tipo="struttura">
+									<comma id="mod25-vir1-com4">
+										<num>4.</num>
+										<corpo>Il posto di pesca spetta al primo occupante. Questi ha diritto che i pescatori sopraggiunti si pongono ad un raggio non inferiore a metri 10 (DIECI) in linea d'area; tale limite è elevato a metri 15(QUINDICI) per chi fa uso della bilancella: Nel caso di corso d'acqua di larghezza inferiore a metri dieci il pescatore, ultimo arrivato sul fronte, si porrà a cinque metri a monte o a valle. Tali limitazioni sono derogabili per le gare di pesca ed in caso di accordo tra pescatori</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com27">
+						<num>27.</num>
+						<corpo>
+							<mod id="mod26">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art30-com5" xlink:type="simple">comma 5 dell'articolo 30</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod26-vir1" tipo="struttura">
+									<comma id="mod26-vir1-com5">
+										<num>5.</num>
+										<corpo>La violazione delle disposizioni di cui ai punti a), b), c), f), ed fbis) del comma 1, nonché quella relativa ai commi 2, 3 e 4 del presente articolo è punita con la sanzione amministrativa da Lire 100.000 a Lire 600.000, mentre quella di cui al punto e) del comma 1, con sanzione amministrativa da £. 1.800.000 e con denuncia alla competente Autorità giudiziaria</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com28">
+						<num>28.</num>
+						<corpo>
+							<mod id="mod27">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art35-com1" xlink:type="simple">comma 1 dell'articolo 35</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod27-vir1" tipo="struttura">
+									<comma id="mod27-vir1-com1">
+										<num>1.</num>
+										<corpo>
+											La Regione Molise esercita i compiti ad essa spettanti, a norma del
+											<rif xlink:href="urn:nir:stato:decreto.legislativo:1999;152" xlink:type="simple">decreto legislativo n.152/1999</rif>
+											, in materia di inquinamento delle acque, anche al fine di garantire la conservazione e l'incremento della fauna acquatica
+										</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com29">
+						<num>29.</num>
+						<corpo>
+							<mod id="mod28">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art37-com1" xlink:type="simple">comma 1 dell'articolo 37</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod28-vir1" tipo="struttura">
+									<comma id="mod28-vir1-com1">
+										<num>1.</num>
+										<corpo>La vigilanza sull'osservanza delle norme sulla pesca nelle acque interne è esercitata dagli agenti delle Amministrazioni provinciali, i quali rivestono la qualifica di agenti di polizia giudiziaria e di pubblica sicurezza, nonché dagli ufficiali, sottufficiali e guardie del Corpo forestale dello stato, dalle guardie municipali, dalle guardie forestali e campestri delle Comunità montane, dagli uffici ed agenti di polizia giudiziaria. La vigilanza è esercitata altresì dagli Agenti volontari delle associazioni di categoria di cui all'art. 21, comma 1, e da quelli di protezione ambientale, i quali svolgono le proprie funzioni anche al di fuori dei tratti di acque pubbliche dati in concessione alle Associazioni di pescatori sportivi</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com30">
+						<num>30.</num>
+						<corpo>
+							<mod id="mod29">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art37-com2" xlink:type="simple">comma 2 dell'articolo 37</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod29-vir1" tipo="struttura">
+									<comma id="mod29-vir1-com2">
+										<num>2.</num>
+										<corpo>Gli addetti alla vigilanza verbalizzeranno, direttamente su appositi moduli, le violazioni accertate mentre gli agenti volontari, di cui al precedente comma, redigeranno verbali di riferimento conformi alla legislazione vigente, nei quali dovranno essere specificate tutte le circostanze del fatto e le eventuali osservazioni del contravventore, da trasmettere all'Ente di appartenenza ed all'Autorità competente per le contestazioni e/o l'irrogazione delle relative sanzioni</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art1-com31">
+						<num>31.</num>
+						<corpo>
+							<mod id="mod30">
+								Dopo l'
+								<rif xlink:href="urn:nir:regione.molise:legge:1998-07-30;7#art37" xlink:type="simple">articolo 37</rif>
+								è aggiunto il seguente articolo: "
+								<virgolette id="mod30-vir1" tipo="struttura">
+									<articolo id="mod30-vir1-art37bis">
+										<num>ART.37BIS</num>
+										<rubrica>(DIVIETI NON SANZIONATI)</rubrica>
+										<comma id="mod30-vir1-art37bis-com1">
+											<num>1.</num>
+											<corpo>Per le violazioni ai divieti previsti dalla presente legge e dal regolamento di attuazione, non espressamente sanzionati, si applica la sanzione da un minimo di Lire 200.000 ad un massimo di Lire 1.200.000</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. E' fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>
