@@ -4,24 +4,24 @@
     <LeggeRegionale>
         <meta>
             <descrittori>
-                <pubblicazione norm="19881201" num="22" tipo="BURM"/>
-                <entratainvigore norm="19881216"/>
+                <pubblicazione norm="19890901" num="16" tipo="BURM"/>
+                <entratainvigore norm="19890916"/>
                 <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1988-11-21;23"/>
+                <urn valore="urn:nir:regione.molise:legge:1989-08-11;10"/>
                 <materie vocabolario="Regione Molise">
                     <materia valore="05.commercio, fiere e mercati, camere di commercio"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="20000514" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19991016" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1999;33" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 05.Commercio, fiere e mercati, camere di commercio 
  
 Bollettino 
-Bollettino Ufficiale n. 22 del 01/12/88 
+Bollettino Ufficiale n. 16 del 01/09/89 
  
 Oggetto 
-Commercio - Interventi finanziari - Tipologia - Destinatari - Procedure 
+Vendita di giornali e riviste - Piani di localizzazione - Autorizzazione - Rilascio - Procedure 
  
 Abrogazioni 
-Abrogata intera legge dalla legge n. 31/2000 art. art. 1, primo comma, lettera rr) 
+Abrogata intera legge dalla legge n. 33/1999 art. 33 
  
 Modifiche 
  
@@ -30,8 +30,8 @@ Modifiche
         <intestazione>
             <emanante>Regione Molise</emanante>
             <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19881121">21 Novembre 1988</dataDoc>, n. <numDoc>23</numDoc>
-            <titoloDoc>Interventi finanziari a sostegno del settore commerciale 
+            <dataDoc norm="19890811">11 Agosto 1989</dataDoc>, n. <numDoc>10</numDoc>
+            <titoloDoc>Criteri ai Comuni della Regione Molise per il rilascio delle autorizzazioni di vendita di riviste e giornali. 
  
 </titoloDoc>
         </intestazione>
@@ -41,12 +41,12 @@ Modifiche
                 <num/>
                 <comma id="art1-com1">
                     <num/>
-                    <corpo>abrogata intera legge dalla legge n. 31/2000 art. art. 1, primo comma, lettera rr)</corpo>
+                    <corpo>abrogata intera legge dalla legge n. 33/1999 art. 33</corpo>
                 </comma>
             </articolo>
         </articolato>
         <formulafinale/>
-        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
 
 ?>
     </LeggeRegionale>

@@ -4,21 +4,21 @@
     <LeggeRegionale>
         <meta>
             <descrittori>
-                <pubblicazione norm="19880816" num="15" tipo="BURM"/>
-                <entratainvigore norm="19880831"/>
+                <pubblicazione norm="19891201" num="22" tipo="BURM"/>
+                <entratainvigore norm="19891216"/>
                 <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1988-08-10;18"/>
+                <urn valore="urn:nir:regione.molise:legge:1989-11-23;22"/>
                 <materie vocabolario="Regione Molise">
-                    <materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
+                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
                 </materie>
             </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
-Bollettino Ufficiale n. 15 del 16/08/88 
+Bollettino Ufficiale n. 22 del 01/12/89 
  
 Oggetto 
-Bilancio 1988 della Regione 
+ERIM - Spese di gestione - Interventi finanziari della Regione 
  
 Abrogazioni 
 Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
@@ -30,8 +30,8 @@ Modifiche
         <intestazione>
             <emanante>Regione Molise</emanante>
             <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19880810">10 Agosto 1988</dataDoc>, n. <numDoc>18</numDoc>
-            <titoloDoc>Bilancio annuale di competenza e di cassa dell'esercizio finanziario 1988 _ Bilancio pluriennale 1988 - 1990. 
+            <dataDoc norm="19891123">23 Novembre 1989</dataDoc>, n. <numDoc>22</numDoc>
+            <titoloDoc>Interventi finanziari alle spese di gestione dell'Ente Risorse Idriche Molise. 
  
 </titoloDoc>
         </intestazione>
@@ -46,7 +46,7 @@ Modifiche
             </articolo>
         </articolato>
         <formulafinale/>
-        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti, di osservarla e di farla osservare come legge della Regione Molise. 
+        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare comme legge della Regione Molise. 
 
 ?>
     </LeggeRegionale>

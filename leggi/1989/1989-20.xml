@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
+<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <LeggeRegionale>
+        <meta>
+            <descrittori>
+                <pubblicazione norm="19891116" num="21" tipo="BURM"/>
+                <entratainvigore norm="19891201"/>
+                <redazione id="red1" nome="" norm=""/>
+                <urn valore="urn:nir:regione.molise:legge:1989-11-09;20"/>
+                <materie vocabolario="Regione Molise">
+                    <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
+                </materie>
+            </descrittori>
+        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+ 
+Bollettino 
+Bollettino Ufficiale n. 21 del 16/11/89 
+ 
+Oggetto 
+Unit&#xE0; sanitarie locali - Personale - Iscrizione nei ruoli nominativi regionali - Disciplina 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+        <intestazione>
+            <emanante>Regione Molise</emanante>
+            <tipoDoc>Legge Regionale </tipoDoc>
+            <dataDoc norm="19891109">9 Novembre 1989</dataDoc>, n. <numDoc>20</numDoc>
+            <titoloDoc>Norme di attuazione del <rif xlink:href="urn:nir:presidente.repubblica:decreto:1979-12-20;761">D.PR. 20 dicembre 1979, n. 761</rif> per i profili professionali dei farmacisti, veterinari, biologi, chimici, fisici, psicologi. 
+ 
+</titoloDoc>
+        </intestazione>
+        <formulainiziale/>
+        <articolato>
+            <articolo id="art1">
+                <num>ART. 1 </num>
+                <comma id="art1-com1">
+                    <num/>
+
+                    <corpo>
+1. I farmacisti, i veterinari, i biologi, i chimici, i fisici e gli psicologi di cui all'allegato 1) tabelle B,   C, D, E, F e G al <rif
+                            xlink:href="urn:nir:presidente.repubblica:decreto:1979-12-20;761">decreto del Presidente della Repubblica 20 dicembre 1979, n. 761</rif> ai fini  dell'iscrizione nei ruoli nominativi regionali del personale addetto alle unitè sanitarie locali, sono   inquadrati nelle posizioni funzionali di collaboratore, coadiutore, dirigente secondo i profili professionali di cui al <rif xlink:href="urn:nir:presidente.repubblica:decreto:1984-09-07;821">decreto del Presidente della Repubblica 7 settembre 1984, n.821</rif>. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art2">
+                <num>ART. 2 </num>
+                <comma id="art2-com1">
+                    <num/>
+
+                    <corpo>
+1. In carenza delle piante organiche da determinarsi ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:legge:1978-12-23;833#art15-com9">art. 15, comma 9, della legge 23 dicembre 1978, n. 833</rif> la Giunta Regionale su proposta delle unitè sanitarie locali interessate adegua, entro 90 giorni dalla data di entrata in vigore della presente legge, le piante organiche provvisorie di cui all'<rif
+                            xlink:href="urn:nir:stato:decreto.legge:1981-11-26;678#art1">art. 1 del decreto legge 26 novembre 1981, n. 678</rif> convertito con   modificazioni dalla <rif
+                            xlink:href="urn:nir:stato:legge:1982-01-26;12">legge 26 gennaio 1982, n. 12</rif> mediante trasformazione dei posti di   collaboratore farmacista, veterinario, biologo, chimico, fisico e psicologo, previsti nell'ambito   delle piante organiche provvisorie delle unitè sanitarie locali alla data di entrata in vigore della   presente legge, in altrettanti posti di coadiutore del rispettivo profilo professionale nei limiti utili a realizzare la paritè numerica tra le due posizioni funzionali nell'ambito dei singoli presidi, servizi,   aree, uffici e/o settori. 
+ 
+2. Qualora non sia possibile realizzare la paritè  numerica nell'ambito di ogni singolo presidio,   servizio, area, ufficio e/o settore possono essere utilizzati, a tali fini, i posti eventualmente   eccedenti fino al raggiungimento della paritè per ciascun profilo professionale di cui all'<rif xlink:href="#art1">art. 1</rif>   nell'ambito delle complessive strutture dell'Unitè sanitaria locale. 
+ 
+3. Nei presidi, servizi, aree, uffici e/o settori dove è previsto un solo posto di collaboratore il posto   stesso ancorchè occupato da personale di ruolo, è trasformato in un posto di coadiutore del relativo profilo professionale.</corpo>
+                </comma>
+            </articolo>
+            <articolo id="art3">
+                <num>ART. 3 </num>
+                <comma id="art3-com1">
+                    <num/>
+
+                    <corpo>
+1. In fase di definizione delle piante organiche dei Presidi Ospedalieri relativamente ai profili   professionali di cui alla presente legge, i collaboratori in servizio al 1è gennaio 1988 ed in   possesso dei requisiti di cui all'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1979-12-20;761#art21">art. 21 del D.P.R. 20 dicembre 1979 n. 761</rif> accedono alla posizione di coadiutore nel numero necessario al conseguimento dell'equiparazione tra   collaboratori e coadiutori. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art4">
+                <num>Art. 4 </num>
+                <comma id="art4-com1">
+                    <num/>
+                    <corpo>
+In attesa dell'approvazione del piano sanitario regionale un posto di coadiutore o, in mancanza,   un posto di collaboratore per ciascuno dei profili professionali dei farmacisti e dei biologi, ancorchè occupato da personale di ruolo in possesso del requisiti di cui agli articoli, rispettivamente, n. 37 e n. 61 del D.M. 30 gennaio 1982, è trasformato, nell'ambito di ciascun Presidio Ospedaliero, in un posto di dirigente del relativo profilo professionale. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art5">
+                <num>ART. 5 </num>
+                <comma id="art5-com1">
+                    <num/>
+                    <corpo>
+1. La copertura dei posti trasformati in base alla presente legge sarè effettuata secondo le   procedure concorsuali previste dalla normativa vigente, fatti salvi comunque i diritti del   personale in servizio alla conservazione del posto, anche in posizione sovrannumeraria. </corpo>
+                </comma>
+            </articolo>
+            <articolo id="art6">
+                <num>ART. 6 </num>
+                <comma id="art6-com1">
+                    <num/>
+
+                    <corpo>
+1. La presente legge è dichiarata urgente ai sensi dell'<rif
+                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel   Bollettino Ufficiale della Regione. 
+</corpo>
+                </comma>
+            </articolo>
+        </articolato>
+        <formulafinale/>
+        <conclusione/><?error 2. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+
+?>
+    </LeggeRegionale>
+</NIR>

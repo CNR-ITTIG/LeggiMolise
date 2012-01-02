@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19880601" num="10" tipo="BURM"/>
-                <entratainvigore norm="19880616"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1988-05-25;13"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
-                </materie>
-            </descrittori>
-        </meta><?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19880601" num="10" tipo="BURM" />
+					<entratainvigore norm="19880601" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1988-05-25;13" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19880601" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1988-05-25;13" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
  
 Bollettino 
 Bollettino Ufficiale n. 10 del 01/06/88 
@@ -27,54 +36,66 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19880525">25 Maggio 1988</dataDoc>, n. <numDoc>13</numDoc>
-            <titoloDoc>
-                <rif xlink:href="urn:nir:regione.molise:statuto:#art54">Articolo 54 dello Statuto</rif> - Approvazione dei bilanci di previsione degli Enti Regionali per l'esercizio finanziario 1988. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Articolo unico</num>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>
-Ai sensi dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art54">art. 54 dello Statuto</rif> e dell'art. 26 della legge regionale di contabilità 3 dicembre 1977, n. 44, sono approvati i bilanci di previsione dell'esercizio finanziario 1988 degli Enti   sottoelencati. </corpo>
-                </comma>
-                <comma id="art1-com2">
-                    <num/>
-                    <alinea>I preventivi di cui trattasi formano allegati al bilancio regionale 1988: 
- 
-</alinea>
-                    <en id="art1-com2-num1">
-                        <num>1)</num>
-                        <corpo> Ente Regionale di Sviluppo Agricolo per il Molise (E.R.S.A.M.) 
- 
-2) Ente Risorse Idriche del Molise (E.R.I.M.) 
- 
-3) Azienda Autonoma di Soggiorno e Cura di Termoli 
- 
-4) Ente Provinciale per il Turismo di Campobasso 
- 
-5) Ente Provinciale per il Turismo di Isernia.</corpo>
-                    </en>
-                </comma>
-                <comma id="art1-com3">
-                    <num/>
-
-                    <corpo>La presente legge è dichiarata urgente ai sensi dell'<rif
-                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38   dello Statuto</rif> ed entra in vigore lo stesso giorno della sua pubblicazione nel Bollettino Ufficiale   della Regione. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservale come legge della Regione Molise. 
-
-?>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19880525">25 Maggio 1988</dataDoc>
+				, n.
+				<numDoc>13</numDoc>
+				<titoloDoc>
+					<rif xlink:href="urn:nir:regione.molise:statuto:#art54" xlink:type="simple">Articolo 54 dello Statuto</rif>
+					- Approvazione dei bilanci di previsione degli Enti Regionali per l'esercizio finanziario 1988.
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="artunico">
+					<num>Articolo unico</num>
+					<comma id="artunico-com1">
+						<num />
+						<corpo>
+							Ai sensi dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art54" xlink:type="simple">art. 54 dello Statuto</rif>
+							e dell'art. 26 della legge regionale di contabilità 3 dicembre 1977, n. 44, sono approvati i bilanci di previsione dell'esercizio finanziario 1988 degli Enti sottoelencati.
+						</corpo>
+					</comma>
+					<comma id="artunico-com2">
+						<num />
+						<alinea>I preventivi di cui trattasi formano allegati al bilancio regionale 1988:</alinea>
+						<en id="artunico-com2-num1">
+							<num>1)</num>
+							<corpo>Ente Regionale di Sviluppo Agricolo per il Molise (E.R.S.A.M.)</corpo>
+						</en>
+						<en id="artunico-com2-num2">
+							<num>2)</num>
+							<corpo>Ente Risorse Idriche del Molise (E.R.I.M.)</corpo>
+						</en>
+						<en id="artunico-com2-num3">
+							<num>3)</num>
+							<corpo>Azienda Autonoma di Soggiorno e Cura di Termoli</corpo>
+						</en>
+						<en id="artunico-com2-num4">
+							<num>4)</num>
+							<corpo>Ente Provinciale per il Turismo di Campobasso</corpo>
+						</en>
+						<en id="artunico-com2-num5">
+							<num>5)</num>
+							<corpo>Ente Provinciale per il Turismo di Isernia.</corpo>
+						</en>
+					</comma>
+					<comma id="artunico-com3">
+						<num />
+						<corpo>
+							La presente legge è dichiarata urgente ai sensi dell'
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art127" xlink:type="simple">art. 127 della Costituzione</rif>
+							e dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art38" xlink:type="simple">articolo 38 dello Statuto</rif>
+							ed entra in vigore lo stesso giorno della sua pubblicazione nel Bollettino Ufficiale della Regione.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>E' fatto obbligo a chiunque spetti di osservarla e di farla osservale come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>
