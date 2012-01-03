@@ -1,60 +1,801 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20021116" num="24" tipo="BURM"/>
-                <entratainvigore norm="20021201"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2002-10-18;25"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="14.governo del territorio, urbanistica, edilizia"/>
-                </materie>
-            </descrittori>
-        </meta><?error 14.Governo del territorio, urbanistica, edilizia 
- 
-Bollettino 
-BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 24 del 16 novembre 2002 
- 
-Oggetto 
-Eliminazione barriere architettoniche e localizzative - Disciplina - Disposizioni concernenti l'entrata in vigore della ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>del <dataDoc
-                    norm="20021018">18 ottobre 2002</dataDoc>n. <numDoc>25</numDoc>. 
- 
-<titoloDoc>Abrogazioni 
- 
- 
-Modifiche 
- 
- 
-<rif
-                    xlink:href="urn:nir:regione.molise:legge:2002-11-08;35">LEGGE REGIONALE 8 novembre 2002, n. 35</rif>. 
- 
-Norme sull'entrata in vigore della <rif xlink:href="urn:nir:regione.molise:legge:2002-10-18;25">legge regionale 18 ottobre 2002 n. 25</rif>, ad oggetto: "Eliminazione delle barriere architettoniche". 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Articolo 1 </num>
-                <rubrica>
- 
-La <rif xlink:href="urn:nir:regione.molise:legge:2002-10-18;25">legge regionale 18 ottobre 2002 n. 25</rif>, ad oggetto: "Eliminazione delle barriere architettoniche" entrer� in vigore dopo l'emanazione da parte della Giunta regionale del relativo regolamento di attuazione. 
- 
-La presente legge sar� pubblicata nel Bollettino Ufficiale della Regione. � fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
-<?error Marker Warning 109?>
-                </rubrica>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20021031" num="23" tipo="BURM" />
+					<entratainvigore norm="20021115" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2002-10-18;25" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="14.Governo del territorio, urbanistica, edilizia" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20021115" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2002-10-18;25" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 14.Governo del territorio, urbanistica, edilizia Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 23 del 31 ottobre 2002 Oggetto Elimiminazione barriere architettoniche e localizzative - Disciplina Abrogazioni Modifiche ?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20021018">18 ottobre 2002</dataDoc>
+				, n.
+				<numDoc>25</numDoc>
+				.
+				<titoloDoc>Eliminazione delle barriere architettoniche</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Articolo 1</num>
+					<rubrica>(Finalità)</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>La presente legge detta norme e dispone interventi per la realizzazione e la piena utilizzazione dell'ambiente progettato e costruito per lo svolgimento di ogni attività effettuata nell'ambiente stesso, da parte di tutti i cittadini, con la massima autonomia possibile, indipendentemente dall'età, dal sesso, dalle caratteristiche anatomiche, fisiologiche e senso-percettive, nonché dalle variazioni temporanee e permanenti delle stesse.</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<alinea>Le disposizioni contenute nella presente legge si intendono in osservanza:</alinea>
+						<el id="art1-com2-leta">
+							<num>a)</num>
+							<corpo>
+								dell'
+								<rif xlink:href="urn:nir:stato:legge:1971-03-30;118#art27" xlink:type="simple">articolo 27 della legge n. 118 del 30 marzo 1971</rif>
+								e relativo regolamento di attuazione
+								<rif xlink:href="urn:nir:presidente.repubblica:decreto:1996-07-24;503" xlink:type="simple">D.P.R. 24 luglio 1996, n. 503</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art1-com2-letb">
+							<num>b)</num>
+							<corpo>
+								della
+								<rif xlink:href="urn:nir:stato:legge:1989-01-09;13" xlink:type="simple">legge 9 gennaio 1989 n. 13</rif>
+								, come modificata dalla
+								<rif xlink:href="urn:nir:stato:legge:1989-02-27;62" xlink:type="simple">legge 27 febbraio 1989, n. 62</rif>
+								e del decreto del Ministro dei Lavori Pubblici n. 236 del 14 giugno 1989 ;
+							</corpo>
+						</el>
+						<el id="art1-com2-letc">
+							<num>c)</num>
+							<corpo>
+								dell'
+								<rif xlink:href="urn:nir:stato:legge:1992-02-05;104#art24" xlink:type="simple">articolo 24 della legge 5 febbraio 1992, n. 104</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art1-com2-letd">
+							<num>d)</num>
+							<corpo>delle circolari e delle disposizioni emesse in materia di eliminazione delle barriere architettoniche.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Articolo 2</num>
+					<rubrica>(Definizione di barriera architettonica e localizzativa)</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>Ai fini della presente legge, per barriera architettonica si intende qualsiasi ostacolo che limita o nega l'uso autonomo a tutti i cittadini di spazi, edifici, servizi, strutture ed in particolare impedisce la mobilità dei soggetti con difficoltà motoria, sensoriale o psichica, di natura permanente o temporanea, dipendente da qualsiasi causa.</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>Ai fini della presente legge, per barriera localizzativa si intende ogni ostacolo o impedimento della percezione connesso alla posizione, alla forma, al colore di strutture architettoniche e dei mezzi di trasporto, tali da ostacolare o limitare la vita di relazione delle persone affette da difficoltà motorie, sensoriale o psichica, di natura permanente o temporanea, dipendente da qualsiasi causa.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Articolo 3</num>
+					<rubrica>(Progettazione e modalità di attuazione delle opere edilizie Caratteristiche dei mezzi di pubblico trasporto)</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>La realizzazione e le modifiche delle strutture e delle costruzioni, nonché gli interventi in materia di trasporto pubblico di persone, di cui ai successivi articoli, devono perseguire la compatibilità dell'ambiente costruito con le esigenze dei cittadini; a tal fine devono essere adottati criteri progettuali e di controllo rispondenti all e diverse esigenze degli utenti e adattabili ai possibili mutamenti delle esigenze stesse.</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<corpo>In relazione a quanto previsto dal comma precedente, la progettazione e le modalità di esecuzione delle opere edilizie, nonché le caratteristiche dei mezzi di trasporto pubblico di persone devono essere preordinate a consentire l'installazione di manufatti, apparecchiature e dispositivi tecnologici idonei ad assicurare la compatibilità dell' ambiente costruito rispetto alla diverse esigenze degli utenti.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Articolo 4</num>
+					<rubrica>(Campo di applicazione)</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>Le norme della presente legge si applicano a tutti gli edifici, gli ambienti e le strutture, anche di carattere temporaneo, di proprietà pubblica e privata ed ai servizi ed infrastrutture di trasporto pubblico urbano ed extraurbano, che prevedono il passaggio o la permanenza di persone.</corpo>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<alinea>In particolare, la disciplina normativa si applica:</alinea>
+						<el id="art4-com2-leta">
+							<num>a)</num>
+							<corpo>agli edifici e i locali di uso pubblico, ivi compresi gli esercizi di ospitalità, quelli dedicati al culto e gli edifici o strutture dedicati ad attività turistiche, sportive, culturali e ricreative, compresi parchi e giardini pubblici, aree verdi e zone attrezzate per i giochi dei bambini e in generale luoghi aperti o chiusi destinati ad attività del tempo libero anche a carattere temporaneo;</corpo>
+						</el>
+						<el id="art4-com2-letb">
+							<num>b)</num>
+							<corpo>agli edifici di uso residenziale abitativo realizzati da soggetti pubblici e privati;</corpo>
+						</el>
+						<el id="art4-com2-letc">
+							<num>c)</num>
+							<corpo>agli edifici e i locali destinati ad attività produttive di carattere industriale, agricolo, artigianale, nonché ad attività commerciali e del settore terziario;</corpo>
+						</el>
+						<el id="art4-com2-letd">
+							<num>d)</num>
+							<corpo>alle aree e ai percorsi pedonali urbani, nonché ai parcheggi;</corpo>
+						</el>
+						<el id="art4-com2-lete">
+							<num>e)</num>
+							<corpo>ai mezzi di trasporto pubblico di persone su gomma, ferro e fune nonché ai mezzi di navigazione di competenza regionale, provinciale e comunale;</corpo>
+						</el>
+						<el id="art4-com2-letf">
+							<num>f)</num>
+							<corpo>alle strutture e agli impianti fissi connessi all'esercizio dei trasporti pubblici delle persone di competenza regionale, provinciale e comunale;</corpo>
+						</el>
+						<el id="art4-com2-letg">
+							<num>g)</num>
+							<corpo>alle strutture ed agli impianti di esercizio di uso pubblico esterni o interni alle costruzioni;</corpo>
+						</el>
+						<el id="art4-com2-leth">
+							<num>h)</num>
+							<corpo>ai segnali ottici, acustici e tattili, da utilizzare negli ambienti di cui alle lettere precedenti.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Articolo 5</num>
+					<rubrica>(Prescrizioni tecniche di attuazione)</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>
+							Al fine di specificare e di integrare la normativa vigente in materia, sono indicate nell'allegato che fa parte integrante della presente legge, le prescrizioni tecniche di attuazione da osservarsi nella progettazione, nella esecuzione e nel controllo degli ambienti, degli edifici e delle strutture comprese nel campo di applicazione di cui al
+							<rif xlink:href="#art4" xlink:type="simple">precedente articolo 4</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Articolo 6</num>
+					<rubrica>(Competenze della Regione)</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>I piani territoriali e urbanistici, i piani di settore nonché ogni programma operativo regionale sono redatti nel rispetto della presente legge.</corpo>
+					</comma>
+					<comma id="art6-com2">
+						<num>2.</num>
+						<corpo>
+							Ai fini della adozione del piano di eliminazione delle barriere architettoniche, così come disposto dall'
+							<rif xlink:href="urn:nir:stato:legge:1986-02-28;41#art32-com21" xlink:type="simple">articolo 32, comma 21 della legge n. 41 del 28 febbraio 1986</rif>
+							, l'Assessorato ai lavori pubblici della Regione promuove il censimento degli immobili, degli edifici pubblici e degli spazi pubblici interessati ad interventi per l'abolizione delle barriere architettoniche. A tal fine la Giunta regionale eroga i contributi di cui all'
+							<rif xlink:href="#art15" xlink:type="simple">articolo 15</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art6-com3">
+						<num>3.</num>
+						<corpo>Il censimento, di cui al precedente comma, è delegato ai Comuni ed altri Enti interessati, sulla base di criteri e modalità di rilevazione e stesura approvate dalla Giunta regionale entro un anno dall'entrata in vigore della presente legge.</corpo>
+					</comma>
+					<comma id="art6-com4">
+						<num>4.</num>
+						<corpo>Il censimento riguarda gli immobili di proprietà dei Comuni, delle Provincie, della Regione e degli altri Enti locali, nonché tutti gli edifici ad uso pubblico anche se di proprietà privata. Ai fini del censimento degli immobili e strutture di proprietà dello Stato, delle Amministrazioni autonome o altri Enti pubblici e privati, la Giunta promuove le necessarie intese con gli enti proprietari.</corpo>
+					</comma>
+					<comma id="art6-com5">
+						<num>5.</num>
+						<corpo>I dati del censimento sono utilizzabili ai fini della programmazione degli interventi regionali e degli altri Enti locali, nell'ambito delle rispettive competenze.</corpo>
+					</comma>
+					<comma id="art6-com6">
+						<num>6.</num>
+						<corpo>Al fine di agevolare l'attività di adeguamento della strumentazione urbanistica degli Enti locali, la Giunta regionale mette a disposizione le competenti strutture regionali.</corpo>
+					</comma>
+					<comma id="art6-com7">
+						<num>7.</num>
+						<alinea>
+							In particolare per realizzare gli obiettivi di cui all'
+							<rif xlink:href="#art1" xlink:type="simple">articolo 1</rif>
+							l' Assessorato ai Lavori Pubblici in collaborazione con l'Assessorato all'Urbanistica:
+						</alinea>
+						<el id="art6-com7-leta">
+							<num>a)</num>
+							<corpo>svolge ricerche per l'individuazione di nuovi strumenti, materiali, soluzioni tecniche e quant'altro possa essere utile per l' applicazione della presente legge;</corpo>
+						</el>
+						<el id="art6-com7-letb">
+							<num>b)</num>
+							<corpo>provvede alla raccolta dei dati, studi, documentazione, ricerche riguardanti le tematiche della presente legge;</corpo>
+						</el>
+						<el id="art6-com7-letc">
+							<num>c)</num>
+							<corpo>fornisce informazioni, consulenze e notizie a quanti ne facciano richiesta;</corpo>
+						</el>
+						<el id="art6-com7-letd">
+							<num>d)</num>
+							<corpo>organizza, in collaborazione con le Università, con gli Ordini professionali, con gli Enti pubblici e privati, con le Associazioni che hanno per legge la rappresentanza e la tutela dei disabili e con le altre Associazioni di disabili maggiormente rappresentative presenti nel territorio regionale, corsi di aggiornamento e formazione professionali per i tecnici di settore;</corpo>
+						</el>
+						<el id="art6-com7-lete">
+							<num>e)</num>
+							<corpo>favorisce una più diffusa informazione sulla produzione in serie di manufatti, oggetti di uso comune, elementi di arredamento interno ed arredo urbano, materiali ed impianti, ausili vari, più rispondenti alle esigenze di tutti i cittadini con particolare riferimento ai più svantaggiati.</corpo>
+						</el>
+					</comma>
+					<comma id="art6-com8">
+						<num>8.</num>
+						<corpo>Le iniziative di cui al comma precedente possono essere realizzate anche tramite l'indizione di concorsi e la concessione di borse di studio.</corpo>
+					</comma>
+					<comma id="art6-com9">
+						<num>9.</num>
+						<corpo>
+							Per realizzare gli obiettivi di cui all'
+							<rif xlink:href="#art1" xlink:type="simple">articolo 1</rif>
+							e per verificare l' ;efficacia delle disposizioni contenute nella presente legge, la Giunta regionale con la collaborazione del Comitato tecnico-scentifico di cui all' ;
+							<rif xlink:href="#art14" xlink:type="simple">articolo 14</rif>
+							può definire, anche con propri successivi atti amministrativi, l'articolazione organizzativa e le modalità per l'attuazione della legge stessa.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Articolo 7</num>
+					<rubrica>(Competenze di Comuni, Provincie ed altri Enti)</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>
+							I Comuni singoli o associati, le Province e gli altri Enti locali, nell' ambito delle funzioni attribuite dal
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:2000-08-18;267" xlink:type="simple">decreto legislativo 18 agosto 2000 n. 267</rif>
+							, di approvazione del testo unico della legge ordinamento degli enti locali, devono ottemperare al disposto della presente legge nelle proprie attività di programmazione e di intervento sul territorio predisponendo altresì piani, programmi e progetti generali e settoriali annuali e pluriennali, nonché attività di carattere informativo e di aggiornamento, con l'obiettivo della eliminazione delle barriere architettoniche.
+						</corpo>
+					</comma>
+					<comma id="art7-com2">
+						<num>2.</num>
+						<corpo>
+							I Comuni adeguano alle disposizioni della presente legge i loro strumenti urbanistici, generali e attuativi, nonché i regolamenti edilizi e di igiene, introducendo eventuali ulteriori prescrizioni volte a perseguire le finalità definite dall'
+							<rif xlink:href="#art1" xlink:type="simple">articolo 1</rif>
+							della presente legge, come stabilito dal
+							<rif xlink:href="urn:nir:stato:legge:1992-02-05;104#art24-com11" xlink:type="simple">comma 11 dell'articolo 24 della legge 5 febbraio 1992, n. 104</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art7-com3">
+						<num>3.</num>
+						<corpo>Le disposizioni di cui alla presente legge, a decorrere da un anno dalla sua entrata in vigore, prevarranno comunque sulle prescrizioni degli strumenti urbanistici e dei regolamenti comunali che si pongono con esse in contrasto.</corpo>
+					</comma>
+					<comma id="art7-com4">
+						<num>4.</num>
+						<corpo>I Comuni verificano la rispondenza alle prescrizioni indicate ai commi precedenti sia nell'esame dei progetti in sede di rilascio dell' autorizzazione e della concessione edilizia, sia nel controllo di quanto eseguito in sede di rilascio del certificato di abitabilità o di agibilità.</corpo>
+					</comma>
+					<comma id="art7-com5">
+						<num>5.</num>
+						<corpo>I Comuni adottano efficaci procedure di semplificazione amministrativa nei confronti dei privati che intendono effettuare interventi per l' abbattimento delle barriere architettoniche sugli edifici abitati dai disabili.</corpo>
+					</comma>
+					<comma id="art7-com6">
+						<num>6.</num>
+						<corpo>Ai fini dell'attuazione della presente legge, i Comuni favoriscono la partecipazione nelle commissioni edilizie di tecnici ed esperti in materia di abolizione delle barriere architettoniche, scelti, di norma, nell'ambito di un tema di nominativi designati dalle associazioni di disabili che hanno per legge la rappresentanza e la tutela dei disabili e dalle altre associazioni di disabili maggiormente rappresentative presenti nel territorio regionale.</corpo>
+					</comma>
+					<comma id="art7-com7">
+						<num>7.</num>
+						<corpo>
+							In attuazione dell'
+							<rif xlink:href="urn:nir:stato:legge:1989-01-09;13#art11" xlink:type="simple">articolo 11 della legge n. 13 del 9 gennaio 1989</rif>
+							, il Sindaco provvede a trasmettere alla Regione il fabbisogno complessivo del comune, sulla base delle richieste ritenute ammissibili.
+						</corpo>
+					</comma>
+					<comma id="art7-com8">
+						<num>8.</num>
+						<corpo>I Comuni riservano una quota, non inferiore al 10% degli introiti derivanti dagli oneri di urbanizzazione, ai fini dell'abbattimento delle barriere architettoniche per opere, edifici ed impianti esistenti di loro competenza.</corpo>
+					</comma>
+					<comma id="art7-com9">
+						<num>9.</num>
+						<corpo>
+							Gli adeguamenti all'ambiente costruito di cui all'
+							<rif xlink:href="#art4" xlink:type="simple">articolo 4</rif>
+							della presente legge, sono esenti dal pagamento del contributo di cui all'
+							<rif xlink:href="urn:nir:stato:legge:1977-01-28;10#art3" xlink:type="simple">articolo 3 della legge n. 10 del 28 gennaio 1977</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art7-com10">
+						<num>10.</num>
+						<corpo>Gli obblighi e le esenzioni verranno meno, per ciascun comune, allorché si sarà realizzato l'abbattimento di tutte le barriere architettoniche concernenti edifici ed impianti esistenti di propria competenza; tali interventi, inoltre, sono assimilati alle opere di urbanizzazione primaria e secondaria. In tal senso il Comune dovrà assumere specifico provvedimento, supportato da idonea documentazione tecnica.</corpo>
+					</comma>
+					<comma id="art7-com11">
+						<num>11.</num>
+						<corpo>Gli Enti gestori di alloggi di edilizia residenziale pubblica devono predisporre, entro un anno dall'entrata in vigore della presente legge, una indagine conoscitiva presso i locatari, volta a rilevare i bisogni di ristrutturazione degli alloggi ai fini dell'abolizione delle barriere architettoniche; i dati rilevati devono essere tenuti costantemente aggiornati. Entro l'anno successivo, devono altresì individuare le priorità di esecuzione ed elaborare un programma di intervento esecutivo. In caso di impossibilità di modifiche congrue alle necessità dei locatari richiedenti, gli Enti gestori devono assumere iniziative dirette a favorire lo scambio di alloggio anche occupato, ma più facilmente ristrutturabile o concordare l'assegnazione di un nuovo alloggio idoneo. Gli oneri finanziari derivanti da quanto disposto dal presente comma sono a carico dei relativi enti gestori di edilizia residenziale pubblica.</corpo>
+					</comma>
+					<comma id="art7-com12">
+						<num>12.</num>
+						<corpo>Nel caso di ristrutturazione edilizia e di restauro o risanamento conservativo di alloggi di edilizia residenziale pubblica, l'Ente gestore provvede a realizzare una quota non inferiore ad un alloggio ogni venti o frazione di venti con caratteristiche conformi alle prescrizioni dell'allegato alla presente legge, ai fini del loro utilizzo da parte di soggetti con gravi difficoltà motorie, sensoriali o psichiche.</corpo>
+					</comma>
+					<comma id="art7-com13">
+						<num>13.</num>
+						<corpo>
+							Ai fini del rilascio delle concessioni di edificazione per i nuovi edifici ad uso residenziale abitativo e per ristrutturazione urbanistica di edifici esistenti, deve essere garantita la visitabilità e l' adattabilità degli alloggi come definite dal presente comma. Per visitabilità di un alloggio si intende la sua condizione di permettere a persona di ridotta capacità motoria, di accedere alla zona giorno e ad un servizio igienico dell'alloggio stesso, garantendo le prestazioni minime indicate al numero 6.1.1 dell'allegato. Per adattabilità di un alloggio si intende la sua condizione di poter essere modificato, a costi limitati, allo scopo di permettere ad un disabile circolante con carrozzina di viverci ed esercitarvi tutte le attività e funzioni della vita quotidiana; a tal fine l'esecuzione dei lavori di modifica non deve modificarne né la struttura, né la rete degli impianti comuni degli edifici, garantendo le prestazioni minime indicate al numero 6.1.2 dell'allegato. L' adattabilità e la visitabilità degli alloggi devono essere garantite anche ai fini del rilascio delle concessioni di edificazione per ristrutturazione edilizia di interi edifici o di parti significative degli stessi, salvo quanto previsto dal
+							<rif xlink:href="#art10" xlink:type="simple">successivo articolo 10</rif>
+							. Le disposizioni dell'allegato non si applicano agli edifici destinati ad abitazioni unifamiliari o con non più di quattro alloggi.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Articolo 8</num>
+					<rubrica>(Elaborati tecnici)</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>Gli elaborati tecnici devono chiaramente evidenziare le soluzioni progettuali e gli accorgimenti tecnici adottati, per garantire il rispetto delle prescrizioni di cui alla presente legge.</corpo>
+					</comma>
+					<comma id="art8-com2">
+						<num>2.</num>
+						<corpo>Al fine di garantire una più chiara valutazione di merito gli elaborati tecnici devono essere accompagnati da una relazione specifica, contenente la descrizione delle soluzioni progettuali e delle opere previste per l'eliminazione delle barriere architettoniche degli accorgimenti tecnico-strutturali ed impiantistici e dei materiali previsti a tale scopo.</corpo>
+					</comma>
+					<comma id="art8-com3">
+						<num>3.</num>
+						<corpo>
+							Nel caso vengano proposte eventuali soluzioni alternative la relazione di cui al
+							<rif xlink:href="#art8-com2" xlink:type="simple">comma 2</rif>
+							, corredata dai grafici necessari, deve essere integrata con illustrazione delle alternative e dell'equivalente o migliore qualità degli esiti ottenibili.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Articolo 9</num>
+					<rubrica>(Verifiche)</rubrica>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<corpo>
+							In attuazione dell'
+							<rif xlink:href="urn:nir:stato:legge:1986-02-28;41#art32-com20" xlink:type="simple">articolo 32, comma 20 della legge n. 41 del 28 febbraio 1986</rif>
+							, è fatto obbligo di allegare ai progetti delle opere, di cui alla presente legge, la dichiarazione del professionista abilitato che attesti la conformità degli elaborati alle disposizioni contenute nella legge stessa ovvero che illustri e giustifichi eventuali deroghe o soluzioni tecniche alternative.
+						</corpo>
+					</comma>
+					<comma id="art9-com2">
+						<num>2.</num>
+						<corpo>Spetta all'amministrazione, cui è demandata l'approvazione del progetto, l'accertamento e l'attestazione di conformità; l'eventuale dichiarazione di non conformità del progetto o il mancato accoglimento di eventuali deroghe e/o soluzioni tecniche alternative devono essere motivate.</corpo>
+					</comma>
+					<comma id="art9-com3">
+						<num>3.</num>
+						<corpo>In sede di esecuzione delle opere il direttore dei lavori è tenuto a garantire, comunque, l'applicazione delle disposizioni contenute nella presente legge.</corpo>
+					</comma>
+					<comma id="art9-com4">
+						<num>4.</num>
+						<corpo>Il certificato di collaudo non può essere rilasciato in assenza di pareri di conformità alle norme della presente legge; di tale conformità deve essere fatta specifica menzione nel certificato stesso.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Articolo 10</num>
+					<rubrica>(Variazione della destinazione d'uso degli immobili)</rubrica>
+					<comma id="art10-com1">
+						<num>1.</num>
+						<corpo>Ove il Comune intenda consentire, ricorrendone i presupposti di compatibilità con la disciplina urbanistica vigente, la modifica di destinazione d'uso di immobili finalizzata ad un utilizzo di carattere collettivo, il rilascio della concessione edilizia o dell'autorizzazione è subordinato all'accertamento del possesso da parte dell' immobile delle caratteristiche previste dall'allegato alla presente legge per gli edifici destinati ad uso collettivo.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art11">
+					<num>Articolo 11</num>
+					<rubrica>(Deroghe)</rubrica>
+					<comma id="art11-com1">
+						<num>1.</num>
+						<corpo>Le prescrizioni della presente legge sono derogabili solo per gli edifici o loro parti che, nel rispetto di normative tecniche specifiche, non possono eliminare le barriere architettoniche. Le deroghe sono accordate dai comuni con provvedimento motivato.</corpo>
+					</comma>
+					<comma id="art11-com2">
+						<num>2.</num>
+						<corpo>
+							Per gli edifici soggetti al vincolo di cui al
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1999-10-29;490" xlink:type="simple">decreto legislativo 29 ottobre 1999 n. 490</rif>
+							, la deroga si realizza nel rispetto delle procedure di autorizzazione previste dagli articoli 4 e 5 della
+							<rif xlink:href="urn:nir:stato:legge:1989-01-09;13" xlink:type="simple">legge 9 gennaio 1989, n. 13</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art11-com3">
+						<num>3.</num>
+						<corpo>Sono ammesse soluzioni alternative, così come definite all'articolo 7 comma 7.2 del decreto del Ministro dei Lavori Pubblici n. 236 del 14 giugno 1989, purché rispondano ai criteri di progettazione di cui all'articolo 4 dello stesso decreto.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art12">
+					<num>Articolo 12</num>
+					<rubrica>(Sanzioni)</rubrica>
+					<comma id="art12-com1">
+						<num>1.</num>
+						<corpo>
+							L'inosservanza delle norme della presente legge da parte del titolare della concessione edilizia, del committente e del direttore dei lavori, costituisce variazione essenziale di cui all'
+							<rif xlink:href="urn:nir:stato:legge:1985-02-28;47#art8-com1-letc" xlink:type="simple">articolo 8, primo comma, lettera c) della legge n. 47 del 28 febbraio1985</rif>
+							, cui consegue l' applicazione delle disposizioni e delle sanzioni previste dalla legislazione vigente.
+						</corpo>
+					</comma>
+					<comma id="art12-com2">
+						<num>2.</num>
+						<corpo>
+							Per tutte le opere riguardanti edifici pubblici e privati aperti al pubblico realizzate in difformità dalle disposizioni vigenti in materia di accessibilità e di eliminazione delle barriere architettoniche e nelle quali le difformità siano tali da rendere impossibile l' utilizzazione dell'opera da parte dei disabili, si applicano inoltre le sanzioni di cui all'
+							<rif xlink:href="urn:nir:stato:legge:1992-02-05;104#art24-com7" xlink:type="simple">articolo 24, comma 7 della legge n. 104 del 5 febbraio 1992</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art13">
+					<num>Articolo 13</num>
+					<rubrica>(Trasporti)</rubrica>
+					<comma id="art13-com1">
+						<num>1.</num>
+						<corpo>Ferma restando l'osservanza delle norme dettate dalla presente legge in materia di urbanistica, le prescrizioni di cui ai numeri 3 e 4 dell' allegato si applicano alle stazioni, alle strutture fisse e ai mezzi di trasporto pubblico di persone di competenza regionale, provinciale e comunale, secondo le previsioni dei successivi commi.</corpo>
+					</comma>
+					<comma id="art13-com2">
+						<num>2.</num>
+						<corpo>Entro il termine di cui al comma successivo, il servizio di trasporto pubblico locale di persone deve essere dotato di sistemi tecnici di cui al numero 3.2 dell'allegato, idonei a consentire la fruizione del servizio da parte dei viaggiatori con difficoltà dell'udito e della vista. Entro sei mesi dalla data di entrata in vigore della presente legge, la Giunta regionale, al fine di uniformare gli interventi, dispone le prescrizioni tecniche per l'adozione sui mezzi di trasporto dei sistemi tecnici di cui al n. 3.2 dell'allegato. Decorsi sei mesi dalla data di esecutività della deliberazione, non possono essere immessi nel servizio di trasporto pubblico locale di persone, nuovi mezzi di trasporto sprovvisti di sistemi tecnici previsti dal presente articolo.</corpo>
+					</comma>
+					<comma id="art13-com3">
+						<num>3.</num>
+						<corpo>
+							Decorso un anno dalla data di esecutività della deliberazione di cui al
+							<rif xlink:href="#art13-com2" xlink:type="simple">comma 2</rif>
+							non possono essere affidate nuove concessioni per i servizi di trasporto pubblico locale di persone, né essere rinnovate quelle in atto, ad aziende od imprese che non abbiano dotato il parco rotabile dei sistemi tecnici di cui al suddetto
+							<rif xlink:href="#art13-com2" xlink:type="simple">comma 2</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art13-com4">
+						<num>4.</num>
+						<corpo>I regolamenti comunali inerenti ai noleggi ed ai servizi di piazza devono prevedere, ai fini del rilascio delle relative licenze, che i mezzi da adibirsi al trasporto di persone siano dotati di portabagagli idonei a contenere una sedia a rotelle ripiegata. I Comuni provvedono ad adeguare i regolamenti vigenti entro 60 giorni dalla data di entrata in vigore della presente legge.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art14">
+					<num>Articolo 14</num>
+					<rubrica>(Comitato tecnico- scientifico)</rubrica>
+					<comma id="art14-com1">
+						<num>1.</num>
+						<corpo>È costituito il Comitato tecnico-scientifico permanente, nominato con decreto del Presidente della Giunta Regionale entro 30 giorni dall'entrata in vigore della presente legge, con sede presso l'Assessorato all' Edilizia Residenziale.</corpo>
+					</comma>
+					<comma id="art14-com2">
+						<num>2.</num>
+						<alinea>Il Comitato tecnico-scientifico è presieduto dell'Assessore regionale all'Edilizia Residenziale, si avvale delle competenti strutture regionali, ed è composto:</alinea>
+						<el id="art14-com2-leta">
+							<num>a)</num>
+							<corpo>un funzionario dell'Assessorato all'Edilizia Residenziale;</corpo>
+						</el>
+						<el id="art14-com2-letb">
+							<num>b)</num>
+							<corpo>un funzionario dell'Assessorato ai Trasporti;</corpo>
+						</el>
+						<el id="art14-com2-letc">
+							<num>c)</num>
+							<corpo>un funzionario dell'Assessorato ai Lavori Pubblici;</corpo>
+						</el>
+						<el id="art14-com2-letd">
+							<num>d)</num>
+							<corpo>un funzionario dell'Assessorato all'Assistenza e Sicurezza Sociale;</corpo>
+						</el>
+						<el id="art14-com2-lete">
+							<num>e)</num>
+							<corpo>un funzionario dell'Assessorato alla Sanità;</corpo>
+						</el>
+						<el id="art14-com2-letf">
+							<num>f)</num>
+							<corpo>due tecnici con specifica e documentata esperienza in materia di abolizione delle barriere architettoniche, proposti dagli Albi;</corpo>
+						</el>
+						<el id="art14-com2-letg">
+							<num>g)</num>
+							<corpo>un rappresentante delle organizzazioni di categoria scelto tra quelle maggiormente rappresentative in ambito regionale.</corpo>
+						</el>
+					</comma>
+					<comma id="art14-com3">
+						<num>3.</num>
+						<alinea>I compiti del Comitato sono:</alinea>
+						<el id="art14-com3-leta">
+							<num>a)</num>
+							<corpo>indicare i criteri tecnici per la formulazione delle prescrizioni e normative tecniche da osservarsi nella progettazione e per le eventuali successive modificazioni ed integrazioni delle stesse;</corpo>
+						</el>
+						<el id="art14-com3-letb">
+							<num>b)</num>
+							<corpo>formulare proposte, rilasciare pareri e svolgere funzioni consultive in ordine ad interventi legislativi ed amministrativi della Regione nella materia disciplinata nella presente legge;</corpo>
+						</el>
+						<el id="art14-com3-letc">
+							<num>c)</num>
+							<corpo>fornire supporto tecnico – scientifico alla struttura organizzativa della Regione;</corpo>
+						</el>
+						<el id="art14-com3-letd">
+							<num>d)</num>
+							<corpo>osservare e valutare i risultati derivanti dall'applicazione della presente legge nonché gli orientamenti culturali emergenti dal contesto sociale;</corpo>
+						</el>
+						<el id="art14-com3-lete">
+							<num>e)</num>
+							<corpo>fornire consulenze agli Enti locali in materia di accessibilità e di eliminazione delle barriere architettoniche.</corpo>
+						</el>
+					</comma>
+					<comma id="art14-com4">
+						<num>4.</num>
+						<corpo>Ai componenti del Comitato esterni all'Amministrazione regionale è riconosciuto un gettone di presenza pari a quello spettante ai componenti del Comitato regionale di controllo, oltre al rimborso delle spese di viaggio ove non residenti nel Capoluogo di regione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art15">
+					<num>Articolo 15</num>
+					<rubrica>(Interventi regionali per la redazione dei piani comunali)</rubrica>
+					<comma id="art15-com1">
+						<num>1.</num>
+						<corpo>
+							Al fine di incentivare l'adozione dei piani di eliminazione delle barriere architettoniche previste dall'
+							<rif xlink:href="urn:nir:stato:legge:1986-02-28;41#art32-com21" xlink:type="simple">articolo 32, comma 21 della legge n. 41 del 28 febbraio 1986</rif>
+							, la Giunta regionale è autorizzata a concedere contributi a favore dei Comuni per il sostegno degli oneri relativi all' acquisizione di consulenze tecnico-amministrative.
+						</corpo>
+					</comma>
+					<comma id="art15-com2">
+						<num>2.</num>
+						<corpo>
+							I contributi di cui al
+							<rif xlink:href="#art15-com1" xlink:type="simple">comma 1</rif>
+							, possono essere concessi ai Comuni che, per ragioni connesse ad obiettive difficoltà operative, non abbiano provveduto ad intraprendere il censimento degli edifici pubblici e di uso pubblico, conseguentemente , ad elaborare i piani per l'abbattimento delle barriere architettoniche.
+						</corpo>
+					</comma>
+					<comma id="art15-com3">
+						<num>3.</num>
+						<corpo>La misura massima dei contributi previsti dalla presente legge è determinata nel 50% della spesa dell'intervento e nella misura massima di € 50.000,00 ; la concessione è disposta con priorità a favore dei comuni con popolazione inferiore a 2.000 abitanti e di quelli che hanno provveduto ad effettuare il censimento ed i piani previsti dalla presente legge.</corpo>
+					</comma>
+					<comma id="art15-com4">
+						<num>4.</num>
+						<corpo>La priorità è prevista a favore degli edifici abitati dai disabili con gravi handicap che intendono realizzare opere per l' abbattimento di barriere architettoniche; le richieste sono raccolte dai comuni e trasmesse alla Regione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art16">
+					<num>Articolo 16</num>
+					<rubrica>(Norma finanziaria)</rubrica>
+					<comma id="art16-com1">
+						<num>1.</num>
+						<alinea>Gli oneri per l'attuazione della presente legge per l'esercizio finanziario 2002 sono quantificati come segue:</alinea>
+						<el id="art16-com1-leta">
+							<num>a)</num>
+							<corpo>Euro 200.000 per interventi nell'ambito dell'edilizia pubblica;</corpo>
+						</el>
+						<el id="art16-com1-letb">
+							<num>b)</num>
+							<corpo>Euro 150.000 per interventi nell'ambito dell'edilizia di culto;</corpo>
+						</el>
+						<el id="art16-com1-letc">
+							<num>c)</num>
+							<corpo>Euro 150.000 per interventi nell'ambito della riqualificazione urbana;</corpo>
+						</el>
+						<el id="art16-com1-letd">
+							<num>d)</num>
+							<corpo>Euro 50.000 per interventi di trasporto pubblico;</corpo>
+						</el>
+					</comma>
+					<comma id="art16-com2">
+						<num>2.</num>
+						<corpo>
+							Agli oneri di cui al
+							<rif xlink:href="#art16-com1" xlink:type="simple">comma 1</rif>
+							si fa fronte con parte degli stanziamenti iscritti nello stato di previsione delle uscite del bilancio per l'esercizio 2002 sulle unità previsionali di base n. 4.1.330, n. 4.1.335 e n. 4.4.400.
+						</corpo>
+					</comma>
+					<comma id="art16-com3">
+						<num>3.</num>
+						<corpo>Relativamente agli esercizi finanziari 2003 e successivi si provvede con le rispettive leggi di approvazione di bilancio.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione Molise. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>
+							<h:p>ALLEGATO</h:p>
+						</denAnnesso>
+						<titAnnesso />
+						<preAnnesso />
+					</testata>
+					<DocumentoNIR nome="">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:regione.molise:legge:2002-10-18;25:allegato" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<titoloDoc>
+								PRESCRIZIONI TECNICHE DI ATTUAZIONE
+								<h:br />
+								per l'eliminazione delle barriere architettoniche.
+							</titoloDoc>
+						</intestazione>
+						<formulainiziale />
+						<contenitore id="con1" nome="">
+							<h:p>1. CONTENUTO DELL'ALLEGATO</h:p>
+							<h:p>2. MOBILITÀ E SOSTA URBANA</h:p>
+							<h:p>2.1 Aree e percorsi pedonali</h:p>
+							<h:p>2.2 Parcheggi</h:p>
+							<h:p>3. TRASPORTI URBANI</h:p>
+							<h:p>3.1 Servizi di superficie: Autobus</h:p>
+							<h:p>3.2Informazioni agli utenti</h:p>
+							<h:p>4. TRASPORTI EXTRAURBANI</h:p>
+							<h:p>4.1 Ferrovie ed autolinee</h:p>
+							<h:p>4.2 Trasporti speciali: Ferrovie a cremagliera, funivie e funicolari</h:p>
+							<h:p>4.3 Informazioni agli utenti</h:p>
+							<h:p>5. COSTRUZIONI EDILIZIE: prescrizioni generali</h:p>
+							<h:p>5.1 Accessi</h:p>
+							<h:p>5.2 Percorsi interni orizzontali: Piattaforme di distribuzione, Corridoi e Passaggi</h:p>
+							<h:p>5.3 Percorsi interni verticali: Scale, Rampe, Ascensori ed Impianti speciali</h:p>
+							<h:p>5.4 Locali igienici</h:p>
+							<h:p>5.5 Pavimenti</h:p>
+							<h:p>5.6 Infissi: Porte, Finestre e Parapetti</h:p>
+							<h:p>5.7 Attrezzature di uso comune: Apparecchi elettrici e Cassette per la corrispondenza</h:p>
+							<h:p>6. COSTRUZIONI EDILIZIE: prescrizioni specifiche</h:p>
+							<h:p>6.1 Edilizia abitativa: Alloggio</h:p>
+							<h:p>6.2 Edilizia sociale</h:p>
+							<h:p>6.3 Sale e luoghi per riunioni e spettacoli</h:p>
+							<h:p>6.4 Locali pubblici</h:p>
+							<h:p>6.5 Stazioni</h:p>
+							<h:p>6.6 Mense e servizi dei luoghi di lavoro</h:p>
+							<h:p>7. ATTREZZATURE PUBBLICHE</h:p>
+							<h:p>1. Contenuto dell'allegato</h:p>
+							<h:p>Il presente allegato contiene la prescrizione tecniche da osservarsi:</h:p>
+							<h:p>a) per la progettazione e la realizzazione di nuovi edifici, ambienti, e strutture individuati dall'art. 4 della legge, nonché degli interventi su quelli esistenti;</h:p>
+							<h:p>
+								b) per i servizi di trasporto di persone di competenza regionale, secondo quanto previsto dall'
+								<rif xlink:href="#art13" xlink:type="simple">art. 13</rif>
+								della presente legge;
+							</h:p>
+							<h:p>2. Mobilità e sosta urbana</h:p>
+							<h:p>2.1 Aree e percorsi pedonali</h:p>
+							<h:p>Sono aree e percorsi riservati ad uso dei pedoni all'interno della viabilità veicolare eventualmente anche mediante incroci a più livelli con sottopassi o sovrapassi; possono essere su marciapiede, in porticati, in zone verdi e/o in attraversamenti stradali zebrati.</h:p>
+							<h:p>Le barriere architettoniche dovute a sottopassi dovranno essere eliminate salvo non vi siano facili percorsi alternativi.</h:p>
+							<h:p>I percorsi pedonali devono essere prolungati, con le medesime caratteristiche tecniche, fino all'accesso delle costruzioni, all'interno delle relative aree di pertinenza di cui all'art. 4 della legge.</h:p>
+							<h:p>2.1.1 Percorsi pedonali</h:p>
+							<h:p>Larghezza minima m. 1,50 con tratti, nei luoghi di maggior traffico, aventi almeno una larghezza di m. 1,80.</h:p>
+							<h:p>In presenza di passaggi obbligati o per restrizioni dei percorsi a causa di lavori in corso, la larghezza potrà essere, per brevi tratti, ridotta a m. 0,90.</h:p>
+							<h:p>La pendenza trasversale non dovrà superare l'1%.</h:p>
+							<h:p>La differenza di quota senza ricorso a rampe non dovrà superare i cm. 2,5 e dovrà essere arrotondata o smussata.</h:p>
+							<h:p>2.1.2 Rampe</h:p>
+							<h:p>La pendenza di eventuali rampe di collegamento fra piani orizzontali diversi varia in funzione della lunghezza delle rampe stesse e precisamente:</h:p>
+							<h:p>per rampe fino a m. 0,50 la pendenza massima ammessa è 12%;</h:p>
+							<h:p>per rampe fino a 2,00 la pendenza massima ammessa è dell'8%;</h:p>
+							<h:p>per rampe fino a m. 5,00 la pendenza massima è del 7%;</h:p>
+							<h:p>oltre i m. 5,00 la pendenza massima è del 5%.</h:p>
+							<h:p>Qualora a lato della rampa si presenti un dislivello superiore a cm 20, la rampa dovrà avere un cordolo di almeno 5 cm. di altezza.</h:p>
+							<h:p>2.1.3 Attraversamenti stradali</h:p>
+							<h:p>Stesse caratteristiche dei percorsi su marciapiede.</h:p>
+							<h:p>Per attraversamenti di strade con grande traffico o comunque con più di due corsie per senso di marcia, è opportuno predisporre isole salvagente di almeno m. 1.50 di larghezza che dovranno essere interrotte in corrispondenza alle strisce zebrate.</h:p>
+							<h:p>Attraversamenti semaforizzati: è opportuno che siano dotati di segnalazioni acustiche.</h:p>
+							<h:p>2.1.4 Pavimentazioni</h:p>
+							<h:p>La pavimentazione delle aree e dei percorsi pedonali deve essere in materiale antisdrucciolevole, compatto ed omogeneo (esclusa ad esempio, ghiaia e/o rizzada).</h:p>
+							<h:p>Completamento eventuale con materiali, colorazioni o rilievi diversi atti a consentire la percezione di segnalazioni ed orientamenti per i non vedenti.</h:p>
+							<h:p>Non sono ammesse fessure in griglie od altri manufatti, con larghezza o diametro superiore a cm. 2,0.</h:p>
+							<h:p>2.2 Parcheggi</h:p>
+							<h:p>Nelle aree di sosta e parcheggio, pubblico o privato, deve essere riservato almeno un parcheggio in aderenza alle aree pedonali, al fine di agevolare il trasferimento dei passeggeri disabili dall'autovettura ai percorsi pedonali stessi.</h:p>
+							<h:p>Nei parcheggi con custodia dei veicoli dovranno essere riservati ai non deambulanti almeno un posto ogni 50 posti macchina o frazione. Se il parcheggio si trova ad un piano diverso da quello del marciapiede, il collegamento con lo stesso dovrà avvenire con un sistema di ascensori o rampe aventi le stesse caratteristiche previste dalle presenti norme per gli impianti analoghi.</h:p>
+							<h:p>I parcheggi per i disabili devono garantire le seguenti prestazioni minime:</h:p>
+							<h:p>l'area propria di parcheggio relativa all'ingombro del veicolo, deve essere affiancata ad uno spazio zebrato con una larghezza minima tale da consentire la rotazione di una carrozzina e, comunque, non inferiore a m. 1,50;</h:p>
+							<h:p>lo spazio di rotazione, complanare all'area di parcheggio, deve essere sempre raccordata ai percorsi pedonali;</h:p>
+							<h:p>le aree di parcheggio, di manovra e di raccordo devono avere le stesse caratteristiche dei percorsi pedonali;</h:p>
+							<h:p>la localizzazione del parcheggio deve essere evidenziata con segnalazioni su pavimentazione e su palo.</h:p>
+							<h:p>3. Trasporti urbani</h:p>
+							<h:p>Al fine di pervenire ad un effettivo abbattimento delle barriere architettoniche occorre considerare le varie fasi del trasporto e precisamente:</h:p>
+							<h:p>il percorso di avvicinamento al veicolo;</h:p>
+							<h:p>l'accesso al veicolo;</h:p>
+							<h:p>la riservazione dei posti idonei allo stazionamento sul veicolo.</h:p>
+							<h:p>3.1 Servizi di superficie: Autobus</h:p>
+							<h:p>3.1.1 Il percorso di avvicinamento</h:p>
+							<h:p>Il percorso di avvicinamento dai veicoli può far capo ad un marciapiede, quando la fermata è prevista in prossimità di esso, o ad un salvagente, quando il veicolo si ferma in mezzo alla strada.</h:p>
+							<h:p>Nel caso in cui il veicolo si fermi in mezzo la strada, il percorso fra marciapiede, attraversamento stradale e salvagente, deve avere le stesse caratteristiche di un percorso pedonale.</h:p>
+							<h:p>3.1.2 Accesso al veicolo</h:p>
+							<h:p>L'accesso al veicolo da parte dei passeggeri con ridotte o impedite capacità fisiche dovrà essere facilitato dalla larghezza delle porte e dall'essere il pianale del veicolo più basso possibile, compatibilmente con le esigenze costruttive e le tecnologie che i costruttori potranno mettere in atto. Eventuali pedane elevatrici devono avere le dimensioni tali da garantire l'uso da parte di persone in carrozzella.</h:p>
+							<h:p>3.1.3 Stazionamento in vettura</h:p>
+							<h:p>All'interno dei veicoli devono essere riservati almeno tre posti per persone a ridotte o impedite capacità fisiche, di cui uno con aggancio automatico della carrozzina per i non deambulanti.</h:p>
+							<h:p>3.2 Informazioni agli utenti</h:p>
+							<h:p>Le indicazioni interne ed esterne alle stazioni nonché le diciture sulle piantane di fermata e gli indicatori di linea, interni ed esterni alle vetture, devono avere dimensioni e tipologia di caratteri tali da facilitarne la lettura.</h:p>
+							<h:p>I veicoli devono essere dotati di mezzi audiovisivi che ne facilitino l' utilizzo anche da parte di utenti con difficoltà dell'udito e della vista ed, in particolare, dotati di apposito impianto che consenta la segnalazione delle fermate in arrivo.</h:p>
+							<h:p>4. Trasporti extraurbani</h:p>
+							<h:p>4.1 Ferrovie ed autolinee</h:p>
+							<h:p>Sui mezzi di trasporto pubblico ferroviario ed automobilistico di competenza regionale, provinciale e comunale, devono essere riservati per i passeggeri con ridotte capacità fisiche almeno tre posti in prossimità delle porte di uscita segnalate.</h:p>
+							<h:p>Per rendere possibile l'utilizzo dei mezzi di trasporto anche a persone su carrozzina, uno dei tre posti riservati alle persone con difficoltà deambulatoria, deve essere adeguatamente attrezzato con gli opportuni ancoraggi di aggancio automatico della carrozzina.</h:p>
+							<h:p>L'accesso dei passeggeri con ridotte capacità motorie deve essere agevolato mediante rampe e/o pedane elevatrici ovvero l'innalzamento delle banchine.</h:p>
+							<h:p>4.2 Trasporti speciali:</h:p>
+							<h:p>Ferrovie a cremagliera – Funivie – Funicolari</h:p>
+							<h:p>Nei trasporti speciali per la mobilità di persone, quali ferrovia a cremagliera, funivia e funicolari, dovranno essere messi in atto, compatibilmente con le esigenze costruttive e tecnico funzionali, tutti gli accorgimenti per facilitare l'uso degli impianti stessi anche a passeggeri con ridotte o impedite capacità fisiche.</h:p>
+							<h:p>5. Costruzioni edilizie: Prescrizioni generali</h:p>
+							<h:p>Al fine di agevolare l'accesso, gli spostamenti interni e l'utilizzo delle parti comuni devono essere rispettate le seguenti norme nelle costruzioni e strutture indicate nell'art. 4 della legge, alle lettere:</h:p>
+							<h:p>a) gli edifici e i locali pubblici e di uso pubblico ivi compresi gli esercizi di ospitalità, quelli dedicati al culto e gli edifici o strutture dedicati ad attività turistiche e sportive;</h:p>
+							<h:p>b) gli edifici di uso residenziale ed abitativo;</h:p>
+							<h:p>c) gli edifici e i locali destinati ad attività produttive di carattere industriale, agricolo, artigianale, nonché ad attività commerciali e del settore terziario;</h:p>
+							<h:p>d) le strutture e gli impianti fissi connessi all'esercizio dei trasporti pubblici di persone di competenza regionale, provinciale e comunale;</h:p>
+							<h:p>e) le strutture e gli impianti di servizio di uso pubblico, esterni o interni alla costruzioni.</h:p>
+							<h:p>5.1 Accessi</h:p>
+							<h:p>Per agevolare l'accesso alle costruzioni edilizie è necessario prevedere degli spazi, varchi e/o porte esterne allo stesso livello dei percorsi pedonali o con essi raccordati mediante rampe e nel rispetto delle seguenti prestazioni minime:</h:p>
+							<h:p>gli accessi devono avere una luce netta minima di m. 1,50;</h:p>
+							<h:p>zone antistanti e retrostanti l'accesso devono essere in piano, estendersi per ciascuna zona per una profondità non inferiore a m. 1,50 ed essere protette dagli agenti atmosferici;</h:p>
+							<h:p>il piano dei collegamenti verticali deve essere allo stesso livello dell' accesso;</h:p>
+							<h:p>eventuali differenze di quota non devono superare cm. 2,50 ed essere sempre arrotondati in caso contrario devono essere raccordati con rampe conformi a quanto previsto dal presente allegato.</h:p>
+							<h:p>5.2 Percorsi interni orizzontali: Piattaforme di distribuzione – Corridoi – Passaggi</h:p>
+							<h:p>Lo spostamento all'interno della costruzione dei percorsi orizzontali a quelli verticali deve essere mediato attraverso piattaforme di distribuzione, quali vani ingresso o ripiani di arrivo dei collegamenti verticali, dalle quali sia possibile accedere ai vari ambienti, esclusi i locali tecnici, solo con percorsi orizzontali.</h:p>
+							<h:p>Piattaforme, corridoi e passaggi devono garantire le seguenti prestazioni minime:</h:p>
+							<h:p>il lato minore delle piattaforme di distribuzione e la larghezza minima dei corridoi e/o passaggi deve sempre consentire spazi di manovra e di rotazione di una carrozzina e comunque non essere mai inferiore a m.1,50;</h:p>
+							<h:p>la rampa scala in discesa deve essere disposta in moda da evitare la possibilità di essere imboccata incidentalmente uscendo dagli ascensori;</h:p>
+							<h:p>ogni piattaforma di distribuzione dell'edilizia pubblica deve essere dotata di tabella di percorsi degli ambienti da essa raggiungibili.</h:p>
+							<h:p>5.3 Percorsi interni verticali: Scale – Rampe – Ascensori - Impianti speciali</h:p>
+							<h:p>5.3.1 Scale</h:p>
+							<h:p>Le scale devono presentare un andamento regolare ed omogeneo per tutto il loro sviluppo e se questo non è possibile si deve mediare con ripiani o rampe di adeguato sviluppo.</h:p>
+							<h:p>La pendenza deve essere costante e le rampe devono contenere possibilmente lo stesso numero di gradini.</h:p>
+							<h:p>La larghezza delle scale deve permettere il passaggio contemporaneo di due persone ed il passaggio orizzontale di una barella con una inclinazione massima del 15 % lungo l'asse longitudinale.</h:p>
+							<h:p>I gradini delle scale devono avere una pedata antisdrucciolevole minima di cm. 30 ed una alzata massima di cm. 16, a pianta preferibilmente rettangolare e con profilo continuo a spigoli arrotondati.</h:p>
+							<h:p>Le scale devono essere dotate di corrimano posto ad una altezza di m. 0,90.</h:p>
+							<h:p>Il corrimano appoggiato al parapetto deve essere senza soluzione di continuità passando da una rampa alla successiva. Per le rampe di larghezza superiore a m. 1,80 ci deve essere un corrimano sui due lati ed il corrimano appoggiato alle pareti deve essere prolungato di m. 0,30 oltre il primo e l'ultimo gradino. In caso di utenza predominante di bambini si deve prevedere un secondo corrimano ad altezza proporzionata all'età degli utenti.</h:p>
+							<h:p>Eventuali difese verso il vuoto devono essere attuate mediante prospetti con una altezza minima pari a m. 1,00.</h:p>
+							<h:p>5.3.2 Rampe</h:p>
+							<h:p>L'integrazione dei collocamenti verticali interni può essere attuata con eventuali rampe e/o ripiani. Rampe e ripiani interni devono rispettare le caratteristiche richieste per le rampe facenti parte di percorsi pedonali esterni. Ogni m. 10 di lunghezza od in presenza di interruzioni mediante porte, la rampa deve presentare un ripiano di lunghezza minima pari a m. 1,50 al netto dell'ingombro di apertura di eventuali porte. La rampa deve essere dotata di corrimano a m. 0,90 di altezza e di cordoni laterali di protezione.</h:p>
+							<h:p>5.3.3 Ascensori</h:p>
+							<h:p>Per garantire il servizio a tutti i locali, il numero e le caratteristiche degli ascensori dovranno essere proporzionali alle destinazioni dell' edificio, alle presenze, ai tempi di smaltimento, di attesa ed al numero di fermate.</h:p>
+							<h:p>Le indicazioni ai piani ed all'interno dell'ascensore dovranno essere percettibili con suono tattilmente sulle bottoniere interne ed esterne:</h:p>
+							<h:p>nell'interno della cabina, oltre il campanello d'allarme deve essere posto un citofono;</h:p>
+							<h:p>bottoniere, campanello d'allarme e citofono dovranno essere posti ad una altezza compresa fra i m. 0,80 e i m. 1,20.</h:p>
+							<h:p>In tutti gi edifici, di cui all'art. 4 della legge con più di un piano fuori terra deve essere previsto almeno un ascensore con le seguenti caratteristiche:</h:p>
+							<h:p>una lunghezza di m. 1,50 ed una larghezza di m. 1.37;</h:p>
+							<h:p>avere una porta di scorrimento laterale con una luce netta di almeno cm. 90.</h:p>
+							<h:p>Negli edifici di edilizia residenziale abitativa con più di tre piani fuori terra l'accesso agli alloggi deve essere garantito da almeno un ascensore con le seguenti dimensioni minime:</h:p>
+							<h:p>lunghezza m. 1,30 e larghezza m.0,90;</h:p>
+							<h:p>porta a scorrimento laterale, sul lato più corto, con una luce netta di m. 0,85</h:p>
+							<h:p>5.3.4 Pedane elevatrici e Piattaforme mobili</h:p>
+							<h:p>Negli interventi su edifici esistenti con meno di tre piani fuori terra sono consentiti, in via subordinata ad ascensori e rampe, impianti alternativi servo-assistiti per il trasporto verticale di persone quali, ad esempio, pedane e piattaforme mobili.</h:p>
+							<h:p>Tali impianti speciali dovranno avere spazi di accesso e dimensioni tali da garantire l'utilizzo da parte di persone in carrozzella e, se esterni, dovranno essere protetti dagli agenti atmosferici.</h:p>
+							<h:p>5.4 Locali igienici</h:p>
+							<h:p>In tutte le costruzioni e le strutture, ad esclusione di quelle ad uso residenziale abitativo, al fine di consentire l'utilizzazione dei locali igienici anche da parte di persone a ridotte o impedite capacità fisiche, almeno un locale igienico deve essere accessibile mediante un percorso continuo orizzontale o raccordato con rampe e garantire le seguenti prestazioni minime:</h:p>
+							<h:p>porte apribili verso l'esterno o scorrevoli e spazio libero interno per garantire la rotazione di una carrozzina o comunque non inferiore m. 1,35 x 1,50 tra gli apparecchi sanitari e l'ingombro di apertura delle porte;</h:p>
+							<h:p>spazio per l'accostamento laterale della carrozzina alla tazza del gabinetto, se presente, alla doccia od alla eventuale vasca da bagno;</h:p>
+							<h:p>dotazione degli opportuni corrimani orizzontali e verticali realizzati con tubo di acciaio e di un campanello di emergenza posto in prossimità della tazza del gabinetto.</h:p>
+							<h:p>5.5 Pavimenti</h:p>
+							<h:p>I pavimenti all'interno della struttura edilizia, ove necessario, possono contribuire ad una chiara individuazione dei percorsi e ad una eventuale distinzione dei vari ambienti di uso, mediante una adeguata variazione nel materiale e nel colore ed, in particolare, devono garantire le seguenti caratteristiche prestazionali:</h:p>
+							<h:p>essere antisdruciolevoli e pertanto realizzati con idonei materiali che ne garantiscono anche la perfetta planarità e continuità;</h:p>
+							<h:p>non presentare variazioni anche minime di livello, quali ad esempio quelle dovute a zerbini non incassati o guide di risalto.</h:p>
+							<h:p>5.6 Infissi: Porte – Finestre – Parapetti</h:p>
+							<h:p>Al fine di rendere agevole l'uso delle porte, queste devono essere di facile manovrabilità anche da parte di persone con ridotte o impedite capacità fisiche; devono avere dimensioni tali da permettere il facile passaggio anche di persone su carrozzina tenendo presente a tal fine che le dimensioni medie di una carrozzina cm. 75 di larghezza e cm. 1,10 di lunghezza, devono essere evitati spigoli, riporti, cornici sporgenti e quanto altro atto a recare possibile danno in caso di rottura.</h:p>
+							<h:p>Nei locali nei quali normalmente si verifica la permanenza di persone devono essere adottati:</h:p>
+							<h:p>sistemi di apertura e di chiusura di infissi che prendano in considerazione tutte le soluzioni che, posti ad altezza di m. 0,90 nelle porte e di m. 1,20 nelle finestre, ne facilitano la percezione, le manovre di apertura e chiusura da parte dei soggetti con ridotte o impedite capacità fisiche e che non siano di impedimento al passaggio, è da preferire l'uso di maniglie di leva;</h:p>
+							<h:p>modalità esecutive per finestre e parapettidi balconi tali da consentire la visuale tra interno ed esterno anche ai non deambulanti in carrozzina.</h:p>
+							<h:p>5.7 Attrezzature di uso comune: Apparecchi elettrici – Cassette per la corrispondenza</h:p>
+							<h:p>Gli apparecchi elettrici manovrabili da parte della generalità delle persone, come gli apparecchi di comando, i citofoni, gli interruttori ed i campanelli di allarme, devono essere posti, preferibilmente ad una altezza di m. 1,20 dal pavimento.</h:p>
+							<h:p>Le prese di corrente dovranno essere poste ad una altezza minima di m. 0,45.</h:p>
+							<h:p>Piastre e pulsanti devono essere facilmente individuabili e visibili anche nel caso di illuminazione nulla.</h:p>
+							<h:p>In tutti gli apparecchi elettrici di segnalazione devono essere posti nei vari ambienti in posizione tale da consentire la immediata percezione visiva ed acustica.</h:p>
+							<h:p>Tutti gli edifici che comportano la presenza di cassette per la raccolta della corrispondenza, è necessario prevederne almeno una di cui l' accessorio più alto si trovi tra 0,90 e 1,20 m. di altezza.</h:p>
+							<h:p>6. Costruzioni edilizie: Prescrizioni specifiche</h:p>
+							<h:p>6.1 Edilizia abitativa: Alloggio</h:p>
+							<h:p>
+								Gli alloggi degli edifici di uso residenziale abitativo di cui all'art. 4 della legge, devono sempre garantire la visitabilità e l' adattabilità secondo le disposizioni di cui all'
+								<rif xlink:href="#art7-com12" xlink:type="simple">art. 7, comma 12</rif>
+								della presente legge.
+							</h:p>
+							<h:p>6.1.1 Visitabilità</h:p>
+							<h:p>Per garantire la visitabilità di un alloggio alle persone disabili è necessario siano rispettate le seguenti minime prescrizioni:</h:p>
+							<h:p>a) le porte di ingresso alle unità abitative devono permettere il passaggio di una carrozzina e comunque avere la larghezza non inferiore a m. 0,90;</h:p>
+							<h:p>b) le porte interne di accesso alla zona giorno e ad un servizio igienico devono avere una dimensione non inferiore a m. 0,80</h:p>
+							<h:p>6.1.2 Adattabilità</h:p>
+							<h:p>Gli alloggi si dicono adattabili, quando, tramite l'esecuzione di lavori che non modificano né la struttura né la rete degli impianti comuni degli edifici, possono essere resi idonei alla necessità delle persone disabili garantendo le seguenti minime prescrizioni:</h:p>
+							<h:p>a) CORRIDOI: larghezza non inferiore a m. 1,20 in caso di corridoi lungo i quali si aprono porte ed in corrispondenza ad un angolo retto del corridoio stesso;</h:p>
+							<h:p>b) CUCINA: larghezza di passaggio interno di m. 1,50 oppure spazio libero interno di almeno m. 1,35 x 1,50 tra i mobili, le apparecchiature e l'ingombro di apertura delle porte;</h:p>
+							<h:p>c) BAGNO: spazio libero interno per garantire la rotazione di una carrozzina o comunque non inferiore a m. 1,35 x 1,50 tra gli apparecchi sanitari e l' ingombro di apertura delle porte, che devono essere apribili preferibilmente verso l'esterno o scorrevoli, spazio per l'accostamento della carrozzina alla vasca da bagno ed alla tazza del gabinetto;</h:p>
+							<h:p>d) CAMERA: spazio libero interno per garantire la rotazione di una carrozzina e larghezza di passaggio di m. 0,90 sui due lati di un letto a due piazze ed almeno ad un lato di un letto ad una piazza e di m. 1,10 ai piedi del letto stesso.</h:p>
+							<h:p>6.1.2. Edilizia sociale</h:p>
+							<h:p>Gli edifici e/o gli ambienti destinati a strutture sociali quali, ad esempio, strutture scolastiche, sanitarie, assistenziali, culturali, sportive, dovranno essere tali da assicurare la loro utilizzazione anche da parte di utenti a ridotte o impedite capacità fisiche.</h:p>
+							<h:p>L'arredamento e le attrezzature necessarie per assicurare lo svolgimento delle rispettive specifiche attività dovranno avere caratteristiche prestazionali per ogni caso di invalidità.</h:p>
+							<h:p>Per gli alloggi pubblici destinati a comunità devono essere osservati anche gli standards previsti dalle normative e dai piano regionali di settore.</h:p>
+							<h:p>6.3 Sale e luoghi per riunioni e spettacoli</h:p>
+							<h:p>Al fine di consentire la più ampia partecipazione alla vita associativa, ricreativa e culturale, nei luoghi per riunioni o spettacoli facenti parte di edifici di interesse sociale, almeno una zona deve essere utilizzabile anche da persone a ridotte o impedite capacità fisiche e tale zona deve garantire le seguenti prestazioni minime:</h:p>
+							<h:p>a) essere raggiungibile preferibilmente mediante un percorso continuo e raccordato con rampe o mediante ascensore in alternativa ad un percorso con scale;</h:p>
+							<h:p>b) essere dotata di stalli liberi riservati per le persone utilizzanti sedie a rotelle in un numero pari ad un posto per ogni duecento o frazione di duecento posti;</h:p>
+							<h:p>c) gli stalli liberi riservati alle persone con difficoltà di deambulazione devono essere di facile accesso, ricavati tra le file dei posti e lo stallo, su pavimento orizzontale, deve avere dimensioni da garantire la manovra e lo stanziamento di una carrozzina;</h:p>
+							<h:p>d) nelle nuove costruzioni e, ove possibile, negli interventi successivi, deve essere prevista, se realizzata, l'accessibilità al palco e l' adeguamento di almeno un camerino spogliatoio anche per persone in carrozzina.</h:p>
+							<h:p>6.4 Locali pubblici</h:p>
+							<h:p>All'interno dei locali di servizio pubblico o aperti al pubblico, la disposizione e le caratteristiche degli arredi dovranno garantire la possibilità di utilizzo e movimento anche a persone in carrozzina ed in particolare dovranno essere garantite le seguenti prestazioni minime:</h:p>
+							<h:p>all'interno di banche, uffici amministrativi, supermercati, ecc., i balconi e i piani di appoggio utilizzati per le normali operazioni dal pubblico, dovranno essere predisposti in modo che almeno una parte di essi siano accostabili da una carrozzina e permettono al disabile di espletare tutti i servizi;</h:p>
+							<h:p>nel caso di adozione di bussole, percorsi obbligati, cancellati a spinta, ecc., occorre che questi siano dimensionati in modo da garantire il passaggio di una carrozzina;</h:p>
+							<h:p>eventuali sistemi di apertura e chiusura, se automatici, devono essere temporalizzati in modo da permettere un agevole passaggio anche ai disabili su carrozzina.</h:p>
+							<h:p>6.5 Stazioni</h:p>
+							<h:p>Per i trasporti pubblici di persone, di competenza regionale, provinciale o comunale, deve sempre essere assicurata la possibilità di accedere in piano alle stazioni e/o ai mezzi di trasporto alle persone con difficoltà di deambulazione, nonché a quelle con difficoltà dell' udito e della vista. Nelle stazioni tutti i servizi per i viaggiatori dovranno essere resi accessibili anche da parte di persone con ridotte o impedite capacità fisiche.</h:p>
+							<h:p>6.6 Mense e servizi dei luoghi pubblici e privati</h:p>
+							<h:p>Mense, spogliatoi e gli altri servizi dei luoghi di lavoro dovranno essere resi accessibili anche agli addetti con ridotte o impedite capacità fisiche.</h:p>
+							<h:p>7. Attrezzature pubbliche</h:p>
+							<h:p>Al fine di consentire che le attrezzature pubbliche, quali telefoni, cassette postali pubbliche, rivendite automatiche, sportelli bancomat, ecc., possano essere utilizzate anche da persone con ridotte o impedita capacità fisica, dovranno essere adottati i seguenti criteri:</h:p>
+							<h:p>gli impianti devono essere dislocati secondo le esigenze prioritarie che saranno segnalate da parte dei singoli Comuni e comunque in modo razionale sul territorio al fine di non lasciare zone sprovviste;</h:p>
+							<h:p>nei posti pubblici almeno uno di ciascuno degli apparecchi presenti deve essere posto in modo raggiungibile tramite percorso orizzontale ed in modo che gli accessori necessari per l'utilizzo dell'apparecchio si trovino ad una altezza compresa fra m. 0,80 e m. 1,20.</h:p>
+						</contenitore>
+						<formulafinale />
+						<conclusione />
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</LeggeRegionale>
+	</NIR>

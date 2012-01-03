@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20021001" num="21" tipo="BURM" />
+					<entratainvigore norm="20021002" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2002-09-27;22" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20021002" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20030226" fonte="rp1" id="t2" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2002-09-27;22" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2003;9" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 21 del 1 ottobre 2002 Oggetto Modifiche - Integrazioni alla Legge regionale 2 agosto 2002 n.16 Abrogazioni Modifiche Modificato art. 2 dalla legge n. 9/2003 art. 2?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20020927">27 settembre 2002</dataDoc>
+				, n.
+				<numDoc>22</numDoc>
+				<titoloDoc>
+					Modifica dell'
+					<rif xlink:href="urn:nir:regione.molise:legge:2002-08-02;16#art2-com7" xlink:type="simple">articolo 2, comma 7</rif>
+					ed integrazione dell'
+					<rif xlink:href="urn:nir:regione.molise:legge:2002-08-02;16#art8" xlink:type="simple">articolo 8 della legge regionale 2 agosto 2002 n. 16</rif>
+					, concernente: "Nuove disposizioni sulle nomine di competenza regionale".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Articolo 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2002-08-02;16#art2" xlink:type="simple">articolo 2 della legge regionale 2 agosto 2002 n. 16</rif>
+								, al comma 7, le parole "
+								<virgolette id="mod1-vir1" tipo="parola">lo stesso</virgolette>
+								" sono sostituite dalle seguenti "
+								<virgolette id="mod1-vir2" tipo="parola">gli organismi di cui all'articolo 1 della presente legge</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Articolo 2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod2">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2002-08-02;16#art8" xlink:type="simple">articolo 8 della legge regionale 2 agosto 2002 n. 16</rif>
+								, è inserito il comma 1 bis: "
+								<virgolette id="mod2-vir1" tipo="struttura">
+									<comma id="mod2-vir1-com1bis">
+										<num>1 bis.</num>
+										<corpo>
+											Per le nomine riguardanti gli enti, le cui proposte legislative di riordino risultino essere state presentate alla data del 31 agosto 2002, il termine di cui all'
+											<rif xlink:href="urn:nir:stato:legge:2002-08-02;16#art8-com1" xlink:type="simple">articolo 8, comma 1 della legge 2 agosto 2002 n. 16</rif>
+											, è di centottanta giorni.
+										</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod3">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2002-08-02;16#art8-com2" xlink:type="simple">articolo 8, comma 2 della legge regionale 2 agosto 2002 n. 16</rif>
+								, le parole "
+								<virgolette id="mod3-vir1" tipo="parola">al comma 1</virgolette>
+								" sono sostituite con le parole "
+								<virgolette id="mod3-vir2" tipo="parola">ai commi 1 e 1bis</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art2-com3">
+						<num>3.</num>
+						<corpo>
+							<mod id="mod4">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2002-08-02;16#art8-com3" xlink:type="simple">articolo 8, comma 3 della legge regionale 2 agosto 2002 n. 16</rif>
+								, le parole "
+								<virgolette id="mod4-vir1" tipo="parola">al comma 1</virgolette>
+								" sono sostituite con le parole "
+								<virgolette id="mod4-vir2" tipo="parola">ai commi 1 e 1bis</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art2-com4">
+						<num>4.</num>
+						<corpo>
+							<mod id="mod5">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2002-08-02;16#art8-com4" xlink:type="simple">articolo 8, comma 4 della legge regionale 2 agosto 2002 n. 16</rif>
+								, il primo periodo è così sostituito: "
+								<virgolette id="mod5-vir1" tipo="parola">Per i fini di cui ai commi 1, 1bis e 2</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Articolo 3</num>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. E' fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20021001" num="21" tipo="BURM" />
+					<entratainvigore norm="20021002" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2002-09-25;21" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20021002" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2002-09-25;21" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 21 del 1 ottobre 2002 Oggetto Modifiche - Integrazioni alla legge regionale 1° dicembre 1999 n. 37.?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20020925">25 settembre 2002</dataDoc>
+				, n.
+				<numDoc>21</numDoc>
+				.
+				<titoloDoc>
+					Modifiche ed integrazioni alla
+					<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37" xlink:type="simple">legge regionale 1 dicembre 1999 n. 37</rif>
+					, ad oggetto "Istituzione dell'azienda speciale regionale, denominata: 'Molise Acque' "
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art1" xlink:type="simple">articolo 1 (Trasformazione dell'ERIM in azienda speciale) della legge regionale 1° dicembre 1999 n. 37</rif>
+								, sono aggiunti i seguenti commi: "
+								<virgolette id="mod1-vir1" tipo="struttura">
+									<comma id="mod1-vir1-com2">
+										<num>2.</num>
+										<corpo>L'azienda è ente pubblico economico, dotato di personalità giuridica, di autonomia imprenditoriale e di autonomia statutaria.</corpo>
+									</comma>
+									<comma id="mod1-vir1-com3">
+										<num>3.</num>
+										<corpo>l'azienda esercita attività d'impresa secondo i principi di efficienza, di efficacia e di economicita; adotta i moduli organizzatori più conformi ai richiamati principi ed è iscritta nel registro delle imprese</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod2">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art2" xlink:type="simple">articolo 2 della legge regionale 1° dicembre 1999 n. 37</rif>
+								, è così sostituito: "
+								<virgolette id="mod2-vir1" tipo="struttura">
+									<articolo id="mod2-vir1-art2">
+										<num>Art. 2</num>
+										<rubrica>Sede</rubrica>
+										<comma id="mod2-vir1-art2-com1">
+											<num>1.</num>
+											<corpo>L'Azienda ha sede centrale e legale in Campobasso ed uffici decentrati sul territorio</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod3">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art5" xlink:type="simple">articolo 5 (Registro delle imprese) della legge regionale 1° dicembre 1999 n. 37</rif>
+								, è così sostituito: "
+								<virgolette id="mod3-vir1" tipo="struttura">
+									<articolo id="mod3-vir1-art5">
+										<num>Art. 5</num>
+										<rubrica>Partecipazione dell'azienda a società</rubrica>
+										<comma id="mod3-vir1-art5-com1">
+											<num>1.</num>
+											<corpo>L'azienda può partecipare a società di capitali o concorrere alla costituzione di società di capitali per l'espletamento di attività strumentali o di supporto ai servizi pubblici svolti dall'azienda stessa</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod4">
+								Al
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art6-com1" xlink:type="simple">comma 1 dell'articolo 6 (Capitale di dotazione) della legge regionale 1° dicembre 1999 n. 37</rif>
+								, le parole "
+								<virgolette id="mod4-vir1" tipo="parola">pari a cinque miliardi</virgolette>
+								" (2.582.284,4 euro) sono sostituite dalle parole "
+								<virgolette id="mod4-vir2" tipo="parola">pari a euro 1 milione</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod5">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art6" xlink:type="simple">articolo 6 della legge regionale 1° dicembre 1999 n. 37</rif>
+								, è aggiunto il seguente comma: "
+								<virgolette id="mod5-vir1" tipo="struttura">
+									<comma id="mod5-vir1-com2">
+										<num>2.</num>
+										<corpo>Ulteriori aumenti di capitale possono essere deliberati dalla Giunta regionale anche su richiesta del Consiglio di amministrazione dell'Ente</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art.5</num>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod6">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art9" xlink:type="simple">articolo 9 (Composizione del Consiglio di Amministrazione) della legge regionale 1° dicembre 1999 n. 37</rif>
+								, è così sostituito: "
+								<virgolette id="mod6-vir1" tipo="struttura">
+									<articolo id="mod6-vir1-art9">
+										<num>Art. 9</num>
+										<rubrica>Composizione del Consiglio di Amministrazione</rubrica>
+										<comma id="mod6-vir1-art9-com1">
+											<num>1.</num>
+											<corpo>Il Consiglio di Amministrazione è composto di cinque membri nominati dal Consiglio regionale, con voto limitato a tre.</corpo>
+										</comma>
+										<comma id="mod6-vir1-art9-com2">
+											<num>2.</num>
+											<corpo>Il Presidente è nominato con decreto del Presidente della Giunta regionale su conforme deliberazione della Giunta stessa anche al di fuori dei componenti il Consiglio di Amministrazione</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod7">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art11-com1" xlink:type="simple">comma 1 dell'articolo 11 (Il Presidente) della legge regionale 1° dicembre 1999 n. 37</rif>
+								, è così sostituito. "
+								<virgolette id="mod7-vir1" tipo="struttura">
+									<comma id="mod7-vir1-com1">
+										<num>1.</num>
+										<corpo>Il Presidente ha la rappresentanza legale dell'Azienda</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod8">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art12-com1" xlink:type="simple">comma 1 dell'articolo 12 (Il Direttore generale) della legge regionale 1° dicembre 1999 n. 37</rif>
+								, è così sostituito: "
+								<virgolette id="mod8-vir1" tipo="struttura">
+									<comma id="mod8-vir1-com1">
+										<num>1.</num>
+										<corpo>Il Direttore Generale è nominato dal consiglio di Amministrazione dell'Azienda secondo i criteri stabiliti dallo statuto</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art7-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod9">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art12" xlink:type="simple">art. 12 (Il Direttore generale) della legge regionale 1° dicembre 1999 n. 37</rif>
+								, sono aggiunti i seguenti commi: "
+								<virgolette id="mod9-vir1" tipo="struttura">
+									<comma id="mod9-vir1-com2">
+										<num>2.</num>
+										<corpo>La nomina del Direttore generale ha la durata di cinque anni e può essere confermata;</corpo>
+									</comma>
+									<comma id="mod9-vir1-com3">
+										<num>3.</num>
+										<alinea>Il Direttore è investito dei seguenti compiti e poteri:</alinea>
+										<el id="mod9-vir1-com3-leta">
+											<num>a)</num>
+											<corpo>ha la piena responsabilità gestionale di cui all'art. 114 del Testo Unico degli Enti Locali;</corpo>
+										</el>
+										<el id="mod9-vir1-com3-letb">
+											<num>b)</num>
+											<corpo>formula proposte al Consiglio di amministrazione;</corpo>
+										</el>
+										<el id="mod9-vir1-com3-letc">
+											<num>c)</num>
+											<corpo>esegue le deliberazioni del Consiglio di amministrazione, al quale sottopone lo schema del bilancio pluriennale e preventivo e del bilancio d'esercizio;</corpo>
+										</el>
+										<el id="mod9-vir1-com3-letd">
+											<num>d)</num>
+											<corpo>
+												promuove e resiste alle liti ed ha il potere di conciliare e transigere nell'ambito delle funzioni di cui all'
+												<rif xlink:href="urn:nir:stato:decreto.legislativo:1993;29#art16" xlink:type="simple">art. 16 del decreto legislativo n. 29/1993</rif>
+												, così come sostituito dall'
+												<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;80#art11" xlink:type="simple">art. 11 del decreto legislativo n. 80/1998</rif>
+												;
+											</corpo>
+										</el>
+										<el id="mod9-vir1-com3-lete">
+											<num>e)</num>
+											<corpo>espleta ogni attività e potere non attribuito al Consiglio di amministrazione, al Presidente o ai dirigenti</corpo>
+										</el>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod10">
+								Al
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art13-com1" xlink:type="simple">comma 1 dell'articolo 13 (Il Collegio Sindacale) della legge 1° dicembre 1999 n. 37</rif>
+								, la parola "
+								<virgolette id="mod10-vir1" tipo="parola">eletti</virgolette>
+								" è sostituita dalla parola "
+								<virgolette id="mod10-vir2" tipo="parola">nominati</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art8-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod11">
+								Alla
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art13-com3-leta" xlink:type="simple">lettera a) del comma 3 dell'articolo 13 della legge regionale 1° dicembre n. 37</rif>
+								, le parole "
+								<virgolette id="mod11-vir1" tipo="parola">sulla gestione</virgolette>
+								" sono sostituite dalle parole "
+								<virgolette id="mod11-vir2" tipo="parola">sugli aspetti contabili</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art8-com3">
+						<num>3.</num>
+						<corpo>
+							<mod id="mod12">
+								Al
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art13-com4" xlink:type="simple">comma 4 dell'articolo 13 della legge regionale 1° dicembre 1999 n. 37</rif>
+								, la parola "
+								<virgolette id="mod12-vir1" tipo="parola">eletti</virgolette>
+								" è sostituita dalla parola "
+								<virgolette id="mod12-vir2" tipo="parola">nominati</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod13">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art14" xlink:type="simple">articolo 14 (Statuto dell'Azienda) della legge regionale 1° dicembre 1999 n.37</rif>
+								, è così sostituito. "
+								<virgolette id="mod13-vir1" tipo="struttura">
+									<articolo id="mod13-vir1-art14">
+										<num>Art. 14</num>
+										<rubrica>Statuto dell'Azienda</rubrica>
+										<comma id="mod13-vir1-art14-com1">
+											<num>1.</num>
+											<corpo>Lo Statuto dell'Azienda è approvato dal Consiglio regionale.</corpo>
+										</comma>
+										<comma id="mod13-vir1-art14-com2">
+											<num>2.</num>
+											<corpo>Le eventuali successive modifiche, contenenti le norme di funzionamento amministrativo , contabile e tecnico, sono approvate dalla Giunta regionale, sentito il Consiglio di Amministrazione dell'Azienda</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Art. 10</num>
+					<comma id="art10-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod14">
+								La rubrica dell'
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art15" xlink:type="simple">articolo 15</rif>
+								"
+								<virgolette id="mod14-vir1" tipo="parola">Controllo sugli atti</virgolette>
+								" della
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37" xlink:type="simple">legge regionale 1° dicembre 1999 n. 37</rif>
+								, è sostituita dalla seguente: "
+								<virgolette id="mod14-vir2" tipo="parola">Approvazione degli atti fondamentali</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art10-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod15">
+								Al
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art15-com1" xlink:type="simple">comma 1 dell'articolo 15 della legge regionale 1° dicembre 1999 n. 37</rif>
+								, dopo le parole "
+								<virgolette id="mod15-vir1" tipo="parola">Gli atti fondamentali del Consiglio di Amministrazione</virgolette>
+								" sono aggiunte le parole "
+								<virgolette id="mod15-vir2" tipo="parola">-il piano-programma, i bilanci economici di previsione pluriennale ed annuale, il bilancio di esercizio, il contratto di servizio, la carta dei servizi-</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art10-com3">
+						<num>3.</num>
+						<corpo>
+							<mod id="mod16">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art15-com2" xlink:type="simple">comma 2</rif>
+								ed il
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art15-com3" xlink:type="simple">comma 3 dell'articolo 15 della legge regionale 1° dicembre 1999 n. 37</rif>
+								, sono soppressi.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art11">
+					<num>Art.11</num>
+					<comma id="art11-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod17">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art17" xlink:type="simple">articolo 17 (Utili di gestione) della legge regionale 1° dicembre 1999 n. 37</rif>
+								, è così sostituito: "
+								<virgolette id="mod17-vir1" tipo="struttura">
+									<articolo id="mod17-vir1-art17">
+										<num>Art. 17</num>
+										<rubrica>Utili di gestione</rubrica>
+										<comma id="mod17-vir1-art17-com1">
+											<num>1.</num>
+											<corpo>L'Azienda ha l'obbligo del pareggio di bilancio, in conformità all'art. 114 del Testo Unico degli Enti locali.</corpo>
+										</comma>
+										<comma id="mod17-vir1-art17-com2">
+											<num>2.</num>
+											<corpo>Gli eventuali utili di gestione vengono utilizzati secondo le previsioni statutarie</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art12">
+					<num>Art.12</num>
+					<comma id="art12-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod18">
+								All'
+								<rif xlink:href="urn:nir:stato:legge:1999-12-01;37#art20" xlink:type="simple">articolo 20 della legge 1° dicembre 1999 n. 37</rif>
+								, è inserito il seguente comma 2 bis: "
+								<virgolette id="mod18-vir1" tipo="struttura">
+									<comma id="mod18-vir1-com2bis">
+										<num>2 bis.</num>
+										<corpo>La disciplina generale dello status giuridico e del trattamento economico del personale dell'Azienda è quella risultante dal C.C.N.L. del personale del comparto delle Regioni e delle Autonomie locali</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art12-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod19">
+								Il
+								<rif xlink:href="urn:nir:stato:legge:1999-12-01;37#art20-com3" xlink:type="simple">comma 3 dell'articolo 20 della legge 1° dicembre 1999 n. 37</rif>
+								, è sostituito dal seguente: "
+								<virgolette id="mod19-vir1" tipo="struttura">
+									<comma id="mod19-vir1-com3">
+										<num>3.</num>
+										<corpo>È consentita, a domanda del personale interessato, l'opzione per transitare nel ruolo organico regionale, qualora vi siano posti vacanti nei corrispondenti profili e figure professionali, con provvedimento assunto d'intesa con le Organizzazioni sindacali e previo benestare del servizio regionale interessato e della direzione generale dell'Azienda</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art12-com3">
+						<num>3.</num>
+						<corpo>
+							<mod id="mod20">
+								Il
+								<rif xlink:href="urn:nir:stato:legge:1999-12-01;37#art20-com5" xlink:type="simple">comma 5 dell'articolo 20 della legge 1° dicembre 1999 n. 37</rif>
+								, è sostituito dal seguente; "
+								<virgolette id="mod20-vir1" tipo="struttura">
+									<comma id="mod20-vir1-com5">
+										<num>5.</num>
+										<corpo>La nuova dotazione organica e le materie riguardanti il personale sono adottate dal Consiglio di Amministrazione su proposta del Direttore generale, previa consultazione con le Organizzazioni sindacali, entro sei mesi dalla costituzione dell'Azienda stessa</corpo>
+									</comma>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art13">
+					<num>Art 13</num>
+					<comma id="art13-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod21">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art21" xlink:type="simple">articolo 21 (Disposizioni sul capitale di dotazione e sul patrimonio) della legge regionale 1° dicembre 1999 n. 37</rif>
+								, è così sostituito: "
+								<virgolette id="mod21-vir1" tipo="struttura">
+									<articolo id="mod21-vir1-art21">
+										<num>Art. 21</num>
+										<rubrica>Disposizioni sul capitale di dotazione, sul patrimonio, sulle concessioni e patrimonio dismesso</rubrica>
+										<comma id="mod21-vir1-art21-com1">
+											<num>1.</num>
+											<corpo>Il capitale di dotazione dell'Azienda è costituito dal capitale conferito dalla Regione e dai beni immobili assegnati alla stessa.</corpo>
+										</comma>
+										<comma id="mod21-vir1-art21-com2">
+											<num>2.</num>
+											<corpo>
+												Il patrimonio conferito all'ERIM dall'
+												<rif xlink:href="urn:nir:regione.molise:legge:1980-09-02;31#art15" xlink:type="simple">articolo 15 della legge regionale 2 settembre 1980 n. 31</rif>
+												, è da intendersi patrimonio regionale, dato in gestione all'Azienda per le sue finalità di legge.
+											</corpo>
+										</comma>
+										<comma id="mod21-vir1-art21-com3">
+											<num>3.</num>
+											<corpo>Per effetto della trasformazione, l'Azienda Speciale subentra nella proprietà del patrimonio dell'ERIM quale risultante delle scritture contabili, dal libro degli inventari e dal registro dei beni ammortizzabili di quest'ultimo.</corpo>
+										</comma>
+										<comma id="mod21-vir1-art21-com4">
+											<num>4.</num>
+											<corpo>
+												L'Azienda ha la piena disponibilità del patrimonio aziendale secondo il regime della proprietà privata, fermo restando il disposto di cui all'
+												<rif xlink:href="urn:nir:stato:codice.civile:1942-03-16;262#art830-com2" xlink:type="simple">art. 830, comma 2 del codice civile</rif>
+												, limitatamente ai beni dati in gestione dall'Amministrazione.
+											</corpo>
+										</comma>
+										<comma id="mod21-vir1-art21-com5">
+											<num>5.</num>
+											<corpo>L'Azienda è autorizzata alla vendita del patrimonio a servizio delle opere acquedottistiche dimesse o da dimettere. La vendita avviene al prezzo di mercato mediante procedimento ad evidenza pubblica con diritto di prelazione da parte dei proprietari espropriati e da parte dei frontisti. L'Azienda è altresì autorizzata a rilasciare, a titolo oneroso, concessioni d'uso del patrimonio. Le strade a servizio delle opere acuedottistiche possono essere affidate in gestione ai Comuni. Vendita e concessioni sono disciplinate dall'apposito regolamento approvato dal Consiglio di Amministrazione su proposta del Direttore generale</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art14">
+					<num>Art. 14</num>
+					<rubrica>Pubblicazione</rubrica>
+					<comma id="art14-com1">
+						<num>1.</num>
+						<corpo>La presente legge è pubblicata sul Bollettino Ufficiale della Regione Molise ed entra in vigore il giorno successivo a quello della sua pubblicazione.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. E' fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

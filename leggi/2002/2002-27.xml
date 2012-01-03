@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20021031" num="23" tipo="BURM"/>
-                <entratainvigore norm="20021115"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2002-10-28;27"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="11.enti locali, comunit&amp;#xe0; montane"/>
-                </materie>
-            </descrittori>
-        </meta><?error 11.Enti locali, comunità montane 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20021031" num="23" tipo="BURM" />
+					<entratainvigore norm="20021101" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2002-10-28;27" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="11.enti locali, comunità montane" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20021101" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2002-10-28;27" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 11.Enti locali, comunità montane 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 23 del 31 ottobre 2002 
@@ -27,238 +36,299 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc
-                    norm="20021028">28 ottobre 2002</dataDoc>, n. <numDoc>27</numDoc>. 
- 
-<titoloDoc>Integrazioni e modificazioni alla <rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12">legge regionale 8 luglio 2002 n. 12</rif>, concernente: "Riordino e ridefinizione delle Comunità Montane" 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1 </num>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-                    <alinea>
-                        <mod id="art1-com1-mod1">   La <rif
-                                xlink:href="urn:nir:regione.molise:legge:2002-07-08;12">legge regionale 8 luglio 2002 n. 12</rif>, concernente: "<virgolette id="art1-com1-mod1-vir1">Riordino e ridefinizione delle Comunità Montane</virgolette>", è modificata ed integrata come segue: 
- 
-</mod>
-                    </alinea>
-                    <el id="art1-com1-leta">
-                        <num> a)</num>
-                        <corpo>
-                            <mod
-                                    id="art1-com1-leta-mod2">  al primo comma dell'articolo 3, dopo le parole: &lt;&lt;<virgolette
-                                    id="art1-com1-leta-mod2-vir2">(ANCI-UNCEM)</virgolette>&gt;&gt; è aggiunta, all'interno della parentesi, l'espressione: &lt;&lt;<virgolette id="art1-com1-leta-mod2-vir3">-Lega delle autonomie locali</virgolette>&gt;&gt;;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art1-com1-letb">
-                        <num> 
- 
- b)</num>
-                        <corpo>
-                            <mod
-                                    id="art1-com1-letb-mod3">  al secondo comma dell'articolo 3, la parola: &lt;&lt;<virgolette
-                                    id="art1-com1-letb-mod3-vir4">trenta</virgolette>&gt;&gt; è sostituita con &lt;&lt;<virgolette id="art1-com1-letb-mod3-vir5">novanta</virgolette>&gt;&gt;;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art1-com1-letc">
-                        <num> 
- 
- c)</num>
-                        <corpo>
-                            <mod
-                                    id="art1-com1-letc-mod4">  al terzo comma dell'articolo 3, l'espressione: &lt;&lt;<virgolette
-                                    id="art1-com1-letc-mod4-vir6">quarantacinque giorni</virgolette>&gt;&gt; è sostituita dall'espressione: &lt;&lt;<virgolette id="art1-com1-letc-mod4-vir7">centoventi</virgolette>&gt;&gt;;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art1-com1-letd">
-                        <num> 
- 
- d)</num>
-                        <corpo>
-                            <mod
-                                    id="art1-com1-letd-mod5">  al secondo comma dell'articolo 6, dopo &lt;&lt;<virgolette
-                                    id="art1-com1-letd-mod5-vir8">articolo 4</virgolette>&gt;&gt;, è aggiunto: &lt;&lt;<virgolette
-                                    id="art1-com1-letd-mod5-vir9" tipo="parola">,dettando, ove necessario, pure le disposizioni per la successione, anche parziale, tra le preesistenti Comunità montane e quelle di eventuale nuova costituzione nonché per l'eventuale soppressione della Comunità Montana e del trasferimento del personale ad altro ente.</virgolette>&gt;&gt;;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art1-com1-lete">
-                        <num> 
- 
- e)</num>
-                        <corpo>
-                            <mod
-                                    id="art1-com1-lete-mod6">  al primo comma dell'articolo 7, alla fine del primo periodo, è aggiunto: &lt;&lt;<virgolette
-                                    id="art1-com1-lete-mod6-vir10"
-                                    tipo="parola">Tali Comunità subentrano nei rapporti giuridici e patrimoniali delle preesistenti Comunità montane costituite per effetto della <rif xlink:href="urn:nir:regione.molise:legge:1973-05-30;11">legge regionale 30 maggio 1973, n. 11</rif> e ne ricevono il personale, che conserva le posizioni giuridiche ed economiche acquisite.</virgolette>&gt;&gt;;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art1-com1-letf">
-                        <num> 
- 
- f)</num>
-                        <corpo>
-                            <mod
-                                    id="art1-com1-letf-mod7">  al terzo comma dell'articolo 7, le parole: &lt;&lt;<virgolette
-                                    id="art1-com1-letf-mod7-vir11">ai sensi del precedente articolo 8, comma 2,</virgolette>&gt;&gt; sono sostituite dalle seguenti: &lt;&lt;<virgolette id="art1-com1-letf-mod7-vir12">ai sensi del successivo articolo 8, comma 2,</virgolette>&gt;&gt;;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art1-com1-letg">
-                        <num> 
- 
- g)</num>
-                        <corpo>
-                            <mod
-                                    id="art1-com1-letg-mod8">  nella rubrica dell'articolo 17, sono soppresse le parole: &lt;&lt;<virgolette id="art1-com1-letg-mod8-vir13">e sospensione</virgolette>&gt;&gt;;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art1-com1-leth">
-                        <num> 
- 
- h)</num>
-                        <corpo>  alla fine della lettera a) del primo comma dell'articolo 17, dopo le parole: &lt;&lt;delle stesse&gt;&gt;, si aggiunge:&lt;&lt;, come pure quanto previsto al quarto comma dell'articolo 19&gt;&gt;;</corpo>
-                    </el>
-                    <el id="art1-com1-leti">
-                        <num> 
- 
- i)</num>
-                        <corpo>
-                            <mod
-                                    id="art1-com1-leti-mod9">  la lettera c) del primo comma dell'articolo 17 è sostituita come segue: &lt;&lt;<virgolette id="art1-com1-leti-mod9-vir16">c) la mancata approvazione del bilancio di previsione</virgolette>&gt;&gt;;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art1-com1-letl">
-                        <num> 
- 
- l)</num>
-                        <corpo>
-                            <mod
-                                    id="art1-com1-letl-mod10">  il secondo comma dell'articolo 17 è sostituito come segue: 
- 
-  &lt;&lt;<virgolette
-                                    id="art1-com1-letl-mod10-vir17" tipo="struttura">
-                                    <comma id="art1-com1-letl-mod10-vir17-com0">
-                                    <num>2.</num>
-
-                                    <corpo> Nei casi previsti al precedente comma, il Presidente della Giunta regionale, mediante decreto, dispone lo scioglimento del Consiglio della Comunità e nomina un commissario, che esercita le attribuzioni conferitegli con il decreto medesimo . Per la mancata approvazione del bilancio di previsione, lo scioglimento è disposto con modalità procedurali corrispondenti a quelle stabilite nell'<rif
-                                    xlink:href="urn:nir:stato:decreto.legge:2002-02-22;13#art1">articolo 1 del decreto legge 22 febbraio 2002 n. 13</rif>, convertito in legge dall'<rif xlink:href="urn:nir:stato:legge:2002-04-24;75#art1">art. 1 della legge 24 aprile 2002 n. 75</rif>, spettando comunque al Presidente della Giunta regionale di provvedere, salvo diversa disciplina dello statuto della Comunità montana in ordine alle modalità di nomina del commissario per la predisposizione dello schema e per l'approvazione del bilancio.</corpo>
-                                    </comma>
-                                </virgolette>&gt;&gt;;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art1-com1-letm">
-                        <num> 
- 
- m)</num>
-                        <corpo>
-                            <mod
-                                    id="art1-com1-letm-mod11">  alla fine del primo comma dell'articolo 21, è aggiunto: &lt;&lt;<virgolette
-                                    id="art1-com1-letm-mod11-vir18"
-                                    tipo="parola">L'impedimento del Presidente o dei componenti della Giunta è dichiarato dal Consiglio della Comunità, secondo modalità disciplinate dallo <rif xlink:href="urn:nir:regione.molise:statuto:">statuto</rif> e dal regolamento di funzionamento del Consiglio.</virgolette>&gt;&gt;;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art1-com1-letn">
-                        <num> 
- 
- n)</num>
-                        <corpo>
-                            <mod
-                                    id="art1-com1-letn-mod12">  l'ottavo comma dell'articolo 21 è sostituito come segue: 
- 
-  &lt;&lt;<virgolette
-                                    id="art1-com1-letn-mod12-vir19" tipo="struttura">
-                                    <comma id="art1-com1-letn-mod12-vir19-com0">
-                                    <num>8.</num>
-                                    <corpo> La revoca dei singoli componenti della Giunta è deliberata dal Consiglio, su proposta del Presidente della Comunità montana. </corpo>
-                                    </comma>
-                                    <comma id="art1-com1-letn-mod12-vir19-com9">
-                                    <num>
- 
-  9.</num>
-                                    <corpo> Alla sostituzione del componente della Giunta, a seguito di dimissione, di rimozione, di sospensione, di decadenza e di revoca, provvede il Consiglio, su proposta del Presidente della Comunità montana. L'elezione avviene per appello nominale a maggioranza assoluta dei consiglieri assegnati nella prima votazione, ovvero nella votazione successiva, da tenersi nella stessa seduta, a maggioranza relativa.</corpo>
-                                    </comma>
-                                </virgolette>&gt;&gt;;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art1-com1-leto">
-                        <num> 
- 
- o)</num>
-                        <corpo>
-                            <mod
-                                    id="art1-com1-leto-mod13">  l'articolo 23 è sostituito come segue: 
- 
-   &lt;&lt;<virgolette
-                                    id="art1-com1-leto-mod13-vir20" tipo="struttura">
-                                    <articolo id="art0">
-                                    <num>Art.23 </num>
-                                    <rubrica>
- 
-   Controllo sugli organi della comunità montana 
- 
-</rubrica>
-                                    <comma id="art0-com1">
-                                    <num>  1.</num>
-                                    <corpo> Nei casi diversi da quelli previsti nell'art. 17, il controllo sugli organi della comunità montana è disciplinato dal titolo VI, capo II, articoli 141 e seguenti del Testo unico.</corpo>
-                                    </comma>
-                                    </articolo>
-                                </virgolette>&gt;&gt;;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art1-com1-letp">
-                        <num> 
- 
- p)</num>
-
-                        <corpo>  al primo comma dell'articolo 40 si aggiunge quanto segue: 
- 
-  &lt;&lt;2. Fino all'adozione dei criteri richiamati nel <rif
-                                xlink:href="#art1-com1">primo comma</rif>, per la concessione e l'erogazione dei fondi e dei contributi si applicano, ancorché dichiarate abrogate, le disposizioni previgenti, che in ogni caso si osservano per l'attribuzione di fondi afferenti al periodo precedente l'entrata in vigore della presente legge. 
- 
-  3. Limitatamente all'anno 2002, sull'importo del 50% del fondo regionale per la montagna stabilito in favore delle Comunità montane all'art. 39. comma 2, è corrisposto alle medesime Comunità un acconto dell'80%, con l'applicazione , fino all'adozione dei criteri di cui <rif xlink:href="#art1-com1">primo comma</rif>, delle disposizioni precedentemente in vigore, anche se dichiarate abrogate, che in ogni caso si osservano per le erogazioni riferite al periodo precedente l'entrata in vigore della presente legge. 
- 
-  4.  Nella ripartizione dei fondi, ai sensi di quanto previsto nei precedenti commi 2 e 3, si tiene comunque conto dell'esclusione dei comuni di Campobasso e di Isernia, a far data dall'entrata in vigore della legge medesima.&gt;&gt;;</corpo>
-                    </el>
-                    <el id="art1-com1-letq">
-                        <num> 
- 
- q)</num>
-                        <corpo>
-                            <mod
-                                    id="art1-com1-letq-mod14">  all'articolo 45, dopo le parole: &lt;&lt;<virgolette
-                                    id="art1-com1-letq-mod14-vir22"> in contrasto con la presente legge</virgolette>&gt;&gt;, è aggiunto: &lt;&lt;<virgolette
-                                    id="art1-com1-letq-mod14-vir23" tipo="parola">salvo quanto previsto nel secondo comma del precedente articolo.</virgolette>&gt;&gt;. 
- 
-</mod>
-                        </corpo>
-                    </el>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2 </num>
-                <comma id="art2-com1">
-                    <num>
-1.</num>
-
-                    <corpo>   La presente legge regionale è dichiarata urgente, ai sensi dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto regionale</rif>, ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise. </corpo>
-                </comma>
-                <comma id="art2-com2">
-                    <num>
- 
-2.</num>
-                    <corpo>   è fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20021028">28 ottobre 2002</dataDoc>
+				, n.
+				<numDoc>27</numDoc>
+				.
+				<titoloDoc>
+					Integrazioni e modificazioni alla
+					<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12" xlink:type="simple">legge regionale 8 luglio 2002 n. 12</rif>
+					, concernente: "Riordino e ridefinizione delle Comunità Montane"
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<alinea>
+							<mod id="mod1">
+								La
+								<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12" xlink:type="simple">legge regionale 8 luglio 2002 n. 12</rif>
+								, concernente: "Riordino e ridefinizione delle Comunità Montane", è modificata ed integrata come segue:
+							</mod>
+						</alinea>
+						<el id="art1-com1-leta">
+							<num>a)</num>
+							<corpo>
+								<mod id="mod2">
+									al
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art3-com1" xlink:type="simple">primo comma dell'articolo 3</rif>
+									, dopo le parole: &lt;&lt;
+									<virgolette id="mod2-vir1" tipo="parola">(ANCI-UNCEM)</virgolette>
+									&gt;&gt; è aggiunta, all'interno della parentesi, l'espressione: &lt;&lt;
+									<virgolette id="mod2-vir2" tipo="parola">-Lega delle autonomie locali</virgolette>
+									&gt;&gt;;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letb">
+							<num>b)</num>
+							<corpo>
+								<mod id="mod3">
+									al
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art3-com2" xlink:type="simple">secondo comma dell'articolo 3</rif>
+									, la parola: &lt;&lt;
+									<virgolette id="mod3-vir1" tipo="parola">trenta</virgolette>
+									&gt;&gt; è sostituita con &lt;&lt;
+									<virgolette id="mod3-vir2" tipo="parola">novanta</virgolette>
+									&gt;&gt;;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letc">
+							<num>c)</num>
+							<corpo>
+								<mod id="mod4">
+									al
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art3-com3" xlink:type="simple">terzo comma dell'articolo 3</rif>
+									, l'espressione: &lt;&lt;
+									<virgolette id="mod4-vir1" tipo="parola">quarantacinque giorni</virgolette>
+									&gt;&gt; è sostituita dall'espressione: &lt;&lt;
+									<virgolette id="mod4-vir2" tipo="parola">centoventi</virgolette>
+									&gt;&gt;;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letd">
+							<num>d)</num>
+							<corpo>
+								<mod id="mod5">
+									al
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art6-com2" xlink:type="simple">secondo comma dell'articolo 6</rif>
+									, dopo &lt;&lt;
+									<virgolette id="mod5-vir1" tipo="parola">articolo 4</virgolette>
+									&gt;&gt;, è aggiunto: &lt;&lt;
+									<virgolette id="mod5-vir2" tipo="parola">,dettando, ove necessario, pure le disposizioni per la successione, anche parziale, tra le preesistenti Comunità montane e quelle di eventuale nuova costituzione nonché per l'eventuale soppressione della Comunità Montana e del trasferimento del personale ad altro ente.</virgolette>
+									&gt;&gt;;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-lete">
+							<num>e)</num>
+							<corpo>
+								<mod id="mod6">
+									al
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art7-com1" xlink:type="simple">primo comma dell'articolo 7</rif>
+									, alla fine del primo periodo, è aggiunto: &lt;&lt;
+									<virgolette id="mod6-vir1" tipo="parola">
+										Tali Comunità subentrano nei rapporti giuridici e patrimoniali delle preesistenti Comunità montane costituite per effetto della
+										<rif xlink:href="urn:nir:regione.molise:legge:1973-05-30;11" xlink:type="simple">legge regionale 30 maggio 1973, n. 11</rif>
+										e ne ricevono il personale, che conserva le posizioni giuridiche ed economiche acquisite.
+									</virgolette>
+									&gt;&gt;;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letf">
+							<num>f)</num>
+							<corpo>
+								<mod id="mod7">
+									al
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art7-com3" xlink:type="simple">terzo comma dell'articolo 7</rif>
+									, le parole: &lt;&lt;
+									<virgolette id="mod7-vir1" tipo="parola">ai sensi del precedente articolo 8, comma 2,</virgolette>
+									&gt;&gt; sono sostituite dalle seguenti: &lt;&lt;
+									<virgolette id="mod7-vir2" tipo="parola">ai sensi del successivo articolo 8, comma 2,</virgolette>
+									&gt;&gt;;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letg">
+							<num>g)</num>
+							<corpo>
+								<mod id="mod8">
+									nella rubrica dell'
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art17" xlink:type="simple">articolo 17</rif>
+									, sono soppresse le parole: &lt;&lt;
+									<virgolette id="mod8-vir1" tipo="parola">e sospensione</virgolette>
+									&gt;&gt;;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-leth">
+							<num>h)</num>
+							<corpo>
+								<mod id="mod9">
+									alla fine della
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art17-com1-leta" xlink:type="simple">lettera a) del primo comma dell'articolo 17</rif>
+									, dopo le parole: &lt;&lt;
+									<virgolette id="mod9-vir1" tipo="parola">delle stesse</virgolette>
+									&gt;&gt;, si aggiunge:&lt;&lt;
+									<virgolette id="mod9-vir2" tipo="parola">, come pure quanto previsto al quarto comma dell'articolo 19</virgolette>
+									&gt;&gt;;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-leti">
+							<num>i)</num>
+							<corpo>
+								<mod id="mod10">
+									la
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art17-com1-letc" xlink:type="simple">lettera c) del primo comma dell'articolo 17</rif>
+									è sostituita come segue: &lt;&lt;
+									<virgolette id="mod10-vir1" tipo="struttura">
+										<el id="mod10-vir1-letc">
+											<num>c)</num>
+											<corpo>la mancata approvazione del bilancio di previsione</corpo>
+										</el>
+									</virgolette>
+									&gt;&gt;;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letl">
+							<num>l)</num>
+							<corpo>
+								<mod id="mod11">
+									il
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art17-com2" xlink:type="simple">secondo comma dell'articolo 17</rif>
+									è sostituito come segue: &lt;&lt;
+									<virgolette id="mod11-vir1" tipo="struttura">
+										<comma id="mod11-vir1-com2">
+											<num>2.</num>
+											<corpo>
+												Nei casi previsti al precedente comma, il Presidente della Giunta regionale, mediante decreto, dispone lo scioglimento del Consiglio della Comunità e nomina un commissario, che esercita le attribuzioni conferitegli con il decreto medesimo . Per la mancata approvazione del bilancio di previsione, lo scioglimento è disposto con modalità procedurali corrispondenti a quelle stabilite nell'
+												<rif xlink:href="urn:nir:stato:decreto.legge:2002-02-22;13#art1" xlink:type="simple">articolo 1 del decreto legge 22 febbraio 2002 n. 13</rif>
+												, convertito in legge dall'
+												<rif xlink:href="urn:nir:stato:legge:2002-04-24;75#art1" xlink:type="simple">art. 1 della legge 24 aprile 2002 n. 75</rif>
+												, spettando comunque al Presidente della Giunta regionale di provvedere, salvo diversa disciplina dello statuto della Comunità montana in ordine alle modalità di nomina del commissario per la predisposizione dello schema e per l'approvazione del bilancio.
+											</corpo>
+										</comma>
+									</virgolette>
+									&gt;&gt;;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letm">
+							<num>m)</num>
+							<corpo>
+								<mod id="mod12">
+									alla fine del
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art21-com1" xlink:type="simple">primo comma dell'articolo 21</rif>
+									, è aggiunto: &lt;&lt;
+									<virgolette id="mod12-vir1" tipo="parola">
+										L'impedimento del Presidente o dei componenti della Giunta è dichiarato dal Consiglio della Comunità, secondo modalità disciplinate dallo statuto e dal regolamento di funzionamento del Consiglio. e dal regolamento di funzionamento del Consiglio.
+										e dal regolamento di funzionamento del Consiglio. e dal regolamento di funzionamento del Consiglio.
+									</virgolette>
+									&gt;&gt;;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letn">
+							<num>n)</num>
+							<corpo>
+								<mod id="mod13">
+									l'
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art21-com8" xlink:type="simple">ottavo comma dell'articolo 21</rif>
+									è sostituito come segue: &lt;&lt;
+									<virgolette id="mod13-vir1" tipo="struttura">
+										<comma id="mod13-vir1-com8">
+											<num>8.</num>
+											<corpo>La revoca dei singoli componenti della Giunta è deliberata dal Consiglio, su proposta del Presidente della Comunità montana.</corpo>
+										</comma>
+										<comma id="mod13-vir1-com9">
+											<num>9.</num>
+											<corpo>Alla sostituzione del componente della Giunta, a seguito di dimissione, di rimozione, di sospensione, di decadenza e di revoca, provvede il Consiglio, su proposta del Presidente della Comunità montana. L'elezione avviene per appello nominale a maggioranza assoluta dei consiglieri assegnati nella prima votazione, ovvero nella votazione successiva, da tenersi nella stessa seduta, a maggioranza relativa.</corpo>
+										</comma>
+									</virgolette>
+									&gt;&gt;;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-leto">
+							<num>o)</num>
+							<corpo>
+								<mod id="mod14">
+									l'
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art23" xlink:type="simple">articolo 23</rif>
+									è sostituito come segue: &lt;&lt;
+									<virgolette id="mod14-vir1" tipo="struttura">
+										<articolo id="mod14-vir1-art23">
+											<num>Art.23</num>
+											<rubrica>Controllo sugli organi della comunità montana</rubrica>
+											<comma id="mod14-vir1-art23-com1">
+												<num>1.</num>
+												<corpo>Nei casi diversi da quelli previsti nell'art. 17, il controllo sugli organi della comunità montana è disciplinato dal titolo VI, capo II, articoli 141 e seguenti del Testo unico.</corpo>
+											</comma>
+										</articolo>
+									</virgolette>
+									&gt;&gt;;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letp">
+							<num>p)</num>
+							<corpo>
+								<mod id="mod15">
+									al
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art40-com1" xlink:type="simple">primo comma dell'articolo 40</rif>
+									si aggiunge quanto segue: &lt;&lt;
+									<virgolette id="mod15-vir1" tipo="struttura">
+										<comma id="mod15-vir1-com2">
+											<num>2.</num>
+											<corpo>Fino all'adozione dei criteri richiamati nel primo comma , per la concessione e l'erogazione dei fondi e dei contributi si applicano, ancorché dichiarate abrogate, le disposizioni previgenti, che in ogni caso si osservano per l'attribuzione di fondi afferenti al periodo precedente l'entrata in vigore della presente legge.</corpo>
+										</comma>
+										<comma id="mod15-vir1-com3">
+											<num>3.</num>
+											<corpo>Limitatamente all'anno 2002, sull'importo del 50% del fondo regionale per la montagna stabilito in favore delle Comunità montane all'art. 39. comma 2, è corrisposto alle medesime Comunità un acconto dell'80%, con l'applicazione , fino all'adozione dei criteri di cui primo comma , delle disposizioni precedentemente in vigore, anche se dichiarate abrogate, che in ogni caso si osservano per le erogazioni riferite al periodo precedente l'entrata in vigore della presente legge.</corpo>
+										</comma>
+										<comma id="mod15-vir1-com4">
+											<num>4.</num>
+											<corpo>Nella ripartizione dei fondi, ai sensi di quanto previsto nei precedenti commi 2 e 3, si tiene comunque conto dell'esclusione dei comuni di Campobasso e di Isernia, a far data dall'entrata in vigore della legge medesima.</corpo>
+										</comma>
+									</virgolette>
+									&gt;&gt;;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letq">
+							<num>q)</num>
+							<corpo>
+								<mod id="mod16">
+									all'
+									<rif xlink:href="urn:nir:regione.molise:legge:2002-07-08;12#art45" xlink:type="simple">articolo 45</rif>
+									, dopo le parole: &lt;&lt;
+									<virgolette id="mod16-vir1" tipo="parola">in contrasto con la presente legge</virgolette>
+									&gt;&gt;, è aggiunto: &lt;&lt;
+									<virgolette id="mod16-vir2" tipo="parola">salvo quanto previsto nel secondo comma del precedente articolo.</virgolette>
+									&gt;&gt;.
+								</mod>
+							</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							La presente legge regionale è dichiarata urgente, ai sensi dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art38" xlink:type="simple">articolo 38 dello Statuto regionale</rif>
+							, ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise.
+						</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>
