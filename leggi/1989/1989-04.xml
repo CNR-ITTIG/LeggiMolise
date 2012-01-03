@@ -129,52 +129,9 @@ Modifiche
 						<intestazione />
 						<formulainiziale />
 						<contenitore id="con1" nome="">
-							<h:p />
-							<h:p>(CONTRIBUTO MASSIMO SULLE INDAGINI IN MILIONI DI LIRE)</h:p>
-							<h:p>(IN ASSENZA TOTALE DI DATI SPERIMENTALI DEDUCIBILI DA LAVORI ESEGUITI IN ZONA)</h:p>
-							<h:p>BASSA FRANOSITè</h:p>
-							<h:p>lfs 0.,05 MEDIA FRANOSITè</h:p>
-							<h:p>0.05 slfs 0.15 ALTA FRANOSITè</h:p>
-							<h:p>lfs 0.15</h:p>
-							<h:p>CONSOLIDAMENTO</h:p>
-							<h:p>lccs 0.10 CONSOLIDAMENTO</h:p>
-							<h:p>0.10 slcs 0.50 CONSOLIDAMENTO</h:p>
-							<h:p>lcs 0.50</h:p>
-							<h:p>LR = 0.70 LR = 0.85 LR = 1.00</h:p>
-							<h:p>N. ABITANTI CONTRIBUTO INDAGINI (*) CONTRIBUTO INDAGINI (*) CONTRIBUTO INDAGINI (*)</h:p>
-							<h:p>1.000 11800 5900 17700 13200 6000 19000 4700 7400 22100</h:p>
-							<h:p>2.000 13900 7000 20900 15800 7900 23700 17800 8900 26700</h:p>
-							<h:p>3.000 15500 7800 23300 17800 8900 26700 20000 10000 30000</h:p>
-							<h:p>4.000 16800 8400 25200 19300 9700 29000 21900 11000 32900</h:p>
-							<h:p>5.000 17900 9000 26900 20700 10400 31100 23400 11700 35100</h:p>
-							<h:p>6.000 18900 9500 28400 21900 11000 32900 24000 12400 37200</h:p>
-							<h:p>7.000 19800 9900 29700 22900 11500 34400 26100 13100 39200</h:p>
-							<h:p>8.000 20600 10300 30900 23900 12000 35900 27300 13700 41000</h:p>
-							<h:p>9.000 21400 10700 32100 24900 12500 37400 28400 14200 42000</h:p>
-							<h:p>10.000 22100 11100 33200 25700 12900 38600 29400 14700 44100</h:p>
-							<h:p>11.000 22700 11400 34100 26500 13300 39800 30300 15200 45500</h:p>
-							<h:p>12.000 23400 11700 35100 27300 13700 41000 31200 15600 46800</h:p>
-							<h:p>13.000 24000 12000 36000 28000 14000 42000 32100 16100 48200</h:p>
-							<h:p>14.000 24500 12300 36800 28700 14400 43100 32900 16500 49400</h:p>
-							<h:p>15.000 25100 12600 37700 29400 14700 44100 33700 16900 50600</h:p>
-							<h:p>20.000 27500 13800 41300 32400 16200 48600 37200 18600 55800</h:p>
-							<h:p>25.000 29700 14900 44600 34900 17500 52400 40200 20100 60300</h:p>
-							<h:p>30.000 31500 15800 47300 37200 18600 55800 42900 21500 64400</h:p>
-							<h:p>35.000 33200 16600 49800 39300 19700 59000 45300 22700 68000</h:p>
-							<h:p>40.000 34800 17400 52200 41200 20800 61800 47600 23800 71400</h:p>
-							<h:p>45.000 36200 18100 54300 42900 21500 64400 49600 24800 74400</h:p>
-							<h:p>50.000 37600 18800 56400 44600 22300 66900 51500 25800 77300</h:p>
-							<h:p>55.000 38900 19500 58400 46100 23100 69200 53400 26700 80100</h:p>
-							<h:p>60.000 40100 20100 60200 47600 23800 71400 55100 27600 82700</h:p>
-							<h:p>65.000 41200 20600 61800 49000 24500 73500 56700 28400 82700</h:p>
-							<h:p>70.000 42300 21200 63500 50300 25200 75500 58300 29200 85100</h:p>
-							<h:p>(*) Nell'ambito del contributo totale massimo è consentito il traverso del contributo destinato alle indagini indirette per effettuare ulteriori indagini dirette e prove in situ.</h:p>
-							<h:p>INDICE Simbolo</h:p>
-							<h:p>Franositè lf (territorio franoso/territorio da urbanizzare) (*)</h:p>
-							<h:p>Consolidamento lc (territorio sottoposto a consolidamento/territorio da urbanizzare) (**)</h:p>
-							<h:p>Riduzione lr riduzione in base agli indici lc o lf</h:p>
-							<h:p>(*) N.B. Il rapporto deve essere calcolato con riferimento al territorio interessato dallo strumento urbanistico compresa un'adeguata fascia di contorno.</h:p>
-							<h:p />
+							<h:p>
+								<rif xlink:href="allegati/1989_04_tabella_A.pdf" xlink:type="simple">Scarica pdf</rif>
+							</h:p>
 						</contenitore>
 						<formulafinale />
 						<conclusione />
@@ -204,56 +161,9 @@ Modifiche
 						<intestazione />
 						<formulainiziale />
 						<contenitore id="con2" nome="">
-							<h:p />
-							<h:p>(CONTRIBUTO MASSIMO SULLE INDAGINI IN MILIONI DI LIRE)</h:p>
-							<h:p>(IN PRESENZA DI DATI SPERIMENTALI DEDUCIBILI DA LAVORI ESEGUITI IN ZONA)</h:p>
-							<h:p>BASSA FRANOSITè</h:p>
-							<h:p>lfs 0.05 MEDIA FRANOSITè</h:p>
-							<h:p>0.05 slfs 0.15 ALTA FRANOSITè</h:p>
-							<h:p>lfs 0.15</h:p>
-							<h:p>Consolidamento</h:p>
-							<h:p>lccs 0.10 Consolidamento</h:p>
-							<h:p>0.10 slcs 0.5 Consolidamento</h:p>
-							<h:p>lcs 0.50</h:p>
-							<h:p>lr = 0.60 lr = 0.72 lr = 0.85</h:p>
-							<h:p>CONTRIBUTO INDAGINI (*) CONTRIBUTO INDAGINI (*) CONTRIBUTO INDAGINI (*)</h:p>
-							<h:p>N. Abitanti dirette prove in situ indirette prove labor. totale per le in-</h:p>
-							<h:p>dagini e studi dirette prove in situ indirette prove labor. totale per le in-</h:p>
-							<h:p>dagini e studi dirette prove in situ indirette prove labor. totale per le in-</h:p>
-							<h:p>dagini e studi</h:p>
-							<h:p>1.000 10700 5400 16100 12000 6000 18000 13200 6600 19800</h:p>
-							<h:p>2.000 12600 6300 18900 14200 7100 21300 15800 7900 23700</h:p>
-							<h:p>3.000 13900 7000 20900 15900 8000 23900 17800 8900 26700</h:p>
-							<h:p>4.000 15000 7500 22500 17200 8600 25800 19300 9700 29000</h:p>
-							<h:p>5.000 16000 8000 24000 18300 9200 27500 20700 10400 31100</h:p>
-							<h:p>6.000 16800 8400 25200 19300 9700 29000 21900 11000 32900</h:p>
-							<h:p>7.000 17600 8800 26400 20300 10200 30500 22900 11500 34400</h:p>
-							<h:p>8.000 18300 9200 27500 21100 10600 31700 23900 12000 35900</h:p>
-							<h:p>9.000 18900 9500 28400 21900 11000 32900 24900 12500 37400</h:p>
-							<h:p>10.000 19500 9800 29300 22600 11300 33900 25700 12900 38600</h:p>
-							<h:p>11.000 20100 10100 30200 23300 11700 35000 26500 13300 39800</h:p>
-							<h:p>12.000 20600 10300 30900 23900 12000 35900 27300 13700 41000</h:p>
-							<h:p>13.000 21100 10600 31700 24600 12300 36900 28000 14000 42000</h:p>
-							<h:p>14.000 21600 10800 32400 25200 12600 37800 28700 14400 43100</h:p>
-							<h:p>15.000 22100 11100 33200 25700 12900 38900 29400 14700 44100</h:p>
-							<h:p>20.000 24200 12100 36300 28300 14200 42500 32400 16200 48600</h:p>
-							<h:p>25.000 26000 13000 39000 30400 15200 45600 34900 17500 52400</h:p>
-							<h:p>30.000 27600 13800 41400 32400 16200 48600 37200 18600 55800</h:p>
-							<h:p>35.000 29000 14500 43500 34100 17100 51200 39300 19700 59000</h:p>
-							<h:p>40.000 30300 15200 45500 35700 17900 53600 41200 20600 61800</h:p>
-							<h:p>45.000 31500 15800 47300 37200 18600 55800 42900 21500 64400</h:p>
-							<h:p>50.000 32700 16400 49100 38600 19300 57900 44600 22300 66900</h:p>
-							<h:p>55.000 33800 16900 50700 39900 20000 59900 46100 23100 69200</h:p>
-							<h:p>60.000 34800 17400 52200 41200 20600 61800 47600 23800 71400</h:p>
-							<h:p>65.000 35800 17900 53700 42400 22200 63600 49000 24500 73500</h:p>
-							<h:p>70.000 36700 18400 55100 43500 21800 85300 50300 25200 75500</h:p>
-							<h:p>(*) Nell'ambito del contributo totale massimo è consentito il travaso del contributo destinato alle indagini indirette per effettuare ulteriori indagini dirette e prove in situ.</h:p>
-							<h:p>INDICE Simbolo</h:p>
-							<h:p>Franositè lf (territorio franoso/territorio da urbanizzare) (*)</h:p>
-							<h:p>Consolidamento lc (territorio sottoposto a consolidamento/territorio da urbanizzare) (**)</h:p>
-							<h:p>Riduzione lr riduzione in base agli indici lc o lf</h:p>
-							<h:p>(*) N.B. Il rapporto deve essere calcolato con riferimento al territorio interessato dallo strumento urbanistico compresa un'adeguata fascia di contorno.</h:p>
-							<h:p />
+							<h:p>
+								<rif xlink:href="allegati/1989_04_tabella_B.pdf" xlink:type="simple">Scarica pdf</rif>
+							</h:p>
 						</contenitore>
 						<formulafinale />
 						<conclusione />
