@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20010630" num="14" tipo="BURM"/>
-                <entratainvigore norm="20010715"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2001-06-16;10"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="27.procedimento amministrativo, semplificazione amministrativa, semplificazione del sistema normativo"/>
-                </materie>
-            </descrittori>
-        </meta><?error 27.Procedimento amministrativo, semplificazione amministrativa, semplificazione del sistema normativo 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20010630" num="14" tipo="BURM" />
+					<entratainvigore norm="20010701" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2001-06-16;10" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="27.procedimento amministrativo, semplificazione amministrativa, semplificazione del sistema normativo" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20010701" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2001-06-16;10" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 27.Procedimento amministrativo, semplificazione amministrativa, semplificazione del sistema normativo 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 14 del 30 giugno 2001 
@@ -27,74 +36,73 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="20010616">16 giugno 2001</dataDoc>, n.<numDoc>10</numDoc>
-            <titoloDoc>Integrazione della <rif
-                    xlink:href="urn:nir:regione.molise:legge:2000-04-26;31">Legge Regionale n.31 del 26 aprile 2000</rif>, recante: "Abrogazione di Leggi Regionali in materia di artigianato, industria, commercio ed agricoltura". 
- 
-<rif
-                    xlink:href="urn:nir:regione.molise:legge:2001-06-16;10">Legge Regionale 16 giugno 2001, n.10</rif>. 
- 
-Integrazione della <rif xlink:href="urn:nir:regione.molise:legge:2000-04-26;31">Legge Regionale n.31 del 26 aprile 2000</rif>, recante: "Abrogazione di Leggi Regionali in materia di artigianato, industria, commercio ed agricoltura". 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale>
-            <h:p>Il Consiglio Regionale ha approvato; </h:p>
-            <h:p>Il Commissario di Governo ha apposto il </h:p>
-            <preambolo>
-                <h:p>visto;</h:p>
-                <h:p>IL PRESIDENTE 
-della  
-GIUNTA REGIONALE</h:p>
-            </preambolo>
-            <h:p>Promulga </h:p>
-            <h:p>la seguente legge: </h:p>
-        </formulainiziale>
-        <articolato>
-            <articolo id="art1">
-                <num>Art.1 </num>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-                    <corpo>
-                        <mod id="art1-com1-mod1"> All'<rif
-                                xlink:href="urn:nir:regione.molise:legge:2000-04-26;31#art1">art. 1 della Legge regionale 26 aprile 2000, n. 31</rif>, in fine, è aggiunta la seguente lettera: 
- 
-ddd) <rif
-                                xlink:href="urn:nir:regione.molise:legge:1997-10-21;19">Legge regionale 21 ottobre 1997, n. 19</rif>: "<virgolette
-                                id="art1-com1-mod1-vir1" tipo="parola">Interventi a favore dei Consorzi fidi fra piccole e medie imprese della Regione Molise</virgolette>". 
- 
-</mod>
-                    </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art.2 </num>
-                <comma id="art2-com1">
-                    <num>
-1.</num>
-
-                    <corpo> La presente legge è dichiarata urgente ai sensi dell'<rif
-                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione>
-            <dataeluogo codice="00100" norm="">La presente legge sarè pubblicata nel Bollettino Ufficiale della Regione. è fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
- 
-Data a Campobasso, addè 16 giugno 2001 
- 
-</dataeluogo>
-            <firma tipo="sottoscrizione">IL PRESIDENTE 
- 
-DI STASI 
-
-</firma>
-        </conclusione>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="20010616">16 giugno 2001</dataDoc>
+				, n.
+				<numDoc>10</numDoc>
+				<titoloDoc>
+					Integrazione della
+					<rif xlink:href="urn:nir:regione.molise:legge:2000-04-26;31" xlink:type="simple">Legge Regionale n.31 del 26 aprile 2000</rif>
+					, recante: "Abrogazione di Leggi Regionali in materia di artigianato, industria, commercio ed agricoltura".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>Il Consiglio Regionale ha approvato;</h:p>
+				<h:p>Il Commissario di Governo ha apposto il visto;</h:p>
+				<preambolo>
+					<h:p>IL PRESIDENTE della GIUNTA REGIONALE</h:p>
+				</preambolo>
+				<h:p>Promulga</h:p>
+				<h:p>la seguente legge:</h:p>
+			</formulainiziale>
+			<articolato>
+				<articolo id="art1">
+					<num>Art.1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:2000-04-26;31#art1" xlink:type="simple">art. 1 della Legge regionale 26 aprile 2000, n. 31</rif>
+								, in fine, è aggiunta la seguente lettera:
+								<virgolette id="mod1-vir1" tipo="struttura">
+									<el id="mod1-vir1-letddd">
+										<num>ddd)</num>
+										<corpo>
+											<rif xlink:href="urn:nir:regione.molise:legge:1997-10-21;19" xlink:type="simple">Legge regionale 21 ottobre 1997, n. 19</rif>
+											: "Interventi a favore dei Consorzi fidi fra piccole e medie imprese della Regione Molise"
+										</corpo>
+									</el>
+								</virgolette>
+								.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art.2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							La presente legge è dichiarata urgente ai sensi dell'
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art127" xlink:type="simple">art. 127 della Costituzione</rif>
+							e dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art38" xlink:type="simple">art. 38 dello Statuto regionale</rif>
+							ed entra in vigore il giorno successivo a quello della sua pubblicazione.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione>
+				<dataeluogo codice="00100" norm="">Data a Campobasso, addì 16 giugno 2001</dataeluogo>
+				<firma tipo="sottoscrizione">
+					IL PRESIDENTE
+					<h:br />
+					DI STASI
+				</firma>
+			</conclusione>
+		</LeggeRegionale>
+	</NIR>

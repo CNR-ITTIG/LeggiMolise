@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20010801" num="16" tipo="BURM" />
+					<entratainvigore norm="20010802" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2001-07-17;20" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="04.Assistenza sociale, volontariato" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20010802" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2001-07-17;20" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 04.Assistenza sociale, volontariato Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 16 del 1 agosto 2001 Oggetto Miglioramento delle condizioni di vita nei penitenziari - Istituzione del premio "Le ali" Abrogazioni Modifiche ?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20010717">17 luglio 2001</dataDoc>
+				, n.
+				<numDoc>20</numDoc>
+				<titoloDoc>Interventi volti al miglioramento delle condizioni di vita dei reclusi nei penitenziari del Molise -Istituzione del premio "Le Ali".</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art.1</num>
+					<rubrica>Finalità</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<alinea>La Regione Molise, in accordo con il Ministro di Grazia e Giustizia, e nel rispetto delle norme vigenti in materia e delle determinazioni degli organi competenti, con la presente legge intende:</alinea>
+						<en id="art1-com1-num1">
+							<num>1)</num>
+							<alinea>favorire e promuovere, all'interno ed all'esterno delle strutture penitenziarie operanti nel Molise, opportune iniziative lavorative, culturali, formative, educative, ricreative, sportive soprattutto organizzate in forma associativa, tese a:</alinea>
+							<el id="art1-com1-num1-leta">
+								<num>a)</num>
+								<corpo>aiutare gli ospiti delle strutture penitenziarie a vivere meglio il tempo della detenzione;</corpo>
+							</el>
+							<el id="art1-com1-num1-letb">
+								<num>b)</num>
+								<corpo>verificare le possibilità di professionalità e di imprenditorialità;</corpo>
+							</el>
+							<el id="art1-com1-num1-letc">
+								<num>c)</num>
+								<corpo>rendere positivo il reinserimento nella Società;</corpo>
+							</el>
+						</en>
+						<en id="art1-com1-num2">
+							<num>2)</num>
+							<corpo>creare le condizioni per una maggiore partecipazione degli Enti locali e per un maggiore coinvolgimento degli organismi pubblici, privati e del volontariato, all'interno del carcere;</corpo>
+						</en>
+						<en id="art1-com1-num3">
+							<num>3)</num>
+							<corpo>coinvolgere tutti i cittadini in una maggiore conoscenza e disponibilità nei confronti delle problematiche riguardanti gli Istituti ed i servizi penitenziari;</corpo>
+						</en>
+						<en id="art1-com1-num4">
+							<num>4)</num>
+							<corpo>favorire l'integrazione dei Servizi territoriali delle ASL e dei Comuni con i Servizi penitenziari per la cura e la riabilitazione dei soggetti che abbiano fatto uso non terapeutico di sostanze stupefacenti e psicotrope, alcooldipendenti, malati di mente ed affetti da forme morbose diffusive per un'idonea assistenza socio-sanitaria a vantaggio dei dimessi delle loro famiglie e dei soggetti beneficiari di misure alternative o trattamentali non custodiali;</corpo>
+						</en>
+						<en id="art1-com1-num5">
+							<num>5)</num>
+							<corpo>accelerare il funzionamento dei "meccanismi" penitenziari nel rispetto di quanto previsto dalla vigente normativa penale, favorendo, laddove le condizioni lo permettano, l'avvicinamento e/o il rientro dei detenuti ospiti in altre Regioni;</corpo>
+						</en>
+						<en id="art1-com1-num6">
+							<num>6)</num>
+							<corpo>incentivare i progetti di formazione e l'attività di avviamento al lavoro predisponendo gli opportuni finanziamenti.</corpo>
+						</en>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>Accordi</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>Il quadro delle azioni previste nel precedente articolo viene definito e realizzato sulla base di accordi tra la Regione Molise, il Ministero di Grazia e Giustizia, le Province Molisane, i Comuni sedi degli istituti penitenziari e le direzioni competenti.</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>
+							La Giunta regionale espleta le funzioni contemplate nel
+							<rif xlink:href="#art1" xlink:type="simple">precedente articolo 1</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art.3</num>
+					<rubrica>Istituzione del premio "Le Ali"</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>All'interno delle iniziative promosse dalle istituzioni e dalle associazioni operanti nel mondo penitenziario, la Regione Molise, in collaborazione con il Ministero di Grazia e Giustizia, i principali istituti penitenziari italiani, gli enti locali ed i soggetti pubblici e privati, dà vita e sostegno al premio "Le Ali", assegnato ai vincitori del concorso riservato alle opere (poesia, letteratura, teatro, etc.) prodotte da ospiti di istituti penitenziari italiani e servizi nelle diverse tipologie (case di reclusione, case circondariali, case di lavoro, colonie agricole, case mandamentali, ospedali psichiatrici-giudiziari, istituti penali per minorenni).</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>Organizzazione</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>L'organizzazione del Concorso e del Premio "Le Ali" viene affidato, con cadenza triennale, ad associazioni, cooperative o loro consorzi, operanti nell'ambito regionale, con preferenza per quelle associazioni o cooperative, e per quei consorzi che operano all'interno delle carceri molisane.</corpo>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<corpo>Entro 60 giorni dalla pubblicazione della legge sul Bollettino Ufficiale della Regione, l'Assessorato regionale alla cultura indice un bando per la individuazione del soggetto organizzatore, ed entro i 30 giorni successivi ne delibera l'assegnazione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art.5</num>
+					<rubrica>Commissione Giudicatrice</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>Per la selezione delle opere di concorso e l'assegnazione del Premio "Le Ali", su proposta dell'Assessore regionale alla cultura e di concerto con il soggetto organizzatore, la Giunta Regionale ogni anno nomina la Commissione giudicatrice composta da cinque esperti in materia artistico-letteraria indicando chi svolgerà le funzioni di Presidente.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>Regolamento d'attuazione</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>La Giunta Regionale definisce le modalità attuative del concorso dietro proposta dell'Assessore alla Cultura e di concerto con il soggetto organizzatore del Concorso e del Premio "Le Ali".</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>Norma Finanziaria</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>
+							Circa le attività previste dall'
+							<rif xlink:href="#art1" xlink:type="simple">articolo 1</rif>
+							, la Regione provvederà ad inserirle nella sua programmazione annuale e poliennale e nei rispettivi capitoli di spesa.
+						</corpo>
+					</comma>
+					<comma id="art7-com2">
+						<num>2.</num>
+						<corpo>Per l'organizzazione, la promozione e la valorizzazione del concorso e del premio "Le Ali" sarà aperto un apposito capitolo di spesa con un finanziamento iniziale pari a Lire 1OO.OOO.OOO.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>Pubblicazione e diritti d'autore</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>Le opere verranno pubblicate annualmente per conto della Regione Molise e di eventuali altri Enti sponsorizzatori ed i diritti d'autore saranno devoluti per sostenere la promozione e il sostegno di attività volte al reinserimento dei detenuti.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art.9</num>
+					<rubrica>Dichiarazione d'urgenza</rubrica>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<corpo>
+							La presente legge è dichiarata urgente ai sensi dell'
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art127" xlink:type="simple">art.127 della Costituzione</rif>
+							e dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art38" xlink:type="simple">art. 38 dello Statuto</rif>
+							ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

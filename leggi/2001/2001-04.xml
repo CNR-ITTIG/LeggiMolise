@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20010331" num="8" tipo="BURM"/>
-                <entratainvigore norm="20010415"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2001-03-21;4"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="36.turismo e industria alberghiera"/>
-                </materie>
-            </descrittori>
-        </meta><?error 36.Turismo e industria alberghiera 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20010331" num="8" tipo="BURM" />
+					<entratainvigore norm="20010401" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2001-03-21;4" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="36.turismo e industria alberghiera" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20010401" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2001-03-21;4" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 36.Turismo e industria alberghiera 
  
 Bollettino 
 BOLLETTINO UFFICIALE DELLA REGIONE MOLISE  N. 8 del 31 marzo 2001 
@@ -27,148 +36,221 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc
-                    norm="20010321">21 marzo 2001</dataDoc>, n.<numDoc>4</numDoc>. 
- 
-<titoloDoc>Modifiche alla <rif
-                    xlink:href="urn:nir:regione.molise:legge:1995-05-03;19">legge regionale 3 maggio 1995, n.19</rif>, ad oggetto: "Incentivazione dell'offerta turistica nei settori alberghiero e di turismo rurale". 
- 
-<rif
-                    xlink:href="urn:nir:regione.molise:legge:2001-03-21;4">LEGGE REGIONALE 21 marzo 2001, n.4</rif>. 
- 
-Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1995-05-03;19">legge regionale 3 maggio 1995, n.19</rif>, ad oggetto: "Incentivazione dell'offerta turistica nei settori alberghiero e di turismo rurale". 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale>
-            <h:p>Il Consiglio Regionale ha approvato; </h:p>
-            <h:p>Il Commissario di Governo ha apposto il </h:p>
-            <preambolo>
-                <h:p>visto: 
-IL PRESIDENTE 
-della 
-GIUNTA REGIONALE</h:p>
-            </preambolo>
-            <h:p>Promulga </h:p>
-            <h:p>la seguente legge: </h:p>
-        </formulainiziale>
-        <articolato>
-            <articolo id="art1">
-                <num>Art.1 </num>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-                    <corpo>
-                        <mod
-                                id="art1-com1-mod1"><?error Marker Warning 108?> All'<rif xlink:href="urn:nir:regione.molise:legge:1995;19#art3">articolo 3 della legge regionale n.19/1995</rif> è così modificato: 
- 
-- è soppressa la lettera h) del comma 1. 
- 
-</mod>
-                    </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art.2 </num>
-                <comma id="art2-com1">
-                    <num>
-1.</num>
-                    <corpo> Al <rif xlink:href="urn:nir:regione.molise:legge:1995;19#art3-com2">comma 2 dell'articolo 3 della legge regionale n.19/1995</rif> è aggiunto il seguente periodo: 
- 
-- "Sono esclusi gli interventi riferiti al settore della produzione, trasformazione e/o commercializzazione dei prodotti agricoli, della pesca e/o dell'acquacoltura, nonché del settore dei trasporti". 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art.3 </num>
-                <comma id="art3-com1">
-                    <num>
-1.</num>
-                    <corpo>
-                        <mod id="art3-com1-mod2"> L'<rif
-                                xlink:href="urn:nir:regione.molise:legge:1995;19#art4">articolo 4 della legge regionale n.19/1995</rif> è così modificato: 
- 
-- al <rif xlink:href="#art3-com1">comma 1</rif> sono soppresse le lettere b) e d); 
- 
-- è aggiunto il seguente comma: 
- 
-"Il presente regime è valido fino al 31 dicembre 2006 salvo diversi orientamenti della C.E.". 
- 
-</mod>
-                    </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>Art.4 </num>
-                <comma id="art4-com1">
-                    <num>
-1.</num>
-                    <corpo> Il <rif
-                            xlink:href="urn:nir:regione.molise:legge:1995;19#art7-com1">comma 1 dell'articolo 7 della legge regionale n.19/1995</rif> è così modificato: 
- 
-- "I finanziamenti sono concessi per la realizzazione di opere non ancora iniziate e per forniture non ancora acquisite alla data di presentazione della domanda. Per le opere fa fede il certificato dello stato dei lavori rilasciato dal sindaco del Comune competente per territorio. 
- 
-2. Il <rif xlink:href="urn:nir:regione.molise:legge:1995;19#art7-com2">comma 2 dell'articolo 7 della legge regionale n.19/1995</rif> è così modificato: 
- 
-- "Nel provvedimento di concessione è indicato il termine entro il quale devono essere ultimati i lavori ed acquisite le forniture. Tale termine non può essere superiore a 24 mesi e deve essere adeguato alle scadenze previste nei piani e nei programmi di intervento". 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art5">
-                <num>Art.5 </num>
-                <comma id="art5-com1">
-                    <num>
-1.</num>
-                    <corpo> Il <rif xlink:href="urn:nir:regione.molise:legge:1995;19#art8-com2-letd">comma 2, lettera d), dell'articolo 8 della legge regionale n.19/1995</rif> è così modificato: 
- 
-- d) certificato del sindaco attestante lo stato di attuazione dei lavori, da cui risulti che la data di inizio dei lavori sia antecedente a quella di presentazione della domanda. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art6">
-                <num>Art.6 </num>
-                <comma id="art6-com1">
-                    <num>
-1.</num>
-                    <corpo> Per l'erogazione dei contributi si provvederè ad emanare uno specifico bando che prevederè le modalità di attuazione della presente legge. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art7">
-                <num>Art.7 </num>
-                <comma id="art7-com1">
-                    <num>
-1.</num>
-
-                    <corpo> La presente legge è dichiarata urgente, ai sensi dell'<rif
-                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto</rif>, ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise. </corpo>
-                </comma>
-                <comma id="art7-com2">
-                    <num>
- 
-2.</num>
-                    <corpo>è fatto obbligo, a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione>
-            <dataeluogo codice="00100" norm="20010321">Data a Campobasso, addè 21 marzo 2001 
- 
-</dataeluogo>
-            <firma tipo="sottoscrizione">Il Presidente 
- 
-DI STASI 
-
-</firma>
-        </conclusione>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20010321">21 marzo 2001</dataDoc>
+				, n.
+				<numDoc>4</numDoc>
+				.
+				<titoloDoc>
+					Modifiche alla
+					<rif xlink:href="urn:nir:regione.molise:legge:1995-05-03;19" xlink:type="simple">legge regionale 3 maggio 1995, n.19</rif>
+					, ad oggetto: "Incentivazione dell'offerta turistica nei settori alberghiero e di turismo rurale".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale>
+				<h:p>Il Consiglio Regionale ha approvato;</h:p>
+				<h:p>Il Commissario di Governo ha apposto il visto:</h:p>
+				<preambolo>
+					<h:p>IL PRESIDENTE della GIUNTA REGIONALE</h:p>
+				</preambolo>
+				<h:p>Promulga</h:p>
+				<h:p>la seguente legge:</h:p>
+			</formulainiziale>
+			<articolato>
+				<articolo id="art1">
+					<num>Art.1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<alinea>
+							<mod id="mod1">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:1995;19#art3" xlink:type="simple">articolo 3 della legge regionale n.19/1995</rif>
+								è così modificato:
+							</mod>
+						</alinea>
+						<ep id="art1-com1-pun1">
+							<num>-</num>
+							<corpo>
+								<mod id="mod2">
+									è soppressa la
+									<rif xlink:href="urn:nir:regione.molise:legge:1995-05-03;19#art3-com1-leth" xlink:type="simple">lettera h) del comma 1</rif>
+									.
+								</mod>
+							</corpo>
+						</ep>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art.2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<alinea>
+							<mod id="mod3">
+								Al
+								<rif xlink:href="urn:nir:regione.molise:legge:1995;19#art3-com2" xlink:type="simple">comma 2 dell'articolo 3 della legge regionale n.19/1995</rif>
+								è aggiunto il seguente periodo:
+							</mod>
+						</alinea>
+						<ep id="art2-com1-pun1">
+							<num>-</num>
+							<corpo>
+								<mod id="mod4">
+									"
+									<virgolette id="mod4-vir1" tipo="parola">Sono esclusi gli interventi riferiti al settore della produzione, trasformazione e/o commercializzazione dei prodotti agricoli, della pesca e/o dell'acquacoltura, nonché del settore dei trasporti</virgolette>
+									"
+								</mod>
+								.
+							</corpo>
+						</ep>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art.3</num>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<alinea>
+							<mod id="mod5">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:1995;19#art4" xlink:type="simple">articolo 4 della legge regionale n.19/1995</rif>
+								è così modificato:
+							</mod>
+						</alinea>
+						<ep id="art3-com1-pun1">
+							<num>-</num>
+							<corpo>
+								<mod id="mod6">
+									al
+									<rif xlink:href="urn:nir:regione.molise:legge:1995-05-03;19#art4-com1" xlink:type="simple">comma 1</rif>
+									sono soppresse le lettere b) e d);
+								</mod>
+							</corpo>
+						</ep>
+						<ep id="art3-com1-pun2">
+							<num>-</num>
+							<corpo>
+								<mod id="mod7">
+									è aggiunto il seguente comma: "
+									<virgolette id="mod7-vir1" tipo="struttura">
+										<comma id="mod7-vir1-com1">
+											<num />
+											<corpo>Il presente regime è valido fino al 31 dicembre 2006 salvo diversi orientamenti della C.E.</corpo>
+										</comma>
+									</virgolette>
+									".
+								</mod>
+							</corpo>
+						</ep>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art.4</num>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<alinea>
+							<mod id="mod8">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1995;19#art7-com1" xlink:type="simple">comma 1 dell'articolo 7 della legge regionale n.19/1995</rif>
+								è così modificato:
+							</mod>
+						</alinea>
+						<ep id="art4-com1-pun1">
+							<num>-</num>
+							<corpo>
+								<mod id="mod9">
+									"
+									<virgolette id="mod9-vir1" tipo="struttura">
+										<comma id="mod9-vir1-com1">
+											<num />
+											<corpo>I finanziamenti sono concessi per la realizzazione di opere non ancora iniziate e per forniture non ancora acquisite alla data di presentazione della domanda. Per le opere fa fede il certificato dello stato dei lavori rilasciato dal sindaco del Comune competente per territorio.</corpo>
+										</comma>
+									</virgolette>
+								</mod>
+							</corpo>
+						</ep>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<alinea>
+							<mod id="mod10">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1995;19#art7-com2" xlink:type="simple">comma 2 dell'articolo 7 della legge regionale n.19/1995</rif>
+								è così modificato:
+							</mod>
+						</alinea>
+						<ep id="art4-com2-pun1">
+							<num>-</num>
+							<corpo>
+								<mod id="mod11">
+									"
+									<virgolette id="mod11-vir1" tipo="struttura">
+										<comma id="mod11-vir1-com1">
+											<num />
+											<corpo>Nel provvedimento di concessione è indicato il termine entro il quale devono essere ultimati i lavori ed acquisite le forniture. Tale termine non può essere superiore a 24 mesi e deve essere adeguato alle scadenze previste nei piani e nei programmi di intervento</corpo>
+										</comma>
+									</virgolette>
+									".
+								</mod>
+							</corpo>
+						</ep>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art.5</num>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<alinea>
+							<mod id="mod12">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1995;19#art8-com2-letd" xlink:type="simple">comma 2, lettera d), dell'articolo 8 della legge regionale n.19/1995</rif>
+								è così modificato:
+							</mod>
+						</alinea>
+						<ep id="art5-com1-pun1">
+							<num>-</num>
+							<corpo>
+								<mod id="mod13">
+									<virgolette id="mod13-vir1" tipo="struttura">
+										<el id="mod13-vir1-letd">
+											<num>d)</num>
+											<corpo>certificato del sindaco attestante lo stato di attuazione dei lavori, da cui risulti che la data di inizio dei lavori sia antecedente a quella di presentazione della domanda.</corpo>
+										</el>
+									</virgolette>
+								</mod>
+							</corpo>
+						</ep>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art.6</num>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<alinea>Per l'erogazione dei contributi si provvederà ad emanare uno specifico bando che prevederà le modalità di attuazione della presente legge.</alinea>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art.7</num>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>
+							La presente legge è dichiarata urgente, ai sensi dell'
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art127" xlink:type="simple">articolo 127 della Costituzione</rif>
+							e dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art38" xlink:type="simple">articolo 38 dello Statuto</rif>
+							, ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione Molise.
+						</corpo>
+					</comma>
+					<comma id="art7-com2">
+						<num>2.</num>
+						<corpo>E' fatto obbligo, a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione>
+				<dataeluogo codice="00100" norm="20010321">Data a Campobasso, addì 21 marzo 2001</dataeluogo>
+				<firma tipo="sottoscrizione">Il Presidente DI STASI</firma>
+			</conclusione>
+		</LeggeRegionale>
+	</NIR>
