@@ -130,7 +130,7 @@ Modifiche
 						<formulainiziale />
 						<contenitore id="con1" nome="">
 							<h:p>
-								<rif xlink:href="allegati/1989_04_tabella_A.pdf" xlink:type="simple">Scarica pdf</rif>
+								<rif xlink:href="1989_04_tabella_A.pdf" xlink:type="simple">Scarica pdf</rif>
 							</h:p>
 						</contenitore>
 						<formulafinale />
@@ -162,7 +162,7 @@ Modifiche
 						<formulainiziale />
 						<contenitore id="con2" nome="">
 							<h:p>
-								<rif xlink:href="allegati/1989_04_tabella_B.pdf" xlink:type="simple">Scarica pdf</rif>
+								<rif xlink:href="1989_04_tabella_B.pdf" xlink:type="simple">Scarica pdf</rif>
 							</h:p>
 						</contenitore>
 						<formulafinale />
