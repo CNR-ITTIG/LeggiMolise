@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20000415" num="8" tipo="BURM"/>
-                <entratainvigore norm="20000430"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2000-04-14;24"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
-                </materie>
-            </descrittori>
-        </meta><?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20000415" num="8" tipo="BURM" />
+					<entratainvigore norm="20000416" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2000-04-14;24" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20000416" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2000-04-14;24" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
  
 Bollettino 
 Bollettino Ufficiale n. 08 del 15 aprile 2000 
@@ -27,119 +36,129 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc norm="20000414">14 aprile 2000</dataDoc>, n. <numDoc>24</numDoc>. 
- 
-<titoloDoc>Provvedimenti di rifinanziamento e modifiche di leggi regionali relative a diversi settori di intervento. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art.1 </num>
-                <rubrica>
- 
-Per l'anno 2000 è autorizzato il rifinanziamento delle leggi regionali di cui all'allegato "A" nella misura a fianco di ciascun intervento settoriale indicato, ancorché esaurite per quanto concerne la loro validità finanziaria. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2 </num>
-                <rubrica>
- 
-Per l'anno 2000 è autorizzato il finanziamento nel bilancio della Regione dei capitoli di spesa di cui all'allegato "B" in quanto concernenti interventi finalizzati e finanziati dallo Stato. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art2-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art. 3 </num>
-                <rubrica>
- 
-Modifica della <rif
-                        xlink:href="urn:nir:regione.molise:legge:1999-12-01;37">legge regionale 
- 
-1° dicembre 1999, n. 37</rif> 
- 
-All'<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art6">art. 6 della legge regionale 1° dicembre 1999, n. 37</rif> "Istituzione dell'Azienda Speciale Regionale denominata: "Molise Acque la locuzione "cinque miliardi (2.582.284,4 EURO)" è sostituita dalla seguente "due miliardi (1.032.913,7 EURO)". 
- 
-Il punto</rubrica>
-                <comma id="art3-com1">
-                    <num> 1.</num>
-                    <corpo> dell'art. 21 della medesima legge regionale è così modificato: Il capitale di dotazione è costituito dal trasferimento regionale iscritto nel bilancio regionale per l'esercizio finanziario 2000. (Capitolo n. 21320). 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>Art. 4 </num>
-                <rubrica>
- 
-Modifica della <rif xlink:href="urn:nir:regione.molise:legge:1997-09-30;18">Legge regionale 
- 
-30 settembre 1997, n. 18</rif>  
- 
-All'art. 4, comma 1, della legge.regionale 30 settembre 1997, n. 18 &lt;&lt; Finanziamento dell'attività del conservatorio di musica "L. Perosi" di Campobasso per l'orchestra&gt;&gt; è aggiunto il seguente periodo "L'intervento della Regione è altresì volto a favorire l'attuazione di programmi di investimento attraverso la concessione in conto capitale di un contributo "una tantum" per l'esercizio finanziario 2000. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art4-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art5">
-                <num>Art. 5 </num>
-                <rubrica>
- 
-Modifica della <rif
-                        xlink:href="urn:nir:regione.molise:legge:1975-01-21;10">legge Regionale 
- 
-21 gennaio 1975, n. 10</rif>  
- 
-Al <rif xlink:href="urn:nir:regione.molise:legge:1975-01-21;10#art1-com1">Comma 1° dell'art. 1 della legge regionale 21 gennaio 1975, n. 10</rif> " ;Norme per agevolare l'esecuzione di opere pubbliche di competenza degli Enti Locali", è aggiunto il seguente periodo "ovvero interviene in modo diretto, anche partecipando a consorzi con gli Enti destinatari dei finanziamenti per la esecuzione delle opere medesime". 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art5-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art6">
-                <num>Art. 6 </num>
-
-                <rubrica>
- 
-Pubblicazione 
- 
-La presente legge è dichiarata urgente ai sensi dell'<rif
-                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello di pubblicazione nel Bollettino Ufficiale della Regione. 
- 
-è fatto obbligo a chiunque spetti di-osservarla e di farla osservare come legge della Regione Molise. 
- 
-_________________________ 
- 
-Allegato "A" (omissis) 
- 
-Allegato "B" (omissis) 
-<?error Marker Warning 109?>
-                </rubrica>
-                <comma id="art6-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20000414">14 aprile 2000</dataDoc>
+				, n.
+				<numDoc>24</numDoc>
+				.
+				<titoloDoc>Provvedimenti di rifinanziamento e modifiche di leggi regionali relative a diversi settori di intervento.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art.1</num>
+					<rubrica />
+					<comma id="art1-com1">
+						<num />
+						<corpo>Per l'anno 2000 è autorizzato il rifinanziamento delle leggi regionali di cui all'allegato "A" nella misura a fianco di ciascun intervento settoriale indicato, ancorché esaurite per quanto concerne la loro validità finanziaria.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica />
+					<comma id="art2-com1">
+						<num />
+						<corpo>Per l'anno 2000 è autorizzato il finanziamento nel bilancio della Regione dei capitoli di spesa di cui all'allegato "B" in quanto concernenti interventi finalizzati e finanziati dallo Stato.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>
+						Modifica della
+						<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37" xlink:type="simple">legge regionale 1° dicembre 1999, n. 37</rif>
+					</rubrica>
+					<comma id="art3-com1">
+						<num />
+						<corpo>
+							<mod id="mod1">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art6" xlink:type="simple">art. 6 della legge regionale 1° dicembre 1999, n. 37</rif>
+								"Istituzione dell'Azienda Speciale Regionale denominata: "Molise Acque" la locuzione "
+								<virgolette id="mod1-vir1" tipo="parola">cinque miliardi (2.582.284,4 EURO)</virgolette>
+								" è sostituita dalla seguente "
+								<virgolette id="mod1-vir2" tipo="parola">due miliardi (1.032.913,7 EURO)</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num />
+						<corpo>
+							<mod id="mod2">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1999-12-01;37#art21-com1" xlink:type="simple">punto 1. dell'art. 21 della medesima legge regionale</rif>
+								è così modificato:
+								<virgolette id="mod2-vir1" tipo="struttura">
+									<en id="mod2-vir1-num1">
+										<num />
+										<corpo>Il capitale di dotazione è costituito dal trasferimento regionale iscritto nel bilancio regionale per l'esercizio finanziario 2000. (Capitolo n. 21320).</corpo>
+									</en>
+								</virgolette>
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>
+						Modifica della
+						<rif xlink:href="urn:nir:regione.molise:legge:1997-09-30;18" xlink:type="simple">Legge regionale 30 settembre 1997, n. 18</rif>
+					</rubrica>
+					<comma id="art4-com1">
+						<num />
+						<corpo>
+							<mod id="mod3">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:1997-09-30;18#art4-com1" xlink:type="simple">art. 4, comma 1, della legge regionale 30 settembre 1997, n. 18</rif>
+								&lt;&lt; Finanziamento dell'attività del conservatorio di musica "L. Perosi" di Campobasso per l'orchestra&gt;&gt; è aggiunto il seguente periodo "
+								<virgolette id="mod3-vir1" tipo="parola">L'intervento della Regione è altresì volto a favorire l'attuazione di programmi di investimento attraverso la concessione in conto capitale di un contributo "una tantum" per l'esercizio finanziario 2000.</virgolette>
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>
+						Modifica della
+						<rif xlink:href="urn:nir:regione.molise:legge:1975-01-21;10" xlink:type="simple">legge Regionale 21 gennaio 1975, n. 10</rif>
+					</rubrica>
+					<comma id="art5-com1">
+						<num />
+						<corpo>
+							<mod id="mod4">
+								Al
+								<rif xlink:href="urn:nir:regione.molise:legge:1975-01-21;10#art1-com1" xlink:type="simple">Comma 1° dell'art. 1 della legge regionale 21 gennaio 1975, n. 10</rif>
+								"Norme per agevolare l'esecuzione di opere pubbliche di competenza degli Enti Locali", è aggiunto il seguente periodo "
+								<virgolette id="mod4-vir1" tipo="parola">ovvero interviene in modo diretto, anche partecipando a consorzi con gli Enti destinatari dei finanziamenti per la esecuzione delle opere medesime</virgolette>
+								".
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>Pubblicazione</rubrica>
+					<comma id="art6-com1">
+						<num />
+						<corpo>
+							La presente legge è dichiarata urgente ai sensi dell'
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art127" xlink:type="simple">art. 127 della Costituzione</rif>
+							e dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art38" xlink:type="simple">art. 38 dello Statuto regionale</rif>
+							ed entra in vigore il giorno successivo a quello di pubblicazione nel Bollettino Ufficiale della Regione.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione>
+				_________________________
+				<h:br />
+				Allegato "A" (omissis)
+				<h:br />
+				Allegato "B" (omissis)
+			</conclusione>
+		</LeggeRegionale>
+	</NIR>

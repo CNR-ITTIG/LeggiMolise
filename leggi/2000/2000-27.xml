@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20000415" num="8" tipo="BURM"/>
-                <entratainvigore norm="20000430"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2000-04-14;27"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="15.industria"/>
-                </materie>
-            </descrittori>
-        </meta><?error 15.Industria 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20000415" num="8" tipo="BURM" />
+					<entratainvigore norm="20000416" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2000-04-14;27" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="15.industria" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20000416" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2000-04-14;27" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 15.Industria 
  
 Bollettino 
 BOLLETTINO UFFICIALE n.8 del 15 aprile 2000 
@@ -27,678 +36,534 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc norm="20000414">14 aprile 2000</dataDoc>, n.<numDoc>27</numDoc>
-            <titoloDoc>Riordino della disciplina in materia d'industria 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art.1 </num>
-                <rubrica>
- 
-Finalità ed oggetto 
- </rubrica>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-                    <corpo> La Regione Molise concorre, con i benefici contemplati dalla presente legge e nei limiti degli stanziamenti di bilancio appositamente previsti, all'attuazione di interventi nel settore industriale nonché alla promozione dello sviluppo economico del proprio territorio e all'introduzione di processi innovativi. </corpo>
-                </comma>
-                <comma id="art1-com2">
-                    <num>
- 
-2.</num>
-
-                    <corpo> La presente legge disciplina l'esercizio, da parte della Regione e degli enti locali, delle funzioni concernenti la materia dell'industria come definita, ai sensi della <rif
-                            xlink:href="urn:nir:stato:legge:1997-03-15;59">Legge 15 marzo 1997, n. 59</rif>, e del <rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112">decreto legislativo n. 112 del 1998</rif> e successive modificazioni ed integrazioni. </corpo>
-                </comma>
-                <comma id="art1-com3">
-                    <num>
- 
-3.</num>
-
-                    <corpo> La Regione esercita tutte le funzioni ed essa conferite ai sensi degli artt. 19, 23, 26, 48 e 49 del <rif
-                            xlink:href="urn:nir:stato:decreto.legislativo:1998;112">decreto legislativo n. 112 del 1998</rif>, nonché le funzioni di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1999;34#art37">art. 37 della Legge Regionale n. 34/1999</rif>. </corpo>
-                </comma>
-                <comma id="art1-com4">
-                    <num>
- 
-4.</num>
-
-                    <corpo> La Regione subentra alle amministrazioni statali nelle convenzioni previste dall'<rif
-                            xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art19-com12">art. 19, comma 12, del decreto legislativo n. 112 del 1998</rif> e successive modificazioni e provvede all'eventuale revisione delle stesse secondo quanto stabilito all'<rif xlink:href="#art6">art. 6</rif>. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art.2 </num>
-                <rubrica>
- 
-Destinatari ed interventi 
- </rubrica>
-                <comma id="art2-com1">
-                    <num>
-1.</num>
-                    <alinea> I soggetti destinatari degli interventi di cui alla presente legge, sono: 
- 
-</alinea>
-                    <el id="art2-com1-leta">
-                        <num>a)</num>
-                        <corpo> le piccole e medie imprese industriali e di servizi alla produzione in qualsiasi forma costituite, aventi sede operativa nel territorio della Regione;</corpo>
-                    </el>
-                    <el id="art2-com1-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> i consorzi e le società consortili, anche in forma cooperativa, aventi la maggioranza delle imprese associate nel territorio della Regione;</corpo>
-                    </el>
-                    <el id="art2-com1-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> le imprese di cui alla <rif xlink:href="#art2-com1-leta">lettera a)</rif> temporaneamente associate per la realizzazione di progetti comuni;</corpo>
-                    </el>
-                    <el id="art2-com1-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> le imprese eccedenti i limiti dimensionali di piccola e media impresa, previsti dalla disciplina comunitaria in materia di aiuti di Stato alle imprese, limitatamente ai regimi autorizzati dalla Commissione Europea;</corpo>
-                    </el>
-                    <el id="art2-com1-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> le associazioni imprenditoriali;</corpo>
-                    </el>
-                    <el id="art2-com1-letf">
-                        <num> 
- 
-f)</num>
-                        <corpo> le Università, i Centri di ricerca ed i centri di servizio alle imprese. </corpo>
-                    </el>
-                </comma>
-                <comma id="art2-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Gli interventi oggetto di contributo ricomprendono spese per l'acquisizione di beni materiali e immateriali nonché di servizi strumentali al conseguimento degli obiettivi di qualificazione competitiva delle imprese. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art.3 </num>
-                <rubrica>
- 
-Funzioni riservate alla Regione 
- </rubrica>
-                <comma id="art3-com1">
-                    <num>
-1.</num>
-
-                    <alinea> Sono riservate alla Regione le funzioni di programmazione e di indirizzo, le funzioni previste dall'<rif xlink:href="urn:nir:regione.molise:legge:1999;34#art37">art. 37 della legge regionale n. 34/1999</rif>, nonché le funzioni concernenti: 
- 
-</alinea>
-                    <el id="art3-com1-leta">
-                        <num>a)</num>
-
-                        <corpo> l'adozione del programma triennale per l'industria di cui al <rif xlink:href="#art4">successivo art. 4</rif>;</corpo>
-                    </el>
-                    <el id="art3-com1-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> il concorso all'elaborazione ed attuazione delle politiche comunitarie e nazionali in materia di industria;</corpo>
-                    </el>
-                    <el id="art3-com1-letc">
-                        <num> 
- 
-c)</num>
-
-                        <corpo> la gestione del Fondo unico regionale per le attività produttive industriali, di cui all'<rif xlink:href="#art5">art. 5</rif>;</corpo>
-                    </el>
-                    <el id="art3-com1-letd">
-                        <num> 
- 
-d)</num>
-
-                        <corpo> la determinazione delle modalità di attuazione degli strumenti di programmazione negoziata, ai sensi del <rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art19-com2">comma 2 dell'art. 19 del decreto legislativo n. 112 del 1998</rif>;</corpo>
-                    </el>
-                    <el id="art3-com1-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> l'agevolazione dell'accesso al credito e la capitalizzazione delle imprese;</corpo>
-                    </el>
-                    <el id="art3-com1-letf">
-                        <num> 
- 
-f)</num>
-                        <corpo> l'elaborazione di Programmi di ricerca e di trasferimento tecnologico;</corpo>
-                    </el>
-                    <el id="art3-com1-letg">
-                        <num> 
- 
-g)</num>
-                        <corpo> la promozione di interventi per singoli settori industriali;</corpo>
-                    </el>
-                    <el id="art3-com1-leth">
-                        <num> 
- 
-h)</num>
-                        <corpo> il sostegno allo sviluppo delle esportazioni e dell'internazionalizzazione del sistema produttivo;</corpo>
-                    </el>
-                    <el id="art3-com1-leti">
-                        <num> 
- 
-i)</num>
-                        <corpo> lo sviluppo dei servizi reali alle imprese;</corpo>
-                    </el>
-                    <el id="art3-com1-letl">
-                        <num> 
- 
-l)</num>
-                        <corpo> la concessione di agevolazioni, contributi, sovvenzioni, incentivi e benefici di qualsiasi genere all'industria;</corpo>
-                    </el>
-                    <el id="art3-com1-letm">
-                        <num> 
- 
-m)</num>
-                        <corpo> l'attuazione di programmi comunitari;</corpo>
-                    </el>
-                    <el id="art3-com1-letn">
-                        <num> 
- 
-n)</num>
-
-                        <corpo> il coordinamento dei servizi e dell'assistenza alle imprese, in attuazione dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art23">art. 23 del decreto legislativo n. 112 del 1998</rif>;</corpo>
-                    </el>
-                    <el id="art3-com1-leto">
-                        <num> 
- 
-o)</num>
-                        <corpo> l'istituzione ed il coordinamento dei distretti industriali;</corpo>
-                    </el>
-                    <el id="art3-com1-letp">
-                        <num> 
- 
-p)</num>
-                        <corpo> i programmi di sostegno alla ristrutturazione, riconversione e sviluppo di singoli settori industriali;</corpo>
-                    </el>
-                    <el id="art3-com1-letq">
-                        <num> 
- 
-q)</num>
-
-                        <corpo> l'adozione di criteri specifici per l'attuazione delle misure di cui al <rif
-                                xlink:href="urn:nir:stato:decreto.legge:1992;415">decreto legge n. 415/1992</rif> convertito, con modificazioni, della <rif xlink:href="urn:nir:stato:legge:1992;488">legge n. 488/1992</rif> e successive modificazioni ed integrazioni. </corpo>
-                    </el>
-                </comma>
-                <comma id="art3-com2">
-                    <num>
- 
-2.</num>
-
-                    <corpo> La Regione provvede con apposita legge alla disciplina delle aree industriali anche ecologicamente attrezzate di cui all'<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art26">art. 26 del decreto legislativo n. 112 del 1998</rif> e nel contempo al riordino degli attuali consorzi per i nuclei di industrializzazione. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>Art.4 </num>
-                <rubrica>
- 
-Programma triennale per l'industria 
- </rubrica>
-                <comma id="art4-com1">
-                    <num>
-1.</num>
-                    <corpo> Per l'attuazione degli obiettivi e degli interventi della Regione in materia di attività produttive industriali, in coerenza con gli strumenti di programmazione regionale e conformemente agli indirizzi di cui agli artt. 7, 8, 9 e 10 la Giunta regionale propone al Consiglio, che l'approva nei successivi sessanta giorni, il Programma triennale regionale. La Giunta regionale può proporre annualmente al Consiglio per l'approvazione, aggiornamenti parziali del Programma stesso. </corpo>
-                </comma>
-                <comma id="art4-com2">
-                    <num>
- 
-2.</num>
-
-                    <corpo> La Giunta Regionale predispone il Programma regionale di cui al <rif
-                            xlink:href="#art4-com1">comma 1</rif> sentita la Conferenza per le Autonomie Locali di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1999;34#art9">art. 9 della legge regionale n. 34/1999</rif>, integrata dai rappresentanti delle Camere di Commercio Industria Agricoltura Artigianato ai sensi del comma 7 del medesimo art. 9, nonché le associazioni di categoria operanti nella regione. </corpo>
-                </comma>
-                <comma id="art4-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Il Programma regionale riguarda l'insieme delle attività spettanti alla Regione e dà attuazione agli interventi connessi con le funzioni delegate dallo Stato. </corpo>
-                </comma>
-                <comma id="art4-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Nel Programma regionale sono indicati gli obiettivi e le finalità da conseguire e i risultati attesi con riferimento alle esigenze di sviluppo e di equilibrio socio-economico della regione. </corpo>
-                </comma>
-                <comma id="art4-com5">
-                    <num>
- 
-5.</num>
-                    <alinea> Il Programma regionale sostiene: 
- 
-</alinea>
-                    <el id="art4-com5-leta">
-                        <num>a)</num>
-                        <corpo> la creazione di nuove imprese e la successione nella conduzione di impresa, in particolare a favore dell'imprenditorialità giovanile e femminile;</corpo>
-                    </el>
-                    <el id="art4-com5-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> la ricerca e l'innovazione e la partecipazione ai relativi programmi comunitari e nazionali;</corpo>
-                    </el>
-                    <el id="art4-com5-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> la realizzazione di interventi di innovazione nei prodotti, nelle tipologie e nei processi produttivi;</corpo>
-                    </el>
-                    <el id="art4-com5-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> la realizzazione di sistemi di qualità aziendale e la loro certificazione;</corpo>
-                    </el>
-                    <el id="art4-com5-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> a promozione di interventi per la prevenzione di rischi e la tutela della salute nei luoghi di lavoro nonché la qualità ambientale interna ed esterna alle imprese;</corpo>
-                    </el>
-                    <el id="art4-com5-letf">
-                        <num> 
- 
-f)</num>
-                        <corpo> la realizzazione di iniziative delle imprese volte a favorire l'esportazione e l'internazionalizzazione. </corpo>
-                    </el>
-                </comma>
-                <comma id="art4-com6">
-                    <num>
- 
-6.</num>
-                    <alinea> Il Programma regionale altresì definisce gli interventi per: 
- 
-</alinea>
-                    <el id="art4-com6-leta">
-                        <num>a)</num>
-
-                        <corpo> l'agevolazione dell'accesso al credito, ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art49">art. 49 del decreto legislativo n. 112 del 1998</rif>, e la capitalizzazione di impresa definendo i criteri per il rapporto con gli istituti di credito e con la Finanziaria regionale (FINMOLISE);</corpo>
-                    </el>
-                    <el id="art4-com6-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> il sostegno della ricerca applicata, l'innovazione e il trasferimento tecnologico, sviluppato da piccole e medie imprese, anche in forma associata;</corpo>
-                    </el>
-                    <el id="art4-com6-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> la promozione e l'attuazione di progetti per la valorizzazione delle produzioni e per il sostegno all'esportazione, nonché per l'internazionalizzazione delle imprese;</corpo>
-                    </el>
-                    <el id="art4-com6-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> lo sviluppo dei sistemi produttivi locali, mediante gli strumenti della programmazione negoziata, promuovendo anche lo sviluppo e la qualificazione tecnologica delle aree di insediamento produttivo e le reti territoriali di servizi alle imprese. </corpo>
-                    </el>
-                </comma>
-                <comma id="art4-com7">
-                    <num>
- 
-7.</num>
-                    <corpo> Il Programma regionale individua gli obiettivi e le priorità tra le diverse linee di intervento. I fabbisogni finanziari necessari per l'attuazione del programma sono indicati nel bilancio annuale. </corpo>
-                </comma>
-                <comma id="art4-com8">
-                    <num>
- 
-8.</num>
-                    <alinea> Il Programma regionale determina inoltre: 
- 
-</alinea>
-                    <el id="art4-com8-leta">
-                        <num>a)</num>
-
-                        <corpo> le procedure per la concessione ed erogazione dei contributi, ai sensi del <rif xlink:href="urn:nir:stato:decreto.legislativo:1998;123">decreto legislativo n. 123 del 1998</rif>;</corpo>
-                    </el>
-                    <el id="art4-com8-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> gli ambiti di intervento e le relative tipologie;</corpo>
-                    </el>
-                    <el id="art4-com8-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> la ripartizione delle risorse finanziarie tra le diverse tipologie di intervento;</corpo>
-                    </el>
-                    <el id="art4-com8-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> i soggetti beneficiari, in relazione ai singoli ambiti di intervento;</corpo>
-                    </el>
-                    <el id="art4-com8-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> le modalità di attuazione delle funzioni di programmazione negoziata per lo sviluppo del sistema produttivo;</corpo>
-                    </el>
-                    <el id="art4-com8-letf">
-                        <num> 
- 
-f)</num>
-                        <corpo> le spese ammissibili e i criteri di concessione, erogazione e revoca dei benefici, le modalità di presentazione delle domande e le misure dei contributi. </corpo>
-                    </el>
-                </comma>
-                <comma id="art4-com9">
-                    <num>
- 
-9.</num>
-                    <corpo> La Giunta Regionale svolge l'attività di attuazione, monitoraggio e valutazione del programma di intervento e presenta annualmente al Consiglio una relazione sullo stato di attuazione, sui risultati conseguiti dal programma nell'anno precedente e sull'efficacia degli interventi realizzati rispetto agli obiettivi perseguiti. </corpo>
-                </comma>
-                <comma id="art4-com10">
-                    <num>
- 
-10.</num>
-                    <corpo> Limitatamente all'anno in corso alla data di entrata in vigore della presente legge, nelle more dell'adozione del programma triennale per l'industria, la Giunta Regionale provvederè ad erogare i contributi previsti dalle vigenti leggi statali secondo i criteri e le modalità di cui alle stesse leggi. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art5">
-                <num>Art.5 </num>
-                <rubrica>
- 
-Fondo Unico regionale per le attività produttive industriali 
- </rubrica>
-                <comma id="art5-com1">
-                    <num>
-1.</num>
-
-                    <corpo> è istituito il Fondo Unico regionale per le attività produttive industriali nel quale confluiscono le risorse statali di cui al <rif
-                            xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art19-com5">comma 5 dell'art. 19 del Decreto Legislativo n. 112/1998</rif> e tutte le ulteriori risorse regionali destinate ad interventi di sostegno alle attività produttive industriali per il conseguimento degli obiettivi indicati nel Programma triennale di cui all'<rif xlink:href="#art4">art. 4</rif>. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art6">
-                <num>Art.6 </num>
-                <rubrica>
- 
-Convenzioni 
- </rubrica>
-                <comma id="art6-com1">
-                    <num>
-1.</num>
-                    <corpo> L'erogazione dei contributi e gli interventi per l'agevolazione dell'accesso al credito previsti dal Programma triennale per l'industria possono essere affidati mediante convenzione alla Finanziaria regionale (FINMOLISE) e/o a soggetti terzi con questa convenzionati. </corpo>
-                </comma>
-                <comma id="art6-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> La Regione subentra alle Amministrazioni statali nei diritti e negli obblighi derivanti dalle convenzioni dalle stesse stipulate in forza di legge. </corpo>
-                </comma>
-                <comma id="art6-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Eventuali convenzioni per nuovi affidamenti sono predisposte dalla Giunta regionale e stipulate previo parere della competente Commissione Consiliare. Il parere viene emesso entro trenta giorni dalla comunicazione dello schema di convenzione, decorsi i quali il parere stesso si intende reso in senso favorevole. </corpo>
-                </comma>
-                <comma id="art6-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Le convenzioni di cui al <rif
-                            xlink:href="#art6-com3">comma 3</rif> possono affidare a terzi anche la concessione di contributi qualora la procedura da adottarsi sia quella automatica, cosi come definita dall'<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-03-31;123#art4">art. 4 del decreto legislativo 31 marzo 1998, n. 123</rif>, e successive modifiche. </corpo>
-                </comma>
-                <comma id="art6-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> I soggetti convenzionati devono essere abilitati ai sensi della normativa vigente in materia di garanzia e credito. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art7">
-                <num>Art.7 </num>
-                <rubrica>
- 
-Indirizzi per l'attuazione delle funzioni delegate in materia di agevolazione dell'accesso al credito 
- </rubrica>
-                <comma id="art7-com1">
-                    <num>
-1.</num>
-                    <corpo> La Regione sviluppa azioni volte ad agevolare l'accesso al credito, disciplina i rapporti con gli istituti di credito e con la Finanziaria regionale (FINMOLISE), determina i criteri dell'ammissibilità al credito agevolato ed i controlli sulla sua effettiva destinazione. La Regione determina altresì i criteri applicativi dei provvedimenti regionali di agevolazione creditizia, di prestazione di garanzia e di assegnazione di fondi, anticipazioni e quote di concorso, destinati all'agevolazione dell'accesso al credito sulla materia di competenza regionale, anche se relativi a provvedimenti di incentivazione definiti in sede statale o comunitaria. </corpo>
-                </comma>
-                <comma id="art7-com2">
-                    <num>
- 
-2.</num>
-
-                    <corpo> La Regione può costituire propri fondi per interventi di concessione di garanzia, primaria e accessoria, anche presso soggetti abilitati ai sensi della normativa vigente in materia di garanzia e credito, con i quali stipula apposite convenzioni con le modalità di cui all'<rif xlink:href="#art6">art. 6</rif>. Le convenzioni definiscono i vincoli di destinazione dei fondi, i criteri di selezione dei beneficiari delle garanzie, le modalità di trasferimento delle risorse finanziarie. </corpo>
-                </comma>
-                <comma id="art7-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> La Regione può intervenire anche mediante l'erogazione di contributi a favore dei consorzi e società consortili fidi regionali, costituiti anche in forma cooperativa, per incrementare la capacità di garanzia ed agevolare l'accesso al credito a breve e medio termine delle imprese regionali. </corpo>
-                </comma>
-                <comma id="art7-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> La Regione, ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art49">art. 49 del decreto legislativo n. 112 del 1998</rif>, può sottoscrivere accordi integrativi con l'istituto tesoriere, ovvero con altri istituti di credito e con la Finanziaria regionale (FINMOLISE), al fine di agevolare l'accesso al credito da parte delle piccole e medie imprese. </corpo>
-                </comma>
-                <comma id="art7-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> Gli accordi integrativi di cui al <rif xlink:href="#art7-com4">comma 4</rif>, definiscono l'individuazione delle risorse finanziarie messe a disposizione, i parametri di determinazione dei tassi di riferimento, i tempi e le procedure per la concessione dei finanziamenti. </corpo>
-                </comma>
-                <comma id="art7-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> Gli accordi integrativi definiscono, altresì, le tipologie di investimento aziendale prioritarie. </corpo>
-                </comma>
-                <comma id="art7-com7">
-                    <num>
- 
-7.</num>
-
-                    <corpo> La Regione può concedere contributi alle piccole e medie imprese al fine di ridurre il tasso di interesse sui finanziamenti concessi dagli istituti di credito convenzionati e dalla Finanziaria regionale (FINMOLISE). In tal caso l'entità della riduzione del tasso di interesse è determinata dagli accordi integrativi di cui al <rif xlink:href="#art7-com4">comma 4</rif>. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art8">
-                <num>Art.8 </num>
-                <rubrica>
- 
-Indirizzi per l'attuazione delle funzioni delegate in materia di capitalizzazione delle piccole e medie imprese 
- </rubrica>
-                <comma id="art8-com1">
-                    <num>
-1.</num>
-                    <corpo> La Regione, mediante la Finanziaria regionale (FINMOLISE), realizza azioni finalizzate alla capitalizzazione delle piccole e medie imprese, in particolare attraverso la prestazione di garanzie su prestiti partecipativi e su acquisizioni di partecipazione al capitale di rischio delle imprese. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art9">
-                <num>Art.9 </num>
-                <rubrica>
- 
-Indirizzi per l'attuazione delle funzioni delegate per lo sviluppo di programmi e per il trasferimento tecnologico 
- </rubrica>
-                <comma id="art9-com1">
-                    <num>
-1.</num>
-
-                    <alinea> Al fine di dare attuazione alle funzioni delegate inerenti alla realizzazione di programmi per l'innovazione ed il trasferimento di innovazioni tecnologiche al sistema produttivo, nell'ambito degli indirizzi comunitari e nazionali in materia di ricerca applicata, di innovazione e trasferimento tecnologico, nonché degli indirizzi programmatici del Programma Triennale di cui all'<rif xlink:href="#art4">art. 4</rif>, la Regione promuove i seguenti obiettivi: 
- 
-</alinea>
-                    <el id="art9-com1-leta">
-                        <num>a)</num>
-                        <corpo> lo sviluppo efficace e coordinato sul territorio regionale di iniziative di ricerca applicata e di innovazione, nonché di attività e strutture per il trasferimento e la diffusione di conoscenze tecnologiche, promosse da Università, enti di ricerca, Centri di servizio alle imprese presenti nel territorio della Regione e rivolte all'accrescimento di competitività tecnologica delle imprese e del sistema produttivo regionale;</corpo>
-                    </el>
-                    <el id="art9-com1-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> la promozione di iniziative comuni con gli enti di ricerca e con i loro centri, nonché con l'Università degli Studi del Molise per l'attuazione, in modo coordinato, di iniziative e attività per sostenere un sistema regionale per la diffusione di conoscenze e il trasferimento di tecnologie. 
- 
-</corpo>
-                    </el>
-                </comma>
-            </articolo>
-            <articolo id="art10">
-                <num>Art.10 </num>
-                <rubrica>
- 
-Indirizzi per l'attuazione delle funzioni delegate per il sostegno 
- 
-delle esportazioni e dell'internazionalizzazione delle imprese 
- </rubrica>
-                <comma id="art10-com1">
-                    <num>
-1.</num>
-
-                    <alinea> La Regione, in attuazione delle funzioni delegate inerenti allo sviluppo delle esportazioni e dell'internazionalizzazione delle imprese, di cui agli artt. 19 e 48 del <rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112">decreto legislativo n. 112/1998</rif>, sostiene le seguenti finalità: 
- 
-</alinea>
-                    <el id="art10-com1-leta">
-                        <num>a)</num>
-                        <corpo> la realizzazione di eventi e progetti organici di promozione finalizzati alla penetrazione di mercati esteri;</corpo>
-                    </el>
-                    <el id="art10-com1-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> l'erogazione di servizi informativi e di assistenza a sostegno dell'internazionalizzazione delle imprese del Molise;</corpo>
-                    </el>
-                    <el id="art10-com1-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> la promozione degli investimenti esteri nel Molise. </corpo>
-                    </el>
-                </comma>
-                <comma id="art10-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Per i fini di cui al <rif
-                            xlink:href="#art10-com1">comma 1</rif> la Regione, avvalendosi dell'apporto tecnico delle C.<rif xlink:href="#art10-com1">C.I</rif>.A.A., può stipulare accordi con le amministrazioni centrali dello Stato, l'Istituto Nazionale per il Commercio Estero (ICE), le associazioni delle categorie produttive, gli enti fieristici e altri soggetti pubblici e privati ritenuti idonei. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art11">
-                <num>Art.11 </num>
-                <rubrica>
- 
-Sportello unico 
- </rubrica>
-                <comma id="art11-com1">
-                    <num>
-1.</num>
-                    <corpo> I Comuni istituiscono, singolarmente o in forma associata secondo le modalità di cui alla legislazione vigente, lo sportello unico per le attività produttive ai fini dello svolgimento del procedimento autorizzativo nonché per la realizzazione di attività di informazione ed assistenza alle imprese. </corpo>
-                </comma>
-                <comma id="art11-com2">
-                    <num>
- 
-2.</num>
-
-                    <corpo> Lo sportello unico cura, avendo riguardo in particolare ai profili urbanistici, sanitari, della tutela ambientale e della sicurezza, lo svolgimento del procedimento di autorizzazione alla localizzazione, realizzazione, ampliamento, cessazione e riattivazione di impianti produttivi, incluso il rilascio della concessione o della autorizzazione edilizia, nel rispetto del regolamento di cui al <rif
-                            xlink:href="urn:nir:presidente.repubblica:decreto:1998-10-20;447">D.P.R. 20 ottobre 1998, n. 447</rif>, emanato ai sensi del <rif xlink:href="urn:nir:stato:legge:1997-03-15;59#art20-com8">comma 8 dell'art. 20 della legge 15 marzo 1997, n. 59</rif>, fermo restando che la concessione o autorizzazione edilizia è rilasciata dal Comune in cui ha sede l'impianto. </corpo>
-                </comma>
-                <comma id="art11-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Ai fini della piena efficacia dell'azione amministrativa e per ridurre i tempi per il rilascio dell'autorizzazione, lo sportello unico sviluppa le necessarie forme di integrazione e raccordi organizzativi con le altre amministrazioni coinvolte nel procedimento. </corpo>
-                </comma>
-                <comma id="art11-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> La Giunta regionale può concedere contributi ai Comuni, singoli o associati, per l'istituzione degli sportelli unici, stabilendo le modalità e i criteri per la concessione. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art12">
-                <num>Art.12 </num>
-                <rubrica>
- 
-Adempimenti comunitari 
- </rubrica>
-                <comma id="art12-com1">
-                    <num>
-1.</num>
-
-                    <corpo> Qualora gli aiuti previsti dal programma regionale ovvero dalla normativa statale di cui ai commi 1 e 2 dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art19">art. 19 del decreto legislativo n. 112/1998</rif> deroghino ai limiti di cui al regime denominato "de minimis", la Regione provvede alla notifica del programma stesso alla Commissione Europea. </corpo>
-                </comma>
-                <comma id="art12-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Le disposizioni della presente legge che costituiscono regime di aiuto alle imprese sono efficaci a decorrere dal giorno successivo a quello di pubblicazione, nel Bollettino Ufficiale della Regione Molise, del parere favorevole della Commissione dell'Unione Europea emesso in esito a procedura di notifica. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art13">
-                <num>Art.13 </num>
-                <rubrica>
- 
-Disposizioni finanziarie 
- </rubrica>
-                <comma id="art13-com1">
-                    <num>
-1.</num>
-                    <corpo> Agli oneri derivanti dall'attuazione della presente legge si farè fronte mediante l'istituzione di appositi capitoli di spesa con legge di approvazione del Bilancio per l'esercizio finanziario 2000 o con successiva legge di variazione. </corpo>
-                </comma>
-                <comma id="art13-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Relativamente agli esercizi finanziari 2001 e successivi si provvederè con le rispettive leggi di approvazione del Bilancio. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art14">
-                <num>Art.14 </num>
-                <rubrica>
- 
-Dichiarazione d'urgenza 
- </rubrica>
-                <comma id="art14-com1">
-                    <num>
-1.</num>
-                    <corpo> La presente legge è dichiarata urgente ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
-
-?>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20000414">14 aprile 2000</dataDoc>
+				, n.
+				<numDoc>27</numDoc>
+				<titoloDoc>Riordino della disciplina in materia d'industria</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art.1</num>
+					<rubrica>Finalità ed oggetto</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>La Regione Molise concorre, con i benefici contemplati dalla presente legge e nei limiti degli stanziamenti di bilancio appositamente previsti, all'attuazione di interventi nel settore industriale nonché alla promozione dello sviluppo economico del proprio territorio e all'introduzione di processi innovativi.</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>
+							La presente legge disciplina l'esercizio, da parte della Regione e degli enti locali, delle funzioni concernenti la materia dell'industria come definita, ai sensi della
+							<rif xlink:href="urn:nir:stato:legge:1997-03-15;59" xlink:type="simple">Legge 15 marzo 1997, n. 59</rif>
+							, e del
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112" xlink:type="simple">decreto legislativo n. 112 del 1998</rif>
+							e successive modificazioni ed integrazioni.
+						</corpo>
+					</comma>
+					<comma id="art1-com3">
+						<num>3.</num>
+						<corpo>
+							La Regione esercita tutte le funzioni ed essa conferite ai sensi degli artt. 19, 23, 26, 48 e 49 del
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112" xlink:type="simple">decreto legislativo n. 112 del 1998</rif>
+							, nonché le funzioni di cui all'
+							<rif xlink:href="urn:nir:regione.molise:legge:1999;34#art37" xlink:type="simple">art. 37 della Legge Regionale n. 34/1999</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art1-com4">
+						<num>4.</num>
+						<corpo>
+							La Regione subentra alle amministrazioni statali nelle convenzioni previste dall'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art19-com12" xlink:type="simple">art. 19, comma 12, del decreto legislativo n. 112 del 1998</rif>
+							e successive modificazioni e provvede all'eventuale revisione delle stesse secondo quanto stabilito all'
+							<rif xlink:href="#art6" xlink:type="simple">art. 6</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art.2</num>
+					<rubrica>Destinatari ed interventi</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<alinea>I soggetti destinatari degli interventi di cui alla presente legge, sono:</alinea>
+						<el id="art2-com1-leta">
+							<num>a)</num>
+							<corpo>le piccole e medie imprese industriali e di servizi alla produzione in qualsiasi forma costituite, aventi sede operativa nel territorio della Regione;</corpo>
+						</el>
+						<el id="art2-com1-letb">
+							<num>b)</num>
+							<corpo>i consorzi e le società consortili, anche in forma cooperativa, aventi la maggioranza delle imprese associate nel territorio della Regione;</corpo>
+						</el>
+						<el id="art2-com1-letc">
+							<num>c)</num>
+							<corpo>
+								le imprese di cui alla
+								<rif xlink:href="#art2-com1-leta" xlink:type="simple">lettera a)</rif>
+								temporaneamente associate per la realizzazione di progetti comuni;
+							</corpo>
+						</el>
+						<el id="art2-com1-letd">
+							<num>d)</num>
+							<corpo>le imprese eccedenti i limiti dimensionali di piccola e media impresa, previsti dalla disciplina comunitaria in materia di aiuti di Stato alle imprese, limitatamente ai regimi autorizzati dalla Commissione Europea;</corpo>
+						</el>
+						<el id="art2-com1-lete">
+							<num>e)</num>
+							<corpo>le associazioni imprenditoriali;</corpo>
+						</el>
+						<el id="art2-com1-letf">
+							<num>f)</num>
+							<corpo>le Università, i Centri di ricerca ed i centri di servizio alle imprese.</corpo>
+						</el>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>Gli interventi oggetto di contributo ricomprendono spese per l'acquisizione di beni materiali e immateriali nonché di servizi strumentali al conseguimento degli obiettivi di qualificazione competitiva delle imprese.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art.3</num>
+					<rubrica>Funzioni riservate alla Regione</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<alinea>
+							Sono riservate alla Regione le funzioni di programmazione e di indirizzo, le funzioni previste dall'
+							<rif xlink:href="urn:nir:regione.molise:legge:1999;34#art37" xlink:type="simple">art. 37 della legge regionale n. 34/1999</rif>
+							, nonché le funzioni concernenti:
+						</alinea>
+						<el id="art3-com1-leta">
+							<num>a)</num>
+							<corpo>
+								l'adozione del programma triennale per l'industria di cui al
+								<rif xlink:href="#art4" xlink:type="simple">successivo art. 4</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art3-com1-letb">
+							<num>b)</num>
+							<corpo>il concorso all'elaborazione ed attuazione delle politiche comunitarie e nazionali in materia di industria;</corpo>
+						</el>
+						<el id="art3-com1-letc">
+							<num>c)</num>
+							<corpo>
+								la gestione del Fondo unico regionale per le attività produttive industriali, di cui all'
+								<rif xlink:href="#art5" xlink:type="simple">art. 5</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art3-com1-letd">
+							<num>d)</num>
+							<corpo>
+								la determinazione delle modalità di attuazione degli strumenti di programmazione negoziata, ai sensi del
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art19-com2" xlink:type="simple">comma 2 dell'art. 19 del decreto legislativo n. 112 del 1998</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art3-com1-lete">
+							<num>e)</num>
+							<corpo>l'agevolazione dell'accesso al credito e la capitalizzazione delle imprese;</corpo>
+						</el>
+						<el id="art3-com1-letf">
+							<num>f)</num>
+							<corpo>l'elaborazione di Programmi di ricerca e di trasferimento tecnologico;</corpo>
+						</el>
+						<el id="art3-com1-letg">
+							<num>g)</num>
+							<corpo>la promozione di interventi per singoli settori industriali;</corpo>
+						</el>
+						<el id="art3-com1-leth">
+							<num>h)</num>
+							<corpo>il sostegno allo sviluppo delle esportazioni e dell'internazionalizzazione del sistema produttivo;</corpo>
+						</el>
+						<el id="art3-com1-leti">
+							<num>i)</num>
+							<corpo>lo sviluppo dei servizi reali alle imprese;</corpo>
+						</el>
+						<el id="art3-com1-letl">
+							<num>l)</num>
+							<corpo>la concessione di agevolazioni, contributi, sovvenzioni, incentivi e benefici di qualsiasi genere all'industria;</corpo>
+						</el>
+						<el id="art3-com1-letm">
+							<num>m)</num>
+							<corpo>l'attuazione di programmi comunitari;</corpo>
+						</el>
+						<el id="art3-com1-letn">
+							<num>n)</num>
+							<corpo>
+								il coordinamento dei servizi e dell'assistenza alle imprese, in attuazione dell'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art23" xlink:type="simple">art. 23 del decreto legislativo n. 112 del 1998</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art3-com1-leto">
+							<num>o)</num>
+							<corpo>l'istituzione ed il coordinamento dei distretti industriali;</corpo>
+						</el>
+						<el id="art3-com1-letp">
+							<num>p)</num>
+							<corpo>i programmi di sostegno alla ristrutturazione, riconversione e sviluppo di singoli settori industriali;</corpo>
+						</el>
+						<el id="art3-com1-letq">
+							<num>q)</num>
+							<corpo>
+								l'adozione di criteri specifici per l'attuazione delle misure di cui al
+								<rif xlink:href="urn:nir:stato:decreto.legge:1992;415" xlink:type="simple">decreto legge n. 415/1992</rif>
+								convertito, con modificazioni, della
+								<rif xlink:href="urn:nir:stato:legge:1992;488" xlink:type="simple">legge n. 488/1992</rif>
+								e successive modificazioni ed integrazioni.
+							</corpo>
+						</el>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<corpo>
+							La Regione provvede con apposita legge alla disciplina delle aree industriali anche ecologicamente attrezzate di cui all'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art26" xlink:type="simple">art. 26 del decreto legislativo n. 112 del 1998</rif>
+							e nel contempo al riordino degli attuali consorzi per i nuclei di industrializzazione.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art.4</num>
+					<rubrica>Programma triennale per l'industria</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>Per l'attuazione degli obiettivi e degli interventi della Regione in materia di attività produttive industriali, in coerenza con gli strumenti di programmazione regionale e conformemente agli indirizzi di cui agli artt. 7, 8, 9 e 10 la Giunta regionale propone al Consiglio, che l'approva nei successivi sessanta giorni, il Programma triennale regionale. La Giunta regionale può proporre annualmente al Consiglio per l'approvazione, aggiornamenti parziali del Programma stesso.</corpo>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<corpo>
+							La Giunta Regionale predispone il Programma regionale di cui al
+							<rif xlink:href="#art4-com1" xlink:type="simple">comma 1</rif>
+							sentita la Conferenza per le Autonomie Locali di cui all'
+							<rif xlink:href="urn:nir:regione.molise:legge:1999;34#art9" xlink:type="simple">art. 9 della legge regionale n. 34/1999</rif>
+							, integrata dai rappresentanti delle Camere di Commercio Industria Agricoltura Artigianato ai sensi del comma 7 del medesimo art. 9, nonché le associazioni di categoria operanti nella regione.
+						</corpo>
+					</comma>
+					<comma id="art4-com3">
+						<num>3.</num>
+						<corpo>Il Programma regionale riguarda l'insieme delle attività spettanti alla Regione e dà attuazione agli interventi connessi con le funzioni delegate dallo Stato.</corpo>
+					</comma>
+					<comma id="art4-com4">
+						<num>4.</num>
+						<corpo>Nel Programma regionale sono indicati gli obiettivi e le finalità da conseguire e i risultati attesi con riferimento alle esigenze di sviluppo e di equilibrio socio-economico della regione.</corpo>
+					</comma>
+					<comma id="art4-com5">
+						<num>5.</num>
+						<alinea>Il Programma regionale sostiene:</alinea>
+						<el id="art4-com5-leta">
+							<num>a)</num>
+							<corpo>la creazione di nuove imprese e la successione nella conduzione di impresa, in particolare a favore dell'imprenditorialità giovanile e femminile;</corpo>
+						</el>
+						<el id="art4-com5-letb">
+							<num>b)</num>
+							<corpo>la ricerca e l'innovazione e la partecipazione ai relativi programmi comunitari e nazionali;</corpo>
+						</el>
+						<el id="art4-com5-letc">
+							<num>c)</num>
+							<corpo>la realizzazione di interventi di innovazione nei prodotti, nelle tipologie e nei processi produttivi;</corpo>
+						</el>
+						<el id="art4-com5-letd">
+							<num>d)</num>
+							<corpo>la realizzazione di sistemi di qualità aziendale e la loro certificazione;</corpo>
+						</el>
+						<el id="art4-com5-lete">
+							<num>e)</num>
+							<corpo>a promozione di interventi per la prevenzione di rischi e la tutela della salute nei luoghi di lavoro nonché la qualità ambientale interna ed esterna alle imprese;</corpo>
+						</el>
+						<el id="art4-com5-letf">
+							<num>f)</num>
+							<corpo>la realizzazione di iniziative delle imprese volte a favorire l'esportazione e l'internazionalizzazione.</corpo>
+						</el>
+					</comma>
+					<comma id="art4-com6">
+						<num>6.</num>
+						<alinea>Il Programma regionale altresì definisce gli interventi per:</alinea>
+						<el id="art4-com6-leta">
+							<num>a)</num>
+							<corpo>
+								l'agevolazione dell'accesso al credito, ai sensi dell'
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art49" xlink:type="simple">art. 49 del decreto legislativo n. 112 del 1998</rif>
+								, e la capitalizzazione di impresa definendo i criteri per il rapporto con gli istituti di credito e con la Finanziaria regionale (FINMOLISE);
+							</corpo>
+						</el>
+						<el id="art4-com6-letb">
+							<num>b)</num>
+							<corpo>il sostegno della ricerca applicata, l'innovazione e il trasferimento tecnologico, sviluppato da piccole e medie imprese, anche in forma associata;</corpo>
+						</el>
+						<el id="art4-com6-letc">
+							<num>c)</num>
+							<corpo>la promozione e l'attuazione di progetti per la valorizzazione delle produzioni e per il sostegno all'esportazione, nonché per l'internazionalizzazione delle imprese;</corpo>
+						</el>
+						<el id="art4-com6-letd">
+							<num>d)</num>
+							<corpo>lo sviluppo dei sistemi produttivi locali, mediante gli strumenti della programmazione negoziata, promuovendo anche lo sviluppo e la qualificazione tecnologica delle aree di insediamento produttivo e le reti territoriali di servizi alle imprese.</corpo>
+						</el>
+					</comma>
+					<comma id="art4-com7">
+						<num>7.</num>
+						<corpo>Il Programma regionale individua gli obiettivi e le priorità tra le diverse linee di intervento. I fabbisogni finanziari necessari per l'attuazione del programma sono indicati nel bilancio annuale.</corpo>
+					</comma>
+					<comma id="art4-com8">
+						<num>8.</num>
+						<alinea>Il Programma regionale determina inoltre:</alinea>
+						<el id="art4-com8-leta">
+							<num>a)</num>
+							<corpo>
+								le procedure per la concessione ed erogazione dei contributi, ai sensi del
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;123" xlink:type="simple">decreto legislativo n. 123 del 1998</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art4-com8-letb">
+							<num>b)</num>
+							<corpo>gli ambiti di intervento e le relative tipologie;</corpo>
+						</el>
+						<el id="art4-com8-letc">
+							<num>c)</num>
+							<corpo>la ripartizione delle risorse finanziarie tra le diverse tipologie di intervento;</corpo>
+						</el>
+						<el id="art4-com8-letd">
+							<num>d)</num>
+							<corpo>i soggetti beneficiari, in relazione ai singoli ambiti di intervento;</corpo>
+						</el>
+						<el id="art4-com8-lete">
+							<num>e)</num>
+							<corpo>le modalità di attuazione delle funzioni di programmazione negoziata per lo sviluppo del sistema produttivo;</corpo>
+						</el>
+						<el id="art4-com8-letf">
+							<num>f)</num>
+							<corpo>le spese ammissibili e i criteri di concessione, erogazione e revoca dei benefici, le modalità di presentazione delle domande e le misure dei contributi.</corpo>
+						</el>
+					</comma>
+					<comma id="art4-com9">
+						<num>9.</num>
+						<corpo>La Giunta Regionale svolge l'attività di attuazione, monitoraggio e valutazione del programma di intervento e presenta annualmente al Consiglio una relazione sullo stato di attuazione, sui risultati conseguiti dal programma nell'anno precedente e sull'efficacia degli interventi realizzati rispetto agli obiettivi perseguiti.</corpo>
+					</comma>
+					<comma id="art4-com10">
+						<num>10.</num>
+						<corpo>Limitatamente all'anno in corso alla data di entrata in vigore della presente legge, nelle more dell'adozione del programma triennale per l'industria, la Giunta Regionale provvederè ad erogare i contributi previsti dalle vigenti leggi statali secondo i criteri e le modalità di cui alle stesse leggi.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art.5</num>
+					<rubrica>Fondo Unico regionale per le attività produttive industriali</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>
+							è istituito il Fondo Unico regionale per le attività produttive industriali nel quale confluiscono le risorse statali di cui al
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art19-com5" xlink:type="simple">comma 5 dell'art. 19 del Decreto Legislativo n. 112/1998</rif>
+							e tutte le ulteriori risorse regionali destinate ad interventi di sostegno alle attività produttive industriali per il conseguimento degli obiettivi indicati nel Programma triennale di cui all'
+							<rif xlink:href="#art4" xlink:type="simple">art. 4</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art.6</num>
+					<rubrica>Convenzioni</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>L'erogazione dei contributi e gli interventi per l'agevolazione dell'accesso al credito previsti dal Programma triennale per l'industria possono essere affidati mediante convenzione alla Finanziaria regionale (FINMOLISE) e/o a soggetti terzi con questa convenzionati.</corpo>
+					</comma>
+					<comma id="art6-com2">
+						<num>2.</num>
+						<corpo>La Regione subentra alle Amministrazioni statali nei diritti e negli obblighi derivanti dalle convenzioni dalle stesse stipulate in forza di legge.</corpo>
+					</comma>
+					<comma id="art6-com3">
+						<num>3.</num>
+						<corpo>Eventuali convenzioni per nuovi affidamenti sono predisposte dalla Giunta regionale e stipulate previo parere della competente Commissione Consiliare. Il parere viene emesso entro trenta giorni dalla comunicazione dello schema di convenzione, decorsi i quali il parere stesso si intende reso in senso favorevole.</corpo>
+					</comma>
+					<comma id="art6-com4">
+						<num>4.</num>
+						<corpo>
+							Le convenzioni di cui al
+							<rif xlink:href="#art6-com3" xlink:type="simple">comma 3</rif>
+							possono affidare a terzi anche la concessione di contributi qualora la procedura da adottarsi sia quella automatica, cosi come definita dall'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998-03-31;123#art4" xlink:type="simple">art. 4 del decreto legislativo 31 marzo 1998, n. 123</rif>
+							, e successive modifiche.
+						</corpo>
+					</comma>
+					<comma id="art6-com5">
+						<num>5.</num>
+						<corpo>I soggetti convenzionati devono essere abilitati ai sensi della normativa vigente in materia di garanzia e credito.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art.7</num>
+					<rubrica>Indirizzi per l'attuazione delle funzioni delegate in materia di agevolazione dell'accesso al credito</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>La Regione sviluppa azioni volte ad agevolare l'accesso al credito, disciplina i rapporti con gli istituti di credito e con la Finanziaria regionale (FINMOLISE), determina i criteri dell'ammissibilità al credito agevolato ed i controlli sulla sua effettiva destinazione. La Regione determina altresì i criteri applicativi dei provvedimenti regionali di agevolazione creditizia, di prestazione di garanzia e di assegnazione di fondi, anticipazioni e quote di concorso, destinati all'agevolazione dell'accesso al credito sulla materia di competenza regionale, anche se relativi a provvedimenti di incentivazione definiti in sede statale o comunitaria.</corpo>
+					</comma>
+					<comma id="art7-com2">
+						<num>2.</num>
+						<corpo>
+							La Regione può costituire propri fondi per interventi di concessione di garanzia, primaria e accessoria, anche presso soggetti abilitati ai sensi della normativa vigente in materia di garanzia e credito, con i quali stipula apposite convenzioni con le modalità di cui all'
+							<rif xlink:href="#art6" xlink:type="simple">art. 6</rif>
+							. Le convenzioni definiscono i vincoli di destinazione dei fondi, i criteri di selezione dei beneficiari delle garanzie, le modalità di trasferimento delle risorse finanziarie.
+						</corpo>
+					</comma>
+					<comma id="art7-com3">
+						<num>3.</num>
+						<corpo>La Regione può intervenire anche mediante l'erogazione di contributi a favore dei consorzi e società consortili fidi regionali, costituiti anche in forma cooperativa, per incrementare la capacità di garanzia ed agevolare l'accesso al credito a breve e medio termine delle imprese regionali.</corpo>
+					</comma>
+					<comma id="art7-com4">
+						<num>4.</num>
+						<corpo>
+							La Regione, ai sensi dell'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art49" xlink:type="simple">art. 49 del decreto legislativo n. 112 del 1998</rif>
+							, può sottoscrivere accordi integrativi con l'istituto tesoriere, ovvero con altri istituti di credito e con la Finanziaria regionale (FINMOLISE), al fine di agevolare l'accesso al credito da parte delle piccole e medie imprese.
+						</corpo>
+					</comma>
+					<comma id="art7-com5">
+						<num>5.</num>
+						<corpo>
+							Gli accordi integrativi di cui al
+							<rif xlink:href="#art7-com4" xlink:type="simple">comma 4</rif>
+							, definiscono l'individuazione delle risorse finanziarie messe a disposizione, i parametri di determinazione dei tassi di riferimento, i tempi e le procedure per la concessione dei finanziamenti.
+						</corpo>
+					</comma>
+					<comma id="art7-com6">
+						<num>6.</num>
+						<corpo>Gli accordi integrativi definiscono, altresì, le tipologie di investimento aziendale prioritarie.</corpo>
+					</comma>
+					<comma id="art7-com7">
+						<num>7.</num>
+						<corpo>
+							La Regione può concedere contributi alle piccole e medie imprese al fine di ridurre il tasso di interesse sui finanziamenti concessi dagli istituti di credito convenzionati e dalla Finanziaria regionale (FINMOLISE). In tal caso l'entità della riduzione del tasso di interesse è determinata dagli accordi integrativi di cui al
+							<rif xlink:href="#art7-com4" xlink:type="simple">comma 4</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art.8</num>
+					<rubrica>Indirizzi per l'attuazione delle funzioni delegate in materia di capitalizzazione delle piccole e medie imprese</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>La Regione, mediante la Finanziaria regionale (FINMOLISE), realizza azioni finalizzate alla capitalizzazione delle piccole e medie imprese, in particolare attraverso la prestazione di garanzie su prestiti partecipativi e su acquisizioni di partecipazione al capitale di rischio delle imprese.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art.9</num>
+					<rubrica>Indirizzi per l'attuazione delle funzioni delegate per lo sviluppo di programmi e per il trasferimento tecnologico</rubrica>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<alinea>
+							Al fine di dare attuazione alle funzioni delegate inerenti alla realizzazione di programmi per l'innovazione ed il trasferimento di innovazioni tecnologiche al sistema produttivo, nell'ambito degli indirizzi comunitari e nazionali in materia di ricerca applicata, di innovazione e trasferimento tecnologico, nonché degli indirizzi programmatici del Programma Triennale di cui all'
+							<rif xlink:href="#art4" xlink:type="simple">art. 4</rif>
+							, la Regione promuove i seguenti obiettivi:
+						</alinea>
+						<el id="art9-com1-leta">
+							<num>a)</num>
+							<corpo>lo sviluppo efficace e coordinato sul territorio regionale di iniziative di ricerca applicata e di innovazione, nonché di attività e strutture per il trasferimento e la diffusione di conoscenze tecnologiche, promosse da Università, enti di ricerca, Centri di servizio alle imprese presenti nel territorio della Regione e rivolte all'accrescimento di competitività tecnologica delle imprese e del sistema produttivo regionale;</corpo>
+						</el>
+						<el id="art9-com1-letb">
+							<num>b)</num>
+							<corpo>la promozione di iniziative comuni con gli enti di ricerca e con i loro centri, nonché con l'Università degli Studi del Molise per l'attuazione, in modo coordinato, di iniziative e attività per sostenere un sistema regionale per la diffusione di conoscenze e il trasferimento di tecnologie.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Art.10</num>
+					<rubrica>Indirizzi per l'attuazione delle funzioni delegate per il sostegno delle esportazioni e dell'internazionalizzazione delle imprese</rubrica>
+					<comma id="art10-com1">
+						<num>1.</num>
+						<alinea>
+							La Regione, in attuazione delle funzioni delegate inerenti allo sviluppo delle esportazioni e dell'internazionalizzazione delle imprese, di cui agli artt. 19 e 48 del
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112" xlink:type="simple">decreto legislativo n. 112/1998</rif>
+							, sostiene le seguenti finalità:
+						</alinea>
+						<el id="art10-com1-leta">
+							<num>a)</num>
+							<corpo>la realizzazione di eventi e progetti organici di promozione finalizzati alla penetrazione di mercati esteri;</corpo>
+						</el>
+						<el id="art10-com1-letb">
+							<num>b)</num>
+							<corpo>l'erogazione di servizi informativi e di assistenza a sostegno dell'internazionalizzazione delle imprese del Molise;</corpo>
+						</el>
+						<el id="art10-com1-letc">
+							<num>c)</num>
+							<corpo>la promozione degli investimenti esteri nel Molise.</corpo>
+						</el>
+					</comma>
+					<comma id="art10-com2">
+						<num>2.</num>
+						<corpo>
+							Per i fini di cui al
+							<rif xlink:href="#art10-com1" xlink:type="simple">comma 1</rif>
+							la Regione, avvalendosi dell'apporto tecnico delle C.C.I.A.A., può stipulare accordi con le amministrazioni centrali dello Stato, l'Istituto Nazionale per il Commercio Estero (ICE), le associazioni delle categorie produttive, gli enti fieristici e altri soggetti pubblici e privati ritenuti idonei.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art11">
+					<num>Art.11</num>
+					<rubrica>Sportello unico</rubrica>
+					<comma id="art11-com1">
+						<num>1.</num>
+						<corpo>I Comuni istituiscono, singolarmente o in forma associata secondo le modalità di cui alla legislazione vigente, lo sportello unico per le attività produttive ai fini dello svolgimento del procedimento autorizzativo nonché per la realizzazione di attività di informazione ed assistenza alle imprese.</corpo>
+					</comma>
+					<comma id="art11-com2">
+						<num>2.</num>
+						<corpo>
+							Lo sportello unico cura, avendo riguardo in particolare ai profili urbanistici, sanitari, della tutela ambientale e della sicurezza, lo svolgimento del procedimento di autorizzazione alla localizzazione, realizzazione, ampliamento, cessazione e riattivazione di impianti produttivi, incluso il rilascio della concessione o della autorizzazione edilizia, nel rispetto del regolamento di cui al
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1998-10-20;447" xlink:type="simple">D.P.R. 20 ottobre 1998, n. 447</rif>
+							, emanato ai sensi del
+							<rif xlink:href="urn:nir:stato:legge:1997-03-15;59#art20-com8" xlink:type="simple">comma 8 dell'art. 20 della legge 15 marzo 1997, n. 59</rif>
+							, fermo restando che la concessione o autorizzazione edilizia è rilasciata dal Comune in cui ha sede l'impianto.
+						</corpo>
+					</comma>
+					<comma id="art11-com3">
+						<num>3.</num>
+						<corpo>Ai fini della piena efficacia dell'azione amministrativa e per ridurre i tempi per il rilascio dell'autorizzazione, lo sportello unico sviluppa le necessarie forme di integrazione e raccordi organizzativi con le altre amministrazioni coinvolte nel procedimento.</corpo>
+					</comma>
+					<comma id="art11-com4">
+						<num>4.</num>
+						<corpo>La Giunta regionale può concedere contributi ai Comuni, singoli o associati, per l'istituzione degli sportelli unici, stabilendo le modalità e i criteri per la concessione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art12">
+					<num>Art.12</num>
+					<rubrica>Adempimenti comunitari</rubrica>
+					<comma id="art12-com1">
+						<num>1.</num>
+						<corpo>
+							Qualora gli aiuti previsti dal programma regionale ovvero dalla normativa statale di cui ai commi 1 e 2 dell'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1998;112#art19" xlink:type="simple">art. 19 del decreto legislativo n. 112/1998</rif>
+							deroghino ai limiti di cui al regime denominato "de minimis", la Regione provvede alla notifica del programma stesso alla Commissione Europea.
+						</corpo>
+					</comma>
+					<comma id="art12-com2">
+						<num>2.</num>
+						<corpo>Le disposizioni della presente legge che costituiscono regime di aiuto alle imprese sono efficaci a decorrere dal giorno successivo a quello di pubblicazione, nel Bollettino Ufficiale della Regione Molise, del parere favorevole della Commissione dell'Unione Europea emesso in esito a procedura di notifica.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art13">
+					<num>Art.13</num>
+					<rubrica>Disposizioni finanziarie</rubrica>
+					<comma id="art13-com1">
+						<num>1.</num>
+						<corpo>Agli oneri derivanti dall'attuazione della presente legge si farè fronte mediante l'istituzione di appositi capitoli di spesa con legge di approvazione del Bilancio per l'esercizio finanziario 2000 o con successiva legge di variazione.</corpo>
+					</comma>
+					<comma id="art13-com2">
+						<num>2.</num>
+						<corpo>Relativamente agli esercizi finanziari 2001 e successivi si provvederè con le rispettive leggi di approvazione del Bilancio.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art14">
+					<num>Art.14</num>
+					<rubrica>Dichiarazione d'urgenza</rubrica>
+					<comma id="art14-com1">
+						<num>1.</num>
+						<corpo>La presente legge è dichiarata urgente ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>E' fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

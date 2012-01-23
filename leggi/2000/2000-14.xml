@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20000316" num="6" tipo="BURM" />
+					<entratainvigore norm="20000317" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2000-03-03;14" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="36.Turismo e industria alberghiera" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20000317" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2000-03-03;14" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 36.Turismo e industria alberghiera 
+ 
+Bollettino 
+Bollettino Ufficiale n. 06 del 16 marzo 2000 
+ 
+Oggetto 
+Modifiche alla L.R. n. 19/1995 concernente incentivi alla attività turistico-alberghiera. 
+ 
+Abrogazioni 
+ 
+ 
+Modifiche 
+ 
+ 
+?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20000303">3 marzo 2000</dataDoc>
+				, n.
+				<numDoc>14</numDoc>
+				<titoloDoc>
+					Modifiche alla
+					<rif xlink:href="urn:nir:regione.molise:legge:1995;19" xlink:type="simple">legge regionale n. 19/1995</rif>
+					, ad oggetto: "Incentivazione dell'offerta turistica nei settori alberghiero e di turismo rurale".
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art.1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<alinea>
+							L'
+							<rif xlink:href="urn:nir:regione.molise:legge:1995-05-03;19#art4" xlink:type="simple">articolo 4 della legge regionale 3 maggio 1995, n. 19</rif>
+							, è così modificato:
+						</alinea>
+						<el id="art1-com1-leta">
+							<num>a)</num>
+							<corpo>
+								<mod id="mod1">
+									al
+									<rif xlink:href="urn:nir:regione.molise:legge:1995-05-03;19#art4-com2" xlink:type="simple">comma 2</rif>
+									sono soppresse le parole "
+									<virgolette id="mod1-vir1" tipo="parola">per la lettera a) al 70%, per la lettera b) al 40%, per la lettera c) al 60%</virgolette>
+									" e sostituite dalle seguenti "
+									<virgolette id="mod1-vir2" tipo="parola">per le lettere a), b), c) al 45%</virgolette>
+									";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letb">
+							<num>b)</num>
+							<corpo>
+								<mod id="mod2">
+									è aggiunto il seguente
+									<rif xlink:href="urn:nir:regione.molise:legge:1995-05-03;19#art4" xlink:type="simple">ultimo comma</rif>
+									: "
+									<virgolette id="mod2-vir1" tipo="struttura">
+										<comma id="mod2-vir1-com1">
+											<num />
+											<corpo>La misura del contributo sarà determinata, di volta in volta, entro i limiti prefissati, in adeguamento alle direttive ed agli orientamenti C.E.E. in materia di aiuti di Stato a finalità regionale</corpo>
+										</comma>
+									</virgolette>
+									".
+								</mod>
+							</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art.2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod3">
+								Il
+								<rif xlink:href="urn:nir:regione.molise:legge:1995-05-03;19#art17-com2" xlink:type="simple">comma 2 dell'articolo 17 della legge regionale 3 maggio 1995, n. 19</rif>
+								, è abrogato.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art.3</num>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							La presente legge è dichiarata urgente, ai sensi dell'
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art127" xlink:type="simple">articolo 127 della Costituzione</rif>
+							e dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art38" xlink:type="simple">articolo 38 dello Statuto Regionale</rif>
+							ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>E' fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

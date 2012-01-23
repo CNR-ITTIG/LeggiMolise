@@ -1,278 +1,631 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20000429" num="9" tipo="BURM"/>
-                <entratainvigore norm="20000514"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2000-04-26;31"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="27.procedimento amministrativo, semplificazione amministrativa, semplificazione del sistema normativo"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20010715" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2001;10" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 27.Procedimento amministrativo, semplificazione amministrativa, semplificazione del sistema normativo 
- 
-Bollettino 
-BOLLETTINO UFFICIALE n.9 del 29 aprile 2000 
- 
-Oggetto 
-Abrogazioni di leggi regionali relative e diversi settori 
- 
-Abrogazioni 
- 
- 
-Modifiche 
-Modificato art. 1 dalla legge n. 10/2001 art. 1 
- 
-?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc norm="20000426">26 aprile 2000</dataDoc>, n.<numDoc>31</numDoc>
-            <titoloDoc>Abrogazione di leggi regionali in materia di artigianato, industria, commercio ed agricoltura. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1 </num>
-
-                <rubrica>
- 
-In relazione al nuovo assetto dei regimi di aiuto alle imprese che la Regione intende adottare in conformità agli articoli 87, 88 e 89 del Trattato che istituisce la Comunità europea ed in applicazione del <rif
-                        xlink:href="urn:nir:comunita.europee:regolamento:1999;659">Regolamento (CEE) n. 659/1999</rif>, sono abrogate le seguenti norme regionali: 
- 
-a) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1972-10-27;19">legge regionale 27 ottobre 1972, n. 19</rif> - Provvidenze a favore delle imprese agricole singole od associate, in materia di concessione di credito di conduzione; 
- 
-b) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1973-08-03;15">legge regionale 3 agosto 1973, n. 15</rif> - Provvidenze a favore delle imprese agricole singole od associate, in materia di concessione di credito di conduzione; 
- 
-c) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1973-08-27;20">legge regionale 27 agosto 1973, n. 20</rif> - Provvedimenti per il miglioramento delle strutture agricole; 
- 
-d) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1974-05-14;6">legge regionale 14 maggio 1974, n. 6</rif> - Provvedimenti per la difesa antiparassitaria; 
- 
-e) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1975-04-17;29">legge regionale 17 aprile 1975, n. 29</rif> ? Interventi della Regione per la costruzione, l'ampliamento e il riattamento di fabbricati rurali; 
- 
-f) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1975-04-28;30">legge regionale 28 aprile 1975, n. 30</rif> - Provvedimenti per il miglioramento e il potenziamento delle coltivazioni arboree; 
- 
-g) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1975-05-28;38">legge regionale 28 maggio 1975, n. 38</rif> - Provvidenze a favore delle cooperative Artigiane di garanzia; 
- 
-h) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1975-06-05;45">legge regionale 5 giugno 1975, n. 45</rif> - Interventi per la commercializzazione dei prodotti agricoli; 
- 
-i) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1975-12-19;47">legge regionale 19 dicembre 1975, n. 47</rif>- Provvidenze per l'acquisto di sementi selezionate; 
- 
-j) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1976-05-10;14">legge regionale 10 maggio 1976, n. 14</rif> - Modifica alla <rif
-                        xlink:href="urn:nir:regione.molise:legge:1975-12-19;47">legge regionale 19 dicembre 1975 n. 47</rif>, avente ad oggetto: "Provvidenze per l'acquisto di sementi selezionate"; 
- 
-k) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1976-11-05;30">legge regionale 5 novembre 1976, n. 30</rif> - Potenziamento degli allevamenti cunicoli; 
- 
-l) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1977-01-05;2">legge regionale 5 gennaio 1977, n. 2</rif>- Modifiche alla <rif
-                        xlink:href="urn:nir:regione.molise:legge:1976-11-05;30">legge regionale 5 novembre 1976, n. 30</rif> "Potenziamento degli allevamenti cunicoli"; 
- 
-m) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1977-01-28;7">legge regionale 28 gennaio 1977, n. 7</rif> - Modifica alla <rif
-                        xlink:href="urn:nir:regione.molise:legge:1975-12-19;47">legge regionale 19 dicembre 1975, n. 47</rif> - Provvidenze per l'acquisto di sementi selezionate; 
- 
-n) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1977-04-20;12">legge regionale 20 aprile 1977, n. 12</rif> - Norme per la costituzione e il riconoscimento delle associazioni di produttori zootecnici e per la determinazione del prezzo di vendita del latte alla produzione; 
- 
-o) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1977-09-02;28">legge regionale 2 settembre 1977, n. 28</rif> - Leggi regionali 5 novembre 1976, n. 30 e 5 gennaio 1977, n. 2 - Potenziamento degli allevamenti cunicoli - Prosecuzione; 
- 
-p) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1978-01-27;3">legge regionale 27 gennaio 1978, n. 3</rif> - Modifica alla <rif
-                        xlink:href="urn:nir:regione.molise:legge:1975-04-17;29">legge regionale n. 29 del 17 aprile 1975</rif>, riguardante: "Interventi della Regione per la costruzione, l'ampliamento e il riattamento di fabbricati rurali"; 
- 
-q) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1978-02-10;5">legge regionale 10 febbraio 1978, n. 5</rif> - Interventi a favore della cooperazione agricola; 
- 
-r) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1978-04-01;8">legge regionale 1° aprile 1978, n. 8</rif> - Prestito a tasso agevolato per lo sviluppo della meccanizzazione in agricoltura; 
- 
-s) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1978-06-03;11">legge regionale 3 giugno 1978, n. 11</rif>- Modifica all'<rif
-                        xlink:href="urn:nir:regione.molise:legge:1975-12-19;47#art3">art. 3 della legge regionale 19 dicembre 1975, n. 47</rif>, avente ad oggetto: "Provvidenze per l'acquisto di sementi selezionate"; 
- 
-t) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1978-07-04;16">legge regionale 4 luglio 1978, n. 16</rif> - Norme per l'attuazione delle Direttive Comunitarie per la riforma dell'agricoltura; 
- 
-u) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1978-09-05;24">legge regionale 5 settembre 1978, n. 24</rif>: - Interventi per lo sviluppo delle zone irrigue e per l'estendimento dell'irrigazione; 
- 
-v) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1979-08-20;24">legge regionale 20 agosto 1979, n. 24</rif> - Disposizioni integrative della <rif
-                        xlink:href="urn:nir:regione.molise:legge:1978-09-05;24">legge regionale 5 settembre 1978, n. 24</rif> riguardante: "Interventi per lo sviluppo delle zone irrigue e per l'estendimento dell'irrigazione"; 
- 
-w) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1979-09-04;27">legge regionale 4 settembre 1979, n. 27</rif>- Provvedimenti per il potenziamento e lo sviluppo della zootecnia, limitatamente agli artt. 4, 7, 8 e 10; 
- 
-x) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1979-11-23;33">legge regionale 23 novembre 1979, n. 33</rif> - Modifiche e integrazioni alla <rif
-                        xlink:href="urn:nir:regione.molise:legge:1979-09-04;27">legge regionale 4 settembre 1979, n. 27</rif> "Provvedimenti per il potenziamento e lo sviluppo della zootecnia"; 
- 
-y) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1980-01-24;2">legge regionale 24 gennaio 1980, n. 2</rif> - Disciplina dell'ippicoltura; 
- 
-z) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1981-04-15;9">legge regionale 15 aprile 1981, n. 9</rif> - Modifica del <rif
-                        xlink:href="urn:nir:regione.molise:legge:1980-01-24;2#art2-com2">secondo comma dell'art. 2 della legge regionale 24 gennaio 1980, n. 2</rif> avente per oggetto: "Disciplina dell'ippicoltura"; 
- 
-aa) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1981-06-20;12">legge regionale 20 giugno 1981, n. 12</rif> - Ulteriori provvidenze in favore dell'Artigianato; 
- 
-bb) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1982-09-02;20">legge regionale 2 settembre 1982, n. 20</rif> - Consorzio regionale sui prestiti agrari di esercizio per la zootecnia; 
- 
-cc) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1983-04-06;13">legge regionale 6 aprile 1983, n. 13</rif> - Disposizioni per l'incremento e la difesa dell'apicoltura; 
- 
-dd) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1983-04-12;14">legge regionale 12 aprile 1983, n. 14</rif> - Modifiche alla <rif
-                        xlink:href="urn:nir:regione.molise:legge:1979-09-04;27">legge regionale 4 settembre 1979, n. 27</rif> "Provvedimenti per il potenziamento e lo sviluppo della zootecnia"; 
- 
-ee) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1984-03-02;3">legge regionale 2 marzo 1984, n. 3</rif> - Provvedimenti per lo sviluppo dell'elicicoltura; 
- 
-ff) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1984-07-30;17">legge regionale 30 luglio 1984, n. 17</rif> - Interventi a favore degli imprenditori agricoli per l'acquisto di mezzi e attrezzature tecniche o secondarie per l'attività agricola; 
- 
-gg) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1984-08-24;22">legge regionale 24 agosto 1984, n. 22</rif> - Modifica alla <rif
-                        xlink:href="urn:nir:regione.molise:legge:1983-04-12;14">legge regionale 12 aprile 1983, n. 14</rif> recante modifiche alla <rif
-                        xlink:href="urn:nir:stato:legge:1979-09-04;27">legge 4 settembre 1979, n. 27</rif> "Provvedimenti per il potenziamento e lo sviluppo della zootecnia"; 
- 
-hh) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1984-08-28;23">legge regionale 28 agosto 1984, n. 23</rif> - Norme per il riconoscimento delle associazioni dei produttori agricoli; 
- 
-ii) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1984-09-05;25">legge regionale 5 settembre 1984, n. 25</rif> - Modifica dell'<rif
-                        xlink:href="urn:nir:regione.molise:legge:1978-02-10;5#art5">art. 5 della legge regionale n. 5 del 10 febbraio 1978</rif>; 
- 
-jj) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1984-12-27;30">legge regionale 27 dicembre 1984, n. 30</rif> - Modifiche alla <rif
-                        xlink:href="urn:nir:regione.molise:legge:1979-09-04;27">legge regionale 4 settembre 1979, n. 27</rif> "Provvedimenti per il potenziamento e lo sviluppo della zootecnia"; 
- 
-kk) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1985-01-07;2">legge regionale 7 gennaio 1985, n. 2</rif>- Modifiche alla <rif
-                        xlink:href="urn:nir:regione.molise:legge:1981-06-20;12">legge regionale del 20 giugno 1981, n. 12</rif> e ulteriori provvidenze in favore dell'Artigianato; 
- 
-ll) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1985-02-21;5">legge regionale 21 febbraio 1985, n. 5</rif> - Modifica alla <rif
-                        xlink:href="urn:nir:regione.molise:legge:1978-02-10;5">legge regionale 10 febbraio 1978, n. 5</rif> recante: "Interventi a favore della cooperazione agricola" e "soppressione <rif
-                        xlink:href="urn:nir:regione.molise:legge:1984-09-05;25">legge regionale 5 settembre 1984, n. 25</rif>"; 
- 
-mm) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1985-04-19;11">legge regionale 19 aprile 1985, n. 11</rif> - <rif
-                        xlink:href="urn:nir:regione.molise:legge:1984-12-27;30">Legge regionale 27 dicembre 1984, n. 30</rif> recante: "Modifiche alla <rif
-                        xlink:href="urn:nir:regione.molise:legge:1979-09-04;27">legge regionale 4 settembre 1979, n. 27</rif>: Provvedimenti per il potenziamento e lo sviluppo della zootecnia" - <rif
-                        xlink:href="#art2">Art. 2</rif> - Soppressione; 
- 
-nn) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1985-05-02;15">legge regionale 2 maggio 1985, n. 15</rif> - Norme per la concessione di contributi per le spese di manutenzione ordinaria delle strade vicinali, interpoderali, di bonifica montana ed integrale; 
- 
-oo) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1986-04-28;9">legge regionale 28 aprile 1986, n. 9</rif> - Modifiche alla <rif
-                        xlink:href="urn:nir:regione.molise:legge:1984-07-30;17">legge regionale 30 luglio 1984, n. 17</rif> - Interventi a favore degli imprenditori agricoli per l'acquisto di mezzi e attrezzature tecniche o secondarie per l'attività agricola; 
- 
-pp) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1987-09-04;13">legge regionale 4 settembre 1987, n. 13</rif> - Costituzione di un fondo speciale regionale a favore delle imprese del Molise che versano in particolare stato di crisi; 
- 
-qq) legge regionale 10 marzo l988, n. 6 - Norme di attuazione della <rif
-                        xlink:href="urn:nir:stato:legge:1986-03-01;64">legge 1° marzo 1986, n. 64</rif> - Disciplina Organica dell'Intervento Straordinario nel Mezzogiorno; 
- 
-rr) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1988-11-21;23">legge regionale 21 novembre 1988, n. 23</rif> - Interventi finanziari a sostegno del settore commerciale; 
- 
-ss) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1989-08-11;11">legge regionale 11 agosto 1989, n. 11</rif>- Modifica alla <rif
-                        xlink:href="urn:nir:regione.molise:legge:1980-01-24;2">legge regionale 24 gennaio 1980, n. 2</rif> concernente: "Disciplina dell'ippicoltura"; 
- 
-tt) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1989-09-04;13">legge regionale 4 settembre 1989, n. 13</rif> - Modifiche alla <rif
-                        xlink:href="urn:nir:regione.molise:legge:1984-08-28;23">legge regionale 28 agosto 1984, n. 23</rif>, recante norme per il riconoscimento delle associazioni dei produttori agricoli; 
- 
-uu) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1989-11-09;21">legge regionale 9 novembre 1989, n. 21</rif> - Norme per la raccolta, coltivazione e commercio di tartufi freschi o conservati destinati al consumo nella Regione Molise - Disciplina attuativa della <rif
-                        xlink:href="urn:nir:stato:legge:1985-12-16;752">legge 16 dicembre 1985, n. 752</rif> - Delega di funzioni amministrative alle Amministrazioni Provinciali di Campobasso e Isernia ai sensi dell'<rif
-                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art118">art.118, ultimo comma, della Costituzione</rif> della Repubblica, limitatamente all'art. 10; 
- 
-vv) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1990-01-12;2">legge regionale 12 gennaio 1990, n. 2</rif> - Modifica alla <rif
-                        xlink:href="urn:nir:regione.molise:legge:1978-02-10;5">legge regionale n. 5 del 10 febbraio 1978</rif>, recante interventi a favore della cooperazione agricola; 
- 
-ww) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1992-12-21;26">legge regionale 21 dicembre 1992, n. 26</rif>- Modifiche e integrazioni alla <rif
-                        xlink:href="urn:nir:regione.molise:legge:1978-02-10;5">legge regionale 10 febbraio 1978, n. 5</rif>; 
- 
-xx) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1993-09-10;20">legge regionale 10 settembre 1993, n. 20</rif> - Interventi contributivi in favore delle organizzazioni professionali regionali degli imprenditori agricoli; 
- 
-yy) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1994-11-03;19">legge regionale 3 novembre 1994, n. 19</rif> - Interpretazione autentica dell'<rif
-                        xlink:href="urn:nir:regione.molise:legge:1981-06-20;12#art5">art. 5 della legge regionale 20 giugno 1981, n. 12</rif>; 
- 
-zz) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1995-05-12;25">legge regionale 12 maggio 1995, n. 25</rif>- Norme regionali di attuazione del Piano Energetico Nazionale; 
- 
-aaa) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1996-08-09;26">legge regionale 9 agosto 1996, n. 26</rif>- Interventi per lo sviluppo e l'occupazione nelle Piccole e Medie Imprese; 
- 
-bbb) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1996-09-20;29">legge regionale 20 settembre 1996, n. 29</rif> - Disposizioni relative all'installazione di impianti serricoli; 
- 
-ccc) <rif
-                        xlink:href="urn:nir:regione.molise:legge:1996-10-25;33">legge regionale 25 ottobre 1996, n. 33</rif> ? Modifiche e integrazioni alle leggi regionali 20 giugno 1981, n. 12 "Ulteriori provvidenze a favore dell'Artigianato" e 7 gennaio 1985, n. 2 "Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1981-06-20;12">legge regionale del 20 giugno 1981, n. 12</rif> e ulteriori provvidenze a favore dell'Artigianato". 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2 </num>
-                <rubrica>
- 
-Le norme regionali di cui al <rif xlink:href="#art1">precedente Articolo 1</rif> continuano ad applicarsi per gli interventi decisi entro il 31 dicembre 1999. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art2-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art. 3 </num>
-
-                <rubrica>
- 
-La presente legge è dichiarata urgente ai sensi dell'<rif
-                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione. 
- 
-La presente legge sarè pubblicata nel Bollettino Ufficiale della Regione. è fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
-<?error Marker Warning 109?>
-                </rubrica>
-                <comma id="art3-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+<?xml version="1.0" encoding="UTF-8"?>
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20000429" num="9" tipo="BURM" />
+					<entratainvigore norm="20000430" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2000-04-26;31" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="27.Procedimento amministrativo, semplificazione amministrativa, semplificazione del sistema normativo" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20000430" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20010701" fonte="rp1" id="t2" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2000-04-26;31" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2001;10" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 27.Procedimento amministrativo, semplificazione amministrativa, semplificazione del sistema normativo Bollettino BOLLETTINO UFFICIALE n.9 del 29 aprile 2000 Oggetto Abrogazioni di leggi regionali relative e diversi settori Abrogazioni Modifiche Modificato art. 1 dalla legge n. 10/2001 art. 1 ?>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20000426">26 aprile 2000</dataDoc>
+				, n.
+				<numDoc>31</numDoc>
+				<titoloDoc>Abrogazione di leggi regionali in materia di artigianato, industria, commercio ed agricoltura.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num />
+						<alinea>
+							<mod id="mod1">
+								In relazione al nuovo assetto dei regimi di aiuto alle imprese che la Regione intende adottare in conformitÃ  agli articoli 87, 88 e 89 del Trattato che istituisce la ComunitÃ  europea ed in applicazione del
+								<rif xlink:href="urn:nir:comunita.europee:regolamento:1999;659" xlink:type="simple">Regolamento (CEE) n. 659/1999</rif>
+								, sono abrogate le seguenti norme regionali:
+							</mod>
+						</alinea>
+						<el id="art1-com1-leta">
+							<num>a)</num>
+							<corpo>
+								<mod id="mod2">
+									<rif xlink:href="urn:nir:regione.molise:legge:1972-10-27;19" xlink:type="simple">legge regionale 27 ottobre 1972, n. 19</rif>
+									- Provvidenze a favore delle imprese agricole singole od associate, in materia di concessione di credito di conduzione;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letb">
+							<num>b)</num>
+							<corpo>
+								<mod id="mod3">
+									<rif xlink:href="urn:nir:regione.molise:legge:1973-08-03;15" xlink:type="simple">legge regionale 3 agosto 1973, n. 15</rif>
+									- Provvidenze a favore delle imprese agricole singole od associate, in materia di concessione di credito di conduzione;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letc">
+							<num>c)</num>
+							<corpo>
+								<mod id="mod4">
+									<rif xlink:href="urn:nir:regione.molise:legge:1973-08-27;20" xlink:type="simple">legge regionale 27 agosto 1973, n. 20</rif>
+									- Provvedimenti per il miglioramento delle strutture agricole;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letd">
+							<num>d)</num>
+							<corpo>
+								<mod id="mod5">
+									<rif xlink:href="urn:nir:regione.molise:legge:1974-05-14;6" xlink:type="simple">legge regionale 14 maggio 1974, n. 6</rif>
+									- Provvedimenti per la difesa antiparassitaria;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-lete">
+							<num>e)</num>
+							<corpo>
+								<mod id="mod6">
+									<rif xlink:href="urn:nir:regione.molise:legge:1975-04-17;29" xlink:type="simple">legge regionale 17 aprile 1975, n. 29</rif>
+									â€“ Interventi della Regione per la costruzione, l'ampliamento e il riattamento di fabbricati rurali;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letf">
+							<num>f)</num>
+							<corpo>
+								<mod id="mod7">
+									<rif xlink:href="urn:nir:regione.molise:legge:1975-04-28;30" xlink:type="simple">legge regionale 28 aprile 1975, n. 30</rif>
+									- Provvedimenti per il miglioramento e il potenziamento delle coltivazioni arboree;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letg">
+							<num>g)</num>
+							<corpo>
+								<mod id="mod8">
+									<rif xlink:href="urn:nir:regione.molise:legge:1975-05-28;38" xlink:type="simple">legge regionale 28 maggio 1975, n. 38</rif>
+									- Provvidenze a favore delle cooperative Artigiane di garanzia;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-leth">
+							<num>h)</num>
+							<corpo>
+								<mod id="mod9">
+									<rif xlink:href="urn:nir:regione.molise:legge:1975-06-05;45" xlink:type="simple">legge regionale 5 giugno 1975, n. 45</rif>
+									- Interventi per la commercializzazione dei prodotti agricoli;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-leti">
+							<num>i)</num>
+							<corpo>
+								<mod id="mod10">
+									<rif xlink:href="urn:nir:regione.molise:legge:1975-12-19;47" xlink:type="simple">legge regionale 19 dicembre 1975, n. 47</rif>
+									- Provvidenze per l'acquisto di sementi selezionate;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letj">
+							<num>j)</num>
+							<corpo>
+								<mod id="mod11">
+									<rif xlink:href="urn:nir:regione.molise:legge:1976-05-10;14" xlink:type="simple">legge regionale 10 maggio 1976, n. 14</rif>
+									- Modifica alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1975-12-19;47" xlink:type="simple">legge regionale 19 dicembre 1975 n. 47</rif>
+									, avente ad oggetto: "Provvidenze per l'acquisto di sementi selezionate";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letk">
+							<num>k)</num>
+							<corpo>
+								<mod id="mod12">
+									<rif xlink:href="urn:nir:regione.molise:legge:1976-11-05;30" xlink:type="simple">legge regionale 5 novembre 1976, n. 30</rif>
+									- Potenziamento degli allevamenti cunicoli;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letl">
+							<num>l)</num>
+							<corpo>
+								<mod id="mod13">
+									<rif xlink:href="urn:nir:regione.molise:legge:1977-01-05;2" xlink:type="simple">legge regionale 5 gennaio 1977, n. 2</rif>
+									- Modifiche alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1976-11-05;30" xlink:type="simple">legge regionale 5 novembre 1976, n. 30</rif>
+									"Potenziamento degli allevamenti cunicoli";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letm">
+							<num>m)</num>
+							<corpo>
+								<mod id="mod14">
+									<rif xlink:href="urn:nir:regione.molise:legge:1977-01-28;7" xlink:type="simple">legge regionale 28 gennaio 1977, n. 7</rif>
+									- Modifica alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1975-12-19;47" xlink:type="simple">legge regionale 19 dicembre 1975, n. 47</rif>
+									- Provvidenze per l'acquisto di sementi selezionate;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letn">
+							<num>n)</num>
+							<corpo>
+								<mod id="mod15">
+									<rif xlink:href="urn:nir:regione.molise:legge:1977-04-20;12" xlink:type="simple">legge regionale 20 aprile 1977, n. 12</rif>
+									- Norme per la costituzione e il riconoscimento delle associazioni di produttori zootecnici e per la determinazione del prezzo di vendita del latte alla produzione;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-leto">
+							<num>o)</num>
+							<corpo>
+								<mod id="mod16">
+									<rif xlink:href="urn:nir:regione.molise:legge:1977-09-02;28" xlink:type="simple">legge regionale 2 settembre 1977, n. 28</rif>
+									- Leggi regionali 5 novembre 1976, n. 30 e 5 gennaio 1977, n. 2 - Potenziamento degli allevamenti cunicoli - Prosecuzione;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letp">
+							<num>p)</num>
+							<corpo>
+								<mod id="mod17">
+									<rif xlink:href="urn:nir:regione.molise:legge:1978-01-27;3" xlink:type="simple">legge regionale 27 gennaio 1978, n. 3</rif>
+									- Modifica alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1975-04-17;29" xlink:type="simple">legge regionale n. 29 del 17 aprile 1975</rif>
+									, riguardante: "Interventi della Regione per la costruzione, l'ampliamento e il riattamento di fabbricati rurali";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letq">
+							<num>q)</num>
+							<corpo>
+								<mod id="mod18">
+									<rif xlink:href="urn:nir:regione.molise:legge:1978-02-10;5" xlink:type="simple">legge regionale 10 febbraio 1978, n. 5</rif>
+									- Interventi a favore della cooperazione agricola;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letr">
+							<num>r)</num>
+							<corpo>
+								<mod id="mod19">
+									<rif xlink:href="urn:nir:regione.molise:legge:1978-04-01;8" xlink:type="simple">legge regionale 1Â° aprile 1978, n. 8</rif>
+									- Prestito a tasso agevolato per lo sviluppo della meccanizzazione in agricoltura;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-lets">
+							<num>s)</num>
+							<corpo>
+								<mod id="mod20">
+									<rif xlink:href="urn:nir:regione.molise:legge:1978-06-03;11" xlink:type="simple">legge regionale 3 giugno 1978, n. 11</rif>
+									- Modifica all'
+									<rif xlink:href="urn:nir:regione.molise:legge:1975-12-19;47#art3" xlink:type="simple">art. 3 della legge regionale 19 dicembre 1975, n. 47</rif>
+									, avente ad oggetto: "Provvidenze per l'acquisto di sementi selezionate";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-lett">
+							<num>t)</num>
+							<corpo>
+								<mod id="mod21">
+									<rif xlink:href="urn:nir:regione.molise:legge:1978-07-04;16" xlink:type="simple">legge regionale 4 luglio 1978, n. 16</rif>
+									- Norme per l'attuazione delle Direttive Comunitarie per la riforma dell'agricoltura;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letu">
+							<num>u)</num>
+							<corpo>
+								<mod id="mod22">
+									<rif xlink:href="urn:nir:regione.molise:legge:1978-09-05;24" xlink:type="simple">legge regionale 5 settembre 1978, n. 24</rif>
+									: - Interventi per lo sviluppo delle zone irrigue e per l'estendimento dell'irrigazione;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letv">
+							<num>v)</num>
+							<corpo>
+								<mod id="mod23">
+									<rif xlink:href="urn:nir:regione.molise:legge:1979-08-20;24" xlink:type="simple">legge regionale 20 agosto 1979, n. 24</rif>
+									- Disposizioni integrative della
+									<rif xlink:href="urn:nir:regione.molise:legge:1978-09-05;24" xlink:type="simple">legge regionale 5 settembre 1978, n. 24</rif>
+									riguardante: "Interventi per lo sviluppo delle zone irrigue e per l'estendimento dell'irrigazione";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letw">
+							<num>w)</num>
+							<corpo>
+								<mod id="mod24">
+									<rif xlink:href="urn:nir:regione.molise:legge:1979-09-04;27" xlink:type="simple">legge regionale 4 settembre 1979, n. 27</rif>
+									- Provvedimenti per il potenziamento e lo sviluppo della zootecnia, limitatamente agli artt. 4, 7, 8 e 10;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letx">
+							<num>x)</num>
+							<corpo>
+								<mod id="mod25">
+									<rif xlink:href="urn:nir:regione.molise:legge:1979-11-23;33" xlink:type="simple">legge regionale 23 novembre 1979, n. 33</rif>
+									- Modifiche e integrazioni alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1979-09-04;27" xlink:type="simple">legge regionale 4 settembre 1979, n. 27</rif>
+									"Provvedimenti per il potenziamento e lo sviluppo della zootecnia";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-lety">
+							<num>y)</num>
+							<corpo>
+								<mod id="mod26">
+									<rif xlink:href="urn:nir:regione.molise:legge:1980-01-24;2" xlink:type="simple">legge regionale 24 gennaio 1980, n. 2</rif>
+									- Disciplina dell'ippicoltura;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letz">
+							<num>z)</num>
+							<corpo>
+								<mod id="mod27">
+									<rif xlink:href="urn:nir:regione.molise:legge:1981-04-15;9" xlink:type="simple">legge regionale 15 aprile 1981, n. 9</rif>
+									- Modifica del
+									<rif xlink:href="urn:nir:regione.molise:legge:1980-01-24;2#art2-com2" xlink:type="simple">secondo comma dell'art. 2 della legge regionale 24 gennaio 1980, n. 2</rif>
+<!-- frammento comma:ord=2; -->
+									avente per oggetto: "Disciplina dell'ippicoltura";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letaa">
+							<num>aa)</num>
+							<corpo>
+								<mod id="mod28">
+									<rif xlink:href="urn:nir:regione.molise:legge:1981-06-20;12" xlink:type="simple">legge regionale 20 giugno 1981, n. 12</rif>
+									- Ulteriori provvidenze in favore dell'Artigianato;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letbb">
+							<num>bb)</num>
+							<corpo>
+								<mod id="mod29">
+									<rif xlink:href="urn:nir:regione.molise:legge:1982-09-02;20" xlink:type="simple">legge regionale 2 settembre 1982, n. 20</rif>
+									- Consorzio regionale sui prestiti agrari di esercizio per la zootecnia;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letcc">
+							<num>cc)</num>
+							<corpo>
+								<mod id="mod30">
+									<rif xlink:href="urn:nir:regione.molise:legge:1983-04-06;13" xlink:type="simple">legge regionale 6 aprile 1983, n. 13</rif>
+									- Disposizioni per l'incremento e la difesa dell'apicoltura;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letdd">
+							<num>dd)</num>
+							<corpo>
+								<mod id="mod31">
+									<rif xlink:href="urn:nir:regione.molise:legge:1983-04-12;14" xlink:type="simple">legge regionale 12 aprile 1983, n. 14</rif>
+									- Modifiche alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1979-09-04;27" xlink:type="simple">legge regionale 4 settembre 1979, n. 27</rif>
+									"Provvedimenti per il potenziamento e lo sviluppo della zootecnia";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letee">
+							<num>ee)</num>
+							<corpo>
+								<mod id="mod32">
+									<rif xlink:href="urn:nir:regione.molise:legge:1984-03-02;3" xlink:type="simple">legge regionale 2 marzo 1984, n. 3</rif>
+									- Provvedimenti per lo sviluppo dell'elicicoltura;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letff">
+							<num>ff)</num>
+							<corpo>
+								<mod id="mod33">
+									<rif xlink:href="urn:nir:regione.molise:legge:1984-07-30;17" xlink:type="simple">legge regionale 30 luglio 1984, n. 17</rif>
+									- Interventi a favore degli imprenditori agricoli per l'acquisto di mezzi e attrezzature tecniche o secondarie per l'attivitÃ  agricola;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letgg">
+							<num>gg)</num>
+							<corpo>
+								<mod id="mod34">
+									<rif xlink:href="urn:nir:regione.molise:legge:1984-08-24;22" xlink:type="simple">legge regionale 24 agosto 1984, n. 22</rif>
+									- Modifica alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1983-04-12;14" xlink:type="simple">legge regionale 12 aprile 1983, n. 14</rif>
+									recante modifiche alla
+									<rif xlink:href="urn:nir:stato:legge:1979-09-04;27" xlink:type="simple">legge 4 settembre 1979, n. 27</rif>
+									"Provvedimenti per il potenziamento e lo sviluppo della zootecnia";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-lethh">
+							<num>hh)</num>
+							<corpo>
+								<mod id="mod35">
+									<rif xlink:href="urn:nir:regione.molise:legge:1984-08-28;23" xlink:type="simple">legge regionale 28 agosto 1984, n. 23</rif>
+									- Norme per il riconoscimento delle associazioni dei produttori agricoli;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letii">
+							<num>ii)</num>
+							<corpo>
+								<mod id="mod36">
+									<rif xlink:href="urn:nir:regione.molise:legge:1984-09-05;25" xlink:type="simple">legge regionale 5 settembre 1984, n. 25</rif>
+									- Modifica dell'
+									<rif xlink:href="urn:nir:regione.molise:legge:1978-02-10;5#art5" xlink:type="simple">art. 5 della legge regionale n. 5 del 10 febbraio 1978</rif>
+									;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letjj">
+							<num>jj)</num>
+							<corpo>
+								<mod id="mod37">
+									<rif xlink:href="urn:nir:regione.molise:legge:1984-12-27;30" xlink:type="simple">legge regionale 27 dicembre 1984, n. 30</rif>
+									- Modifiche alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1979-09-04;27" xlink:type="simple">legge regionale 4 settembre 1979, n. 27</rif>
+									"Provvedimenti per il potenziamento e lo sviluppo della zootecnia";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letkk">
+							<num>kk)</num>
+							<corpo>
+								<mod id="mod38">
+									<rif xlink:href="urn:nir:regione.molise:legge:1985-01-07;2" xlink:type="simple">legge regionale 7 gennaio 1985, n. 2</rif>
+									- Modifiche alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1981-06-20;12" xlink:type="simple">legge regionale del 20 giugno 1981, n. 12</rif>
+									e ulteriori provvidenze in favore dell'Artigianato;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letll">
+							<num>ll)</num>
+							<corpo>
+								<mod id="mod39">
+									<rif xlink:href="urn:nir:regione.molise:legge:1985-02-21;5" xlink:type="simple">legge regionale 21 febbraio 1985, n. 5</rif>
+									- Modifica alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1978-02-10;5" xlink:type="simple">legge regionale 10 febbraio 1978, n. 5</rif>
+									recante: "Interventi a favore della cooperazione agricola" e "soppressione
+									<rif xlink:href="urn:nir:regione.molise:legge:1984-09-05;25" xlink:type="simple">legge regionale 5 settembre 1984, n. 25</rif>
+									";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letmm">
+							<num>mm)</num>
+							<corpo>
+								<mod id="mod40">
+									<rif xlink:href="urn:nir:regione.molise:legge:1985-04-19;11" xlink:type="simple">legge regionale 19 aprile 1985, n. 11</rif>
+									-
+									<rif xlink:href="urn:nir:regione.molise:legge:1984-12-27;30" xlink:type="simple">Legge regionale 27 dicembre 1984, n. 30</rif>
+									recante: "Modifiche alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1979-09-04;27" xlink:type="simple">legge regionale 4 settembre 1979, n. 27</rif>
+									: Provvedimenti per il potenziamento e lo sviluppo della zootecnia " - Art. 2 - Soppressione;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letnn">
+							<num>nn)</num>
+							<corpo>
+								<mod id="mod41">
+									<rif xlink:href="urn:nir:regione.molise:legge:1985-05-02;15" xlink:type="simple">legge regionale 2 maggio 1985, n. 15</rif>
+									- Norme per la concessione di contributi per le spese di manutenzione ordinaria delle strade vicinali, interpoderali, di bonifica montana ed integrale;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letoo">
+							<num>oo)</num>
+							<corpo>
+								<mod id="mod42">
+									<rif xlink:href="urn:nir:regione.molise:legge:1986-04-28;9" xlink:type="simple">legge regionale 28 aprile 1986, n. 9</rif>
+									- Modifiche alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1984-07-30;17" xlink:type="simple">legge regionale 30 luglio 1984, n. 17</rif>
+									- Interventi a favore degli imprenditori agricoli per l'acquisto di mezzi e attrezzature tecniche o secondarie per l'attivitÃ  agricola;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letpp">
+							<num>pp)</num>
+							<corpo>
+								<mod id="mod43">
+									<rif xlink:href="urn:nir:regione.molise:legge:1987-09-04;13" xlink:type="simple">legge regionale 4 settembre 1987, n. 13</rif>
+									- Costituzione di un fondo speciale regionale a favore delle imprese del Molise che versano in particolare stato di crisi;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letqq">
+							<num>qq)</num>
+							<corpo>
+								<mod id="mod44">
+									<rif xlink:href="urn:nir:regione.molise:legge:1988-03-10;6" xlink:type="simple">legge regionale 10 marzo 1988, n. 6</rif>
+									- Norme di attuazione della
+									<rif xlink:href="urn:nir:stato:legge:1986-03-01;64" xlink:type="simple">legge 1Â° marzo 1986, n. 64</rif>
+									- Disciplina Organica dell'Intervento Straordinario nel Mezzogiorno;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letrr">
+							<num>rr)</num>
+							<corpo>
+								<mod id="mod45">
+									<rif xlink:href="urn:nir:regione.molise:legge:1988-11-21;23" xlink:type="simple">legge regionale 21 novembre 1988, n. 23</rif>
+									- Interventi finanziari a sostegno del settore commerciale;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letss">
+							<num>ss)</num>
+							<corpo>
+								<mod id="mod46">
+									<rif xlink:href="urn:nir:regione.molise:legge:1989-08-11;11" xlink:type="simple">legge regionale 11 agosto 1989, n. 11</rif>
+									- Modifica alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1980-01-24;2" xlink:type="simple">legge regionale 24 gennaio 1980, n. 2</rif>
+									concernente: "Disciplina dell'ippicoltura";
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-lettt">
+							<num>tt)</num>
+							<corpo>
+								<mod id="mod47">
+									<rif xlink:href="urn:nir:regione.molise:legge:1989-09-04;13" xlink:type="simple">legge regionale 4 settembre 1989, n. 13</rif>
+									- Modifiche alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1984-08-28;23" xlink:type="simple">legge regionale 28 agosto 1984, n. 23</rif>
+									, recante norme per il riconoscimento delle associazioni dei produttori agricoli;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letuu">
+							<num>uu)</num>
+							<corpo>
+								<mod id="mod48">
+									<rif xlink:href="urn:nir:regione.molise:legge:1989-11-09;21" xlink:type="simple">legge regionale 9 novembre 1989, n. 21</rif>
+									- Norme per la raccolta, coltivazione e commercio di tartufi freschi o conservati destinati al consumo nella Regione Molise - Disciplina attuativa della
+									<rif xlink:href="urn:nir:stato:legge:1985-12-16;752" xlink:type="simple">legge 16 dicembre 1985, n. 752</rif>
+									- Delega di funzioni amministrative alle Amministrazioni Provinciali di Campobasso e Isernia ai sensi dell'
+									<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art118" xlink:type="simple">art.118, ultimo comma, della Costituzione</rif>
+<!-- frammento comma:ord=ultimo; -->
+									della Repubblica, limitatamente all'art. 10;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letvv">
+							<num>vv)</num>
+							<corpo>
+								<mod id="mod49">
+									<rif xlink:href="urn:nir:regione.molise:legge:1990-01-12;2" xlink:type="simple">legge regionale 12 gennaio 1990, n. 2</rif>
+									- Modifica alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1978-02-10;5" xlink:type="simple">legge regionale n. 5 del 10 febbraio 1978</rif>
+									, recante interventi a favore della cooperazione agricola;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letww">
+							<num>ww)</num>
+							<corpo>
+								<mod id="mod50">
+									<rif xlink:href="urn:nir:regione.molise:legge:1992-12-21;26" xlink:type="simple">legge regionale 21 dicembre 1992, n. 26</rif>
+									- Modifiche e integrazioni alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1978-02-10;5" xlink:type="simple">legge regionale 10 febbraio 1978, n. 5</rif>
+									;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letxx">
+							<num>xx)</num>
+							<corpo>
+								<mod id="mod51">
+									<rif xlink:href="urn:nir:regione.molise:legge:1993-09-10;20" xlink:type="simple">legge regionale 10 settembre 1993, n. 20</rif>
+									- Interventi contributivi in favore delle organizzazioni professionali regionali degli imprenditori agricoli;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letyy">
+							<num>yy)</num>
+							<corpo>
+								<mod id="mod52">
+									<rif xlink:href="urn:nir:regione.molise:legge:1994-11-03;19" xlink:type="simple">legge regionale 3 novembre 1994, n. 19</rif>
+									- Interpretazione autentica dell'
+									<rif xlink:href="urn:nir:regione.molise:legge:1981-06-20;12#art5" xlink:type="simple">art. 5 della legge regionale 20 giugno 1981, n. 12</rif>
+									;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letzz">
+							<num>zz)</num>
+							<corpo>
+								<mod id="mod53">
+									<rif xlink:href="urn:nir:regione.molise:legge:1995-05-12;25" xlink:type="simple">legge regionale 12 maggio 1995, n. 25</rif>
+									- Norme regionali di attuazione del Piano Energetico Nazionale;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letaaa">
+							<num>aaa)</num>
+							<corpo>
+								<mod id="mod54">
+									<rif xlink:href="urn:nir:regione.molise:legge:1996-08-09;26" xlink:type="simple">legge regionale 9 agosto 1996, n. 26</rif>
+									- Interventi per lo sviluppo e l'occupazione nelle Piccole e Medie Imprese;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letbbb">
+							<num>bbb)</num>
+							<corpo>
+								<mod id="mod55">
+									<rif xlink:href="urn:nir:regione.molise:legge:1996-09-20;29" xlink:type="simple">legge regionale 20 settembre 1996, n. 29</rif>
+									- Disposizioni relative all'installazione di impianti serricoli;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art1-com1-letccc">
+							<num>ccc)</num>
+							<corpo>
+								<mod id="mod56">
+									<rif xlink:href="urn:nir:regione.molise:legge:1996-10-25;33" xlink:type="simple">legge regionale 25 ottobre 1996, n. 33</rif>
+									â€“ Modifiche e integrazioni alle leggi regionali 20 giugno 1981, n. 12 "Ulteriori provvidenze a favore dell'Artigianato" e 7 gennaio 1985, n. 2 "Modifiche alla
+									<rif xlink:href="urn:nir:regione.molise:legge:1981-06-20;12" xlink:type="simple">legge regionale del 20 giugno 1981, n. 12</rif>
+									e ulteriori provvidenze a favore dell'Artigianato".
+								</mod>
+							</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<comma id="art2-com1">
+						<num />
+						<corpo>
+							Le norme regionali di cui al
+							<rif xlink:href="#art1" xlink:type="simple">precedente Articolo 1</rif>
+							continuano ad applicarsi per gli interventi decisi entro il 31 dicembre 1999.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<comma id="art3-com1">
+						<num />
+						<corpo>
+							La presente legge Ã¨ dichiarata urgente ai sensi dell'
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art127" xlink:type="simple">art. 127 della Costituzione</rif>
+							e dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art38" xlink:type="simple">art. 38 dello Statuto regionale</rif>
+							ed entra in vigore il giorno successivo a quello della sua pubblicazione.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarÃ  pubblicata nel Bollettino Ufficiale della Regione. Ãˆ fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

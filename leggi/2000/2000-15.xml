@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20000316" num="6" tipo="BURM"/>
-                <entratainvigore norm="20000331"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2000-03-03;15"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xe0;"/>
-                </materie>
-            </descrittori>
-        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, università 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20000316" num="6" tipo="BURM" />
+					<entratainvigore norm="20000317" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2000-03-03;15" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, università" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20000317" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2000-03-03;15" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, università 
  
 Bollettino 
 Bollettino Ufficiale n.6 del 16 marzo 2000 
@@ -27,121 +36,115 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc norm="20000303">3 marzo 2000</dataDoc>n. <numDoc>15</numDoc>. 
- 
-<titoloDoc>Misure urgenti per l'accelerazione dei flussi di spesa corrente delle attività formative regionali.  
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art.1 </num>
-
-                <rubrica>
- 
-Finalità 
- 
-Allo scopo di consentire correntezza nella erogazione, da parte degli Enti di Formazione Professionale, delle retribuzioni ed oneri riflessi al personale iscritto all'Albo regionale di cui all'<rif
-                        xlink:href="urn:nir:regione.molise:legge:1995;10#art26">art. 26 della Legge Regionale n. 10/1995</rif> ed impegnato o da impegnare in azioni formative finanziate con risorse, comunitarie, nazionali o regionali, la cui copertura derivi dal bilancio regionale, la Regione Molise autorizza la "FINANZIARIA REGIONALE PER LO SVILUPPO DEL MOLISE - FINMOLISE - S.p.A." - ad approvvigionarsi sul mercato del credito, per effettuare anticipazioni a favore di detti Enti, per l'attuazione di attività formative regionali. 
- 
-Tali anticipazioni non possono superare il 50% (cinquanta per cento) degli importi stabiliti nelle convenzioni stipulate con la Regione dai sopracitati soggetti. 
- 
-La Regione garantisce alla "FINMOLISE - S.p.A." i rimborsi dei capitali anticipati nei limiti di un plafond di trentacinque miliardi di lire.  
- 
-Per ciascun rimborso, la Regione vincolerè le risorse che lo Stato e la U.E. andranno ad erogare allo stesso titolo delle anticipazioni effettuate, nonché le risorse proprie di bilancio destinate alle attività di formazione professionale. 
- 
-La Regione assicurerè altresì alla "FINMOLISE - S.p.A." il rimborso degli interessi e degli oneri dovuti alle aziende di credito, secondo modalità disciplinate con la convenzione di cui al <rif xlink:href="#art4">successivo articolo 4</rif>. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art.2 </num>
-                <rubrica>
- 
-Abrogazione 
- 
-L'<rif xlink:href="urn:nir:regione.molise:legge:1995-03-30;10#art29">art. 29 della legge regionale 30 marzo 1995, n. 10</rif> è abrogato. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art2-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art.3 </num>
-
-                <rubrica>
- 
-Modalità di erogazione delle anticipazioni 
- 
-Le operazioni di anticipazione ai soggetti di cui all'<rif
-                        xlink:href="#art1">articolo 1</rif> sono effettuate su disposizioni, rivolte alla "FINMOLISE - S.p.A." dall'Assessorato Regionale alle Finanze per l'accreditamento immediato delle relative somme alla Tesoreria della Regione Molise. 
- 
-La Tesoreria è tenuta ad eseguire i pagamenti con estinzione dei mandati emessi dalla Regione, in favore dei soggetti di cui all'<rif xlink:href="#art1">art. 1</rif>, alla condizione che gli stessi rilascino contestualmente quietanza, ovvero titolo equipollente. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art3-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>Art.4 </num>
-                <rubrica>
- 
-Convenzione con la "FINMOLISE - S.p.A." 
- 
-Un'apposita convenzione, da approvarsi dalla Giunta Regionale, regolerè i rapporti tra la "FINMOLISE - S.p.A." e la Regione Molise. 
- 
-</rubrica><?error Marker Warning 109?>
-                <comma id="art4-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-            <articolo id="art5">
-                <num>Art.5 </num>
-                <rubrica>
- 
-Norma Finanziaria 
- </rubrica>
-                <comma id="art5-com1">
-                    <num>
-1.</num>
-                    <corpo> A decorrere dall'esercizio finanziario 2000, con la legge approvativa del bilancio sarè determinata l'entità annuale della spesa derivante dall'applicazione della presente legge, da iscriversi in appositi capitoli dello stato di previsione delle uscite. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art6">
-                <num>Art.6 </num>
-
-                <rubrica>
- 
-Dichiarazione di urgenza 
- 
-La presente legge è dichiarata urgente ai sensi dell'<rif
-                        xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione.  
- 
-La presente legge sarè pubblicata nel Bollettino Ufficiale delle Regione. è fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
-<?error Marker Warning 109?>
-                </rubrica>
-                <comma id="art6-com1">
-                    <num/>
-                    <corpo/>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20000303">3 marzo 2000</dataDoc>
+				n.
+				<numDoc>15</numDoc>
+				.
+				<titoloDoc>Misure urgenti per l'accelerazione dei flussi di spesa corrente delle attività formative regionali.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art.1</num>
+					<rubrica>Finalità</rubrica>
+					<comma id="art1-com1">
+						<num />
+						<corpo>
+							Allo scopo di consentire correntezza nella erogazione, da parte degli Enti di Formazione Professionale, delle retribuzioni ed oneri riflessi al personale iscritto all'Albo regionale di cui all'
+							<rif xlink:href="urn:nir:regione.molise:legge:1995;10#art26" xlink:type="simple">art. 26 della Legge Regionale n. 10/1995</rif>
+							ed impegnato o da impegnare in azioni formative finanziate con risorse, comunitarie, nazionali o regionali, la cui copertura derivi dal bilancio regionale, la Regione Molise autorizza la "FINANZIARIA REGIONALE PER LO SVILUPPO DEL MOLISE - FINMOLISE - S.p.A." - ad approvvigionarsi sul mercato del credito, per effettuare anticipazioni a favore di detti Enti, per l'attuazione di attività formative regionali.
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num />
+						<corpo>Tali anticipazioni non possono superare il 50% (cinquanta per cento) degli importi stabiliti nelle convenzioni stipulate con la Regione dai sopracitati soggetti.</corpo>
+					</comma>
+					<comma id="art1-com3">
+						<num />
+						<corpo>La Regione garantisce alla "FINMOLISE - S.p.A." i rimborsi dei capitali anticipati nei limiti di un plafond di trentacinque miliardi di lire.</corpo>
+					</comma>
+					<comma id="art1-com4">
+						<num />
+						<corpo>Per ciascun rimborso, la Regione vincolerà le risorse che lo Stato e la U.E. andranno ad erogare allo stesso titolo delle anticipazioni effettuate, nonché le risorse proprie di bilancio destinate alle attività di formazione professionale.</corpo>
+					</comma>
+					<comma id="art1-com5">
+						<num />
+						<corpo>
+							La Regione assicurerà altresì alla "FINMOLISE - S.p.A." il rimborso degli interessi e degli oneri dovuti alle aziende di credito, secondo modalità disciplinate con la convenzione di cui al
+							<rif xlink:href="#art4" xlink:type="simple">successivo articolo 4</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art.2</num>
+					<rubrica>Abrogazione</rubrica>
+					<comma id="art2-com1">
+						<num />
+						<corpo>
+							<mod id="mod1">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:1995-03-30;10#art29" xlink:type="simple">art. 29 della legge regionale 30 marzo 1995, n. 10</rif>
+								è abrogato.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art.3</num>
+					<rubrica>Modalità di erogazione delle anticipazioni</rubrica>
+					<comma id="art3-com1">
+						<num />
+						<corpo>
+							Le operazioni di anticipazione ai soggetti di cui all'
+							<rif xlink:href="#art1" xlink:type="simple">articolo 1</rif>
+							sono effettuate su disposizioni, rivolte alla "FINMOLISE - S.p.A." dall'Assessorato Regionale alle Finanze per l'accreditamento immediato delle relative somme alla Tesoreria della Regione Molise.
+						</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num />
+						<corpo>
+							La Tesoreria è tenuta ad eseguire i pagamenti con estinzione dei mandati emessi dalla Regione, in favore dei soggetti di cui all'
+							<rif xlink:href="#art1" xlink:type="simple">art. 1</rif>
+							, alla condizione che gli stessi rilascino contestualmente quietanza, ovvero titolo equipollente.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art.4</num>
+					<rubrica>Convenzione con la "FINMOLISE - S.p.A."</rubrica>
+					<comma id="art4-com1">
+						<num />
+						<corpo>Un'apposita convenzione, da approvarsi dalla Giunta Regionale, regolerà i rapporti tra la "FINMOLISE - S.p.A." e la Regione Molise.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art.5</num>
+					<rubrica>Norma Finanziaria</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>A decorrere dall'esercizio finanziario 2000, con la legge approvativa del bilancio sarà determinata l'entità annuale della spesa derivante dall'applicazione della presente legge, da iscriversi in appositi capitoli dello stato di previsione delle uscite.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art.6</num>
+					<rubrica>Dichiarazione di urgenza</rubrica>
+					<comma id="art6-com1">
+						<num />
+						<corpo>
+							La presente legge è dichiarata urgente ai sensi dell'
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art127" xlink:type="simple">articolo 127 della Costituzione</rif>
+							e dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art38" xlink:type="simple">articolo 38 dello Statuto regionale</rif>
+							ed entra in vigore il giorno successivo a quello della sua pubblicazione.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale delle Regione. E' fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

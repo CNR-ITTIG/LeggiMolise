@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="20000316" num="6" tipo="BURM"/>
-                <entratainvigore norm="20000331"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:2000-03-03;13"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20010715" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2001;12" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="20000316" num="6" tipo="BURM" />
+					<entratainvigore norm="20000317" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:2000-03-03;13" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20000317" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20010715" fonte="rp1" id="t2" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2000-03-03;13" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2001;12" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
  
 Bollettino 
 Bollettino Ufficiale n. 06 del 16 marzo 2000 
@@ -27,26 +38,29 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc norm="20000303">3 marzo 2000</dataDoc>, n. <numDoc>13</numDoc>. 
- 
-<titoloDoc>Interventi straordinari per l'attribuzione degli aiuti compatibili con le disposizioni dell'Unione Europea per la ristrutturazione ed il salvataggio di imprese in difficoltà operanti nel settore agricolo ed agroalimentare.  
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 12/2001 art. 4</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="20000303">3 marzo 2000</dataDoc>
+				, n.
+				<numDoc>13</numDoc>
+				.
+				<titoloDoc>Interventi straordinari per l'attribuzione degli aiuti compatibili con le disposizioni dell'Unione Europea per la ristrutturazione ed il salvataggio di imprese in difficoltà operanti nel settore agricolo ed agroalimentare.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>
+							abrogata intera legge dalla
+							<rif xlink:href="urn:nir:regione.molise:legge:2001;12#art4" xlink:type="simple">legge n. 12/2001 art. 4</rif>
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>
