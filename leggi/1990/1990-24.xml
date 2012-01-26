@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19900601" num="10" tipo="BURM"/>
-                <entratainvigore norm="19900616"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1990-05-25;24"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="04.assistenza sociale, volontariato"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="19920315" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1992;07" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 04.Assistenza sociale, volontariato 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19900601" num="10" tipo="BURM" />
+					<entratainvigore norm="19900616" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1990-05-25;24" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="04.assistenza sociale, volontariato" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19920315" fonte="rp1" id="t1" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1992;07" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 04.Assistenza sociale, volontariato 
  
 Bollettino 
 Bollettino Ufficiale n. 10 del 01/06/90 
@@ -27,180 +36,163 @@ Modifiche
 Modificato art. 1 dalla legge n. 7/1992 art. 1 
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19900525">25 Maggio 1990</dataDoc>, n. <numDoc>24</numDoc>
-            <titoloDoc>Provvidenze in favore delle Associazioni di tutela degli invalidi 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1</num>
-                <rubrica>: BENEFICIARI 
- </rubrica>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-
-                    <corpo> La Regione Molise concede annualmente contributi alle sezioni regionali delle seguenti   Associazioni che svolgono sul territorio regionale attività di alto valore sociale, allo scopo di favorirne lo svolgimento dei compiti istituzionali, escluse le associazioni combattentistiche e patriottiche e d'armi: 
- 
-- Associazione nazionale mutilati ed invalidi del lavoro (ANMIL), riconosciuta con <rif
-                            xlink:href="urn:nir:presidente.repubblica:decreto:1978-12-23">decreto del   Presidente della Repubblica del 23 dicembre 1978</rif>; 
- 
-- Unione italiana ciechi (UIC), riconosciuta con <rif
-                            xlink:href="urn:nir:presidente.repubblica:decreto:1978-12-23">decreto del Presidente della Repubblica del 23   dicembre 1978</rif>; 
- 
-- Ente nazionale sordomuti (ENS), riconosciuta con <rif
-                            xlink:href="urn:nir:presidente.repubblica:decreto:1979-12-31">decreto del Presidente della Repubblica del   31 dicembre 1979</rif>; 
- 
-- Associazione nazionale mutilati ed invalidi civili (ANMIC), riconosciuta con <rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-12-23">decreto del  Presidente della Repubblica del 23 dicembre 1978</rif>. 
- 
-Con deliberazione del Consiglio Regionale può essere decisa l'ammissione di altri organismi   associativi riconosciuti con Decreto del Presidente della Repubblica, che presentino i necessari requisiti e finalità sociali. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2</num>
-                <rubrica>: CONCESSIONE DEI CONTRIBUTI 
- </rubrica>
-                <comma id="art2-com1">
-                    <num>
-1.</num>
-
-                    <corpo> La Giunta regionale, su conforme parere della Commissione consiliare competente, dispone la   concessione dei contributi di cui al <rif
-                            xlink:href="#art3">successivo articolo 3</rif> in favore delle rappresentanze   regionali degli Enti di cui all'<rif xlink:href="#art1">articolo 1</rif>. </corpo>
-                </comma>
-                <comma id="art2-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Le rappresentanze regionali provvederanno a ripartire una quota non inferiore all'80 per cento   del contributo totale ottenuto per l'anno tra le due sezioni provinciali sulla base del numero degli iscritti a ciascuna di loro. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art. 3</num>
-                <rubrica>: ENTItà DEI CONTRIBUTI 
- </rubrica>
-                <comma id="art3-com1">
-                    <num>
-1.</num>
-                    <corpo> A ciascuna delle Associazioni verrè attribuita una quota, uguale per tutte, che verrè   quantificata ogni anno con provvedimento della Giunta regionale, su conforme parere della   Commissione consiliare competente. </corpo>
-                </comma>
-                <comma id="art3-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Alla quota di cui al comma precedente verrè aggiunto un ulteriore contributo stabilito   annualmente dalla Giunta regionale, su conforme parere della Commissione consiliare competente, e correlato alla quantità e qualità delle attività programmate. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>Art. 4</num>
-                <rubrica>: MODALItà 
- </rubrica>
-                <comma id="art4-com1">
-                    <num>
-1.</num>
-                    <corpo> Entro e non oltre il 31 gennaio di ogni anno i responsabili delle delegazioni regionali delle   Associazioni interessate trasmettono alla Giunta regionale domanda dei contributi previsti dalla   presente legge. </corpo>
-                </comma>
-                <comma id="art4-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Alla domanda devono essere allegati il programma delle attività da svolgere nell'anno nonché una relazione, corredata da rendiconto finanziario, sulle attività svolte nell'anno precedente. </corpo>
-                </comma>
-                <comma id="art4-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Il contributo annuo verrè versato in unica soluzione. </corpo>
-                </comma>
-                <comma id="art4-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Ove la Giunta regionale dovesse riscontrare difformità rispetto ai programmi presentati o agli scopi istituzionali degli statuti delle Associazioni, provvederè all'emanazione di provvedimento di revoca del contributo concesso. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art5">
-                <num>Art. 5</num>
-                <rubrica>: NORMA TRANSITORIA 
- </rubrica>
-                <comma id="art5-com1">
-                    <num>
-1.</num>
-
-                    <corpo> Per il primo anno di applicazione della presente legge regionale il termine di cui al <rif xlink:href="#art4-com1">primo comma del precedente articolo 4</rif> è fissato a due mesi della entrata in vigore della presente   legge. </corpo>
-                </comma>
-                <comma id="art5-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Per il primo anno di applicazione le Associazioni sono esonerate dal presentare la relazione conclusiva, con rendiconto, dell'attività svolta nell'anno precedente. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art6">
-                <num>Art. 6</num>
-                <rubrica>: NORMA FINANZIARIA 
- </rubrica>
-                <comma id="art6-com1">
-                    <num>
-1.</num>
-                    <corpo> All'onere derivante dall'attuazione della presente legge regionale, valutato per il 1990 in lire duecentomilioni, si fa fronte con successiva legge di variazione al bilancio con prelievo dai fondi per &lt;&lt;Provvedimenti Legislativi in corso&gt;&gt;. </corpo>
-                </comma>
-                <comma id="art6-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Alla quantificazione degli oneri annuali si provvede con la legge approvativa di bilancio. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art7">
-                <num>Art. 7</num>
-                <rubrica>: ABROGAZIONE DI NORME 
- </rubrica>
-                <comma id="art7-com1">
-                    <num>
-1.</num>
-                    <corpo>
-                        <mod id="art7-com1-mod1"> è abrogata la <rif xlink:href="urn:nir:regione.molise:legge:1975-01-13;2">legge regionale 13 gennaio 1975 n. 2</rif>. 
- 
-</mod>
-                    </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art8">
-                <num>Art. 8</num>
-                <rubrica>: PUBBLICAZIONE 
- </rubrica>
-                <comma id="art8-com1">
-                    <num>
-1.</num>
-                    <corpo> La presente legge verrè pubblicata nel Bollettino Ufficiale della Regione Molise. </corpo>
-                </comma>
-                <comma id="art8-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> è fatto obbligo, a chiunque spetti, di osservarla e farla osservare come legge della Regione Molise. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19900525">25 Maggio 1990</dataDoc>
+				, n.
+				<numDoc>24</numDoc>
+				<titoloDoc>Provvidenze in favore delle Associazioni di tutela degli invalidi</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>BENEFICIARI</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<alinea>La Regione Molise concede annualmente contributi alle sezioni regionali delle seguenti Associazioni che svolgono sul territorio regionale attività di alto valore sociale, allo scopo di favorirne lo svolgimento dei compiti istituzionali, escluse le associazioni combattentistiche e patriottiche e d'armi:</alinea>
+						<ep id="art1-com1-pun1">
+							<num>-</num>
+							<corpo>
+								Associazione nazionale mutilati ed invalidi del lavoro (ANMIL), riconosciuta con
+								<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-12-23" xlink:type="simple">decreto del Presidente della Repubblica del 23 dicembre 1978</rif>
+								;
+							</corpo>
+						</ep>
+						<ep id="art1-com1-pun2">
+							<num>-</num>
+							<corpo>
+								Unione italiana ciechi (UIC), riconosciuta con
+								<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-12-23" xlink:type="simple">decreto del Presidente della Repubblica del 23 dicembre 1978</rif>
+								;
+							</corpo>
+						</ep>
+						<ep id="art1-com1-pun3">
+							<num>-</num>
+							<corpo>
+								Ente nazionale sordomuti (ENS), riconosciuta con
+								<rif xlink:href="urn:nir:presidente.repubblica:decreto:1979-12-31" xlink:type="simple">decreto del Presidente della Repubblica del 31 dicembre 1979</rif>
+								;
+							</corpo>
+						</ep>
+						<ep id="art1-com1-pun4">
+							<num>-</num>
+							<corpo>
+								Associazione nazionale mutilati ed invalidi civili (ANMIC), riconosciuta con
+								<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-12-23" xlink:type="simple">decreto del Presidente della Repubblica del 23 dicembre 1978</rif>
+								.
+							</corpo>
+						</ep>
+						<coda>Con deliberazione del Consiglio Regionale può essere decisa l'ammissione di altri organismi associativi riconosciuti con Decreto del Presidente della Repubblica, che presentino i necessari requisiti e finalità sociali.</coda>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>CONCESSIONE DEI CONTRIBUTI</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							La Giunta regionale, su conforme parere della Commissione consiliare competente, dispone la concessione dei contributi di cui al
+							<rif xlink:href="#art3" xlink:type="simple">successivo articolo 3</rif>
+							in favore delle rappresentanze regionali degli Enti di cui all'
+							<rif xlink:href="#art1" xlink:type="simple">articolo 1</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>Le rappresentanze regionali provvederanno a ripartire una quota non inferiore all'80 per cento del contributo totale ottenuto per l'anno tra le due sezioni provinciali sulla base del numero degli iscritti a ciascuna di loro.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>ENTITÀ DEI CONTRIBUTI</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>A ciascuna delle Associazioni verrè attribuita una quota, uguale per tutte, che verrè quantificata ogni anno con provvedimento della Giunta regionale, su conforme parere della Commissione consiliare competente.</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<corpo>Alla quota di cui al comma precedente verrè aggiunto un ulteriore contributo stabilito annualmente dalla Giunta regionale, su conforme parere della Commissione consiliare competente, e correlato alla quantità e qualità delle attività programmate.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>MODALITÀ</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>Entro e non oltre il 31 gennaio di ogni anno i responsabili delle delegazioni regionali delle Associazioni interessate trasmettono alla Giunta regionale domanda dei contributi previsti dalla presente legge.</corpo>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<corpo>Alla domanda devono essere allegati il programma delle attività da svolgere nell'anno nonché una relazione, corredata da rendiconto finanziario, sulle attività svolte nell'anno precedente.</corpo>
+					</comma>
+					<comma id="art4-com3">
+						<num>3.</num>
+						<corpo>Il contributo annuo verrè versato in unica soluzione.</corpo>
+					</comma>
+					<comma id="art4-com4">
+						<num>4.</num>
+						<corpo>Ove la Giunta regionale dovesse riscontrare difformità rispetto ai programmi presentati o agli scopi istituzionali degli statuti delle Associazioni, provvederè all'emanazione di provvedimento di revoca del contributo concesso.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>NORMA TRANSITORIA</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>
+							Per il primo anno di applicazione della presente legge regionale il termine di cui al
+							<rif xlink:href="#art4-com1" xlink:type="simple">primo comma del precedente articolo 4</rif>
+							è fissato a due mesi della entrata in vigore della presente legge.
+						</corpo>
+					</comma>
+					<comma id="art5-com2">
+						<num>2.</num>
+						<corpo>Per il primo anno di applicazione le Associazioni sono esonerate dal presentare la relazione conclusiva, con rendiconto, dell'attività svolta nell'anno precedente.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>NORMA FINANZIARIA</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>All'onere derivante dall'attuazione della presente legge regionale, valutato per il 1990 in lire duecentomilioni, si fa fronte con successiva legge di variazione al bilancio con prelievo dai fondi per &lt;&lt;Provvedimenti Legislativi in corso&gt;&gt;.</corpo>
+					</comma>
+					<comma id="art6-com2">
+						<num>2.</num>
+						<corpo>Alla quantificazione degli oneri annuali si provvede con la legge approvativa di bilancio.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>ABROGAZIONE DI NORME</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								È abrogata la
+								<rif xlink:href="urn:nir:regione.molise:legge:1975-01-13;2" xlink:type="simple">legge regionale 13 gennaio 1975 n. 2</rif>
+								.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>PUBBLICAZIONE</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>La presente legge verrà pubblicata nel Bollettino Ufficiale della Regione Molise.</corpo>
+					</comma>
+					<comma id="art8-com2">
+						<num>2.</num>
+						<corpo>È fatto obbligo, a chiunque spetti, di osservarla e farla osservare come legge della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

@@ -1,18 +1,45 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19930816" num="18" tipo="BURM"/>
-                <entratainvigore norm="19930831"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1993-08-10;19"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20040616" fonte="rp1" id="t1" tipo="modifica"/><evento data="20060831" fonte="rp2" id="t2" tipo="modifica"/><evento data="20061020" fonte="rp3" id="t3" tipo="modifica"/><evento data="20010816" fonte="rp4" id="t4" tipo="modifica"/><evento data="20041231" fonte="rp5" id="t5" tipo="modifica"/><evento data="20070524" fonte="rp6" id="t6" tipo="modifica"/><evento data="20051201" fonte="rp7" id="t7" tipo="modifica"/><evento data="" fonte="rp8" id="t8" tipo="modifica"/><evento data="20080527" fonte="rp9" id="t9" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2004;15" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2006;21" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2006;34" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2001;19" xlink:type="simple"/><passiva id="rp5" xlink:href="urn:nir:regione.molise:legge:2004;30" xlink:type="simple"/><passiva id="rp6" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/><passiva id="rp7" xlink:href="urn:nir:regione.molise:legge:2005;39" xlink:type="simple"/><passiva id="rp8" xlink:href="urn:nir:regione.molise:legge:2007;16" xlink:type="simple"/><passiva id="rp9" xlink:href="urn:nir:regione.molise:legge:2008;12" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19930816" num="18" tipo="BURM" />
+					<entratainvigore norm="19930817" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1993-08-10;19" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20040616" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="20060831" fonte="rp2" id="t2" tipo="modifica" />
+						<evento data="20061020" fonte="rp3" id="t3" tipo="modifica" />
+						<evento data="20010816" fonte="rp4" id="t4" tipo="modifica" />
+						<evento data="20041231" fonte="rp5" id="t5" tipo="modifica" />
+						<evento data="20070524" fonte="rp6" id="t6" tipo="modifica" />
+						<evento data="20051201" fonte="rp7" id="t7" tipo="modifica" />
+						<evento data="" fonte="rp8" id="t8" tipo="modifica" />
+						<evento data="20080527" fonte="rp9" id="t9" tipo="modifica" />
+						<evento data="19930817" fonte="ro1" id="t10" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1993-08-10;19" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2004;15" xlink:type="simple" />
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2006;21" xlink:type="simple" />
+						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2006;34" xlink:type="simple" />
+						<passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2001;19" xlink:type="simple" />
+						<passiva id="rp5" xlink:href="urn:nir:regione.molise:legge:2004;30" xlink:type="simple" />
+						<passiva id="rp6" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple" />
+						<passiva id="rp7" xlink:href="urn:nir:regione.molise:legge:2005;39" xlink:type="simple" />
+						<passiva id="rp8" xlink:href="urn:nir:regione.molise:legge:2007;16" xlink:type="simple" />
+						<passiva id="rp9" xlink:href="urn:nir:regione.molise:legge:2008;12" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
  
 Bollettino 
 Bollettino Ufficiale n. 18 del 16/08/93 
@@ -66,1016 +93,1907 @@ Modificato art. 41 dalla legge n. 12/2008 art. 21
 Modificato art. 42 dalla legge n. 21/2006 art. 1 
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19930810">10 Agosto 1993</dataDoc>, n. <numDoc>19</numDoc>
-            <titoloDoc>Norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1</num>
-                <rubrica>: OBIETTIVI 
- </rubrica>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-
-                    <corpo> La Regione Molise, nel rispetto dei principi sanciti dalla <rif xlink:href="urn:nir:stato:legge:1992-02-11;157">legge dello Stato n. 157 dell'11   febbraio 1992</rif>, delle Convenzioni internazionali e delle Direttive Comunitarie, detta norme   destinate a disciplinare l'esercizio della caccia nell'ambito del territorio regionale al fine di   proteggere e salvaguardare il patrimonio faunistico, nonché per la tutela dell'agricoltura e   dell'ambiente. La Regione, per le suddette finalità promuove la collaborazione attiva degli   Enti, delle Associazioni agricole e venatorie, per diffondere e approfondire la conoscenza del  patrimonio faunistico e la difesa dell'ambiente. </corpo>
-                </comma>
-                <comma id="art1-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> La Regione esercita funzioni amministrative, di programmazione e di coordinamento ai fini   della pianificazione faunistico - venatoria. </corpo>
-                </comma>
-                <comma id="art1-com3">
-                    <num>
- 
-3.</num>
-                    <alinea> La Giunta regionale sentita la Commissione Consiliare competente, propone al Consiglio Regionale che li approva i piani pluriennali per gli interventi nel settore della caccia: 
- 
-</alinea>
-                    <el id="art1-com3-leta">
-                        <num>a)</num>
-                        <corpo> realizza la pianificazione del territorio mediante la destinazione differenziata del territorio stesso;</corpo>
-                    </el>
-                    <el id="art1-com3-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> provvede a pubblicare annualmente entro e non oltre il 15 giugno il calendario venatorio   regionale e il relativo regolamento;</corpo>
-                    </el>
-                    <el id="art1-com3-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> entro un anno dall'entrata in vigore della legge la Regione promuove corsi di formazione sulle caratteristiche innovative della legge stessa. </corpo>
-                    </el>
-                </comma>
-                <comma id="art1-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> In attuazione delle direttive CEE la Regione provvede ad istituire lungo le rotte di migrazione dell'avifauna segnalate dall'I.N.F.S., zone di protezione finalizzate al mantenimento degli habitat interni a tali zone e ad essi limitrofi. </corpo>
-                </comma>
-                <comma id="art1-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> Su parere dell'I.N.F.S. la Regione può autorizzare esclusivamente Istituti a carattere scientifico a catturare per scopi scientifici. può inoltre rilasciare allo stesso scopo autorizzazione per inanellare. </corpo>
-                </comma>
-                <comma id="art1-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> Emana norme in ordine al soccorso alla detenzione temporanea e alla successiva liberazione di fauna selvatica in difficoltà. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2</num>
-                <rubrica>: TUTELA E UCCELLAGIONE 
- </rubrica>
-                <comma id="art2-com1">
-                    <num>
-1.</num>
-                    <corpo> Fanno parte della fauna selvatica, oggetto della tutela della presente legge i mammiferi e gli uccelli dei quali esistono popolazioni viventi, stabilmente o temporaneamente, in stato di   naturale libertà nel territorio regionale. </corpo>
-                </comma>
-                <comma id="art2-com2">
-                    <num>
- 
-2.</num>
-
-                    <corpo> Sono particolarmente protette, anche sotto il profilo sanzionatorio, le specie di fauna selvatica   elencate all'<rif
-                            xlink:href="#art2-com1">art. 2 comma 1</rif> lettere a), b) e c) della <rif xlink:href="urn:nir:stato:legge:1992-02-11;157">legge 11 febbraio 1992, n. 157</rif>, comunque   presenti sul territorio regionale, nonché le specie autoctone minacciate di estinzione riportate annualmente nel calendario venatorio. </corpo>
-                </comma>
-                <comma id="art2-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> è vietata in tutto il territorio regionale ogni forma di uccellagione e di cattura di uccelli e di   mammiferi selvatici, il prelievo di uova, nidi e piccoli nati; è vietata altresì la cattura di uccelli   con mezzi e per fini diversi da quelli previsti dalla presente legge. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art. 3</num>
-                <rubrica>: FUNZIONI AMMINISTRATIVE 
- </rubrica>
-                <comma id="art3-com1">
-                    <num>
-1.</num>
-
-                    <corpo> La Regione esercita le funzioni amministrative di programmazione e di coordinamento ai fini della pianificazione faunistico - venatoria e svolge compiti di orientamento, di controllo e sostitutivi nei casi previsti dalla presente legge e dal proprio <rif xlink:href="urn:nir:regione.molise:statuto:">statuto</rif>. </corpo>
-                </comma>
-                <comma id="art3-com2">
-                    <num>
- 
-2.</num>
-
-                    <corpo> Le Province esercitano le funzioni amministrative previste dall'<rif
-                            xlink:href="urn:nir:stato:legge:1990-06-08;142#art14">art. 14 della legge 8 giugno 1990, n. 142</rif>, dalla <rif xlink:href="urn:nir:stato:legge:1992;157">legge n. 157/1992</rif> e dalla presente legge regionale. </corpo>
-                </comma>
-                <comma id="art3-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> La Regione e le Province, nell'espletamento delle rispettive funzioni in materia, si avvalgono sia dell'Istituto nazionale per la fauna selvatica (I.N.F.S.), quale organo scientifico e tecnico di ricerca, che della collaborazione di Enti ed Istituti pubblici e privati specializzati nella ricerca. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>Art. 4</num>
-                <rubrica>: CATTURE ED INANELLAMENTO 
- </rubrica>
-                <comma id="art4-com1">
-                    <num>
-1.</num>
-                    <corpo> La Giunta Regionale, su parere dell'I.N.F.S., può autorizzare esclusivamente gli Istituti   Scientifici delle Università e del Consiglio Nazionale delle ricerche e i Musei di storia naturale ad effettuare, a scopo di studio e ricerca scientifica, la cattura e l'utilizzazione di mammiferi ed uccelli, nonché il prelievo di uova, nidi e piccoli nati. </corpo>
-                </comma>
-                <comma id="art4-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> L'attività di cattura temporanea per l'inanellamento degli uccelli a scopo scientifico può essere svolta esclusivamente da titolari di specifica autorizzazione, rilasciata dalla Giunta   Regionale, su parere dell'Istituto Nazionale per la fauna selvatica; l'espressione di tale parere è   subordinata alla partecipazione a specifici corsi di istruzione, organizzati dallo stesso Istituto, e   al superamento del relativo esame finale. </corpo>
-                </comma>
-                <comma id="art4-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Chiunque abbatte, cattura o rinviene uccelli inanellati è obbligato a darne notizia entro 10 gg.   all'I N.F.S. o al Comune nel cui territorio è avvenuto il fatto, il quale provvede ad informare il predetto Istituto. </corpo>
-                </comma>
-                <comma id="art4-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Con decreto del Presidente della Giunta Regionale vengono emanate norme in ordine al soccorso, alla detenzione temporanea ed alla successiva liberazione di fauna selvatica in difficoltà. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art5">
-                <num>Art. 5</num>
-                <rubrica>: TASSIDERMIA 
- </rubrica>
-                <comma id="art5-com1">
-                    <num>
-1.</num>
-                    <corpo> L'esercizio dell'attività di Tassidermia è subordinato al possesso di regolare iscrizione  presso la Camera  di Commercio Industria e Artigianato competente per territorio. </corpo>
-                </comma>
-                <comma id="art5-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> I dipendenti e titolari di Enti ed Istruzioni Pubbliche (quali Musei di Storia Naturale, Collezioni e Raccolte di interesse didattico - scientifico) e gli Istituti Universitari, sono esonerati dal possesso dei documenti di cui al comma precedente, ma non possono esercitare l'attività di tassidermia se non per conto esclusivo degli Enti. </corpo>
-                </comma>
-                <comma id="art5-com3">
-                    <num>
- 
-3.</num>
-                    <alinea> L'attività di Tassidermia è consentita esclusivamente nei confronti di esemplari appartenenti: 
- 
-</alinea>
-                    <el id="art5-com3-leta">
-                        <num>a)</num>
-                        <corpo> alla fauna selvatica, oggetto di caccia nella Regione Molise o nel restante territorio nazionale;</corpo>
-                    </el>
-                    <el id="art5-com3-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> agli uccelli mammiferi provenienti da territorio diverso da quello nazionale (fauna esotica), purché l'abbattimento, l'importazione o, comunque, l'impossessamento siano avvenuti in  conformità alla legislazione vigente in materia e nel rispetto degli accordi internazionali;</corpo>
-                    </el>
-                    <el id="art5-com3-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> alla fauna, sia indigena che esotica, tradizionalmente allevata per fini amatoriali ed alla fauna domestica. è consentita, inoltre, la preparazione tassidermistica, negli stessi limiti nei quali è permesso l'abbattimento di tutti gli animali di cui sia comprovata la provenienza da allevamenti conformi alle disposizioni vigenti in materia;</corpo>
-                    </el>
-                    <el id="art5-com3-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> l'Amministrazione Provinciale può autorizzare la preparazione di ogni specie di selvatico   deceduto per cause naturali o accidentali. </corpo>
-                    </el>
-                </comma>
-                <comma id="art5-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Il tassidermista deve annotare su di un apposito Registro di carico e scarico, vidimato dall'Amministrazione Provinciale, tutti i dati relativi agli animali appartenenti alle specie protette eventualmente consegnatigli per la preparazione. Deve, inoltre, indicare le generalità di  chi ha consegnato l'animale e le circostanze nelle quali ne è venuto in possesso. La responsabilità di qualsiasi illecito è del committente. Sarè cura dello stesso produrre eventualmente una adeguata documentazione di supporto. è responsabile il tassidermista se non ottempera all'obbligo di registrazione ed a quanto previsto dal  successivo comma. </corpo>
-                </comma>
-                <comma id="art5-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> All'atto della richiesta per la preparazione di cui al precedente comma, viene compilato un modulo, appositamente predisposto in triplice copia, una delle quali viene trasmessa all'Amministrazione Provinciale. Nel contempo il tassidermista non potrè procedere alla naturalizzazione dell'esemplare, in attesa dell'esito che, comunque, dovrè essere comunicato dall'Amministrazione Provinciale entro il termine di trenta giorni dall'avvenuta segnalazione. In caso di esito sfavorevole la stessa Amministrazione dovrè provvedere alla conservazione ed alla   destinazione d'uso a fini didattico scientifici, ai sensi dell'art. 4, comma 1, della legge febbraio   1992, n. 150. </corpo>
-                </comma>
-                <comma id="art5-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> Sono esonerati dall'obbligo della predetta segnalazione i Musei di Storia Naturale e le Collezioni scientifico - didattiche, non private. </corpo>
-                </comma>
-                <comma id="art5-com7">
-                    <num>
- 
-7.</num>
-
-                    <corpo> Il Tassidermista è obbligato ad apporre su tutti i preparati di esemplari appartenenti a specie   protette e consegnati al committente, un contrassegno con il numero di riferimento del Registro, di cui al <rif xlink:href="#art5-com1">precedente comma 1</rif>. Tale obbligo non è esteso ai soggetti zoologici affidati per la preparazione da Enti ed Istituzioni Pubbliche. </corpo>
-                </comma>
-                <comma id="art5-com8">
-                    <num>
- 
-8.</num>
-                    <corpo> Eventuali controlli potranno essere effettuati da funzionari debitamente autorizzati dagli   organi competenti nel rispetto  delle norme costituzionali e legislative vigenti in materia. </corpo>
-                </comma>
-                <comma id="art5-com9">
-                    <num>
- 
-9.</num>
-                    <corpo> Chiunque detenga, alla data di pubblicazione della presente legge, esemplari di animali   imbalsamati, appartenenti alla fauna protetta, deve inviare, ai fini dell'ulteriore detenzione, il loro elenco all'Amministrazione Provinciale, competente per territorio,  con lettera raccomandata/avviso di ricevimento entro e non oltre un'anno dalla data sopra citata. </corpo>
-                </comma>
-                <comma id="art5-com10">
-                    <num>
- 
-10.</num>
-                    <corpo> è tenuto all'obbligo di cui al comma precedente anche colui che è in possesso di esemplari già dichiarati e/o già contrassegnati, tutto cI' anche al fine di conoscere  il patrimonio  zoologico regionale. </corpo>
-                </comma>
-                <comma id="art5-com11">
-                    <num>
- 
-11.</num>
-                    <corpo> L'Amministrazione Provinciale competente per territorio  apporrè su ciascuno degli  esemplari dichiarati o parte di essi, ovvero sul basamento di sostegno degli stessi, un apposito   contrassegno di modello uniforme saldamente fissato. </corpo>
-                </comma>
-                <comma id="art5-com12">
-                    <num>
- 
-12.</num>
-
-                    <corpo> Nei confronti degli inadempienti trovano applicazione le sanzioni previste dagli artt. 30 e  31 della <rif xlink:href="urn:nir:stato:legge:1992-02-11;157">legge 11 febbraio 1992, n. 157</rif> per quanto concerne la detenzione ed il possesso di specie protette. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art6">
-                <num>Art. 6</num>
-                <rubrica>: PIANO FAUNISTICO - VENATORIO REGIONALE 
- </rubrica>
-                <comma id="art6-com1">
-                    <num>
-1.</num>
-                    <corpo> Il territorio agro - silvo - pastorale regionale è soggetto a  pianificazione faunistico - venatoria   finalizzata, per quanto attiene alle specie   carnivore, alla conservazione delle effettive  capacità riproduttive delle loro popolazioni e, per le altre specie, al conseguimento delle densità ottimali ed alla loro conservazione, mediante la riqualificazione delle risorse ambientali e la regolamentazione del prelievo venatorio. </corpo>
-                </comma>
-                <comma id="art6-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> La pianificazione faunistico - venatoria regionale è attuata mediante la destinazione  differenziata del territorio. </corpo>
-                </comma>
-                <comma id="art6-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Il territorio agro - silvo - pastorale della regione, utile all'esercizio venatorio, è destinato per una quota non superiore al 20 per cento a protezione della fauna selvatica, comprendendo tutte le aree ove sia comunque vietata l'attività venatoria anche per effetto di altre leggi o disposizioni. </corpo>
-                </comma>
-                <comma id="art6-com4">
-                    <num>
- 
-4.</num>
-
-                    <corpo> Nei territori di protezione, compresi quelli di cui al <rif xlink:href="#art10">successivo art. 10</rif> lettere a), b) e c), sono   vietati l'abbattimento e la cattura a fini venatori e sono previsti interventi atti ad agevolare la   sosta della fauna, la riproduzione, la cura della prole. </corpo>
-                </comma>
-                <comma id="art6-com5">
-                    <num>
- 
-5.</num>
-                    <alinea> Il 15 per cento del territorio agro - silvo - pastorale regionale utile all'esercizio venatorio può essere così destinato: 
- 
-</alinea>
-                    <el id="art6-com5-leta">
-                        <num>a)</num>
-                        <corpo> 8 per cento alle aziende  faunistico - venatorie;</corpo>
-                    </el>
-                    <el id="art6-com5-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> 5 per cento alle aziende agri - turistico - venatorie;</corpo>
-                    </el>
-                    <el id="art6-com5-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> 2 per cento ai centri privati di produzione della selvaggina. </corpo>
-                    </el>
-                </comma>
-                <comma id="art6-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> Sul rimanente territorio agro silvo - pastorale la Regione promuove forme di gestione programmata della caccia, stabilite dagli articoli 18 e 20 della presente legge. </corpo>
-                </comma>
-                <comma id="art6-com7">
-                    <num>
- 
-7.</num>
-                    <corpo> Il Piano faunistico - regionale che realizza il coordinamento dei piani provinciali è predisposto dalla Giunta Regionale, sentita la Commissione Regionale Competente, è approvato dal Consiglio Regionale, ha durata quinquennale e può essere rivisto nel corso della sua efficacia. </corpo>
-                </comma>
-                <comma id="art6-com8">
-                    <num>
- 
-8.</num>
-                    <alinea> Il Piano faunistico regionale, oltre a contenere indirizzi generali sulle attività miranti al giusto equilibrio e conservazione della fauna sul territorio, deve indicare: 
- 
-</alinea>
-                    <el id="art6-com8-leta">
-                        <num>a)</num>
-
-                        <corpo> i criteri per la determinazione del risarcimento in favore dei conduttori dei fondi rustici per i danni arrecati dalla fauna selvatica alle produzioni agricole e alle opere lettere a), b) e c) del <rif xlink:href="#art10">successivo art. 10</rif>;</corpo>
-                    </el>
-                    <el id="art6-com8-letb">
-                        <num> 
- 
-b)</num>
-
-                        <corpo> i criteri per la corresponsione degli incentivi in favore dei proprietari e conduttori dei fondi   rustici singoli o associati che si impegnino alla tutela ed al ripristino degli habitat naturali ed   all'incremento della fauna selvatica nelle zone di cui alle lettere a) e b) del <rif xlink:href="#art10">successivo art. 10</rif>;</corpo>
-                    </el>
-                    <el id="art6-com8-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> gli impegni finanziari per la realizzazione degli obiettivi della presente legge;</corpo>
-                    </el>
-                    <el id="art6-com8-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> i criteri per la individuazione dei territori da destinare alla costituzione di aziende faunistiche venatorie, di aziende agro - turistico - venatorie, di centri privati di produzione della fauna selvatica allo stato naturale. </corpo>
-                    </el>
-                </comma>
-                <comma id="art6-com9">
-                    <num>
- 
-9.</num>
-                    <corpo> Il Piano faunistico regionale deve essere accompagnato da un regolamento attuativo nel   quale, tra l' altro, devono essere indicati i tempi per la costituzione dei Comitati di Gestione degli ambiti territoriali di caccia ed il loro insediamento. </corpo>
-                </comma>
-                <comma id="art6-com10">
-                    <num>
- 
-10.</num>
-                    <corpo> Il regolamento regionale prevederè i criteri di priorità per l'ammissibilità da parte degli   Organi di Gestione, in presenza di modificazioni positive della popolazione faunistica, accertate   mediante censimenti, di un numero di cacciatori superiore a quello definito dall'indice di densità   venatoria minima nel singolo ambito territoriale di caccia. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art7">
-                <num>Art. 7</num>
-                <rubrica>: CONTROLLO DELLA FAUNA 
- </rubrica>
-                <comma id="art7-com1">
-                    <num>
-1.</num>
-                    <corpo> La Regione, sentito l'I.N.F.S., per particolari esigenze anche nelle zone vietate alla caccia   provvede al controllo della fauna. Il controllo deve essere selettivo e basato su metodi ecologici. Qualora tali metodi non dovessero risultare efficaci la Regione può autorizzare piani di abbattimento. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art8">
-                <num>Art. 8</num>
-                <rubrica>: DELEGA DI FUNZIONI AMMINISTRATIVE 
- </rubrica>
-                <comma id="art8-com1">
-                    <num>
-1.</num>
-                    <corpo> In attuazione della <rif xlink:href="urn:nir:stato:legge:1990;142">legge dello stato n. 142/90</rif>, n. 157/92 e, per l'effettivo decentramento e partecipazione di tutte le categorie interessate ai problemi della fauna e dell'ambiente, sono delegate alle Province le funzioni amministrative in materia di caccia e di protezione della fauna, salvo quelle che la legge dello Stato riserva espressamente alla Regione. 
- 
-Le Province coordinano l'attività delle guardie volontarie delle Associazioni agricole, venatorie   ed ambientaliste. è altresì demandata alle Province l'applicazione delle sanzioni per le  infrazioni alle norme in materia di caccia. </corpo>
-                </comma>
-                <comma id="art8-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Le Province si avvalgono, quali organi tecnico consultivi, dei Comitati tecnici faunistico - venatori provinciali previsti dalla presente legge. Anche le Province nell' espletamento delle loro funzioni si avvalgono dell'organo scientifico e tecnico di ricerca e consulenza nazionale denominato I.N.F.S. (Istituto Nazionale per la Fauna Selvatica), e possono altresì avvalersi della collaborazione di Enti o Istituti pubblici e delle Associazioni venatorie riconosciute ai sensi delle leggi vigenti. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art9">
-                <num>Art. 9</num>
-                <rubrica>: COMITATI TECNICI FAUNISTICO - VENATORI 
- </rubrica>
-                <comma id="art9-com1">
-                    <num>
-1.</num>
-                    <alinea> Il Comitato tecnico faunistico - venatorio provinciale è costituito con deliberazione della Giunta Provinciale ed è così composto: 
- 
-</alinea>
-                    <el id="art9-com1-leta">
-                        <num>a)</num>
-                        <corpo> dall'Assessore provinciale alla caccia o da altro amministratore provinciale da lui delegato con funzioni di Presidente;</corpo>
-                    </el>
-                    <el id="art9-com1-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> da un rappresentante per ciascuna delle Associazioni venatorie organizzate a livello provinciale e riconosciute in ambito nazionale;</corpo>
-                    </el>
-                    <el id="art9-com1-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> da due rappresentanti designati dalle Associazioni ambientaliste organizzate a livello  provinciale e riconosciute in ambito nazionale. 
- 
-In caso di mancato accordo, i rappresentanti saranno nominati dalla Giunta Provinciale scelti tra terne di nominativi proposte da ciascuna Associazione;</corpo>
-                    </el>
-                    <el id="art9-com1-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> da un rappresentante per ciascuna delle organizzazioni professionali agricole organizzate a livello provinciale e riconosciute in ambito nazionale;</corpo>
-                    </el>
-                    <el id="art9-com1-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> da un rappresentante dell'E.N.<rif xlink:href="#art9-com1">C.I</rif>.;</corpo>
-                    </el>
-                    <el id="art9-com1-letf">
-                        <num> 
- 
-f)</num>
-                        <corpo> dal Coordinatore Provinciale del Corpo Forestale dello stato;</corpo>
-                    </el>
-                    <el id="art9-com1-letg">
-                        <num> 
- 
-g)</num>
-                        <corpo> da un rappresentante designato dalle aziende agro-turistiche - venatorio scelto d'intesa tra quelli esistenti sul territorio provinciale. In caso di mancato accordo provvede la Giunta provinciale;</corpo>
-                    </el>
-                    <el id="art9-com1-leth">
-                        <num> 
- 
-h)</num>
-                        <corpo> da un rappresentante designato di comune intesa dalle aziende faunistico - venatorio presenti nella Provincia. In caso di mancato accordo, il rapresentante sarè nominato dalla Giunta Provinciale tra terne di nominativi proposte da ciascuna azienda faunistica - venatoria;</corpo>
-                    </el>
-                    <el id="art9-com1-leti">
-                        <num> 
- 
-i)</num>
-                        <corpo> da un rappresentante di ciascun Comitato di Gestione degli ambiti territoriali di caccia;</corpo>
-                    </el>
-                    <el id="art9-com1-letl">
-                        <num> 
- 
-l)</num>
-                        <corpo> da un rappresentante dei titolari di centri riproduzione della selvaggina presenti sul territorio   provinciale. In caso di mancanza d'intesa provvede l'Amministrazione provinciale;</corpo>
-                    </el>
-                    <el id="art9-com1-letm">
-                        <num> 
- 
-m)</num>
-
-                        <corpo> da un rappresentante dei Sindaci dei Comuni della Provincia, designato dall'A.N.<rif xlink:href="#art9-com1">C.I</rif>.;</corpo>
-                    </el>
-                    <el id="art9-com1-letn">
-                        <num> 
- 
-n)</num>
-                        <corpo> dal Responsabile del Settore caccia della Provincia, con funzioni di Segretario. </corpo>
-                    </el>
-                </comma>
-                <comma id="art9-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Ove le disposizioni non dovessero pervenire all'Amministrazione Provinciale entro il termine di 60 giorni dalla data della richiesta, la Giunta Provinciale provvederè d'ufficio. </corpo>
-                </comma>
-                <comma id="art9-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Il Comitato ha sede presso l'Assessorato provinciale competente ed è convocato dal  Presidente, o su richiesta scritta e motivata di almeno un terzo dei componenti. </corpo>
-                </comma>
-                <comma id="art9-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> I componenti durano in carica fino allo scadere del mandato del Consiglio Provinciale e   possono essere riconfermati. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art10">
-                <num>Art. 10</num>
-                <rubrica>: PIANI FAUNISTICO - VENATORI PROVINCIALI 
- </rubrica>
-                <comma id="art10-com1">
-                    <num>
-1.</num>
-                    <corpo> Ai fini della realizzazione della pianificazione faunistico ventorio regionale, le Province, entro il mese di marzo di ogni anno, predispongono, articolandoli per comprensori, i piani faunistico - venatori. </corpo>
-                </comma>
-                <comma id="art10-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> I Piani di cui al <rif xlink:href="#art10-com1">comma 1</rif> sono approvati dal Consiglio Provinciale su proposta della Giunta, e   trasmessi alla Giunta Regionale per il dovuto coordinamento. </corpo>
-                </comma>
-                <comma id="art10-com3">
-                    <num>
- 
-3.</num>
-                    <alinea> I Piani faunistico - venatori devono prevedere: 
- 
-</alinea>
-                    <el id="art10-com3-leta">
-                        <num>a)</num>
-                        <corpo> le oasi di protezione, destinate a rifugio, alla riproduzione ed alla sosta della fauna selvatica;</corpo>
-                    </el>
-                    <el id="art10-com3-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> le zone di ripopolamento e cattura, destinate alla riproduzione della fauna selvatica allo stato   naturale ed alla cattura della stessa per l'immissione nel territorio in tempi e condizioni utili all'ambientamento fino alla ricostituzione e alla stabilizzazione della densità faunistica ottimale per il territorio;</corpo>
-                    </el>
-                    <el id="art10-com3-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> i centri pubblici di produzione di fauna selvatica allo stato naturale, ai fini di ricostituzione delle popolazioni autoctone;</corpo>
-                    </el>
-                    <el id="art10-com3-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> i centri privati di riproduzione di fauna selvatica allo Stato naturale, organizzati in forma di azienda agricola singola, consortile o cooperativa, ove è vietato l'esercizio dell'attività venatoria ed è consentito il prelievo di animali allevati, appartenenti a specie cacciabili, da parte del titolare della impresa agricola, di dipendenti della stessa e di persone nominativamente indicate;</corpo>
-                    </el>
-                    <el id="art10-com3-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> aziende faunistico - venatorie senza fini di lucro soggette a tassa di concessione regionale, nei limiti della presente legge, nelle quali la caccia è consentita ai solo soci da concedersi in gestione con provvedimento della Giunta Regionale a chi ne faccia richiesta;</corpo>
-                    </el>
-                    <el id="art10-com3-letf">
-                        <num> 
- 
-f)</num>
-                        <corpo> le zone per l'addestramento, l'allenamento e le gare dei cani da caccia anche su fauna  selvatica naturale o con l'abbattimento di fauna di allevamento appartenente a specie cacciabili, la cui gestione può essere affidata ad associazioni venatorie e cinofili ovvero ad imprenditori singoli o associati;</corpo>
-                    </el>
-                    <el id="art10-com3-letg">
-                        <num> 
- 
-g)</num>
-                        <corpo> quagliodromi di superficie oscillanti fra i quattro dieci ettari fino al raggiungimento di una superficie massima di 25 ettari, in cui sia consentito l'allenamento e l'addestramento dei cani da ferma anche mediante l'abbattimento di fauna selvatica cacciabile di allevamento da concedersi con provvedimento della Giunta Regionale a chi ne faccia richiesta;</corpo>
-                    </el>
-                    <el id="art10-com3-leth">
-                        <num> 
- 
-h)</num>
-
-                        <corpo> la costituzione ed il mantenimento degli appostamenti fissi senza richiami vivi, la cui ubicazione non deve comunque ostacolare l'attuazione del piano faunistico - venatorio ( <rif xlink:href="urn:nir:stato:legge:1992;157">legge 157/92</rif> art. 14, comma 12). </corpo>
-                    </el>
-                </comma>
-                <comma id="art10-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Le zone di cui al <rif xlink:href="#art10-com3">comma 3</rif> lettere a), b) e c) devono essere perimetrate con tabelle, esenti da tasse, a cura delle Province interessate, mentre quelle alle lettere e), f), g) ed h) a cura dell'Ente, associazione o privato affidatario della singola zona. </corpo>
-                </comma>
-                <comma id="art10-com5">
-                    <num>
- 
- 5.</num>
-
-                    <corpo> La deliberazione che determina il perimetro delle zone da vincolare come indicato al <rif xlink:href="#art10-com3">comma 3</rif> lettere a), b), c), e) deve essere notificata ai proprietari o conduttori dei fondi interessati e pubblicata mediante affissione all'albo pretorio dei comuni territorialmente interessati. </corpo>
-                </comma>
-                <comma id="art10-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> Qualora nei successivi sessanta giorni sia presentata opposizione motivata, in carta ed   esente da oneri fiscali, da parte dei proprietari o conduttori dei fondi costituenti almeno il 40% della superficie complessiva che si intende vincolare, la zona non può essere istituita. </corpo>
-                </comma>
-                <comma id="art10-com7">
-                    <num>
- 
-7.</num>
-
-                    <corpo> Il consenso si intende validamente accordato nel caso in cui non sia stata presentata formale   opposizione nel termine di cui al <rif xlink:href="#art10-com6">comma 6</rif>. </corpo>
-                </comma>
-                <comma id="art10-com8">
-                    <num>
- 
-8.</num>
-                    <corpo> Nelle zone non vincolate ai sensi del <rif xlink:href="#art10-com3-leta">comma 3, lettera a)</rif>, b), c), per la opposizione manifesta   dei proprietari o conduttori dei fondi interessati, resta, in ogni caso, precluso l'esercizio  dell'attività venatoria. Le Province possono destinare le suddette aree ad altro uso nell'ambito   della pianificazione faunistico - venatorio. </corpo>
-                </comma>
-                <comma id="art10-com9">
-                    <num>
- 
-9.</num>
-
-                    <corpo> Le Province in via eccezionale ed in vista di particolari necessità ambientali, possono   disporre la costituzione coattiva di oasi di protezione e di zone di ripopolamento e cattura,   nonché l'attuazione dei piani di miglioramento ambientale di cui al <rif xlink:href="#art11">successivo articolo 11</rif>. </corpo>
-                </comma>
-                <comma id="art10-com10">
-                    <num>
- 
-10.</num>
-
-                    <corpo> Nel caso di mancato adempimento da parte delle Province la Regione esercita il potere   sostitutivo di cui al <rif xlink:href="#art3-com1">precedente articolo 3 comma 1</rif>. </corpo>
-                </comma>
-                <comma id="art10-com11">
-                    <num>
- 
-11.</num>
-                    <corpo> Le tabelle di segnalazione di divieto o di regimi particolari di caccia devono essere delle   dimensioni di cm. 20 per cm. 30, con scritta nera sul fondo bianco e collocate lungo tutto il   perimetro dei territori interessati, ad una distanza di circa 100 metri e comunque in modo che da una tabella siano visibili le due contigue. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art11">
-                <num>Art. 11</num>
-                <rubrica>: PIANI DI MIGLIORAMENTO AMBIENTALE 
- </rubrica>
-                <comma id="art11-com1">
-                    <num>
-1.</num>
-                    <corpo> Le Province predispongono piani di miglioramento ambientale tesi a favorire la riproduzione naturale di fauna selvatica nonché piani di immissione di detta fauna anche tramite la cattura dei selvatici presenti in soprannumero nei parchi nazionali e regionali ed in altri ambiti faunistici, salvo accertamento delle compatibilità genetiche da parte dell'I.N.F.S. e sentite le organizzazioni professionali agricole maggiormente rappresentative a livello nazionale, tramite le loro strutture regionali. </corpo>
-                </comma>
-                <comma id="art11-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> L'attività di cattura e di ripopolamento viene esercitata dalle Province e tende all'immissione equilibrata sul territorio, delle specie di fauna selvatica autoctona, fino al raggiungimento delle densità faunistiche ottimali. </corpo>
-                </comma>
-                <comma id="art11-com3">
-                    <num>
- 
-3.</num>
-
-                    <corpo> Le catture sono effettuate dagli agenti venatori dipendenti dalle Province, con la collaborazione delle guardie volontarie delle associazioni venatorie, agricole e di protezione ambientale presenti nel Comitato tecnico faunistico-venatorio nazionale di cui all'<rif xlink:href="urn:nir:stato:legge:1992-02-11;157#art8">art. 8 della legge 11 febbraio 1992, n. 157</rif>. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art12">
-                <num>Art. 12</num>
-                <rubrica>: OASI DI PROTEZIONE 
- </rubrica>
-                <comma id="art12-com1">
-                    <num>
-1.</num>
-                    <corpo> Le oasi di protezione di cui alla <rif xlink:href="#art10-com3-leta">lettera a) del comma 3 dell'art. 10</rif> sono destinate alla  conservazione della fauna selvatica, favorendo l'insediamento e l'irradiamento naturale delle   specie stanziali e la sosta delle specie migratorie, al fine di preservare il flusso delle correnti   migratorie. Nelle oasi di protezione è vietata ogni forma di esercizio venatorio. </corpo>
-                </comma>
-                <comma id="art12-com2">
-                    <num>
- 
-2.</num>
-
-                    <corpo> Le oasi di protezione sono istituite e gestite dalla Provincia, sentito l'I.N.F.S. Con le stesse   modalità, l'istituzione di oasi può essere revocata qualora non sussistano, per modificazioni   oggettive, le condizioni idonee al conseguimento delle finalità specifiche. Il territorio adibito ad   oasi di protezione è delimitato con tabelle indicanti il divieto di caccia, secondo le modalità   previste dall'<rif xlink:href="#art10-com11">art. 10 comma 11</rif> della presente legge. </corpo>
-                </comma>
-                <comma id="art12-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> La Provincia, su richiesta dell'I.N.F.S., può autorizzare nelle oasi di protezione catture a   scopo di studio o di ricerca scientifica e può altresì autorizzare, sentito il predetto Istituto, le   guardie venatorie dipendenti alla cattura di determinate specie di fauna selvatica presenti in   accertato soprannumero, a scopo di ripopolamento o di reintroduzione, secondo i criteri dettati dalla pianificazione faunistica. </corpo>
-                </comma>
-                <comma id="art12-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> In via eccezionale e per la sola riduzione di determinate specie che pregiudichino l'equilibrio biologico e la funzionalità delle oasi di protezione, la Provincia, sentito l'I.N.F.S., può autorizzare abbattimenti selettivi le operazioni di abbattimento debbono avvenire alla presenza di dipendenti di Pubblica Amministrazione aventi la qualifica di Agenti di Polizia Giudiziaria e di Pubblica Sicurezza. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art13">
-                <num>Art. 13</num>
-                <rubrica>: ZONE DI RIPOPOLAMENTO E CATTURA 
- </rubrica>
-                <comma id="art13-com1">
-                    <num>
-1.</num>
-
-                    <corpo> Le zone di ripopolamento e cattura di cui al <rif xlink:href="#art10-com3-letb">comma 3 lettera b) dell'art. 10</rif> sono destinate alla riproduzione della fauna selvatica allo stato naturale, al suo irradiamento nelle zone circostanti ed alla cattura della medesima per l'immissione sul territorio in tempi e condizioni utili all'ambientamento fino alla ricostruzione ed alla stabilizzazione della densità faunistica ottimale del territorio. Esse devono essere costituite in terreni idonei e non destinati a coltivazioni specializzate o suscettibili di particolare danneggiamento per la rilevante presenza di fauna selvatica; in esse è vietata ogni forma di esercizio venatorio. Le zone di ripopolamento e cattura hanno una durata di 5 anni salvo rinnovo alla scadenza. </corpo>
-                </comma>
-                <comma id="art13-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Le zone di ripopolamento e cattura sono istituite e gestite dalle province e dalle stesse revocate, qualora non sussistano, per modificazioni oggettive, le condizioni idonee al conseguimento delle finalità specifiche. Ciascuna zona di ripopolamento e cattura deve avere una superficie commisurata alle esigenze biologiche delle specie selvatiche principalmente interessate e deve essere adeguatamente tabellata  a cura dell' ente gestore. </corpo>
-                </comma>
-                <comma id="art13-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Le catture devono essere compiute in modo da garantire la continuità della riproduzione della fauna selvatica. </corpo>
-                </comma>
-                <comma id="art13-com4">
-                    <num>
- 
-4.</num>
-
-                    <corpo> Nel caso estremo di superaffollamento della fauna selvatica, recante eccessivo danno alle   colture agrarie, la Provincia se non ha i mezzi per procedere all'immediata cattura, è  autorizzata a porre in essere le procedure previste dall'<rif xlink:href="urn:nir:stato:legge:1992;157#art19-com2">art. 19, 2° comma, della legge 157/92</rif>. </corpo>
-                </comma>
-                <comma id="art13-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> Nelle zone di ripopolamento e cattura, la Provincia può autorizzare gare cinofile con divieto di abbattimento della fauna selvatica e sempre che tali gare non arrechino danno alle colture agricole ed alla fauna. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art14">
-                <num>Art. 14</num>
-                <rubrica>: CENTRI PUBBLICI E PRIVATI DI RIPRODUZIONE DI FAUNA SELVATICA 
- </rubrica>
-                <comma id="art14-com1">
-                    <num>
-1.</num>
-
-                    <corpo> I centri pubblici di riproduzione di fauna selvatica, di cui alla lettera c) dell'articolo 10 <rif xlink:href="#art14-com3">comma 3</rif> hanno per scopo la riproduzione della fauna selvatica allo stato naturale, ai fini di ricostituzione della fauna autoctona, da utilizzare esclusivamente per le azioni di ripopolamento e rinsanguamento del territorio regionale. </corpo>
-                </comma>
-                <comma id="art14-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> I centri pubblici di riproduzione di fauna selvatica sono istituiti, preferibilmente su terreni demaniali, dalle Province che ne curano anche la gestione per la quale possono avvalersi della collaborazione delle Comunità Montane, dei Comuni, singoli od associati, nonché degli organi di gestione degli ambiti territoriali di caccia, quando ricadenti nei rispettivi territori. </corpo>
-                </comma>
-                <comma id="art14-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Le Province, sulla base delle previsioni del piano faunistico - venatorio regionale, autorizzano gli imprenditori agricoli singoli o associati, che ne facciano richiesta, a costituire Centri privati di riproduzione, lett. d) art. 10, della fauna selvatica allo stato naturale. </corpo>
-                </comma>
-                <comma id="art14-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> La richiesta di autorizzazione deve essere corredata dalla planimetria del territorio interessato, da una relazione illustrativa dell'attività che si intende svolgere e dall'atto comprovante il titolo di proprietà o di possesso dei fondi da vincolarsi. Nella richiesta devono essere elencati i nominativi delle persone autorizzate al prelievo di animali allevati. </corpo>
-                </comma>
-                <comma id="art14-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> L'autorizzazione della Provincia fissa i quantitativi minimi per specie che il Centro è tenuto a produrre annualmente ed ogni altra prescrizione per il funzionamento del Centro. </corpo>
-                </comma>
-                <comma id="art14-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> Nessuna indennità è dovuta al concessionario per i danni eventualmente arrecati da specie   selvatiche alle colture del Centro privato o a quelle circostanti in possesso del titolare del Centro. </corpo>
-                </comma>
-                <comma id="art14-com7">
-                    <num>
- 
-7.</num>
-                    <corpo> Le Province, ai fini di ripopolamento, hanno diritto di prelazione sull'acquisto di selvaggina   prodotta nei centri privati. A tale scopo entro il mese di novembre di ogni anno, le Province comunicano ai Centri privati il proprio fabbisogno di fauna selvatica. </corpo>
-                </comma>
-                <comma id="art14-com8">
-                    <num>
- 
-8.</num>
-                    <corpo> Nei Centri privati, è consentito, ai fini di impresa agricola, il prelievo di animali allevati   appartenenti a specie cacciabili da parte del titolare dell'impresa agricola, di dipendenti della   stessa e di persone nominativamente indicate. 
- 
-Detto prelievo non costituisce esercizio venatorio. </corpo>
-                </comma>
-                <comma id="art14-com9">
-                    <num>
- 
-9.</num>
-
-                    <corpo> Nei Centri privati di riproduzione della fauna   selvatica, la caccia è vietata. I Centri sono   segnalati da tabelle, previste all'<rif xlink:href="#art10-com11">art. 10 comma 11</rif> della presente legge. </corpo>
-                </comma>
-                <comma id="art14-com10">
-                    <num>
- 
-10.</num>
-                    <corpo> Le Province esercitano attività di controllo e vigilanza nei centri privati. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art15">
-                <num>Art. 15</num>
-                <rubrica>: ZONE PER L'ALLENAMENTO E L'ADDESTRAMENTO DEI CANI PER LE GARE DEGLI STESSI E QUAGLIODROMI 
- </rubrica>
-                <comma id="art15-com1">
-                    <num>
-1.</num>
-                    <corpo> Le Province, nel rispetto del regolamento regionale, istituiscono, su terreni incolti o a coltura svantaggiata, zone destinate all'addestramento, l'allenamento dei cani da caccia ed allo svolgimento delle gare e prove cinofile e ne affidano la gestione alle associazioni venatorie e cinofile, riconosciute a livello nazionale, ovvero ad imprenditori agricoli singoli o associati. </corpo>
-                </comma>
-                <comma id="art15-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Le zone di addestramento cani già in essere, possono continuare l'attività, previa istanza da   presentare all' Amministrazione Provinciale competente per territorio entro e non oltre quattro mesi dall'entrata in vigore della presente legge. </corpo>
-                </comma>
-                <comma id="art15-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Il regolemento regionale potrè prevedere solo ed esclusivamente per le zone affidate in   gestione, il divieto di caccia. </corpo>
-                </comma>
-                <comma id="art15-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Le Province, nel rispetto del regolamento regionale, su richiesta degli interessati, istituiscono qagliodromi per l'addestramento, l'allenamento e le gare dei cani da caccia in cui è consentito l'abbattimento di fauna selvatica di allevamento. La concessione o revoca viene effettuata dalla Giunta Provinciale. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art16">
-                <num>Art. 16</num>
-                <rubrica>: AZIENDE FAUNISTICO - VENATORIE SENZA FINI DI LUCRO 
- </rubrica>
-                <comma id="art16-com1">
-                    <num>
-1.</num>
-                    <corpo> La Regione, su richiesta degli interessati, sentito l' I.N.F.S. e nei limiti della presente legge,   istituiscono per prevalenti finalità naturalistiche e faunistiche, nonché per il potenziamento, lo sviluppo e l'irradiamento della fauna selvatica autoctona, aziende faunistico-venatorie senza fini di lucro in cui non è consentito immettere fauna selvatica successivamente al 31 agosto. </corpo>
-                </comma>
-                <comma id="art16-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Dette concessioni, al fine di garantire l'obiettivo naturalistico e faunistico, devono essere corredate di programmi di conservazione, potenziamento e ripristino di ambienti naturali atti a favorire la riproduzione delle specie cacciabili, nonché dei criteri per il risarcimento dei danni arrecati dalla fauna selvatica  alle colture agricole. </corpo>
-                </comma>
-                <comma id="art16-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> In dette aziende la caccia è consentita nel pieno rispetto del calendario venatorio e con l'indice di densità minima stabilita per gli altri territori cacciabili della Regione, secondo piani   di assestamento e di abbattimento, tali da garantire una presenza costante sui territori interessati di un contingente di riproduttori pari al 30% delle sue risorse faunistiche. </corpo>
-                </comma>
-                <comma id="art16-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Le aziende faunistico - venatorie vengono concesse e revocate dalla Giunta Regionale sulla   base del regolamento tipo. </corpo>
-                </comma>
-                <comma id="art16-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> Le aziende faunistico - venatorie senza fini di lucro, poiché perseguono finalità d'interesse   generale, sono soggette a tassa di concessione regionale ridotta. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art17">
-                <num>Art. 17</num>
-                <rubrica>: ALLEVAMENTI DI FAUNA SELVATICA 
- </rubrica>
-                <comma id="art17-com1">
-                    <num>
-1.</num>
-                    <corpo> Gli allevamenti di fauna selvatica delle specie cacciabili, di cui all'art. 27 della presente legge, a scopo alimentare, di ripopolamento, ornamentale ed amatoriale, sono soggetti ad autorizzazione da parte dell'Amministrazione provinciale competente per territorio. </corpo>
-                </comma>
-                <comma id="art17-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> L'autorizzazione deve essere rilasciata entro il termine di 60 giorni dalla richiesta. </corpo>
-                </comma>
-                <comma id="art17-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Il titolare di un' impresa agricola può esercitare l'allevamento di  fauna selvatica a scopo alimentare, di ripopolamento, ornamentale ed amatoriale, dandone semplice comunicazione alla competente Provincia, secondo le disposizioni dalla medesima emanate. </corpo>
-                </comma>
-                <comma id="art17-com4">
-                    <num>
- 
-4.</num>
-
-                    <corpo> Le Province sono delegate all'attuazione di quanto previsto al <rif xlink:href="urn:nir:stato:legge:1992-02-11;157#art17-com4">comma 4 dell'art. 17 della legge 11 febbraio 1992, n. 157</rif>. </corpo>
-                </comma>
-                <comma id="art17-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> Sono soggette ad  autorizzazione della Provincia anche le attività relative alla detenzione e allevamento in cattività e creazione di ibridi di volatili. Tali attività possono essere svolte soltanto con esemplari appartenenti alle specie autoctone cacciabili o a quelle esotiche non protette da accordi internazionali. </corpo>
-                </comma>
-                <comma id="art17-com6">
-                    <num>
- 
-6.</num>
-
-                    <corpo> Gli esemplari prodotti negli allevamenti, di cui al <rif xlink:href="#art17-com1">comma 1</rif>, devono essere muniti di anelli  inamovibili. </corpo>
-                </comma>
-                <comma id="art17-com7">
-                    <num>
- 
-7.</num>
-                    <corpo> Nelle manifestazioni fieristiche, nelle mostre ornitologiche e negli esercizi commerciali  specializzati, possono essere esposti e venduti esclusivamente esemplari muniti di regolari   anelli. </corpo>
-                </comma>
-                <comma id="art17-com8">
-                    <num>
- 
-8.</num>
-                    <corpo> La Giunta Regionale è autorizzata a concedere contributi per l'impianto e la gestione di Centri   consortili di allevamento di selvaggina, istituiti dalle Province per il ripopolamento faunistico. Il   contributo è concesso sulla base di un programma di spesa, l'erogazione è disposta per il 50 per cento in via d'acconto per il restante 50 per cento previa presentazione della documentazione probatoria della spesa. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art18">
-                <num>Art. 18</num>
-                <rubrica>: AMBITI TERRITORIALI DI CACCIA 
- </rubrica>
-                <comma id="art18-com1">
-                    <num>
-1.</num>
-                    <corpo> La Giunta Regionale, sentita la Commissione Consiliare competente, ripartisce il territorio   regionale agro - silvo - pastorale destinato alla caccia programmata in non più di quattro ambiti   territoriali di caccia, subprovinciali, possibilmente omogenei e delimitati da confini naturali, di estensione non inferiore a 60.000 ettari. </corpo>
-                </comma>
-                <comma id="art18-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> D'intesa con le regioni confinanti e per esigenze motivate, la Giunta Regionale può altresì individuare ambiti territoriali di caccia interessanti anche due o più Province. </corpo>
-                </comma>
-                <comma id="art18-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Ad ogni ambito di Caccia, in rapporto all'estensione territoriale ed alle risorse faunistico ambientali, viene applicato l'indice di densità venatoria minima indicata dal Ministero per l'Agricoltura e Foreste. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art19">
-                <num>Art. 19</num>
-                <rubrica>: COMITATI DI GESTIONE DEGLI AMBITI TERRITORIALI 
- </rubrica>
-                <comma id="art19-com1">
-                    <num>
-1.</num>
-                    <alinea> I Comitati di gestione degli ambiti territoriali per la gestione programmata della caccia, sono   costituiti con provvedimento della Giunta Provinciale competente per territorio e sono così  composti: 
- 
-</alinea>
-                    <el id="art19-com1-leta">
-                        <num>a)</num>
-                        <corpo> da cinque rappresentanti delle organizzazioni professionali agricole maggiormente   rappresentative a livello nazionale ed organizzate nella provincia di cui uno per organizzazione. 
- 
-Nel caso in cui le associazioni anzi dette siano presenti in numero inferiori a cinque, le designazioni necessarie per completare le rappresentative saranno espresse dalle organizzazioni aventi il maggior numero di iscritti;</corpo>
-                    </el>
-                    <el id="art19-com1-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> da cinque rappresentanti delle associazioni venatorie riconosciute a livello nazionale ed   organizzate nella provincia, di cui uno per associazione;</corpo>
-                    </el>
-                    <el id="art19-com1-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> da tre rappresentanti delle Associazioni ambientali, presenti nel Consiglio Nazionale per l'Ambiente ed organizzate nella provincia, di intesa tra le stesse. In caso di mancato accordo, i   rappresentanti saranno nominati dalla Giunta Provinciale tra terne di nominativi proposte da   ciascun associazione  ambientale;</corpo>
-                    </el>
-                    <el id="art19-com1-letd">
-                        <num> 
- 
-d)</num>
-                        <corpo> dai Sindaci dei tre Comuni territorialmente più estesi ricadenti nell'A.T.C.;</corpo>
-                    </el>
-                    <el id="art19-com1-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> da un rappresentante dell' Amministrazione Provinciale competente per territorio con voto consultivo. </corpo>
-                    </el>
-                </comma>
-                <comma id="art19-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Svolge le funzioni di Segretario, un dipendente dell' Ufficio caccia competente per territorio con qualifica funzionale non inferiore a VII livello. </corpo>
-                </comma>
-                <comma id="art19-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Le designazioni di nomina o di revoca avvengono ad iniziativa delle rispettive strutture provinciali. Qualora le designazioni non dovessero pervenire all'Amministrazione Provinciale entro il termine di 60 giorni dalla data della richiesta, la Giunta Provinciale provvederè d'ufficio. </corpo>
-                </comma>
-                <comma id="art19-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> I Comitati di gestione degli ambiti territoriali di caccia hanno sede presso le competenti  Amministrazioni Provinciali e sono convocati dai rispettivi Presidenti, o su richiesta scritta e   motivata di almeno un terzo dei componenti. I componenti durano in carica fino allo scadere del mandato del Consiglio Provinciale e possono essere riconfermati una sola volta. </corpo>
-                </comma>
-                <comma id="art19-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> I Comitati di gestione così costituiti, eleggono nel proprio seno il Presidente ed il Collegio dei   revisori dei conti in numero non inferiore a tre. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19930810">10 Agosto 1993</dataDoc>
+				, n.
+				<numDoc>19</numDoc>
+				<titoloDoc>Norme per la protezione della fauna selvatica omeoterma e per il prelievo venatorio.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>OBIETTIVI</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							La Regione Molise, nel rispetto dei principi sanciti dalla
+							<rif xlink:href="urn:nir:stato:legge:1992-02-11;157" xlink:type="simple">legge dello Stato n. 157 dell'11 febbraio 1992</rif>
+							, delle Convenzioni internazionali e delle Direttive Comunitarie, detta norme destinate a disciplinare l'esercizio della caccia nell'ambito del territorio regionale al fine di proteggere e salvaguardare il patrimonio faunistico, nonché per la tutela dell'agricoltura e dell'ambiente. La Regione, per le suddette finalità promuove la collaborazione attiva degli Enti, delle Associazioni agricole e venatorie, per diffondere e approfondire la conoscenza del patrimonio faunistico e la difesa dell'ambiente.
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>La Regione esercita funzioni amministrative, di programmazione e di coordinamento ai fini della pianificazione faunistico - venatoria.</corpo>
+					</comma>
+					<comma id="art1-com3">
+						<num>3.</num>
+						<alinea>La Giunta regionale sentita la Commissione Consiliare competente, propone al Consiglio Regionale che li approva i piani pluriennali per gli interventi nel settore della caccia:</alinea>
+						<el id="art1-com3-leta">
+							<num>a)</num>
+							<corpo>realizza la pianificazione del territorio mediante la destinazione differenziata del territorio stesso;</corpo>
+						</el>
+						<el id="art1-com3-letb">
+							<num>b)</num>
+							<corpo>provvede a pubblicare annualmente entro e non oltre il 15 giugno il calendario venatorio regionale e il relativo regolamento;</corpo>
+						</el>
+						<el id="art1-com3-letc">
+							<num>c)</num>
+							<corpo>entro un anno dall'entrata in vigore della legge la Regione promuove corsi di formazione sulle caratteristiche innovative della legge stessa.</corpo>
+						</el>
+					</comma>
+					<comma id="art1-com4">
+						<num>4.</num>
+						<corpo>In attuazione delle direttive CEE la Regione provvede ad istituire lungo le rotte di migrazione dell'avifauna segnalate dall'I.N.F.S., zone di protezione finalizzate al mantenimento degli habitat interni a tali zone e ad essi limitrofi.</corpo>
+					</comma>
+					<comma id="art1-com5">
+						<num>5.</num>
+						<corpo>Su parere dell'I.N.F.S. la Regione può autorizzare esclusivamente Istituti a carattere scientifico a catturare per scopi scientifici. può inoltre rilasciare allo stesso scopo autorizzazione per inanellare.</corpo>
+					</comma>
+					<comma id="art1-com6">
+						<num>6.</num>
+						<corpo>Emana norme in ordine al soccorso alla detenzione temporanea e alla successiva liberazione di fauna selvatica in difficoltà.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>TUTELA E UCCELLAGIONE</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>Fanno parte della fauna selvatica, oggetto della tutela della presente legge i mammiferi e gli uccelli dei quali esistono popolazioni viventi, stabilmente o temporaneamente, in stato di naturale libertà nel territorio regionale.</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>
+							Sono particolarmente protette, anche sotto il profilo sanzionatorio, le specie di fauna selvatica elencate all'art. 2 comma 1 lettere a), b) e c) della
+							<rif xlink:href="urn:nir:stato:legge:1992-02-11;157" xlink:type="simple">legge 11 febbraio 1992, n. 157</rif>
+							, comunque presenti sul territorio regionale, nonché le specie autoctone minacciate di estinzione riportate annualmente nel calendario venatorio.
+						</corpo>
+					</comma>
+					<comma id="art2-com3">
+						<num>3.</num>
+						<corpo>È vietata in tutto il territorio regionale ogni forma di uccellagione e di cattura di uccelli e di mammiferi selvatici, il prelievo di uova, nidi e piccoli nati; è vietata altresì la cattura di uccelli con mezzi e per fini diversi da quelli previsti dalla presente legge.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>FUNZIONI AMMINISTRATIVE</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							La Regione esercita le funzioni amministrative di programmazione e di coordinamento ai fini della pianificazione faunistico - venatoria e svolge compiti di orientamento, di controllo e sostitutivi nei casi previsti dalla presente legge e dal proprio
+							<rif xlink:href="urn:nir:regione.molise:statuto:" xlink:type="simple">statuto</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<corpo>
+							Le Province esercitano le funzioni amministrative previste dall'
+							<rif xlink:href="urn:nir:stato:legge:1990-06-08;142#art14" xlink:type="simple">art. 14 della legge 8 giugno 1990, n. 142</rif>
+							, dalla
+							<rif xlink:href="urn:nir:stato:legge:1992;157" xlink:type="simple">legge n. 157/1992</rif>
+							e dalla presente legge regionale.
+						</corpo>
+					</comma>
+					<comma id="art3-com3">
+						<num>3.</num>
+						<corpo>La Regione e le Province, nell'espletamento delle rispettive funzioni in materia, si avvalgono sia dell'Istituto nazionale per la fauna selvatica (I.N.F.S.), quale organo scientifico e tecnico di ricerca, che della collaborazione di Enti ed Istituti pubblici e privati specializzati nella ricerca.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>CATTURE ED INANELLAMENTO</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>La Giunta Regionale, su parere dell'I.N.F.S., può autorizzare esclusivamente gli Istituti Scientifici delle Università e del Consiglio Nazionale delle ricerche e i Musei di storia naturale ad effettuare, a scopo di studio e ricerca scientifica, la cattura e l'utilizzazione di mammiferi ed uccelli, nonché il prelievo di uova, nidi e piccoli nati.</corpo>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<corpo>L'attività di cattura temporanea per l'inanellamento degli uccelli a scopo scientifico può essere svolta esclusivamente da titolari di specifica autorizzazione, rilasciata dalla Giunta Regionale, su parere dell'Istituto Nazionale per la fauna selvatica; l'espressione di tale parere è subordinata alla partecipazione a specifici corsi di istruzione, organizzati dallo stesso Istituto, e al superamento del relativo esame finale.</corpo>
+					</comma>
+					<comma id="art4-com3">
+						<num>3.</num>
+						<corpo>Chiunque abbatte, cattura o rinviene uccelli inanellati è obbligato a darne notizia entro 10 gg. all'I N.F.S. o al Comune nel cui territorio è avvenuto il fatto, il quale provvede ad informare il predetto Istituto.</corpo>
+					</comma>
+					<comma id="art4-com4">
+						<num>4.</num>
+						<corpo>Con decreto del Presidente della Giunta Regionale vengono emanate norme in ordine al soccorso, alla detenzione temporanea ed alla successiva liberazione di fauna selvatica in difficoltà.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>TASSIDERMIA</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>L'esercizio dell'attività di Tassidermia è subordinato al possesso di regolare iscrizione presso la Camera di Commercio Industria e Artigianato competente per territorio.</corpo>
+					</comma>
+					<comma id="art5-com2">
+						<num>2.</num>
+						<corpo>I dipendenti e titolari di Enti ed Istruzioni Pubbliche (quali Musei di Storia Naturale, Collezioni e Raccolte di interesse didattico - scientifico) e gli Istituti Universitari, sono esonerati dal possesso dei documenti di cui al comma precedente, ma non possono esercitare l'attività di tassidermia se non per conto esclusivo degli Enti.</corpo>
+					</comma>
+					<comma id="art5-com3">
+						<num>3.</num>
+						<alinea>L'attività di Tassidermia è consentita esclusivamente nei confronti di esemplari appartenenti:</alinea>
+						<el id="art5-com3-leta">
+							<num>a)</num>
+							<corpo>alla fauna selvatica, oggetto di caccia nella Regione Molise o nel restante territorio nazionale;</corpo>
+						</el>
+						<el id="art5-com3-letb">
+							<num>b)</num>
+							<corpo>agli uccelli mammiferi provenienti da territorio diverso da quello nazionale (fauna esotica), purché l'abbattimento, l'importazione o, comunque, l'impossessamento siano avvenuti in conformità alla legislazione vigente in materia e nel rispetto degli accordi internazionali;</corpo>
+						</el>
+						<el id="art5-com3-letc">
+							<num>c)</num>
+							<corpo>alla fauna, sia indigena che esotica, tradizionalmente allevata per fini amatoriali ed alla fauna domestica. è consentita, inoltre, la preparazione tassidermistica, negli stessi limiti nei quali è permesso l'abbattimento di tutti gli animali di cui sia comprovata la provenienza da allevamenti conformi alle disposizioni vigenti in materia;</corpo>
+						</el>
+						<el id="art5-com3-letd">
+							<num>d)</num>
+							<corpo>l'Amministrazione Provinciale può autorizzare la preparazione di ogni specie di selvatico deceduto per cause naturali o accidentali.</corpo>
+						</el>
+					</comma>
+					<comma id="art5-com4">
+						<num>4.</num>
+						<corpo>Il tassidermista deve annotare su di un apposito Registro di carico e scarico, vidimato dall'Amministrazione Provinciale, tutti i dati relativi agli animali appartenenti alle specie protette eventualmente consegnatigli per la preparazione. Deve, inoltre, indicare le generalità di chi ha consegnato l'animale e le circostanze nelle quali ne è venuto in possesso. La responsabilità di qualsiasi illecito è del committente. Sarè cura dello stesso produrre eventualmente una adeguata documentazione di supporto. è responsabile il tassidermista se non ottempera all'obbligo di registrazione ed a quanto previsto dal successivo comma.</corpo>
+					</comma>
+					<comma id="art5-com5">
+						<num>5.</num>
+						<corpo>All'atto della richiesta per la preparazione di cui al precedente comma, viene compilato un modulo, appositamente predisposto in triplice copia, una delle quali viene trasmessa all'Amministrazione Provinciale. Nel contempo il tassidermista non potrè procedere alla naturalizzazione dell'esemplare, in attesa dell'esito che, comunque, dovrè essere comunicato dall'Amministrazione Provinciale entro il termine di trenta giorni dall'avvenuta segnalazione. In caso di esito sfavorevole la stessa Amministrazione dovrè provvedere alla conservazione ed alla destinazione d'uso a fini didattico scientifici, ai sensi dell'art. 4, comma 1, della legge febbraio 1992, n. 150.</corpo>
+					</comma>
+					<comma id="art5-com6">
+						<num>6.</num>
+						<corpo>Sono esonerati dall'obbligo della predetta segnalazione i Musei di Storia Naturale e le Collezioni scientifico - didattiche, non private.</corpo>
+					</comma>
+					<comma id="art5-com7">
+						<num>7.</num>
+						<corpo>
+							Il Tassidermista è obbligato ad apporre su tutti i preparati di esemplari appartenenti a specie protette e consegnati al committente, un contrassegno con il numero di riferimento del Registro, di cui al
+							<rif xlink:href="#art5-com1" xlink:type="simple">precedente comma 1</rif>
+							. Tale obbligo non è esteso ai soggetti zoologici affidati per la preparazione da Enti ed Istituzioni Pubbliche.
+						</corpo>
+					</comma>
+					<comma id="art5-com8">
+						<num>8.</num>
+						<corpo>Eventuali controlli potranno essere effettuati da funzionari debitamente autorizzati dagli organi competenti nel rispetto delle norme costituzionali e legislative vigenti in materia.</corpo>
+					</comma>
+					<comma id="art5-com9">
+						<num>9.</num>
+						<corpo>Chiunque detenga, alla data di pubblicazione della presente legge, esemplari di animali imbalsamati, appartenenti alla fauna protetta, deve inviare, ai fini dell'ulteriore detenzione, il loro elenco all'Amministrazione Provinciale, competente per territorio, con lettera raccomandata/avviso di ricevimento entro e non oltre un'anno dalla data sopra citata.</corpo>
+					</comma>
+					<comma id="art5-com10">
+						<num>10.</num>
+						<corpo>è tenuto all'obbligo di cui al comma precedente anche colui che è in possesso di esemplari già dichiarati e/o già contrassegnati, tutto cI' anche al fine di conoscere il patrimonio zoologico regionale.</corpo>
+					</comma>
+					<comma id="art5-com11">
+						<num>11.</num>
+						<corpo>L'Amministrazione Provinciale competente per territorio apporrè su ciascuno degli esemplari dichiarati o parte di essi, ovvero sul basamento di sostegno degli stessi, un apposito contrassegno di modello uniforme saldamente fissato.</corpo>
+					</comma>
+					<comma id="art5-com12">
+						<num>12.</num>
+						<corpo>
+							Nei confronti degli inadempienti trovano applicazione le sanzioni previste dagli artt. 30 e 31 della
+							<rif xlink:href="urn:nir:stato:legge:1992-02-11;157" xlink:type="simple">legge 11 febbraio 1992, n. 157</rif>
+							per quanto concerne la detenzione ed il possesso di specie protette.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>PIANO FAUNISTICO - VENATORIO REGIONALE</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>Il territorio agro - silvo - pastorale regionale è soggetto a pianificazione faunistico - venatoria finalizzata, per quanto attiene alle specie carnivore, alla conservazione delle effettive capacità riproduttive delle loro popolazioni e, per le altre specie, al conseguimento delle densità ottimali ed alla loro conservazione, mediante la riqualificazione delle risorse ambientali e la regolamentazione del prelievo venatorio.</corpo>
+					</comma>
+					<comma id="art6-com2">
+						<num>2.</num>
+						<corpo>La pianificazione faunistico - venatoria regionale è attuata mediante la destinazione differenziata del territorio.</corpo>
+					</comma>
+					<comma id="art6-com3">
+						<num>3.</num>
+						<corpo>Il territorio agro - silvo - pastorale della regione, utile all'esercizio venatorio, è destinato per una quota non superiore al 20 per cento a protezione della fauna selvatica, comprendendo tutte le aree ove sia comunque vietata l'attività venatoria anche per effetto di altre leggi o disposizioni.</corpo>
+					</comma>
+					<comma id="art6-com4">
+						<num>4.</num>
+						<corpo>
+							Nei territori di protezione, compresi quelli di cui al
+							<rif xlink:href="#art10" xlink:type="simple">successivo art. 10</rif>
+							lettere a), b) e c), sono vietati l'abbattimento e la cattura a fini venatori e sono previsti interventi atti ad agevolare la sosta della fauna, la riproduzione, la cura della prole.
+						</corpo>
+					</comma>
+					<comma id="art6-com5">
+						<num>5.</num>
+						<alinea>Il 15 per cento del territorio agro - silvo - pastorale regionale utile all'esercizio venatorio può essere così destinato:</alinea>
+						<el id="art6-com5-leta">
+							<num>a)</num>
+							<corpo>8 per cento alle aziende faunistico - venatorie;</corpo>
+						</el>
+						<el id="art6-com5-letb">
+							<num>b)</num>
+							<corpo>5 per cento alle aziende agri - turistico - venatorie;</corpo>
+						</el>
+						<el id="art6-com5-letc">
+							<num>c)</num>
+							<corpo>2 per cento ai centri privati di produzione della selvaggina.</corpo>
+						</el>
+					</comma>
+					<comma id="art6-com6">
+						<num>6.</num>
+						<corpo>Sul rimanente territorio agro silvo - pastorale la Regione promuove forme di gestione programmata della caccia, stabilite dagli articoli 18 e 20 della presente legge.</corpo>
+					</comma>
+					<comma id="art6-com7">
+						<num>7.</num>
+						<corpo>Il Piano faunistico - regionale che realizza il coordinamento dei piani provinciali è predisposto dalla Giunta Regionale, sentita la Commissione Regionale Competente, è approvato dal Consiglio Regionale, ha durata quinquennale e può essere rivisto nel corso della sua efficacia.</corpo>
+					</comma>
+					<comma id="art6-com8">
+						<num>8.</num>
+						<alinea>Il Piano faunistico regionale, oltre a contenere indirizzi generali sulle attività miranti al giusto equilibrio e conservazione della fauna sul territorio, deve indicare:</alinea>
+						<el id="art6-com8-leta">
+							<num>a)</num>
+							<corpo>
+								i criteri per la determinazione del risarcimento in favore dei conduttori dei fondi rustici per i danni arrecati dalla fauna selvatica alle produzioni agricole e alle opere lettere a), b) e c) del
+								<rif xlink:href="#art10" xlink:type="simple">successivo art. 10</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art6-com8-letb">
+							<num>b)</num>
+							<corpo>
+								i criteri per la corresponsione degli incentivi in favore dei proprietari e conduttori dei fondi rustici singoli o associati che si impegnino alla tutela ed al ripristino degli habitat naturali ed all'incremento della fauna selvatica nelle zone di cui alle lettere a) e b) del
+								<rif xlink:href="#art10" xlink:type="simple">successivo art. 10</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art6-com8-letc">
+							<num>c)</num>
+							<corpo>gli impegni finanziari per la realizzazione degli obiettivi della presente legge;</corpo>
+						</el>
+						<el id="art6-com8-letd">
+							<num>d)</num>
+							<corpo>i criteri per la individuazione dei territori da destinare alla costituzione di aziende faunistiche venatorie, di aziende agro - turistico - venatorie, di centri privati di produzione della fauna selvatica allo stato naturale.</corpo>
+						</el>
+					</comma>
+					<comma id="art6-com9">
+						<num>9.</num>
+						<corpo>Il Piano faunistico regionale deve essere accompagnato da un regolamento attuativo nel quale, tra l' altro, devono essere indicati i tempi per la costituzione dei Comitati di Gestione degli ambiti territoriali di caccia ed il loro insediamento.</corpo>
+					</comma>
+					<comma id="art6-com10">
+						<num>10.</num>
+						<corpo>Il regolamento regionale prevederà i criteri di priorità per l'ammissibilità da parte degli Organi di Gestione, in presenza di modificazioni positive della popolazione faunistica, accertate mediante censimenti, di un numero di cacciatori superiore a quello definito dall'indice di densità venatoria minima nel singolo ambito territoriale di caccia.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>CONTROLLO DELLA FAUNA</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>La Regione, sentito l'I.N.F.S., per particolari esigenze anche nelle zone vietate alla caccia provvede al controllo della fauna. Il controllo deve essere selettivo e basato su metodi ecologici. Qualora tali metodi non dovessero risultare efficaci la Regione può autorizzare piani di abbattimento.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>DELEGA DI FUNZIONI AMMINISTRATIVE</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>
+							In attuazione della legge dello stato
+							<rif xlink:href="urn:nir:stato:legge:1990;142" xlink:type="simple">n. 142/90</rif>
+							,
+							<rif xlink:href="urn:nir:stato:legge:1992;157" xlink:type="simple">n. 157/92</rif>
+							e, per l'effettivo decentramento e partecipazione di tutte le categorie interessate ai problemi della fauna e dell'ambiente, sono delegate alle Province le funzioni amministrative in materia di caccia e di protezione della fauna, salvo quelle che la legge dello Stato riserva espressamente alla Regione. Le Province coordinano l'attività delle guardie volontarie delle Associazioni agricole, venatorie ed ambientaliste. è altresì demandata alle Province l'applicazione delle sanzioni per le infrazioni alle norme in materia di caccia.
+						</corpo>
+					</comma>
+					<comma id="art8-com2">
+						<num>2.</num>
+						<corpo>Le Province si avvalgono, quali organi tecnico consultivi, dei Comitati tecnici faunistico - venatori provinciali previsti dalla presente legge. Anche le Province nell' espletamento delle loro funzioni si avvalgono dell'organo scientifico e tecnico di ricerca e consulenza nazionale denominato I.N.F.S. (Istituto Nazionale per la Fauna Selvatica), e possono altresì avvalersi della collaborazione di Enti o Istituti pubblici e delle Associazioni venatorie riconosciute ai sensi delle leggi vigenti.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<rubrica>COMITATI TECNICI FAUNISTICO - VENATORI</rubrica>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<alinea>Il Comitato tecnico faunistico - venatorio provinciale è costituito con deliberazione della Giunta Provinciale ed è così composto:</alinea>
+						<el id="art9-com1-leta">
+							<num>a)</num>
+							<corpo>dall'Assessore provinciale alla caccia o da altro amministratore provinciale da lui delegato con funzioni di Presidente;</corpo>
+						</el>
+						<el id="art9-com1-letb">
+							<num>b)</num>
+							<corpo>da un rappresentante per ciascuna delle Associazioni venatorie organizzate a livello provinciale e riconosciute in ambito nazionale;</corpo>
+						</el>
+						<el id="art9-com1-letc">
+							<num>c)</num>
+							<corpo>da due rappresentanti designati dalle Associazioni ambientaliste organizzate a livello provinciale e riconosciute in ambito nazionale. In caso di mancato accordo, i rappresentanti saranno nominati dalla Giunta Provinciale scelti tra terne di nominativi proposte da ciascuna Associazione;</corpo>
+						</el>
+						<el id="art9-com1-letd">
+							<num>d)</num>
+							<corpo>da un rappresentante per ciascuna delle organizzazioni professionali agricole organizzate a livello provinciale e riconosciute in ambito nazionale;</corpo>
+						</el>
+						<el id="art9-com1-lete">
+							<num>e)</num>
+							<corpo>da un rappresentante dell'E.N.C.I.;</corpo>
+						</el>
+						<el id="art9-com1-letf">
+							<num>f)</num>
+							<corpo>dal Coordinatore Provinciale del Corpo Forestale dello stato;</corpo>
+						</el>
+						<el id="art9-com1-letg">
+							<num>g)</num>
+							<corpo>da un rappresentante designato dalle aziende agro-turistiche - venatorio scelto d'intesa tra quelli esistenti sul territorio provinciale. In caso di mancato accordo provvede la Giunta provinciale;</corpo>
+						</el>
+						<el id="art9-com1-leth">
+							<num>h)</num>
+							<corpo>da un rappresentante designato di comune intesa dalle aziende faunistico - venatorio presenti nella Provincia. In caso di mancato accordo, il rapresentante sarè nominato dalla Giunta Provinciale tra terne di nominativi proposte da ciascuna azienda faunistica - venatoria;</corpo>
+						</el>
+						<el id="art9-com1-leti">
+							<num>i)</num>
+							<corpo>da un rappresentante di ciascun Comitato di Gestione degli ambiti territoriali di caccia;</corpo>
+						</el>
+						<el id="art9-com1-letl">
+							<num>l)</num>
+							<corpo>da un rappresentante dei titolari di centri riproduzione della selvaggina presenti sul territorio provinciale. In caso di mancanza d'intesa provvede l'Amministrazione provinciale;</corpo>
+						</el>
+						<el id="art9-com1-letm">
+							<num>m)</num>
+							<corpo>da un rappresentante dei Sindaci dei Comuni della Provincia, designato dall'A.N.C.I.;</corpo>
+						</el>
+						<el id="art9-com1-letn">
+							<num>n)</num>
+							<corpo>dal Responsabile del Settore caccia della Provincia, con funzioni di Segretario.</corpo>
+						</el>
+					</comma>
+					<comma id="art9-com2">
+						<num>2.</num>
+						<corpo>Ove le disposizioni non dovessero pervenire all'Amministrazione Provinciale entro il termine di 60 giorni dalla data della richiesta, la Giunta Provinciale provvederè d'ufficio.</corpo>
+					</comma>
+					<comma id="art9-com3">
+						<num>3.</num>
+						<corpo>Il Comitato ha sede presso l'Assessorato provinciale competente ed è convocato dal Presidente, o su richiesta scritta e motivata di almeno un terzo dei componenti.</corpo>
+					</comma>
+					<comma id="art9-com4">
+						<num>4.</num>
+						<corpo>I componenti durano in carica fino allo scadere del mandato del Consiglio Provinciale e possono essere riconfermati.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Art. 10</num>
+					<rubrica>PIANI FAUNISTICO - VENATORI PROVINCIALI</rubrica>
+					<comma id="art10-com1">
+						<num>1.</num>
+						<corpo>Ai fini della realizzazione della pianificazione faunistico ventorio regionale, le Province, entro il mese di marzo di ogni anno, predispongono, articolandoli per comprensori, i piani faunistico - venatori.</corpo>
+					</comma>
+					<comma id="art10-com2">
+						<num>2.</num>
+						<corpo>
+							I Piani di cui al
+							<rif xlink:href="#art10-com1" xlink:type="simple">comma 1</rif>
+							sono approvati dal Consiglio Provinciale su proposta della Giunta, e trasmessi alla Giunta Regionale per il dovuto coordinamento.
+						</corpo>
+					</comma>
+					<comma id="art10-com3">
+						<num>3.</num>
+						<alinea>I Piani faunistico - venatori devono prevedere:</alinea>
+						<el id="art10-com3-leta">
+							<num>a)</num>
+							<corpo>le oasi di protezione, destinate a rifugio, alla riproduzione ed alla sosta della fauna selvatica;</corpo>
+						</el>
+						<el id="art10-com3-letb">
+							<num>b)</num>
+							<corpo>le zone di ripopolamento e cattura, destinate alla riproduzione della fauna selvatica allo stato naturale ed alla cattura della stessa per l'immissione nel territorio in tempi e condizioni utili all'ambientamento fino alla ricostituzione e alla stabilizzazione della densità faunistica ottimale per il territorio;</corpo>
+						</el>
+						<el id="art10-com3-letc">
+							<num>c)</num>
+							<corpo>i centri pubblici di produzione di fauna selvatica allo stato naturale, ai fini di ricostituzione delle popolazioni autoctone;</corpo>
+						</el>
+						<el id="art10-com3-letd">
+							<num>d)</num>
+							<corpo>i centri privati di riproduzione di fauna selvatica allo Stato naturale, organizzati in forma di azienda agricola singola, consortile o cooperativa, ove è vietato l'esercizio dell'attività venatoria ed è consentito il prelievo di animali allevati, appartenenti a specie cacciabili, da parte del titolare della impresa agricola, di dipendenti della stessa e di persone nominativamente indicate;</corpo>
+						</el>
+						<el id="art10-com3-lete">
+							<num>e)</num>
+							<corpo>aziende faunistico - venatorie senza fini di lucro soggette a tassa di concessione regionale, nei limiti della presente legge, nelle quali la caccia è consentita ai solo soci da concedersi in gestione con provvedimento della Giunta Regionale a chi ne faccia richiesta;</corpo>
+						</el>
+						<el id="art10-com3-letf">
+							<num>f)</num>
+							<corpo>le zone per l'addestramento, l'allenamento e le gare dei cani da caccia anche su fauna selvatica naturale o con l'abbattimento di fauna di allevamento appartenente a specie cacciabili, la cui gestione può essere affidata ad associazioni venatorie e cinofili ovvero ad imprenditori singoli o associati;</corpo>
+						</el>
+						<el id="art10-com3-letg">
+							<num>g)</num>
+							<corpo>quagliodromi di superficie oscillanti fra i quattro dieci ettari fino al raggiungimento di una superficie massima di 25 ettari, in cui sia consentito l'allenamento e l'addestramento dei cani da ferma anche mediante l'abbattimento di fauna selvatica cacciabile di allevamento da concedersi con provvedimento della Giunta Regionale a chi ne faccia richiesta;</corpo>
+						</el>
+						<el id="art10-com3-leth">
+							<num>h)</num>
+							<corpo>
+								la costituzione ed il mantenimento degli appostamenti fissi senza richiami vivi, la cui ubicazione non deve comunque ostacolare l'attuazione del piano faunistico - venatorio (
+								<rif xlink:href="urn:nir:stato:legge:1992;157" xlink:type="simple">legge 157/92</rif>
+								art. 14, comma 12).
+							</corpo>
+						</el>
+					</comma>
+					<comma id="art10-com4">
+						<num>4.</num>
+						<corpo>
+							Le zone di cui al
+							<rif xlink:href="#art10-com3" xlink:type="simple">comma 3</rif>
+							lettere a), b) e c) devono essere perimetrate con tabelle, esenti da tasse, a cura delle Province interessate, mentre quelle alle lettere e), f), g) ed h) a cura dell'Ente, associazione o privato affidatario della singola zona.
+						</corpo>
+					</comma>
+					<comma id="art10-com5">
+						<num>5.</num>
+						<corpo>
+							La deliberazione che determina il perimetro delle zone da vincolare come indicato al
+							<rif xlink:href="#art10-com3" xlink:type="simple">comma 3</rif>
+							lettere a), b), c), e) deve essere notificata ai proprietari o conduttori dei fondi interessati e pubblicata mediante affissione all'albo pretorio dei comuni territorialmente interessati.
+						</corpo>
+					</comma>
+					<comma id="art10-com6">
+						<num>6.</num>
+						<corpo>Qualora nei successivi sessanta giorni sia presentata opposizione motivata, in carta ed esente da oneri fiscali, da parte dei proprietari o conduttori dei fondi costituenti almeno il 40% della superficie complessiva che si intende vincolare, la zona non può essere istituita.</corpo>
+					</comma>
+					<comma id="art10-com7">
+						<num>7.</num>
+						<corpo>
+							Il consenso si intende validamente accordato nel caso in cui non sia stata presentata formale opposizione nel termine di cui al
+							<rif xlink:href="#art10-com6" xlink:type="simple">comma 6</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art10-com8">
+						<num>8.</num>
+						<corpo>
+							Nelle zone non vincolate ai sensi del
+							<rif xlink:href="#art10-com3-leta" xlink:type="simple">comma 3, lettera a)</rif>
+							, b), c), per la opposizione manifesta dei proprietari o conduttori dei fondi interessati, resta, in ogni caso, precluso l'esercizio dell'attività venatoria. Le Province possono destinare le suddette aree ad altro uso nell'ambito della pianificazione faunistico - venatorio.
+						</corpo>
+					</comma>
+					<comma id="art10-com9">
+						<num>9.</num>
+						<corpo>
+							Le Province in via eccezionale ed in vista di particolari necessità ambientali, possono disporre la costituzione coattiva di oasi di protezione e di zone di ripopolamento e cattura, nonché l'attuazione dei piani di miglioramento ambientale di cui al
+							<rif xlink:href="#art11" xlink:type="simple">successivo articolo 11</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art10-com10">
+						<num>10.</num>
+						<corpo>
+							Nel caso di mancato adempimento da parte delle Province la Regione esercita il potere sostitutivo di cui al
+							<rif xlink:href="#art3-com1" xlink:type="simple">precedente articolo 3 comma 1</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art10-com11">
+						<num>11.</num>
+						<corpo>Le tabelle di segnalazione di divieto o di regimi particolari di caccia devono essere delle dimensioni di cm. 20 per cm. 30, con scritta nera sul fondo bianco e collocate lungo tutto il perimetro dei territori interessati, ad una distanza di circa 100 metri e comunque in modo che da una tabella siano visibili le due contigue.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art11">
+					<num>Art. 11</num>
+					<rubrica>PIANI DI MIGLIORAMENTO AMBIENTALE</rubrica>
+					<comma id="art11-com1">
+						<num>1.</num>
+						<corpo>Le Province predispongono piani di miglioramento ambientale tesi a favorire la riproduzione naturale di fauna selvatica nonché piani di immissione di detta fauna anche tramite la cattura dei selvatici presenti in soprannumero nei parchi nazionali e regionali ed in altri ambiti faunistici, salvo accertamento delle compatibilità genetiche da parte dell'I.N.F.S. e sentite le organizzazioni professionali agricole maggiormente rappresentative a livello nazionale, tramite le loro strutture regionali.</corpo>
+					</comma>
+					<comma id="art11-com2">
+						<num>2.</num>
+						<corpo>L'attività di cattura e di ripopolamento viene esercitata dalle Province e tende all'immissione equilibrata sul territorio, delle specie di fauna selvatica autoctona, fino al raggiungimento delle densità faunistiche ottimali.</corpo>
+					</comma>
+					<comma id="art11-com3">
+						<num>3.</num>
+						<corpo>
+							Le catture sono effettuate dagli agenti venatori dipendenti dalle Province, con la collaborazione delle guardie volontarie delle associazioni venatorie, agricole e di protezione ambientale presenti nel Comitato tecnico faunistico-venatorio nazionale di cui all'
+							<rif xlink:href="urn:nir:stato:legge:1992-02-11;157#art8" xlink:type="simple">art. 8 della legge 11 febbraio 1992, n. 157</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art12">
+					<num>Art. 12</num>
+					<rubrica>OASI DI PROTEZIONE</rubrica>
+					<comma id="art12-com1">
+						<num>1.</num>
+						<corpo>
+							Le oasi di protezione di cui alla
+							<rif xlink:href="#art10-com3-leta" xlink:type="simple">lettera a) del comma 3 dell'art. 10</rif>
+							sono destinate alla conservazione della fauna selvatica, favorendo l'insediamento e l'irradiamento naturale delle specie stanziali e la sosta delle specie migratorie, al fine di preservare il flusso delle correnti migratorie. Nelle oasi di protezione è vietata ogni forma di esercizio venatorio.
+						</corpo>
+					</comma>
+					<comma id="art12-com2">
+						<num>2.</num>
+						<corpo>
+							Le oasi di protezione sono istituite e gestite dalla Provincia, sentito l'I.N.F.S. Con le stesse modalità, l'istituzione di oasi può essere revocata qualora non sussistano, per modificazioni oggettive, le condizioni idonee al conseguimento delle finalità specifiche. Il territorio adibito ad oasi di protezione è delimitato con tabelle indicanti il divieto di caccia, secondo le modalità previste dall'
+							<rif xlink:href="#art10-com11" xlink:type="simple">art. 10 comma 11</rif>
+							della presente legge.
+						</corpo>
+					</comma>
+					<comma id="art12-com3">
+						<num>3.</num>
+						<corpo>La Provincia, su richiesta dell'I.N.F.S., può autorizzare nelle oasi di protezione catture a scopo di studio o di ricerca scientifica e può altresì autorizzare, sentito il predetto Istituto, le guardie venatorie dipendenti alla cattura di determinate specie di fauna selvatica presenti in accertato soprannumero, a scopo di ripopolamento o di reintroduzione, secondo i criteri dettati dalla pianificazione faunistica.</corpo>
+					</comma>
+					<comma id="art12-com4">
+						<num>4.</num>
+						<corpo>In via eccezionale e per la sola riduzione di determinate specie che pregiudichino l'equilibrio biologico e la funzionalità delle oasi di protezione, la Provincia, sentito l'I.N.F.S., può autorizzare abbattimenti selettivi le operazioni di abbattimento debbono avvenire alla presenza di dipendenti di Pubblica Amministrazione aventi la qualifica di Agenti di Polizia Giudiziaria e di Pubblica Sicurezza.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art13">
+					<num>Art. 13</num>
+					<rubrica>ZONE DI RIPOPOLAMENTO E CATTURA</rubrica>
+					<comma id="art13-com1">
+						<num>1.</num>
+						<corpo>
+							Le zone di ripopolamento e cattura di cui al
+							<rif xlink:href="#art10-com3-letb" xlink:type="simple">comma 3 lettera b) dell'art. 10</rif>
+							sono destinate alla riproduzione della fauna selvatica allo stato naturale, al suo irradiamento nelle zone circostanti ed alla cattura della medesima per l'immissione sul territorio in tempi e condizioni utili all'ambientamento fino alla ricostruzione ed alla stabilizzazione della densità faunistica ottimale del territorio. Esse devono essere costituite in terreni idonei e non destinati a coltivazioni specializzate o suscettibili di particolare danneggiamento per la rilevante presenza di fauna selvatica; in esse è vietata ogni forma di esercizio venatorio. Le zone di ripopolamento e cattura hanno una durata di 5 anni salvo rinnovo alla scadenza.
+						</corpo>
+					</comma>
+					<comma id="art13-com2">
+						<num>2.</num>
+						<corpo>Le zone di ripopolamento e cattura sono istituite e gestite dalle province e dalle stesse revocate, qualora non sussistano, per modificazioni oggettive, le condizioni idonee al conseguimento delle finalità specifiche. Ciascuna zona di ripopolamento e cattura deve avere una superficie commisurata alle esigenze biologiche delle specie selvatiche principalmente interessate e deve essere adeguatamente tabellata a cura dell' ente gestore.</corpo>
+					</comma>
+					<comma id="art13-com3">
+						<num>3.</num>
+						<corpo>Le catture devono essere compiute in modo da garantire la continuità della riproduzione della fauna selvatica.</corpo>
+					</comma>
+					<comma id="art13-com4">
+						<num>4.</num>
+						<corpo>
+							Nel caso estremo di superaffollamento della fauna selvatica, recante eccessivo danno alle colture agrarie, la Provincia se non ha i mezzi per procedere all'immediata cattura, è autorizzata a porre in essere le procedure previste dall'
+							<rif xlink:href="urn:nir:stato:legge:1992;157#art19-com2" xlink:type="simple">art. 19, 2° comma, della legge 157/92</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art13-com5">
+						<num>5.</num>
+						<corpo>Nelle zone di ripopolamento e cattura, la Provincia può autorizzare gare cinofile con divieto di abbattimento della fauna selvatica e sempre che tali gare non arrechino danno alle colture agricole ed alla fauna.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art14">
+					<num>Art. 14</num>
+					<rubrica>CENTRI PUBBLICI E PRIVATI DI RIPRODUZIONE DI FAUNA SELVATICA</rubrica>
+					<comma id="art14-com1">
+						<num>1.</num>
+						<corpo>I centri pubblici di riproduzione di fauna selvatica, di cui alla lettera c) dell'articolo 10 comma 3 hanno per scopo la riproduzione della fauna selvatica allo stato naturale, ai fini di ricostituzione della fauna autoctona, da utilizzare esclusivamente per le azioni di ripopolamento e rinsanguamento del territorio regionale.</corpo>
+					</comma>
+					<comma id="art14-com2">
+						<num>2.</num>
+						<corpo>I centri pubblici di riproduzione di fauna selvatica sono istituiti, preferibilmente su terreni demaniali, dalle Province che ne curano anche la gestione per la quale possono avvalersi della collaborazione delle Comunità Montane, dei Comuni, singoli od associati, nonché degli organi di gestione degli ambiti territoriali di caccia, quando ricadenti nei rispettivi territori.</corpo>
+					</comma>
+					<comma id="art14-com3">
+						<num>3.</num>
+						<corpo>Le Province, sulla base delle previsioni del piano faunistico - venatorio regionale, autorizzano gli imprenditori agricoli singoli o associati, che ne facciano richiesta, a costituire Centri privati di riproduzione, lett. d) art. 10, della fauna selvatica allo stato naturale.</corpo>
+					</comma>
+					<comma id="art14-com4">
+						<num>4.</num>
+						<corpo>La richiesta di autorizzazione deve essere corredata dalla planimetria del territorio interessato, da una relazione illustrativa dell'attività che si intende svolgere e dall'atto comprovante il titolo di proprietà o di possesso dei fondi da vincolarsi. Nella richiesta devono essere elencati i nominativi delle persone autorizzate al prelievo di animali allevati.</corpo>
+					</comma>
+					<comma id="art14-com5">
+						<num>5.</num>
+						<corpo>L'autorizzazione della Provincia fissa i quantitativi minimi per specie che il Centro è tenuto a produrre annualmente ed ogni altra prescrizione per il funzionamento del Centro.</corpo>
+					</comma>
+					<comma id="art14-com6">
+						<num>6.</num>
+						<corpo>Nessuna indennità è dovuta al concessionario per i danni eventualmente arrecati da specie selvatiche alle colture del Centro privato o a quelle circostanti in possesso del titolare del Centro.</corpo>
+					</comma>
+					<comma id="art14-com7">
+						<num>7.</num>
+						<corpo>Le Province, ai fini di ripopolamento, hanno diritto di prelazione sull'acquisto di selvaggina prodotta nei centri privati. A tale scopo entro il mese di novembre di ogni anno, le Province comunicano ai Centri privati il proprio fabbisogno di fauna selvatica.</corpo>
+					</comma>
+					<comma id="art14-com8">
+						<num>8.</num>
+						<corpo>Nei Centri privati, è consentito, ai fini di impresa agricola, il prelievo di animali allevati appartenenti a specie cacciabili da parte del titolare dell'impresa agricola, di dipendenti della stessa e di persone nominativamente indicate. Detto prelievo non costituisce esercizio venatorio.</corpo>
+					</comma>
+					<comma id="art14-com9">
+						<num>9.</num>
+						<corpo>
+							Nei Centri privati di riproduzione della fauna selvatica, la caccia è vietata. I Centri sono segnalati da tabelle, previste all'
+							<rif xlink:href="#art10-com11" xlink:type="simple">art. 10 comma 11</rif>
+							della presente legge.
+						</corpo>
+					</comma>
+					<comma id="art14-com10">
+						<num>10.</num>
+						<corpo>Le Province esercitano attività di controllo e vigilanza nei centri privati.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art15">
+					<num>Art. 15</num>
+					<rubrica>ZONE PER L'ALLENAMENTO E L'ADDESTRAMENTO DEI CANI PER LE GARE DEGLI STESSI E QUAGLIODROMI</rubrica>
+					<comma id="art15-com1">
+						<num>1.</num>
+						<corpo>Le Province, nel rispetto del regolamento regionale, istituiscono, su terreni incolti o a coltura svantaggiata, zone destinate all'addestramento, l'allenamento dei cani da caccia ed allo svolgimento delle gare e prove cinofile e ne affidano la gestione alle associazioni venatorie e cinofile, riconosciute a livello nazionale, ovvero ad imprenditori agricoli singoli o associati.</corpo>
+					</comma>
+					<comma id="art15-com2">
+						<num>2.</num>
+						<corpo>Le zone di addestramento cani già in essere, possono continuare l'attività, previa istanza da presentare all' Amministrazione Provinciale competente per territorio entro e non oltre quattro mesi dall'entrata in vigore della presente legge.</corpo>
+					</comma>
+					<comma id="art15-com3">
+						<num>3.</num>
+						<corpo>Il regolemento regionale potrè prevedere solo ed esclusivamente per le zone affidate in gestione, il divieto di caccia.</corpo>
+					</comma>
+					<comma id="art15-com4">
+						<num>4.</num>
+						<corpo>Le Province, nel rispetto del regolamento regionale, su richiesta degli interessati, istituiscono qagliodromi per l'addestramento, l'allenamento e le gare dei cani da caccia in cui è consentito l'abbattimento di fauna selvatica di allevamento. La concessione o revoca viene effettuata dalla Giunta Provinciale.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art16">
+					<num>Art. 16</num>
+					<rubrica>AZIENDE FAUNISTICO - VENATORIE SENZA FINI DI LUCRO</rubrica>
+					<comma id="art16-com1">
+						<num>1.</num>
+						<corpo>La Regione, su richiesta degli interessati, sentito l' I.N.F.S. e nei limiti della presente legge, istituiscono per prevalenti finalità naturalistiche e faunistiche, nonché per il potenziamento, lo sviluppo e l'irradiamento della fauna selvatica autoctona, aziende faunistico-venatorie senza fini di lucro in cui non è consentito immettere fauna selvatica successivamente al 31 agosto.</corpo>
+					</comma>
+					<comma id="art16-com2">
+						<num>2.</num>
+						<corpo>Dette concessioni, al fine di garantire l'obiettivo naturalistico e faunistico, devono essere corredate di programmi di conservazione, potenziamento e ripristino di ambienti naturali atti a favorire la riproduzione delle specie cacciabili, nonché dei criteri per il risarcimento dei danni arrecati dalla fauna selvatica alle colture agricole.</corpo>
+					</comma>
+					<comma id="art16-com3">
+						<num>3.</num>
+						<corpo>In dette aziende la caccia è consentita nel pieno rispetto del calendario venatorio e con l'indice di densità minima stabilita per gli altri territori cacciabili della Regione, secondo piani di assestamento e di abbattimento, tali da garantire una presenza costante sui territori interessati di un contingente di riproduttori pari al 30% delle sue risorse faunistiche.</corpo>
+					</comma>
+					<comma id="art16-com4">
+						<num>4.</num>
+						<corpo>Le aziende faunistico - venatorie vengono concesse e revocate dalla Giunta Regionale sulla base del regolamento tipo.</corpo>
+					</comma>
+					<comma id="art16-com5">
+						<num>5.</num>
+						<corpo>Le aziende faunistico - venatorie senza fini di lucro, poiché perseguono finalità d'interesse generale, sono soggette a tassa di concessione regionale ridotta.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art17">
+					<num>Art. 17</num>
+					<rubrica>ALLEVAMENTI DI FAUNA SELVATICA</rubrica>
+					<comma id="art17-com1">
+						<num>1.</num>
+						<corpo>Gli allevamenti di fauna selvatica delle specie cacciabili, di cui all'art. 27 della presente legge, a scopo alimentare, di ripopolamento, ornamentale ed amatoriale, sono soggetti ad autorizzazione da parte dell'Amministrazione provinciale competente per territorio.</corpo>
+					</comma>
+					<comma id="art17-com2">
+						<num>2.</num>
+						<corpo>L'autorizzazione deve essere rilasciata entro il termine di 60 giorni dalla richiesta.</corpo>
+					</comma>
+					<comma id="art17-com3">
+						<num>3.</num>
+						<corpo>Il titolare di un' impresa agricola può esercitare l'allevamento di fauna selvatica a scopo alimentare, di ripopolamento, ornamentale ed amatoriale, dandone semplice comunicazione alla competente Provincia, secondo le disposizioni dalla medesima emanate.</corpo>
+					</comma>
+					<comma id="art17-com4">
+						<num>4.</num>
+						<corpo>
+							Le Province sono delegate all'attuazione di quanto previsto al
+							<rif xlink:href="urn:nir:stato:legge:1992-02-11;157#art17-com4" xlink:type="simple">comma 4 dell'art. 17 della legge 11 febbraio 1992, n. 157</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art17-com5">
+						<num>5.</num>
+						<corpo>Sono soggette ad autorizzazione della Provincia anche le attività relative alla detenzione e allevamento in cattività e creazione di ibridi di volatili. Tali attività possono essere svolte soltanto con esemplari appartenenti alle specie autoctone cacciabili o a quelle esotiche non protette da accordi internazionali.</corpo>
+					</comma>
+					<comma id="art17-com6">
+						<num>6.</num>
+						<corpo>
+							Gli esemplari prodotti negli allevamenti, di cui al
+							<rif xlink:href="#art17-com1" xlink:type="simple">comma 1</rif>
+							, devono essere muniti di anelli inamovibili.
+						</corpo>
+					</comma>
+					<comma id="art17-com7">
+						<num>7.</num>
+						<corpo>Nelle manifestazioni fieristiche, nelle mostre ornitologiche e negli esercizi commerciali specializzati, possono essere esposti e venduti esclusivamente esemplari muniti di regolari anelli.</corpo>
+					</comma>
+					<comma id="art17-com8">
+						<num>8.</num>
+						<corpo>La Giunta Regionale è autorizzata a concedere contributi per l'impianto e la gestione di Centri consortili di allevamento di selvaggina, istituiti dalle Province per il ripopolamento faunistico. Il contributo è concesso sulla base di un programma di spesa, l'erogazione è disposta per il 50 per cento in via d'acconto per il restante 50 per cento previa presentazione della documentazione probatoria della spesa.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art18">
+					<num>Art. 18</num>
+					<rubrica>AMBITI TERRITORIALI DI CACCIA</rubrica>
+					<comma id="art18-com1">
+						<num>1.</num>
+						<corpo>La Giunta Regionale, sentita la Commissione Consiliare competente, ripartisce il territorio regionale agro - silvo - pastorale destinato alla caccia programmata in non più di quattro ambiti territoriali di caccia, subprovinciali, possibilmente omogenei e delimitati da confini naturali, di estensione non inferiore a 60.000 ettari.</corpo>
+					</comma>
+					<comma id="art18-com2">
+						<num>2.</num>
+						<corpo>D'intesa con le regioni confinanti e per esigenze motivate, la Giunta Regionale può altresì individuare ambiti territoriali di caccia interessanti anche due o più Province.</corpo>
+					</comma>
+					<comma id="art18-com3">
+						<num>3.</num>
+						<corpo>Ad ogni ambito di Caccia, in rapporto all'estensione territoriale ed alle risorse faunistico ambientali, viene applicato l'indice di densità venatoria minima indicata dal Ministero per l'Agricoltura e Foreste.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art19">
+					<num>Art. 19</num>
+					<rubrica>COMITATI DI GESTIONE DEGLI AMBITI TERRITORIALI</rubrica>
+					<comma id="art19-com1">
+						<num>1.</num>
+						<alinea>I Comitati di gestione degli ambiti territoriali per la gestione programmata della caccia, sono costituiti con provvedimento della Giunta Provinciale competente per territorio e sono così composti:</alinea>
+						<el id="art19-com1-leta">
+							<num>a)</num>
+							<corpo>da cinque rappresentanti delle organizzazioni professionali agricole maggiormente rappresentative a livello nazionale ed organizzate nella provincia di cui uno per organizzazione. Nel caso in cui le associazioni anzi dette siano presenti in numero inferiori a cinque, le designazioni necessarie per completare le rappresentative saranno espresse dalle organizzazioni aventi il maggior numero di iscritti;</corpo>
+						</el>
+						<el id="art19-com1-letb">
+							<num>b)</num>
+							<corpo>da cinque rappresentanti delle associazioni venatorie riconosciute a livello nazionale ed organizzate nella provincia, di cui uno per associazione;</corpo>
+						</el>
+						<el id="art19-com1-letc">
+							<num>c)</num>
+							<corpo>da tre rappresentanti delle Associazioni ambientali, presenti nel Consiglio Nazionale per l'Ambiente ed organizzate nella provincia, di intesa tra le stesse. In caso di mancato accordo, i rappresentanti saranno nominati dalla Giunta Provinciale tra terne di nominativi proposte da ciascun associazione ambientale;</corpo>
+						</el>
+						<el id="art19-com1-letd">
+							<num>d)</num>
+							<corpo>dai Sindaci dei tre Comuni territorialmente più estesi ricadenti nell'A.T.C.;</corpo>
+						</el>
+						<el id="art19-com1-lete">
+							<num>e)</num>
+							<corpo>da un rappresentante dell' Amministrazione Provinciale competente per territorio con voto consultivo.</corpo>
+						</el>
+					</comma>
+					<comma id="art19-com2">
+						<num>2.</num>
+						<corpo>Svolge le funzioni di Segretario, un dipendente dell' Ufficio caccia competente per territorio con qualifica funzionale non inferiore a VII livello.</corpo>
+					</comma>
+					<comma id="art19-com3">
+						<num>3.</num>
+						<corpo>Le designazioni di nomina o di revoca avvengono ad iniziativa delle rispettive strutture provinciali. Qualora le designazioni non dovessero pervenire all'Amministrazione Provinciale entro il termine di 60 giorni dalla data della richiesta, la Giunta Provinciale provvederè d'ufficio.</corpo>
+					</comma>
+					<comma id="art19-com4">
+						<num>4.</num>
+						<corpo>I Comitati di gestione degli ambiti territoriali di caccia hanno sede presso le competenti Amministrazioni Provinciali e sono convocati dai rispettivi Presidenti, o su richiesta scritta e motivata di almeno un terzo dei componenti. I componenti durano in carica fino allo scadere del mandato del Consiglio Provinciale e possono essere riconfermati una sola volta.</corpo>
+					</comma>
+					<comma id="art19-com5">
+						<num>5.</num>
+						<corpo>I Comitati di gestione così costituiti, eleggono nel proprio seno il Presidente ed il Collegio dei revisori dei conti in numero non inferiore a tre.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art20">
+					<num>Art. 20</num>
+					<rubrica>GESTIONE DEGLI AMBITI TERRITORIALI DI CACCIA FUNZIONI DELLE PROVINCE</rubrica>
+					<comma id="art20-com1">
+						<num>1.</num>
+						<alinea>Ai fini del Coordinamento della gestione programmata della Caccia, le Province:</alinea>
+						<el id="art20-com1-leta">
+							<num>a)</num>
+							<corpo>regolamentano il prelievo venatorio nel rispetto della forma o dei tempi di caccia previsti dalla presente legge, in rapporto alla consistenza delle popolazioni di fauna selvatica stanziale accertata tramite censimenti effettuati di intesa con i Comitati di gestione;</corpo>
+						</el>
+						<el id="art20-com1-letb">
+							<num>b)</num>
+							<corpo>indicano il numero di capi di fauna selvatica stanziale prelevabili durante la gestione venatoria;</corpo>
+						</el>
+						<el id="art20-com1-letc">
+							<num>c)</num>
+							<corpo>determinano il numero dei cacciatori ammissibili in ogni ambito territoriale, in modo che risulti un rapporto cacciatore territorio utile alla caccia non inferiore alla media regionale sulla base dei tesserini rilasciati l'anno precedente;</corpo>
+						</el>
+						<el id="art20-com1-letd">
+							<num>d)</num>
+							<corpo>fissano le quote di partecipazione economica da parte dei cacciatori a favore dei Comitati di gestione in una misura base non superiore all'importo della tassa di concessione regionale per fucile a due colpi ridotta al 50% per i cacciatori residenti nel Molise.</corpo>
+						</el>
+					</comma>
+					<comma id="art20-com2">
+						<num>2.</num>
+						<corpo>Le suddette quote, da versare all'Amministrazione Provinciale competente, sono da quest'ultima accreditate ai Comitati di gestione ed utilizzate esclusivamente per finalita' faunistico - venatorie, nonche' per lo sviluppo delle attivita' compatibili con l'ambiente.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art21">
+					<num>Art. 21</num>
+					<rubrica>COMPITI DEI COMITATI DI GESTIONE</rubrica>
+					<comma id="art21-com1">
+						<num>1.</num>
+						<alinea>Il Comitato di gestione, entro quattro mesi dal suo insediamento, approva un proprio regolamento nel quale devono essere comunque previsti:</alinea>
+						<el id="art21-com1-leta">
+							<num>a)</num>
+							<corpo>piani poliennali di utilizzazione del territorio interessato per ciascuna stagione venatoria con i programmi delle immissioni e degli abbattimenti di fauna selvatica;</corpo>
+						</el>
+						<el id="art21-com1-letb">
+							<num>b)</num>
+							<corpo>l'istituzione e le modalita' organizzative di centri di allevamento organizzati in forma di azienda agricola della fauna selvatica stanziale, muniti di adeguate strutture venatorie per l'adattamento in liberta';</corpo>
+						</el>
+						<el id="art21-com1-letc">
+							<num>c)</num>
+							<corpo>le condizioni perche' venga garantita una consistenza di base della fauna selvatica durante l'anno solare.</corpo>
+						</el>
+					</comma>
+					<comma id="art21-com2">
+						<num>2.</num>
+						<alinea>Il Comitato di gestione promuove e organizza le attivita' di ricognizione delle risorse ambientali e della consistenza faunistica, programma gli interventi per il miglioramento degli habitat, provvede all'attribuzione degli incentivi economici ai proprietari e ai conduttori dei fondi rustici per:</alinea>
+						<el id="art21-com2-leta">
+							<num>a)</num>
+							<corpo>la ricostituzione di una presenza faunistica ottimale per il territorio;</corpo>
+						</el>
+						<el id="art21-com2-letb">
+							<num>b)</num>
+							<corpo>
+								le coltivazioni per l'alimentazione naturale dei mammiferi e degli uccelli soprattutto nei terreni dismessi da interventi agricoli, ai sensi del
+								<rif xlink:href="urn:nir:comunita.europee:regolamento:1988;1094" xlink:type="simple">regolamento CEE n. 1094/88</rif>
+								del Consiglio del 25 aprile 1988 e successive modificazioni;
+							</corpo>
+						</el>
+						<el id="art21-com2-letc">
+							<num>c)</num>
+							<corpo>il ripristino di zone umide e di fossati;</corpo>
+						</el>
+						<el id="art21-com2-letd">
+							<num>d)</num>
+							<corpo>la differenziazione delle colture;</corpo>
+						</el>
+						<el id="art21-com2-lete">
+							<num>e)</num>
+							<corpo>la coltivazine di siepi, cespugli e alberi adatti alla riproduzione della fauna selvatica ed alla nidificazione;</corpo>
+						</el>
+						<el id="art21-com2-letf">
+							<num>f)</num>
+							<corpo>la tutela dei nidi e dei nuovi nati di fauna selvatica nonche' dei riproduttori;</corpo>
+						</el>
+						<el id="art21-com2-letg">
+							<num>g)</num>
+							<corpo>la collaborazione operativa ai fini del tabellamento, della difesa preventiva delle coltivazioni passibili di danneggiamento, della pasturazione invernale degli animali in difficolta', della manutenzione degli apprestamenti di ambientamento della fauna selvatica.</corpo>
+						</el>
+					</comma>
+					<comma id="art21-com3">
+						<num>3.</num>
+						<corpo>Il Comitato di gestione degli A.T.C. provvede, altresi', alla erogazione di contributi per il risarcimento dei danni arrecati alle produzioni agricole della fauna selvatica e dall'esercizio dell'attivita' venatoria nonche' di contributi per interventi, previamente concordati, ai fini della prevenzione delle azioni di danno.</corpo>
+					</comma>
+					<comma id="art21-com4">
+						<num>4.</num>
+						<corpo>
+							A partire dalla stagione venatoria 1995/96, il Comitato di gestione deve fornire all'Amministrazione Provinciale elementi di valutazione al fine della determinazione del contributo da assegnare ai proprietari o conduttori ai sensi del
+							<rif xlink:href="#art25" xlink:type="simple">successivo art. 25</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art21-com5">
+						<num>5.</num>
+						<corpo>Il bilancio preventivo dell'A.T.C. viene approvato dal Comitato di gestione entro il 31 dicembre dell'anno precedente a quello a cui si riferisce ed e' inviato alla Provincia, corredato dalla relazione del Collegio dei revisori dei conti.</corpo>
+					</comma>
+					<comma id="art21-com6">
+						<num>6.</num>
+						<corpo>Ogni A.T.C. ha facolta' di spesa nei limiti delle disponibilita' di bilancio.</corpo>
+					</comma>
+					<comma id="art21-com7">
+						<num>7.</num>
+						<corpo>Ogni A.T.C. deve trasmettere alla Provincia, entro il 31 marzo di ogni anno, il rendiconto tecnico finanziario relativo all'esercizio precedente, corredato dalla relazione del Collegio dei revisori dei conti.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art22">
+					<num>Art. 22</num>
+					<rubrica>ESERCIZIO DELL'ATTIVITA VENATORIA</rubrica>
+					<comma id="art22-com1">
+						<num>1.</num>
+						<corpo>
+							L'attivita' venatoria si svolge in base ad una concessione che lo Stato rilascia ai cittadini che la richiedono e che posseggono i requisiti previsti dalla
+							<rif xlink:href="urn:nir:stato:legge:1992-02-11;157" xlink:type="simple">legge 11 febbraio 1992, n. 157</rif>
+							e dalla presente legge.
+						</corpo>
+					</comma>
+					<comma id="art22-com2">
+						<num>2.</num>
+						<corpo>
+							Costituisce esercizio venatorio ogni atto diretto all' abbattimento o alla cattura di fauna selvatica secondo le modalita', nei tempi e con l'impiego dei mezzi a cio' destinati, secondo le norme della presente legge; e' considerato, altresi', esercizio venatorio il vagare o il soffermarsi con i mezzi destinati a tale scopo o in attitudine di ricerca della fauna o in attesa della medesima per abbatterla o catturarla. Ogni altro modo di abbattimento e' vietato, salvo che non avvenga per caso fortuito o per forza maggiore. Non costituisce esercizio venatorio il prelievo di fauna selvatica ai fini di impresa agricola di cui all'
+							<rif xlink:href="#art10-com3-letd" xlink:type="simple">art. 10, comma 3, lettera d)</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art22-com3">
+						<num>3.</num>
+						<corpo>La fauna selvatica abbattuta durante l'esercizio venatorio, nel rispetto delle disposizioni della presente legge, appartiene a colui che l'ha cacciata. Il cacciatore che insegue la fauna selvatica scovata o sia intento al recupero di quella da lui ferita non deve subire intromissioni finche' non ne abbia abbandonato l'inseguimento o il recupero.</corpo>
+					</comma>
+					<comma id="art22-com4">
+						<num>4.</num>
+						<corpo>L'attivita' venatoria puo' essere esercitata da chi abbia compiuto il 18° anno di eta' e sia munito della licenza di porto di fucile per uso di caccia e delle polizze assicurative RCVT ed infortuni, con relativi massimali, previsti dalla legge dello Stato.</corpo>
+					</comma>
+					<comma id="art22-com5">
+						<num>5.</num>
+						<corpo>Ai fini dell'esercizio dell'attivita' venatoria e', inoltre, necessario il possesso di un'apposito tesserino regionale, rilasciato dalla Provincia di residenza con allegato il calendario regionale riportante, tra l'altro, gli ambiti di caccia ove e' consentita l'attivita' venatoria.</corpo>
+					</comma>
+					<comma id="art22-com6">
+						<num>6.</num>
+						<corpo>Il tesserino, predisposto e stampato a cura della Regione, ha validita' per una stagione venatoria e deve essere restituito all'Amministrazione Provinciale che l'ha rilasciato entro e non oltre il 1 marzo di ogni anno.</corpo>
+					</comma>
+					<comma id="art22-com7">
+						<num>7.</num>
+						<corpo>Il rilascio del tesserino regionale e' subordinato al possesso di valida licenza di porto d'armi per uso di caccia, all'avvenuto versamento delle tasse prescritte, alla restituzione del tesserino della stagione precedente.</corpo>
+					</comma>
+					<comma id="art22-com8">
+						<num>8.</num>
+						<corpo>Il cacciatore di altre Regioni, che intenda praticare la caccia nel territorio di una Provincia del Molise, deve fare apporre dalla Provincia stessa sul tesserino rilasciato dalla Regione di residenza, le indicazioni dell'ambito territoriale concesso.</corpo>
+					</comma>
+					<comma id="art22-com9">
+						<num>9.</num>
+						<corpo>In caso di smarrimento, deterioramento o distruzione del tesserino, il titolare puo' ottenere il duplicato, previa esibizione della copia della denuncia del fatto all'autorita' di pubblica sicurezza e delle ricevute del versamento delle tasse per l'esercizio dell'attivita' venatoria.</corpo>
+					</comma>
+					<comma id="art22-com10">
+						<num>10.</num>
+						<corpo>Fatto salvo l'esercizio venatorio con l'arco e con il falco, l'esercizio venatorio stesso nella Regione Molise puo' essere praticato in forma vagante e fissa, con o senza l'ausilio del cane.</corpo>
+					</comma>
+					<comma id="art22-com11">
+						<num>11.</num>
+						<corpo>Ogni cacciatore residente nel Molise ha diritto d'accesso gratuito, a domanda, da presentare all'Amministrazione Provinciale competente per territorio, a tutti gli ambiti territoriali di caccia, istituiti nella Regione, previo il pagamento di una sola quota.</corpo>
+					</comma>
+					<comma id="art22-com12">
+						<num>12.</num>
+						<corpo>Il Comitato direttivo dell'A.T.C., sulla base di modalita' da esso determinate e comunicate alla Provincia, puo' riconoscere ai cacciatori iscritti la facolta' di utilizzare giornate di competenza, dopo il primo mese di caccia, per ospitare sotto forma di interscambio e senza finalita' di lucro un altro cacciatore, anche se residente in altra regione.</corpo>
+					</comma>
+					<comma id="art22-com13">
+						<num>13.</num>
+						<corpo>La Regione promuove scambi interregionali per realizzare una equilibrata distribuzione dei cacciatori sul territorio nazionale e tale fine determina il numero dei cacciatori non residenti ammissibili in Molise.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art23">
+					<num>Art. 23</num>
+					<rubrica>MEZZI DI CACCIA CONSENTITI</rubrica>
+					<comma id="art23-com1">
+						<num>1.</num>
+						<corpo>L'attivita' venatoria e' consentita con l'uso del fucile con canna ad anima liscia fino a due colpi, a ripetizione e semiautomatico, con caricatore contenente non piu' di due cartucce, di calibro non superiore a 12, nonche' con fucile con canna ad anima rigata a caricamento singolo manuale o a ripetizione semiautomatica di calibro non inferiore a millimetri 5,6 con bossolo a vuoto di altezza non inferiore a millimetri 40. E' consentito, altresi', l'uso del fucile a due o tre canne (combinato) di cui una o due ad anima rigata di calibro non inferiore a millimetri 5,6 nonche' l'uso dell'arco e del falco.</corpo>
+					</comma>
+					<comma id="art23-com2">
+						<num>2.</num>
+						<corpo>I bossoli delle cartucce devono essere recuperati dal cacciatore e non lasciati sul luogo di caccia.</corpo>
+					</comma>
+					<comma id="art23-com3">
+						<num>3.</num>
+						<corpo>Sono vietate tutte le armi e i mezzi per l'esercizio venatorio non esplicitamente ammessi dal presente articolo.</corpo>
+					</comma>
+					<comma id="art23-com4">
+						<num>4.</num>
+						<corpo>Il titolare della licenza di porto di fucile per uso di caccia e' autorizzato, per l'esercizio venatorio, a portare, oltre alle armi consentite, gli utensili da punta e da taglio atti alle esigenze venatorie.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art24">
+					<num>Art. 24</num>
+					<rubrica>USO DEI FALCHI</rubrica>
+					<comma id="art24-com1">
+						<num>1.</num>
+						<corpo>
+							L'uso dei falchi come mezzo di caccia e' consentito sotto il controllo dell'I.N F.S. esclusivamente con soggetti provenienti da allevamenti nazionali od esteri di provata serieta', oppure legalmenti importati da quei paesi ove la cattura e l'esportazione sono permesse, ma strettamente controllate, nell'osservanza della Convenzione di Washington (
+							<rif xlink:href="urn:nir:stato:legge:1975-12-19;874" xlink:type="simple">legge 19 dicembre 1975 n. 874</rif>
+							).
+						</corpo>
+					</comma>
+					<comma id="art24-com2">
+						<num>2.</num>
+						<corpo>I possessori di falchi per uso di caccia debbono farne notifica alla Regione, tramite l'Amministrazione Provinciale competente per territorio, entro tre mesi dall'entrata in vigore della presente legge.</corpo>
+					</comma>
+					<comma id="art24-com3">
+						<num>3.</num>
+						<corpo>L'Amministrazione Regionale, avvalendosi dell'I.N.F.S. o del Dipartimento di Biologia Animale dell'Universita' di Roma e tramite le Amministrazioni Provinciali competenti per territorio, provvedera' al marcaggio degli esemplari detenuti che non potranno essere superiori a due con contrassegni inamovibili e numerati forniti dall' I.N.F.S. ed alla redazione di una scheda in quadruplice copia, fornita anch'essa dall'I.N F.S, dove saranno riportate tutte le notizie relative all'identificazione dei diversi soggetti, una copia verra' archiviata presso l'Amministrazione Regionale, una presso la competente Amministrazione Provinciale, una copia verra' inviata all'I.N.F.S. ed una copia verra' rilasciata al possessore del rapace.</corpo>
+					</comma>
+					<comma id="art24-com4">
+						<num>4.</num>
+						<corpo>Trascorso il periodo di moratoria suddetto, le variazioni di consistenza dovranno essere denunciate entro 10 giorni all'Amministrazione Regionale ed a quella Provinciale competente per territorio, con specificazione del soggetto e dei motivi della variazione verificatasi.</corpo>
+					</comma>
+					<comma id="art24-com5">
+						<num>5.</num>
+						<corpo>All'atto della denuncia, il possessore dovra' esibire la documentazionee che dimostra la provenienza degli esemplari detenuti e la destinazione di quelli non piu' presenti, fatta salva la denuncia di perdita dell'animale; tale documentazione dovra' essere conservata dal possessore del falco.</corpo>
+					</comma>
+					<comma id="art24-com6">
+						<num>6.</num>
+						<corpo>Trascorso il periodo di moratoria suddetto, saranno considerati detenuti illegalmente e sequestrati, fatte salve altre sanzioni previste a termine di legge, i falchi privi di contrassegno e/o per i quali manchi la documentazione di provenienza.</corpo>
+					</comma>
+					<comma id="art24-com7">
+						<num>7.</num>
+						<corpo>I rapaci sequestrati dovranno, nel piu' breve tempo possibile, essere consegnati all' I.N.F.S. che provvedera', seguendo programmi anche coordinati con altri enti o associazioni, al loro reinserimento in natura o al loro utilizzo per finalita' scientifiche.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art25">
+					<num>Art. 25</num>
+					<rubrica>UTILIZZAZIONE DEI TERRENI AGRICOLI AI FINI DELLA GESTIONE PROGRAMMATA DALLA CACCIA - FONDI CHIUSI</rubrica>
+					<comma id="art25-com1">
+						<num>1.</num>
+						<corpo>Per l'utilizzazione dei fondi inclusi nel piano faunistico - venatorio Regionale ai fini della gestione programmata della caccia, e' dovuto ai proprietari o conduttori un contributo determinato, per ciascun anno finanziario a partire dalla stagione venatoria 1995/96, dalle Amministrazioni Provinciali, sentiti i Comitati di gestione degli A.T.C. in relazione alla estensione, alle condizioni agronomiche, alle misure dirette alla tutela ed alla valorizzazione dell'ambiente.</corpo>
+					</comma>
+					<comma id="art25-com2">
+						<num>2.</num>
+						<corpo>
+							Il proprietario o conduttore di un fondo che intenda vietare sullo stesso l'esercizio della attivita' venatoria, deve inoltrare, entro trenta giorni dalla pubblicazione del piano faunistico - venatorio, al Presidente della Giunta Regionale, richiesta motivata che, ai sensi dell'
+							<rif xlink:href="urn:nir:stato:legge:1990-08-07;241#art2" xlink:type="simple">art. 2 della legge 7 agosto 1990 n. 241</rif>
+							, dalla stessa e' esaminata entro 60 giorni; la richiesta e' accolta se non ostacola l'attuazione della pianificazione faunistico-venatoria di cui agli artt. 7 e 8. E' altresi' accolta, in casi da individuarsi specificatamente con regolamento del Consiglio Regionale quando l'attivita' venatoria sia in contrasto con l'esigenza di salvaguardia di colture agricole specializzate nonche' di produzioni agricole condotte con sistemi sperimentali o a fine di ricerca scientifica, ovvero quando sia motivo di danno o di disturbo ad attivita' di rilevante interesse economico, sociale o ambientale.
+						</corpo>
+					</comma>
+					<comma id="art25-com3">
+						<num>3.</num>
+						<corpo>Il divieto e' reso noto mediante l'apposizione di tabelle, esenti da tasse, a cura del proprietario o conduttore del fondo, le quali delimitano in maniera chiara e visibile il perimetro dell'area interessata. Nei fondi sottratti alla gestione programmata della caccia e' vietato a chiunque, compreso il proprietario o conduttore, esercitare l'attivita' venatoria fino al venir meno delle ragioni del divieto.</corpo>
+					</comma>
+					<comma id="art25-com4">
+						<num>4.</num>
+						<corpo>L'esercizio venatorio e' comunque vietato in forma vagante sui terreni in attualita' di coltivazione. Si considerano in attualita' di coltivazione i terreni con coltivazioni erbacee da seme, i frutteti specializzati, i vigneti e gli uliveti specializzati fino alla data del raccolto, i terreni coltivati a soia e a riso, nonche' mais per la produzione di seme fino alla data del raccolto. L'esercizio venatorio in forma vagante e', inoltre, vietato sui terreni in attualita' di coltivazione individuati dalla Giunta Regionale, sentito il settore decentrato competente per territorio, su richiesta delle organizzazioni professionali agricole maggiormente rappresentative a livello nazionale, tramite le loro strutture regionali, in relazione all'esigenza di protezione di altre colture specializzate o intensive.</corpo>
+					</comma>
+					<comma id="art25-com5">
+						<num>5.</num>
+						<corpo>L'esercizio venatorio e' vietato a chiunque nei fondi rustici chiusi da muro o da rete metallica o da altra effettiva chiusura, di altezza non inferiore a metri 1,20, o da corsi o da specchi d'acqua perenni il cui letto abbia profondita' di almeno metri 1,50 e la larghezza di almeno 3 metri. I fondi chiusi esistenti alla data di entrata in vigore della presente legge e quelli che si intendera' successivamente istituire devono essere notificati a cura del proprietario o del conduttore alla Giunta Regionale, precisando l'estensione del fondo ed allegando planimetria catastale in scala 1:2000 con l'indicazione dei relativi confini. I proprietari o conduttori dei fondi di cui al presente comma provvedono ad apporre a loro carico adeguate tabellazioni esenti da tasse regionali.</corpo>
+					</comma>
+					<comma id="art25-com6">
+						<num>6.</num>
+						<corpo>
+							La superficie dei fondi chiusi, di cui ai commi 2 e 5, entra a far parte della quota non superiore al 20 per cento del territorio agro - silvo - pastorale della Regione, utile all'esercizio venatorio destinato a protezione della fauna selvatica di cui all'
+							<rif xlink:href="#art6-com3" xlink:type="simple">art. 6, comma 3</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art26">
+					<num>Art. 26</num>
+					<rubrica>AZIENDA AGRI - TURISTICO - VENATORIE</rubrica>
+					<comma id="art26-com1">
+						<num>1.</num>
+						<corpo>Entro i limiti percentuali del territorio agro- silvo - pastorale regionale utile alla caccia, la Giunta Regionale, su richiesta degli interessati, sentito il parere della Commissione Consiliare competente e dell'I.N.F.S., puo' autorizzare l'istituzione di aziende agri - turistico - venatorie, ai fini di impresa agricola, soggette a tassa regionale, nelle quali sono consentiti l'immissione e l'abbattimento per tutta la stagione venatoria di fauna selvatica e di allevamento.</corpo>
+					</comma>
+					<comma id="art26-com2">
+						<num>2.</num>
+						<alinea>Le aziende agri-turistico-venatorie devono:</alinea>
+						<el id="art26-com2-leta">
+							<num>a)</num>
+							<corpo>essere preferibilmente situate nei territori di scarso rilievo faunistico;</corpo>
+						</el>
+						<el id="art26-com2-letb">
+							<num>b)</num>
+							<corpo>
+								coincidere preferibilmente con il territorio di una o piu' aziende agricole ricadenti in aree di agricoltura svantaggiata, ovvero dismesse da interventi agricoli ai sensi del
+								<rif xlink:href="urn:nir:comunita.europee:regolamento:1988;1049-88-cee" xlink:type="simple">regolamento n. 1049/88/CEE</rif>
+								e successive modificazioni.
+							</corpo>
+						</el>
+					</comma>
+					<comma id="art26-com3">
+						<num>3.</num>
+						<corpo>La domanda di concessione per la istituzione di aziende agri-turistico-venatorie e' presentata dai proprietari o conduttori dei fondi rustici interessati alla costituzione.</corpo>
+					</comma>
+					<comma id="art26-com4">
+						<num>4.</num>
+						<corpo>La Giunta Regionale disciplina le procedure e le prescrizioni per la gestione delle aziende di cui al presente articolo.</corpo>
+					</comma>
+					<comma id="art26-com5">
+						<num>5.</num>
+						<corpo>
+							L'esercizio dell'attivita' venatoria nelle aziende di cui al
+							<rif xlink:href="#art26-com1" xlink:type="simple">comma 1</rif>
+							e' consentito nel rispetto delle norme della presente legge.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art27">
+					<num>Art. 27</num>
+					<rubrica>SPECIE CACCIABILI E PERIODI DI ATTIVITA' VENATORIA</rubrica>
+					<comma id="art27-com1">
+						<num>1.</num>
+						<alinea>Ai fini dell'esercizio venatorio e' consentito abbattere esemplari di fauna selvatica appartenenti alle seguenti specie e per i periodi sotto indicati:</alinea>
+						<el id="art27-com1-leta">
+							<num>a)</num>
+							<corpo>specie cacciabili dal primo settembre al 31 dicembre: quaglia (Coturnix coturnix); tortora (Streptopeia turtur); merlo (Turdus merula); passero (Passer italiae); passera mattugia (Passer montanus); allodola (Alauda arvensis); starna (Perdix perdix); pernice rossa (Alectoris rufa); lepre comune (Lepus europaeus); fagiano (Phasianus colchicus);</corpo>
+						</el>
+						<el id="art27-com1-letb">
+							<num>b)</num>
+							<corpo>specie cacciablli dal primo settembre al 15 gennaio; volpe (Vulpes vulpes);</corpo>
+						</el>
+						<el id="art27-com1-letc">
+							<num>c)</num>
+							<corpo>specie cacciabili dalla terza domenica di settembre al 31 gennaio: storno (Sturnus vulgaris); cesena (turdus pilaris); tordo bottaccio (Tuldis philomelos); tordo sassello (Turdus iliacus); germano reale (Anas platyrhynchos); fologa (Fulica atra); gallinella d'acqua (Gallinula chloropus); alzavola (Anas crecca; canapiglia (Anas strepera); porciglione (Rallus aquaticus); fischione (Anas penelope); codone (Ansa acuta); marzaiola (Anas quequedula); mestolone (Ans cljpeata); moriglione (Aythya ferina); moretta (Aythya fuligula); beccaccino (Gallinago gallinago), colombaccio (columba palumbus); frullino (Lymnocryptes minimus); fringuello (Fringilla coelebs), peppola (Fringilla montifringilla); combattente (Philomachus pugnax); beccaccia (Solopx risticola); taccola (corbus monedula); pavoncella (Vanellus vanellus); pittima reale (Limosa limosa); cornicchia grigia (Corvus cornone cornix); ghiandaia (Garrulus glandarius); gazza (Pica pica);</corpo>
+						</el>
+						<el id="art27-com1-letd">
+							<num>d)</num>
+							<corpo>specie cacciabili dal primo ottobre al 30 novembre: coturnice (Alecstoris graeca); capriolo (capreolu capreolus); cervo (Cervus elaphus; daino (Dama dama);</corpo>
+						</el>
+						<el id="art27-com1-lete">
+							<num>e)</num>
+							<corpo>specie cacciabili dal primo ottobre al 31 dicembre o dal primo novembre al 31 genaio: cinghiale (Sus scrofa).</corpo>
+						</el>
+					</comma>
+					<comma id="art27-com2">
+						<num>2.</num>
+						<corpo>La Regione fissa le giornate di caccia a tre settimanali a libera scelta del cacciatore.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art28">
+					<num>Art. 28</num>
+					<rubrica>CALENDARIO VENATORIO</rubrica>
+					<comma id="art28-com1">
+						<num>1.</num>
+						<corpo>Entro e non oltre il 15 giugno, la Giunta Regionale, sentiti l'Istituto nazionale per la fauna selvatica e la Competente Commissione Consiliare, approva e pubblica il calendario ed il regolamento relativo all'intera stagione venatoria.</corpo>
+					</comma>
+					<comma id="art28-com2">
+						<num>2.</num>
+						<alinea>Nel calendario venatorio regionale devono essere, in particolare, indicate:</alinea>
+						<el id="art28-com2-leta">
+							<num>a)</num>
+							<corpo>le specie cacciabili e periodi di caccia;</corpo>
+						</el>
+						<el id="art28-com2-letb">
+							<num>b)</num>
+							<corpo>le giornate di caccia;</corpo>
+						</el>
+						<el id="art28-com2-letc">
+							<num>c)</num>
+							<corpo>il carniere giornaliero;</corpo>
+						</el>
+						<el id="art28-com2-letd">
+							<num>d)</num>
+							<corpo>inizio e termine della giornata di caccia;</corpo>
+						</el>
+						<el id="art28-com2-lete">
+							<num>e)</num>
+							<corpo>i periodi e le modalita' per l'addestramento dei cani da caccia;</corpo>
+						</el>
+						<el id="art28-com2-letf">
+							<num>f)</num>
+							<corpo>l' uso dei cani;</corpo>
+						</el>
+						<el id="art28-com2-letg">
+							<num>g)</num>
+							<corpo>disposizioni per le gare cinofile;</corpo>
+						</el>
+						<el id="art28-com2-leth">
+							<num>h)</num>
+							<corpo>indicazione per la caccia al cinghiale;</corpo>
+						</el>
+						<el id="art28-com2-leti">
+							<num>i)</num>
+							<corpo>divieti e sanzioni.</corpo>
+						</el>
+					</comma>
+					<comma id="art28-com3">
+						<num>3.</num>
+						<corpo>Il numero delle giornate di caccia settimanali non puo' essere superiore a tre, a scelta del cacciatore, ad esclusione dei giorni di martedi' e venerdi' nei quali l' esercizio dell'attivita' venatoria e' in ogni caso sospeso.</corpo>
+					</comma>
+					<comma id="art28-com4">
+						<num>4.</num>
+						<corpo>La caccia e' consentita da un'ora prima del sorgere del sole fino al tramonto. La caccia di selezione agli ungulati e' consentita fino ad un'ora dopo il tramonto.</corpo>
+					</comma>
+					<comma id="art28-com5">
+						<num>5.</num>
+						<corpo>La Giunta Regionale puo' definire nel calendario venatorio l'ora legale di inizio della giornata venatoria, per periodi mensili o quindicinali, indicando con la stessa cadenza periodica, l'ora legale di termine.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art29">
+					<num>Art. 29</num>
+					<rubrica>CONTROLLO DELLA FAUNA SELVATICA</rubrica>
+					<comma id="art29-com1">
+						<num>1.</num>
+						<corpo>
+							La Giunta Regionale, per importanti e motivate ragioni connesse alla consistenza faunistica o per sopravvenute particolari condizioni ambientali, stagionali o climatiche o per malattie o altre calamita', puo' vietare o ridurre per periodi prestibiliti la caccia a determinate specie di fauna selvatica di cui all'
+							<rif xlink:href="#art27" xlink:type="simple">art. 27</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art29-com2">
+						<num>2.</num>
+						<corpo>Le Province, per la migliore gestione del patrimonio zootecnico, per la tutela del suolo, per motivi sanitari, per la selezione biologica, per la tutela del patrimonio storico-artistico, per la tutela delle produzioni zoo-agro-forestali ed ittiche, provvedono al controllo delle specie di fauna selvatica anche nelle zone vietate alla caccia. Tale controllo, esercitato selettivamente, viene praticato di norma mediante l'utilizzo di metodi ecologici su parere dell'I.N.F.S.. Qualora venga verificata l'inefficacia dei predetti metodi, la Giunta Regionale puo' autorizzare piani di abbattimento. Tali piani devono essere attuati dalle guardie venatorie dipendenti delle Province. Queste ultime possono avvalersi dei proprietari o conduttori dei fondi sui quali si attuano i piani medesimi o di altre persone, purche' tutti muniti di licenza per l'esercizio venatorio, nonche' delle guardie forestali e delle guardie comunali.</corpo>
+					</comma>
+					<comma id="art29-com3">
+						<num>3.</num>
+						<corpo>Nel caso che il controllo della fauna selvatica sia effettuato nei parchi naturali regionali e nelle riserve naturali regionali per ricomporre squilibri ecologici, lo stesso deve essere attuato dal personale dipendente del parco o da persone residenti nominativamente designate dall'Ente di gestione, munite di licenza per l'esercizio venatorio.</corpo>
+					</comma>
+					<comma id="art29-com4">
+						<num>4.</num>
+						<corpo>La Giunta Regionale, per comprovate ragioni, di protezione dei fondi coltivati e degli allevamenti, da forme inselvatichite di specie domestiche, puo' autorizzare, su proposta delle oroganizzazioni professionali agricole maggiormente rappresentative a livello nazionale, tramite le loro strutture regionali piani di abbattimento attuati dalle guardie venatorie dipendenti dalle Province con la collaboraziore dei proprietari o conduttori dei fondi su cui si attuano i piani medesimi, tutti munite di licenza per l'esercizio venatorio.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art30">
+					<num>Art. 30</num>
+					<rubrica>INTRODUZIONE DI FAUNA SELVATICA DALL'ESTERO</rubrica>
+					<comma id="art30-com1">
+						<num>1.</num>
+						<corpo>E' vietato introdurre nel territorio della Regione Molise fauna selvatica viva proveniente dall'estero senza la preventiva autorizzazione del Ministro dell'Agricoltura e delle Foreste su parere dell'I.N.F.S.</corpo>
+					</comma>
+					<comma id="art30-com2">
+						<num>2.</num>
+						<corpo>
+							L'introduzione di selvaggina dall'estero e' comunque regolamentata dall'
+							<rif xlink:href="urn:nir:stato:legge:1992-02-11;157#art20" xlink:type="simple">art. 20 della legge 11 febbraio 1992 n. 157</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art31">
+					<num>Art. 31</num>
+					<rubrica>DIVIETI</rubrica>
+					<comma id="art31-com1">
+						<num>1.</num>
+						<alinea>
+							Oltre ai divieti contenuti nell'
+							<rif xlink:href="urn:nir:stato:legge:1992-02-11;157#art21-com1" xlink:type="simple">art. 21 comma 1 della legge 11 febbraio 1992 n. 157</rif>
+							, nella Regione Molise non e' consentito:
+						</alinea>
+						<el id="art31-com1-leta">
+							<num>a)</num>
+							<corpo>esercitare la caccia da appostamento fisso a qualsiasi tipo di selvaggina con uso di richiami vivi;</corpo>
+						</el>
+						<el id="art31-com1-letb">
+							<num>b)</num>
+							<corpo>la posta alla beccaccia e al beccaccino;</corpo>
+						</el>
+						<el id="art31-com1-letc">
+							<num>c)</num>
+							<corpo>esercitare la caccia al colombaccio con colombi ammaestrati;</corpo>
+						</el>
+						<el id="art31-com1-letd">
+							<num>d)</num>
+							<corpo>utilizzare civette per la caccia delle allodole;</corpo>
+						</el>
+						<el id="art31-com1-lete">
+							<num>e)</num>
+							<corpo>esercitare la caccia sui terreni in attualita' di coltivazione, nei frutteti ed in vigneti specializzati;</corpo>
+						</el>
+						<el id="art31-com1-letf">
+							<num>f)</num>
+							<corpo>l'abbattimento di giovani nati di cinghiali con manto rigato;</corpo>
+						</el>
+						<el id="art31-com1-letg">
+							<num>g)</num>
+							<corpo>bruciare sui campi le stoppie delle colture graminacee e leguminose nonche' prati, erbepalustri ed infestanti, anche nei terreni incolti in tutto il territorio della Regione dal 1 aprile al 20 settembre: l'osservanza del periodo temporale predetto puo' essere derogato, con espressa motivata richiesta del Sindaco del Comune interessato, al Presidente della Provincia;</corpo>
+						</el>
+						<el id="art31-com1-leth">
+							<num>h)</num>
+							<corpo>abbandonare e lasciare incustoditi i cani di ogni razza. I cani trovati a vagare sul territorio utile alla caccia in tempo di divieto o sui territori comunque vincolati per fini faunistici e venatori, devono essere catturati;</corpo>
+						</el>
+						<el id="art31-com1-leti">
+							<num>i)</num>
+							<corpo>l'esercizio della caccia su terreno in tutto o in gran parte coperto di neve,ad eccezione della caccia ai palmipedi e trampolieri lungo i corsi d'acqua perenne, limitatamente alle specie cacciabili e per i periodi consentiti dalla legge.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art32">
+					<num>Art. 32</num>
+					<rubrica>RISARCIMENTO DANNI ALLE PRODUZIONI AGRICOLE</rubrica>
+					<comma id="art32-com1">
+						<num>1.</num>
+						<corpo>Per far fronte ai danni non altrimenti risarcibili arrecati alla produzione agricola ed alle opere approntate sui terreni coltivati e a pascolo dalla fauna selvatica, in particolare da quella protetta e dall'attivita' venatoria, e' costituito in ogni provincia un fondo destinato alla prevenzione ed ai risarcimenti.</corpo>
+					</comma>
+					<comma id="art32-com2">
+						<num>2.</num>
+						<corpo>In ciascuna Provincia, viene costituito dalla Giunta Provinciale un comitato composto dall'Assessore Provinciale delegato alla materia, cinque rappresentanti delle organizzazioni professionali agricole, maggiormente rappresentative a livello nazionale e da cinque rappresentanti delle associazioni venatorie riconosciute a livello nazionale, maggiormente rappresentative nella regione. Il Comitato ha sede presso l'Amministrazione Provinciale e dura in carica fino alla scadenza del mandato del Consiglio Provinciale. Svolge le funzioni di segretario un dipendente della Provincia, designato dall'Assessore Provinciale competente per materia.</corpo>
+					</comma>
+					<comma id="art32-com3">
+						<num>3.</num>
+						<corpo>Il proprietario o il conduttore del fondo e' tenuto a denunciare tempestivamente i danni al comitato competente per territorio che procede entro 30 giorni alle relative verifiche anche mediante sopralluoghi ed ispezioni e, nei 90 giorni successivi, alla liquidazione.</corpo>
+					</comma>
+					<comma id="art32-com4">
+						<num>4.</num>
+						<corpo>I danni arrecati dalle specie selvatiche possono essere risarciti anche mediante polizze assicurative stipulate dalle Province o dai Comitati di gestione degli ambiti territoriali di caccia.</corpo>
+					</comma>
+					<comma id="art32-com5">
+						<num>5.</num>
+						<corpo>Il risarcimento dei danni provocati nei centri privati di produzione della selvaggina, nelle aziende faunistiche - venatorie ed agri - turistico - venatorie e nelle zone per l'addestramento cani e per gare cinofile, fa carico ai rispettivi concessionari. Il risarcimento dei danni provocati negli ambiti territoriali destinati alla caccia programmatica, e' disposto dai Comitati di gestione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art33">
+					<num>Art. 33</num>
+					<rubrica>ABILITAZIONE ALL'ESERCIZIO VENATORIO</rubrica>
+					<comma id="art33-com1">
+						<num>1.</num>
+						<corpo>
+							In applicazione dell'
+							<rif xlink:href="urn:nir:stato:legge:1992;157#art22" xlink:type="simple">art. 22 della legge n. 157/92</rif>
+							, la licenza di porto di fucile per uso di caccia e' rilasciata, secondo le leggi di pubblica sicurezza, a coloro che hanno superato l'abilitazione all'esercizio venatorio sostenuto dinanzi all'apposita Commissione nominata dalla Regione in ciascun capoluogo di provincia.
+						</corpo>
+					</comma>
+					<comma id="art33-com2">
+						<num>2.</num>
+						<alinea>Presso le Amministrazioni Provinciali ha sede la Commissione di cui al precedente comma. Gli esami devono vertere sulle seguenti nozioni:</alinea>
+						<el id="art33-com2-leta">
+							<num>a)</num>
+							<alinea>Legislazione venatoria e in particolare:</alinea>
+							<ep id="art33-com2-leta-pun1">
+								<num>-</num>
+								<corpo>Concetto di fauna selvatica; specie cacciabili e periodi caccia: differenza fra selvaggina Stanziale e Migratoria: concetto di esercizio venatorio: tempi e forme di caccia consentiti: limitazioni all'esercizio venatorio rispetto ai luoghi ed alle modalita': calendario venatorio e concetto di caccia programmata. Nozioni sulla licenza di caccia (rilascio, validita', rinnovo, assicurazione per responsabilita' civile, tesserino venatorio regionale). Zone di ripopolamento e cattura; oasi di protezione ed ambiti territoriali di caccia. Addestramento ed utilizzazione dei cani; organi preposti alla gestione della caccia; agenti di vigilanza e loro poteri; sanzioni e procedure;</corpo>
+							</ep>
+						</el>
+						<el id="art33-com2-letb">
+							<num>b)</num>
+							<alinea>Zoologia applicata alla caccia con prove pratiche di riconoscimento delle specie cacciabili:</alinea>
+							<ep id="art33-com2-letb-pun1">
+								<num>-</num>
+								<corpo>Concetti fondamentali di equilibrio della natura; rapporto fra fauna selvatica ed ambiente naturale; conoscenza delle varie specie di fauna selvatica omeoterma con particolare riferimento alle specie cacciabili ed a quelle protette;</corpo>
+							</ep>
+						</el>
+						<el id="art33-com2-letc">
+							<num>c)</num>
+							<alinea>Armi e munizioni da caccia:</alinea>
+							<ep id="art33-com2-letc-pun1">
+								<num>-</num>
+								<corpo>Nozioni generali e particolari sui vari tipi di armi e munizioni da caccia; custodia, manutenzione, controllo, trasporto e conservazione delle armi e munizioni; uso corretto delle armi durante l'attivita' venatoria, gittata delle armi impiegate a distanza di sicurezza da osservare per la prevenzione degli infortuni;</corpo>
+							</ep>
+						</el>
+						<el id="art33-com2-letd">
+							<num>d)</num>
+							<alinea>Tutela della natura e principi di salvaguardia delle colture agricole:</alinea>
+							<ep id="art33-com2-letd-pun1">
+								<num>-</num>
+								<corpo>Rapporto tra agricoltura ed attivita' venatoria Rispetto degli ambienti naturali e ripristino dell'habitat per lo sviluppo e l'incremento della fauna selvatica. Conoscenza delle norme che impediscono o limitano l'esercizio venatorio per il rispetto e la salvaguardia delle colture agricole;</corpo>
+							</ep>
+						</el>
+						<el id="art33-com2-lete">
+							<num>e)</num>
+							<corpo>Norme di pronto soccorso.</corpo>
+						</el>
+					</comma>
+					<comma id="art33-com3">
+						<num>3.</num>
+						<alinea>La Commissione sara' cosi' composta in base alle materie di cui al comma 1:</alinea>
+						<el id="art33-com3-leta">
+							<num>a)</num>
+							<corpo>da numero cinque esperti delle materie di cui innanzi;</corpo>
+						</el>
+						<el id="art33-com3-letb">
+							<num>b)</num>
+							<corpo>da numero cinque supplenti;</corpo>
+						</el>
+						<el id="art33-com3-letc">
+							<num>c)</num>
+							<corpo>da funzionario del Settore caccia della Provincia, con funzioni di segretario, designato dal Presidente dell'Amministrazione Provinciale.</corpo>
+						</el>
+						<coda>I componenti della Commissione restano in carica tre anni. I commissari effettivi eleggono tra di loro un Presidente. In caso di assenza del Presidente, ne assume le funzioni il commissario piu' anziano in eta'.</coda>
+					</comma>
+					<comma id="art33-com4">
+						<num>4.</num>
+						<corpo>L'abilitazione e' concessa se il giudizio e' favorevole per tutte e cinque le materie elencate al comma 3 e la commissione valuta la preparazione del candidato con un giudizio di idoneita' o di inidoneita'; in caso di idoneita' il Presidente della commissione rilascia il relativo attestato.</corpo>
+					</comma>
+					<comma id="art33-com5">
+						<num>5.</num>
+						<corpo>Coloro i quali siano stati giudicati inidonei, non possono sostenere la prova d'esame prima che siano trascorsi 3 mesi.</corpo>
+					</comma>
+					<comma id="art33-com6">
+						<num>6.</num>
+						<corpo>Gli esami sulle precisate materie si svolgono mediante una prova scritta a quiz ed una prova orale.</corpo>
+					</comma>
+					<comma id="art33-com7">
+						<num>7.</num>
+						<corpo>L'abilitazione venatoria e' necessaria sia per il rilascio della prima licenza di porto d'armi per uso di caccia che per il rinnovo della stessa in caso di revoca.</corpo>
+					</comma>
+					<comma id="art33-com8">
+						<num>8.</num>
+						<corpo>Nei dodici mesi successivi al rilascio della prima licenza, il cacciatore puo' praticare l'esercizio venatorio solo se accompagnato da cacciatore in possesso di licenza rilasciata da almeno tre anni, che non abbia commesso violazioni alle norme vigenti in materia comportanti la sospensione o la revoca della licenza.</corpo>
+					</comma>
+					<comma id="art33-com9">
+						<num>9.</num>
+						<corpo>Per essere ammesso a sostenere l'esame di abilitazione, il candidato deve presentare domanda in carta legale diretta al Presidente della Commissione presso la provincia di residenza, allegando il certificato medico di idoneita' fisica all'esercizio venatorio rilasciato in conformita' alle vigenti disposizioni di legge ed il certificato di residenza.</corpo>
+					</comma>
+					<comma id="art33-com10">
+						<num>10.</num>
+						<corpo>Le norme di cui al presente articolo si applicano anche per l'esercizio della caccia mediante l'uso dell'arco e del falco.</corpo>
+					</comma>
+					<comma id="art33-com11">
+						<num>11.</num>
+						<corpo>
+							Ai componenti della Commissione spettano le indennita e rimborsi di cui alla
+							<rif xlink:href="urn:nir:regione.molise:legge:1983-03-01;7" xlink:type="simple">legge regionale 1 marzo 1983 n. 7</rif>
+							. Allegato A. e successive modificazioni.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art34">
+					<num>Art. 34</num>
+					<rubrica>TASSE DI CONCESSIONE REGIONALE</rubrica>
+					<comma id="art34-com1">
+						<num>1.</num>
+						<corpo>
+							La Regione, per conseguire i mezzi finanziari necessari per realizzare i fini previsti dalla presente legge e della
+							<rif xlink:href="urn:nir:stato:legge:1992-02-11;157" xlink:type="simple">legge 11 febbraio 1992 n. 157</rif>
+							, istituisce ai sensi dell'
+							<rif xlink:href="urn:nir:stato:legge:1970-05-16;281#art3" xlink:type="simple">art. 3 della legge 16 maggio 1970 n. 281</rif>
+							, la tassa di concessione regionale per il rilascio dell'abilitazione all' esercizio venatorio nella misura pari al 50% della tassa erariale di cui al n. 26, sottonumero 1) della tariffa annessa al
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1972-10-26;641" xlink:type="simple">decreto del Presidente della Repubblica 26 ottobre 1972 n. 641</rif>
+							e successive modificazioni.
+						</corpo>
+					</comma>
+					<comma id="art34-com2">
+						<num>2.</num>
+						<corpo>
+							La tassa di cui al
+							<rif xlink:href="#art34-com1" xlink:type="simple">comma 1</rif>
+							e' soggetta al rinnovo annuale e non e' dovuto qualora durante l'anno il cacciatore non eserciti l'attivita' venatoria o l'eserciti esclusivamente all'estero.
+						</corpo>
+					</comma>
+					<comma id="art34-com3">
+						<num>3.</num>
+						<corpo>La tassa regionale deve essere rimborsata nel caso di diniego della licenza di porto di fucile per uso di caccia ed in caso di rinuncia all'assegnazione dell'ambito territoriale di caccia.</corpo>
+					</comma>
+					<comma id="art34-com4">
+						<num>4.</num>
+						<alinea>Sono inoltre soggetti a tasse annuali di concessione regionale:</alinea>
+						<el id="art34-com4-leta">
+							<num>a)</num>
+							<corpo>gli appostamenti fissi;</corpo>
+						</el>
+						<el id="art34-com4-letb">
+							<num>b)</num>
+							<corpo>i centri privati di produzione della selvaggina, allo stato naturale;</corpo>
+						</el>
+						<el id="art34-com4-letc">
+							<num>c)</num>
+							<corpo>le aziende faunistiche venatorie, in relazione alle quali, quando non sussistano fini di lucro e' ridotta ad 1/4;</corpo>
+						</el>
+						<el id="art34-com4-letd">
+							<num>d)</num>
+							<corpo>le aziende agri - turistico - venatorie.</corpo>
+						</el>
+					</comma>
+					<comma id="art34-com5">
+						<num>5.</num>
+						<corpo>
+							I proventi della tassa di cui al
+							<rif xlink:href="#art34-com1" xlink:type="simple">primo comma</rif>
+							sono utilizzati, per le finalita' di cui all'
+							<rif xlink:href="urn:nir:stato:legge:9;157#art23-com4" xlink:type="simple">art. 23 comma 4 della legge 157/9 2</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art35">
+					<num>Art. 35</num>
+					<rubrica>VIGILANZA VENATORIA</rubrica>
+					<comma id="art35-com1">
+						<num>1.</num>
+						<corpo>
+							La vigilanza sull'applicazione della presente legge e' affidata alle Province. Gli agenti di vigilanza delle Province, ferme restando le competenze tecniche per la conservazione e gestione della fauna selvatica, rivestono qualifica di agente di polizia giudiziaria e di pubblica sicurezza ai sensi delle disposizioni legislative vigenti. Essi possono portare durante il servizio e per i compiti di istituto le armi da caccia, nonche' le armi con proiettili a narcotico. Le armi di cui sopra sono portate e detenute in conformita' al regolamento di cui all'
+							<rif xlink:href="urn:nir:stato:legge:1986-03-07;65#art5-com5" xlink:type="simple">art. 5, comma 5 della legge 7 marzo 1986 n. 65</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art35-com2">
+						<num>2.</num>
+						<corpo>Gli agenti di vigilanza delle Province esercitano la loro attivita' nell'ambito territoriale dell'ente di appartenenza e nei luoghi nei quali sono comandati a prestare servizio; portano senza licenza le armi di cui sono dotati nei luoghi predetti ed in quelli attraversati per raggiungerli e per farvi ritorno.</corpo>
+					</comma>
+					<comma id="art35-com3">
+						<num>3.</num>
+						<corpo>
+							Gli agenti di vigilanza della Provincia possono redigere i verbali di contestazione delle violazioni e degli illeciti amministrativi previsti dalla presente legge e gli altri atti indicati dall'
+							<rif xlink:href="#art36" xlink:type="simple">art. 36</rif>
+							anche fuori dall'orario di servizio.
+						</corpo>
+					</comma>
+					<comma id="art35-com4">
+						<num>4.</num>
+						<corpo>
+							Concorrono alla vigilanza, le guardie volontarie delle associazioni venatorie, agricole e di protezione ambientale presenti nel comitato tecnico faunistico - venatorio nazionale, nonche' quelle delle associazioni di protezione ambientali, riconosciute dal Ministero dell'Ambiente, alle quali sia riconosciuta la qualifica di guardia giurata ai sensi del testo unico delle leggi di pubblica sicurezza, approvato con
+							<rif xlink:href="urn:nir:stato:regio.decreto:1931-06-18;773" xlink:type="simple">regio decreto 18 giugno 1931, n. 773</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art35-com5">
+						<num>5.</num>
+						<corpo>
+							La vigilanza di cui al
+							<rif xlink:href="#art35-com1" xlink:type="simple">comma 1</rif>
+							e', altresi', affidata agli ufficiali, sotto ufficiali e guardie del Corpo Forestale dello Stato, alle guardie addette a parchi naturali, nazionali e regionali, agli ufficiali ed agenti di polizia giudiziaria, alle guardie giurate comunali, forestali e campestri, alle guardie private riconosciute ai sensi del testo unico delle leggi di pubblica sicurezza e alle guardie ecologiche e zoofile riconosciute da legge regionale.
+						</corpo>
+					</comma>
+					<comma id="art35-com6">
+						<num>6.</num>
+						<corpo>
+							Il riconoscimento della qualifica di guardia venatoria volontaria di cui al
+							<rif xlink:href="#art35-com4" xlink:type="simple">comma 4</rif>
+							e' subordinato alla frequenza di corsi di preparazione organizzati dalle Province ed al conseguimento di un attestato di idoneita', previo esame dinanzi alla commissione di cui al
+							<rif xlink:href="#art33" xlink:type="simple">precedente art. 33</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art35-com7">
+						<num>7.</num>
+						<corpo>A tutti gli agenti di vigilanza e' vietata la caccia durante l'esercizio delle loro funzioni.</corpo>
+					</comma>
+					<comma id="art35-com8">
+						<num>8.</num>
+						<corpo>Agli agenti di cui ai commi 1, 4 e 5 con compiti dl vigilanza sull'esercizio venatorio e' vietata la caccia nell' ambito del territorio in cui esercitano le funzioni.</corpo>
+					</comma>
+					<comma id="art35-com9">
+						<num>9.</num>
+						<corpo>Le Province organizzano corsi di preparazione e di aggiornamento delle guardie per lo svolgimento delle funzioni di vigilanza sull'esercizio venatorio, sulla tutela dell'ambiente e della fauna selvatica e sulla salvaguardia delle produziuni agricole.</corpo>
+					</comma>
+					<comma id="art35-com10">
+						<num>10.</num>
+						<corpo>
+							A detti corsi possono partecipare, su richiesta delle rispettive organizzazioni di appartenenza, gli aspiranti &lt;&lt;guardie venatorie volontarie&gt;&gt; delle associazioni venatorie, agricole e di protezione ambientale riconosciute a livello nazionale. Ai cittadini in possesso della qualifica di guardia venatoria alla data di entrata in vigore della presente legge non e' richiesto l'attestato di cui al
+							<rif xlink:href="#art35-com6" xlink:type="simple">comma 6</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art35-com11">
+						<num>11.</num>
+						<corpo>Le Province coordinano l'attivita' di vigilanza delle guardie volontarie delle associazioni venatorie, agricole e di protezione ambientale.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art36">
+					<num>Art. 36</num>
+					<rubrica>POTERI E COMPITI DEGLI AGENTI DI VIGILANZA VENATORIA</rubrica>
+					<comma id="art36-com1">
+						<num>1.</num>
+						<corpo>
+							I soggetti preposti alla vigilanza venatoria, ai sensi dell'
+							<rif xlink:href="#art35" xlink:type="simple">art. 35</rif>
+							, possono chiedere a qualsiasi persona trovata in possesso di armi o arnesi atti alla caccia, in esercizio o attitudine di caccia la esibizione della licenza di porto di fucile per uso di caccia, del tesserino, del contrassegno della polizza di assicurazione nonche' della fauna selvatica abbattuta o catturata.
+						</corpo>
+					</comma>
+					<comma id="art36-com2">
+						<num>2.</num>
+						<corpo>
+							Nei casi previsti dall'
+							<rif xlink:href="urn:nir:stato:legge:1992;157#art30" xlink:type="simple">art. 30 della legge 157/92</rif>
+							, gli agenti che esercitano funzioni di polizia giudiziaria procedono al sequestro delle armi, della fauna selvatica e dei mezzi di caccia, con esclusione del cane e dei richiami vivi autorizzati. In caso di condanna per le ipotesi di cui al medesimo
+							<rif xlink:href="#art30-com1" xlink:type="simple">articolo 30, comma 1</rif>
+							, lettere a), b), d) ed e), le armi ed i suddetti mezzi sono in ogni caso confiscati.
+						</corpo>
+					</comma>
+					<comma id="art36-com3">
+						<num>3.</num>
+						<corpo>Quando e' sequestrata fauna selvatica, viva o morta, gli ufficiali o agenti la consegnano alla Provincia competente la quale, nel caso di fauna viva, provvede a liberarla in localita' adatta ovvero, qualora non risulti liberabile, a consegnarla ad un organismo in grado di provvedere alla sua riabilitazione e cura ed alla successiva reintroduzione nel suo ambientale naturale; in caso di fauna viva sequestrata in campagna, e che risulti liberabile, la liberazione e' effettuata sul posto dagli agenti accertatori. Nel caso di fauna morta, la Provincia provvede alla sua vendita tenendo la somma ricavata a disposizione della persona cui e' contestata l'infrazione ove si accerti successivamente che l'illecito non sussiste; nell'ipotesi di illecito riconosciuto, l'importo relativo deve essere versato su un conto corrente intestato alla Provincia per essere destinato a finalita' faunistiche - venatorie.</corpo>
+					</comma>
+					<comma id="art36-com4">
+						<num>4.</num>
+						<corpo>
+							Della consegna o della liberazione di cui al
+							<rif xlink:href="#art36-com3" xlink:type="simple">comma 3</rif>
+							, gli ufficiali o agenti danno atto in apposito verbale nel quale sono descritte le specie e le condizioni degli esemplari sequestrati, e quant'altro possa avere rilievo ai fini penali.
+						</corpo>
+					</comma>
+					<comma id="art36-com5">
+						<num>5.</num>
+						<corpo>Gli organi di vigilanza che non esercitano funzioni di polizia giudiziaria, i quali accertino, anche a seguito di denuncia, violazioni delle disposizioni sull'attivita' venatoria, redigono verbali, conformi alla legislazione vigente, nei quali devono essere specificate tutte le circostanze del fatto e le eventuali osservazioni del contravventore, e li trasmettono all'ente da cui dipendono ed alla Provincia competente ai sensi delle disposizioni vigenti.</corpo>
+					</comma>
+					<comma id="art36-com6">
+						<num>6.</num>
+						<corpo>
+							Gli agenti venatori dipendenti degli Enti locali che abbiano prestato servizio sostitutivo ai sensi della
+							<rif xlink:href="urn:nir:stato:legge:1972-12-15;772" xlink:type="simple">legge 15 dicembre 1972, n. 772</rif>
+							, e successive modifiche ed integrazioni, non sono ammessi all'esercizio di funzioni di pubblica sicurezza, fatto salvo il divieto di cui all'art. 9 della medesima legge.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art37">
+					<num>Art. 37</num>
+					<rubrica>SANZIONI PENALI</rubrica>
+					<comma id="art37-com1">
+						<num>1.</num>
+						<corpo>
+							Per le violazioni delle disposizioni contenute nella
+							<rif xlink:href="urn:nir:stato:legge:1992-02-11;157" xlink:type="simple">legge, 11 febbraio 1992 n. 157</rif>
+							e nella presente legge, si applicano integralmente le sanzioni penali previste nell'
+							<rif xlink:href="urn:nir:stato:legge:9;157#art30" xlink:type="simple">art. 30 della legge 157/9 2</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art38">
+					<num>Art. 38</num>
+					<rubrica>SANZIONI AMMINISTRATIVE</rubrica>
+					<comma id="art38-com1">
+						<num>1.</num>
+						<corpo>
+							Per le violazioni delle disposizioni contenute nella
+							<rif xlink:href="urn:nir:stato:legge:1992-02-11;157" xlink:type="simple">legge 11 febbraio 1992 n. 157</rif>
+							e nella presente legge, salvo che il fatto sia previsto come reato, si applicano integralmente le sanzioni amministrative previste nell'
+							<rif xlink:href="urn:nir:stato:legge:9;157#art31" xlink:type="simple">art. 31 della legge 157/9 2</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art38-com2">
+						<num>2.</num>
+						<alinea>Sono inoltre previste le seguenti sanzioni:</alinea>
+						<el id="art38-com2-leta">
+							<num>a)</num>
+							<corpo>L. 5.000 per ogni bossolo non raccolto di proprie cartucce usate;</corpo>
+						</el>
+						<el id="art38-com2-letb">
+							<num>b)</num>
+							<corpo>da L. 50.000 a L. 150.000 per ogni cane lasciato incustodito o in allenamento od addestramento in periodi o su territori non consentiti. Se la violazione viene nuovamente commessa la sanzione e' raddoppiata;</corpo>
+						</el>
+						<el id="art38-com2-letc">
+							<num>c)</num>
+							<corpo>da L. 300.000 a L. 1.200.000 per chi viola le disposizioni di cui all'art. 31, lettera g), della presente legge;</corpo>
+						</el>
+						<el id="art38-com2-letd">
+							<num>d)</num>
+							<corpo>
+								L. 50.000 per ogni tabella abusiva o poste in difformita' o in contrasto con le disposizioni della presente legge o della
+								<rif xlink:href="urn:nir:stato:legge:1992;157" xlink:type="simple">legge 157/92</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art38-com2-lete">
+							<num>e)</num>
+							<corpo>da L. 200.000 a L. 1.200.000 per la violazione di cui all'art. 33, ottavo comma, della presente legge.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art39">
+					<num>Art. 39</num>
+					<rubrica>SOSPENSIONE, REVOCA E DIVIETO DI RILASCIO DELLE LICENZE DI PORTO DI FUCILE PER USO CACClA CHIUSURA O SOSPENSIONE DELL'ESERCIZIO</rubrica>
+					<comma id="art39-com1">
+						<num>1.</num>
+						<alinea>
+							Oltre alle sanzioni penali previste nell'
+							<rif xlink:href="urn:nir:stato:legge:1992-02-11;157#art30" xlink:type="simple">art.30 della legge 11 febbraio 1992 n. 157</rif>
+							, nei confronti di chi riporta sentenza di condanna definitiva o decreto penale di condanna divenuto esecutivo per una delle violazioni di cui al
+							<rif xlink:href="#art39-com1" xlink:type="simple">comma 1</rif>
+							dello stesso articolo, l'Autorita' amministrativa dispone:
+						</alinea>
+						<el id="art39-com1-leta">
+							<num>a)</num>
+							<corpo>
+								la sospensione della licenza di porto di fucile per un periodo da uno a tre anni nei casi previsti dall'
+								<rif xlink:href="urn:nir:stato:legge:1992;157#art30" xlink:type="simple">art. 30 della legge 157/92</rif>
+								<rif xlink:href="#art39-com1" xlink:type="simple">comma 1</rif>
+								lettere a), b), d) ed i) nonche' di quelle delle lettere f), g) ed h) limitatamente all'ipotesi di recidiva di cui all'
+								<rif xlink:href="urn:nir:stato:codice.penale:1930-10-19;1398#art99-com2-num1" xlink:type="simple">art. 99, secondo comma n. 1 del Codice Penale</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art39-com1-letb">
+							<num>b)</num>
+							<corpo>
+								la revoca della licenza di porto di fucile per uso di caccia ed il divieto di rilascio per un periodo di dieci anni nei casi previsti dall'
+								<rif xlink:href="urn:nir:stato:legge:1992;157#art30" xlink:type="simple">art. 30 della legge 157/92</rif>
+								<rif xlink:href="#art39-com1" xlink:type="simple">comma 1</rif>
+								lettere c) ed e), nonche' per i fatti delle lettere d) ed i), limitatamente alle ipotesi di recidiva di cui all'
+								<rif xlink:href="urn:nir:stato:codice.penale:1930-10-19;1398#art99-com2-num1" xlink:type="simple">art. 99 secondo comma n. 1 del Codice Penale</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art39-com1-letc">
+							<num>c)</num>
+							<corpo>
+								l'esclusione definitiva della concessione della licenza di porto di fucile per uso di caccia, nei casi previsti dal predetto
+								<rif xlink:href="#art30-com1" xlink:type="simple">art. 30, comma 1</rif>
+								, lettere a), b), c), ed e), limitatamente alle ipotesi di recidiva di cui all'art. 99, secondo comma 1 n.1 del
+								<rif xlink:href="urn:nir:stato:codice.penale:1930-10-19;1398" xlink:type="simple">Codice Penale</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art39-com1-letd">
+							<num>d)</num>
+							<corpo>
+								la chiusura dell'esercizio o la sospensione del relativo provvedimento autorizzatorio per un periodo di un mese, nel caso previsto dal predetto all'art. 30 comma 1, lettera l), nell'ipotesi di recidiva di cui all'
+								<rif xlink:href="urn:nir:stato:codice.penale:1930-10-19;1398#art99-com2-num1" xlink:type="simple">art. 99, secondo comma, n. 1 del Codice Penale</rif>
+								, la chiusura o la sospensione e' disposta per un periodo da due a quattro mesi.
+							</corpo>
+						</el>
+					</comma>
+					<comma id="art39-com2">
+						<num>2.</num>
+						<corpo>
+							I provvedimenti indicati nel
+							<rif xlink:href="#art39-com1" xlink:type="simple">comma 1</rif>
+							, sono adottati dal questore della Provincia del luogo di residenza del contravventore, a seguito della comunicazione del competente ufficio giudiziario, quando e' effettuata oblazione ovvero quando diviene definitivo il provvedimento di condanna.
+						</corpo>
+					</comma>
+					<comma id="art39-com3">
+						<num>3.</num>
+						<corpo>
+							Se l'oblazione non e' ammessa, o non effettuata nei 30 giorni successivi all'accertamento, l'organo accertatore da' notizia delle contestazioni effettuate a norma dell'
+							<rif xlink:href="urn:nir:stato:legge:1992;157#art30" xlink:type="simple">art. 30 legge 157/92</rif>
+							<rif xlink:href="#art39-com1" xlink:type="simple">comma 1</rif>
+							, lettere a), b), c), d) ed i), al questore il quale puo' disporre la sospensione cautelare ed il ritiro temporaneo della licenza a norma delle leggi di pubblica sicurezza.
+						</corpo>
+					</comma>
+					<comma id="art39-com4">
+						<num>4.</num>
+						<corpo>
+							Oltre alle sanzioni amministrative, si applica il provvedimento di sospensione per un anno della licenza di porto di fucile per uso di caccia nei casi indicati dall'
+							<rif xlink:href="urn:nir:stato:legge:1992;157#art31" xlink:type="simple">art. 31 legge 157/92</rif>
+							<rif xlink:href="#art39-com1-leta" xlink:type="simple">comma 1, lettera a)</rif>
+							, nonche', laddove la violazione sia nuovamente commessa, nei casi indicati alle lettere b), d), f) e g), del medesimo comma. Se la violazione di cui alla citata lettera a) e' nuovamente commessa, la sospensione e' disposta per un periodo di tre anni.
+						</corpo>
+					</comma>
+					<comma id="art39-com5">
+						<num>5.</num>
+						<corpo>
+							Il provvedimento di sospensione della licenza di porto di fucile per uso di caccia di cui al
+							<rif xlink:href="#art39-com4" xlink:type="simple">comma 4</rif>
+							e' adottato dal questore della Provincia del luogo di residenza di chi ha commesso l'infrazione, previa comunicazione, da parte della Provincia competente, che e' stato effettuato il pagamento in misura ridotta della sanzione pecuniaria o che non e' stata proposta opposizione avverso l'ordinanza, ingiunzione ovvero che e' stato definito il relativo giudizio.
+						</corpo>
+					</comma>
+					<comma id="art39-com6">
+						<num>6.</num>
+						<corpo>
+							L' organo accertatore da' notizia delle contestazioni effettuate a norma del
+							<rif xlink:href="#art39-com4" xlink:type="simple">comma 4</rif>
+							al questore, il quale puo' valutare il fatto ai fini della sospensione e del ritiro temporaneo della licenza a norma delle leggi di pubblica sicurezza.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art40">
+					<num>Art. 40</num>
+					<rubrica>RAPPORTI SULL'ATTIVITA' DI VIGILANZA</rubrica>
+					<comma id="art40-com1">
+						<num>1.</num>
+						<corpo>
+							Nell'esercizio delle funzicni amministrative di cui all'
+							<rif xlink:href="#art3" xlink:type="simple">art. 3</rif>
+							, la Giunta Regionale entro il mese di maggio di ciascun anno trasmette al Ministro dell'Agricoltura e delle Foreste un rapporto informativo nel quale, sulla base di dettagliate relazioni fornite dalle Provincie, e riportato lo stato dei servizi preposti alla vigilanza, il numero degli accertamenti effettuati in relazione alle singole fattispecie di illecito e un prospetto riepilogativo delle sanzioni amministrative e delle misure accessorie applicate. A tale fine il questore di ciascun Provincia comunica alla Giunta Regionale, entro il mese di aprile di ciascun anno, i dati numerici inerenti alle misure accessorie applicate nell'anno precedente.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art41">
+					<num>Art. 41</num>
+					<rubrica>UTILIZZAZIONE DEI PROVENTI REGIONALI</rubrica>
+					<comma id="art41-com1">
+						<num>1.</num>
+						<corpo>A decorrere dall'anno finanziario successivo a quello dell'entrata in vigore della presente legge, le entrate derivanti dal gettito delle tasse sulle concessioni regionali per l'esercizio venatorio, per appostamenti fissi, per aziende faunistico - venatorie, per aziende agrituristiche - venatorie, per centri privati di produzione di selvaggina e le somme riscosse quale provento delle sanzioni amministrative, sono utilizzate dalla Regione per realizzare i fini della presente legge.</corpo>
+					</comma>
+					<comma id="art41-com2">
+						<num>2.</num>
+						<alinea>La Regione determina annualmente, con legge di approvazione del bilancio ed in misura non inferiore ai proventi delle tasse di concessione regionale e delle sanzioni amministrative previste nel comma precedente le risorse complessivamente destinate agli interventi seguenti:</alinea>
+						<el id="art41-com2-leta">
+							<num>a)</num>
+							<corpo>nella misura del 70% a favore delle Province per la realizzazione del Piano faunistico-venatorio, ripopolamento di selvaggina e miglioramento ambientale, di cui gli articoli 10 e 11;</corpo>
+						</el>
+						<el id="art41-com2-letb">
+							<num>b)</num>
+							<corpo>nella misura del 5% a favore delle Province per il finanziamento dei fondi;</corpo>
+						</el>
+						<el id="art41-com2-letc">
+							<num>c)</num>
+							<corpo>nella misura del 10% a favore delle Province per i contributi ai proprietari o conduttori per l'utilizzo dei terreni agricoli inclusi nel piano faunistico-venatorio;</corpo>
+						</el>
+						<el id="art41-com2-letd">
+							<num>d)</num>
+							<corpo>nella misura del 5% a favore delle Province per l'esercizio delle funzioni delegate;</corpo>
+						</el>
+						<el id="art41-com2-lete">
+							<num>e)</num>
+							<corpo>nella misura del 2% a favore delle Province per corsi di preparazione e di aggiornamento per agenti di vigilanza sulla caccia, guardie giurate volontarie ed aspiranti guardie volontarie;</corpo>
+						</el>
+						<el id="art41-com2-letf">
+							<num>f)</num>
+							<corpo>nella misura massima dell'8% a favore delle Province per la gestione delle zone di ripopolamento e cattura.</corpo>
+						</el>
+					</comma>
+					<comma id="art41-com3">
+						<num>3.</num>
+						<corpo>Le Amministrazioni Provinciali presentano annualmente entro il 30 giugno, insieme alle proposte programmatiche, la relazione sull'attivita' svolta e sulla utilizzazione fatta delle assegnazioni ricevute nell'anno precedente con l'indicazione dei relativi provvedimenti di bilancio nonche' il rendiconto delle spese effettuate nell' anno precedente nell'esercizio delle funzioni ad esse delegate in materia faunistico - venatoria.</corpo>
+					</comma>
+					<comma id="art41-com4">
+						<num>4.</num>
+						<corpo>
+							Le Amministrazioni Provinciali utilizzano le assegnazioni disposte dal presente articolo, nonche' le entrate di cui al
+							<rif xlink:href="#art20" xlink:type="simple">precedente art. 20</rif>
+							con l'osservanza delle destinazioni programmate.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art42">
+					<num>Art. 42</num>
+					<rubrica>NORMA FINANZIARIA</rubrica>
+					<comma id="art42-com1">
+						<num>1.</num>
+						<alinea>Nello stato di previsione dell'entrata del bilancio regionale vengono istituiti due appositi capitoli con le seguenti denominazioni:</alinea>
+						<el id="art42-com1-leta">
+							<num>a)</num>
+							<corpo>&lt;&lt;Proventi delle tasse di concessione regionale per l'esercizio venatorio&gt;&gt;;</corpo>
+						</el>
+						<el id="art42-com1-letb">
+							<num>b)</num>
+							<corpo>&lt;&lt; Proventi delle tasse di concessione regionale per aziende faunistico - venatorie, per aziende agri - turistico - venatorie e per centri privati di produzione della fauna selvatica allo stato naturale ed appostamenti fissi;</corpo>
+						</el>
+						<el id="art42-com1-letc">
+							<num>c)</num>
+							<corpo>&lt;&lt;Proventi delle sanzioni amministrative per violazioni in materia di caccia e di concessioni&gt;&gt;.</corpo>
+						</el>
+					</comma>
+					<comma id="art42-com2">
+						<num>2.</num>
+						<alinea>Per ciascun anno finanziario successivo a quello di entrata in vigore della presente legge, con la legge di approvazione del bilancio vengono iscritti stanziamenti nei seguenti capitoli di previsione della spesa:</alinea>
+						<el id="art42-com2-leta">
+							<num>a)</num>
+							<corpo>&lt;&lt; Spese per la stampa del Calendario e regolamento venatorio e dei tesserini per la caccia programmata &gt;&gt; articoli 16 e 28;</corpo>
+						</el>
+						<el id="art42-com2-letb">
+							<num>b)</num>
+							<corpo>&lt;&lt; Spese per la realizzazione del piano faunistico - venatorio, per ripopolamento di selvaggina e miglioramento ambientale &gt;&gt; articoli 11 e 12;</corpo>
+						</el>
+						<el id="art42-com2-letc">
+							<num>c)</num>
+							<corpo>
+								&lt;&lt;Spese per il fondo risarcimento danni alle produzioni agricole prodotti dalla fauna selvatica e dall'attivita' venatoria
+								<rif xlink:href="#art32" xlink:type="simple">articolo 32</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art42-com2-letd">
+							<num>d)</num>
+							<corpo>
+								&lt;&lt;Spese per contributi ai proprietari o conduttori per l'utilizzo di terreni agricoli &gt;&gt; -
+								<rif xlink:href="#art25" xlink:type="simple">art. 25</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art42-com2-lete">
+							<num>e)</num>
+							<corpo>
+								&lt;&lt;Spese per funzioni amministrazione delegate&gt;&gt;
+								<rif xlink:href="#art3" xlink:type="simple">art. 3</rif>
+								;
+							</corpo>
+						</el>
+						<el id="art42-com2-letf">
+							<num>f)</num>
+							<corpo>
+								&lt;&lt;Spese per i corsi di preparazione e aggiornamento per agenti di vigilanza sulla caccia, guardie giurate volontarie &gt;&gt; -
+								<rif xlink:href="#art35" xlink:type="simple">art. 35</rif>
+								.
+							</corpo>
+						</el>
+					</comma>
+					<comma id="art42-com3">
+						<num>3.</num>
+						<corpo>I singoli stanziamenti annuali dei capitoli vengono stabiliti, nel rispetto delle norme di cui alla presente legge, con legge di approvazione del bilancio regionale.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art43">
+					<num>Art. 43</num>
+					<rubrica>DISPOSIZIONI FINALI</rubrica>
+					<comma id="art43-com1">
+						<num>1.</num>
+						<corpo>Il Consiglio Regionale approva i regolamenti attuativi della presente legge.</corpo>
+					</comma>
+					<comma id="art43-com2">
+						<num>2.</num>
+						<corpo>
+							Al termine dell'annata venatoria 1994/95 la Giunta Regionale trasmette al Ministero dell'Agricoltura e Foreste ed al Ministero dell'Ambiente una relazione sull'attuazione della
+							<rif xlink:href="urn:nir:stato:legge:1992-02-11;157" xlink:type="simple">legge 11 febbraio 1992 n. 157</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art43-com3">
+						<num>3.</num>
+						<corpo>
+							Per tutto quanto non previsto dalla seguente legge, si applicano le norme contenute nella
+							<rif xlink:href="urn:nir:stato:legge:1992-02-11;157" xlink:type="simple">legge 11 febbraio 1992 n. 157</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art43-com4">
+						<num>4.</num>
+						<corpo>
+							<mmod id="mmo1">
+								<mod id="mod1">
+									Sono abrogate le leggi regionali
+									<rif xlink:href="urn:nir:regione.molise:legge:1979;20" xlink:type="simple">27 luglio 1979 n. 20</rif>
+								</mod>
+								<mod id="mod2">
+									e
+									<rif xlink:href="urn:nir:regione.molise:legge:1988;14" xlink:type="simple">6 giugno 1988 n. 14</rif>
+									.
+								</mod>
+							</mmod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art44">
+					<num>Art. 44</num>
+					<rubrica>NORME TRANSITORIE</rubrica>
+					<comma id="art44-com1">
+						<num>1.</num>
+						<corpo>Nelle more di applicazione della presente legge, l'attuale ordinamento, resta in vigore per la stagione venatoria 1993, previo decreto del Presidente della Giunta Regionale.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art45">
+					<num>Art. 45</num>
+					<rubrica>DICHIARAZIONE D'URGENZA</rubrica>
+					<comma id="art45-com1">
+						<num>1.</num>
+						<corpo>
+							La presente legge e' dichiarata urgente ai sensi dell'
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art127" xlink:type="simple">art. 127 della Costituzione</rif>
+							e dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art38" xlink:type="simple">art.38 dello Statuto Regionale</rif>
+							ed entra in vigore il giorno successivo a quello della sua pubblicazione sul Bollettino Ufficiale della Regione.
+						</corpo>
+					</comma>
+					<comma id="art45-com2">
+						<num>2.</num>
+						<corpo>E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>
