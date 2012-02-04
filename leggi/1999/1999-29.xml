@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19990916" num="17" tipo="BURM"/>
-                <entratainvigore norm="19991001"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1999-09-02;29"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20000331" fonte="rp1" id="t1" tipo="modifica"/><evento data="20030515" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2000;12" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2003;15" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19990916" num="17" tipo="BURM" />
+					<entratainvigore norm="19991001" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1999-09-02;29" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19991001" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20000331" fonte="rp1" id="t2" tipo="modifica" />
+						<evento data="20030515" fonte="rp2" id="t3" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-09-02;29" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2000;12" xlink:type="simple" />
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2003;15" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
  
 Bollettino 
 Bollettino Ufficiale n. 17 del 16/09/1999 
@@ -27,33 +40,32 @@ Modifiche
 Modificato art. 1 dalla legge n. 12/2000 art. 1 
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc
-                    norm="19990902">2 settembre 1999</dataDoc>,  n. <numDoc>29</numDoc>. 
- 
-<titoloDoc>Provvedimenti per la salvaguardia, lo sviluppo, la tutela e la valorizzazione dei territori montani. 
- 
-Il Commissario di Governo ha apposto il visto ed ha annotato quanto segue: 
- 
-"Il Governo ha perè osservato che, in relazione all'<rif xlink:href="#art33">art. 33</rif>, la Regione avrebbe dovuto più opportunamente indicare il numero del capitolo cui imputare la quota parte dell'onere relativo alla quota regionale del finanziamento a favore della montagna". 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 15/2003 art. 30</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="19990902">2 settembre 1999</dataDoc>
+				, n.
+				<numDoc>29</numDoc>
+				.
+				<titoloDoc>Provvedimenti per la salvaguardia, lo sviluppo, la tutela e la valorizzazione dei territori montani.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>
+							abrogata intera legge dalla
+							<rif xlink:href="urn:nir:regione.molise:legge:2003;15#art30" xlink:type="simple">legge n. 15/2003 art. 30</rif>
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+			<?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
 
 ?>
-    </LeggeRegionale>
-</NIR>
+		</LeggeRegionale>
+	</NIR>

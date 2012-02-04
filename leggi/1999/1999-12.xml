@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19990416" num="7" tipo="BURM"/>
-                <entratainvigore norm="19990501"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1999-04-12;12"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
-                </materie>
-            </descrittori>
-        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19990416" num="7" tipo="BURM" />
+					<entratainvigore norm="19990417" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1999-04-12;12" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19990417" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-04-12;12" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
 Bollettino Ufficiale n. 07 del 16/04/1999 
@@ -27,1313 +36,836 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc norm="19990412">12 aprile 1999</dataDoc>n.<numDoc>12</numDoc>
-            <titoloDoc>Disciplina del trattamento di missione del personale regionale 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1  </num>
-                <rubrica>
- 
-OGGETTO  
- </rubrica>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-                    <corpo> La presente legge, in attuazione dell'<rif xlink:href="urn:nir:stato:legge:1978-07-26;417#art20">articolo 20 della legge 26 luglio 1978 n. 417</rif>, disciplina il trattamento di missione e di trasferimento spettante al personale di ruolo e non di ruolo della Regione Molise.  </corpo>
-                </comma>
-                <comma id="art1-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Le norme della presente legge si applicano anche nei confronti del personale degli Enti Pubblici non economici dipendenti dalla Regione Molise, compresi gli Istituti Autonomi per le Case Popolari. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2  </num>
-                <rubrica>
- 
-MISSIONE  
- </rubrica>
-                <comma id="art2-com1">
-                    <num>
-1.</num>
-                    <corpo> Viene considerato in missione il dipendente che svolge attività lavorativa in via temporanea fuori dall' ordinaria sede di servizio, in località distanti non meno di dieci chilometri da quest'ultima.  </corpo>
-                </comma>
-                <comma id="art2-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Per sede di servizio, si intende il Comune in cui ha sede l'ufficio dove di fatto il dipendente presta servizio.  </corpo>
-                </comma>
-                <comma id="art2-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Si tiene conto, per quanto attiene alla distanza chilometrica, della ubicazione della casa municipale del Comune sede di servizio.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art. 3  </num>
-                <rubrica>
- 
-AUTORIZZAZIONI  
- </rubrica>
-                <comma id="art3-com1">
-                    <num>
-1.</num>
-
-                    <corpo> Le missioni del personale non dirigenziale sono preventivamente disposte dal dirigente immediatamente sovraordinato; quelle del personale dirigenziale sono preventivamente disposte dal Presidente della Giunta regionale, dal Presidente del Consiglio regionale e dell'Assessore secondo le rispettive competenze.  
- 
-La competenza dei predetti amministratori passerè ai direttori generali ed equiparati non appena sarè operante l'atto di riorganizzazione dell'Amministrazione regionale secondo i principi stabiliti dal <rif
-                            xlink:href="urn:nir:stato:decreto.legislativo:1993-02-23;29">decreto legislativo 23 febbraio 1993 n. 29</rif> come recepito dalla <rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7">legge regionale 8 aprile 1997, n. 7</rif>.  </corpo>
-                </comma>
-                <comma id="art3-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Le missioni da compiersi all'estero sono preventivamente autorizzate dal Presidente della Giunta o dal Presidente del Consiglio regionale per la rispettiva competenza, previa intesa, in quanto necessaria, con le autorità governative.  </corpo>
-                </comma>
-                <comma id="art3-com3">
-                    <num>
- 
-3.</num>
-                    <alinea> Con apposita tabella, sottoscritta dal dipendente recatosi in missione e convalidata dal dirigente immediatamente sovraordinato, sono dichiarati:  
- 
-</alinea>
-                    <el id="art3-com3-leta">
-                        <num>a)</num>
-                        <corpo> le località, l'inizio e il termine e le motivazioni della missione;</corpo>
-                    </el>
-                    <el id="art3-com3-letb">
-                        <num>  
- 
-b)</num>
-                        <corpo> i mezzi di trasporto utilizzati, i pasti consumati, i pernottamenti in albergo e ogni altra fornitura o servizio ammissibile a rimborso a norma della presente legge.  </corpo>
-                    </el>
-                </comma>
-                <comma id="art3-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Per il personale di altre Amministrazioni che presta servizio in posizione di comando, distacco o di utilizzazione a qualunque titolo presso la Regione Molise, la missione è autorizzata, del è pari, secondo le modalità di cui ai precedenti commi.  </corpo>
-                </comma>
-                <comma id="art3-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> Per il personale regionale che presti servizio presso altre amministrazioni ed Enti dipendenti dalla Regione Molise, le autorizzazioni sono rilasciate secondo la normativa prevista dai rispettivi ordinamenti.  </corpo>
-                </comma>
-                <comma id="art3-com6">
-                    <num>
- 
-6.</num>
-                    <alinea> Per recarsi in missione, il personale regionale può servirsi, con le modalità previste dalla presente legge:  
- 
-</alinea>
-                    <el id="art3-com6-leta">
-                        <num>a)</num>
-                        <corpo> di mezzi ferroviari ordinari, speciali ed anche a prenotazione obbligatoria;</corpo>
-                    </el>
-                    <el id="art3-com6-letb">
-                        <num>  
- 
-b)</num>
-                        <corpo> di altri mezzi di linea di trasporto su gomma;</corpo>
-                    </el>
-                    <el id="art3-com6-letc">
-                        <num>  
- 
-c)</num>
-                        <corpo> di mezzi di trasporto marittimo;</corpo>
-                    </el>
-                    <el id="art3-com6-letd">
-                        <num>  
- 
-d)</num>
-                        <corpo> di mezzi aerei;</corpo>
-                    </el>
-                    <el id="art3-com6-lete">
-                        <num>  
- 
-e)</num>
-                        <corpo> di auto in dotazione della Regione;  
- 
-i) di auto propria;  
- 
-g) di mezzo noleggiato;  
- 
-h) di mezzo gratuito.  
- 
-</corpo><?error Marker Warning 102 (last lettera:5 next:9)?>
-                    </el>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>Art. 4  </num>
-                <rubrica>
- 
-TRATTAMENTO ECONOMICO DI MISSIONE  
- </rubrica>
-                <comma id="art4-com1">
-                    <num>
-1.</num>
-                    <alinea> Il trattamento economico di missione comprende: 
- 
-</alinea>
-                    <el id="art4-com1-leta">
-                        <num>a)</num>
-                        <corpo> l'indennità di trasferta;</corpo>
-                    </el>
-                    <el id="art4-com1-letb">
-                        <num>  
- 
-b)</num>
-                        <corpo> l'indennità supplementare;</corpo>
-                    </el>
-                    <el id="art4-com1-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> il rimborso spese.  </corpo>
-                    </el>
-                </comma>
-                <comma id="art4-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Al personale spetta l'indennità di trasferta relativa alla qualifica rivestita al momento in cui la missione stessa è effettuata.  
- 
-Eventuali variazioni di qualifica, disposte con efficacia retroattiva, non sono rilevanti ai fini indicati dal presente comma.  </corpo>
-                </comma>
-                <comma id="art4-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Il personale inviato in missione al seguito e per collaborare con il personale appartenente a qualifica più elevata o facente parte di delegazione ufficiale della Regione, fruisce dei rimborsi e delle agevolazioni previste per il personale di grado più elevato, ferma restando la misura dell'indennità di trasferta spettante in base alla qualifica posseduta. La sussistenza delle condizioni per usufruire di tali agevolazioni deve risultare espressamente indicata nella preventiva autorizzazione alla missione.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art5">
-                <num>Art. 5  </num>
-                <rubrica>
- 
-indennità DI TRASFERTA  
- </rubrica>
-                <comma id="art5-com1">
-                    <num>
-1.</num>
-                    <corpo> Per ogni ventiquattro ore di assenza dalla sede di servizio per missione, ivi compreso il tempo occorrente per il viaggio, il personale regionale ha diritto all'indennità di trasferta (diaria) alle condizioni e modalità stabilite dal presente articolo. </corpo>
-                </comma>
-                <comma id="art5-com2">
-                    <num>
- 
-2.</num>
-
-                    <corpo> In caso di missioni di durata superiore alle ventiquattro ore, per le ore residuali, al personale regionale compete un'indennità di trasferta pari ad un ventiquattresimo della diaria di cui al <rif xlink:href="#art5-com1">precedente comma 1</rif>.  </corpo>
-                </comma>
-                <comma id="art5-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Per le missioni di durata inferiore alle ventiquattro ore, l'indennità di trasferta spetta in misura pari ad un ventiquattresimo della diaria intera per ogni ora di missione.  </corpo>
-                </comma>
-                <comma id="art5-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> In caso di missione di durata pari o superiore ad otto ore, l'indennità di trasferta viene ridotta del settanta per cento. Ai fini del computo delle otto ore, si sommano i periodi di effettiva durata della missione ivi compreso il tempo occorrente per il viaggio, interessanti la stessa giornata, anche se effettuati in località diverse.  </corpo>
-                </comma>
-                <comma id="art5-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> Ai fini dell'applicazione dei commi 1, 2, 3 e 4 le frazioni di ora non inferiore a trenta minuti sono arrotondate ad ora intera, le altre frazioni sono trascurate.  </corpo>
-                </comma>
-                <comma id="art5-com6">
-                    <num>
- 
-6.</num>
-                    <alinea> Le misure dell'indennità di trasferta (diaria) sono stabilite come segue:  
- 
-</alinea>
-                    <el id="art5-com6-leta">
-                        <num>a)</num>
-                        <corpo> personale appartenente alla qualifica dirigenziale, qualifica funzionale ottava, settima e sesta, lire 39.600;</corpo>
-                    </el>
-                    <el id="art5-com6-letb">
-                        <num>  
- 
-b)</num>
-                        <corpo> rimanente personale, lire 28.800.  </corpo>
-                    </el>
-                </comma>
-                <comma id="art5-com7">
-                    <num>
- 
-7.</num>
-
-                    <corpo> Le misure dell'indennità di trasferta sono automaticamente rideterminate, dal primo gennaio di ogni anno, in relazione alle disposizioni del Decreto del Ministero del Tesoro, previsto dall'<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-01-16;513#art1-com3">articolo 1, comma terzo, del D.P.R. 16 gennaio 1978, n. 513</rif>.  </corpo>
-                </comma>
-                <comma id="art5-com8">
-                    <num>
- 
-8.</num>
-                    <corpo> Sulle indennità di trasferta e su quelle risultanti dai successivi adeguamenti va operato l'arrotondamento per eccesso a lire 100.  </corpo>
-                </comma>
-                <comma id="art5-com9">
-                    <num>
- 
-9.</num>
-                    <alinea> L'indennità non è dovuta per le missioni compiute:  
- 
-</alinea>
-                    <el id="art5-com9-leta">
-                        <num>a)</num>
-                        <corpo> per periodi di tempo inferiore alle quattro ore, per il cui computo si sommano i periodi di effettiva durata, interessante la stessa giornata, ivi compreso il tempo occorrente per il viaggio, anche se effettuato in località diverse;</corpo>
-                    </el>
-                    <el id="art5-com9-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> nelle località di abituale dimora, anche se distanti più di dieci chilometri dalla sede dove di fatto il dipendente presta servizio;</corpo>
-                    </el>
-                    <el id="art5-com9-letc">
-                        <num>  
- 
-c)</num>
-                        <corpo> nell'ambito della circoscrizione o della zona in cui il servizio è reso normalmente come compito di istituto da parte del personale di vigilanza o di custodia;</corpo>
-                    </el>
-                    <el id="art5-com9-letd">
-                        <num>  
- 
-d)</num>
-                        <corpo> nelle località distanti meno di dieci chilometri dalla sede dove di fatto il dipendente presta servizio.  </corpo>
-                    </el>
-                </comma>
-                <comma id="art5-com10">
-                    <num>
- 
-10.</num>
-                    <corpo> L'indennità di trasferta è ridotta del trenta per cento oltre la quindicesima, quando il personale regionale è inviato in missione per più di quindici volte in un mese.  </corpo>
-                </comma>
-                <comma id="art5-com11">
-                    <num>
- 
-11.</num>
-
-                    <corpo> Per il personale esposto al rischio di grave disagio per ispezioni o collaudi presso cave ovvero in luoghi giudicati motivatamente pericolosi, l'indennità di missione, limitatamente alle giornate di trasferta nel corso delle quali si effettuano i sopralluoghi suddetti, è maggiorata del sessanta per cento, a norma della <rif xlink:href="urn:nir:stato:legge:1967-07-13;565">legge 13 luglio 1967 n. 565</rif>. La maggiorazione è attribuita previa motivata attestazione di chi ha disposto la missione circa la sussistenza delle particolari condizioni di rischio e grave disagio.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art6">
-                <num>Art. 6  </num>
-                <rubrica>
- 
-indennità DI TRASFERTA PER MISSIONI ALL'ESTERO 
- </rubrica>
-                <comma id="art6-com1">
-                    <num>
-1.</num>
-                    <corpo> Per le missioni da effettuare fuori dal territorio nazionale, al personale spetta l'indennità di trasferta giornaliera stabilita, paese per paese, direttamente in valuta locale od in altra valuta, secondo quanto stabuito con decreto del Ministero del Tesoro per il personale statale.  </corpo>
-                </comma>
-                <comma id="art6-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Le qualifiche funzionali del personale regionale sono equiparate, ai fini del trattamento economico di missione all'estero, ai gruppi di qualifiche del personale civile dello stato secondo lo schema di cui all'allegata tabella A .  </corpo>
-                </comma>
-                <comma id="art6-com3">
-                    <num>
- 
-3.</num>
-
-                    <corpo> Ai fini della determinazione dell'indennità di trasferta per missioni fuori dal territorio nazionale, si tiene conto dei criteri di cui all'<rif xlink:href="#art5">articolo 5</rif> in quanto compatibile.  </corpo>
-                </comma>
-                <comma id="art6-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Al dipendente inviato in missione all'estero è data facoltà di scegliere il rimborso della spesa di albergo per il solo pernottamento, previa presentazione di regolare fattura della direzione alberghiera o dell'agenzia di viaggio fornitrice del servizio, ed il pagamento dell'indennità di trasferta. Qualora il dipendente opti per la prima soluzione, l'indennità di trasferta è ridotta di un terzo. </corpo>
-                </comma>
-                <comma id="art6-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> Se il dipendente fruisce gratuitamente del pernottamento, l'indennità di trasferta è ridotta di un terzo. Nel caso di fruizione gratuita del vitto l'indennità viene ridotta della metà. Nel caso di fruizione gratuita del vitto e del pernottamento, l'indennità viene ridotta di due terzi. </corpo>
-                </comma>
-                <comma id="art6-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> Se il dipendente fa parte di delegazione della Regione in missione all'estero con l'onere di soggiorno (vitto e alloggio) a carico della Regione o di enti ed organismi, l'indennità di trasferta viene ridotta di due terzi. Tale condizione risulta dal provvedimento di autorizzazione .  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art7">
-                <num>Art. 7  </num>
-                <rubrica>
- 
-RIMBORSO SPESE  
- </rubrica>
-                <comma id="art7-com1">
-                    <num>
-1.</num>
-                    <corpo> Al personale inviato in missione compete il rimborso delle spese effettivamente sostenute per il viaggio, il vitto e l'alloggio secondo le disposizioni degli articoli 8,1l0 e 11. </corpo>
-                </comma>
-                <comma id="art7-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Allo stesso personale compete, altresì il rimborso delle spese effettivamente sostenute e debitamente documentate per l'uso del telefono, fax e telegrafo solo se l'uso stesso risulta effettuato per ragioni di ufficio, specificatamente dichiarate dal dipendente e convalidate dal dirigente che vista la tabella. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art8">
-                <num>Art. 8  </num>
-                <rubrica>
- 
-RIMBORSO DELLE SPESE DI VIAGGIO  
- </rubrica>
-                <comma id="art8-com1">
-                    <num>
-1.</num>
-                    <alinea> Al personale, inviato in missione, spetta il rimborso delle spese di viaggio compiute per missioni effettuate a mezzo ferrovia o con altri mezzi di linee di trasporto su gomma, nonché con mezzi di trasporto marittimo, nel limite del costo del biglietto di viaggio ed eventuali supplementi e prenotazioni, come segue:  
- 
-</alinea>
-                    <el id="art8-com1-leta">
-                        <num>a)</num>
-                        <corpo> prima classe per il personale dirigente, per l'ottava e settima qualifica; 
- 
-b ) seconda classe per il rimanente personale.  </corpo>
-                    </el>
-                </comma>
-                <comma id="art8-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Al personale dirigente compete, altresì il rimborso delle spese sostenute per l'uso del posto letto in compartimento singolo. Al personale appartenente all'ottava e settima qualifica funzionale spetta il rimborso delle spese sostenute per l'uso del posto letto in compartimento doppio. Al Personale appartenente alle rimanenti qua1ifiche funzionali spetta il rimborso delle spese per l'uso della cuccetta.  </corpo>
-                </comma>
-                <comma id="art8-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> In caso di missione continuativa nella medesima località per un periodo pari o superiore a 30 giorni, è consentito solo il rimborso del prezzo dell'abbonamento ferroviario o di altri servizi di linea, se più vantaggioso rispetto agli ordinari biglietti di viaggio.  </corpo>
-                </comma>
-                <comma id="art8-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Per il viaggio compiuto su mezzi aerei spetta il rimborso delle spese sostenute nel limite del costo del biglietto di viaggio autorizzato. </corpo>
-                </comma>
-                <comma id="art8-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> In caso di missione effettuata con l'uso di mezzi aerei, è dovuto il rimborso delle spese dell'assicurazione sulla vita per l'uso dei mezzi stessi, nel limite di un massimale ragguagliato allo stipendio annuo lordo, comprensivo dell'indennità integrativa speciale, dell' eventuale indennità di posizione e di ogni altra voce stipendiale pensionabile moltiplicato per il coefficiente dieci, nei soli casi di rischio di morte o di invalidità permanente.  </corpo>
-                </comma>
-                <comma id="art8-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> Al personale munito di patente di guida può essere consentito, quando ci risulta opportuno ed economicamente conveniente per l'Amministrazione regionale, l'uso dell'automezzo in dotazione della Regione, fermo restando il rimborso delle spese sostenute per l'uso del predetto automezzo, unitamente alle spese effettivamente sostenute per pedaggio autostradale e per il ricovero dell'autovettura presso parcheggi ed autorimesse.  </corpo>
-                </comma>
-                <comma id="art8-com7">
-                    <num>
- 
-7.</num>
-                    <corpo> Sono rimborsabili le spese sostenute per l'utilizzo di mezzi di trasporto di linee urbani ed extraurbani strettamente necessari per raggiungere il luogo di missione.  </corpo>
-                </comma>
-                <comma id="art8-com8">
-                    <num>
- 
-8.</num>
-                    <corpo> Sono rimborsabili inoltre le spese sostenute per l'uso dell'automezzo noleggiato, qualora particolari circostanze di necessità hanno determinato l'uso di detto mezzo. Detto uso deve essere espressamente autorizzato in via preventiva, ovvero, in casi di urgenza, convalidato da chi ha disposto la missione.  </corpo>
-                </comma>
-                <comma id="art8-com9">
-                    <num>
- 
-9.</num>
-                    <corpo> Se il personale è autorizzato a trasportare al seguito materiale o attrezzature dell'Amministrazione sono rimborsabili le relative spese.  </corpo>
-                </comma>
-                <comma id="art8-com10">
-                    <num>
- 
-10.</num>
-                    <corpo> Tutte le spese rimborsabili ai sensi del presente articolo devono essere documentate da parte del personale inviato in missione.  </corpo>
-                </comma>
-                <comma id="art8-com11">
-                    <num>
- 
-11.</num>
-                    <corpo> I rimborsi previsti dal presente articolo, competono anche se il personale non acquista titolo all'indennità trasferta.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art9">
-                <num>Art. 9  </num>
-                <rubrica>
- 
-indennità SUPPLEMENTARE  
- </rubrica>
-                <comma id="art9-com1">
-                    <num>
-1.</num>
-
-                    <alinea> Al personale inviato in missione spetta, in aggiunta al rimborso delle spese di viaggio di cui all'<rif xlink:href="#art8">articolo 8</rif>, l'indennità supplementare, nella misura stabilita come segue:  
- 
-</alinea>
-                    <el id="art9-com1-leta">
-                        <num>a)</num>
-                        <alinea> per i viaggi compiuti con mezzi di linea ferroviaria, di trasporto su gomma o con mezzi di trasporto marittimo:  
- 
-</alinea>
-                        <en id="art9-com1-leta-num1">
-                            <num>1)</num>
-                            <corpo> indennità pari al dieci per cento del costo del biglietto di viaggio a tariffa intera;</corpo>
-                        </en>
-                    </el>
-                    <el id="art9-com1-letb">
-                        <num>  
- 
-b)</num>
-                        <alinea> per i viaggi compiuti a mezzo aereo:  
- 
-</alinea>
-                        <en id="art9-com1-letb-num1">
-                            <num>1)</num>
-                            <corpo> indennità pari al cinque per cento del costo del biglietto di viaggio a tariffa intera;</corpo>
-                        </en>
-                    </el>
-                    <el id="art9-com1-letc">
-                        <num> 
- 
-c)</num>
-                        <alinea> per i viaggi compiuti gratuitamente o con automezzo dell'Amministrazione:  
- 
-</alinea>
-                        <en id="art9-com1-letc-num1">
-                            <num>1)</num>
-                            <corpo> indennità pari a lire 10 per chilometro di percorso.  </corpo>
-                        </en>
-                    </el>
-                </comma>
-                <comma id="art9-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> L'indennità supplementare di cui al <rif xlink:href="#art9-com1">comma 1</rif> non si applica su qualsiasi supplemento, ivi compreso quello per vagone letto, pagato in aggiunta al prezzo del biglietto di viaggio, ancorché ammesso a rimborso a norma di legge.  </corpo>
-                </comma>
-                <comma id="art9-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Per i percorsi o frazioni di percorso, non serviti da ferrovia o da mezzi di linea o da noleggio, è corrisposta un'indennità pari a lire 207 a chilometro aumentata, per i percorsi effettuati a piedi in zona priva di strada, a lire 310 a chilometro.  </corpo>
-                </comma>
-                <comma id="art9-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> L'indennità supplementare di cui al presente articolo spetta per tutti i servizi resi fuori dell'ordinaria sede di servizio, anche se il personale inviato in missione non acquista titolo all'indennità di trasferta.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art10">
-                <num>Art. 10  </num>
-                <rubrica>
- 
-USO DEL MEZZO PROPRIO E indennità CHILOMETRICA  
- </rubrica>
-                <comma id="art10-com1">
-                    <num>
-1.</num>
-                    <corpo> Il personale regionale può essere autorizzato all'uso della propria autovettura solo se specifiche e motivate esigenze di servizio lo rendono necessario o quando è verificata l'indisponibilità di automezzi di proprietà della Regione. </corpo>
-                </comma>
-                <comma id="art10-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> L'autorizzazione all'uso dell'autovettura propria è rilasciata, di volta in volta, contestualmente all'autorizzazione alla missione.  </corpo>
-                </comma>
-                <comma id="art10-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> L'autorizzazione è concessa, previa dichiarazione del dipendente di sollevare l'Amministrazione regionale da qualsiasi responsabilità derivante dall'uso del mezzo proprio per danni a terzi o cose.  </corpo>
-                </comma>
-                <comma id="art10-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> Nella stessa dichiarazione, il dipendente interessato dovrè indicare gli estremi della patente di guida, la targa e gli estremi dell'assicurazione obbligataria relativa all'automezzo.  </corpo>
-                </comma>
-                <comma id="art10-com5">
-                    <num>
- 
-5.</num>
-
-                    <corpo> Restano ferme le disposizioni sulla copertura assicurativa in missione di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1990-12-14;31#art22">articolo 22 della legge regionale 14 dicembre 1990, n. 31</rif>.  </corpo>
-                </comma>
-                <comma id="art10-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> Al personale cui sono assegnate funzioni ispettive, l'uso dell'autovettura propria può essere autorizzato, previa motivata richiesta dell'interessato, da chi dispone la missione, con atto a validità mensile e, comunque, condizionata alla verificata indisponibilità degli automezzi di proprietà della Regione.  </corpo>
-                </comma>
-                <comma id="art10-com7">
-                    <num>
- 
-7.</num>
-                    <corpo> Al personale autorizzato all'uso del mezzo proprio, spettano un'indennità chilometrica pari a un quinto del prezzo di un litro di benzina super dell'importo vigente al 1 gennaio ed al 1 luglio di ogni anno, corrispondente al prezzo praticato dalla Compagnia AGIP ed il rimborso delle spese eventualmente sostenute per il pedaggio autostradale e per il ricovero dell'autovettura presso parcheggi e autorimesse. In sede di liquidazione va operato l'arrotondamento alle dieci lire superiori. </corpo>
-                </comma>
-                <comma id="art10-com8">
-                    <num>
- 
-8.</num>
-
-                    <corpo> A1 fine della determinazione dell'indennità chilometrica di cui al <rif xlink:href="#art10-com7">comma 7</rif>, si considerano le distanze urbane disponibili presso l'Automobil Club d'Italia (ACI). </corpo>
-                </comma>
-                <comma id="art10-com9">
-                    <num>
- 
-9.</num>
-                    <corpo> L'indennità chilometrica non spetta per i percorsi compiuti nella località sede di missione nonché per spostarsi da uno ad altro luogo di lavoro nell'ambito del centro urbano. </corpo>
-                </comma>
-                <comma id="art10-com10">
-                    <num>
- 
-10.</num>
-                    <corpo> L'indennità ed il rimborso di cui al <rif xlink:href="#art10-com7">comma 7</rif> competono anche se il dipendente non acquista titolo all'indennità di trasferta. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art11">
-                <num>Art. 11  </num>
-                <rubrica>
- 
-RIMBORSO DELLE SPESE DI PERNOTTAMENTO E VITTO  
- </rubrica>
-                <comma id="art11-com1">
-                    <num>
-1.</num>
-
-                    <corpo> Per incarichi di missione di durata superiore alle dodici ore, al personale compete il rimborso delle spese, documentate mediante fattura o ricevuta fiscale, sostenute per il pernottamento in albergo nei limiti previsti dal <rif xlink:href="#art11-com8">comma 8</rif>.  </corpo>
-                </comma>
-                <comma id="art11-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Per incarichi di missione di durata superiore alle dodici ore, compete, altresì, il rimborso della spesa per uno o due pasti giornalieri nei limiti previsti dalla normativa vigente per gli impiegati civili dello Stato.  
- 
-Per incarichi di durata non inferiore a otto ore compete il rimborso di un solo pasto. Ai dirigenti spettano i predetti rimborsi nella misura in vigore per i dirigenti dello Stato, tenuto conto delle successive automatiche rideterminazioni. Per documentati motivi di salute che comportino particolari regimi di alimentazione può essere autorizzata la frammentazione della spesa massima consentita a fronte di più di uno o due pasti, consentendosi, in tali casi, la documentazione dei pasti effettivamente consumati anche a mezzo di scontrini fiscali. </corpo>
-                </comma>
-                <comma id="art11-com3">
-                    <num>
- 
-3.</num>
-                    <alinea> Per prestazioni rese da personale inviato in missione per:  
- 
-</alinea>
-                    <el id="art11-com3-leta">
-                        <num>a)</num>
-                        <corpo> attività di protezione civile nelle situazioni di prima urgenza;</corpo>
-                    </el>
-                    <el id="art11-com3-letb">
-                        <num>  
- 
-b)</num>
-                        <corpo> per l'opera di intervento svolto dalle squadre per lo spegnimento di incendi boschivi, è corrisposto un compenso forfettario giornaliero di lire trentamila nette in luogo dell'importo corrispondente al costo dei pasti, in caso di impossibilità a fruire dei pasti per mancanza di strutture e servizi di ristorazione.  </corpo>
-                    </el>
-                </comma>
-                <comma id="art11-com4">
-                    <num>
- 
-4.</num>
-
-                    <corpo> Le spese per la consumazione dei pasti di cui al <rif xlink:href="#art11-com2">comma 2</rif> sono ammesse al rimborso previa presentazione di fattura o ricevuta fiscale rilasciata da esercizio commerciale adibito all'attività di ristoro o attività alberghiera, completa delle generalità del dipendente, compilata a cura dell'emittente. In caso di documentazione di spesa ammessa da esercizio alberghiero deve constatare il numero giornaliero dei pasti e la spesa per ogni singolo pasto.  </corpo>
-                </comma>
-                <comma id="art11-com5">
-                    <num>
- 
-5.</num>
-                    <corpo> Ai fini di cui al <rif
-                            xlink:href="#art11-com2">comma 2</rif>, eccezionalmente, nei casi in cui, per esigenze di servizio il dipendente si trovi nell'impossibilità di recarsi presso un esercizio commerciale abilitato, è ammesso il rimborso della spesa per consumi di pasti in esercizi di somministrazione al pubblico di alimenti e bevande che rilasciano esclusivamente scontrini fiscali o di cassa. il rimborso sarè effettuato previa apposita dichiarazione, resa sotto la propria responsabilità, dello stesso dipendente in ordine alla sussistenza di dette condizioni, valutata dal dirigente che vista la tabella. è ammissibile, comunque, il rimborso della spesa sostenuta per consumazioni equipollenti ai pasti fruibili presso esercizi commerciali abilitati di cui al <rif xlink:href="#art11-com4">comma 4</rif>.  </corpo>
-                </comma>
-                <comma id="art11-com6">
-                    <num>
- 
-6.</num>
-                    <corpo> Al fine di cui ai commi 2, 3 e 4, è ammesso il rimborso di un solo documento fiscale per le missioni di durata da otto a dodici ore e di due documenti fiscali per missioni di durata superiore.  
- 
-è ammesso, altresì il rimborso di un solo documento fiscale contenente esplicita indicazione dei due pasti, per missioni di durata superiore a dodici ore. </corpo>
-                </comma>
-                <comma id="art11-com7">
-                    <num>
- 
-7.</num>
-                    <corpo> Nel caso di rimborso delle spese, indicate nei commi 1, 2, 3, 4 e 5, l'indennità di trasferta è ridotta al trenta per cento. Non ammessa in ogni caso l'opzione per l'indennità di trasferta èoraria o giornaliera in misura intera. </corpo>
-                </comma>
-                <comma id="art11-com8">
-                    <num>
- 
-8.</num>
-                    <corpo> Ai dirigenti spetta il rimborso per il pernottamento in albergo di prima categoria (4 stelle). Al rimanente personale spetta il rimborso per il pernottamento in albergo e pensioni di categoria inferiore. </corpo>
-                </comma>
-                <comma id="art11-com9">
-                    <num>
- 
-9.</num>
-                    <corpo> Non è ammesso il rimborso per pernottamenti in alberghi di lusso (5 stelle e 5 stelle lusso).  </corpo>
-                </comma>
-                <comma id="art11-com10">
-                    <num>
- 
-10.</num>
-                    <corpo> Quando non è possibile reperire alberghi della categoria spettante disponibili nella località di missione, il personale può avvalersi di alberghi in località viciniore con diritto al rimborso delle spese documentate sostenute per i necessari spostamenti.  </corpo>
-                </comma>
-                <comma id="art11-com11">
-                    <num>
- 
-11.</num>
-                    <corpo> Nei casi di missioni continuative nella medesima località di durata non inferiore a trenta giorni è consentito il rimborso delle spese sostenute per il pernottamento presso residenza turistico alberghiera, se ci risulta economicamente più conveniente per l'Amministrazione Regionale, rispetto al costo medio della categoria alberghiera consentita nella medesima località.  </corpo>
-                </comma>
-                <comma id="art11-com12">
-                    <num>
- 
-12.</num>
-                    <corpo> La sussistenza delle condizioni di cui ai commi 10 e 11 è espressamente indicata con dichiarazione resa, sotto la propria responsabilità, dall'interessato e vistata dal dirigente.  </corpo>
-                </comma>
-                <comma id="art11-com13">
-                    <num>
- 
-13.</num>
-                    <corpo> Al fine di ottenere il rimborso delle spese di cui al presente articolo, i dipendenti sono tenuti a produrre ricevuta fiscale o fattura rilasciata a norma di legge. è consentito altresì il rimborso al dipendente di regolare fattura rilasciata da agenzia operativa nel settore, purché contenente la descrizione di tutte le prestazioni effettuate per conto del richiedente.  </corpo>
-                </comma>
-                <comma id="art11-com14">
-                    <num>
- 
-14.</num>
-                    <corpo> è consentito il rimborso per il pernottamento in albergo di qualunque categoria quando, in virtà di convenzione o di intese specifiche intervenute con la Regione, vengono applicate tariffe più basse o pari a quelle praticate dall'albergo di categoria spettante al dipendente in base alla qualifica ricoperta. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art12">
-                <num>Art. 12  </num>
-                <rubrica>
- 
-RIENTRO  
- </rubrica>
-                <comma id="art12-com1">
-                    <num>
-1.</num>
-                    <corpo> Il dipendente, espletato il servizio per cui è stata disposta la missione, è tenuto a comunicare il viaggio di ritorno con il primo mezzo utile, salvo che l'arrivo nella sede ordinaria di servizio superi, secondo gli orari ufficiali, la mezzanotte. </corpo>
-                </comma>
-                <comma id="art12-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Il dipendente inviato in missione, anche per incarichi di lunga durata, è tenuto a rientrare giornalmente in sede, se la natura del servizio lo consente e la località di missione non dista più di centoventi minuti di viaggio con il mezzo più veloce, desumibile dagli orari ufficiali di servizio di linea.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art13">
-                <num>Art. 13  </num>
-                <rubrica>
- 
-ANTICIPAZIONI E LIQUIDAZIONI  
- </rubrica>
-                <comma id="art13-com1">
-                    <num>
-1.</num>
-                    <corpo> Al personale inviato in missione deve essere corrisposta, su richiesta dell'interessato, l'anticipazione di una somma pari al settantacinque per cento del trattamento economico complessivo spettante per la missione, con esclusione dell'indennità di trasferta.  </corpo>
-                </comma>
-                <comma id="art13-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Al termine della missione, l'Amministrazione regionale provvede alla liquidazione dell'intero trattamento economico complessivo, previa presentazione di apposita tabella, firmata dal dipendente, convalidata dal dirigente e corredata dalla relativa documentazione.  </corpo>
-                </comma>
-                <comma id="art13-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Il recupero degli anticipi economici è disposto anche tramite ritenuta sulle competenze stipendiali anche oltre il limite del quinto dello stipendio.  </corpo>
-                </comma>
-                <comma id="art13-com4">
-                    <num>
- 
-4.</num>
-
-                    <corpo> Al personale in servizio presso le strutture del Consiglio Regionale l'anticipazione di cui al <rif xlink:href="#art13-com1">comma 1</rif> è erogata dell'Economo del Consiglio.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art14">
-                <num>Art. 14  </num>
-                <rubrica>
- 
-LAVORO STRAORDINARIO 
- </rubrica>
-                <comma id="art14-com1">
-                    <num>
-1.</num>
-                    <corpo> Al personale non dirigente inviato in missione è dovuto il compenso per il lavoro straordinario, limitatamente alle prestazioni rese nella sede della missione in eccedenza al normale orario di servizio e con esclusione del tempo occorrente per il viaggio sia di andata che di ritorno e del tempo impiegato per la consumazione del pasto. </corpo>
-                </comma>
-                <comma id="art14-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Le ore di lavoro straordinario compiute in missione concorrono, con quelle rese in sede, al raggiungimento dei limiti individuali stabiliti nei piani di struttura. Le ore stesse, prestate comunque nei limiti di cui innanzi, possono essere recuperate con il riposo compensativo, secondo quanto previsto dalla vigente normativa in materia di orario di servizio.  </corpo>
-                </comma>
-                <comma id="art14-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> L'effettiva prestazione del lavoro straordinario reso dal personale in missione, deve essere attestata da apposita dichiarazione dell'interessato, controfirmata dal dirigente. </corpo>
-                </comma>
-                <comma id="art14-com4">
-                    <num>
- 
-4.</num>
-
-                    <corpo> Le ore complessivamente impegnate in missione, ivi compreso il tempo occorrente per il viaggio sia di andata che di ritorno che non diano luogo a lavoro straordinario ai sensi del <rif xlink:href="#art14-com1">comma 1</rif>, concorrono alla copertura dell'orario di servizio giornaliero. Le ore eventualmente eccedenti siffatto orario non danno luogo a recupero come riposo compensativo.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art15">
-                <num>Art. 15  </num>
-                <rubrica>
- 
-TRATTAMENTO ECONOMICO PER LA PARTECIPAZIONE A CORSI DI FORMAZIONE  
- </rubrica>
-                <comma id="art15-com1">
-                    <num>
-1.</num>
-                    <corpo> Al personale regionale che si reca fuori dall'ordinaria sede di servizio, per la partecipazione a corsi di formazione, riqualificazione, riconversione o aggiornamento professionale, compete il trattamento economico di missione secondo le modalità previste dalla presente legge, qualora debitamente documentata l'effettiva partecipazione.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art16">
-                <num>Art. 16  </num>
-                <rubrica>
- 
-TRATTAMENTO ECONOMICO DI TRASFERIMENTO  
- </rubrica>
-                <comma id="art16-com1">
-                    <num>
-1.</num>
-                    <alinea> Al personale regionale che, a seguito di trasferimento d'ufficio, fissa la propria dimora abituale nel comune ove è situata la nuova sede di servizio, qualora l'effettivo trasferimento sia avvenuto entro un triennio dalla data di decorrenza del provvedimento di trasferimento, spetta il relativo trattamento economico, comprendente i seguenti benefici:  
- 
-</alinea>
-                    <el id="art16-com1-leta">
-                        <num>a)</num>
-                        <corpo> indennità di prima sistemazione;</corpo>
-                    </el>
-                    <el id="art16-com1-letb">
-                        <num>  
- 
-b)</num>
-                        <corpo> rimborso delle spese.  </corpo>
-                    </el>
-                </comma>
-                <comma id="art16-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Il personale, di cui al <rif xlink:href="#art16-com1">comma 1</rif>. che, per riconosciuta impossibilità di trovare alloggio nella nuova sede di servizio, trasferisce la famiglia, i mobili e le masserizie nei comuni viciniori, è ammesso ugualmente a fruire dell'indennità e dei rimborsi delle spese inerenti al trasferimento, quando la distanza dalla casa municipale del Comune vicino alla nuova sede di servizio non supera i trenta chilometri.  </corpo>
-                </comma>
-                <comma id="art16-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Il trattamento economico non è dovuto in caso di trasferimento nell'ambito dello stesso Comune e nel caso di trasferimento disposto su domanda dell'interessato.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art17">
-                <num>Art. 17  </num>
-                <rubrica>
- 
-indennità DI PRIMA SISTEMAZIONE E RIMBORSO SPESE  
- </rubrica>
-                <comma id="art17-com1">
-                    <num>
-1.</num>
-                    <corpo> L'indennità di prima sistemazione compete nella misura forfettaria di lire 200.000, aumentata di un importo pari a tre mensilità dell'indennità integrativa speciale in godimento.  </corpo>
-                </comma>
-                <comma id="art17-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Tale indennità è ridotta di un terzo per il personale che, nella nuova sede di servizio, fruisca di alloggio gratuito.  </corpo>
-                </comma>
-                <comma id="art17-com3">
-                    <num>
- 
-3.</num>
-                    <alinea> Il rimborso delle spese comprende:  
- 
-</alinea>
-                    <el id="art17-com3-leta">
-                        <num>a)</num>
-                        <corpo> le spese di viaggio per l'uso dei mezzi pubblici di linea, sostenute dal dipendente trasferito per sì, per i familiari e conviventi a carico;</corpo>
-                    </el>
-                    <el id="art17-com3-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> le spese sostenute per il trasloco nella misura stabilita per gli impiegati civili dello Stato.  </corpo>
-                    </el>
-                </comma>
-                <comma id="art17-com4">
-                    <num>
- 
-4.</num>
-
-                    <corpo> Se il trasferimento è effettuato con autovettura di proprietà, compete un'indennità chilometrica pari ad un quinto del prezzo di un litro di benzina super, stabilito secondo le modalità previste dall'<rif xlink:href="#art10-com7">art. 10, comma 7</rif>.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art18">
-                <num>Art. 18  </num>
-                <rubrica>
- 
-ADEGUAMENTO DEI BENEFICI  
- </rubrica>
-                <comma id="art18-com1">
-                    <num>
-1.</num>
-                    <corpo> La misura dell'indennità e dei benefici previsti dalla presente legge sono automaticamente aggiornati sulla base delle determinazioni assunte con decreto del Ministro competente.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art19">
-                <num>Art. 19  </num>
-                <rubrica>
- 
-NORMA FINANZIARIA  
- </rubrica>
-                <comma id="art19-com1">
-                    <num>
-1.</num>
-                    <corpo> Agli oneri derivanti dall'applicazione della presente legge si farè fronte con appositi stanziamenti previsti nelle leggi di bilancio.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art20">
-                <num>Art. 20  </num>
-                <rubrica>
- 
-NORMA FINALE  
- </rubrica>
-                <comma id="art20-com1">
-                    <num>
-1.</num>
-                    <corpo> Per quanto non espressamente previsto dalla presente legge, si applicano le norme sul trattamento di missione degli impiegati civili dello Stato.  </corpo>
-                </comma>
-                <comma id="art20-com2">
-                    <num>
- 
-2.</num>
-
-                    <corpo> Le norme della presente legge, ai sensi dell'<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#art72">art. 72 del decreto legislativo 3 febbraio 1993 n. 29</rif> e successive modificazioni si applicano fino alla sottoscrizione del contratto collettivo di lavoro ridisciplinante la materia, fatti salvi gli istituti da questo non previsti.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art21">
-                <num>Art. 21  </num>
-                <rubrica>
- 
-ABROGAZIONE DELLE NORME  
- </rubrica>
-                <comma id="art21-com1">
-                    <num>
-1.</num>
-                    <alinea>
-                        <mod id="art21-com1-mod1"> Sono abrogate le seguenti disposizioni:  
- 
-</mod>
-                    </alinea>
-                    <el id="art21-com1-leta">
-                        <num>a)</num>
-                        <corpo>
-                            <mod id="art21-com1-leta-mod2">
-                                <rif xlink:href="urn:nir:regione.molise:legge:1974-08-31;11">legge regionale 31 agosto 1974 n. 11</rif>: abrogato articolo 77;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art21-com1-letb">
-                        <num>  
- 
-b)</num>
-                        <corpo>
-                            <mod id="art21-com1-letb-mod3">
-                                <rif xlink:href="urn:nir:regione.molise:legge:1974-08-31;12">legge regionale 31 agosto 1974 n. 12</rif>: abrogato articolo unico, numero 14;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art21-com1-letc">
-                        <num>  
- 
-c)</num>
-                        <corpo>
-                            <mod id="art21-com1-letc-mod4">
-                                <rif xlink:href="urn:nir:regione.molise:legge:1980-05-08;12">legge regionale 8 maggio 1980 n. 12</rif>: interamente abrogato capo II del titolo V;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art21-com1-letd">
-                        <num>  
- 
-d)</num>
-                        <corpo>
-                            <mod id="art21-com1-letd-mod5">
-                                <rif xlink:href="urn:nir:regione.molise:legge:1985-04-29;13">legge regionale 29 aprile 1985 n. 13</rif>: abrogato articolo 31;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art21-com1-lete">
-                        <num>  
- 
-e)</num>
-                        <corpo>
-                            <mod id="art21-com1-lete-mod6">
-                                <rif xlink:href="urn:nir:regione.molise:legge:1990-12-14;31">legge regionale 14 dicembre 1990 n. 31</rif>: abrogato articolo 43;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art21-com1-letf">
-                        <num>  
- 
-f)</num>
-                        <corpo>
-                            <mod id="art21-com1-letf-mod7">
-                                <rif xlink:href="urn:nir:regione.molise:legge:1990-12-14;32">legge regionale 14 dicembre 1990 n. 32</rif>: abrogato articolo 1, comma 1, numero 4.  
- 
-</mod>
-                        </corpo>
-                    </el>
-                </comma>
-            </articolo>
-            <articolo id="art22">
-                <num>Art. 22  </num>
-                <rubrica>
- 
-DIGHIARAZIONE DI URGENZA  
- </rubrica>
-                <comma id="art22-com1">
-                    <num>
-1.</num>
-
-                    <corpo> La presente legge è dichiarata urgente ai sensi dell' <rif
-                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione.  
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise  
- 
-
-?>
-        <annessi>
-            <annesso id="ann1">
-                <testata>
-                    <denAnnesso>
-                        <h:p>TABELLA A</h:p>
-                    </denAnnesso>
-                    <titAnnesso>
-                        <h:p/>
-                    </titAnnesso>
-                    <preAnnesso>
-                        <h:p/>
-                    </preAnnesso>
-                </testata>
-                <DocumentoNIR nome="">
-                    <meta>
-                        <descrittori>
-                            <pubblicazione norm="" num="" tipo="GU"/>
-                            <entratainvigore norm=""/>
-                            <redazione id="ann1-red1" nome="" norm=""/>
-                            <urn valore=""/>
-                        </descrittori>
-                    </meta><?error Di cui all'art. 6, comma secondo  
- 
-a) gruppi previsti dal ?>
-                    <intestazione>
-                        <tipoDoc>DM. </tipoDoc>
-                        <dataDoc norm="19900524">24 maggio 1990</dataDoc>
-                        <titoloDoc>b) corrispondenti qualifiche gruppo 6funzionali della Regione Molise 
- 
-gruppo 4dirigenti  
- 
-gruppo 58a qualifica funzionale  
- 
-gruppo 57a qualifica funzionale  
- 
-gruppo 66a qualifica funzionale  
- 
-gruppo 75a qualifica funzionale  
- 
-gruppo 84a qualifica funzionale  
- 
-gruppo 93a qualifica funzionale  
- 
-gruppo 10 2a qualifica funzionale 
- 
-INDICE PER ARTICOLI  
- 
-</titoloDoc>
-                    </intestazione>
-                    <formulainiziale/>
-                    <articolato>
-                        <articolo id="ann1-art1">
-                            <num>Art. 1 </num>
-                            <rubrica>- Oggetto  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art1-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art2">
-                            <num>Art. 2 </num>
-                            <rubrica>- Missione  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art2-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art3">
-                            <num>Art. 3 </num>
-                            <rubrica>- Autorizzazioni  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art3-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art4">
-                            <num>Art. 4 </num>
-                            <rubrica>- Trattamento economico di missione  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art4-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art5">
-                            <num>Art. 5 </num>
-                            <rubrica>- indennità di trasferta  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art5-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art6">
-                            <num>Art. 6 </num>
-                            <rubrica>- indennità di trasferta per missione al1'estero  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art6-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art7">
-                            <num>Art. 7 </num>
-                            <rubrica>- Rimborso spese  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art7-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art8">
-                            <num>Art. 8 </num>
-                            <rubrica>- Rimborso delle spese di viaggio 
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art8-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art9">
-                            <num>Art. 9 </num>
-                            <rubrica>- indennità supplementare  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art9-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art10">
-                            <num>Art. 10 </num>
-                            <rubrica>- Uso del mezzo proprio e indennità chilometrica  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art10-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art11">
-                            <num>Art. 11 </num>
-                            <rubrica>- Rimborso delle spese di pernottamento e vitto  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art11-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art12">
-                            <num>Art. 12 </num>
-                            <rubrica>- Rientro  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art12-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art13">
-                            <num>Art. 13 </num>
-                            <rubrica>- Anticipazioni e liquidazioni  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art13-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art14">
-                            <num>Art. 14 </num>
-                            <rubrica>- Lavoro straordinario 
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art14-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art15">
-                            <num>Art. 15 </num>
-                            <rubrica>- Trattamento economico per la partecipazione ai corsi di formazione  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art15-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art16">
-                            <num>Art. 16 </num>
-                            <rubrica>- Trattamento economico di trasferimento  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art16-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art17">
-                            <num>Art. 17 </num>
-                            <rubrica>- indennità di prima sistemazione e rimborso spese  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art17-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art18">
-                            <num>Art. 18 </num>
-                            <rubrica>- Adeguamento dei benefici  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art18-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art19">
-                            <num>Art. 19 </num>
-                            <rubrica>- Norma finanziaria  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art19-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art20">
-                            <num>Art. 20 </num>
-                            <rubrica>- Norma finale  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art20-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art21">
-                            <num>Art. 21 </num>
-                            <rubrica>- Abrogazione delle norme  
- 
-</rubrica><?error Marker Warning 109?>
-                            <comma id="ann1-art21-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                        <articolo id="ann1-art22">
-                            <num>Art. 22 </num>
-                            <rubrica>- Dichiarazione di urgenza 
-<?error Marker Warning 109?>
-                            </rubrica>
-                            <comma id="ann1-art22-com1">
-                                <num/>
-                                <corpo/>
-                            </comma>
-                        </articolo>
-                    </articolato>
-                    <formulafinale/>
-                    <conclusione/>
-                </DocumentoNIR>
-            </annesso>
-        </annessi>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="19990412">12 aprile 1999</dataDoc>
+				n.
+				<numDoc>12</numDoc>
+				<titoloDoc>Disciplina del trattamento di missione del personale regionale</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>OGGETTO</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							La presente legge, in attuazione dell'
+							<rif xlink:href="urn:nir:stato:legge:1978-07-26;417#art20" xlink:type="simple">articolo 20 della legge 26 luglio 1978 n. 417</rif>
+							, disciplina il trattamento di missione e di trasferimento spettante al personale di ruolo e non di ruolo della Regione Molise.
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>Le norme della presente legge si applicano anche nei confronti del personale degli Enti Pubblici non economici dipendenti dalla Regione Molise, compresi gli Istituti Autonomi per le Case Popolari.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>MISSIONE</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>Viene considerato in missione il dipendente che svolge attività lavorativa in via temporanea fuori dall' ordinaria sede di servizio, in località distanti non meno di dieci chilometri da quest'ultima.</corpo>
+					</comma>
+					<comma id="art2-com2">
+						<num>2.</num>
+						<corpo>Per sede di servizio, si intende il Comune in cui ha sede l'ufficio dove di fatto il dipendente presta servizio.</corpo>
+					</comma>
+					<comma id="art2-com3">
+						<num>3.</num>
+						<corpo>Si tiene conto, per quanto attiene alla distanza chilometrica, della ubicazione della casa municipale del Comune sede di servizio.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>AUTORIZZAZIONI</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							Le missioni del personale non dirigenziale sono preventivamente disposte dal dirigente immediatamente sovraordinato; quelle del personale dirigenziale sono preventivamente disposte dal Presidente della Giunta regionale, dal Presidente del Consiglio regionale e dell'Assessore secondo le rispettive competenze.
+							<h:p>
+								La competenza dei predetti amministratori passerà ai direttori generali ed equiparati non appena sarà operante l'atto di riorganizzazione dell'Amministrazione regionale secondo i principi stabiliti dal
+								<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-23;29" xlink:type="simple">decreto legislativo 23 febbraio 1993 n. 29</rif>
+								come recepito dalla
+								<rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7" xlink:type="simple">legge regionale 8 aprile 1997, n. 7</rif>
+								.
+							</h:p>
+						</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<corpo>Le missioni da compiersi all'estero sono preventivamente autorizzate dal Presidente della Giunta o dal Presidente del Consiglio regionale per la rispettiva competenza, previa intesa, in quanto necessaria, con le autorità governative.</corpo>
+					</comma>
+					<comma id="art3-com3">
+						<num>3.</num>
+						<alinea>Con apposita tabella, sottoscritta dal dipendente recatosi in missione e convalidata dal dirigente immediatamente sovraordinato, sono dichiarati:</alinea>
+						<el id="art3-com3-leta">
+							<num>a)</num>
+							<corpo>le località, l'inizio e il termine e le motivazioni della missione;</corpo>
+						</el>
+						<el id="art3-com3-letb">
+							<num>b)</num>
+							<corpo>i mezzi di trasporto utilizzati, i pasti consumati, i pernottamenti in albergo e ogni altra fornitura o servizio ammissibile a rimborso a norma della presente legge.</corpo>
+						</el>
+					</comma>
+					<comma id="art3-com4">
+						<num>4.</num>
+						<corpo>Per il personale di altre Amministrazioni che presta servizio in posizione di comando, distacco o di utilizzazione a qualunque titolo presso la Regione Molise, la missione è autorizzata, del è pari, secondo le modalità di cui ai precedenti commi.</corpo>
+					</comma>
+					<comma id="art3-com5">
+						<num>5.</num>
+						<corpo>Per il personale regionale che presti servizio presso altre amministrazioni ed Enti dipendenti dalla Regione Molise, le autorizzazioni sono rilasciate secondo la normativa prevista dai rispettivi ordinamenti.</corpo>
+					</comma>
+					<comma id="art3-com6">
+						<num>6.</num>
+						<alinea>Per recarsi in missione, il personale regionale può servirsi, con le modalità previste dalla presente legge:</alinea>
+						<el id="art3-com6-leta">
+							<num>a)</num>
+							<corpo>di mezzi ferroviari ordinari, speciali ed anche a prenotazione obbligatoria;</corpo>
+						</el>
+						<el id="art3-com6-letb">
+							<num>b)</num>
+							<corpo>di altri mezzi di linea di trasporto su gomma;</corpo>
+						</el>
+						<el id="art3-com6-letc">
+							<num>c)</num>
+							<corpo>di mezzi di trasporto marittimo;</corpo>
+						</el>
+						<el id="art3-com6-letd">
+							<num>d)</num>
+							<corpo>di mezzi aerei;</corpo>
+						</el>
+						<el id="art3-com6-lete">
+							<num>e)</num>
+							<corpo>di auto in dotazione della Regione;</corpo>
+						</el>
+						<el id="art3-com6-leti">
+							<num>i)</num>
+							<corpo>di auto propria;</corpo>
+						</el>
+						<el id="art3-com6-letg">
+							<num>g)</num>
+							<corpo>di mezzo noleggiato;</corpo>
+						</el>
+						<el id="art3-com6-leth">
+							<num>h)</num>
+							<corpo>di mezzo gratuito.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>TRATTAMENTO ECONOMICO DI MISSIONE</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<alinea>Il trattamento economico di missione comprende:</alinea>
+						<el id="art4-com1-leta">
+							<num>a)</num>
+							<corpo>l'indennità di trasferta;</corpo>
+						</el>
+						<el id="art4-com1-letb">
+							<num>b)</num>
+							<corpo>l'indennità supplementare;</corpo>
+						</el>
+						<el id="art4-com1-letc">
+							<num>c)</num>
+							<corpo>il rimborso spese.</corpo>
+						</el>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<corpo>
+							Al personale spetta l'indennità di trasferta relativa alla qualifica rivestita al momento in cui la missione stessa è effettuata.
+							<h:p>Eventuali variazioni di qualifica, disposte con efficacia retroattiva, non sono rilevanti ai fini indicati dal presente comma.</h:p>
+						</corpo>
+					</comma>
+					<comma id="art4-com3">
+						<num>3.</num>
+						<corpo>Il personale inviato in missione al seguito e per collaborare con il personale appartenente a qualifica più elevata o facente parte di delegazione ufficiale della Regione, fruisce dei rimborsi e delle agevolazioni previste per il personale di grado più elevato, ferma restando la misura dell'indennità di trasferta spettante in base alla qualifica posseduta. La sussistenza delle condizioni per usufruire di tali agevolazioni deve risultare espressamente indicata nella preventiva autorizzazione alla missione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>INDENNITÀ DI TRASFERTA</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>Per ogni ventiquattro ore di assenza dalla sede di servizio per missione, ivi compreso il tempo occorrente per il viaggio, il personale regionale ha diritto all'indennità di trasferta (diaria) alle condizioni e modalità stabilite dal presente articolo.</corpo>
+					</comma>
+					<comma id="art5-com2">
+						<num>2.</num>
+						<corpo>
+							In caso di missioni di durata superiore alle ventiquattro ore, per le ore residuali, al personale regionale compete un'indennità di trasferta pari ad un ventiquattresimo della diaria di cui al
+							<rif xlink:href="#art5-com1" xlink:type="simple">precedente comma 1</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art5-com3">
+						<num>3.</num>
+						<corpo>Per le missioni di durata inferiore alle ventiquattro ore, l'indennità di trasferta spetta in misura pari ad un ventiquattresimo della diaria intera per ogni ora di missione.</corpo>
+					</comma>
+					<comma id="art5-com4">
+						<num>4.</num>
+						<corpo>In caso di missione di durata pari o superiore ad otto ore, l'indennità di trasferta viene ridotta del settanta per cento. Ai fini del computo delle otto ore, si sommano i periodi di effettiva durata della missione ivi compreso il tempo occorrente per il viaggio, interessanti la stessa giornata, anche se effettuati in località diverse.</corpo>
+					</comma>
+					<comma id="art5-com5">
+						<num>5.</num>
+						<corpo>Ai fini dell'applicazione dei commi 1, 2, 3 e 4 le frazioni di ora non inferiore a trenta minuti sono arrotondate ad ora intera, le altre frazioni sono trascurate.</corpo>
+					</comma>
+					<comma id="art5-com6">
+						<num>6.</num>
+						<alinea>Le misure dell'indennità di trasferta (diaria) sono stabilite come segue:</alinea>
+						<el id="art5-com6-leta">
+							<num>a)</num>
+							<corpo>personale appartenente alla qualifica dirigenziale, qualifica funzionale ottava, settima e sesta, lire 39.600;</corpo>
+						</el>
+						<el id="art5-com6-letb">
+							<num>b)</num>
+							<corpo>rimanente personale, lire 28.800.</corpo>
+						</el>
+					</comma>
+					<comma id="art5-com7">
+						<num>7.</num>
+						<corpo>
+							Le misure dell'indennità di trasferta sono automaticamente rideterminate, dal primo gennaio di ogni anno, in relazione alle disposizioni del Decreto del Ministero del Tesoro, previsto dall'
+							<rif xlink:href="urn:nir:presidente.repubblica:decreto:1978-01-16;513#art1-com3" xlink:type="simple">articolo 1, comma terzo, del D.P.R. 16 gennaio 1978, n. 513</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art5-com8">
+						<num>8.</num>
+						<corpo>Sulle indennità di trasferta e su quelle risultanti dai successivi adeguamenti va operato l'arrotondamento per eccesso a lire 100.</corpo>
+					</comma>
+					<comma id="art5-com9">
+						<num>9.</num>
+						<alinea>L'indennità non è dovuta per le missioni compiute:</alinea>
+						<el id="art5-com9-leta">
+							<num>a)</num>
+							<corpo>per periodi di tempo inferiore alle quattro ore, per il cui computo si sommano i periodi di effettiva durata, interessante la stessa giornata, ivi compreso il tempo occorrente per il viaggio, anche se effettuato in località diverse;</corpo>
+						</el>
+						<el id="art5-com9-letb">
+							<num>b)</num>
+							<corpo>nelle località di abituale dimora, anche se distanti più di dieci chilometri dalla sede dove di fatto il dipendente presta servizio;</corpo>
+						</el>
+						<el id="art5-com9-letc">
+							<num>c)</num>
+							<corpo>nell'ambito della circoscrizione o della zona in cui il servizio è reso normalmente come compito di istituto da parte del personale di vigilanza o di custodia;</corpo>
+						</el>
+						<el id="art5-com9-letd">
+							<num>d)</num>
+							<corpo>nelle località distanti meno di dieci chilometri dalla sede dove di fatto il dipendente presta servizio.</corpo>
+						</el>
+					</comma>
+					<comma id="art5-com10">
+						<num>10.</num>
+						<corpo>L'indennità di trasferta è ridotta del trenta per cento oltre la quindicesima, quando il personale regionale è inviato in missione per più di quindici volte in un mese.</corpo>
+					</comma>
+					<comma id="art5-com11">
+						<num>11.</num>
+						<corpo>
+							Per il personale esposto al rischio di grave disagio per ispezioni o collaudi presso cave ovvero in luoghi giudicati motivatamente pericolosi, l'indennità di missione, limitatamente alle giornate di trasferta nel corso delle quali si effettuano i sopralluoghi suddetti, è maggiorata del sessanta per cento, a norma della
+							<rif xlink:href="urn:nir:stato:legge:1967-07-13;565" xlink:type="simple">legge 13 luglio 1967 n. 565</rif>
+							. La maggiorazione è attribuita previa motivata attestazione di chi ha disposto la missione circa la sussistenza delle particolari condizioni di rischio e grave disagio.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>INDENNITÀ DI TRASFERTA PER MISSIONI ALL'ESTERO</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>Per le missioni da effettuare fuori dal territorio nazionale, al personale spetta l'indennità di trasferta giornaliera stabilita, paese per paese, direttamente in valuta locale od in altra valuta, secondo quanto stabuito con decreto del Ministero del Tesoro per il personale statale.</corpo>
+					</comma>
+					<comma id="art6-com2">
+						<num>2.</num>
+						<corpo>Le qualifiche funzionali del personale regionale sono equiparate, ai fini del trattamento economico di missione all'estero, ai gruppi di qualifiche del personale civile dello stato secondo lo schema di cui all'allegata tabella A .</corpo>
+					</comma>
+					<comma id="art6-com3">
+						<num>3.</num>
+						<corpo>
+							Ai fini della determinazione dell'indennità di trasferta per missioni fuori dal territorio nazionale, si tiene conto dei criteri di cui all'
+							<rif xlink:href="#art5" xlink:type="simple">articolo 5</rif>
+							in quanto compatibile.
+						</corpo>
+					</comma>
+					<comma id="art6-com4">
+						<num>4.</num>
+						<corpo>Al dipendente inviato in missione all'estero è data facoltà di scegliere il rimborso della spesa di albergo per il solo pernottamento, previa presentazione di regolare fattura della direzione alberghiera o dell'agenzia di viaggio fornitrice del servizio, ed il pagamento dell'indennità di trasferta. Qualora il dipendente opti per la prima soluzione, l'indennità di trasferta è ridotta di un terzo.</corpo>
+					</comma>
+					<comma id="art6-com5">
+						<num>5.</num>
+						<corpo>Se il dipendente fruisce gratuitamente del pernottamento, l'indennità di trasferta è ridotta di un terzo. Nel caso di fruizione gratuita del vitto l'indennità viene ridotta della metà. Nel caso di fruizione gratuita del vitto e del pernottamento, l'indennità viene ridotta di due terzi.</corpo>
+					</comma>
+					<comma id="art6-com6">
+						<num>6.</num>
+						<corpo>Se il dipendente fa parte di delegazione della Regione in missione all'estero con l'onere di soggiorno (vitto e alloggio) a carico della Regione o di enti ed organismi, l'indennità di trasferta viene ridotta di due terzi. Tale condizione risulta dal provvedimento di autorizzazione .</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>RIMBORSO SPESE</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<corpo>Al personale inviato in missione compete il rimborso delle spese effettivamente sostenute per il viaggio, il vitto e l'alloggio secondo le disposizioni degli articoli 8,1l0 e 11.</corpo>
+					</comma>
+					<comma id="art7-com2">
+						<num>2.</num>
+						<corpo>Allo stesso personale compete, altresì il rimborso delle spese effettivamente sostenute e debitamente documentate per l'uso del telefono, fax e telegrafo solo se l'uso stesso risulta effettuato per ragioni di ufficio, specificatamente dichiarate dal dipendente e convalidate dal dirigente che vista la tabella.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>RIMBORSO DELLE SPESE DI VIAGGIO</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<alinea>Al personale, inviato in missione, spetta il rimborso delle spese di viaggio compiute per missioni effettuate a mezzo ferrovia o con altri mezzi di linee di trasporto su gomma, nonché con mezzi di trasporto marittimo, nel limite del costo del biglietto di viaggio ed eventuali supplementi e prenotazioni, come segue:</alinea>
+						<el id="art8-com1-leta">
+							<num>a)</num>
+							<corpo>prima classe per il personale dirigente, per l'ottava e settima qualifica;</corpo>
+						</el>
+						<el id="art8-com1-letb">
+							<num>b)</num>
+							<corpo>seconda classe per il rimanente personale.</corpo>
+						</el>
+					</comma>
+					<comma id="art8-com2">
+						<num>2.</num>
+						<corpo>Al personale dirigente compete, altresì il rimborso delle spese sostenute per l'uso del posto letto in compartimento singolo. Al personale appartenente all'ottava e settima qualifica funzionale spetta il rimborso delle spese sostenute per l'uso del posto letto in compartimento doppio. Al Personale appartenente alle rimanenti qua1ifiche funzionali spetta il rimborso delle spese per l'uso della cuccetta.</corpo>
+					</comma>
+					<comma id="art8-com3">
+						<num>3.</num>
+						<corpo>In caso di missione continuativa nella medesima località per un periodo pari o superiore a 30 giorni, è consentito solo il rimborso del prezzo dell'abbonamento ferroviario o di altri servizi di linea, se più vantaggioso rispetto agli ordinari biglietti di viaggio.</corpo>
+					</comma>
+					<comma id="art8-com4">
+						<num>4.</num>
+						<corpo>Per il viaggio compiuto su mezzi aerei spetta il rimborso delle spese sostenute nel limite del costo del biglietto di viaggio autorizzato.</corpo>
+					</comma>
+					<comma id="art8-com5">
+						<num>5.</num>
+						<corpo>In caso di missione effettuata con l'uso di mezzi aerei, è dovuto il rimborso delle spese dell'assicurazione sulla vita per l'uso dei mezzi stessi, nel limite di un massimale ragguagliato allo stipendio annuo lordo, comprensivo dell'indennità integrativa speciale, dell' eventuale indennità di posizione e di ogni altra voce stipendiale pensionabile moltiplicato per il coefficiente dieci, nei soli casi di rischio di morte o di invalidità permanente.</corpo>
+					</comma>
+					<comma id="art8-com6">
+						<num>6.</num>
+						<corpo>Al personale munito di patente di guida può essere consentito, quando ci risulta opportuno ed economicamente conveniente per l'Amministrazione regionale, l'uso dell'automezzo in dotazione della Regione, fermo restando il rimborso delle spese sostenute per l'uso del predetto automezzo, unitamente alle spese effettivamente sostenute per pedaggio autostradale e per il ricovero dell'autovettura presso parcheggi ed autorimesse.</corpo>
+					</comma>
+					<comma id="art8-com7">
+						<num>7.</num>
+						<corpo>Sono rimborsabili le spese sostenute per l'utilizzo di mezzi di trasporto di linee urbani ed extraurbani strettamente necessari per raggiungere il luogo di missione.</corpo>
+					</comma>
+					<comma id="art8-com8">
+						<num>8.</num>
+						<corpo>Sono rimborsabili inoltre le spese sostenute per l'uso dell'automezzo noleggiato, qualora particolari circostanze di necessità hanno determinato l'uso di detto mezzo. Detto uso deve essere espressamente autorizzato in via preventiva, ovvero, in casi di urgenza, convalidato da chi ha disposto la missione.</corpo>
+					</comma>
+					<comma id="art8-com9">
+						<num>9.</num>
+						<corpo>Se il personale è autorizzato a trasportare al seguito materiale o attrezzature dell'Amministrazione sono rimborsabili le relative spese.</corpo>
+					</comma>
+					<comma id="art8-com10">
+						<num>10.</num>
+						<corpo>Tutte le spese rimborsabili ai sensi del presente articolo devono essere documentate da parte del personale inviato in missione.</corpo>
+					</comma>
+					<comma id="art8-com11">
+						<num>11.</num>
+						<corpo>I rimborsi previsti dal presente articolo, competono anche se il personale non acquista titolo all'indennità trasferta.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<rubrica>indennità SUPPLEMENTARE</rubrica>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<alinea>
+							Al personale inviato in missione spetta, in aggiunta al rimborso delle spese di viaggio di cui all'
+							<rif xlink:href="#art8" xlink:type="simple">articolo 8</rif>
+							, l'indennità supplementare, nella misura stabilita come segue:
+						</alinea>
+						<el id="art9-com1-leta">
+							<num>a)</num>
+							<alinea>per i viaggi compiuti con mezzi di linea ferroviaria, di trasporto su gomma o con mezzi di trasporto marittimo:</alinea>
+							<en id="art9-com1-leta-num1">
+								<num>1)</num>
+								<corpo>indennità pari al dieci per cento del costo del biglietto di viaggio a tariffa intera;</corpo>
+							</en>
+						</el>
+						<el id="art9-com1-letb">
+							<num>b)</num>
+							<alinea>per i viaggi compiuti a mezzo aereo:</alinea>
+							<en id="art9-com1-letb-num1">
+								<num>1)</num>
+								<corpo>indennità pari al cinque per cento del costo del biglietto di viaggio a tariffa intera;</corpo>
+							</en>
+						</el>
+						<el id="art9-com1-letc">
+							<num>c)</num>
+							<alinea>per i viaggi compiuti gratuitamente o con automezzo dell'Amministrazione:</alinea>
+							<en id="art9-com1-letc-num1">
+								<num>1)</num>
+								<corpo>indennità pari a lire 10 per chilometro di percorso.</corpo>
+							</en>
+						</el>
+					</comma>
+					<comma id="art9-com2">
+						<num>2.</num>
+						<corpo>
+							L'indennità supplementare di cui al
+							<rif xlink:href="#art9-com1" xlink:type="simple">comma 1</rif>
+							non si applica su qualsiasi supplemento, ivi compreso quello per vagone letto, pagato in aggiunta al prezzo del biglietto di viaggio, ancorché ammesso a rimborso a norma di legge.
+						</corpo>
+					</comma>
+					<comma id="art9-com3">
+						<num>3.</num>
+						<corpo>Per i percorsi o frazioni di percorso, non serviti da ferrovia o da mezzi di linea o da noleggio, è corrisposta un'indennità pari a lire 207 a chilometro aumentata, per i percorsi effettuati a piedi in zona priva di strada, a lire 310 a chilometro.</corpo>
+					</comma>
+					<comma id="art9-com4">
+						<num>4.</num>
+						<corpo>L'indennità supplementare di cui al presente articolo spetta per tutti i servizi resi fuori dell'ordinaria sede di servizio, anche se il personale inviato in missione non acquista titolo all'indennità di trasferta.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Art. 10</num>
+					<rubrica>USO DEL MEZZO PROPRIO E indennità CHILOMETRICA</rubrica>
+					<comma id="art10-com1">
+						<num>1.</num>
+						<corpo>Il personale regionale può essere autorizzato all'uso della propria autovettura solo se specifiche e motivate esigenze di servizio lo rendono necessario o quando è verificata l'indisponibilità di automezzi di proprietà della Regione.</corpo>
+					</comma>
+					<comma id="art10-com2">
+						<num>2.</num>
+						<corpo>L'autorizzazione all'uso dell'autovettura propria è rilasciata, di volta in volta, contestualmente all'autorizzazione alla missione.</corpo>
+					</comma>
+					<comma id="art10-com3">
+						<num>3.</num>
+						<corpo>L'autorizzazione è concessa, previa dichiarazione del dipendente di sollevare l'Amministrazione regionale da qualsiasi responsabilità derivante dall'uso del mezzo proprio per danni a terzi o cose.</corpo>
+					</comma>
+					<comma id="art10-com4">
+						<num>4.</num>
+						<corpo>Nella stessa dichiarazione, il dipendente interessato dovrà indicare gli estremi della patente di guida, la targa e gli estremi dell'assicurazione obbligataria relativa all'automezzo.</corpo>
+					</comma>
+					<comma id="art10-com5">
+						<num>5.</num>
+						<corpo>
+							Restano ferme le disposizioni sulla copertura assicurativa in missione di cui all'
+							<rif xlink:href="urn:nir:regione.molise:legge:1990-12-14;31#art22" xlink:type="simple">articolo 22 della legge regionale 14 dicembre 1990, n. 31</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art10-com6">
+						<num>6.</num>
+						<corpo>Al personale cui sono assegnate funzioni ispettive, l'uso dell'autovettura propria può essere autorizzato, previa motivata richiesta dell'interessato, da chi dispone la missione, con atto a validità mensile e, comunque, condizionata alla verificata indisponibilità degli automezzi di proprietà della Regione.</corpo>
+					</comma>
+					<comma id="art10-com7">
+						<num>7.</num>
+						<corpo>Al personale autorizzato all'uso del mezzo proprio, spettano un'indennità chilometrica pari a un quinto del prezzo di un litro di benzina super dell'importo vigente al 1 gennaio ed al 1 luglio di ogni anno, corrispondente al prezzo praticato dalla Compagnia AGIP ed il rimborso delle spese eventualmente sostenute per il pedaggio autostradale e per il ricovero dell'autovettura presso parcheggi e autorimesse. In sede di liquidazione va operato l'arrotondamento alle dieci lire superiori.</corpo>
+					</comma>
+					<comma id="art10-com8">
+						<num>8.</num>
+						<corpo>
+							A1 fine della determinazione dell'indennità chilometrica di cui al
+							<rif xlink:href="#art10-com7" xlink:type="simple">comma 7</rif>
+							, si considerano le distanze urbane disponibili presso l'Automobil Club d'Italia (ACI).
+						</corpo>
+					</comma>
+					<comma id="art10-com9">
+						<num>9.</num>
+						<corpo>L'indennità chilometrica non spetta per i percorsi compiuti nella località sede di missione nonché per spostarsi da uno ad altro luogo di lavoro nell'ambito del centro urbano.</corpo>
+					</comma>
+					<comma id="art10-com10">
+						<num>10.</num>
+						<corpo>
+							L'indennità ed il rimborso di cui al
+							<rif xlink:href="#art10-com7" xlink:type="simple">comma 7</rif>
+							competono anche se il dipendente non acquista titolo all'indennità di trasferta.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art11">
+					<num>Art. 11</num>
+					<rubrica>RIMBORSO DELLE SPESE DI PERNOTTAMENTO E VITTO</rubrica>
+					<comma id="art11-com1">
+						<num>1.</num>
+						<corpo>
+							Per incarichi di missione di durata superiore alle dodici ore, al personale compete il rimborso delle spese, documentate mediante fattura o ricevuta fiscale, sostenute per il pernottamento in albergo nei limiti previsti dal
+							<rif xlink:href="#art11-com8" xlink:type="simple">comma 8</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art11-com2">
+						<num>2.</num>
+						<corpo>
+							Per incarichi di missione di durata superiore alle dodici ore, compete, altresì, il rimborso della spesa per uno o due pasti giornalieri nei limiti previsti dalla normativa vigente per gli impiegati civili dello Stato.
+							<h:p>Per incarichi di durata non inferiore a otto ore compete il rimborso di un solo pasto. Ai dirigenti spettano i predetti rimborsi nella misura in vigore per i dirigenti dello Stato, tenuto conto delle successive automatiche rideterminazioni. Per documentati motivi di salute che comportino particolari regimi di alimentazione può essere autorizzata la frammentazione della spesa massima consentita a fronte di più di uno o due pasti, consentendosi, in tali casi, la documentazione dei pasti effettivamente consumati anche a mezzo di scontrini fiscali.</h:p>
+						</corpo>
+					</comma>
+					<comma id="art11-com3">
+						<num>3.</num>
+						<alinea>Per prestazioni rese da personale inviato in missione per:</alinea>
+						<el id="art11-com3-leta">
+							<num>a)</num>
+							<corpo>attività di protezione civile nelle situazioni di prima urgenza;</corpo>
+						</el>
+						<el id="art11-com3-letb">
+							<num>b)</num>
+							<corpo>per l'opera di intervento svolto dalle squadre per lo spegnimento di incendi boschivi, è corrisposto un compenso forfettario giornaliero di lire trentamila nette in luogo dell'importo corrispondente al costo dei pasti, in caso di impossibilità a fruire dei pasti per mancanza di strutture e servizi di ristorazione.</corpo>
+						</el>
+					</comma>
+					<comma id="art11-com4">
+						<num>4.</num>
+						<corpo>
+							Le spese per la consumazione dei pasti di cui al
+							<rif xlink:href="#art11-com2" xlink:type="simple">comma 2</rif>
+							sono ammesse al rimborso previa presentazione di fattura o ricevuta fiscale rilasciata da esercizio commerciale adibito all'attività di ristoro o attività alberghiera, completa delle generalità del dipendente, compilata a cura dell'emittente. In caso di documentazione di spesa ammessa da esercizio alberghiero deve constatare il numero giornaliero dei pasti e la spesa per ogni singolo pasto.
+						</corpo>
+					</comma>
+					<comma id="art11-com5">
+						<num>5.</num>
+						<corpo>
+							Ai fini di cui al
+							<rif xlink:href="#art11-com2" xlink:type="simple">comma 2</rif>
+							, eccezionalmente, nei casi in cui, per esigenze di servizio il dipendente si trovi nell'impossibilità di recarsi presso un esercizio commerciale abilitato, è ammesso il rimborso della spesa per consumi di pasti in esercizi di somministrazione al pubblico di alimenti e bevande che rilasciano esclusivamente scontrini fiscali o di cassa. il rimborso sarà effettuato previa apposita dichiarazione, resa sotto la propria responsabilità, dello stesso dipendente in ordine alla sussistenza di dette condizioni, valutata dal dirigente che vista la tabella. È ammissibile, comunque, il rimborso della spesa sostenuta per consumazioni equipollenti ai pasti fruibili presso esercizi commerciali abilitati di cui al
+							<rif xlink:href="#art11-com4" xlink:type="simple">comma 4</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art11-com6">
+						<num>6.</num>
+						<corpo>
+							Al fine di cui ai commi 2, 3 e 4, è ammesso il rimborso di un solo documento fiscale per le missioni di durata da otto a dodici ore e di due documenti fiscali per missioni di durata superiore.
+							<h:p>È ammesso, altresì il rimborso di un solo documento fiscale contenente esplicita indicazione dei due pasti, per missioni di durata superiore a dodici ore.</h:p>
+						</corpo>
+					</comma>
+					<comma id="art11-com7">
+						<num>7.</num>
+						<corpo>Nel caso di rimborso delle spese, indicate nei commi 1, 2, 3, 4 e 5, l'indennità di trasferta è ridotta al trenta per cento. Non ammessa in ogni caso l'opzione per l'indennità di trasferta èoraria o giornaliera in misura intera.</corpo>
+					</comma>
+					<comma id="art11-com8">
+						<num>8.</num>
+						<corpo>Ai dirigenti spetta il rimborso per il pernottamento in albergo di prima categoria (4 stelle). Al rimanente personale spetta il rimborso per il pernottamento in albergo e pensioni di categoria inferiore.</corpo>
+					</comma>
+					<comma id="art11-com9">
+						<num>9.</num>
+						<corpo>Non è ammesso il rimborso per pernottamenti in alberghi di lusso (5 stelle e 5 stelle lusso).</corpo>
+					</comma>
+					<comma id="art11-com10">
+						<num>10.</num>
+						<corpo>Quando non è possibile reperire alberghi della categoria spettante disponibili nella località di missione, il personale può avvalersi di alberghi in località viciniore con diritto al rimborso delle spese documentate sostenute per i necessari spostamenti.</corpo>
+					</comma>
+					<comma id="art11-com11">
+						<num>11.</num>
+						<corpo>Nei casi di missioni continuative nella medesima località di durata non inferiore a trenta giorni è consentito il rimborso delle spese sostenute per il pernottamento presso residenza turistico alberghiera, se ci risulta economicamente più conveniente per l'Amministrazione Regionale, rispetto al costo medio della categoria alberghiera consentita nella medesima località.</corpo>
+					</comma>
+					<comma id="art11-com12">
+						<num>12.</num>
+						<corpo>La sussistenza delle condizioni di cui ai commi 10 e 11 è espressamente indicata con dichiarazione resa, sotto la propria responsabilità, dall'interessato e vistata dal dirigente.</corpo>
+					</comma>
+					<comma id="art11-com13">
+						<num>13.</num>
+						<corpo>Al fine di ottenere il rimborso delle spese di cui al presente articolo, i dipendenti sono tenuti a produrre ricevuta fiscale o fattura rilasciata a norma di legge. È consentito altresì il rimborso al dipendente di regolare fattura rilasciata da agenzia operativa nel settore, purché contenente la descrizione di tutte le prestazioni effettuate per conto del richiedente.</corpo>
+					</comma>
+					<comma id="art11-com14">
+						<num>14.</num>
+						<corpo>È consentito il rimborso per il pernottamento in albergo di qualunque categoria quando, in virtà di convenzione o di intese specifiche intervenute con la Regione, vengono applicate tariffe più basse o pari a quelle praticate dall'albergo di categoria spettante al dipendente in base alla qualifica ricoperta.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art12">
+					<num>Art. 12</num>
+					<rubrica>RIENTRO</rubrica>
+					<comma id="art12-com1">
+						<num>1.</num>
+						<corpo>Il dipendente, espletato il servizio per cui è stata disposta la missione, è tenuto a comunicare il viaggio di ritorno con il primo mezzo utile, salvo che l'arrivo nella sede ordinaria di servizio superi, secondo gli orari ufficiali, la mezzanotte.</corpo>
+					</comma>
+					<comma id="art12-com2">
+						<num>2.</num>
+						<corpo>Il dipendente inviato in missione, anche per incarichi di lunga durata, è tenuto a rientrare giornalmente in sede, se la natura del servizio lo consente e la località di missione non dista più di centoventi minuti di viaggio con il mezzo più veloce, desumibile dagli orari ufficiali di servizio di linea.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art13">
+					<num>Art. 13</num>
+					<rubrica>ANTICIPAZIONI E LIQUIDAZIONI</rubrica>
+					<comma id="art13-com1">
+						<num>1.</num>
+						<corpo>Al personale inviato in missione deve essere corrisposta, su richiesta dell'interessato, l'anticipazione di una somma pari al settantacinque per cento del trattamento economico complessivo spettante per la missione, con esclusione dell'indennità di trasferta.</corpo>
+					</comma>
+					<comma id="art13-com2">
+						<num>2.</num>
+						<corpo>Al termine della missione, l'Amministrazione regionale provvede alla liquidazione dell'intero trattamento economico complessivo, previa presentazione di apposita tabella, firmata dal dipendente, convalidata dal dirigente e corredata dalla relativa documentazione.</corpo>
+					</comma>
+					<comma id="art13-com3">
+						<num>3.</num>
+						<corpo>Il recupero degli anticipi economici è disposto anche tramite ritenuta sulle competenze stipendiali anche oltre il limite del quinto dello stipendio.</corpo>
+					</comma>
+					<comma id="art13-com4">
+						<num>4.</num>
+						<corpo>
+							Al personale in servizio presso le strutture del Consiglio Regionale l'anticipazione di cui al
+							<rif xlink:href="#art13-com1" xlink:type="simple">comma 1</rif>
+							è erogata dell'Economo del Consiglio.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art14">
+					<num>Art. 14</num>
+					<rubrica>LAVORO STRAORDINARIO</rubrica>
+					<comma id="art14-com1">
+						<num>1.</num>
+						<corpo>Al personale non dirigente inviato in missione è dovuto il compenso per il lavoro straordinario, limitatamente alle prestazioni rese nella sede della missione in eccedenza al normale orario di servizio e con esclusione del tempo occorrente per il viaggio sia di andata che di ritorno e del tempo impiegato per la consumazione del pasto.</corpo>
+					</comma>
+					<comma id="art14-com2">
+						<num>2.</num>
+						<corpo>Le ore di lavoro straordinario compiute in missione concorrono, con quelle rese in sede, al raggiungimento dei limiti individuali stabiliti nei piani di struttura. Le ore stesse, prestate comunque nei limiti di cui innanzi, possono essere recuperate con il riposo compensativo, secondo quanto previsto dalla vigente normativa in materia di orario di servizio.</corpo>
+					</comma>
+					<comma id="art14-com3">
+						<num>3.</num>
+						<corpo>L'effettiva prestazione del lavoro straordinario reso dal personale in missione, deve essere attestata da apposita dichiarazione dell'interessato, controfirmata dal dirigente.</corpo>
+					</comma>
+					<comma id="art14-com4">
+						<num>4.</num>
+						<corpo>
+							Le ore complessivamente impegnate in missione, ivi compreso il tempo occorrente per il viaggio sia di andata che di ritorno che non diano luogo a lavoro straordinario ai sensi del
+							<rif xlink:href="#art14-com1" xlink:type="simple">comma 1</rif>
+							, concorrono alla copertura dell'orario di servizio giornaliero. Le ore eventualmente eccedenti siffatto orario non danno luogo a recupero come riposo compensativo.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art15">
+					<num>Art. 15</num>
+					<rubrica>TRATTAMENTO ECONOMICO PER LA PARTECIPAZIONE A CORSI DI FORMAZIONE</rubrica>
+					<comma id="art15-com1">
+						<num>1.</num>
+						<corpo>Al personale regionale che si reca fuori dall'ordinaria sede di servizio, per la partecipazione a corsi di formazione, riqualificazione, riconversione o aggiornamento professionale, compete il trattamento economico di missione secondo le modalità previste dalla presente legge, qualora debitamente documentata l'effettiva partecipazione.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art16">
+					<num>Art. 16</num>
+					<rubrica>TRATTAMENTO ECONOMICO DI TRASFERIMENTO</rubrica>
+					<comma id="art16-com1">
+						<num>1.</num>
+						<alinea>Al personale regionale che, a seguito di trasferimento d'ufficio, fissa la propria dimora abituale nel comune ove è situata la nuova sede di servizio, qualora l'effettivo trasferimento sia avvenuto entro un triennio dalla data di decorrenza del provvedimento di trasferimento, spetta il relativo trattamento economico, comprendente i seguenti benefici:</alinea>
+						<el id="art16-com1-leta">
+							<num>a)</num>
+							<corpo>indennità di prima sistemazione;</corpo>
+						</el>
+						<el id="art16-com1-letb">
+							<num>b)</num>
+							<corpo>rimborso delle spese.</corpo>
+						</el>
+					</comma>
+					<comma id="art16-com2">
+						<num>2.</num>
+						<corpo>
+							Il personale, di cui al
+							<rif xlink:href="#art16-com1" xlink:type="simple">comma 1</rif>
+							. che, per riconosciuta impossibilità di trovare alloggio nella nuova sede di servizio, trasferisce la famiglia, i mobili e le masserizie nei comuni viciniori, è ammesso ugualmente a fruire dell'indennità e dei rimborsi delle spese inerenti al trasferimento, quando la distanza dalla casa municipale del Comune vicino alla nuova sede di servizio non supera i trenta chilometri.
+						</corpo>
+					</comma>
+					<comma id="art16-com3">
+						<num>3.</num>
+						<corpo>Il trattamento economico non è dovuto in caso di trasferimento nell'ambito dello stesso Comune e nel caso di trasferimento disposto su domanda dell'interessato.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art17">
+					<num>Art. 17</num>
+					<rubrica>indennità DI PRIMA SISTEMAZIONE E RIMBORSO SPESE</rubrica>
+					<comma id="art17-com1">
+						<num>1.</num>
+						<corpo>L'indennità di prima sistemazione compete nella misura forfettaria di lire 200.000, aumentata di un importo pari a tre mensilità dell'indennità integrativa speciale in godimento.</corpo>
+					</comma>
+					<comma id="art17-com2">
+						<num>2.</num>
+						<corpo>Tale indennità è ridotta di un terzo per il personale che, nella nuova sede di servizio, fruisca di alloggio gratuito.</corpo>
+					</comma>
+					<comma id="art17-com3">
+						<num>3.</num>
+						<alinea>Il rimborso delle spese comprende:</alinea>
+						<el id="art17-com3-leta">
+							<num>a)</num>
+							<corpo>le spese di viaggio per l'uso dei mezzi pubblici di linea, sostenute dal dipendente trasferito per sì, per i familiari e conviventi a carico;</corpo>
+						</el>
+						<el id="art17-com3-letb">
+							<num>b)</num>
+							<corpo>le spese sostenute per il trasloco nella misura stabilita per gli impiegati civili dello Stato.</corpo>
+						</el>
+					</comma>
+					<comma id="art17-com4">
+						<num>4.</num>
+						<corpo>
+							Se il trasferimento è effettuato con autovettura di proprietà, compete un'indennità chilometrica pari ad un quinto del prezzo di un litro di benzina super, stabilito secondo le modalità previste dall'
+							<rif xlink:href="#art10-com7" xlink:type="simple">art. 10, comma 7</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art18">
+					<num>Art. 18</num>
+					<rubrica>ADEGUAMENTO DEI BENEFICI</rubrica>
+					<comma id="art18-com1">
+						<num>1.</num>
+						<corpo>La misura dell'indennità e dei benefici previsti dalla presente legge sono automaticamente aggiornati sulla base delle determinazioni assunte con decreto del Ministro competente.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art19">
+					<num>Art. 19</num>
+					<rubrica>NORMA FINANZIARIA</rubrica>
+					<comma id="art19-com1">
+						<num>1.</num>
+						<corpo>Agli oneri derivanti dall'applicazione della presente legge si farà fronte con appositi stanziamenti previsti nelle leggi di bilancio.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art20">
+					<num>Art. 20</num>
+					<rubrica>NORMA FINALE</rubrica>
+					<comma id="art20-com1">
+						<num>1.</num>
+						<corpo>Per quanto non espressamente previsto dalla presente legge, si applicano le norme sul trattamento di missione degli impiegati civili dello Stato.</corpo>
+					</comma>
+					<comma id="art20-com2">
+						<num>2.</num>
+						<corpo>
+							Le norme della presente legge, ai sensi dell'
+							<rif xlink:href="urn:nir:stato:decreto.legislativo:1993-02-03;29#art72" xlink:type="simple">art. 72 del decreto legislativo 3 febbraio 1993 n. 29</rif>
+							e successive modificazioni si applicano fino alla sottoscrizione del contratto collettivo di lavoro ridisciplinante la materia, fatti salvi gli istituti da questo non previsti.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art21">
+					<num>Art. 21</num>
+					<rubrica>ABROGAZIONE DELLE NORME</rubrica>
+					<comma id="art21-com1">
+						<num>1.</num>
+						<alinea>
+							<mod id="mod1">Sono abrogate le seguenti disposizioni:</mod>
+						</alinea>
+						<el id="art21-com1-leta">
+							<num>a)</num>
+							<corpo>
+								<mod id="mod2">
+									<rif xlink:href="urn:nir:regione.molise:legge:1974-08-31;11" xlink:type="simple">legge regionale 31 agosto 1974 n. 11</rif>
+									: abrogato
+									<rif xlink:href="urn:nir:regione.molise:legge:1974-08-31;11#art77" xlink:type="simple">articolo 77</rif>
+									;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art21-com1-letb">
+							<num>b)</num>
+							<corpo>
+								<mod id="mod3">
+									<rif xlink:href="urn:nir:regione.molise:legge:1974-08-31;12" xlink:type="simple">legge regionale 31 agosto 1974 n. 12</rif>
+									: abrogato
+									<rif xlink:href="urn:nir:regione.molise:legge:1974-08-31;12#art1-num14" xlink:type="simple">articolo unico, numero 14</rif>
+									;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art21-com1-letc">
+							<num>c)</num>
+							<corpo>
+								<mod id="mod4">
+									<rif xlink:href="urn:nir:regione.molise:legge:1980-05-08;12" xlink:type="simple">legge regionale 8 maggio 1980 n. 12</rif>
+									: interamente abrogato
+									<rif xlink:href="urn:nir:regione.molise:legge:1980-05-08;12#tit5-cap2" xlink:type="simple">capo II del titolo V</rif>
+									;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art21-com1-letd">
+							<num>d)</num>
+							<corpo>
+								<mod id="mod5">
+									<rif xlink:href="urn:nir:regione.molise:legge:1985-04-29;13" xlink:type="simple">legge regionale 29 aprile 1985 n. 13</rif>
+									: abrogato
+									<rif xlink:href="urn:nir:regione.molise:legge:1985-04-29;13#art31" xlink:type="simple">articolo 31</rif>
+									;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art21-com1-lete">
+							<num>e)</num>
+							<corpo>
+								<mod id="mod6">
+									<rif xlink:href="urn:nir:regione.molise:legge:1990-12-14;31" xlink:type="simple">legge regionale 14 dicembre 1990 n. 31</rif>
+									: abrogato
+									<rif xlink:href="urn:nir:regione.molise:legge:1990-12-14;31#art43" xlink:type="simple">articolo 43</rif>
+									;
+								</mod>
+							</corpo>
+						</el>
+						<el id="art21-com1-letf">
+							<num>f)</num>
+							<corpo>
+								<mod id="mod7">
+									<rif xlink:href="urn:nir:regione.molise:legge:1990-12-14;32" xlink:type="simple">legge regionale 14 dicembre 1990 n. 32</rif>
+									: abrogato
+									<rif xlink:href="urn:nir:regione.molise:legge:1990-12-14;32#art1-com1-num4" xlink:type="simple">articolo 1, comma 1, numero 4</rif>
+									.
+								</mod>
+							</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art22">
+					<num>Art. 22</num>
+					<rubrica>DIGHIARAZIONE DI URGENZA</rubrica>
+					<comma id="art22-com1">
+						<num>1.</num>
+						<corpo>
+							La presente legge è dichiarata urgente ai sensi dell'
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art127" xlink:type="simple">articolo 127 della Costituzione</rif>
+							e dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art38" xlink:type="simple">articolo 38 dello Statuto regionale</rif>
+							ed entra in vigore il giorno successivo a quello della sua pubblicazione.
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale>La presente legge sarà pubblicata nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise</formulafinale>
+			<conclusione />
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>Tabella A</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="xxxxx">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="19990417" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:regione.molise:legge:1999-04-12;12:tabella.a" />
+							</descrittori>
+							<ciclodivita>
+								<eventi>
+									<evento data="19990417" fonte="ro2" id="t2" tipo="entrata in vigore" />
+								</eventi>
+								<relazioni>
+									<originale id="ro2" xlink:href="urn:nir:regione.molise:legge:1999-04-12;12:tabella.a" xlink:type="simple" />
+								</relazioni>
+							</ciclodivita>
+						</meta>
+						<intestazione>
+							<emanante />
+							<tipoDoc />
+							<dataDoc norm="" />
+							<numDoc />
+							<titoloDoc />
+						</intestazione>
+						<contenitore id="con1" nome="corpo">
+							<h:p>
+								Di cui all'
+								<rif xlink:href="#art6-com2" xlink:type="simple">art. 6, comma secondo</rif>
+							</h:p>
+							<h:p>a) gruppi previsti dal DM. 24 maggio 1990</h:p>
+							<h:p>b) corrispondenti qualifiche gruppo 6funzionali della Regione Molise</h:p>
+							<h:p>gruppo 4dirigenti</h:p>
+							<h:p>gruppo 58a qualifica funzionale</h:p>
+							<h:p>gruppo 57a qualifica funzionale</h:p>
+							<h:p>gruppo 66a qualifica funzionale</h:p>
+							<h:p>gruppo 75a qualifica funzionale</h:p>
+							<h:p>gruppo 84a qualifica funzionale</h:p>
+							<h:p>gruppo 93a qualifica funzionale</h:p>
+							<h:p>gruppo 10 2a qualifica funzionale</h:p>
+						</contenitore>
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</LeggeRegionale>
+	</NIR>

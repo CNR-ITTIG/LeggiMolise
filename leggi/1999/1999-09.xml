@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19990301" num="4" tipo="BURM"/>
-                <entratainvigore norm="19990316"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1999-02-23;9"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea"/>
-                </materie>
-            </descrittori>
-        </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19990301" num="4" tipo="BURM" />
+					<entratainvigore norm="19990316" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1999-02-23;9" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19990316" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20120129" fonte="rp1" id="t2" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-02-23;9" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2012;2" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
  
 Bollettino 
 Bollettino Ufficiale n. 04 del 01/03/99 
@@ -27,638 +38,899 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc norm="19990223">23 febbraio 1999</dataDoc>, n.<numDoc>9</numDoc>
-            <titoloDoc>Norme per la tutela della flora in via di estinzione e di quella autoctona ed incentivi alla coltivazione delle piante del sottobosco e officinali. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <titolo id="tit1">
-                <num>Titolo I  </num>
-                <rubrica>
- 
-NORME SULLA SALVAGUARDIA  
- 
-</rubrica>
-                <articolo id="art1">
-                    <num>Art. 1  </num>
-                    <rubrica>
- 
-Finalità  
- </rubrica>
-                    <comma id="art1-com1">
-                        <num>
-1.</num>
-
-                        <corpo> La Regione Molise, in attuazione dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art4">art. 4 dello Statuto Regionale</rif>, con la presente legge tutela e salvaguardia la raccolta di piante spontanee di uso alimentare, medicinale e ornamentale e proibisce la raccolta delle piante ritenute specie in via di estinzione rare e vulnerabili che in quanto tali sono degne di protezione per il loro interesse scientifico e per il mantenimento sia della biodiversità sia dell'integrità dell'ambiente. Ogni modifica alla presente legge dovrè essere sottoposta al parere di enti di ricerca e associazioni protezionistiche.  
- 
-</corpo>
-                    </comma>
-                </articolo>
-                <articolo id="art2">
-                    <num>Art. 2  </num>
-                    <rubrica>
- 
-DISCIPLINA DELLA RACCOLTA  
- </rubrica>
-                    <comma id="art2-com1">
-                        <num>
-1.</num>
-                        <corpo> Nella regione Molise è consentita, nel rispetto del diritto di proprietà, fatto salvo il divieto espresso dal proprietario o conduttore del fondo, nei modi e nei tempi previsti dalla presente legge, la raccolta giornaliera di piante alimentari, medicinali e ornamentali.  </corpo>
-                    </comma>
-                    <comma id="art2-com2">
-                        <num>
- 
-2.</num>
-                        <corpo> La raccolta delle quantità minime indicata negli elenchi di cui alla presente legge è consentita per uso personale, di cui non necessario il rilascio di autorizzazione  
- 
-La raccolta delle quantità massime è subordinata al rilascio di regolare permesso da parte delle autorità comunali, che ne dovranno dare comunicazione agli organi regionali di controllo. I permessi concessi dovranno rispettare un calendario settimanale, fissato in due giorni consecutivi.  
- 
-</corpo>
-                    </comma>
-                </articolo>
-                <articolo id="art3">
-                    <num>Art. 3  </num>
-                    <rubrica>
- 
-PIANTE ALIMENTARI  
- </rubrica>
-                    <comma id="art3-com1">
-                        <num>
-1.</num>
-                        <corpo> La quantità di raccolta consentita di piante alimentari è la seguente:  
- 
-- Fragole (Fragaria vesca) min. 500 g.: max 1 Kg  
- 
-- Lamponi (Rubes idoeus) 100 g.  
- 
-- More di rovo ulmifolius) (Rubus 1 Kg.  
- 
-- Sorbo domestico (Sorbus domestica) 2 Kg.  
- 
-- Asparago selvatico (Asparagus officinalis) min. 1 Kg. (steli lunghi meno di 20 cm.)  
- 
-- Origano (Origanum vulgare)min. 500 g. (steli lunghi meno di 20 cm.)  
- 
-- Rosmarino (Rosmarinus officinalis) min. 500 g. (steli lunghi meno di 20 cm.)  
- 
-- Ginepro (Juniperus communis) - bacche min. 300 g.: max 1 Kg  
- 
-- Mirto (Myrtus communis) - frutti min. 200 g.: max 1 Kg  
- 
-- Cicoria (Cichorium intybus) min. 1 Kg.: max 2 Kg  
- 
-- Spinacio di montagna (Chenopodium bonus - enricus) min. 500 g.:max 2 Kg  
- 
-- Finocchio selvatico (Foeniculum vulgare) - semi min. 100 g.: max 500 g.  
- 
-- Finocchio di mare (Crithmurn maritimum) foglie 100 g  
- 
-- Cappero (Cappari spinosa) - fiori 100 g.  
- 
-- Timo (Thymus longicaulis e tutte le altre specie del genere min. 100 g. max 500 g.  
- 
-2. è proibita comunque la raccolta delle seguenti specie alimentari: Ribes (Ribes alpinum, Ruva - crispa R. multiflorum); Corbezzolo (Arbutus unedo).  
- 
-</corpo>
-                    </comma>
-                </articolo>
-                <articolo id="art4">
-                    <num>Art. 4  </num>
-                    <rubrica>
- 
-PIANTE MEDICINALI  
- </rubrica>
-                    <comma id="art4-com1">
-                        <num>
-1.</num>
-                        <alinea> La quantità di raccolta consentita per le piante medicinali è la seguente:  
- 
-- Valeriana (Valeriana officinalls) - radici min. 100 g.: max 500 g.  
- 
-- Liquirizia (Glyerrhizia glabra) - radici min. 100 g.: max 500 g.  
- 
-- Achillea (Achillea millefolium</alinea>
-                        <el id="art4-com1-leta">
-                            <num> A.</num>
-                            <corpo>collina)300 g.  
- 
-- Ruta (Ruta graveolens) 200 g.  
- 
-- Tarassaco comune (Taraxacurn officinale) radici200 g.  
- 
-- Rosa canina (frutti) min. 300 g.: max 1Kg  
- </corpo>
-                        </el>
-                    </comma>
-                    <comma id="art4-com2">
-                        <num>
-2.</num>
-                        <corpo> è vietata l'estirpazione delle piante sopraelencate tranne quelle indicate per le radici.  </corpo>
-                    </comma>
-                    <comma id="art4-com3">
-                        <num>
- 
-3.</num>
-                        <corpo> è proibita comunque la raccolta delle seguenti specie medicinali:  
- 
-- Genziana. (Genziana lutea, G. dinarica, G. verna G. ciliata): Euphrasia (Euphrasia stricta e tutte le altre specie del genere:  
- 
-- Althaea officinalis, Uva orsina (Arctastaphylos uva - ursi).  
- 
-</corpo>
-                    </comma>
-                </articolo>
-                <articolo id="art5">
-                    <num>Art. 5  </num>
-                    <rubrica>
- 
-PIANTE ORNAMENTALI  
- </rubrica>
-                    <comma id="art5-com1">
-                        <num>
-1.</num>
-                        <alinea> La quantità di raccolta consentita per le piante ornamentali è la seguente:  
- 
-- Muschi (tutte le specie) min. 200 g.: max 1 Kg  
- 
-- Eryngium campestre 2 steli  
- 
-- Typha (Typha latifolia) stelo 1 stelo  
- 
-- Pteridium aquilinum (Felce aquilina) raccolta libera  
- 
-2. è vietata l'estirpazione delle piante sopraelencate, tranne che per la felce aquilina. I muschi dovranno essere raccolti mediante tagli con forbici a 2 cm. dal terreno.  
- 
-3. La raccolta ad uso Commerciale delle suddette piante è subordinata al rilascio di un permesso.  
- 
-4. è proibita comunque la raccolta delle seguentispecie ornamentali:  
- 
-- Giglio (Lilium bulbiferum, L. martagon, L. candidum)  
- 
-- Giglio di mare (Pancratium maritimum)  
- 
-- Narciso (Narcissus poeticus, N. tazetta)  
- 
-- Pungitopo (Ruscus aculeatus) 
- 
-- Giaggiolo (Iris pseudacorus I. pseudopumila e tutte le altre specie del genere)  
- 
-- Agrifoglio (Ilex aquifolium) 
- 
-- Lentisco (Pistacia lentiscus)  
- 
-- Mirto (Mirtus communis)  
- 
-- Primula (P. vulgaris)  
- 
-- Ciclamino (Cyclamen neapolitanurn, c. repandum)  
- 
-- Anemoni (Anemone bortensis,</alinea>
-                        <el id="art5-com1-leta">
-                            <num> A.</num>
-                            <corpo> apennina).  
- 
-</corpo>
-                        </el>
-                    </comma>
-                </articolo>
-                <articolo id="art6">
-                    <num>Art. 6  </num>
-                    <rubrica>
- 
-DEROGHE PER I RESIDENTI  
- </rubrica>
-                    <comma id="art6-com1">
-                        <num>
-1.</num>
-                        <corpo> I comuni ricadenti in zone svantaggiate possono rilasciare speciali autorizzazioni per la raccolta delle piante elencate negli artt. 3 - 4 e 5, in quantità superiore a quelle massime consentite, ai cittadini residenti per i quali la raccolta costituisce fonte di lavoro e di sussistenza.  
- 
-</corpo>
-                    </comma>
-                </articolo>
-                <articolo id="art7">
-                    <num>Art. 7  </num>
-                    <rubrica>
- 
-DIVIETI ASSOLUTI DI RACCOLTA  
- 
-è vietato a chiunque, ivi compreso il proprietario del fondo, salvo si tratti di terreno messo a coltura, la raccolta delle specie di piante che vengono indicate secondo le seguenti categorie:</rubrica>
-                    <comma id="art7-com1">
-                        <num> 1)</num>
-                        <corpo> Specie in via di Estinzione (E), 2) Specie Rare (R), 3) Specie Vulnerabili (V) incluse nell'allegato di cui all'allegato 1. 
- 
-</corpo>
-                    </comma>
-                </articolo>
-                <articolo id="art8">
-                    <num>Art. 8  </num>
-                    <rubrica>
- 
-VIGILANZA  
- </rubrica>
-                    <comma id="art8-com1">
-                        <num>
-1.</num>
-                        <corpo> La vigilanza per il rispetto delle norme contenute nella presente legge è affidata agli agenti di polizia urbana o locale, agli agenti del Corpo Forestale dello Stato.  
- 
-</corpo>
-                    </comma>
-                </articolo>
-                <articolo id="art9">
-                    <num>Art. 9  </num>
-                    <rubrica>
- 
-SANZIONI  
- </rubrica>
-                    <comma id="art9-com1">
-                        <num>
-1.</num>
-                        <corpo> Per le violazioni si applicano sanzioni amministrative da L. 50.000 a L. 1.000.000, oltre per coloro che ne sono provvisti, il ritiro per un anno del permesso. </corpo>
-                    </comma>
-                    <comma id="art9-com2">
-                        <num>
- 
-2.</num>
-                        <corpo> L'entità della sanzione verrè stabilita in conformità della gravità dell'infrazione. </corpo>
-                    </comma>
-                    <comma id="art9-com3">
-                        <num>
- 
-3.</num>
-                        <corpo> Gli agenti che accerteranno infrazioni procedono alla confisca dei prodotti raccolti in violazione delle norme di cui alla presente legge.  
- 
-</corpo>
-                    </comma>
-                </articolo>
-            </titolo>
-            <titolo id="tit2">
-                <num>Titolo II  </num>
-                <rubrica>
- 
-INCENTIVI ALLA COLTIVAZIONE  
- 
-</rubrica>
-                <articolo id="art10">
-                    <num>Art. 10  </num>
-                    <rubrica>
- 
-INCENTIVI  
- </rubrica>
-                    <comma id="art10-com1">
-                        <num>
-1.</num>
-                        <corpo> La Regione, per incentivare la messa a coltura di piante officinali e di quelle del sottobosco concede agli imprenditori agricoli, a titolo principale, singoli od associati, contributi in conto capitale nella misura massima del 60% della spesa ammissibile. </corpo>
-                    </comma>
-                    <comma id="art10-com2">
-                        <num>
- 
-2.</num>
-
-                        <alinea> Le piante del sottobosco ammesse ai contributi di cui al <rif xlink:href="#art10-com1">comma 1</rif> sono le seguenti:  
- 
-</alinea>
-                        <el id="art10-com2-leta">
-                            <num>a)</num>
-                            <corpo> Fragoline di sottobosco  
- 
-b) Lampone 
- 
-c) Mirtillo  
- 
-d) More  
- 
-e) Ribes  
- 
-f) Uva spina  
- </corpo>
-                        </el>
-                    </comma>
-                    <comma id="art10-com3">
-                        <num>
-3.</num>
-
-                        <alinea> Le piante officinali ammesse ai contributi di cui al <rif xlink:href="#art10-com1">comma 1</rif> sono le seguenti:  
- 
-</alinea>
-                        <el id="art10-com3-leta">
-                            <num>a)</num>
-                            <corpo> Camomilla  
- 
-b) Origano 
- 
-c) Salvia  
- 
-</corpo>
-                        </el>
-                    </comma>
-                </articolo>
-                <articolo id="art11">
-                    <num>Art. 11  </num>
-                    <rubrica>
- 
-INCENTIVI AMMESSI A BENEFICIO  
- </rubrica>
-                    <comma id="art11-com1">
-                        <num>
-1.</num>
-
-                        <alinea> Gli interventi ammessi a beneficio di cui all'<rif xlink:href="#art9">Art. 9</rif> comprendono:  
- 
-</alinea>
-                        <el id="art11-com1-leta">
-                            <num>a)</num>
-                            <corpo> le opere di preparazione e sistemazione del terreno;</corpo>
-                        </el>
-                        <el id="art11-com1-letb">
-                            <num>  
- 
-b)</num>
-                            <corpo> la concimazione;</corpo>
-                        </el>
-                        <el id="art11-com1-letc">
-                            <num>  
- 
-c)</num>
-                            <corpo> l'acquisto del materiale di propagazione e di moltiplicazione (semenzai, vasi, terreno).  
- 
-</corpo>
-                        </el>
-                    </comma>
-                </articolo>
-                <articolo id="art12">
-                    <num>Art. 12  </num>
-                    <rubrica>
- 
-PROCEDIMENTO PER LA CONCESSIONE DEL CONTRIBUTO 
- </rubrica>
-                    <comma id="art12-com1">
-                        <num>
-1.</num>
-                        <alinea> Gli interessati per ottenere il contributo in conto capitale devono presentare all'Assessorato all'Agricoltura una domanda dove si deve indicare: 
- 
-</alinea>
-                        <el id="art12-com1-leta">
-                            <num>a)</num>
-                            <corpo> la quantità, la qualità e la provenienza delle piantagioni da porre a dimora certificate da vivai autorizzati;</corpo>
-                        </el>
-                        <el id="art12-com1-letb">
-                            <num>  
- 
-b)</num>
-                            <corpo> il costo complessivo degli interventi che possono fruire del contributo in conto capitale. 
- 
-</corpo>
-                        </el>
-                    </comma>
-                </articolo>
-            </titolo>
-            <titolo id="tit3">
-                <num>Titolo III </num>
-                <rubrica>
- 
-RIMBOSCHIMENTO  
- 
-</rubrica>
-                <articolo id="art13">
-                    <num>Art. 13  </num>
-                    <comma id="art13-com1">
-                        <num>
-1.</num>
-                        <corpo> I nuovi impianti di rimboschimento e di giardini, la messa a dimora di piante in genere, per poter usufruire dei finanziamenti previsti a vari livelli dalla Regione Molise, devono utilizzare piante autoctone per fasce a secondo dell'altitudine e della latitudine come da allegato 2.  </corpo>
-                    </comma>
-                    <comma id="art13-com2">
-                        <num>
- 
-2.</num>
-                        <corpo> I Comuni, le Province, le Comunità Montane, i Consorzi di Bonifica, gli Enti sub - regionali nella loro programmazione dovranno attenersi a quanto previsto dal presente articolo.  </corpo>
-                    </comma>
-                    <comma id="art13-com3">
-                        <num>
- 
-3.</num>
-                        <corpo> La Regione Molise, all'interno dei vivai gestiti direttamente, dovrè effettuare una programmazione con produzioni di piante autoctone, in modo tale da poter soddisfare le eventuali richieste di enti pubblici e dei privati per gestire i propri programmi di rimboschimento, riforestazione e costituzione del verde in genere.  
- 
-</corpo>
-                    </comma>
-                </articolo>
-            </titolo>
-            <titolo id="tit4">
-                <num>Titolo IV  </num>
-                <rubrica>
- 
-NORME FINALI  
- 
-</rubrica>
-                <articolo id="art14">
-                    <num>Art. 14  </num>
-                    <rubrica>
- 
-NORMA FINANZIARIA  
- </rubrica>
-                    <comma id="art14-com1">
-                        <num>
-1.</num>
-                        <corpo> Gli oneri derivanti dalla presente legge, da porsi a carico della competenza dell'esercizio 1999, troveranno copertura finanziaria con lo stesso provvedimento legislativo di approvazione del bilancio regionale per l'esercizio finanziario 1999.  
- 
-</corpo>
-                    </comma>
-                </articolo>
-                <articolo id="art15">
-                    <num>Art. 15  </num>
-                    <rubrica>
- 
-ABROGAZIONE  
- </rubrica>
-                    <comma id="art15-com1">
-                        <num>
-1.</num>
-                        <corpo>
-                            <mod id="art15-com1-mod1"> Sono abrogate tutte le disposizioni contenute in leggi regionali che siano incompatibili con la presente legge.  
- 
-</mod>
-                        </corpo>
-                    </comma>
-                </articolo>
-                <articolo id="art16">
-                    <num>Art. 16  </num>
-                    <rubrica>
- 
-PUBBLICAZIONE  
- </rubrica>
-                    <comma id="art16-com1">
-                        <num>
-1.</num>
-                        <corpo> La presente legge regionale sarè pubblicata nel Bollettino Ufficiale della Regione Molise.  
-</corpo>
-                    </comma>
-                </articolo>
-            </titolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error &#xC8; fatto obbligo, a chiunque spetti, di osservarla e farla csservare come legge della Regione Molise. 
- 
-
-?>
-        <annessi>
-            <annesso id="ann1">
-                <testata>
-                    <denAnnesso>
-                        <h:p>Allegato 1</h:p>
-                    </denAnnesso>
-                    <titAnnesso>
-                        <h:p/>
-                    </titAnnesso>
-                    <preAnnesso>
-                        <h:p/>
-                    </preAnnesso>
-                </testata>
-                <DocumentoNIR nome="">
-                    <meta>
-                        <descrittori>
-                            <pubblicazione norm="" num="" tipo="GU"/>
-                            <entratainvigore norm=""/>
-                            <redazione id="ann1-red1" nome="" norm=""/>
-                            <urn valore=""/>
-                        </descrittori>
-                    </meta>
-                    <intestazione/>
-                    <formulainiziale/>
-                    <contenitore id="ann1-" nome="">
-                        <h:p/>
-                        <h:p>SPECIE IN VIA DI ESTINZIONE  
- 
-</h:p>
-                        <h:p>- E Allium Moschatum L.  
-</h:p>
-                        <h:p> 
-- E Alyssoides Utriculata (L.) Moench  
- 
-</h:p>
-                        <h:p>- E Anogramma Leptophylla (L.) Link  
- 
-</h:p>
-                        <h:p>- E Athamanta Macedonica (L.) Spreng. Subsp. Macedonica 
- 
-</h:p>
-                        <h:p>- E Carex Liparocarpos Gaudin Subsp. Lipairocarpos 
- 
-</h:p>
-                        <h:p>- E Carer Pseudocyperus L.  
-</h:p>
-                        <h:p> 
-- E Colchicum Cupanii Guss.  
-</h:p>
-                        <h:p> 
-- E Conopodiurn Capillifolium (Guss.) Boiss.  
-</h:p>
-                        <h:p> 
-- E Epipactis Palustris (L.) Crantz  
- 
-</h:p>
-                        <h:p>- E Eupborbia Palustris L.  
-</h:p>
-                        <h:p> 
-- E Helleborus Bocconei Ten. Subsp. Bocconei  
- 
-</h:p>
-                        <h:p>- E Holosteum Umbellatum L. Subsp. Umbellatum  
- 
-</h:p>
-                        <h:p>- E Iris Pseudopumila Tineo  
- 
-</h:p>
-                        <h:p>- E Isoetes Duriei Bory  
- 
-</h:p>
-                        <h:p>- E Juncus Ranarius Songeon </h:p>
-                    </contenitore>
-                    <formulafinale/>
-                    <conclusione/>
-                </DocumentoNIR>
-            </annesso>
-            <annesso id="ann2">
-                <testata>
-                    <denAnnesso>
-                        <h:p>Allegato 2</h:p>
-                    </denAnnesso>
-                    <titAnnesso>
-                        <h:p/>
-                    </titAnnesso>
-                    <preAnnesso>
-                        <h:p/>
-                    </preAnnesso>
-                </testata>
-                <DocumentoNIR nome="">
-                    <meta>
-                        <descrittori>
-                            <pubblicazione norm="" num="" tipo="GU"/>
-                            <entratainvigore norm=""/>
-                            <redazione id="ann2-red1" nome="" norm=""/>
-                            <urn valore=""/>
-                        </descrittori>
-                    </meta>
-                    <intestazione/>
-                    <formulainiziale/>
-                    <contenitore id="ann2-" nome="">
-                        <h:p/>
-                        <h:p>a) Laghi, Corsi d'acqua e Pantani 
- 
-</h:p>
-                        <h:p>Comunità vegetali presenti allo stato naturale come:  
-</h:p>
-                        <h:p> 
-- pioppo nero (populus nigra), salice (salix alba), salice da ceste (salix triandria), salice di ripa (salix fragilis), ginepro nero (juniperus communis), pioppo bianco (populus alba), olmo campestre (ulmus minor), sambuco nero (sambucus nigra).  
-</h:p>
-                        <h:p> 
-b) Area Collinare (Fascia Sub mediterranea)  
- 
-</h:p>
-                        <h:p>Querceti misti seminativi (semplici e arborati), boschi sparsi.  
-</h:p>
-                        <h:p> 
-Comunità vegetali presenti allo stato naturale come:  
-</h:p>
-                        <h:p> 
-- querceti misti sparsi di roverella (quercus pubescens), cerro (quercus cerris), leccio (quercus ilex), farnia (quercus pedunculata), acero minore (acer monaspessulanum), acero campestre (acer campestre), carpino bianco (carpinus betulus), carpinella (carpinus orientalis), pero selvatico (pyrus piraster), castagno (castanea sativa), sorbo degliuccellari (sorbus aucuparia), ginepro (juniperus communis), ciavardello (sorbus torminalis), ciliegio (prunus avium), prugnolo, (prunus spinosa), melo selvatico (malus silvestris), biancospino (crataegus monogyna), agrifoglio (ilex aquifolium), olmo campestre (ulmus minor), sambuco nero (sambucus nigra).  
-</h:p>
-                        <h:p> 
-c) Fascia submontana e montana 
- 
-</h:p>
-                        <h:p>Comunità vegetale presenti allo stato naturale come:  
-</h:p>
-                        <h:p> 
-- faggio (fagus sylvatica), roverella (quercus pubescens), cerro (quercus cerris), ginepro (juniperus communis), pero selvatico (pyrus piraster), prugnolo (prunus spinosa), sorbo montano (sorbus aria), acero di monte (acer pseudoplatanus), carpino banco (carpinus betulus), carpino nero (ostrya carpinifolia), ginepro ossicedro (juniperus oxjcedrus), orniello (fraxinus ornus), pino nero (pinus nigra), tasso taxus bacata), rosa canina, rosa campestre. 
-</h:p>
-                        <h:p> 
-Nei pascoli montani caratterizzati da associazioni di graminacee spontanee, soprattutto del genere stipa con presenza anche di achillea millefolium, poa pratensis, sono presenti anche macchie di felci e cardi  
- 
-</h:p>
-                        <h:p>d) Vegetazione delle sabbie litoranee  
- 
-</h:p>
-                        <h:p>Specie pioniere colonizzatrici delle sabbie ancora incoerenti e delle prime dune, quali: agropiri (agropyrum junceum), ammofila (ammophila arenaria), vilucchio delle sabbie (colystegia soldanella), erba medica marina (meticago marina), giglio di mare (pancratium maritimum), giagiolo nano (iris chamairis), carota di mare (daucus carota), pastinaca marina (echinophora spinosa), salicornia (salicornia friticosa), papavero delle sabbie (glaucuim flavum), cocomero asinino (ecballium elterium), asfodelo giallo (asphodelina lutea), iunco acuto (juncus acutus);  
-</h:p>
-                        <h:p> 
-Vegetazione sempre verde tipica della fascia Mediterranea;  
-</h:p>
-                        <h:p> 
-Su le dune il manto vegetale gradualmente più evoluto è rappresentato dalla vegetazione arbustiva come: ginepro (juniperus oxicedrus var macrocarpa e più raramente juniperus phoenicea cui si aggiungono, sempre più abbondanti man mano che si procede verso l'interno, altre specie sempre verdi tipiche della macchia mediterranea quali cisto bianco e cisto rosa (cistus monspeliensis, cistus incanus), rosmarino (rosmarinus officinalis), fillirea (phillyrea angustifolia), mirto (myrtus acutifolius), corbezzolo (arbustus unedo), lavanda (lavandula stoechas), asparago (asparago officinalis), oleandro (nerium oleander), ginestra (sparti juceum), liquirizia (gliycyrriza glabra), olivella sericea (daphne sericea), pero selvatico (pirus piraster), oleastro (olea europea sativa), pino domestico (pinus pinea), pino d'aleppo (pinus halepensis) e raramente pino marittimo (pinus pinaster). Formazione tipica fluviale con dominanza di salici, pioppo grigio, pioppo bianco, pioppo tremolo, tamarice, ginestra, liquirizia, canna di palude, raramente l'ontano.  
-</h:p>
-                        <h:p> 
-Tra le formazioni tipiche fluviali abbiamo aceri misti a querce. 
-</h:p>
-                        <h:p/>
-                    </contenitore>
-                    <formulafinale/>
-                    <conclusione/>
-                </DocumentoNIR>
-            </annesso>
-        </annessi>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="19990223">23 febbraio 1999</dataDoc>
+				, n.
+				<numDoc>9</numDoc>
+				<titoloDoc>Norme per la tutela della flora in via di estinzione e di quella autoctona ed incentivi alla coltivazione delle piante del sottobosco e officinali.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<titolo id="tit1">
+					<num>Titolo I</num>
+					<rubrica>NORME SULLA SALVAGUARDIA</rubrica>
+					<articolo id="art1">
+						<num>Art. 1</num>
+						<rubrica>Finalità</rubrica>
+						<comma id="art1-com1">
+							<num>1.</num>
+							<corpo>
+								La Regione Molise, in attuazione dell'
+								<rif xlink:href="urn:nir:regione.molise:statuto:#art4" xlink:type="simple">art. 4 dello Statuto Regionale</rif>
+								, con la presente legge tutela e salvaguardia la raccolta di piante spontanee di uso alimentare, medicinale e ornamentale e proibisce la raccolta delle piante ritenute specie in via di estinzione rare e vulnerabili che in quanto tali sono degne di protezione per il loro interesse scientifico e per il mantenimento sia della biodiversità sia dell'integrità dell'ambiente. Ogni modifica alla presente legge dovrà essere sottoposta al parere di enti di ricerca e associazioni protezionistiche.
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art2">
+						<num>Art. 2</num>
+						<rubrica>DISCIPLINA DELLA RACCOLTA</rubrica>
+						<comma id="art2-com1">
+							<num>1.</num>
+							<corpo>Nella regione Molise è consentita, nel rispetto del diritto di proprietà, fatto salvo il divieto espresso dal proprietario o conduttore del fondo, nei modi e nei tempi previsti dalla presente legge, la raccolta giornaliera di piante alimentari, medicinali e ornamentali.</corpo>
+						</comma>
+						<comma id="art2-com2">
+							<num>2.</num>
+							<corpo>
+								La raccolta delle quantità minime indicata negli elenchi di cui alla presente legge è consentita per uso personale, di cui non necessario il rilascio di autorizzazione
+								<h:p>La raccolta delle quantità massime è subordinata al rilascio di regolare permesso da parte delle autorità comunali, che ne dovranno dare comunicazione agli organi regionali di controllo. I permessi concessi dovranno rispettare un calendario settimanale, fissato in due giorni consecutivi.</h:p>
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art3">
+						<num>Art. 3</num>
+						<rubrica>PIANTE ALIMENTARI</rubrica>
+						<comma id="art3-com1">
+							<num>1.</num>
+							<alinea>La quantità di raccolta consentita di piante alimentari è la seguente:</alinea>
+							<ep id="art3-com1-pun1">
+								<num>-</num>
+								<corpo>Fragole (Fragaria vesca) min. 500 g.: max 1 Kg</corpo>
+							</ep>
+							<ep id="art3-com1-pun2">
+								<num>-</num>
+								<corpo>Lamponi (Rubes idoeus) 100 g.</corpo>
+							</ep>
+							<ep id="art3-com1-pun3">
+								<num>-</num>
+								<corpo>More di rovo ulmifolius) (Rubus 1 Kg.</corpo>
+							</ep>
+							<ep id="art3-com1-pun4">
+								<num>-</num>
+								<corpo>Sorbo domestico (Sorbus domestica) 2 Kg.</corpo>
+							</ep>
+							<ep id="art3-com1-pun5">
+								<num>-</num>
+								<corpo>Asparago selvatico (Asparagus officinalis) min. 1 Kg. (steli lunghi meno di 20 cm.)</corpo>
+							</ep>
+							<ep id="art3-com1-pun6">
+								<num>-</num>
+								<corpo>Origano (Origanum vulgare)min. 500 g. (steli lunghi meno di 20 cm.)</corpo>
+							</ep>
+							<ep id="art3-com1-pun7">
+								<num>-</num>
+								<corpo>Rosmarino (Rosmarinus officinalis) min. 500 g. (steli lunghi meno di 20 cm.)</corpo>
+							</ep>
+							<ep id="art3-com1-pun8">
+								<num>-</num>
+								<corpo>Ginepro (Juniperus communis) - bacche min. 300 g.: max 1 Kg</corpo>
+							</ep>
+							<ep id="art3-com1-pun9">
+								<num>-</num>
+								<corpo>Mirto (Myrtus communis) - frutti min. 200 g.: max 1 Kg</corpo>
+							</ep>
+							<ep id="art3-com1-pun10">
+								<num>-</num>
+								<corpo>Cicoria (Cichorium intybus) min. 1 Kg.: max 2 Kg</corpo>
+							</ep>
+							<ep id="art3-com1-pun11">
+								<num>-</num>
+								<corpo>Spinacio di montagna (Chenopodium bonus - enricus) min. 500 g.:max 2 Kg</corpo>
+							</ep>
+							<ep id="art3-com1-pun12">
+								<num>-</num>
+								<corpo>Finocchio selvatico (Foeniculum vulgare) - semi min. 100 g.: max 500 g.</corpo>
+							</ep>
+							<ep id="art3-com1-pun13">
+								<num>-</num>
+								<corpo>Finocchio di mare (Crithmurn maritimum) foglie 100 g</corpo>
+							</ep>
+							<ep id="art3-com1-pun14">
+								<num>-</num>
+								<corpo>Cappero (Cappari spinosa) - fiori 100 g.</corpo>
+							</ep>
+							<ep id="art3-com1-pun15">
+								<num>-</num>
+								<corpo>Timo (Thymus longicaulis e tutte le altre specie del genere min. 100 g. max 500 g.</corpo>
+							</ep>
+						</comma>
+						<comma id="art3-com2">
+							<num>2.</num>
+							<corpo>È proibita comunque la raccolta delle seguenti specie alimentari: Ribes (Ribes alpinum, Ruva - crispa R. multiflorum); Corbezzolo (Arbutus unedo).</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art4">
+						<num>Art. 4</num>
+						<rubrica>PIANTE MEDICINALI</rubrica>
+						<comma id="art4-com1">
+							<num>1.</num>
+							<alinea>La quantità di raccolta consentita per le piante medicinali è la seguente:</alinea>
+							<ep id="art4-com1-pun1">
+								<num>-</num>
+								<corpo>Valeriana (Valeriana officinalls) - radici min. 100 g.: max 500 g.</corpo>
+							</ep>
+							<ep id="art4-com1-pun2">
+								<num>-</num>
+								<corpo>Liquirizia (Glyerrhizia glabra) - radici min. 100 g.: max 500 g.</corpo>
+							</ep>
+							<ep id="art4-com1-pun3">
+								<num>-</num>
+								<corpo>Achillea (Achillea millefolium A.collina)300 g.</corpo>
+							</ep>
+							<ep id="art4-com1-pun4">
+								<num>-</num>
+								<corpo>Ruta (Ruta graveolens) 200 g.</corpo>
+							</ep>
+							<ep id="art4-com1-pun5">
+								<num>-</num>
+								<corpo>Tarassaco comune (Taraxacurn officinale) radici200 g.</corpo>
+							</ep>
+							<ep id="art4-com1-pun6">
+								<num>-</num>
+								<corpo>Rosa canina (frutti) min. 300 g.: max 1Kg</corpo>
+							</ep>
+						</comma>
+						<comma id="art4-com2">
+							<num>2.</num>
+							<corpo>È vietata l'estirpazione delle piante sopraelencate tranne quelle indicate per le radici.</corpo>
+						</comma>
+						<comma id="art4-com3">
+							<num>3.</num>
+							<alinea>È proibita comunque la raccolta delle seguenti specie medicinali:</alinea>
+							<ep id="art4-com3-pun1">
+								<num>-</num>
+								<corpo>Genziana. (Genziana lutea, G. dinarica, G. verna G. ciliata): Euphrasia (Euphrasia stricta e tutte le altre specie del genere:</corpo>
+							</ep>
+							<ep id="art4-com3-pun2">
+								<num>-</num>
+								<corpo>Althaea officinalis, Uva orsina (Arctastaphylos uva - ursi).</corpo>
+							</ep>
+						</comma>
+					</articolo>
+					<articolo id="art5">
+						<num>Art. 5</num>
+						<rubrica>PIANTE ORNAMENTALI</rubrica>
+						<comma id="art5-com1">
+							<num>1.</num>
+							<alinea>La quantità di raccolta consentita per le piante ornamentali è la seguente:</alinea>
+							<ep id="art5-com1-pun1">
+								<num>-</num>
+								<corpo>Muschi (tutte le specie) min. 200 g.: max 1 Kg</corpo>
+							</ep>
+							<ep id="art5-com1-pun2">
+								<num>-</num>
+								<corpo>Eryngium campestre 2 steli</corpo>
+							</ep>
+							<ep id="art5-com1-pun3">
+								<num>-</num>
+								<corpo>Typha (Typha latifolia) stelo 1 stelo</corpo>
+							</ep>
+							<ep id="art5-com1-pun4">
+								<num>-</num>
+								<corpo>Pteridium aquilinum (Felce aquilina) raccolta libera</corpo>
+							</ep>
+						</comma>
+						<comma id="art5-com2">
+							<num>2.</num>
+							<corpo>È vietata l'estirpazione delle piante sopraelencate, tranne che per la felce aquilina. I muschi dovranno essere raccolti mediante tagli con forbici a 2 cm. dal terreno.</corpo>
+						</comma>
+						<comma id="art5-com3">
+							<num>3.</num>
+							<corpo>La raccolta ad uso Commerciale delle suddette piante è subordinata al rilascio di un permesso.</corpo>
+						</comma>
+						<comma id="art5-com4">
+							<num>4.</num>
+							<alinea>È proibita comunque la raccolta delle seguentispecie ornamentali:</alinea>
+							<ep id="art5-com4-pun1">
+								<num>-</num>
+								<corpo>Giglio (Lilium bulbiferum, L. martagon, L. candidum)</corpo>
+							</ep>
+							<ep id="art5-com4-pun2">
+								<num>-</num>
+								<corpo>Giglio di mare (Pancratium maritimum)</corpo>
+							</ep>
+							<ep id="art5-com4-pun3">
+								<num>-</num>
+								<corpo>Narciso (Narcissus poeticus, N. tazetta)</corpo>
+							</ep>
+							<ep id="art5-com4-pun4">
+								<num>-</num>
+								<corpo>Pungitopo (Ruscus aculeatus)</corpo>
+							</ep>
+							<ep id="art5-com4-pun5">
+								<num>-</num>
+								<corpo>Giaggiolo (Iris pseudacorus I. pseudopumila e tutte le altre specie del genere)</corpo>
+							</ep>
+							<ep id="art5-com4-pun6">
+								<num>-</num>
+								<corpo>Agrifoglio (Ilex aquifolium)</corpo>
+							</ep>
+							<ep id="art5-com4-pun7">
+								<num>-</num>
+								<corpo>Lentisco (Pistacia lentiscus)</corpo>
+							</ep>
+							<ep id="art5-com4-pun8">
+								<num>-</num>
+								<corpo>Mirto (Mirtus communis)</corpo>
+							</ep>
+							<ep id="art5-com4-pun9">
+								<num>-</num>
+								<corpo>Primula (P. vulgaris)</corpo>
+							</ep>
+							<ep id="art5-com4-pun10">
+								<num>-</num>
+								<corpo>Ciclamino (Cyclamen neapolitanurn, c. repandum)</corpo>
+							</ep>
+							<ep id="art5-com4-pun11">
+								<num>-</num>
+								<corpo>Anemoni (Anemone bortensis, A.apennina).</corpo>
+							</ep>
+						</comma>
+					</articolo>
+					<articolo id="art6">
+						<num>Art. 6</num>
+						<rubrica>DEROGHE PER I RESIDENTI</rubrica>
+						<comma id="art6-com1">
+							<num>1.</num>
+							<corpo>I comuni ricadenti in zone svantaggiate possono rilasciare speciali autorizzazioni per la raccolta delle piante elencate negli artt. 3 - 4 e 5, in quantità superiore a quelle massime consentite, ai cittadini residenti per i quali la raccolta costituisce fonte di lavoro e di sussistenza.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art7">
+						<num>Art. 7</num>
+						<rubrica>DIVIETI ASSOLUTI DI RACCOLTA</rubrica>
+						<comma id="art7-com1">
+							<num />
+							<corpo>È vietato a chiunque, ivi compreso il proprietario del fondo, salvo si tratti di terreno messo a coltura, la raccolta delle specie di piante che vengono indicate secondo le seguenti categorie: 1) Specie in via di Estinzione (E), 2) Specie Rare (R), 3) Specie Vulnerabili (V) incluse nell'allegato di cui all'allegato 1.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art8">
+						<num>Art. 8</num>
+						<rubrica>VIGILANZA</rubrica>
+						<comma id="art8-com1">
+							<num>1.</num>
+							<corpo>La vigilanza per il rispetto delle norme contenute nella presente legge è affidata agli agenti di polizia urbana o locale, agli agenti del Corpo Forestale dello Stato.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art9">
+						<num>Art. 9</num>
+						<rubrica>SANZIONI</rubrica>
+						<comma id="art9-com1">
+							<num>1.</num>
+							<corpo>Per le violazioni si applicano sanzioni amministrative da L. 50.000 a L. 1.000.000, oltre per coloro che ne sono provvisti, il ritiro per un anno del permesso.</corpo>
+						</comma>
+						<comma id="art9-com2">
+							<num>2.</num>
+							<corpo>L'entità della sanzione verrà stabilita in conformità della gravità dell'infrazione.</corpo>
+						</comma>
+						<comma id="art9-com3">
+							<num>3.</num>
+							<corpo>Gli agenti che accerteranno infrazioni procedono alla confisca dei prodotti raccolti in violazione delle norme di cui alla presente legge.</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit2">
+					<num>Titolo II</num>
+					<rubrica>INCENTIVI ALLA COLTIVAZIONE</rubrica>
+					<articolo id="art10">
+						<num>Art. 10</num>
+						<rubrica>INCENTIVI</rubrica>
+						<comma id="art10-com1">
+							<num>1.</num>
+							<corpo>La Regione, per incentivare la messa a coltura di piante officinali e di quelle del sottobosco concede agli imprenditori agricoli, a titolo principale, singoli od associati, contributi in conto capitale nella misura massima del 60% della spesa ammissibile.</corpo>
+						</comma>
+						<comma id="art10-com2">
+							<num>2.</num>
+							<alinea>
+								Le piante del sottobosco ammesse ai contributi di cui al
+								<rif xlink:href="#art10-com1" xlink:type="simple">comma 1</rif>
+								sono le seguenti:
+							</alinea>
+							<el id="art10-com2-leta">
+								<num>a)</num>
+								<corpo>Fragoline di sottobosco</corpo>
+							</el>
+							<el id="art10-com2-letb">
+								<num>b)</num>
+								<corpo>Lampone</corpo>
+							</el>
+							<el id="art10-com2-letc">
+								<num>c)</num>
+								<corpo>Mirtillo</corpo>
+							</el>
+							<el id="art10-com2-letd">
+								<num>d)</num>
+								<corpo>More</corpo>
+							</el>
+							<el id="art10-com2-lete">
+								<num>e)</num>
+								<corpo>Ribes</corpo>
+							</el>
+							<el id="art10-com2-letf">
+								<num>f)</num>
+								<corpo>Uva spina</corpo>
+							</el>
+						</comma>
+						<comma id="art10-com3">
+							<num>3.</num>
+							<alinea>
+								Le piante officinali ammesse ai contributi di cui al
+								<rif xlink:href="#art10-com1" xlink:type="simple">comma 1</rif>
+								sono le seguenti:
+							</alinea>
+							<el id="art10-com3-leta">
+								<num>a)</num>
+								<corpo>Camomilla</corpo>
+							</el>
+							<el id="art10-com3-letb">
+								<num>b)</num>
+								<corpo>Origano</corpo>
+							</el>
+							<el id="art10-com3-letc">
+								<num>c)</num>
+								<corpo>Salvia</corpo>
+							</el>
+						</comma>
+					</articolo>
+					<articolo id="art11">
+						<num>Art. 11</num>
+						<rubrica>INCENTIVI AMMESSI A BENEFICIO</rubrica>
+						<comma id="art11-com1">
+							<num>1.</num>
+							<alinea>
+								Gli interventi ammessi a beneficio di cui all'
+								<rif xlink:href="#art9" xlink:type="simple">Art. 9</rif>
+								comprendono:
+							</alinea>
+							<el id="art11-com1-leta">
+								<num>a)</num>
+								<corpo>le opere di preparazione e sistemazione del terreno;</corpo>
+							</el>
+							<el id="art11-com1-letb">
+								<num>b)</num>
+								<corpo>la concimazione;</corpo>
+							</el>
+							<el id="art11-com1-letc">
+								<num>c)</num>
+								<corpo>l'acquisto del materiale di propagazione e di moltiplicazione (semenzai, vasi, terreno).</corpo>
+							</el>
+						</comma>
+					</articolo>
+					<articolo id="art12">
+						<num>Art. 12</num>
+						<rubrica>PROCEDIMENTO PER LA CONCESSIONE DEL CONTRIBUTO</rubrica>
+						<comma id="art12-com1">
+							<num>1.</num>
+							<alinea>Gli interessati per ottenere il contributo in conto capitale devono presentare all'Assessorato all'Agricoltura una domanda dove si deve indicare:</alinea>
+							<el id="art12-com1-leta">
+								<num>a)</num>
+								<corpo>la quantità, la qualità e la provenienza delle piantagioni da porre a dimora certificate da vivai autorizzati;</corpo>
+							</el>
+							<el id="art12-com1-letb">
+								<num>b)</num>
+								<corpo>il costo complessivo degli interventi che possono fruire del contributo in conto capitale.</corpo>
+							</el>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit3">
+					<num>Titolo III</num>
+					<rubrica>RIMBOSCHIMENTO</rubrica>
+					<articolo id="art13">
+						<num>Art. 13</num>
+						<comma id="art13-com1">
+							<num>1.</num>
+							<corpo>I nuovi impianti di rimboschimento e di giardini, la messa a dimora di piante in genere, per poter usufruire dei finanziamenti previsti a vari livelli dalla Regione Molise, devono utilizzare piante autoctone per fasce a secondo dell'altitudine e della latitudine come da allegato 2.</corpo>
+						</comma>
+						<comma id="art13-com2">
+							<num>2.</num>
+							<corpo>I Comuni, le Province, le Comunità Montane, i Consorzi di Bonifica, gli Enti sub - regionali nella loro programmazione dovranno attenersi a quanto previsto dal presente articolo.</corpo>
+						</comma>
+						<comma id="art13-com3">
+							<num>3.</num>
+							<corpo>La Regione Molise, all'interno dei vivai gestiti direttamente, dovrà effettuare una programmazione con produzioni di piante autoctone, in modo tale da poter soddisfare le eventuali richieste di enti pubblici e dei privati per gestire i propri programmi di rimboschimento, riforestazione e costituzione del verde in genere.</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+				<titolo id="tit4">
+					<num>Titolo IV</num>
+					<rubrica>NORME FINALI</rubrica>
+					<articolo id="art14">
+						<num>Art. 14</num>
+						<rubrica>NORMA FINANZIARIA</rubrica>
+						<comma id="art14-com1">
+							<num>1.</num>
+							<corpo>Gli oneri derivanti dalla presente legge, da porsi a carico della competenza dell'esercizio 1999, troveranno copertura finanziaria con lo stesso provvedimento legislativo di approvazione del bilancio regionale per l'esercizio finanziario 1999.</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art15">
+						<num>Art. 15</num>
+						<rubrica>ABROGAZIONE</rubrica>
+						<comma id="art15-com1">
+							<num>1.</num>
+							<corpo>
+								<mod id="mod1">Sono abrogate tutte le disposizioni contenute in leggi regionali che siano incompatibili con la presente legge.</mod>
+							</corpo>
+						</comma>
+					</articolo>
+					<articolo id="art16">
+						<num>Art. 16</num>
+						<rubrica>PUBBLICAZIONE</rubrica>
+						<comma id="art16-com1">
+							<num>1.</num>
+							<corpo>La presente legge regionale sarà pubblicata nel Bollettino Ufficiale della Regione Molise.</corpo>
+						</comma>
+					</articolo>
+				</titolo>
+			</articolato>
+			<formulafinale>È fatto obbligo, a chiunque spetti, di osservarla e farla csservare come legge della Regione Molise.</formulafinale>
+			<conclusione />
+			<annessi>
+				<annesso id="ann1">
+					<testata>
+						<denAnnesso>
+							<h:p>Allegato 1</h:p>
+						</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red2" nome="" norm="" />
+								<urn valore="urn:nir:regione.molise:legge:1999-02-23;9:allegato.1" />
+							</descrittori>
+						</meta>
+						<intestazione>
+							<titoloDoc />
+						</intestazione>
+						<formulainiziale />
+						<contenitore id="con1" nome="">
+							<h:p>SPECIE IN VIA DI ESTINZIONE</h:p>
+							<h:p>- E Allium Moschatum L.</h:p>
+							<h:p>- E Alyssoides Utriculata (L.) Moench</h:p>
+							<h:p>- E Anogramma Leptophylla (L.) Link</h:p>
+							<h:p>- E Athamanta Macedonica (L.) Spreng. Subsp. Macedonica</h:p>
+							<h:p>- E Carex Liparocarpos Gaudin Subsp. Lipairocarpos</h:p>
+							<h:p>- E Carer Pseudocyperus L.</h:p>
+							<h:p>- E Colchicum Cupanii Guss.</h:p>
+							<h:p>- E Conopodiurn Capillifolium (Guss.) Boiss.</h:p>
+							<h:p>- E Epipactis Palustris (L.) Crantz</h:p>
+							<h:p>- E Eupborbia Palustris L.</h:p>
+							<h:p>- E Helleborus Bocconei Ten. Subsp. Bocconei</h:p>
+							<h:p>- E Holosteum Umbellatum L. Subsp. Umbellatum</h:p>
+							<h:p>- E Iris Pseudopumila Tineo</h:p>
+							<h:p>- E Isoetes Duriei Bory</h:p>
+							<h:p>- E Juncus Ranarius Songeon</h:p>
+							<h:p>- E Knautia Drymeia Heuffel s. l.</h:p>
+							<h:p>- E Lathyrus Odoratus L.</h:p>
+							<h:p>- E Linaria Pelisseriana (L.) Mill.</h:p>
+							<h:p>- E Linaria Simplex (Willd.) DC.</h:p>
+							<h:p>- E Menyanthes Trifollata L.</h:p>
+							<h:p>- E Ophrys Apulica (O.&amp; E. Danesch) O. &amp; E. Danesch</h:p>
+							<h:p>- E Orchis Palustris Jacq.</h:p>
+							<h:p>- E Persicaria Amphibla S.F. Gray</h:p>
+							<h:p>- E Peucedanum Officinale L. Subsp. Officinale</h:p>
+							<h:p>- E Peucedanum Schotii Besser</h:p>
+							<h:p>- E Quercus Crenata Lam.</h:p>
+							<h:p>- E Ranunculus Lingua L.</h:p>
+							<h:p>- E Salix pentandra L.</h:p>
+							<h:p>- E Silene Muscipula L. Subsp. Muscipula</h:p>
+							<h:p>- E Sparganium Emersum L.</h:p>
+							<h:p>- E Stachys Maritima Gouan</h:p>
+							<h:p>- E Thymelae Hirsuta (L.) Endl.</h:p>
+							<h:p>- E Tuberaria Guttata (L.) Fourr.</h:p>
+							<h:p>SPECIE RARE</h:p>
+							<h:p>- R Abies Alba Mill.</h:p>
+							<h:p>- R Acanthus Spinosus L.</h:p>
+							<h:p>- R Acer Lobelii Ten.</h:p>
+							<h:p>- R Achitt-Barrelieri (Ten.) Sch. Bip.</h:p>
+							<h:p>- R Adonis Aestivalis L. Subsp. Aestivalis</h:p>
+							<h:p>- R Adonis Flammea Jacq. Subsp. Flammea</h:p>
+							<h:p>- R Adonis Flammea Jacq. Subsp. CortianaSteinberg</h:p>
+							<h:p>- R Alchemilla Coriacea Buser</h:p>
+							<h:p>- R Alchemilla Plioatula Gaud.</h:p>
+							<h:p>- R Alchemilla Straminea Buser</h:p>
+							<h:p>- R Allium Atroviolace Boiss.</h:p>
+							<h:p>- R Allium Cupani Rapin.</h:p>
+							<h:p>- R Allium Flavum L. Subsp. Flavum</h:p>
+							<h:p>- R Anemone Coronaria L.</h:p>
+							<h:p>- R Anemone Ranunculoides L.</h:p>
+							<h:p>- R Anthemis Cretica L. Subsp. Cretica</h:p>
+							<h:p>- R Anthriscus Cerefolium (L.) Hoffm.</h:p>
+							<h:p>- R Anthriscus Nitida (Wahlenb.) Garcke</h:p>
+							<h:p>- R Anthyllis Montana L. Subsp. Atropurpurea (Vur.) Pignatti</h:p>
+							<h:p>- R Aquilegia Ottonis Orph. ex Boiss Subsp. Ottonis</h:p>
+							<h:p>- R Arabis Nova Vill.</h:p>
+							<h:p>- R Arabis Rosea DC.</h:p>
+							<h:p>- R Arabis Surculosa A. Terracc.</h:p>
+							<h:p>- R Arum Orientale M. Bieb. Subsp. Lucanum (Cavara &amp; Grande) Prime</h:p>
+							<h:p>- R Asphodeline Lutea (L.) RCHB.</h:p>
+							<h:p>- R Asplenium Fissum Rit. ex Willd.</h:p>
+							<h:p>- R Asplenium Trichomanes L. Subsp. Pachyrachis (Christ) Lovis &amp; Reichst.</h:p>
+							<h:p>- R Asplenium Viride Hudson</h:p>
+							<h:p>- R Aster Bellistradium (L.) Scop.</h:p>
+							<h:p>- R Astragalus Sirincus Ten.</h:p>
+							<h:p>- R Astragalus Vesicarius L. Subsp. Vesicarius</h:p>
+							<h:p>- R Astrantia Majol L. Subsp. Major</h:p>
+							<h:p>- R Astrantia Tenorei Mariotti</h:p>
+							<h:p>- R Blechnum Spicant (L.) Roth</h:p>
+							<h:p>- Brachypodium Retusum (Pers.) Beauv.</h:p>
+							<h:p>- R Brassica Gravinae Ten.</h:p>
+							<h:p>- R Campanula Micrantha Bertol.</h:p>
+							<h:p>- R Campanula Bononiensis L.</h:p>
+							<h:p>- R Campanula Cochleariifolla Lam.</h:p>
+							<h:p>- R Campanula Fragilis Cyr. Subsp. Cavolini (Ten.) Damboldt</h:p>
+							<h:p>- R Campanula Latifolia L.</h:p>
+							<h:p>- Carduus Chrysacanthus Ten. Subsp. Chrisacanthus</h:p>
+							<h:p>- R Carex Depauperata Curtis ex With.</h:p>
+							<h:p>- R Carex Digitata L.</h:p>
+							<h:p>- R Carex Divisa Hudson</h:p>
+							<h:p>- R Carex Extensa Good.</h:p>
+							<h:p>- R Carex Olbiensis Jordan</h:p>
+							<h:p>- R Carex Ornithopoda Willd.</h:p>
+							<h:p>- R Carex Pilosa Scop.</h:p>
+							<h:p>- R Carex Riparia Curtis</h:p>
+							<h:p>- R Carex Vesicaria L.</h:p>
+							<h:p>- R Carlina Acanthifolia All.</h:p>
+							<h:p>- R Centurea Centauiroides L.</h:p>
+							<h:p>- R Centaurea Melitensis L.</h:p>
+							<h:p>- R Centaurea Nicaeensis All.</h:p>
+							<h:p>- R Centaurea Rupestris L. Subsp. Rupestris</h:p>
+							<h:p>- R Cerastium Cerastoides (L.) Britton</h:p>
+							<h:p>- R Cerastium Sylvaticum Waldst. &amp; Kit.</h:p>
+							<h:p>- R Cirsium Acaule (L.) Scop. Subsp. Acaule</h:p>
+							<h:p>- R Colchicum Bivonae Guss.</h:p>
+							<h:p>- R Convolvulus Elegantissimus Mill.</h:p>
+							<h:p>- R Convolvulus Pentapetaloides L.</h:p>
+							<h:p>- R Corallorhiza Trifida Chatel.</h:p>
+							<h:p>- R Coronilla Valentina L. s. 1.</h:p>
+							<h:p>- R Corydalis Pumila (Host) RCHB.</h:p>
+							<h:p>- R Crepis Biennis L.</h:p>
+							<h:p>- R Crocus Biflorus Mill.</h:p>
+							<h:p>- R Crypsis Alopecuroides (Piller &amp; Mitterp.) Schrad.</h:p>
+							<h:p>- R Cucubalus Baccifer L.</h:p>
+							<h:p>- R Cymbalaria Pallida (Ten.) Wettst.</h:p>
+							<h:p>- R Cymbalaria Pilosa (Jacq ) L.H. Bailey</h:p>
+							<h:p>- R Cynoglossum Cheirifolium L. Subsp. Cheirifolium</h:p>
+							<h:p>- R Cynosurus Elegans Desf.</h:p>
+							<h:p>- R Cytinus Hypocistis (L.) L. Subsp. Clusii Nyman</h:p>
+							<h:p>- R Daphne Alpina L. Subsp. Alpina</h:p>
+							<h:p>- R Dianthus Ciliatus Guss. Subsp. Ciliatus</h:p>
+							<h:p>- R Dracunculus Vulgaris Schott</h:p>
+							<h:p>- R Dryopteris Villarii (Bellardi) Woynar ex Schinz &amp;</h:p>
+							<h:p>- R Echinophora Spinosa L.</h:p>
+							<h:p>- R Epipactis Muelleri Godfery</h:p>
+							<h:p>- R Epipactis Persica (soÃ²) Nannpeldt</h:p>
+							<h:p>- R Epipogium Aphyllum (sshmidt) Swartz</h:p>
+							<h:p>- R Equisetun Fluviatile L.</h:p>
+							<h:p>- R Eragrostis Pilosa (L.) Beauv.</h:p>
+							<h:p>- R Erica Multiflora L.</h:p>
+							<h:p>- R Erysimun Majellense Polatschek</h:p>
+							<h:p>- R Euphorbia Corallioides L.</h:p>
+							<h:p>- R Euphorbia Paralias L.</h:p>
+							<h:p>- R Euphorbia Terracina L.</h:p>
+							<h:p>- R Euphrasia Liburnica Wettst.</h:p>
+							<h:p>- R Euphrasia Minima. Jacq. ex DC.</h:p>
+							<h:p>- R Evax Pygmaea</h:p>
+							<h:p>- R Evonymus Verrucosus Scop.</h:p>
+							<h:p>- R Ferula Glauca L.</h:p>
+							<h:p>- R Filipendula Ulmaria (L.) Maxim. Subsp. Ulmaria</h:p>
+							<h:p>- R Fumana Arabica (L.) Spach</h:p>
+							<h:p>- R Fumana Ericoides (Cav.) Gand.</h:p>
+							<h:p>- R Fumaria Petteri RCHB, Subsp. Petteri</h:p>
+							<h:p>- R Gagea Fistulosa (Ramond ex DC.) Ker Gawl</h:p>
+							<h:p>- R Gagea Foliosa (J. &amp; C. Presl) Schult. &amp; Schult. fil.</h:p>
+							<h:p>- R Gagea Granatelli (Parl.) Parl.</h:p>
+							<h:p>- R Galium Glaucum L.</h:p>
+							<h:p>- R Genista Sagittalis L.</h:p>
+							<h:p>- R Gentiana Dinarica G. Beck</h:p>
+							<h:p>- R Gentiana Lutea L. Subsp. Lutea</h:p>
+							<h:p>- R Geranium Asphodeloides Burn. f.</h:p>
+							<h:p>- R Geranium Nacrorrhizum L.</h:p>
+							<h:p>- R Geranium Reflexum L.</h:p>
+							<h:p>- R Geranium Subcaulescens DC.</h:p>
+							<h:p>- R Geum Molle Vis. &amp; Pancic</h:p>
+							<h:p>- R Gladiolus Comunis L. Subsp. Byzantinus (Mill.) AP. Ham.</h:p>
+							<h:p>- R Gladiolus Dubius Guss.</h:p>
+							<h:p>- R Glaucium Flavum Crantz</h:p>
+							<h:p>- R Gymnocarpium Dryopteris (L.) Newman</h:p>
+							<h:p>- R Hedysarum Spinosissimum L. Subsp. Capitatum (Rouy) Asch. &amp; Graebn.</h:p>
+							<h:p>- R Heliantbemum Apenninum (L.) Mill.</h:p>
+							<h:p>- R Hesperis Matronalis L. Subsp. Matronalis</h:p>
+							<h:p>- R Hieracium Humile Jacq.</h:p>
+							<h:p>- R Hieracium Morisianum RCHB. f.</h:p>
+							<h:p>- R Hypericum Byssopifolium Cbaix</h:p>
+							<h:p>- R Hypericum Richeri Vill. Subsp. Richeri</h:p>
+							<h:p>- R Hyssopus Officinalis L. Subsp. Pilifer (Pant.) Murb.</h:p>
+							<h:p>- R Impatiens Noli-Tangere L.</h:p>
+							<h:p>- R Iris Sintenisii Janka Subsp. Sintenisii</h:p>
+							<h:p>- R Jurinea Mollis (L.) RCHB. f. s. 1.</h:p>
+							<h:p>- R Kernera Saxatilis (L.) RCHB.</h:p>
+							<h:p>- R Laburnuh Alpinum (Mill.) Berchtold &amp; J. Presl</h:p>
+							<h:p>- R Lamiun Galeobdolon (L.) L. Bubsp. Montanum (Pers.) EHR. e Polat.</h:p>
+							<h:p>- R Laniun Hybridun Vill.</h:p>
+							<h:p>- R Lathyrus Pannonicus (Jacq.) Garkre Subsp. Asphodeloides (Gouan) Baessler</h:p>
+							<h:p>- R Lemna Gibba L.</h:p>
+							<h:p>- R Leucanthemun Tenuifoliun (Guss.) Gamisans</h:p>
+							<h:p>- R Ligusticum Lucidurn Mill. Subsp. Cuneifolium (Guss.) Tarnmaro</h:p>
+							<h:p>- R Lilium Bulbiferum L. Val. Croceun (Chaix) pers.</h:p>
+							<h:p>- R Lilium Martagon L.</h:p>
+							<h:p>- R Linaria Chalepensis (L.) Mill.)</h:p>
+							<h:p>- R Linum Capitatum Schult. Subsp. Serrulatum (Bertol.) Hartvig</h:p>
+							<h:p>- R Lomelosia Crenata (Cyr.) Greut. &amp; Burd. Subsp. Pseudosintesis (Lacaita) GRE</h:p>
+							<h:p>- R Lomelosia Graminifolia (L.) Greuter &amp; Burdet</h:p>
+							<h:p>- R Lotus Maritimus L.</h:p>
+							<h:p>- R Malus Florentina (Zuccagni) CR. Schnei.</h:p>
+							<h:p>- R Mantisalca Duriaei (Spach) Briq. &amp; Cavill.</h:p>
+							<h:p>- R Medicago Disciformis DC.</h:p>
+							<h:p>- R Medicago Italica (Mill.) Fiori Subsp. Italica</h:p>
+							<h:p>- R Medicago Monspeliaca (L.) Trautv.</h:p>
+							<h:p>- R Medicago Tenoreana DC.</h:p>
+							<h:p>- R Melampyrum Barbatum Waldst. &amp; Kit. ex Willd. Subsp. Carstiens Ronniger</h:p>
+							<h:p>- R Melamphyrum Variegatum Huter. Porta &amp; Rigo</h:p>
+							<h:p>- R Mercurialis Ovata Sternb. &amp; Hoppe</h:p>
+							<h:p>- R Minuartia Graminifolia (Ard.) Jav. Subsp. Graminifolia</h:p>
+							<h:p>- R Montia Minor CC. Gmelin</h:p>
+							<h:p>- R Narcissus Poeticus L.</h:p>
+							<h:p>- R Nepeta Nuda L. Subsp. Nuda</h:p>
+							<h:p>- R Ononis Oligophylla Ten.</h:p>
+							<h:p>- R Ononis Ornithopodioides L.</h:p>
+							<h:p>- R Ophrys Crabronifera Mauri</h:p>
+							<h:p>- R Ophrys Insectifera L.</h:p>
+							<h:p>- R Ophrys Lutea (Gouan) Cav. Subsp. Lutea</h:p>
+							<h:p>- R Ophrys Tenthredinifera Willd.</h:p>
+							<h:p>- R Orchis Simia Lam.</h:p>
+							<h:p>- R Orobanche Lutea Baumg.</h:p>
+							<h:p>- R Orobanche Pubescens d'Urv.</h:p>
+							<h:p>- R Orobanche Sanguinea C. Presl</h:p>
+							<h:p>- R Orobanche Variegata Wallr.</h:p>
+							<h:p>- R Oxytropis Campestris (L.) DC. Subsp. Campestris</h:p>
+							<h:p>- R Pedicularis Hoermannia Maly'</h:p>
+							<h:p>- R Phagnalon Graecum Boiss. &amp; Heldr in Boiss.</h:p>
+							<h:p>- R Phagnalon Rupestre (L.) DC. Subsp. Annoticum (Jordan) Pignatti</h:p>
+							<h:p>- R Phalaris Arundinacea L.</h:p>
+							<h:p>- R Phyteuma Hemisphaericum L.</h:p>
+							<h:p>- R Piptatherum Virescens (Trin.) Boiss.</h:p>
+							<h:p>- R Plantago Serpentina All.</h:p>
+							<h:p>- R Polycarpon Tetraphyllum L. Subsp. Alsinifolium (Biv.) Ball.</h:p>
+							<h:p>- R Polycnenum Arvense L.</h:p>
+							<h:p>- R Polygala Chamaebuxus L.</h:p>
+							<h:p>- R Polygala Monspellaca L.</h:p>
+							<h:p>- R Potentilla Brauneana Hoppe</h:p>
+							<h:p>- R Potenttilla Apennina Ten. Subsp. Apennina</h:p>
+							<h:p>- R Primula Auricula L.</h:p>
+							<h:p>- R Pseudolysimachion Barrelieri (Schott) J. Holub Subsp. Barrelieri</h:p>
+							<h:p>- R Ranunculus Apenninus</h:p>
+							<h:p>- R Ranunculus Magellensis Ten.</h:p>
+							<h:p>- R Ranunculus Ophioglossifolius Vill.</h:p>
+							<h:p>- R Ranunculus Serpens Schrank</h:p>
+							<h:p>- R Rhinanthus Ovifugus Chab.</h:p>
+							<h:p>- R Romulea Columnae Sebast L. Mauri</h:p>
+							<h:p>- R Rorippa Amphibia (L.) Besser</h:p>
+							<h:p>- R Rosa Gallica L.</h:p>
+							<h:p>- R Rosa Montana Chaix</h:p>
+							<h:p>- R Rosa Pimpinellifolia L.</h:p>
+							<h:p>- R Rosa Tomentosa SM.</h:p>
+							<h:p>- R Rosa Villosa L.</h:p>
+							<h:p>- R Rubus Saxatilis L.</h:p>
+							<h:p>- R Ruscus Hypoglossum L.</h:p>
+							<h:p>- R Ruta Chlepensis L.</h:p>
+							<h:p>- R Salix Cinerea L.</h:p>
+							<h:p>- R Salix Retusa L.</h:p>
+							<h:p>- R Saxifraga Caesia L.</h:p>
+							<h:p>- R Saxifraga Callosa SH. Subsp. Callosa Var. Australis Moric. D.A. Nebb</h:p>
+							<h:p>- R Saxifraga Exarata Vill. Subsp. Ampullacea (Ten.) D.A. Webb</h:p>
+							<h:p>- R Saxifraga Glabella Bertol.</h:p>
+							<h:p>- R Saxifraga Italica D.A. Webb</h:p>
+							<h:p>- R Saxifraga Marginata Sternb.</h:p>
+							<h:p>- R Saxifraga Oppositifolia L. Subsp. Oppositifolia</h:p>
+							<h:p>- R Saxifraga Porophilla Bertol.</h:p>
+							<h:p>- R Scirpus Cernuus Vahl</h:p>
+							<h:p>- R Scorzonera Hirsuta L.</h:p>
+							<h:p>- R Scorzonera Hispanica L. (incl. S. Glastifolia Willd.)</h:p>
+							<h:p>- R Scorzonera Villosa Scop. Subsp. Villosa</h:p>
+							<h:p>- R Scutellaria Altissima L.</h:p>
+							<h:p>- R Sempervivum Italiaum Ricci</h:p>
+							<h:p>- R Senecio Cordatus Koch (incl. S. Samnitun A. Huet)</h:p>
+							<h:p>- R Senecio Integrifolius (L.) Clairv.</h:p>
+							<h:p>- R Serapias Parviflora Parl.</h:p>
+							<h:p>- R Serratula Cichoracea (L.) DC. Subsp. Cichoracea</h:p>
+							<h:p>- R Serratula Tinctoria L. Subsp. Tinctoria Var. Pinnata Kit.</h:p>
+							<h:p>- R Sibbaldia Procumbens L.</h:p>
+							<h:p>- R Silene Acaulis (L.) Jacq. Subsp. Bryoides (Jordan) Nyman</h:p>
+							<h:p>- R Silene Bellidifolia Jacq.</h:p>
+							<h:p>- R Silene Catholica (L.) W.T. Aiton</h:p>
+							<h:p>- R Silene Fuscata Link ex Brot.</h:p>
+							<h:p>- R Silene Parnassica Boiss. &amp; Spruner Subsp. Parnassica</h:p>
+							<h:p>- R Silene Saxifraga L.</h:p>
+							<h:p>- R Smyrntum Perfoliatum L.</h:p>
+							<h:p>- R Soldanella Alpina L.</h:p>
+							<h:p>- R Sorbus Chamaemespilus (L.) Crantz</h:p>
+							<h:p>- R Staphylea Pinnata L.</h:p>
+							<h:p>- R Stellaria Media Subsp. Cupaniana</h:p>
+							<h:p>- R Sternbergia Lutea (L.) Ker Gawl. ex Spreng.</h:p>
+							<h:p>- R Stipa Austroitalica Martinovsky Subsp. Austro italica</h:p>
+							<h:p>- R Stipa Dasyvaginata Martinovsky Subsp. Apenninicola Martinovsky &amp; Moraldo</h:p>
+							<h:p>- R Taraxsacum Palustre (Lyons) Simons</h:p>
+							<h:p>- R Thalictrum Simplex L. Subsp. Simplex</h:p>
+							<h:p>- R Thlaspi Stylosum (Ten.) Mutel</h:p>
+							<h:p>- R Thymus Spinulosus Ten.</h:p>
+							<h:p>- R Trifolium Aureum Pollich</h:p>
+							<h:p>- R Trifolium Dubium Sibth.</h:p>
+							<h:p>- R Trifolium Phleodes Willd.</h:p>
+							<h:p>- R Trifolium Suffocatum</h:p>
+							<h:p>- R Tulipa Sylvestris L. Subsp. Sylvestris</h:p>
+							<h:p>- R Typha Laxmannii Lepechin</h:p>
+							<h:p>- R Typha Minima Funk</h:p>
+							<h:p>- R Verbascum Argenteum Ten.</h:p>
+							<h:p>- R Verbascum Chaixii Vill. Subsp. Chaixii</h:p>
+							<h:p>- R Verbascum Samniticum Ten.</h:p>
+							<h:p>- R Veronica Acinifolia L.</h:p>
+							<h:p>- R Veronica Prostrata L. Subsp. Prostrata</h:p>
+							<h:p>- R Veronica Scutellata L.</h:p>
+							<h:p>- R Viola Pseudogracilis Strobl Subsp. Cassinensis (Strobl) Merxm. &amp; A. Schimdt</h:p>
+							<h:p>- R Viola Pseudogracilis Strobl Subsp. Pseudogracilis</h:p>
+							<h:p>SPECIE VULNERABILI</h:p>
+							<h:p>- V Aeluropus Litoralis (Gouan) Parl.</h:p>
+							<h:p>- V Alkanna Tinctoria Tausch Subsp. Tinctoria</h:p>
+							<h:p>- V Allium Saxatile M. Bieb.</h:p>
+							<h:p>- V Alopecurus Aequalis Sobol.</h:p>
+							<h:p>- V Alopecurus Bulbosus Gouan</h:p>
+							<h:p>- V Alopecurus Geniculatus L.</h:p>
+							<h:p>- V Ambrosia Maritima</h:p>
+							<h:p>- V Androsace Villosa L.</h:p>
+							<h:p>- V Apium Inundatum (L.) RCHB.</h:p>
+							<h:p>- V Arisarum Vulgare Targ. Tozz. Subsp. Vulgare</h:p>
+							<h:p>- V Artemisia Arborescens L.</h:p>
+							<h:p>- V Artemisia Caerulescens L. Subsp. Caerulescens</h:p>
+							<h:p>- V Asarum Europaeum L. Subsp. Italicum Kukk &amp; Uotila</h:p>
+							<h:p>- V Asphodeline Liburnica (Scop.) RCHB.</h:p>
+							<h:p>- V Athamanta Sicula L.</h:p>
+							<h:p>- V Aubrieta Columnae Guss. Subsp. Columnae</h:p>
+							<h:p>- V Aurinia Saxatilis (L.) Desv. Subsp. Megalocarpa Hausskn) T.R. Dudley</h:p>
+							<h:p>- V Berberis Vulgaris L.</h:p>
+							<h:p>- V Betula Pendula Roth</h:p>
+							<h:p>- V Biscutella Cichoriifolia Loisel.</h:p>
+							<h:p>- V Caltha Palustris L. Subsp. Palustris</h:p>
+							<h:p>- V Carex Acutiformis Ehrh.</h:p>
+							<h:p>- V Carex Gracilis Curtis</h:p>
+							<h:p>- V Carex Hispida Willd.</h:p>
+							<h:p>- V Carex Paniculata L. Subsp. paniculata</h:p>
+							<h:p>- V Cirsiun Palustre (L.) Scop.</h:p>
+							<h:p>- V Cladium Mariscus (L) Pohl</h:p>
+							<h:p>- V Clypeola Jonthlaspi L.</h:p>
+							<h:p>- V Convallaria Majalis L.</h:p>
+							<h:p>- V Cytinus Hypocistis (L.) L. Subsp. Hypocistis</h:p>
+							<h:p>- V Dactylorhiza Incarnata (L.) SoÃ² Subsp. Incarnata</h:p>
+							<h:p>- V Daphne Sericea Vahl</h:p>
+							<h:p>- V Eleocharis Uniglumis (Link) Schult.</h:p>
+							<h:p>- V Erigeron Atticus Vill.</h:p>
+							<h:p>- V Euphorbia Gasparrinii Boiss. Subsp. Samnitica (Fiori) Pignatti</h:p>
+							<h:p>- V Fraxinus Angustifolia Vahl Subsp. Oxycarpa (Willd.) Franco &amp; Rocha Afonso</h:p>
+							<h:p>- V Fritillaria Orientalis Adams</h:p>
+							<h:p>- V Galium Scabrum L.</h:p>
+							<h:p>- V Gnaphalium Uliginosum L.</h:p>
+							<h:p>- V Groenlandia Densa (L.) Fourr.</h:p>
+							<h:p>- Halimione Portulacoides (L.) Aellen</h:p>
+							<h:p>- V Helianthemum Jonium Lacaita &amp; Grosser</h:p>
+							<h:p>- V Hieracium Brachiatum Bertol. ex Lam.</h:p>
+							<h:p>- V Hypericum Hircinum L.</h:p>
+							<h:p>- V Iberis Umbellata L</h:p>
+							<h:p>- V Inula Helentun L.</h:p>
+							<h:p>- V Iris Pseudacorus L.</h:p>
+							<h:p>- V Juncus Littoralis C.A. Mey.</h:p>
+							<h:p>- V Juncus Maritimus Lam.</h:p>
+							<h:p>- V Leucorchis Albida (L.) E. Mey.</h:p>
+							<h:p>- V Lilium Candidum L.</h:p>
+							<h:p>- V Limonium Narbonense Mill.</h:p>
+							<h:p>- V Linum Tommasinii (RCHB.) Nyman</h:p>
+							<h:p>- V Malcolmia Nana (DC.) Boiss.</h:p>
+							<h:p>- V Malcolmia Ramosissima (Desf.) Thell.</h:p>
+							<h:p>- V Myosotis Laxa Lehm. Subsp. Caespitosa (C. F. Schultz) Nordh.</h:p>
+							<h:p>- V Myosotis Nemorosa Besser</h:p>
+							<h:p>- V Myosotis Scorpioides L.</h:p>
+							<h:p>- V Myosurus Minimus L.</h:p>
+							<h:p>- V Myriophyllum Verticillatum L.</h:p>
+							<h:p>- V Nigritella Widderi Teppner &amp; Klein</h:p>
+							<h:p>- V Oenanthe Fistulosa L.</h:p>
+							<h:p>- V Oenanthe Lachenalii C.C. Gmelin</h:p>
+							<h:p>- V Ophioglossum Vulgatum L.</h:p>
+							<h:p>- V Ophrys Lacaitae Lojac.</h:p>
+							<h:p>- V Orchis Laxiflora Lam.</h:p>
+							<h:p>- V Orobanche Flava F.W. Schultz</h:p>
+							<h:p>- V Othantus Maritimus (L.) Hoffmanns. &amp; Link</h:p>
+							<h:p>- V Pancratium Maritimum L.</h:p>
+							<h:p>- V Pinus Nigra Arnold Subsp. Nigra</h:p>
+							<h:p>- V Plantago Crassifolia Forssk.</h:p>
+							<h:p>- V Potamogeton Pusillus L.</h:p>
+							<h:p>- V Psedofumaria Alba (Mill.) Liden Subsp. Alba</h:p>
+							<h:p>- V Puccinellia Convoluta (Hornem.) Hayek</h:p>
+							<h:p>- V Puccinellia Palustris (Seenus) Hayek</h:p>
+							<h:p>- Quercus Robur L. Subsp. Robur</h:p>
+							<h:p>- V Ranunculus Acris L. Subsp. Acris</h:p>
+							<h:p>- V Ranunculus Flammula L.</h:p>
+							<h:p>- V Ranunculus Marsicus Guss. &amp; Ten.</h:p>
+							<h:p>- V Ranunculus Thora L.</h:p>
+							<h:p>- V Rhynchocorys Elephas (L.) Griseb.</h:p>
+							<h:p>- Romulea Rolii Parl.</h:p>
+							<h:p>- V Salicornia Patula Duwal-Jouve</h:p>
+							<h:p>- V Salix Fragilis L.</h:p>
+							<h:p>- V Sarcocornia Fruticosa (L.) A.J. Scott</h:p>
+							<h:p>- V Sarcocornia Perennis (Mill.) A.J. Scott</h:p>
+							<h:p>- V Satureja Graeca L. Subsp. Canescens (Guss Benth).</h:p>
+							<h:p>- V Scutellaria Galericulata L.</h:p>
+							<h:p>- V Selaginella Denticulata (L.) Spring</h:p>
+							<h:p>- V Sonchus Maritimus L. Subsp. Maritimus</h:p>
+							<h:p>- V Spartina Versicolor Fabre</h:p>
+							<h:p>- V Spergularia Salina J. &amp; C. Presl</h:p>
+							<h:p>- V Sporobulus Pungens (Schreb.) Kunth</h:p>
+							<h:p>- V Streptopus Amplexifolius (L.) DC.</h:p>
+							<h:p>- V Taraxacum Alpinum (Hoppe) Hegetschw.</h:p>
+							<h:p>- V Taraxacum Glaciale A. Huet ex Hand.-Mazz.</h:p>
+							<h:p>- V Taraxacum Megalorrhizon (Forssk.) Hand.-Mazz.</h:p>
+							<h:p>- V Thelypteris Palustris Schott</h:p>
+							<h:p>- V Triglochin Bulbosa L. Subsp. Barrelieri (Loisel.) Rouy</h:p>
+							<h:p>- V Trollius Europaeus L. Subsp. Europaeus</h:p>
+							<h:p>- V Vicia Dumetorum L.</h:p>
+							<h:p>- V Vicia Laeta Cesati</h:p>
+							<h:p>- V Vicia Sparsiflora Ten.</h:p>
+							<h:p>- V Viola Aethnensis Parl. Subsp. Splendida (W. Becker) Merxm. &amp; Lippert</h:p>
+							<h:p>- V Vitex Agnus - Castus L.</h:p>
+						</contenitore>
+						<formulafinale />
+						<conclusione />
+					</DocumentoNIR>
+				</annesso>
+				<annesso id="ann2">
+					<testata>
+						<denAnnesso>
+							<h:p>Allegato 2</h:p>
+						</denAnnesso>
+					</testata>
+					<DocumentoNIR nome="">
+						<meta>
+							<descrittori>
+								<pubblicazione norm="" num="" tipo="GU" />
+								<entratainvigore norm="" />
+								<redazione id="red3" nome="" norm="" />
+								<urn valore="urn:nir:regione.molise:legge:1999-02-23;9:allegato.2" />
+							</descrittori>
+						</meta>
+						<intestazione />
+						<formulainiziale />
+						<contenitore id="con2" nome="">
+							<h:p>a) Laghi, Corsi d'acqua e Pantani</h:p>
+							<h:p>Comunità vegetali presenti allo stato naturale come:</h:p>
+							<h:p>- pioppo nero (populus nigra), salice (salix alba), salice da ceste (salix triandria), salice di ripa (salix fragilis), ginepro nero (juniperus communis), pioppo bianco (populus alba), olmo campestre (ulmus minor), sambuco nero (sambucus nigra).</h:p>
+							<h:p>b) Area Collinare (Fascia Sub mediterranea)</h:p>
+							<h:p>Querceti misti seminativi (semplici e arborati), boschi sparsi.</h:p>
+							<h:p>Comunità vegetali presenti allo stato naturale come:</h:p>
+							<h:p>- querceti misti sparsi di roverella (quercus pubescens), cerro (quercus cerris), leccio (quercus ilex), farnia (quercus pedunculata), acero minore (acer monaspessulanum), acero campestre (acer campestre), carpino bianco (carpinus betulus), carpinella (carpinus orientalis), pero selvatico (pyrus piraster), castagno (castanea sativa), sorbo degliuccellari (sorbus aucuparia), ginepro (juniperus communis), ciavardello (sorbus torminalis), ciliegio (prunus avium), prugnolo, (prunus spinosa), melo selvatico (malus silvestris), biancospino (crataegus monogyna), agrifoglio (ilex aquifolium), olmo campestre (ulmus minor), sambuco nero (sambucus nigra).</h:p>
+							<h:p>c) Fascia submontana e montana</h:p>
+							<h:p>Comunità vegetale presenti allo stato naturale come:</h:p>
+							<h:p>- faggio (fagus sylvatica), roverella (quercus pubescens), cerro (quercus cerris), ginepro (juniperus communis), pero selvatico (pyrus piraster), prugnolo (prunus spinosa), sorbo montano (sorbus aria), acero di monte (acer pseudoplatanus), carpino banco (carpinus betulus), carpino nero (ostrya carpinifolia), ginepro ossicedro (juniperus oxjcedrus), orniello (fraxinus ornus), pino nero (pinus nigra), tasso taxus bacata), rosa canina, rosa campestre.</h:p>
+							<h:p>Nei pascoli montani caratterizzati da associazioni di graminacee spontanee, soprattutto del genere stipa con presenza anche di achillea millefolium, poa pratensis, sono presenti anche macchie di felci e cardi</h:p>
+							<h:p>d) Vegetazione delle sabbie litoranee</h:p>
+							<h:p>Specie pioniere colonizzatrici delle sabbie ancora incoerenti e delle prime dune, quali: agropiri (agropyrum junceum), ammofila (ammophila arenaria), vilucchio delle sabbie (colystegia soldanella), erba medica marina (meticago marina), giglio di mare (pancratium maritimum), giagiolo nano (iris chamairis), carota di mare (daucus carota), pastinaca marina (echinophora spinosa), salicornia (salicornia friticosa), papavero delle sabbie (glaucuim flavum), cocomero asinino (ecballium elterium), asfodelo giallo (asphodelina lutea), iunco acuto (juncus acutus);</h:p>
+							<h:p>Vegetazione sempre verde tipica della fascia Mediterranea;</h:p>
+							<h:p>Su le dune il manto vegetale gradualmente più evoluto è rappresentato dalla vegetazione arbustiva come: ginepro (juniperus oxicedrus var macrocarpa e più raramente juniperus phoenicea cui si aggiungono, sempre più abbondanti man mano che si procede verso l'interno, altre specie sempre verdi tipiche della macchia mediterranea quali cisto bianco e cisto rosa (cistus monspeliensis, cistus incanus), rosmarino (rosmarinus officinalis), fillirea (phillyrea angustifolia), mirto (myrtus acutifolius), corbezzolo (arbustus unedo), lavanda (lavandula stoechas), asparago (asparago officinalis), oleandro (nerium oleander), ginestra (sparti juceum), liquirizia (gliycyrriza glabra), olivella sericea (daphne sericea), pero selvatico (pirus piraster), oleastro (olea europea sativa), pino domestico (pinus pinea), pino d'aleppo (pinus halepensis) e raramente pino marittimo (pinus pinaster). Formazione tipica fluviale con dominanza di salici, pioppo grigio, pioppo bianco, pioppo tremolo, tamarice, ginestra, liquirizia, canna di palude, raramente l'ontano.</h:p>
+							<h:p>Tra le formazioni tipiche fluviali abbiamo aceri misti a querce.</h:p>
+						</contenitore>
+						<formulafinale />
+						<conclusione />
+					</DocumentoNIR>
+				</annesso>
+			</annessi>
+		</LeggeRegionale>
+	</NIR>

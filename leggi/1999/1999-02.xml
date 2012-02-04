@@ -1,18 +1,35 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19990201" num="2" tipo="BURM"/>
-                <entratainvigore norm="19990216"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1999-01-27;2"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20020616" fonte="rp1" id="t1" tipo="modifica"/><evento data="" fonte="rp2" id="t2" tipo="modifica"/><evento data="20090315" fonte="rp3" id="t3" tipo="modifica"/><evento data="20100210" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2002;06" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2002;19" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2009;07" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2010;03" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19990201" num="2" tipo="BURM" />
+					<entratainvigore norm="20020202" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1999-01-27;2" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20020202" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20020616" fonte="rp1" id="t2" tipo="modifica" />
+						<evento data="20020901" fonte="rp2" id="t3" tipo="modifica" />
+						<evento data="20090315" fonte="rp3" id="t4" tipo="modifica" />
+						<evento data="20100210" fonte="rp4" id="t5" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-01-27;2" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2002;06" xlink:type="simple" />
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2002;19" xlink:type="simple" />
+						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2009;07" xlink:type="simple" />
+						<passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2010;03" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
 Bollettino Ufficiale n. 02 del 01/02/99 
@@ -34,330 +51,250 @@ Modificato art. 9 dalla legge n. 6/2002 art. 18
 Modificato art. 8-bis dalla legge n. 3/2010 art. 20 
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc norm="19990127">27 gennaio 1999</dataDoc>, n.<numDoc>2</numDoc>
-            <titoloDoc>Norme sull'autonomia organizzativa, funzionale e contabile del Consiglio Regionale. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1  </num>
-                <rubrica>
- 
-Finalità  
- </rubrica>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-                    <corpo> Il Consiglio regionale ha piena autonomia organizzativa e funzionale, sulla base delle norme statutarie e delle leggi nazionali e regionali vigenti. </corpo>
-                </comma>
-                <comma id="art1-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Le strutture organizzative del Consiglio sono informate ad assicurare economicità, speditezza e rispondenza al pubblico interesse dell'azione amministrativa.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2  </num>
-                <rubrica>
- 
-APPARATO DEL CONSIGLIO REGIONALE  
- </rubrica>
-                <comma id="art2-com1">
-                    <num>
-1.</num>
-                    <corpo> Per le finalità di cui al <rif
-                            xlink:href="#art1">precedente art. 1</rif>, nell'ambito del ruolo unico del personale regionale l'articolazione delle strutture del Consiglio è determinata, previa autonoma rilevazione dei carichi di lavoro, con provvedimento dell'Ufficio di Presidenza del Consiglio, nel rispetto dei principi e delle disposizioni contenute nella <rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7">legge regionale 8 aprile 1997, n. 7</rif>.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art. 3  </num>
-                <rubrica>
- 
-COMPETENZE DELL'UFFICIO DI PRESIDENZA  
- </rubrica>
-                <comma id="art3-com1">
-                    <num>
-1.</num>
-                    <alinea> Ferme restando le competenze della Giunta regionale e delle sue strutture in materia di procedimenti ed atti afferenti allo stato giuridico ed al trattamento economico fondamentale, previdenziale e di quiescenza del personale regionale, spettano all'Ufficio di Presidenza del Consiglio regionale, relativamente alle strutture consiliari: 
- 
-</alinea>
-                    <el id="art3-com1-leta">
-                        <num>a)</num>
-                        <corpo> l'affidamento dell'incarico di Segretario Generale del Consiglio e, sentito il Segretario Generale, l'affidamento degli altri incarichi dirigenziali;</corpo>
-                    </el>
-                    <el id="art3-com1-letb">
-                        <num>  
- 
-b)</num>
-                        <corpo>
-                            <mod
-                                    id="art3-com1-letb-mod1"> su proposta del Segretario Generale, l'istituzione, modifica e soppressione delle Sezioni in cui si articolano i Servizi di cui all'<rif xlink:href="#art7-com1">art. 7, comma 1</rif>, degli incarichi dirigenziali di staff  e degli Uffici;</mod>
-                        </corpo>
-                    </el>
-                    <el id="art3-com1-letc">
-                        <num>  
- 
-c)</num>
-                        <corpo> su proposta del Segretario Generale, la definizione delle competenze di ciascuna struttura dirigenziale;</corpo>
-                    </el>
-                    <el id="art3-com1-letd">
-                        <num>  
- 
-d)</num>
-                        <corpo> su proposta del Segretario Generale, l'articolazione delle strutture e le relative assegnazioni del personale in servizio, presso il Consiglio;</corpo>
-                    </el>
-                    <el id="art3-com1-lete">
-                        <num> 
- 
-e)</num>
-                        <corpo> le proposte di assunzione di personale da sottoporre, ai fini dell'indizione dei concorsi, al Presidente della Giunta regionale;</corpo>
-                    </el>
-                    <el id="art3-com1-letf">
-                        <num> 
- 
-f)</num>
-                        <corpo> la definizione del trattamento economico e contrattuale del Segretario Generale del Consiglio;</corpo>
-                    </el>
-                    <el id="art3-com1-letg">
-                        <num>  
- 
-g)</num>
-                        <corpo> la definizione della graduazione delle funzioni e delle responsabilità dei dirigenti ai fini del trattamento accessorio, nei limiti di spesa e secondo i criteri previsti dalle vigenti disposizioni di legge in materia e dalle norme del contratto collettivo nazionale di lavoro;</corpo>
-                    </el>
-                    <el id="art3-com1-leth">
-                        <num>  
- 
-h)</num>
-                        <corpo> la verifica dei risultati dell'attività dirigenziale ed il controllo del costo e della produttività delle strutture consiliari, avvalendosi del supporto di un autonomo nucleo di valutazione nominato dallo stesso Ufficio di Presidenza, composto da tre esperti esterni qualificati in materia di controllo di gestione nell'ambito delle pubbliche amministrazioni;</corpo>
-                    </el>
-                    <el id="art3-com1-leti">
-                        <num>  
- 
-i)</num>
-                        <corpo> su proposta del Segretario Generale, l'approvazione del programma annuale di formazione del personale del Consiglio;</corpo>
-                    </el>
-                    <el id="art3-com1-letl">
-                        <num> 
- 
-l)</num>
-
-                        <corpo> ogni altra competenza in materia di organizzazione degli uffici e gestione del personale del Consiglio regionale che la <rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7">legge regionale 8 aprile 1997, n. 7</rif> e le altre leggi regionali vigenti nelle suddette materie assegnano alla Giunta regionale per le rispettive strutture.  
- 
-</corpo>
-                    </el>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>Art. 4  </num>
-                <rubrica>
- 
-COMPETENZE DEL SEGRETARIO GENERALE DEL CONSIGLIO  
- </rubrica>
-                <comma id="art4-com1">
-                    <num>
-1.</num>
-
-                    <corpo> In materia di organizzazione degli uffici e di gestione del personale del Consiglio regionale, spettano al Segretario Generale tutte le competenze allo stesso attribuite dalla <rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7">legge regionale 8 aprile 1997 n. 7</rif> nonché le competenze che la stessa legge attribuisce in via specifica al Direttore Generale del personale. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art5">
-                <num>Art. 5  </num>
-                <rubrica>
- 
-RELAZIONI SINDACALI  
- </rubrica>
-                <comma id="art5-com1">
-                    <num>
-1.</num>
-                    <corpo> Due componenti dell'Ufficio di Presidenza - di cui uno in rappresentanza della minoranza - all'uopo incaricati, ed il Segretario Generale, o un suo delegato, partecipano alla contrattazione decentrata quali componenti integrativi della delegazione di parte pubblica, della quale rappresentano la prevalente espressione per quanto riguarda i problemi relativi al Consiglio.  </corpo>
-                </comma>
-                <comma id="art5-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Nell'ambito delle procedure di informazione e di esame relative alle strutture ed al personale del Consiglio, i rapporti con le organizzazioni sindacali sono tenuti dal Segretario Generale o da un dirigente da questi delegato.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art6">
-                <num>Art. 6  </num>
-                <rubrica>
- 
-MOBILItà DEL PERSONALE TRA STRUTTURE DI CONSIGLIO E DI GIUNTA  
- </rubrica>
-                <comma id="art6-com1">
-                    <num>
-1.</num>
-
-                    <corpo> Il personale, anche dirigenziale, può, a domanda essere trasferito da strutture del Consiglio a strutture della Giunta, e viceversa, secondo i criteri e con le modalità previste dalla <rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7">legge regionale 8 aprile 1997, n. 7</rif>, articolo 32, per la mobilità interna.  </corpo>
-                </comma>
-                <comma id="art6-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> La più diffusa e partecipata conoscenza delle competenze e dei procedimenti dell'apparato consiliare è assicurata, a parità di valenza delle strutture, anche tramite la rotazione dei dirigenti delle stesse responsabili. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art7">
-                <num>Art. 7  </num>
-                <rubrica>
- 
-STRUTTURE DEL CONSIGLIO REGIONALE  
- </rubrica>
-                <comma id="art7-com1">
-                    <num>
-1.</num>
-                    <alinea> Sono strutture del Consiglio regionale:  
- 
-</alinea>
-                    <el id="art7-com1-leta">
-                        <num>a)</num>
-                        <corpo> Servizio Affari istituzionali e Segreteria del Consiglio;</corpo>
-                    </el>
-                    <el id="art7-com1-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> Servizio per gli Affari amministrativi;</corpo>
-                    </el>
-                    <el id="art7-com1-letc">
-                        <num>  
- 
-c)</num>
-                        <corpo> Servizio Commissioni consiliari ed Affari legislativi e  giuridici;</corpo>
-                    </el>
-                    <el id="art7-com1-letd">
-                        <num>  
- 
-d)</num>
-                        <corpo> Servizio relazioni con le Istituzioni comunitarie e con il  pubblico, Studi, documentazione e biblioteca.  </corpo>
-                    </el>
-                </comma>
-                <comma id="art7-com2">
-                    <num>
- 
-2.</num>
-                    <corpo>
-                        <mod
-                                id="art7-com2-mod2"> Sono abrogate le disposizioni della <rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7">legge regionale 8 aprile  1997, n. 7</rif> relative alle strutture speciali del Consiglio regionale.  
- 
-</mod>
-                    </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art8">
-                <num>Art. 8  </num>
-                <rubrica>
- 
-INCARICHI DIRIGENZIALE DI STAFF  
- </rubrica>
-                <comma id="art8-com1">
-                    <num>
-1.</num>
-                    <corpo>
-                        <mod id="art8-com1-mod3"> Gli incarichi dirigenziali di staff sono istituiti, modificati e soppressi con atto di organizzazione, su proposta del Segretario Generale, per fronteggiare esigenze, anche temporanee, di studio e ricerca in funzione di interventi legislativi della Regione nelle materie di sua competenza.  </mod>
-                    </corpo>
-                </comma>
-                <comma id="art8-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> Gli incarichi di funzione di cui al <rif
-                            xlink:href="#art8-com1">comma 1</rif> possono essere istituiti in numero non superiore a due. Essi vengono affidati a dirigenti delle strutture consiliari ovvero a dirigenti assunti dall'esterno, nel limiti dei posti liberi e disponibili nella dotazione dirigenziale del Consiglio, con le modalità di cui all'<rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7#art19">articolo 19 della legge regionale 8 aprile 1997, n. 7</rif>.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art9">
-                <num>Art. 9  </num>
-                <rubrica>
- 
-DISPOSIZIONI TRANSITORIE E FINALI  
- </rubrica>
-                <comma id="art9-com1">
-                    <num>
-1.</num>
-                    <alinea> Entro trenta giorni dall'entrata in vigore della presente legge, l'Ufficio di Presidenza:  
- 
-</alinea>
-                    <el id="art9-com1-leta">
-                        <num>a)</num>
-                        <corpo> approva la rilevazione di tutto il personale in servizio presso l'apparato amministrativo consiliare, distinto per strutture di appartenenza e per qualifiche funzionali;</corpo>
-                    </el>
-                    <el id="art9-com1-letb">
-                        <num>  
- 
-b)</num>
-                        <corpo> definisce l'articolazione in Sezioni dei Servizi;</corpo>
-                    </el>
-                    <el id="art9-com1-letc">
-                        <num>  
- 
-c)</num>
-                        <corpo> definisce le competenze di ciascuna struttura;</corpo>
-                    </el>
-                    <el id="art9-com1-letd">
-                        <num>  
- 
-d)</num>
-                        <corpo> definisce le dotazioni organiche di struttura ed il personale posto a supporto degli eventuali incarichi dirigenziali di staff. </corpo>
-                    </el>
-                </comma>
-                <comma id="art9-com2">
-                    <num>
- 
-2.</num>
-
-                    <corpo> Entro trenta giorni dall'adozione del provvedimento di cui al <rif xlink:href="#art9-com1">comma 1</rif> viene conferito l'incarico di Segretario Generale del Consiglio.  </corpo>
-                </comma>
-                <comma id="art9-com3">
-                    <num>
- 
-3.</num>
-
-                    <corpo> Entro trenta giorni dal conferimento dell'incarico di cui al <rif xlink:href="#art9-com2">comma 2</rif>, vengono costituiti gli uffici e conferiti gli incarichi di funzione dirigenziale. </corpo>
-                </comma>
-                <comma id="art9-com4">
-                    <num>
- 
-4.</num>
-
-                    <corpo> A scadenza biennale, l'Ufficio di Presidenza provvede alle revisioni di cui all'<rif
-                            xlink:href="urn:nir:regione.molise:legge:1997-04-08;7#art31">articolo 31 della legge regionale 8 aprile 1997, n. 7</rif>, secondo quanto previsto al <rif xlink:href="#art2">precedente articolo 2</rif>.  
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art10">
-                <num>Art. 10  </num>
-                <rubrica>
- 
-URGENZA  
- </rubrica>
-                <comma id="art10-com1">
-                    <num>
-1.</num>
-                    <corpo> La presente legge è dichiarata urgente ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. è fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="19990127">27 gennaio 1999</dataDoc>
+				, n.
+				<numDoc>2</numDoc>
+				<titoloDoc>Norme sull'autonomia organizzativa, funzionale e contabile del Consiglio Regionale.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>Finalità</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>Il Consiglio regionale ha piena autonomia organizzativa e funzionale, sulla base delle norme statutarie e delle leggi nazionali e regionali vigenti.</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>Le strutture organizzative del Consiglio sono informate ad assicurare economicità, speditezza e rispondenza al pubblico interesse dell'azione amministrativa.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>APPARATO DEL CONSIGLIO REGIONALE</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							Per le finalità di cui al
+							<rif xlink:href="#art1" xlink:type="simple">precedente art. 1</rif>
+							, nell'ambito del ruolo unico del personale regionale l'articolazione delle strutture del Consiglio è determinata, previa autonoma rilevazione dei carichi di lavoro, con provvedimento dell'Ufficio di Presidenza del Consiglio, nel rispetto dei principi e delle disposizioni contenute nella
+							<rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7" xlink:type="simple">legge regionale 8 aprile 1997, n. 7</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>COMPETENZE DELL'UFFICIO DI PRESIDENZA</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<alinea>Ferme restando le competenze della Giunta regionale e delle sue strutture in materia di procedimenti ed atti afferenti allo stato giuridico ed al trattamento economico fondamentale, previdenziale e di quiescenza del personale regionale, spettano all'Ufficio di Presidenza del Consiglio regionale, relativamente alle strutture consiliari:</alinea>
+						<el id="art3-com1-leta">
+							<num>a)</num>
+							<corpo>l'affidamento dell'incarico di Segretario Generale del Consiglio e, sentito il Segretario Generale, l'affidamento degli altri incarichi dirigenziali;</corpo>
+						</el>
+						<el id="art3-com1-letb">
+							<num>b)</num>
+							<corpo>
+								su proposta del Segretario Generale, l'istituzione, modifica e soppressione delle Sezioni in cui si articolano i Servizi di cui all'
+								<rif xlink:href="#art7-com1" xlink:type="simple">art. 7, comma 1</rif>
+								, degli incarichi dirigenziali di staff e degli Uffici;
+							</corpo>
+						</el>
+						<el id="art3-com1-letc">
+							<num>c)</num>
+							<corpo>su proposta del Segretario Generale, la definizione delle competenze di ciascuna struttura dirigenziale;</corpo>
+						</el>
+						<el id="art3-com1-letd">
+							<num>d)</num>
+							<corpo>su proposta del Segretario Generale, l'articolazione delle strutture e le relative assegnazioni del personale in servizio, presso il Consiglio;</corpo>
+						</el>
+						<el id="art3-com1-lete">
+							<num>e)</num>
+							<corpo>le proposte di assunzione di personale da sottoporre, ai fini dell'indizione dei concorsi, al Presidente della Giunta regionale;</corpo>
+						</el>
+						<el id="art3-com1-letf">
+							<num>f)</num>
+							<corpo>la definizione del trattamento economico e contrattuale del Segretario Generale del Consiglio;</corpo>
+						</el>
+						<el id="art3-com1-letg">
+							<num>g)</num>
+							<corpo>la definizione della graduazione delle funzioni e delle responsabilità dei dirigenti ai fini del trattamento accessorio, nei limiti di spesa e secondo i criteri previsti dalle vigenti disposizioni di legge in materia e dalle norme del contratto collettivo nazionale di lavoro;</corpo>
+						</el>
+						<el id="art3-com1-leth">
+							<num>h)</num>
+							<corpo>la verifica dei risultati dell'attività dirigenziale ed il controllo del costo e della produttività delle strutture consiliari, avvalendosi del supporto di un autonomo nucleo di valutazione nominato dallo stesso Ufficio di Presidenza, composto da tre esperti esterni qualificati in materia di controllo di gestione nell'ambito delle pubbliche amministrazioni;</corpo>
+						</el>
+						<el id="art3-com1-leti">
+							<num>i)</num>
+							<corpo>su proposta del Segretario Generale, l'approvazione del programma annuale di formazione del personale del Consiglio;</corpo>
+						</el>
+						<el id="art3-com1-letl">
+							<num>l)</num>
+							<corpo>
+								ogni altra competenza in materia di organizzazione degli uffici e gestione del personale del Consiglio regionale che la
+								<rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7" xlink:type="simple">legge regionale 8 aprile 1997, n. 7</rif>
+								e le altre leggi regionali vigenti nelle suddette materie assegnano alla Giunta regionale per le rispettive strutture.
+							</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>COMPETENZE DEL SEGRETARIO GENERALE DEL CONSIGLIO</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>
+							In materia di organizzazione degli uffici e di gestione del personale del Consiglio regionale, spettano al Segretario Generale tutte le competenze allo stesso attribuite dalla
+							<rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7" xlink:type="simple">legge regionale 8 aprile 1997 n. 7</rif>
+							nonché le competenze che la stessa legge attribuisce in via specifica al Direttore Generale del personale.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>RELAZIONI SINDACALI</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>Due componenti dell'Ufficio di Presidenza - di cui uno in rappresentanza della minoranza - all'uopo incaricati, ed il Segretario Generale, o un suo delegato, partecipano alla contrattazione decentrata quali componenti integrativi della delegazione di parte pubblica, della quale rappresentano la prevalente espressione per quanto riguarda i problemi relativi al Consiglio.</corpo>
+					</comma>
+					<comma id="art5-com2">
+						<num>2.</num>
+						<corpo>Nell'ambito delle procedure di informazione e di esame relative alle strutture ed al personale del Consiglio, i rapporti con le organizzazioni sindacali sono tenuti dal Segretario Generale o da un dirigente da questi delegato.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>MOBILItà DEL PERSONALE TRA STRUTTURE DI CONSIGLIO E DI GIUNTA</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>
+							Il personale, anche dirigenziale, può, a domanda essere trasferito da strutture del Consiglio a strutture della Giunta, e viceversa, secondo i criteri e con le modalità previste dalla
+							<rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7#art32" xlink:type="simple">legge regionale 8 aprile 1997, n. 7, articolo 32</rif>
+							, per la mobilità interna.
+						</corpo>
+					</comma>
+					<comma id="art6-com2">
+						<num>2.</num>
+						<corpo>La più diffusa e partecipata conoscenza delle competenze e dei procedimenti dell'apparato consiliare è assicurata, a parità di valenza delle strutture, anche tramite la rotazione dei dirigenti delle stesse responsabili.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art7">
+					<num>Art. 7</num>
+					<rubrica>STRUTTURE DEL CONSIGLIO REGIONALE</rubrica>
+					<comma id="art7-com1">
+						<num>1.</num>
+						<alinea>Sono strutture del Consiglio regionale:</alinea>
+						<el id="art7-com1-leta">
+							<num>a)</num>
+							<corpo>Servizio Affari istituzionali e Segreteria del Consiglio;</corpo>
+						</el>
+						<el id="art7-com1-letb">
+							<num>b)</num>
+							<corpo>Servizio per gli Affari amministrativi;</corpo>
+						</el>
+						<el id="art7-com1-letc">
+							<num>c)</num>
+							<corpo>Servizio Commissioni consiliari ed Affari legislativi e giuridici;</corpo>
+						</el>
+						<el id="art7-com1-letd">
+							<num>d)</num>
+							<corpo>Servizio relazioni con le Istituzioni comunitarie e con il pubblico, Studi, documentazione e biblioteca.</corpo>
+						</el>
+					</comma>
+					<comma id="art7-com2">
+						<num>2.</num>
+						<corpo>
+							<mod id="mod1">
+								Sono abrogate le disposizioni della
+								<rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7" xlink:type="simple">legge regionale 8 aprile 1997, n. 7</rif>
+								relative alle strutture speciali del Consiglio regionale.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art8">
+					<num>Art. 8</num>
+					<rubrica>INCARICHI DIRIGENZIALE DI STAFF</rubrica>
+					<comma id="art8-com1">
+						<num>1.</num>
+						<corpo>Gli incarichi dirigenziali di staff sono istituiti, modificati e soppressi con atto di organizzazione, su proposta del Segretario Generale, per fronteggiare esigenze, anche temporanee, di studio e ricerca in funzione di interventi legislativi della Regione nelle materie di sua competenza.</corpo>
+					</comma>
+					<comma id="art8-com2">
+						<num>2.</num>
+						<corpo>
+							Gli incarichi di funzione di cui al
+							<rif xlink:href="#art8-com1" xlink:type="simple">comma 1</rif>
+							possono essere istituiti in numero non superiore a due. Essi vengono affidati a dirigenti delle strutture consiliari ovvero a dirigenti assunti dall'esterno, nel limiti dei posti liberi e disponibili nella dotazione dirigenziale del Consiglio, con le modalità di cui all'
+							<rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7#art19" xlink:type="simple">articolo 19 della legge regionale 8 aprile 1997, n. 7</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art9">
+					<num>Art. 9</num>
+					<rubrica>DISPOSIZIONI TRANSITORIE E FINALI</rubrica>
+					<comma id="art9-com1">
+						<num>1.</num>
+						<alinea>Entro trenta giorni dall'entrata in vigore della presente legge, l'Ufficio di Presidenza:</alinea>
+						<el id="art9-com1-leta">
+							<num>a)</num>
+							<corpo>approva la rilevazione di tutto il personale in servizio presso l'apparato amministrativo consiliare, distinto per strutture di appartenenza e per qualifiche funzionali;</corpo>
+						</el>
+						<el id="art9-com1-letb">
+							<num>b)</num>
+							<corpo>definisce l'articolazione in Sezioni dei Servizi;</corpo>
+						</el>
+						<el id="art9-com1-letc">
+							<num>c)</num>
+							<corpo>definisce le competenze di ciascuna struttura;</corpo>
+						</el>
+						<el id="art9-com1-letd">
+							<num>d)</num>
+							<corpo>definisce le dotazioni organiche di struttura ed il personale posto a supporto degli eventuali incarichi dirigenziali di staff.</corpo>
+						</el>
+					</comma>
+					<comma id="art9-com2">
+						<num>2.</num>
+						<corpo>
+							Entro trenta giorni dall'adozione del provvedimento di cui al
+							<rif xlink:href="#art9-com1" xlink:type="simple">comma 1</rif>
+							viene conferito l'incarico di Segretario Generale del Consiglio.
+						</corpo>
+					</comma>
+					<comma id="art9-com3">
+						<num>3.</num>
+						<corpo>
+							Entro trenta giorni dal conferimento dell'incarico di cui al
+							<rif xlink:href="#art9-com2" xlink:type="simple">comma 2</rif>
+							, vengono costituiti gli uffici e conferiti gli incarichi di funzione dirigenziale.
+						</corpo>
+					</comma>
+					<comma id="art9-com4">
+						<num>4.</num>
+						<corpo>
+							A scadenza biennale, l'Ufficio di Presidenza provvede alle revisioni di cui all'
+							<rif xlink:href="urn:nir:regione.molise:legge:1997-04-08;7#art31" xlink:type="simple">articolo 31 della legge regionale 8 aprile 1997, n. 7</rif>
+							, secondo quanto previsto al
+							<rif xlink:href="#art2" xlink:type="simple">precedente articolo 2</rif>
+							.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art10">
+					<num>Art. 10</num>
+					<rubrica>URGENZA</rubrica>
+					<comma id="art10-com1">
+						<num>1.</num>
+						<corpo>La presente legge è dichiarata urgente ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

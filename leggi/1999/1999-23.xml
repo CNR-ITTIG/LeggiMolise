@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19990731" num="14" tipo="BURM"/>
-                <entratainvigore norm="19990815"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1999-07-26;23"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19990731" num="14" tipo="BURM" />
+					<entratainvigore norm="19990801" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1999-07-26;23" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19990801" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20100530" fonte="rp1" id="t2" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-07-26;23" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
  
 Bollettino 
 Bollettino Ufficiale n. 14 del 31/07/99 
@@ -27,31 +38,33 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>LEGGE REGIONALE </tipoDoc>
-            <dataDoc
-                    norm="19990726">26 luglio 1999</dataDoc>, n. <numDoc>23</numDoc>. 
- 
-<titoloDoc>Variazione al Bilancio 1999 di fondi della spesa di competenza e di cassa, ai sensi dell'articolo 34 della Legge Regionale di contabilità 3 dicembre 1977 - n. 44. 
- 
-<rif xlink:href="urn:nir:regione.molise:legge:1999-07-26;23">LEGGE REGIONALE 26 luglio 1999, n. 23</rif>. 
- 
-Variazione al Bilancio 1999 di fondi della spesa di competenza e di cassa, ai sensi dell'articolo 34 della Legge Regionale di contabilità 3 dicembre 1977 - n. 44. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>LEGGE REGIONALE</tipoDoc>
+				<dataDoc norm="19990726">26 luglio 1999</dataDoc>
+				, n.
+				<numDoc>23</numDoc>
+				.
+				<titoloDoc>
+					Variazione al Bilancio 1999 di fondi della spesa di competenza e di cassa, ai sensi dell'
+					<rif xlink:href="urn:nir:regione.molise:legge:1977-12-03;44#art34" xlink:type="simple">articolo 34 della Legge Regionale di contabilità 3 dicembre 1977 - n. 44</rif>
+					.
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>
+							abrogata intera legge dalla
+							<rif xlink:href="urn:nir:regione.molise:legge:2010;13:allegato.1" xlink:type="simple">legge n. 13/2010 art. allegato 1</rif>
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>
