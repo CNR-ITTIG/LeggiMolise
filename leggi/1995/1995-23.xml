@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19950516" num="11" tipo="BURM"/>
-                <entratainvigore norm="19950531"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1995-05-08;23"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea"/>
-                </materie>
-            </descrittori>
-        </meta><?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19950516" num="11" tipo="BURM" />
+					<entratainvigore norm="19950517" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1995-05-08;23" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19950517" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1995-05-08;23" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 
  
 Bollettino 
 Bollettino Ufficiale n. 11 del 16/05/95 
@@ -27,103 +36,133 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale  </tipoDoc>
-            <dataDoc norm="19950508">8 Maggio 1995</dataDoc>, n. <numDoc>23</numDoc>
-            <titoloDoc>Modifiche ed integrazioni alla <rif xlink:href="urn:nir:regione.molise:legge:1983-02-01;6">legge regionale 1 febbraio 1983, n. 6</rif>. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1 </num>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-                    <corpo>
-                        <mod id="art1-com1-mod1"> L'<rif
-                                xlink:href="urn:nir:regione.molise:legge:1983-02-01;6#art1">articolo 1 della legge regionale 1° febbraio 1983, n. 6</rif> viene integrato nel modo seguente: dopo la parola &lt;&lt;<virgolette
-                                id="art1-com1-mod1-vir1">cinghiale </virgolette>&gt;&gt; è posta la virgola e vengono aggiunte le parole &lt;&lt;<virgolette id="art1-com1-mod1-vir2">dal cane randagio o rinselvatichito</virgolette>&gt;&gt;. 
- 
-</mod>
-                    </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2 </num>
-                <comma id="art2-com1">
-                    <num>
-1.</num>
-                    <corpo> L'<rif xlink:href="urn:nir:regione.molise:legge:1983-02-01;6#art2">articolo 2 della legge regionale 1° febbraio 1983, n. 6</rif> e sostituito dal presente: l'accertamento e la valutazione dei danni al patrimonio zootecnico, ai soprassuoli boschivi ed alle colture in atto, sono demandati, rispettivamente, al Servizio Veterinario delle Unità Sanitarie Locali, al Corpo Forestale dello Stato ed agli Uffici agricoli di Zona. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art. 3 </num>
-                <comma id="art3-com1">
-                    <num>
-1.</num>
-                    <corpo>
-                        <mod id="art3-com1-mod2"> All'<rif
-                                xlink:href="urn:nir:regione.molise:legge:1983-02-01#art4">articolo 4 della legge regionale 1° febbraio 1983</rif>, dopo le parole &lt;&lt;<virgolette
-                                id="art3-com1-mod2-vir3">per i capi dispersi</virgolette>&gt;&gt; viene eliminato il punto e virgola e vengono aggiunte le parole &lt;&lt;<virgolette id="art3-com1-mod2-vir4">o affetti da malattie infettive e infestive</virgolette>&gt;&gt;. 
- 
-</mod>
-                    </corpo>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>Art. 4 </num>
-                <comma id="art4-com1">
-                    <num>
-1.</num>
-                    <corpo> L'<rif
-                            xlink:href="urn:nir:regione.molise:legge:1983-02-01;6#art5">articolo 5 della legge regionale 1° febbraio 1983, n.6</rif> è sostituito dal presente: la domanda intesa ad ottenere il risarcimento dei danni, di cui al <rif
-                            xlink:href="#art2">precedente articolo 2</rif>, con firma dell'interessato autenticata, ai sensi e per gli effetti di <rif xlink:href="urn:nir:stato:legge:1968-01-04;15">legge 4 gennaio 1968, n. 15</rif>, deve essere   indirizzata alla Giunta Regionale del Molise e consegnata, entro e non oltre due giorni dalla data in cui si è verificato l'evento, al Servizio Veterinario dell'Unità Sanitaria Locale o al Comando Stazione Forestale o all'Ufficio Agricolo di Zona, secondo la materia e la competenza territoriale. </corpo>
-                </comma>
-                <comma id="art4-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> I Veterinari, gli Agenti del Corpo Forestale ed i Tecnici dell'Agricoltura effettueranno immediatamente il sopralluogo e la stima dei danni, secondo il prezzario stabilito dalla Giunta Regionale e provvederanno a rimettere, entro i trenta giorni successivi, all'Assessorato  Regionale competente i verbali di accertamento e stima, tramite gli Uffici di rispettiva appartenenza. </corpo>
-                </comma>
-                <comma id="art4-com3">
-                    <num>
- 
-3.</num>
-                    <corpo> Limitatamente ai danni provocati dal cinghiale ai prodotti agricoli, qualora, in presenza di numerose contestuali istanze di risarcimento, non sia possibile l'effettuazione di tutti i sopralluoghi di rito, l'accertamento, in via eccezionale, potrè avvenire a campione a sorteggio sulla base non inferiore al 30% delle istanze pervenute. </corpo>
-                </comma>
-                <comma id="art4-com4">
-                    <num>
- 
-4.</num>
-                    <corpo> L'Assessorato al ramo provvederè a trasmettere gli atti alla Giunta Regionale per la successiva liquidazione. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art5">
-                <num>Art. 5 </num>
-                <comma id="art5-com1">
-                    <num>
-1.</num>
-
-                    <corpo> La presente legge è dichiarata urgente, ai sensi dell'<rif
-                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127">articolo 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">articolo 38 dello Statuto Regionale</rif> ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione. </corpo>
-                </comma>
-                <comma id="art5-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> è fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19950508">8 Maggio 1995</dataDoc>
+				, n.
+				<numDoc>23</numDoc>
+				<titoloDoc>
+					Modifiche ed integrazioni alla
+					<rif xlink:href="urn:nir:regione.molise:legge:1983-02-01;6" xlink:type="simple">legge regionale 1 febbraio 1983, n. 6</rif>
+					.
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod1">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:1983-02-01;6#art1" xlink:type="simple">articolo 1 della legge regionale 1° febbraio 1983, n. 6</rif>
+								viene integrato nel modo seguente: dopo la parola &lt;&lt;
+								<virgolette id="mod1-vir1" tipo="parola">cinghiale</virgolette>
+								&gt;&gt; è posta la virgola e vengono aggiunte le parole &lt;&lt;
+								<virgolette id="mod1-vir2" tipo="parola">dal cane randagio o rinselvatichito</virgolette>
+								&gt;&gt;.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod2">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:1983-02-01;6#art2" xlink:type="simple">articolo 2 della legge regionale 1° febbraio 1983, n. 6</rif>
+								e sostituito dal presente:
+								<virgolette id="mod2-vir1" tipo="struttura">
+									<articolo id="mod2-vir1-art1">
+										<num />
+										<comma id="mod2-vir1-art1-com1">
+											<num />
+											<corpo>l'accertamento e la valutazione dei danni al patrimonio zootecnico, ai soprassuoli boschivi ed alle colture in atto, sono demandati, rispettivamente, al Servizio Veterinario delle Unità Sanitarie Locali, al Corpo Forestale dello Stato ed agli Uffici agricoli di Zona.</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod3">
+								All'
+								<rif xlink:href="urn:nir:regione.molise:legge:1983-02-01#art4" xlink:type="simple">articolo 4 della legge regionale 1° febbraio 1983</rif>
+								, dopo le parole &lt;&lt;
+								<virgolette id="mod3-vir1" tipo="parola">per i capi dispersi</virgolette>
+								&gt;&gt; viene eliminato il punto e virgola e vengono aggiunte le parole &lt;&lt;
+								<virgolette id="mod3-vir2" tipo="parola">o affetti da malattie infettive e infestive</virgolette>
+								&gt;&gt;.
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>
+							<mod id="mod4">
+								L'
+								<rif xlink:href="urn:nir:regione.molise:legge:1983-02-01;6#art5" xlink:type="simple">articolo 5 della legge regionale 1° febbraio 1983, n.6</rif>
+								è sostituito dal presente:
+								<virgolette id="mod4-vir1" tipo="struttura">
+									<articolo id="mod4-vir1-art1">
+										<num />
+										<comma id="mod4-vir1-art1-com1">
+											<num />
+											<corpo>
+												la domanda intesa ad ottenere il risarcimento dei danni, di cui al precedente articolo 2, con firma dell'interessato autenticata, ai sensi e per gli effetti di
+												<rif xlink:href="urn:nir:stato:legge:1968-01-04;15" xlink:type="simple">legge 4 gennaio 1968, n. 15</rif>
+												, deve essere indirizzata alla Giunta Regionale del Molise e consegnata, entro e non oltre due giorni dalla data in cui si è verificato l'evento, al Servizio Veterinario dell'Unità Sanitaria Locale o al Comando Stazione Forestale o all'Ufficio Agricolo di Zona, secondo la materia e la competenza territoriale.
+											</corpo>
+										</comma>
+										<comma id="mod4-vir1-art1-com2">
+											<num>2.</num>
+											<corpo>I Veterinari, gli Agenti del Corpo Forestale ed i Tecnici dell'Agricoltura effettueranno immediatamente il sopralluogo e la stima dei danni, secondo il prezzario stabilito dalla Giunta Regionale e provvederanno a rimettere, entro i trenta giorni successivi, all'Assessorato Regionale competente i verbali di accertamento e stima, tramite gli Uffici di rispettiva appartenenza.</corpo>
+										</comma>
+										<comma id="mod4-vir1-art1-com3">
+											<num>3.</num>
+											<corpo>Limitatamente ai danni provocati dal cinghiale ai prodotti agricoli, qualora, in presenza di numerose contestuali istanze di risarcimento, non sia possibile l'effettuazione di tutti i sopralluoghi di rito, l'accertamento, in via eccezionale, potrè avvenire a campione a sorteggio sulla base non inferiore al 30% delle istanze pervenute.</corpo>
+										</comma>
+										<comma id="mod4-vir1-art1-com4">
+											<num>4.</num>
+											<corpo>L'Assessorato al ramo provvederè a trasmettere gli atti alla Giunta Regionale per la successiva liquidazione.</corpo>
+										</comma>
+									</articolo>
+								</virgolette>
+							</mod>
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>
+							La presente legge è dichiarata urgente, ai sensi dell'
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art127" xlink:type="simple">articolo 127 della Costituzione</rif>
+							e dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art38" xlink:type="simple">articolo 38 dello Statuto Regionale</rif>
+							ed entra in vigore il giorno successivo a quello della sua pubblicazione nel Bollettino Ufficiale della Regione.
+						</corpo>
+					</comma>
+					<comma id="art5-com2">
+						<num>2.</num>
+						<corpo>È fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

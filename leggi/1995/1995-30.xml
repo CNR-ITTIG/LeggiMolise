@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19951216" num="25" tipo="BURM"/>
-                <entratainvigore norm="19951231"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1995-12-15;30"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19951216" num="25" tipo="BURM" />
+					<entratainvigore norm="19951231" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1995-12-15;30" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20100530" fonte="rp1" id="t1" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
  
 Bollettino 
 Bollettino Ufficiale n. 25 del 16/12/95 
@@ -27,32 +36,30 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19951215">15 Dicembre 1995</dataDoc>, n. <numDoc>30</numDoc>
-            <titoloDoc>
-                <rif xlink:href="urn:nir:regione.molise:legge:1977-12-03;44#art36">Articolo 36 della legge regionale 3 dicembre 1977, n. 44</rif> - Assestamento del bilancio di competenza e di cassa 1995. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione>
-            <dataeluogo codice="00100"
-                    norm="">Categoria 1 
- 
-   Fondi derivanti dall'<rif xlink:href="urn:nir:stato:legge:1970-05-16#art9">art. 9 della legge 16 maggio 1970</rif>, </dataeluogo>
-        </conclusione><?error n. 281. 
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19951215">15 Dicembre 1995</dataDoc>
+				, n.
+				<numDoc>30</numDoc>
+				<titoloDoc>
+					<rif xlink:href="urn:nir:regione.molise:legge:1977-12-03;44#art36" xlink:type="simple">Articolo 36 della legge regionale 3 dicembre 1977, n. 44</rif>
+					- Assestamento del bilancio di competenza e di cassa 1995.
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+			<?error n. 281. 
  
    01501 - 211 - Quota variabile art. 9 anno 1994. Differenza attiva. 
  
@@ -1019,5 +1026,5 @@ Modifiche
  
 
 ?>
-    </LeggeRegionale>
-</NIR>
+		</LeggeRegionale>
+	</NIR>

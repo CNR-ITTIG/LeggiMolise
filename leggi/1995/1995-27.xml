@@ -4,45 +4,30 @@
 		<LeggeRegionale>
 			<meta>
 				<descrittori>
-					<pubblicazione norm="19950216" num="3" tipo="BURM" />
-					<entratainvigore norm="19950303" />
+					<pubblicazione norm="19950916" num="19" tipo="BURM" />
+					<entratainvigore norm="19951001" />
 					<redazione id="red1" nome="" norm="" />
-					<urn valore="urn:nir:regione.molise:legge:1995-02-13;6" />
+					<urn valore="urn:nir:regione.molise:legge:1995-09-11;27" />
 					<materie vocabolario="Regione Molise">
-						<materia valore="18.lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa" />
+						<materia valore="Enti di formazione professionale - L.r. 17 gennaio 1983. n. 3 - Interpretazione autentica del comma 4 dell'articolo 21" />
 					</materie>
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20051201" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="20100530" fonte="rp1" id="t1" tipo="modifica" />
 					</eventi>
 					<relazioni>
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2005;41" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 			</meta>
-			<?error 18.Lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa 
- 
-Bollettino 
-Bollettino Ufficiale n. 03 del 16/02/1995 
- 
-Oggetto 
-Cooperazione 
- 
-Abrogazioni 
-Abrogata intera legge dalla legge n. 41/2005 art. 21 
- 
-Modifiche 
- 
- 
-?>
 			<intestazione>
 				<emanante>Regione Molise</emanante>
 				<tipoDoc>Legge Regionale</tipoDoc>
-				<dataDoc norm="19950213">13 Febbraio 1995</dataDoc>
+				<dataDoc norm="19950911">11 Settembre 1995</dataDoc>
 				, n.
-				<numDoc>6</numDoc>
-				<titoloDoc>Interventi a favore della cooperazione.</titoloDoc>
+				<numDoc>27</numDoc>
+				<titoloDoc>Articolo 21, comma 4, della legge regionale 17 gennaio 1983, n. 3, concernente &lt;&lt;Disciplina della Formazione Professionale nel Molise&gt;&gt; - Interpretazione autentica.</titoloDoc>
 			</intestazione>
 			<formulainiziale />
 			<articolato>
@@ -50,7 +35,7 @@ Modifiche
 					<num />
 					<comma id="art1-com1">
 						<num />
-						<corpo>abrogata intera legge dalla legge n. 41/2005 art. 21</corpo>
+						<corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
 					</comma>
 				</articolo>
 			</articolato>
