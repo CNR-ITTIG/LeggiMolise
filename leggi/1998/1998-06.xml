@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19980801" num="15" tipo="BURM"/>
-                <entratainvigore norm="19980816"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1998-07-30;6"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="08.demanio e patrimonio, beni di uso civico"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20031216" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2003;32" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 08.Demanio e patrimonio, beni di uso civico 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19980801" num="15" tipo="BURM" />
+					<entratainvigore norm="19980802" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1998-07-30;6" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="08.demanio e patrimonio, beni di uso civico" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19980802" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20031216" fonte="rp1" id="t2" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1998-07-30;6" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2003;32" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 08.Demanio e patrimonio, beni di uso civico 
  
 Bollettino 
 Bollettino Ufficiale n. 15 del 01/08/98 
@@ -27,27 +38,28 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19980730">30 Luglio 1998</dataDoc>, n. <numDoc>6</numDoc>
-            <titoloDoc>Costruzione della sede completa della Regione Molise e contestuale risoluzione di problemi connessi all'utilizzazione di beni patrimoniali 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 32/2003 art. 5</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge della Regione Molise. 
-
-?>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19980730">30 Luglio 1998</dataDoc>
+				, n.
+				<numDoc>6</numDoc>
+				<titoloDoc>Costruzione della sede completa della Regione Molise e contestuale risoluzione di problemi connessi all'utilizzazione di beni patrimoniali</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>
+							abrogata intera legge dalla
+							<rif xlink:href="urn:nir:regione.molise:legge:2003;32#art5" xlink:type="simple">legge n. 32/2003 art. 5</rif>
+						</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

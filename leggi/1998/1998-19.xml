@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19981231" num="25" tipo="BURM"/>
-                <entratainvigore norm="19990115"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1998-12-23;19"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="04.assistenza sociale, volontariato"/>
-                </materie>
-            </descrittori>
-        </meta><?error 04.Assistenza sociale, volontariato 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19981231" num="25" tipo="BURM" />
+					<entratainvigore norm="19990101" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1998-12-23;19" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="04.assistenza sociale, volontariato" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19990101" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1998-12-23;19" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 04.Assistenza sociale, volontariato 
 34.Trasporti e viabilità, navigazione nelle acque interne 
  
 Bollettino 
@@ -28,146 +37,136 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19981223">23 Dicembre 1998</dataDoc>, n. <numDoc>19</numDoc>
-            <titoloDoc>Facilitazioni tariffarie per il trasporto dei disabili 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num>Art. 1</num>
-                <rubrica>: PIANO DI MOBILItà 
- </rubrica>
-                <comma id="art1-com1">
-                    <num>
-1.</num>
-
-                    <corpo> La Regione Molise, nel quadro della propria programmazione nel settore dei trasporti, adotta un piano di mobilità per le persone disabili in conformità ai principi previsti dall'<rif xlink:href="urn:nir:stato:legge:1992;104#art26">articolo 26 della legge 104/92</rif>. </corpo>
-                </comma>
-                <comma id="art1-com2">
-                    <num>
- 
-2.</num>
-
-                    <corpo> Fino all'attuazione dei piani di mobilità di cui al <rif xlink:href="#art1-com1">comma 1</rif>, i Comuni in qualità di Enti concedenti servizi di trasporto pubblico locale, nell'ambito del territorio di competenza, provvedono periodicamente alla verifica delle esigenze di mobilità delle persone disabili. Per i collegamenti sovra comunali provvede la Regione sulla scorta delle indicazioni programmatiche contenute nel piano di mobilità. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art2">
-                <num>Art. 2</num>
-                <rubrica>: AGEVOLAZIONI TARIFFARIE 
- </rubrica>
-                <comma id="art2-com1">
-                    <num>
-1.</num>
-                    <corpo> La Regione Molise stabilisce una agevolazione tariffaria per il trasporto sui mezzi pubblici nell'ordine dell'intero costo del biglietto per le linee urbane e del 50% del costo del biglietto per linee extraurbane a favore delle seguenti categorie:  
- 
-- Privi di vista con cecità assoluta o con residuo visivo non superiore a 1/10 in entrambi gli occhi e loro eventuali accompagnatori; 
- 
-- Invalidi di guerra e per servizio fino alla quinta categoria;  
- 
-- Sordomuti;  
- 
-- Invalidi civili, inabili ed invalidi del lavoro ai quali sia stata accertata una riduzione della capacità lavorativa in misura non inferiore ai 2/3;  
- 
-- Soggetti con grave handicap mentali e loro eventuali accompagnatori. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art3">
-                <num>Art. 3</num>
-                <rubrica>: CONVENZIONI 
- </rubrica>
-                <comma id="art3-com1">
-                    <num>
-1.</num>
-                    <corpo> Gli Enti concedenti servizi di trasporto pubblico locale possono attuare i piani di mobilità per le persone disabili attraverso apposite convenzioni con le aziende operanti nel comparto del trasporto pubblico ed in collaborazione con le AUSL per disciplinare la qualità dei servizi e le modalità di effettuazione del trasporto. </corpo>
-                </comma>
-                <comma id="art3-com2">
-                    <num>
- 
-2.</num>
-                    <alinea> Le convenzioni di cui al <rif xlink:href="#art3-com1">comma 1</rif> dovranno disciplinare obbligatoriamente: 
- 
-</alinea>
-                    <el id="art3-com2-leta">
-                        <num>a)</num>
-                        <corpo> qualità e quantità dei servizi forniti;</corpo>
-                    </el>
-                    <el id="art3-com2-letb">
-                        <num> 
- 
-b)</num>
-                        <corpo> Modalità di effettuazione del trasporto;</corpo>
-                    </el>
-                    <el id="art3-com2-letc">
-                        <num> 
- 
-c)</num>
-                        <corpo> Requisiti per essere ammessi alle agevolazioni. 
- 
-</corpo>
-                    </el>
-                </comma>
-            </articolo>
-            <articolo id="art4">
-                <num>Art. 4</num>
-                <rubrica>: LIQUIDAZIONE DELLE SPESE 
- </rubrica>
-                <comma id="art4-com1">
-                    <num>
-1.</num>
-                    <corpo> Entro il 15 ottobre di ciascun anno i Comuni trasmettono all'Assessorato regionale competente la nota riepilogativa dei titoli di viaggio ammessi al rimborso.  </corpo>
-                </comma>
-                <comma id="art4-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> La Regione provvederè alla liquidazione delle spese sostenute dalle società esercenti il trasporto. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art5">
-                <num>Art. 5</num>
-                <rubrica>: NORMA FINANZIARIA 
- </rubrica>
-                <comma id="art5-com1">
-                    <num>
-1.</num>
-
-                    <corpo> Agli oneri derivanti dall'applicazione della presente legge si fa fronte con quota parte delle disponibilita iscritte al capitolo 19410 del Bilancio regionale dell'esercizio finanziario 1998 ad oggetto: &lt;&lt;Contributi annui di esercizio per il trasporto pubblico locale (<rif xlink:href="urn:nir:regione.molise:legge:1984-08-20;190">L.R. 20 agosto 1984, n. 190</rif>&gt;&gt;. 
- 
-</corpo>
-                </comma>
-            </articolo>
-            <articolo id="art6">
-                <num>Art. 6</num>
-                <rubrica>: DICHIARAZIONE D'URGENZA 
- </rubrica>
-                <comma id="art6-com1">
-                    <num>
-1.</num>
-
-                    <corpo> La presente legge è dichiarata urgente ai sensi del <rif
-                            xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2">secondo comma dell'art. 127 della Costituzione</rif> e dell'<rif xlink:href="urn:nir:regione.molise:statuto:#art38">art. 38 dello Statuto regionale</rif> ed entra in vigore il giorno successivo a quello di pubblicazione sul Bollettino Ufficiale della Regione.  </corpo>
-                </comma>
-                <comma id="art6-com2">
-                    <num>
- 
-2.</num>
-                    <corpo> è fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
-</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19981223">23 Dicembre 1998</dataDoc>
+				, n.
+				<numDoc>19</numDoc>
+				<titoloDoc>Facilitazioni tariffarie per il trasporto dei disabili</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num>Art. 1</num>
+					<rubrica>PIANO DI MOBILItà</rubrica>
+					<comma id="art1-com1">
+						<num>1.</num>
+						<corpo>
+							La Regione Molise, nel quadro della propria programmazione nel settore dei trasporti, adotta un piano di mobilità per le persone disabili in conformità ai principi previsti dall'
+							<rif xlink:href="urn:nir:stato:legge:1992;104#art26" xlink:type="simple">articolo 26 della legge 104/92</rif>
+							.
+						</corpo>
+					</comma>
+					<comma id="art1-com2">
+						<num>2.</num>
+						<corpo>
+							Fino all'attuazione dei piani di mobilità di cui al
+							<rif xlink:href="#art1-com1" xlink:type="simple">comma 1</rif>
+							, i Comuni in qualità di Enti concedenti servizi di trasporto pubblico locale, nell'ambito del territorio di competenza, provvedono periodicamente alla verifica delle esigenze di mobilità delle persone disabili. Per i collegamenti sovra comunali provvede la Regione sulla scorta delle indicazioni programmatiche contenute nel piano di mobilità.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art2">
+					<num>Art. 2</num>
+					<rubrica>AGEVOLAZIONI TARIFFARIE</rubrica>
+					<comma id="art2-com1">
+						<num>1.</num>
+						<alinea>La Regione Molise stabilisce una agevolazione tariffaria per il trasporto sui mezzi pubblici nell'ordine dell'intero costo del biglietto per le linee urbane e del 50% del costo del biglietto per linee extraurbane a favore delle seguenti categorie:</alinea>
+						<ep id="art2-com1-pun1">
+							<num>-</num>
+							<corpo>Privi di vista con cecità assoluta o con residuo visivo non superiore a 1/10 in entrambi gli occhi e loro eventuali accompagnatori;</corpo>
+						</ep>
+						<ep id="art2-com1-pun2">
+							<num>-</num>
+							<corpo>Invalidi di guerra e per servizio fino alla quinta categoria;</corpo>
+						</ep>
+						<ep id="art2-com1-pun3">
+							<num>-</num>
+							<corpo>Sordomuti;</corpo>
+						</ep>
+						<ep id="art2-com1-pun4">
+							<num>-</num>
+							<corpo>Invalidi civili, inabili ed invalidi del lavoro ai quali sia stata accertata una riduzione della capacità lavorativa in misura non inferiore ai 2/3;</corpo>
+						</ep>
+						<ep id="art2-com1-pun5">
+							<num>-</num>
+							<corpo>Soggetti con grave handicap mentali e loro eventuali accompagnatori.</corpo>
+						</ep>
+					</comma>
+				</articolo>
+				<articolo id="art3">
+					<num>Art. 3</num>
+					<rubrica>CONVENZIONI</rubrica>
+					<comma id="art3-com1">
+						<num>1.</num>
+						<corpo>Gli Enti concedenti servizi di trasporto pubblico locale possono attuare i piani di mobilità per le persone disabili attraverso apposite convenzioni con le aziende operanti nel comparto del trasporto pubblico ed in collaborazione con le AUSL per disciplinare la qualità dei servizi e le modalità di effettuazione del trasporto.</corpo>
+					</comma>
+					<comma id="art3-com2">
+						<num>2.</num>
+						<alinea>
+							Le convenzioni di cui al
+							<rif xlink:href="#art3-com1" xlink:type="simple">comma 1</rif>
+							dovranno disciplinare obbligatoriamente:
+						</alinea>
+						<el id="art3-com2-leta">
+							<num>a)</num>
+							<corpo>qualità e quantità dei servizi forniti;</corpo>
+						</el>
+						<el id="art3-com2-letb">
+							<num>b)</num>
+							<corpo>Modalità di effettuazione del trasporto;</corpo>
+						</el>
+						<el id="art3-com2-letc">
+							<num>c)</num>
+							<corpo>Requisiti per essere ammessi alle agevolazioni.</corpo>
+						</el>
+					</comma>
+				</articolo>
+				<articolo id="art4">
+					<num>Art. 4</num>
+					<rubrica>LIQUIDAZIONE DELLE SPESE</rubrica>
+					<comma id="art4-com1">
+						<num>1.</num>
+						<corpo>Entro il 15 ottobre di ciascun anno i Comuni trasmettono all'Assessorato regionale competente la nota riepilogativa dei titoli di viaggio ammessi al rimborso.</corpo>
+					</comma>
+					<comma id="art4-com2">
+						<num>2.</num>
+						<corpo>La Regione provvederà alla liquidazione delle spese sostenute dalle società esercenti il trasporto.</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art5">
+					<num>Art. 5</num>
+					<rubrica>NORMA FINANZIARIA</rubrica>
+					<comma id="art5-com1">
+						<num>1.</num>
+						<corpo>
+							Agli oneri derivanti dall'applicazione della presente legge si fa fronte con quota parte delle disponibilita iscritte al capitolo 19410 del Bilancio regionale dell'esercizio finanziario 1998 ad oggetto: &lt;&lt;Contributi annui di esercizio per il trasporto pubblico locale (
+							<rif xlink:href="urn:nir:regione.molise:legge:1984-08-20;190" xlink:type="simple">L.R. 20 agosto 1984, n. 190</rif>
+							&gt;&gt;.
+						</corpo>
+					</comma>
+				</articolo>
+				<articolo id="art6">
+					<num>Art. 6</num>
+					<rubrica>DICHIARAZIONE D'URGENZA</rubrica>
+					<comma id="art6-com1">
+						<num>1.</num>
+						<corpo>
+							La presente legge è dichiarata urgente ai sensi del
+							<rif xlink:href="urn:nir:stato:costituzione:1947-12-27#art127-com2" xlink:type="simple">secondo comma dell'art. 127 della Costituzione</rif>
+							e dell'
+							<rif xlink:href="urn:nir:regione.molise:statuto:#art38" xlink:type="simple">art. 38 dello Statuto regionale</rif>
+							ed entra in vigore il giorno successivo a quello di pubblicazione sul Bollettino Ufficiale della Regione.
+						</corpo>
+					</comma>
+					<comma id="art6-com2">
+						<num>2.</num>
+						<corpo>E' fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise.</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>
