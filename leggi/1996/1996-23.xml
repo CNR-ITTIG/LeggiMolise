@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19960701" num="12" tipo="BURM"/>
-                <entratainvigore norm="19960716"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1996-06-26;23"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19960701" num="12" tipo="BURM" />
+					<entratainvigore norm="19960716" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1996-06-26;23" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="07.contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20100530" fonte="rp1" id="t1" tipo="modifica" />
+					</eventi>
+					<relazioni>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 
  
 Bollettino 
 Bollettino Ufficiale n. 12 del 01/07/96 
@@ -27,45 +36,27 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19960626">26 Giugno 1996</dataDoc>, n. <numDoc>23</numDoc>
-            <titoloDoc>Provvedimenti di rifinanziamento e modifiche di leggi regionali relative ai diversi settori di intervento 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione>
-            <dataeluogo codice="00100" norm="">
-                <rif
-                    xlink:href="urn:nir:stato:legge:1977;285">Legge n. 285/1977</rif>, - quote dovute dalla regione per oneri previdenziali ed assistenziali da rimborsare agli istituti per l'occupazione giovanile in materia di servizi socialmente utili - <rif
-                    xlink:href="urn:nir:stato:legge:1977;285">Legge n.285/1977</rif>, art.26 - 37400 - 1.932.000.000. 
- 
-<rif
-                    xlink:href="urn:nir:stato:legge:1978;833">Legge n.833/1978</rif> - quota dovuta dalla regione sui fondi dell'art.8 legge n.281 ed <rif
-                    xlink:href="urn:nir:stato:legge:1978;833#art69">art.69 legge n.833/1978</rif> a favore delle UUSSLL. per spese correnti - 55600 - 2.525.500.000. 
- 
-<rif
-                    xlink:href="urn:nir:stato:legge:1991;10">Legge n.10/1991</rif> - Piano energetico nazionale - sviluppo delle fonti rinnovabili di energia - <rif
-                    xlink:href="urn:nir:stato:legge:1991;10">legge n.10/1991</rif> artt. 8, 9, 10 e 13 - 25102 - 210.000.000. 
- 
-<rif
-                    xlink:href="urn:nir:stato:legge:1987;441">Legge 441/1987</rif> - Spesa regionale per il finzionamento dei nuclei operativi in ecologia - <rif
-                    xlink:href="urn:nir:stato:legge:1987;441#art3bis">art.3 bis legge n.441/1987</rif> - 36691 - 30.000.000. 
- 
-<rif xlink:href="urn:nir:stato:legge:1993-10-27;422">Legge n.422 del 27 ottobre 1993</rif> - </dataeluogo>
-        </conclusione><?error spese per campagne pubblicitarie e riformazione delle proprie attività attraverso emittenti televisive e radiofoniche locali - legge 27 ottobre 1993, n.422 - 8706 - 150.000.000. 
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19960626">26 Giugno 1996</dataDoc>
+				, n.
+				<numDoc>23</numDoc>
+				<titoloDoc>Provvedimenti di rifinanziamento e modifiche di leggi regionali relative ai diversi settori di intervento</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+			<?error spese per campagne pubblicitarie e riformazione delle proprie attività attraverso emittenti televisive e radiofoniche locali - legge 27 ottobre 1993, n.422 - 8706 - 150.000.000. 
  
 Legge n.404/1971 - sussidi o titolo di soccorso giornaliero agli infermi Hanseniani ed ai loro familiari a carico - Fondo Sanitario Nazionale (legge 3 giugno 1971, n.404) - 32400 - 38.648.000. 
  
@@ -128,5 +119,5 @@ Legge regionale n.1/1984 - Contributi Statali sugli interessi di prestiti di ese
 - . - . - 43405 - 25.000.000. 
 
 ?>
-    </LeggeRegionale>
-</NIR>
+		</LeggeRegionale>
+	</NIR>
