@@ -16,9 +16,9 @@
 					<eventi>
 						<evento data="20050130" fonte="rp1" id="t1" tipo="modifica" />
 						<evento data="20020831" fonte="rp2" id="t2" tipo="modifica" />
-						<evento data="" fonte="rp3" id="t3" tipo="modifica" />
+						<evento data="20030101" fonte="rp3" id="t3" tipo="modifica" />
 						<evento data="20090501" fonte="rp4" id="t4" tipo="modifica" />
-						<evento data="" fonte="rp5" id="t5" tipo="modifica" />
+						<evento data="20060902" fonte="rp5" id="t5" tipo="modifica" />
 						<evento data="19911117" fonte="ro1" id="t6" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>

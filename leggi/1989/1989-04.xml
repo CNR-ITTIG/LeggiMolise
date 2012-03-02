@@ -108,7 +108,7 @@ Modifiche
 				<annesso id="ann1">
 					<testata>
 						<denAnnesso>
-							<h:p>TABELLA A</h:p>
+							<h:a xlink:href="1989-04-tabA.pdf" xlink:type="simple">TABELLA A</h:a>
 						</denAnnesso>
 						<titAnnesso>
 							<h:p />
@@ -123,14 +123,14 @@ Modifiche
 								<pubblicazione norm="" num="" tipo="GU" />
 								<entratainvigore norm="" />
 								<redazione id="red2" nome="" norm="" />
-								<urn valore="" />
+								<urn valore="urn:nir:regione.molise:legge:1989-02-23;4:tabella.a" />
 							</descrittori>
 						</meta>
 						<intestazione />
 						<formulainiziale />
 						<contenitore id="con1" nome="">
 							<h:p>
-								<rif xlink:href="1989_04_tabella_A.pdf" xlink:type="simple">Scarica pdf</rif>
+								
 							</h:p>
 						</contenitore>
 						<formulafinale />
@@ -140,7 +140,7 @@ Modifiche
 				<annesso id="ann2">
 					<testata>
 						<denAnnesso>
-							<h:p>TABELLA B</h:p>
+							<h:a xlink:href="1989-04-tabB.pdf" xlink:type="simple">TABELLA B</h:a>
 						</denAnnesso>
 						<titAnnesso>
 							<h:p />
@@ -155,15 +155,14 @@ Modifiche
 								<pubblicazione norm="" num="" tipo="GU" />
 								<entratainvigore norm="" />
 								<redazione id="red3" nome="" norm="" />
-								<urn valore="" />
+								<urn valore="urn:nir:regione.molise:legge:1989-02-23;4:tabella.b" />
 							</descrittori>
 						</meta>
 						<intestazione />
 						<formulainiziale />
 						<contenitore id="con2" nome="">
 							<h:p>
-								<rif xlink:href="1989_04_tabella_B.pdf" xlink:type="simple">Scarica pdf</rif>
-							</h:p>
+								</h:p>
 						</contenitore>
 						<formulafinale />
 						<conclusione />

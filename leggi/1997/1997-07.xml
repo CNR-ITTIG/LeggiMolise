@@ -2207,20 +2207,7 @@ Modificato art. tabella A dalla legge n. 12/2008 art. 17
 								<redazione id="red2" nome="" norm="" />
 								<urn valore="urn:nir:regione.molise:legge:1997-04-08;7:tabella.a" />
 							</descrittori>
-							<ciclodivita>
-								<eventi>
-									<evento data="19970417" fonte="ro2" id="t13" tipo="entrata in vigore" />
-									<evento data="20020616" fonte="rp12" id="t14" tipo="modifica" />
-									<evento data="20020901" fonte="rp13" id="t15" tipo="modifica" />
-									<evento data="20080527" fonte="rp14" id="t16" tipo="modifica" />
-								</eventi>
-								<relazioni>
-									<originale id="ro2" xlink:href="urn:nir:regione.molise:legge:1997-04-08;7:tabella.a" xlink:type="simple" />
-									<passiva id="rp12" xlink:href="urn:nir:regione.molise:legge:2002;6" xlink:type="simple" />
-									<passiva id="rp13" xlink:href="urn:nir:regione.molise:legge:2002;19" xlink:type="simple" />
-									<passiva id="rp14" xlink:href="urn:nir:regione.molise:legge:2008;12" xlink:type="simple" />
-								</relazioni>
-							</ciclodivita>
+							
 						</meta>
 						<intestazione>
 							<titoloDoc>
@@ -2256,16 +2243,7 @@ Modificato art. tabella A dalla legge n. 12/2008 art. 17
 								<redazione id="red3" nome="" norm="" />
 								<urn valore="urn:nir:regione.molise:legge:1997-04-08;7:tabella.b" />
 							</descrittori>
-							<ciclodivita>
-								<eventi>
-									<evento data="19970417" fonte="ro3" id="t17" tipo="entrata in vigore" />
-									<evento data="20020616" fonte="rp12" id="t18" tipo="modifica" />
-								</eventi>
-								<relazioni>
-									<originale id="ro3" xlink:href="urn:nir:regione.molise:legge:1997;7:tabella.b" xlink:type="simple" />
-									<passiva id="rp15" xlink:href="urn:nir:regione.molise:legge:2002;6" xlink:type="simple" />
-								</relazioni>
-							</ciclodivita>
+							
 						</meta>
 						<intestazione>
 							<titoloDoc>

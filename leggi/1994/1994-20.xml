@@ -12,6 +12,14 @@
 						<materia valore="09.energia" />
 					</materie>
 				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19941201" fonte="ro1" id="t1" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1994-11-03;20" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
 			</meta>
 			<?error 09.Energia 
  

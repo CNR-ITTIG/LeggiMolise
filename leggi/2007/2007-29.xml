@@ -161,7 +161,7 @@ Modifiche
 								<pubblicazione norm="" num="" tipo="GU" />
 								<entratainvigore norm="" />
 								<redazione id="red2" nome="" norm="" />
-								<urn valore="urn:nir:regione.molise:legge:2007-12-03;29:tabella.a;assestamento.delle.entrate" />
+								<urn valore="urn:nir:regione.molise:legge:2007-12-03;29:tabella.a" />
 							</descrittori>
 						</meta>
 						<intestazione>
@@ -191,7 +191,7 @@ Modifiche
 								<pubblicazione norm="" num="" tipo="GU" />
 								<entratainvigore norm="" />
 								<redazione id="red3" nome="" norm="" />
-								<urn valore="urn:nir:regione.molise:legge:2007-12-03;29:tabella.b;assestamento.delle.uscite" />
+								<urn valore="urn:nir:regione.molise:legge:2007-12-03;29:tabella.b" />
 							</descrittori>
 						</meta>
 						<intestazione>

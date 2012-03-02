@@ -96,7 +96,7 @@
 				<annesso id="ann1">
 					<testata>
 						<denAnnesso>
-							<h:p>A L L E G A T O</h:p>
+							<h:p>ALLEGATO</h:p>
 						</denAnnesso>
 						<titAnnesso>
 							<h:p>PROTOCOLLO DI INTESA INTERREGIONALE</h:p>
@@ -534,7 +534,7 @@
 										<num>3.</num>
 										<corpo>
 											Le quote proporzionali possono essere successivamente modificate con atto dei comitato istituzionale, sulla base di variazioni ufficiali anche di uno solo dei parametri oggettivi indicati al
-											<rif xlink:href="#art12-com2" xlink:type="simple">comma 2</rif>
+											<rif xlink:href="#com2" xlink:type="simple">comma 2</rif>
 											.
 										</corpo>
 									</comma>

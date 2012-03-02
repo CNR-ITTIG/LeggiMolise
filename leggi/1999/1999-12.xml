@@ -832,14 +832,7 @@ Modifiche
 								<redazione id="red2" nome="" norm="" />
 								<urn valore="urn:nir:regione.molise:legge:1999-04-12;12:tabella.a" />
 							</descrittori>
-							<ciclodivita>
-								<eventi>
-									<evento data="19990417" fonte="ro2" id="t2" tipo="entrata in vigore" />
-								</eventi>
-								<relazioni>
-									<originale id="ro2" xlink:href="urn:nir:regione.molise:legge:1999-04-12;12:tabella.a" xlink:type="simple" />
-								</relazioni>
-							</ciclodivita>
+							
 						</meta>
 						<intestazione>
 							<emanante />
