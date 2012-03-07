@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19761116" num="21" tipo="BURM"/>
-                <entratainvigore norm="19761201"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1976-11-05;32"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="19790303" fonte="rp1" id="t1" tipo="modifica"/><evento data="19871231" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1979;05" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1992;15" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19761116" num="21" tipo="BURM" />
+					<entratainvigore norm="19761117" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1976-11-05;32" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19790303" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="19871231" fonte="rp2" id="t2" tipo="modifica" />
+						<evento data="19761117" fonte="ro1" id="t3" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1976-11-05;32" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1979;05" xlink:type="simple" />
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1992;15" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
 Bollettino Ufficiale n. 21 del 16/11/76 
@@ -27,27 +40,28 @@ Modifiche
 Modificato art. 16 dalla legge n. 5/1979 art. 2 
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19761105">5 Novembre 1976</dataDoc>, n. <numDoc>32</numDoc>
-            <titoloDoc>Norme per il funzionamento dell'Organo Regionale di Controllo 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 15/1992 art. 35</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19761105">5 Novembre 1976</dataDoc>
+				, n.
+				<numDoc>32</numDoc>
+				<titoloDoc>Norme per il funzionamento dell'Organo Regionale di Controllo</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>abrogata intera legge dalla legge n. 15/1992 art. 35</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+			<?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
 
 ?>
-    </LeggeRegionale>
-</NIR>
+		</LeggeRegionale>
+	</NIR>

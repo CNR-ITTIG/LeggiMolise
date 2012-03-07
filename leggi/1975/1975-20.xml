@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19750312" num="10" tipo="BURM"/>
-                <entratainvigore norm="19750327"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1975-03-03;20"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19750312" num="10" tipo="BURM" />
+					<entratainvigore norm="19750313" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1975-03-03;20" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20100530" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="19750313" fonte="ro1" id="t2" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1975-03-03;20" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
  
 Bollettino 
 Bollettino Ufficiale n. 10 del 12/03/75 
@@ -27,27 +38,28 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19750303">3 Marzo 1975</dataDoc>, n. <numDoc>20</numDoc>
-            <titoloDoc>Disposizioni relative ai Consigli Provinciali di Sanità. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato uno</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19750303">3 Marzo 1975</dataDoc>
+				, n.
+				<numDoc>20</numDoc>
+				<titoloDoc>Disposizioni relative ai Consigli Provinciali di Sanità.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato uno</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+			<?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
 
 ?>
-    </LeggeRegionale>
-</NIR>
+		</LeggeRegionale>
+	</NIR>
