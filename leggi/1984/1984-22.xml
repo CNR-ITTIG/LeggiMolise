@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19840901" num="18" tipo="BURM"/>
-                <entratainvigore norm="19840916"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1984-08-24;22"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20000514" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19840901" num="18" tipo="BURM" />
+					<entratainvigore norm="19840902" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1984-08-24;22" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20000514" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="19840902" fonte="ro1" id="t2" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1984-08-24;22" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
  
 Bollettino 
 Bollettino Ufficiale n. 18 del 01/09/84 
@@ -27,30 +38,36 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19840824">24 Agosto 1984</dataDoc>, n. <numDoc>22</numDoc>
-            <titoloDoc>Modifica alla <rif
-                    xlink:href="urn:nir:regione.molise:legge:1983-04-12;14">legge regionale 12 aprile 1983, n. 14</rif> recante modifiche alla <rif xlink:href="urn:nir:stato:legge:1979-09-04;27">legge 4 settembre 1979, n. 27</rif>: Provvedimenti per il potenziamento e lo sviluppo della zootecnia 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 31/2000 art. art. 1, primo comma, lettera gg)</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19840824">24 Agosto 1984</dataDoc>
+				, n.
+				<numDoc>22</numDoc>
+				<titoloDoc>
+					Modifica alla
+					<rif xlink:href="urn:nir:regione.molise:legge:1983-04-12;14" xlink:type="simple">legge regionale 12 aprile 1983, n. 14</rif>
+					recante modifiche alla
+					<rif xlink:href="urn:nir:stato:legge:1979-09-04;27" xlink:type="simple">legge 4 settembre 1979, n. 27</rif>
+					: Provvedimenti per il potenziamento e lo sviluppo della zootecnia
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>abrogata intera legge dalla legge n. 31/2000 art. art. 1, primo comma, lettera gg)</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+			<?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
  
  
 
 ?>
-    </LeggeRegionale>
-</NIR>
+		</LeggeRegionale>
+	</NIR>

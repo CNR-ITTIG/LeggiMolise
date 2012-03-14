@@ -5,7 +5,7 @@
 			<meta>
 				<descrittori>
 					<pubblicazione norm="19900331" num="6" tipo="BURM" />
-					<entratainvigore norm="19900415" />
+					<entratainvigore norm="19900401" />
 					<redazione id="red1" nome="" norm="" />
 					<urn valore="urn:nir:regione.molise:legge:1990-03-21;15" />
 					<materie vocabolario="Regione Molise">
@@ -15,8 +15,10 @@
 				<ciclodivita>
 					<eventi>
 						<evento data="20100530" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="19900401" fonte="ro1" id="t2" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1990-03-21;15" xlink:type="simple" />
 						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>

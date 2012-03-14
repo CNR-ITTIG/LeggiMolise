@@ -1,18 +1,37 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19930430" num="10" tipo="BURM"/>
-                <entratainvigore norm="19930515"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1993-04-22;11"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="19931231" fonte="rp1" id="t1" tipo="modifica"/><evento data="19931231" fonte="rp2" id="t2" tipo="modifica"/><evento data="19960331" fonte="rp3" id="t3" tipo="modifica"/><evento data="19960727" fonte="rp4" id="t4" tipo="modifica"/><evento data="20020831" fonte="rp5" id="t5" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1993;23" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1993;24" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:1996;18" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:1996;24" xlink:type="simple"/><passiva id="rp5" xlink:href="urn:nir:regione.molise:legge:2002;16" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19930430" num="10" tipo="BURM" />
+					<entratainvigore norm="19930501" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1993-04-22;11" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="21.ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19931231" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="19931231" fonte="rp2" id="t2" tipo="modifica" />
+						<evento data="19960331" fonte="rp3" id="t3" tipo="modifica" />
+						<evento data="19960727" fonte="rp4" id="t4" tipo="modifica" />
+						<evento data="20020831" fonte="rp5" id="t5" tipo="modifica" />
+						<evento data="19930501" fonte="ro1" id="t6" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1993-04-22;11" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1993;23" xlink:type="simple" />
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1993;24" xlink:type="simple" />
+						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:1996;18" xlink:type="simple" />
+						<passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:1996;24" xlink:type="simple" />
+						<passiva id="rp5" xlink:href="urn:nir:regione.molise:legge:2002;16" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
 Bollettino Ufficiale n. 10 del 30/04/93 
@@ -32,25 +51,25 @@ Modificato art. 8 dalla legge n. 24/1996 art. 2
 Modificato art. 12 dalla legge n. 24/1993 art. 3 
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19930422">22 Aprile 1993</dataDoc>, n. <numDoc>11</numDoc>
-            <titoloDoc>Disciplina per le nomine e le designazioni a pubblici incarichi di competenza regionale - Comitato dei garanti 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 16/2002 art. 9</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19930422">22 Aprile 1993</dataDoc>
+				, n.
+				<numDoc>11</numDoc>
+				<titoloDoc>Disciplina per le nomine e le designazioni a pubblici incarichi di competenza regionale - Comitato dei garanti</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>abrogata intera legge dalla legge n. 16/2002 art. 9</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

@@ -5,16 +5,16 @@
 			<meta>
 				<descrittori>
 					<pubblicazione norm="19770901" num="16" tipo="BURM" />
-					<entratainvigore norm="19770902" />
+					<entratainvigore norm="19770901" />
 					<redazione id="red1" nome="" norm="" />
 					<urn valore="urn:nir:regione.molise:legge:1977-08-13;23" />
 					<materie vocabolario="Regione Molise">
-						<materia valore="34.trasporti e viabilit&amp;#xe0;, navigazione nelle acque interne" />
+						<materia valore="34.trasporti e viabilità navigazione nelle acque interne" />
 					</materie>
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19770902" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="19770901" fonte="ro1" id="t1" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
 						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1977-08-13;23" xlink:type="simple" />

@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19910816" num="16" tipo="BURM"/>
-                <entratainvigore norm="19910831"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1991-08-09;14"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xe0;"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="19950131" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1995;01" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, università 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19910816" num="16" tipo="BURM" />
+					<entratainvigore norm="19910831" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1991-08-09;14" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xe0;" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19950131" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="19910831" fonte="ro1" id="t2" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1991-08-09;14" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1995;01" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, università 
  
 Bollettino 
 Bollettino Ufficiale n. 16 del 16/08/91 
@@ -27,23 +38,29 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>del <dataDoc norm="19910809">9 Agosto 1991</dataDoc>, n. <numDoc>14</numDoc>
-            <titoloDoc>Modifica alla <rif xlink:href="urn:nir:regione.molise:legge:1986-01-27;3">legge regionale 27 gennaio 1986, n.3</rif>
-            </titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 1/1995 art. 37</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				del
+				<dataDoc norm="19910809">9 Agosto 1991</dataDoc>
+				, n.
+				<numDoc>14</numDoc>
+				<titoloDoc>
+					Modifica alla
+					<rif xlink:href="urn:nir:regione.molise:legge:1986-01-27;3" xlink:type="simple">legge regionale 27 gennaio 1986, n.3</rif>
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>abrogata intera legge dalla legge n. 1/1995 art. 37</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19930401" num="8" tipo="BURM"/>
-                <entratainvigore norm="19930416"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1993-03-24;8"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="24.politiche per i migranti e rapporti con i molisani nel mondo"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20061020" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2006;31" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 24.Politiche per i migranti e rapporti con i molisani nel mondo 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19930401" num="8" tipo="BURM" />
+					<entratainvigore norm="19930402" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1993-03-24;8" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="24.politiche per i migranti e rapporti con i molisani nel mondo" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20061020" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="19930402" fonte="ro1" id="t2" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1993-03-24;8" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2006;31" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 24.Politiche per i migranti e rapporti con i molisani nel mondo 
  
 Bollettino 
 Bollettino Ufficiale n. 08 del 01/04/1993 
@@ -27,25 +38,29 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19930324">24 Marzo 1993</dataDoc>, n. <numDoc>8</numDoc>
-            <titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1989-08-25;12">legge regionale 25 agosto 1989, n. 12</rif> recante: &lt;&lt; Interventi della Regione per l'emigrazione &gt;&gt;. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 31/2006 art. 16</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19930324">24 Marzo 1993</dataDoc>
+				, n.
+				<numDoc>8</numDoc>
+				<titoloDoc>
+					Modifiche alla
+					<rif xlink:href="urn:nir:regione.molise:legge:1989-08-25;12" xlink:type="simple">legge regionale 25 agosto 1989, n. 12</rif>
+					recante: &lt;&lt; Interventi della Regione per l'emigrazione &gt;&gt;.
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>abrogata intera legge dalla legge n. 31/2006 art. 16</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19910615" num="11" tipo="BURM"/>
-                <entratainvigore norm="19910630"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1991-06-07;6"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="06.consiglieri regionali e gruppi consiliari"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="19911201" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1991;20" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 06.Consiglieri regionali e gruppi consiliari 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19910615" num="11" tipo="BURM" />
+					<entratainvigore norm="19910616" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1991-06-07;6" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="06.consiglieri regionali e gruppi consiliari" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19911201" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="19910616" fonte="ro1" id="t2" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1991-06-07;6" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1991;20" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 06.Consiglieri regionali e gruppi consiliari 
  
 Bollettino 
 Bollettino Ufficiale n. 11 del 15/06/91 
@@ -27,24 +38,26 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>del <dataDoc norm="19910607">7 Giugno 1991</dataDoc>, n. <numDoc>6</numDoc>
-            <titoloDoc>Modifica delle leggi regionali nn. 13/86 e 21/78 sulle norme relative alla dotazione dei mezzi necessari per il funzionamento e l'attività dei Gruppi consiliari. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 20/1991 art. 9</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				del
+				<dataDoc norm="19910607">7 Giugno 1991</dataDoc>
+				, n.
+				<numDoc>6</numDoc>
+				<titoloDoc>Modifica delle leggi regionali nn. 13/86 e 21/78 sulle norme relative alla dotazione dei mezzi necessari per il funzionamento e l'attività dei Gruppi consiliari.</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>abrogata intera legge dalla legge n. 20/1991 art. 9</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

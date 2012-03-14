@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19850116" num="1" tipo="BURM"/>
-                <entratainvigore norm="19850131"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1985-01-07;2"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="02.artigianato"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="19961115" fonte="rp1" id="t1" tipo="modifica"/><evento data="20000514" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1996;33" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 02.Artigianato 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19850116" num="1" tipo="BURM" />
+					<entratainvigore norm="19850131" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1985-01-07;2" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="02.artigianato" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19961115" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="20000514" fonte="rp2" id="t2" tipo="modifica" />
+						<evento data="19850131" fonte="ro1" id="t3" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1985-01-07;2" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1996;33" xlink:type="simple" />
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 02.Artigianato 
  
 Bollettino 
 Bollettino Ufficiale n. 01 del 16/01/85 
@@ -32,25 +45,29 @@ Modificato art. 7 dalla legge n. 33/1996 art. 6
 Modificato art. 8 dalla legge n. 33/1996 art. 7 
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19850107">7 Gennaio 1985</dataDoc>, n. <numDoc>2</numDoc>
-            <titoloDoc>Modifiche alla <rif xlink:href="urn:nir:regione.molise:legge:1981-06-20;12">legge regionale del 20 giugno 1981, n. 12</rif> e ulteriori provvidenze in favore dell'artigianato 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 31/2000 art. art 1, primo comma, lettera kk)</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19850107">7 Gennaio 1985</dataDoc>
+				, n.
+				<numDoc>2</numDoc>
+				<titoloDoc>
+					Modifiche alla
+					<rif xlink:href="urn:nir:regione.molise:legge:1981-06-20;12" xlink:type="simple">legge regionale del 20 giugno 1981, n. 12</rif>
+					e ulteriori provvidenze in favore dell'artigianato
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>abrogata intera legge dalla legge n. 31/2000 art. art 1, primo comma, lettera kk)</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

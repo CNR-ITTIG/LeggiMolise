@@ -5,7 +5,7 @@
 			<meta>
 				<descrittori>
 					<pubblicazione norm="19771231" num="24" tipo="BURM" />
-					<entratainvigore norm="19780115" />
+					<entratainvigore norm="19780101" />
 					<redazione id="red1" nome="" norm="" />
 					<urn valore="urn:nir:regione.molise:legge:1977-12-19;47" />
 					<materie vocabolario="Regione Molise">
@@ -15,8 +15,10 @@
 				<ciclodivita>
 					<eventi>
 						<evento data="20051016" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="19780101" fonte="ro1" id="t2" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1977-12-19;47" xlink:type="simple" />
 						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1997;07" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>

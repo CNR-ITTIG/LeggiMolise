@@ -5,7 +5,7 @@
 			<meta>
 				<descrittori>
 					<pubblicazione norm="19841116" num="23" tipo="BURM" />
-					<entratainvigore norm="19841201" />
+					<entratainvigore norm="19841117" />
 					<redazione id="red1" nome="" norm="" />
 					<urn valore="urn:nir:regione.molise:legge:1984-10-26;28" />
 					<materie vocabolario="Regione Molise">
@@ -17,8 +17,10 @@
 						<evento data="19891015" fonte="rp1" id="t1" tipo="modifica" />
 						<evento data="19870829" fonte="rp2" id="t2" tipo="modifica" />
 						<evento data="19980829" fonte="rp3" id="t3" tipo="modifica" />
+						<evento data="19841117" fonte="ro1" id="t4" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1984-10-26;28" xlink:type="simple" />
 						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1989;18" xlink:type="simple" />
 						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1987;10" xlink:type="simple" />
 						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:1998;12" xlink:type="simple" />

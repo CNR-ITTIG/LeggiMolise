@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19810430" num="9" tipo="BURM"/>
-                <entratainvigore norm="19810515"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1981-04-15;9"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="19890916" fonte="rp1" id="t1" tipo="modifica"/><evento data="20000514" fonte="rp2" id="t2" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1989;11" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19810430" num="9" tipo="BURM" />
+					<entratainvigore norm="19810501" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1981-04-15;9" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="19890916" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="20000514" fonte="rp2" id="t2" tipo="modifica" />
+						<evento data="19810501" fonte="ro1" id="t3" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1981-04-15;9" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1989;11" xlink:type="simple" />
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 
  
 Bollettino 
@@ -28,27 +41,32 @@ Modifiche
 Modificato art. 1 dalla legge n. 11/1989 art. 1 
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19810415">15 Aprile 1981</dataDoc>, n. <numDoc>9</numDoc>
-            <titoloDoc>Modifica del <rif xlink:href="urn:nir:regione.molise:legge:1980-01-24;2#art2-com2">secondo comma dell'art. 2 della legge regionale 24 gennaio 1980, n. 2</rif>  avente per oggetto: &lt;&lt; Disciplina dell'ippicoltura &gt;&gt; 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 31/2000 art. art. 1, primo comma, lettera z)</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19810415">15 Aprile 1981</dataDoc>
+				, n.
+				<numDoc>9</numDoc>
+				<titoloDoc>
+					Modifica del
+					<rif xlink:href="urn:nir:regione.molise:legge:1980-01-24;2#art2-com2" xlink:type="simple">secondo comma dell'art. 2 della legge regionale 24 gennaio 1980, n. 2</rif>
+					avente per oggetto: &lt;&lt; Disciplina dell'ippicoltura &gt;&gt;
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>abrogata intera legge dalla legge n. 31/2000 art. art. 1, primo comma, lettera z)</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+			<?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
 
 ?>
-    </LeggeRegionale>
-</NIR>
+		</LeggeRegionale>
+	</NIR>

@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nircompleto.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19941116" num="23" tipo="BURM"/>
-                <entratainvigore norm="19941201"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1994-11-03;19"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="02.artigianato"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20000514" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 02.Artigianato 
+	<!DOCTYPE NIR SYSTEM 'nircompleto.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19941116" num="23" tipo="BURM" />
+					<entratainvigore norm="19941116" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1994-11-03;19" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="02.artigianato" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20000514" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="19941116" fonte="ro1" id="t2" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1994-11-03;19" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 02.Artigianato 
  
 Bollettino 
 Bollettino Ufficiale n. 23 del 16/11/94 
@@ -27,25 +38,29 @@ Modifiche
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19941103">3 Novembre 1994</dataDoc>, n. <numDoc>19</numDoc>
-            <titoloDoc>Interpretazione autentica dell'<rif xlink:href="urn:nir:regione.molise:legge:1981-06-20;12#art5">art. 5 della legge regionale 20 giugno 1981, n. 12</rif>. 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 31/2000 art. 1, primo comma, lettera yy)</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19941103">3 Novembre 1994</dataDoc>
+				, n.
+				<numDoc>19</numDoc>
+				<titoloDoc>
+					Interpretazione autentica dell'
+					<rif xlink:href="urn:nir:regione.molise:legge:1981-06-20;12#art5" xlink:type="simple">art. 5 della legge regionale 20 giugno 1981, n. 12</rif>
+					.
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>abrogata intera legge dalla legge n. 31/2000 art. 1, primo comma, lettera yy)</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>

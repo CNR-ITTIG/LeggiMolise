@@ -16,8 +16,10 @@
 					<eventi>
 						<evento data="20050616" fonte="rp1" id="t1" tipo="modifica" />
 						<evento data="20000514" fonte="rp2" id="t2" tipo="modifica" />
+						<evento data="19891201" fonte="ro1" id="t3" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1989-11-09;21" xlink:type="simple" />
 						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2005;24" xlink:type="simple" />
 						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple" />
 					</relazioni>

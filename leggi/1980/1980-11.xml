@@ -1,53 +1,66 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE NIR SYSTEM "nirflessibile.dtd">
-<NIR tipo="originale" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <LeggeRegionale>
-        <meta>
-            <descrittori>
-                <pubblicazione norm="19800516" num="10" tipo="BURM"/>
-                <entratainvigore norm="19800531"/>
-                <redazione id="red1" nome="" norm=""/>
-                <urn valore="urn:nir:regione.molise:legge:1980-05-08;11"/>
-                <materie vocabolario="Regione Molise">
-                    <materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione"/>
-                </materie>
-            </descrittori><ciclodivita><eventi><evento data="20100530" fonte="rp1" id="t1" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/></relazioni></ciclodivita>
-        </meta><?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 
+	<!DOCTYPE NIR SYSTEM 'nirflessibile.dtd'>
+	<NIR tipo="originale" xmlns="http://www.normeinrete.it/nir/2.2/" xmlns:dsp="http://www.normeinrete.it/nir/disposizioni/2.2/" xmlns:h="http://www.w3.org/HTML/1998/html4" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<LeggeRegionale>
+			<meta>
+				<descrittori>
+					<pubblicazione norm="19800516" num="10" tipo="BURM" />
+					<entratainvigore norm="19800531" />
+					<redazione id="red1" nome="" norm="" />
+					<urn valore="urn:nir:regione.molise:legge:1980-05-08;11" />
+					<materie vocabolario="Regione Molise">
+						<materia valore="01.agricoltura, foreste, zootecnia, bonifica e irrigazione" />
+					</materie>
+				</descrittori>
+				<ciclodivita>
+					<eventi>
+						<evento data="20100530" fonte="rp1" id="t1" tipo="modifica" />
+						<evento data="19800531" fonte="ro1" id="t2" tipo="entrata in vigore" />
+					</eventi>
+					<relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1980-05-08;11" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple" />
+					</relazioni>
+				</ciclodivita>
+			</meta>
+			<?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 
  
 Bollettino 
-Bollettino Ufficiale n. 10 del 16/05/80 
+Bollettino Ufficiale n. 12 del 16/06/81 
  
 Oggetto 
-Agricoltura - Terre incolte abbandonate o insufficientemente coltivate - Recupero e utilizzazione - Procedure 
+Regione - Commissioni e Comitati - Componenti - Indennit&#xE0; di trasferta e rimborso spese - Determinazione 
  
 Abrogazioni 
-Abrogata intera legge dalla legge n. 13/2010 art. allegato 1 
+Abrogato art. 2 dalla legge n. 10/1994 art. 7 
  
 Modifiche 
  
  
 ?>
-        <intestazione>
-            <emanante>Regione Molise</emanante>
-            <tipoDoc>Legge Regionale </tipoDoc>
-            <dataDoc norm="19800508">8 Maggio 1980</dataDoc>, n. <numDoc>11</numDoc>
-            <titoloDoc>Norme di attuazione della <rif xlink:href="urn:nir:stato:legge:1978-08-04;440">legge 4 agosto 1978, n. 440</rif>, relativa all' utilizzazione delle terre incolte, abbandonate o insufficientemente coltivate 
- 
-</titoloDoc>
-        </intestazione>
-        <formulainiziale/>
-        <articolato>
-            <articolo id="art1">
-                <num/>
-                <comma id="art1-com1">
-                    <num/>
-                    <corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
-                </comma>
-            </articolo>
-        </articolato>
-        <formulafinale/>
-        <conclusione/><?error &#xC8; fatto obbligo a chiunque spetti di osservarla e farla osservare come legge della Regione Molise. 
-
-?>
-    </LeggeRegionale>
-</NIR>
+			<intestazione>
+				<emanante>Regione Molise</emanante>
+				<tipoDoc>Legge Regionale</tipoDoc>
+				<dataDoc norm="19800508">8 Maggio 1980</dataDoc>
+				, n.
+				<numDoc>11</numDoc>
+				<titoloDoc>
+					Norme di attuazione della
+					<rif xlink:href="urn:nir:stato:legge:1978-08-04;440" xlink:type="simple">legge 4 agosto 1978, n. 440</rif>
+					, relativa all' utilizzazione delle terre incolte, abbandonate o insufficientemente coltivate
+				</titoloDoc>
+			</intestazione>
+			<formulainiziale />
+			<articolato>
+				<articolo id="art1">
+					<num />
+					<comma id="art1-com1">
+						<num />
+						<corpo>abrogata intera legge dalla legge n. 13/2010 art. allegato 1</corpo>
+					</comma>
+				</articolo>
+			</articolato>
+			<formulafinale />
+			<conclusione />
+		</LeggeRegionale>
+	</NIR>
