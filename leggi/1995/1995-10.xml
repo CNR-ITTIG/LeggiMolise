@@ -11,7 +11,7 @@
                 <materie vocabolario="Regione Molise">
                     <materia valore="13.formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, universit&amp;#xe0;"/>
                 </materie>
-            </descrittori><ciclodivita><eventi><evento data="19990831" fonte="rp1" id="t1" tipo="modifica"/><evento data="20000331" fonte="rp2" id="t2" tipo="modifica"/><evento data="20020523" fonte="rp3" id="t3" tipo="modifica"/><evento data="" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1999;27" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2000;15" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2002;05" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2009;27" xlink:type="simple"/></relazioni></ciclodivita>
+            </descrittori><ciclodivita><eventi><evento data="19990831" fonte="rp1" id="t1" tipo="modifica"/><evento data="20000331" fonte="rp2" id="t2" tipo="modifica"/><evento data="20020523" fonte="rp3" id="t3" tipo="modifica"/><evento data="20091029" fonte="rp4" id="t4" tipo="modifica"/></eventi><relazioni><passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1999;27" xlink:type="simple"/><passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2000;15" xlink:type="simple"/><passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2002;05" xlink:type="simple"/><passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2009;27" xlink:type="simple"/></relazioni></ciclodivita>
         </meta><?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, università 
  
 Bollettino 
