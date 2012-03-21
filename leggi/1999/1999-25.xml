@@ -7,7 +7,7 @@
 					<pubblicazione norm="19990816" num="15" tipo="BURM" />
 					<entratainvigore norm="19990817" />
 					<redazione id="red1" nome="" norm="" />
-					<urn valore="urn:nir:regione.molise:legge:1983-02-01;6" />
+					<urn valore="urn:nir:regione.molise:legge:1999-08-03;25" />
 					<materie vocabolario="Regione Molise">
 						<materia valore="12.flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea" />
 					</materie>
@@ -17,7 +17,7 @@
 						<evento data="19990817" fonte="ro1" id="t1" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1983-02-01;6" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-08-25;6" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 			</meta>
