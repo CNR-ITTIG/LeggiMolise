@@ -7,7 +7,7 @@
 					<pubblicazione norm="20091001" num="23" tipo="BURM" />
 					<entratainvigore norm="20091002" />
 					<redazione id="red1" nome="" norm="" />
-					<urn valore="urn:nir:regione.nome:legge:2009-09-21;24" />
+					<urn valore="urn:nir:regione.molise:legge:2009-09-21;24" />
 					<materie vocabolario="Regione Molise">
 						<materia valore="07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica" />
 					</materie>
@@ -17,7 +17,7 @@
 						<evento data="20091002" fonte="ro1" id="t1" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.nome:legge:2009-09-21;24" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2009-09-21;24" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 			</meta>
