@@ -7,7 +7,7 @@
 					<pubblicazione norm="20000115" num="1" tipo="BURM" />
 					<entratainvigore norm="20000130" />
 					<redazione id="red1" nome="" norm="" />
-					<urn valore="urn:nir:regione.molise:legge:1997-11-14;25" />
+					<urn valore="urn:nir:regione.molise:legge:2000-01-12;2" />
 					<materie vocabolario="Regione Molise">
 						<materia valore="37.tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione" />
 					</materie>
@@ -17,7 +17,7 @@
 						<evento data="20000130" fonte="ro1" id="t1" tipo="entrata in vigore" />
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1997-11-14;25" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2000-01-12;2" xlink:type="simple" />
 					</relazioni>
 				</ciclodivita>
 			</meta>
