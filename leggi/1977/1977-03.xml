@@ -14,13 +14,13 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19830303" fonte="rp1" id="t1" tipo="modifica" />
-						<evento data="19770202" fonte="ro1" id="t2" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="19830217" fonte="rp1" id="t1" tipo="modifica"/>
+						<evento data="19770202" fonte="ro1" id="t2" tipo="entrata in vigore"/>
+					<evento data="19770202" fonte="ra1" id="t3" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1977-01-20;3" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1983;06" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1977-01-20;3" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1983;06" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1975-01-21;9" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 

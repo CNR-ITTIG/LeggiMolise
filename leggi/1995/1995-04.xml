@@ -14,15 +14,15 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19970115" fonte="rp1" id="t1" tipo="modifica" />
-						<evento data="20070524" fonte="rp2" id="t2" tipo="modifica" />
-						<evento data="19950202" fonte="ro1" id="t3" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="19970101" fonte="rp1" id="t1" tipo="modifica"/>
+						<evento data="20070509" fonte="rp2" id="t2" tipo="modifica"/>
+						<evento data="19950202" fonte="ro1" id="t3" tipo="entrata in vigore"/>
+					<evento data="19950202" fonte="ra1" id="t4" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1995-01-27;4" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1996;40" xlink:type="simple" />
-						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1995-01-27;4" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1996;40" xlink:type="simple"/>
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1983-03-15;11" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 05.Commercio, fiere e mercati, camere di commercio 

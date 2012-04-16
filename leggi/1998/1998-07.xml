@@ -14,23 +14,23 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19980802" fonte="ro1" id="t1" tipo="entrata in vigore" />
-						<evento data="20030216" fonte="rp1" id="t2" tipo="modifica" />
-						<evento data="20030531" fonte="rp2" id="t3" tipo="modifica" />
-						<evento data="20031216" fonte="rp3" id="t4" tipo="modifica" />
-						<evento data="20060115" fonte="rp4" id="t5" tipo="modifica" />
-						<evento data="20070524" fonte="rp5" id="t6" tipo="modifica" />
-						<evento data="20110716" fonte="rp6" id="t7" tipo="modifica" />
-					</eventi>
+						<evento data="19980802" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+						<evento data="20030216" fonte="rp1" id="t2" tipo="modifica"/>
+						<evento data="20030531" fonte="rp2" id="t3" tipo="modifica"/>
+						<evento data="20031216" fonte="rp3" id="t4" tipo="modifica"/>
+						<evento data="20060115" fonte="rp4" id="t5" tipo="modifica"/>
+						<evento data="20070509" fonte="rp5" id="t6" tipo="modifica"/>
+						<evento data="" fonte="rp6" id="t7" tipo="modifica"/>
+					<evento data="19980816" fonte="ra1" id="t8" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1998-07-30;7" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2003;5" xlink:type="simple" />
-						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2003;16" xlink:type="simple" />
-						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2003;30" xlink:type="simple" />
-						<passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2005;52" xlink:type="simple" />
-						<passiva id="rp5" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple" />
-						<passiva id="rp6" xlink:href="urn:nir:regione.molise:legge:2011;13" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1998-07-30;7" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2003;5" xlink:type="simple"/>
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2003;16" xlink:type="simple"/>
+						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2003;30" xlink:type="simple"/>
+						<passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2005;52" xlink:type="simple"/>
+						<passiva id="rp5" xlink:href="urn:nir:regione.molise:legge:2007;14" xlink:type="simple"/>
+						<passiva id="rp6" xlink:href="urn:nir:regione.molise:legge:2011;13" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1979-12-19;38" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 

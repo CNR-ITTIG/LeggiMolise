@@ -14,22 +14,22 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19900131" fonte="rp1" id="t1" tipo="modifica" />
-						<evento data="19930115" fonte="rp2" id="t2" tipo="modifica" />
-						<evento data="19841001" fonte="rp3" id="t3" tipo="modifica" />
-						<evento data="19850316" fonte="rp4" id="t4" tipo="modifica" />
-						<evento data="19960216" fonte="rp5" id="t5" tipo="modifica" />
-						<evento data="20000514" fonte="rp6" id="t6" tipo="modifica" />
-						<evento data="19780217" fonte="ro1" id="t7" tipo="entrata in vigore" />
+						<evento data="19900117" fonte="rp1" id="t1" tipo="modifica"/>
+						<evento data="19930101" fonte="rp2" id="t2" tipo="modifica"/>
+						<evento data="19840917" fonte="rp3" id="t3" tipo="modifica"/>
+						<evento data="19850302" fonte="rp4" id="t4" tipo="modifica"/>
+						<evento data="19960202" fonte="rp5" id="t5" tipo="modifica"/>
+						<evento data="20000430" fonte="rp6" id="t6" tipo="modifica"/>
+						<evento data="19780217" fonte="ro1" id="t7" tipo="entrata in vigore"/>
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1978-02-10;5" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1990;02" xlink:type="simple" />
-						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1992;26" xlink:type="simple" />
-						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:1984;25" xlink:type="simple" />
-						<passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:1985;05" xlink:type="simple" />
-						<passiva id="rp5" xlink:href="urn:nir:regione.molise:legge:1996;07" xlink:type="simple" />
-						<passiva id="rp6" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1978-02-10;5" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1990;02" xlink:type="simple"/>
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1992;26" xlink:type="simple"/>
+						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:1984;25" xlink:type="simple"/>
+						<passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:1985;05" xlink:type="simple"/>
+						<passiva id="rp5" xlink:href="urn:nir:regione.molise:legge:1996;07" xlink:type="simple"/>
+						<passiva id="rp6" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple"/>
 					</relazioni>
 				</ciclodivita>
 			</meta>

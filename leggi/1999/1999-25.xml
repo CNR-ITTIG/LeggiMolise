@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19990817" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="19990817" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="19990817" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-08-25;6" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-08-25;6" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1983-02-01;6" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea Bollettino Bollettino Ufficiale n. 15 del 16/08/99 Oggetto Modifiche ed Integrazioni alla alla Legge Regionale 1° febbraio 1983 - n. 6?>

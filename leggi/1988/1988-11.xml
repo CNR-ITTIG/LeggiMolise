@@ -14,13 +14,13 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20051016" fonte="rp1" id="t1" tipo="modifica" />
-						<evento data="19880501" fonte="ro1" id="t2" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="19970417" fonte="rp1" id="t1" tipo="modifica"/>
+						<evento data="19880501" fonte="ro1" id="t2" tipo="entrata in vigore"/>
+					<evento data="19880501" fonte="ra1" id="t3" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1988-04-26;11" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1997;07" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1988-04-26;11" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1997;07" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1987-08-18;12" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 

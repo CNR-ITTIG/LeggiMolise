@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20040116" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20040116" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20040116" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2004-01-09;1" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2004-01-09;1" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:2000-03-24;19" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE &#x2013; N. 1 del 16 gennaio 2004 Oggetto Legge finanziaria regionale 2004 - Disposizioni. Abrogazioni Modifiche ?>

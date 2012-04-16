@@ -14,13 +14,13 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19850131" fonte="rp1" id="t1" tipo="modifica" />
-						<evento data="19800601" fonte="ro1" id="t2" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="19850117" fonte="rp1" id="t1" tipo="modifica"/>
+						<evento data="19800601" fonte="ro1" id="t2" tipo="entrata in vigore"/>
+					<evento data="19800601" fonte="ra1" id="t3" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1980-05-23;20" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1985;01" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1980-05-23;20" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1985;01" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1979-07-14;19" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 17.Lavori pubblici e acquedotti 

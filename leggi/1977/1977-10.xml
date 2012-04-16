@@ -14,13 +14,13 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19890916" fonte="rp1" id="t1" tipo="modifica" />
-						<evento data="19770417" fonte="ro1" id="t2" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="19890902" fonte="rp1" id="t1" tipo="modifica"/>
+						<evento data="19770417" fonte="ro1" id="t2" tipo="entrata in vigore"/>
+					<evento data="19770417" fonte="ra1" id="t3" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1977-04-12;10" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1989;12" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1977-04-12;10" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1989;12" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1975-03-17;25" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 24.Politiche per i migranti e rapporti con i molisani nel mondo 

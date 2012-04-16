@@ -14,15 +14,15 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19850316" fonte="rp1" id="t1" tipo="modifica" />
-						<evento data="20000514" fonte="rp2" id="t2" tipo="modifica" />
-						<evento data="19840917" fonte="ro1" id="t3" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="19850302" fonte="rp1" id="t1" tipo="modifica"/>
+						<evento data="20000430" fonte="rp2" id="t2" tipo="modifica"/>
+						<evento data="19840917" fonte="ro1" id="t3" tipo="entrata in vigore"/>
+					<evento data="19840917" fonte="ra1" id="t4" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1984-09-05;25" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1985;05" xlink:type="simple" />
-						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1984-09-05;25" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1985;05" xlink:type="simple"/>
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1978-02-10;5" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 

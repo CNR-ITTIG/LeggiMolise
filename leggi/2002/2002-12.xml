@@ -14,19 +14,19 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20020711" fonte="ro1" id="t1" tipo="entrata in vigore" />
-						<evento data="20021101" fonte="rp1" id="t2" tipo="modifica" />
-						<evento data="20060730" fonte="rp2" id="t3" tipo="modifica" />
-						<evento data="20080628" fonte="rp3" id="t4" tipo="modifica" />
-						<evento data="20090217" fonte="rp4" id="t5" tipo="modifica" />
-					</eventi>
+						<evento data="20020711" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+						<evento data="20021101" fonte="rp1" id="t2" tipo="modifica"/>
+						<evento data="20060730" fonte="rp2" id="t3" tipo="modifica"/>
+						<evento data="20080713" fonte="rp3" id="t4" tipo="modifica"/>
+						<evento data="20090217" fonte="rp4" id="t5" tipo="modifica"/>
+					<evento data="20020711" fonte="ra1" id="t6" tipo="modifica"/><evento data="20020711" fonte="ra2" id="t7" tipo="modifica"/><evento data="20020711" fonte="ra3" id="t8" tipo="modifica"/><evento data="20020711" fonte="ra4" id="t9" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2002-07-08;12" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2002;27" xlink:type="simple" />
-						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2006;14" xlink:type="simple" />
-						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2008;19" xlink:type="simple" />
-						<passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2009;5" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2002-07-08;12" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2002;27" xlink:type="simple"/>
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2006;14" xlink:type="simple"/>
+						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2008;19" xlink:type="simple"/>
+						<passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2009;5" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1973-05-22;8" xlink:type="simple"/><attiva id="ra2" xlink:href="urn:nir:regione.molise:legge:1973-05-30;11" xlink:type="simple"/><attiva id="ra3" xlink:href="urn:nir:regione.molise:legge:1977-07-12;19" xlink:type="simple"/><attiva id="ra4" xlink:href="urn:nir:regione.molise:legge:1999-06-11;19" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 11.Enti locali, comunit&#xE0; montane Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 15 del 10 luglio 2002 Oggetto Principi ordinamentali e rideterminazioni degli ambiti territoriali delle Comunit&#xE0; Montane. Abrogazioni Abrogato art. 7 dalla legge n. 19/2008 art. 11 Abrogato art. 8 dalla legge n. 19/2008 art. 11 Modifiche Modificato art. 2 dalla legge n. 19/2008 art. 2 Modificato art. 3 dalla legge n. 27/2002 art. 1 Modificato art. 3 dalla legge n. 19/2008 art. 4 Modificato art. 4 dalla legge n. 19/2008 art. 5 Modificato art. 6 dalla legge n. 27/2002 art. 1 Modificato art. 7 dalla legge n. 27/2002 art. 1 Modificato art. 14 dalla legge n. 19/2008 art. 6 Modificato art. 14 dalla legge n. 5/2009 art. 1 Modificato art. 17 dalla legge n. 27/2002 art. 1 Modificato art. 18 dalla legge n. 19/2008 art. 7 Modificato art. 21 dalla legge n. 27/2002 art. 1 Modificato art. 23 dalla legge n. 27/2002 art. 1 Modificato art. 27 dalla legge n. 14/2006 art. 1 Modificato art. 40 dalla legge n. 27/2002 art. 1 Modificato art. 45 dalla legge n. 27/2002 art. 1 Modificato art. tabella A dalla legge n. 19/2008 art. 3 ?>

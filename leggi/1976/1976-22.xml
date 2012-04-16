@@ -14,15 +14,15 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19880501" fonte="rp1" id="t1" tipo="modifica" />
-						<evento data="19970615" fonte="rp2" id="t2" tipo="modifica" />
-						<evento data="19760717" fonte="ro1" id="t3" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="19880501" fonte="rp1" id="t1" tipo="modifica"/>
+						<evento data="19970531" fonte="rp2" id="t2" tipo="modifica"/>
+						<evento data="19760717" fonte="ro1" id="t3" tipo="entrata in vigore"/>
+					<evento data="19760717" fonte="ra1" id="t4" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1976-07-15;22" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1988;10" xlink:type="simple" />
-						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1997;16" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1976-07-15;22" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1988;10" xlink:type="simple"/>
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1997;16" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1974-09-05;16" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 06.Consiglieri regionali e gruppi consiliari 

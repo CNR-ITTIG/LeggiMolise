@@ -14,10 +14,10 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19791117" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="19791117" fonte="ro1" id="t1" tipo="entrata in vigore"/>
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1979-11-02;29" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1979-11-02;29" xlink:type="simple"/>
 					</relazioni>
 				</ciclodivita>
 			</meta>

@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20061020" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20061020" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20061020" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2006-10-02;37" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2006-10-02;37" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1998-12-23;18" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 34.Trasporti e viabilità, navigazione nelle acque interne Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 28 del 5 ottobre 2006 Oggetto Disciplina della navigazione sulle acque interne - Modifiche Abrogazioni Modifiche ?>

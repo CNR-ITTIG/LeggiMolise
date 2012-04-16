@@ -14,17 +14,17 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19991031" fonte="ro1" id="t1" tipo="entrata in vigore" />
-						<evento data="20000416" fonte="rp1" id="t2" tipo="modifica" />
-						<evento data="20050417" fonte="rp2" id="t3" tipo="modifica" />
-						<evento data="20061015" fonte="rp3" id="t4" tipo="modifica" />
-					</eventi>
+						<evento data="19991031" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+						<evento data="20000416" fonte="rp1" id="t2" tipo="modifica"/>
+						<evento data="20050417" fonte="rp2" id="t3" tipo="modifica"/>
+						<evento data="20061015" fonte="rp3" id="t4" tipo="modifica"/>
+					<evento data="19991031" fonte="ra1" id="t5" tipo="modifica"/><evento data="19991031" fonte="ra2" id="t6" tipo="modifica"/><evento data="19991031" fonte="ra3" id="t7" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-09-29;34" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2000;22" xlink:type="simple" />
-						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2005;11" xlink:type="simple" />
-						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2006;28" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-09-29;34" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2000;22" xlink:type="simple"/>
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2005;11" xlink:type="simple"/>
+						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2006;28" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1973-05-22;7" xlink:type="simple"/><attiva id="ra2" xlink:href="urn:nir:regione.molise:legge:1988-07-22;16" xlink:type="simple"/><attiva id="ra3" xlink:href="urn:nir:regione.molise:legge:1992-05-26;15" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 22.Organizzazione delle funzioni amministrative a livello regionale e locale Bollettino Bollettino Ufficiale n. 19 del 16/10/99 Oggetto Norme sulla ripartizione delle funzioni tra Regione e gli Enti locali in attuazione del decreto legislativo n. 112/1998 Abrogazioni Abrogato art. 47 dalla legge n. 11/2005 art. 28 Modifiche Modificato art. 83 dalla legge n. 22/2000 art. 1 Modificato art. 84 dalla legge n. 28/2006 art. 13 ?>

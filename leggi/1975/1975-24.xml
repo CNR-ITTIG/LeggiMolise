@@ -14,13 +14,13 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20100530" fonte="rp1" id="t1" tipo="modifica" />
-						<evento data="19750323" fonte="ro1" id="t2" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20100516" fonte="rp1" id="t1" tipo="modifica"/>
+						<evento data="19750323" fonte="ro1" id="t2" tipo="entrata in vigore"/>
+					<evento data="19750323" fonte="ra1" id="t3" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1975-03-17;24" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1975-03-17;24" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1975-02-12;18" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 

@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20050116" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20050116" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20050116" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2005-01-10;4" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2005-01-10;4" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1991-11-04;20" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 06.Consiglieri regionali e gruppi consiliari 

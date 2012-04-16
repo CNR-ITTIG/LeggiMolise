@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20021002" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20021002" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20021002" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2002-09-25;21" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2002-09-25;21" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1999-12-01;37" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 21 del 1 ottobre 2002 Oggetto Modifiche - Integrazioni alla legge regionale 1° dicembre 1999 n. 37.?>

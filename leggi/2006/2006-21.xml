@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20060831" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20060831" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20060831" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2006-08-10;21" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2006-08-10;21" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1993-08-10;19" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 

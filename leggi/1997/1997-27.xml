@@ -14,17 +14,17 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19971202" fonte="ro1" id="t1" tipo="entrata in vigore" />
-						<evento data="19980717" fonte="rp1" id="t2" tipo="modifica" />
-						<evento data="19991031" fonte="rp2" id="t3" tipo="modifica" />
-						<evento data="20051025" fonte="rp3" id="t4" tipo="modifica" />
-					</eventi>
+						<evento data="19971202" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+						<evento data="19980717" fonte="rp1" id="t2" tipo="modifica"/>
+						<evento data="19991017" fonte="rp2" id="t3" tipo="modifica"/>
+						<evento data="20051011" fonte="rp3" id="t4" tipo="modifica"/>
+					<evento data="19971202" fonte="ra1" id="t5" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1997-11-21;27" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1998;9" xlink:type="simple" />
-						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1999;36" xlink:type="simple" />
-						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2005;31" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1997-11-21;27" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1998;9" xlink:type="simple"/>
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1999;36" xlink:type="simple"/>
+						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2005;31" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1990-03-12;14" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, università 

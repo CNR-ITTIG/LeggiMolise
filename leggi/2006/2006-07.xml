@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20060616" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20060616" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20060616" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2006-05-24;7" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2006-05-24;7" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1984-08-20;19" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 34.Trasporti e viabilità, navigazione nelle acque interne Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 15 del 1 giugno 2006 Oggetto Trasporti pubblici - Funzioni amministrative - Competenze - Servizi - Procedure - Disciplina - Disposizioni integrative Abrogazioni Modifiche ?>

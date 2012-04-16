@@ -14,13 +14,13 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19990831" fonte="ro1" id="t1" tipo="entrata in vigore" />
-						<evento data="20100516" fonte="rp1" id="t2" tipo="modifica" />
-					</eventi>
+						<evento data="19990831" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+						<evento data="20100516" fonte="rp1" id="t2" tipo="modifica"/>
+					<evento data="19990831" fonte="ra1" id="t3" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-08-03;24" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-08-03;24" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1990-05-11;22" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 03.Assistenza abitativa Bollettino Bollettino Ufficiale n. 15 del 16/08/99 Oggetto modifiche alla L.R. 11 maggio 1990 n. 22 sull'edilizia abitativa Abrogazioni Abrogata intera legge dalla legge n. 13/2010 art. allegato 1?>

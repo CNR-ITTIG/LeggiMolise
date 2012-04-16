@@ -14,13 +14,13 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19981231" fonte="rp1" id="t1" tipo="modifica" />
-						<evento data="19911117" fonte="ro1" id="t2" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="19981217" fonte="rp1" id="t1" tipo="modifica"/>
+						<evento data="19911117" fonte="ro1" id="t2" tipo="entrata in vigore"/>
+					<evento data="19911117" fonte="ra1" id="t3" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1991-11-04;19" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1998;17" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1991-11-04;19" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1998;17" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1981-09-07;20" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, università 

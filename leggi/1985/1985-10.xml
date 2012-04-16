@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19850501" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="19850501" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="19850501" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1985-04-19;10" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1985-04-19;10" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1975-05-31;42" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 30.Promozione e organizzazione di attività culturali e delle tradizioni locali, associazionismo 

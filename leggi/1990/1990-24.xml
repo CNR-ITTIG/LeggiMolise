@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19920315" fonte="rp1" id="t1" tipo="modifica" />
-					</eventi>
+						<evento data="19920315" fonte="rp1" id="t1" tipo="modifica"/>
+					<evento data="19900616" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1992;07" xlink:type="simple" />
-					</relazioni>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1992;07" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1975-01-13;2" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 04.Assistenza sociale, volontariato 

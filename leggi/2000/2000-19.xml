@@ -14,20 +14,20 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20000402" fonte="ro1" id="t1" tipo="entrata in vigore" />
-						<evento data="20040116" fonte="rp1" id="t2" tipo="modifica" />
-						<evento data="20090501" fonte="rp2" id="t3" tipo="modifica" />
-						<evento data="20100210" fonte="rp3" id="t4" tipo="modifica" />
-						<evento data="20100916" fonte="rp4" id="t5" tipo="modifica" />
-						<evento data="20110204" fonte="rp5" id="t6" tipo="modifica" />
+						<evento data="20000402" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+						<evento data="20040116" fonte="rp1" id="t2" tipo="modifica"/>
+						<evento data="20090417" fonte="rp2" id="t3" tipo="modifica"/>
+						<evento data="20100127" fonte="rp3" id="t4" tipo="modifica"/>
+						<evento data="20100902" fonte="rp4" id="t5" tipo="modifica"/>
+						<evento data="" fonte="rp5" id="t6" tipo="modifica"/>
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2000-03-24;19" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2004;1" xlink:type="simple" />
-						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2009;12" xlink:type="simple" />
-						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2010;3" xlink:type="simple" />
-						<passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2010;16" xlink:type="simple" />
-						<passiva id="rp5" xlink:href="urn:nir:regione.abruzzo:legge:2011;2" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2000-03-24;19" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2004;1" xlink:type="simple"/>
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2009;12" xlink:type="simple"/>
+						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2010;3" xlink:type="simple"/>
+						<passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2010;16" xlink:type="simple"/>
+						<passiva id="rp5" xlink:href="urn:nir:regione.abruzzo:legge:2011;2" xlink:type="simple"/>
 					</relazioni>
 				</ciclodivita>
 			</meta>

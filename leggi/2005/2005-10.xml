@@ -15,11 +15,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20050417" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20050417" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20050417" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2005-04-01;10" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2005-04-01;10" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:2000-05-22;37" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 

@@ -14,13 +14,13 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19990617" fonte="ro1" id="t1" tipo="entrata in vigore" />
-						<evento data="20090303" fonte="rp1" id="t2" tipo="modifica" />
-					</eventi>
+						<evento data="19990617" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+						<evento data="20020711" fonte="rp1" id="t2" tipo="modifica"/>
+					<evento data="19990617" fonte="ra1" id="t3" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-06-11;19" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2002;12" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-06-11;19" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2002;12" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1973-05-22;8" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 11.Enti locali, comunità montane 

@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20000817" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20000817" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20000817" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2000-08-07;38" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2000-08-07;38" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1984-09-05;26" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 36.Turismo e industria alberghiera 

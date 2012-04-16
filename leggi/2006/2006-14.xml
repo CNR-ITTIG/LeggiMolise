@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20060730" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20060730" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20060730" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2006-07-07;14" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2006-07-07;14" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:2002-07-08;12" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 11.Enti locali, comunità montane Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 20 del 15 luglio 2006 Oggetto Comunità montane - L.R. 8 luglio 2002 n. 12 - sostituzione art. 27?>

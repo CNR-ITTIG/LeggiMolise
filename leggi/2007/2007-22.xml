@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20070721" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20070721" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20070721" fonte="ra1" id="t2" tipo="modifica"/><evento data="20070721" fonte="ra2" id="t3" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2007-07-18;22" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2007-07-18;22" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:2007-03-22;8" xlink:type="simple"/><attiva id="ra2" xlink:href="urn:nir:regione.molise:legge:2007-05-09;14" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 22.Organizzazione delle funzioni amministrative a livello regionale e locale Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 17 del 20 luglio 2007 Oggetto L.R. 22 marzo 2007. n. 8 - Consigli di amministrazione e Collegi dei revisori di enti o aziende strumentali o dipendenti dalla Regione o Enti pubblici istituiti con legge regionale - Differimento dei termini - L.R. 9 maggio 2007 n. 14 - Commissione regionale delle pari opportunità - Differimento dei termini?>

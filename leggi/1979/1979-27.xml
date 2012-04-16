@@ -14,23 +14,23 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19830501" fonte="rp1" id="t1" tipo="modifica" />
-						<evento data="19850111" fonte="rp2" id="t2" tipo="modifica" />
-						<evento data="19840916" fonte="rp3" id="t3" tipo="modifica" />
-						<evento data="20010715" fonte="rp4" id="t4" tipo="modifica" />
-						<evento data="19791216" fonte="rp5" id="t5" tipo="modifica" />
-						<evento data="20000514" fonte="rp6" id="t6" tipo="modifica" />
-						<evento data="19790916" fonte="ro1" id="t7" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="19830417" fonte="rp1" id="t1" tipo="modifica"/>
+						<evento data="19841228" fonte="rp2" id="t2" tipo="modifica"/>
+						<evento data="19840902" fonte="rp3" id="t3" tipo="modifica"/>
+						<evento data="20010701" fonte="rp4" id="t4" tipo="modifica"/>
+						<evento data="19791202" fonte="rp5" id="t5" tipo="modifica"/>
+						<evento data="20000430" fonte="rp6" id="t6" tipo="modifica"/>
+						<evento data="19790916" fonte="ro1" id="t7" tipo="entrata in vigore"/>
+					<evento data="19790916" fonte="ra1" id="t8" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1979-09-04;27" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1983;14" xlink:type="simple" />
-						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1984;30" xlink:type="simple" />
-						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:1984;22" xlink:type="simple" />
-						<passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2001;11" xlink:type="simple" />
-						<passiva id="rp5" xlink:href="urn:nir:regione.molise:legge:1979;33" xlink:type="simple" />
-						<passiva id="rp6" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1979-09-04;27" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1983;14" xlink:type="simple"/>
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1984;30" xlink:type="simple"/>
+						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:1984;22" xlink:type="simple"/>
+						<passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2001;11" xlink:type="simple"/>
+						<passiva id="rp5" xlink:href="urn:nir:regione.molise:legge:1979;33" xlink:type="simple"/>
+						<passiva id="rp6" xlink:href="urn:nir:regione.molise:legge:2000;31" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1973-08-03;16" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 01.Agricoltura, foreste, zootecnia, bonifica e irrigazione 

@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20020802" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20020802" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20020802" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2002-07-23;14" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2002-07-23;14" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1980-02-04;6" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 08.Demanio e patrimonio, beni di uso civico 

@@ -14,10 +14,10 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19770831" fonte="" id="t1" tipo="modifica" />
+						<evento data="19770831" fonte="" id="t1" tipo="modifica"/>
 					</eventi>
 					<relazioni>
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1977;22" xlink:type="simple" />
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1977;22" xlink:type="simple"/>
 					</relazioni>
 				</ciclodivita>
 			</meta>

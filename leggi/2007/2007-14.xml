@@ -14,15 +14,15 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20070509" fonte="ro1" id="t1" tipo="entrata in vigore" />
-						<evento data="20070721" fonte="rp1" id="t2" tipo="modifica" />
-						<evento data="20080527" fonte="rp2" id="t3" tipo="modifica" />
-					</eventi>
+						<evento data="20070509" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+						<evento data="20070721" fonte="rp1" id="t2" tipo="modifica"/>
+						<evento data="20080513" fonte="rp2" id="t3" tipo="modifica"/>
+					<evento data="20070509" fonte="ra1" id="t4" tipo="modifica"/><evento data="20070509" fonte="ra2" id="t5" tipo="modifica"/><evento data="20070509" fonte="ra3" id="t6" tipo="modifica"/><evento data="20070509" fonte="ra4" id="t7" tipo="modifica"/><evento data="20070509" fonte="ra5" id="t8" tipo="modifica"/><evento data="20070509" fonte="ra6" id="t9" tipo="modifica"/><evento data="20070509" fonte="ra7" id="t10" tipo="modifica"/><evento data="20070509" fonte="ra8" id="t11" tipo="modifica"/><evento data="20070509" fonte="ra9" id="t12" tipo="modifica"/><evento data="20070509" fonte="ra10" id="t13" tipo="modifica"/><evento data="20070509" fonte="ra11" id="t14" tipo="modifica"/><evento data="20070509" fonte="ra12" id="t15" tipo="modifica"/><evento data="20070509" fonte="ra13" id="t16" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2007-05-09;14" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;22" xlink:type="simple" />
-						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2008;12" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2007-05-09;14" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;22" xlink:type="simple"/>
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2008;12" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1993-08-10;19" xlink:type="simple"/><attiva id="ra2" xlink:href="urn:nir:regione.molise:legge:1995-01-27;4" xlink:type="simple"/><attiva id="ra3" xlink:href="urn:nir:regione.molise:legge:1998-07-30;7" xlink:type="simple"/><attiva id="ra4" xlink:href="urn:nir:regione.molise:legge:1999-12-13;38" xlink:type="simple"/><attiva id="ra5" xlink:href="urn:nir:regione.molise:legge:2000-01-12;3" xlink:type="simple"/><attiva id="ra6" xlink:href="urn:nir:regione.molise:legge:2000-04-26;32" xlink:type="simple"/><attiva id="ra7" xlink:href="urn:nir:regione.molise:legge:2005-03-04;7" xlink:type="simple"/><attiva id="ra8" xlink:href="urn:nir:regione.molise:legge:2005-05-27;24" xlink:type="simple"/><attiva id="ra9" xlink:href="urn:nir:regione.molise:legge:2005-11-21;42" xlink:type="simple"/><attiva id="ra10" xlink:href="urn:nir:regione.molise:legge:2006-06-26;11" xlink:type="simple"/><attiva id="ra11" xlink:href="urn:nir:regione.molise:legge:2006-08-10;20" xlink:type="simple"/><attiva id="ra12" xlink:href="urn:nir:regione.molise:legge:2006-10-02;34" xlink:type="simple"/><attiva id="ra13" xlink:href="urn:nir:regione.molise:legge:2006-12-28;42" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 				<redazionale xlink:type="simple">
 					<nota id="n1">

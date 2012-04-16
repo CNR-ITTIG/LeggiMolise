@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20051016" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20051016" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20051016" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2005-09-26;30" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2005-09-26;30" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1997-04-08;7" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 28 del 1 ottobre 2005 Oggetto Amministrazione regionale - Modifiche ed integrazioni alla L.R. 8 aprile 1997 n. 7 come modificata dalla L.R. 28 maggio 2002 n. 6?>

@@ -14,13 +14,13 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20010802" fonte="ro1" id="t1" tipo="entrata in vigore" />
-						<evento data="20070715" fonte="rp1" id="t2" tipo="modifica" />
-					</eventi>
+						<evento data="20010802" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+						<evento data="20070715" fonte="rp1" id="t2" tipo="modifica"/>
+					<evento data="20010802" fonte="ra1" id="t3" tipo="modifica"/><evento data="20010802" fonte="ra2" id="t4" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2001-07-17;18" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;17" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2001-07-17;18" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;17" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1999-10-11;35" xlink:type="simple"/><attiva id="ra2" xlink:href="urn:nir:regione.molise:legge:2000-04-26;35" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 

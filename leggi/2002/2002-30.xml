@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20021117" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20021117" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20021117" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2002-11-06;30" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2002-11-06;30" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1980-04-23;10" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 24 del 16 novembre 2002 Oggetto Tutela della salute mentale - Attivit&#xE0; - Organizzazione - Disciplina. Abrogazioni Modifiche ?>

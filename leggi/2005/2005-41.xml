@@ -14,13 +14,13 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20051201" fonte="ro1" id="t1" tipo="entrata in vigore" />
-						<evento data="20090531" fonte="rp1" id="t2" tipo="modifica" />
-					</eventi>
+						<evento data="20051201" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+						<evento data="20090531" fonte="rp1" id="t2" tipo="modifica"/>
+					<evento data="20051201" fonte="ra1" id="t3" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2005-11-11;41" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;16" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2005-11-11;41" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;16" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1995-02-13;6" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 18.Lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa 

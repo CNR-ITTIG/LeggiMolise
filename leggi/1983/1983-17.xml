@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19830702" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="19830702" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="19830702" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1983-06-16;17" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1983-06-16;17" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1978-11-13;28" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione 

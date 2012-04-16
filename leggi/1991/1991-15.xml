@@ -14,17 +14,17 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="" fonte="rp1" id="t1" tipo="modifica" />
-						<evento data="20100416" fonte="rp2" id="t2" tipo="modifica" />
-						<evento data="20100916" fonte="rp3" id="t3" tipo="modifica" />
-						<evento data="20051016" fonte="rp4" id="t4" tipo="modifica" />
-					</eventi>
+						<evento data="20090516" fonte="rp1" id="t1" tipo="modifica"/>
+						<evento data="20100402" fonte="rp2" id="t2" tipo="modifica"/>
+						<evento data="20100902" fonte="rp3" id="t3" tipo="modifica"/>
+						<evento data="19970417" fonte="rp4" id="t4" tipo="modifica"/>
+					<evento data="19911001" fonte="ra1" id="t5" tipo="modifica"/><evento data="19911001" fonte="ra2" id="t6" tipo="modifica"/></eventi>
 					<relazioni>
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;15" xlink:type="simple" />
-						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2010;10" xlink:type="simple" />
-						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2010;16" xlink:type="simple" />
-						<passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:1997;07" xlink:type="simple" />
-					</relazioni>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2009;15" xlink:type="simple"/>
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2010;10" xlink:type="simple"/>
+						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2010;16" xlink:type="simple"/>
+						<passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:1997;07" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1985-04-29;14" xlink:type="simple"/><attiva id="ra2" xlink:href="urn:nir:regione.molise:legge:1988-04-26;12" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte 

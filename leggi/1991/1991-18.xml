@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19911101" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="19911101" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="19911101" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1991-10-28;18" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1991-10-28;18" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1972-02-16;2" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 35.Tributi 

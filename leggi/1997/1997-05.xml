@@ -14,13 +14,13 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19970416" fonte="ro1" id="t1" tipo="entrata in vigore" />
-						<evento data="20070501" fonte="rp1" id="t2" tipo="modifica" />
-					</eventi>
+						<evento data="19970416" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+						<evento data="20070501" fonte="rp1" id="t2" tipo="modifica"/>
+					<evento data="19970416" fonte="ra1" id="t3" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1997-03-18;5" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;10" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1997-03-18;5" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;10" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1995-01-27;3" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 04.Assistenza sociale, volontariato 

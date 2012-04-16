@@ -14,12 +14,12 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20070302" fonte="ro1" id="t1" tipo="entrata in vigore" />
-						<evento data="20080609" fonte="rp1" id="t2" tipo="illegittimità" />
+						<evento data="20070302" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+						<evento data="" fonte="rp1" id="t2" tipo="illegittimitÃ "/>
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2007-02-23;4" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:corte.costituzionale:sentenza:2008-06-09;201" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2007-02-23;4" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:corte.costituzionale:sentenza:2008-06-09;201" xlink:type="simple"/>
 					</relazioni>
 				</ciclodivita>
 				<redazionale xlink:type="simple">

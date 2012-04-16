@@ -14,15 +14,15 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19990817" fonte="ro1" id="t1" tipo="entrata in vigore" />
-						<evento data="20060716" fonte="rp1" id="t2" tipo="modifica" />
-						<evento data="20080816" fonte="rp2" id="t3" tipo="modifica" />
-					</eventi>
+						<evento data="19990817" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+						<evento data="20060702" fonte="rp1" id="t2" tipo="modifica"/>
+						<evento data="20070916" fonte="rp2" id="t3" tipo="modifica"/>
+					<evento data="19990817" fonte="ra1" id="t4" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-08-03;27" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2006;10" xlink:type="simple" />
-						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2007;24" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-08-03;27" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2006;10" xlink:type="simple"/>
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2007;24" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1995-03-30;10" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 18.Lavoro, cooperazione, politiche dell'occupazione e previdenza complementare e integrativa 

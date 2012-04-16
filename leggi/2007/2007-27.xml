@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20071205" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20071205" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20071205" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2007-11-30;27" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2007-11-30;27" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1995-01-09;1" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 13.Formazione professionale, istruzione, assistenza scolastica, edilizia scolastica, università Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 28 del 4 dicembre 2007 Oggetto Diritto allo studio universitario - Modifiche alla l.r. 9 gennaio 1995 n. 1?>

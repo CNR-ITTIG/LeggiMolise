@@ -14,16 +14,16 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19870531" fonte="rp1" id="t1" tipo="modifica" />
-						<evento data="19820716" fonte="rp2" id="t2" tipo="modifica" />
-						<evento data="20100530" fonte="rp3" id="t3" tipo="modifica" />
-						<evento data="19820202" fonte="ro1" id="t4" tipo="entrata in vigore" />
+						<evento data="19870517" fonte="rp1" id="t1" tipo="modifica"/>
+						<evento data="19820702" fonte="rp2" id="t2" tipo="modifica"/>
+						<evento data="20100516" fonte="rp3" id="t3" tipo="modifica"/>
+						<evento data="19820202" fonte="ro1" id="t4" tipo="entrata in vigore"/>
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1982-01-20;5" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1987;04" xlink:type="simple" />
-						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1982;11" xlink:type="simple" />
-						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1982-01-20;5" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1987;04" xlink:type="simple"/>
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1982;11" xlink:type="simple"/>
+						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:2010;13" xlink:type="simple"/>
 					</relazioni>
 				</ciclodivita>
 			</meta>

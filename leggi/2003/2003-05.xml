@@ -14,13 +14,13 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20030216" fonte="ro1" id="t1" tipo="entrata in vigore" />
-						<evento data="20030531" fonte="rp1" id="t2" tipo="modifica" />
-					</eventi>
+						<evento data="20030216" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+						<evento data="" fonte="rp1" id="t2" tipo="modifica"/>
+					<evento data="20030216" fonte="ra1" id="t3" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2003-01-27;5" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2003-05-07;16" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2003-01-27;5" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2003-05-07;16" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1998-07-30;7" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 2 del 1 febbraio 2003 Oggetto Legge Regionale del 30 Luglio 1998 n° 7 - Modifiche ed integrazioni.Abrogazioni Modifiche Modificato art. 1 dalla legge n. 16/2003 art. 2?>

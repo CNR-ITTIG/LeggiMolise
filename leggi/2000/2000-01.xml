@@ -14,13 +14,13 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20000130" fonte="ro1" id="t1" tipo="entrata in vigore" />
-						<evento data="20070825" fonte="rp1" id="t2" tipo="modifica" />
-					</eventi>
+						<evento data="20000130" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+						<evento data="20070811" fonte="rp1" id="t2" tipo="modifica"/>
+					<evento data="20000130" fonte="ra1" id="t3" tipo="modifica"/><evento data="20000130" fonte="ra2" id="t4" tipo="modifica"/><evento data="20000130" fonte="ra3" id="t5" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2000-01-07;1" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;23" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2000-01-07;1" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2007;23" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1972-10-13;14" xlink:type="simple"/><attiva id="ra2" xlink:href="urn:nir:regione.molise:legge:1972-12-20;22" xlink:type="simple"/><attiva id="ra3" xlink:href="urn:nir:regione.molise:legge:1975-01-13;1" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 04.Assistenza sociale, volontariato 

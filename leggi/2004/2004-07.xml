@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20040402" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20040402" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20040402" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2004-03-24;7" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2004-03-24;7" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:2003-01-27;2" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 15.Industria 

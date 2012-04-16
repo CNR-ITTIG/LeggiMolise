@@ -14,15 +14,15 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19880701" fonte="rp1" id="t1" tipo="modifica" />
-						<evento data="19930831" fonte="rp2" id="t2" tipo="modifica" />
-						<evento data="19790802" fonte="ro1" id="t3" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="19880617" fonte="rp1" id="t1" tipo="modifica"/>
+						<evento data="19930817" fonte="rp2" id="t2" tipo="modifica"/>
+						<evento data="19790802" fonte="ro1" id="t3" tipo="entrata in vigore"/>
+					<evento data="19790802" fonte="ra1" id="t4" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1979-07-27;20" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1988;14" xlink:type="simple" />
-						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1993;19" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1979-07-27;20" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1988;14" xlink:type="simple"/>
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1993;19" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1979-02-01;4" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 12.Flora, fauna, caccia, pesca e fruizione della produzione naturale e spontanea 

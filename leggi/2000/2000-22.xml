@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20000416" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20000416" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20000416" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2000-04-13;22" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2000-04-13;22" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1999-09-29;34" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 22.Organizzazione delle funzioni amministrative a livello regionale e locale 

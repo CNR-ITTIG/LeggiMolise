@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20080202" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20080202" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20080202" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2008-01-21;1" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2008-01-21;1" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:2007-01-26;2" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 2 del 1 febbraio 2008 Oggetto Consiglio regionale - Commissioni a carattere temporaneo - Istituzione della "Commissione per l'Autoriforma del Molise" - Modifiche alla l.r. 26 gennaio 2007 n. 2 Abrogato art. 3 dalla legge n. 12/2008 art. 13?>

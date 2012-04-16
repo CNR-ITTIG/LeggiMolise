@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19950416" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="19950416" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="19950416" fonte="ra1" id="t2" tipo="modifica"/><evento data="19950416" fonte="ra2" id="t3" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1995-04-12;14" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1995-04-12;14" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1979-07-14;19" xlink:type="simple"/><attiva id="ra2" xlink:href="urn:nir:regione.molise:legge:1989-12-01;24" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 14.Governo del territorio, urbanistica, edilizia 

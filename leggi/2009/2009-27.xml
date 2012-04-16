@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20091029" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20091029" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20091029" fonte="ra1" id="t2" tipo="modifica"/><evento data="20091029" fonte="ra2" id="t3" tipo="modifica"/><evento data="20091029" fonte="ra3" id="t4" tipo="modifica"/><evento data="20091029" fonte="ra4" id="t5" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2009-10-26;27" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2009-10-26;27" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1995-03-30;10" xlink:type="simple"/><attiva id="ra2" xlink:href="urn:nir:regione.molise:legge:2000-03-22;16" xlink:type="simple"/><attiva id="ra3" xlink:href="urn:nir:regione.molise:legge:2003-11-07;28" xlink:type="simple"/><attiva id="ra4" xlink:href="urn:nir:regione.molise:legge:2009-01-13;2" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 25 del 29 ottobre 2009 Oggetto Bilancio di previsione 2009 - Assestamento - (Nuova disciplina della "Finanziaria Regionale per lo Sviluppo del Molise - FINMOLISE S.p.A." - Modifiche Abrogazioni Modifiche.?>

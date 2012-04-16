@@ -15,11 +15,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20070916" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20070916" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20070916" fonte="ra1" id="t2" tipo="modifica"/><evento data="20070916" fonte="ra2" id="t3" tipo="modifica"/><evento data="20070916" fonte="ra3" id="t4" tipo="modifica"/><evento data="20070916" fonte="ra4" id="t5" tipo="modifica"/><evento data="20070916" fonte="ra5" id="t6" tipo="modifica"/><evento data="20070916" fonte="ra6" id="t7" tipo="modifica"/><evento data="20070916" fonte="ra7" id="t8" tipo="modifica"/><evento data="20070916" fonte="ra8" id="t9" tipo="modifica"/><evento data="20070916" fonte="ra9" id="t10" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2007-09-12;24" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2007-09-12;24" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1980-12-11;37" xlink:type="simple"/><attiva id="ra2" xlink:href="urn:nir:regione.molise:legge:1982-01-04;3" xlink:type="simple"/><attiva id="ra3" xlink:href="urn:nir:regione.molise:legge:1992-05-26;15" xlink:type="simple"/><attiva id="ra4" xlink:href="urn:nir:regione.molise:legge:1995-01-09;1" xlink:type="simple"/><attiva id="ra5" xlink:href="urn:nir:regione.molise:legge:1997-04-08;7" xlink:type="simple"/><attiva id="ra6" xlink:href="urn:nir:regione.molise:legge:1999-08-03;27" xlink:type="simple"/><attiva id="ra7" xlink:href="urn:nir:regione.molise:legge:1999-12-01;37" xlink:type="simple"/><attiva id="ra8" xlink:href="urn:nir:regione.molise:legge:2004-11-23;27" xlink:type="simple"/><attiva id="ra9" xlink:href="urn:nir:regione.molise:legge:2004-12-17;33" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 07.Contabilità e contratti, bilanci, manovre finanziarie, armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica 21.Ordinamento e organizzazione regionale e degli enti dipendenti e vigilati, organi della Regione, organizzazione degli uffici e politiche del personale, commissioni, comitati e consulte Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE N. 21 del 15 settembre 2007 Oggetto Legge regionale n.8/2007 - Programma di razionalizzazione della spesa - Attuazione Abrogazioni Modifiche Modificato art. 12 dalla legge n. 31/2007 art. 1 Modificato art. 12 dalla legge n. 8/2008 art. 1 Modificato art. 12 dalla legge n. 26/2008 art. 1 ?>

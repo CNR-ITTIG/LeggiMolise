@@ -14,18 +14,18 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19840531" fonte="rp1" id="t1" tipo="modifica" />
-						<evento data="19930530" fonte="rp2" id="t2" tipo="modifica" />
-						<evento data="19820731" fonte="rp3" id="t3" tipo="modifica" />
-						<evento data="20020523" fonte="rp4" id="t4" tipo="modifica" />
-						<evento data="19771231" fonte="ro1" id="t5" tipo="entrata in vigore" />
+						<evento data="19840531" fonte="rp1" id="t1" tipo="modifica"/>
+						<evento data="19930516" fonte="rp2" id="t2" tipo="modifica"/>
+						<evento data="19820731" fonte="rp3" id="t3" tipo="modifica"/>
+						<evento data="20020508" fonte="rp4" id="t4" tipo="modifica"/>
+						<evento data="19771231" fonte="ro1" id="t5" tipo="entrata in vigore"/>
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1977-12-03;44" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1984;13" xlink:type="simple" />
-						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1993;13" xlink:type="simple" />
-						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:1982;18" xlink:type="simple" />
-						<passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2002;04" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1977-12-03;44" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1984;13" xlink:type="simple"/>
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:1993;13" xlink:type="simple"/>
+						<passiva id="rp3" xlink:href="urn:nir:regione.molise:legge:1982;18" xlink:type="simple"/>
+						<passiva id="rp4" xlink:href="urn:nir:regione.molise:legge:2002;04" xlink:type="simple"/>
 					</relazioni>
 				</ciclodivita>
 			</meta>

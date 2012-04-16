@@ -14,12 +14,12 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19790930" fonte="rp1" id="t1" tipo="modifica" />
-						<evento data="19730814" fonte="ro1" id="t2" tipo="entrata in vigore" />
+						<evento data="19790916" fonte="rp1" id="t1" tipo="modifica"/>
+						<evento data="19730814" fonte="ro1" id="t2" tipo="entrata in vigore"/>
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1973-08-03;16" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1979;27" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1973-08-03;16" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1979;27" xlink:type="simple"/>
 					</relazioni>
 				</ciclodivita>
 			</meta>

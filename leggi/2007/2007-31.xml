@@ -15,10 +15,10 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20080101" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="20080101" fonte="ro1" id="t1" tipo="entrata in vigore"/>
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2007-12-31;31" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2007-12-31;31" xlink:type="simple"/>
 					</relazioni>
 				</ciclodivita>
 			</meta>

@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19991016" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="19991016" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="19991016" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-09-22;31" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1999-09-22;31" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1989-12-01;24" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 14.Governo del territorio, urbanistica, edilizia 

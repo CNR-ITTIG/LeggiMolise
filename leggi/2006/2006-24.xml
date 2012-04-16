@@ -14,11 +14,11 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20060902" fonte="ro1" id="t1" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="20060902" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+					<evento data="20060902" fonte="ra1" id="t2" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2006-08-29;24" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2006-08-29;24" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:2005-03-04;7" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 37.Tutela della salute umana, animale e dell'ambiente, servizio sanitario, alimentazione Bollettino BOLLETTINO UFFICIALE DELLA REGIONE MOLISE - N. 25 del 1 settembre 2006 Oggetto Legge regionale 4 marzo 2005 n. 7 "Nuove norme per la protezione dei cani e per l'istituzione dell'anagrafe canina" - Modifiche ed integrazioni?>

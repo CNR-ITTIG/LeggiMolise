@@ -14,13 +14,13 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19980829" fonte="rp1" id="t1" tipo="modifica" />
-						<evento data="19891001" fonte="ro1" id="t2" tipo="entrata in vigore" />
-					</eventi>
+						<evento data="19980815" fonte="rp1" id="t1" tipo="modifica"/>
+						<evento data="19891001" fonte="ro1" id="t2" tipo="entrata in vigore"/>
+					<evento data="19891001" fonte="ra1" id="t3" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1989-09-13;18" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1998;12" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1989-09-13;18" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:1998;12" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1984-10-26;28" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 03.Assistenza abitativa 

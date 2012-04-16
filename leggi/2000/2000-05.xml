@@ -14,15 +14,15 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20000116" fonte="ro1" id="t1" tipo="entrata in vigore" />
-						<evento data="20060427" fonte="rp1" id="t2" tipo="modifica" />
-						<evento data="20110204" fonte="rp2" id="t3" tipo="modifica" />
-					</eventi>
+						<evento data="20000116" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+						<evento data="20060412" fonte="rp1" id="t2" tipo="modifica"/>
+						<evento data="" fonte="rp2" id="t3" tipo="modifica"/>
+					<evento data="20000116" fonte="ra1" id="t4" tipo="modifica"/><evento data="20000116" fonte="ra2" id="t5" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2000-01-12;5" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2006;3" xlink:type="simple" />
-						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2011;2" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2000-01-12;5" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:regione.molise:legge:2006;3" xlink:type="simple"/>
+						<passiva id="rp2" xlink:href="urn:nir:regione.molise:legge:2011;2" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:1975-04-28;32" xlink:type="simple"/><attiva id="ra2" xlink:href="urn:nir:regione.molise:legge:1987-05-19;7" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 			</meta>
 			<?error 30.Promozione e organizzazione di attività culturali e delle tradizioni locali, associazionismo 

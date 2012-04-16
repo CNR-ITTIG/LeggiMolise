@@ -14,10 +14,10 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="19980829" fonte="ro1" id="t1" tipo="entrata in vigore" />
+						<evento data="19980829" fonte="ro1" id="t1" tipo="entrata in vigore"/>
 					</eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1998-08-04;15" xlink:type="simple" />
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:1998-08-04;15" xlink:type="simple"/>
 					</relazioni>
 				</ciclodivita>
 			</meta>

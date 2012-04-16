@@ -14,13 +14,13 @@
 				</descrittori>
 				<ciclodivita>
 					<eventi>
-						<evento data="20041001" fonte="ro1" id="t1" tipo="entrata in vigore" />
-						<evento data="20051012" fonte="rp1" id="t2" tipo="illegittimit�" />
-					</eventi>
+						<evento data="20041001" fonte="ro1" id="t1" tipo="entrata in vigore"/>
+						<evento data="" fonte="rp1" id="t2" tipo="illegittimitÃ "/>
+					<evento data="20041001" fonte="ra1" id="t3" tipo="modifica"/></eventi>
 					<relazioni>
-						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2004-08-31;18" xlink:type="simple" />
-						<passiva id="rp1" xlink:href="urn:nir:corte.costituzionale:sentenza:2005-10-12;397" xlink:type="simple" />
-					</relazioni>
+						<originale id="ro1" xlink:href="urn:nir:regione.molise:legge:2004-08-31;18" xlink:type="simple"/>
+						<passiva id="rp1" xlink:href="urn:nir:corte.costituzionale:sentenza:2005-10-12;397" xlink:type="simple"/>
+					<attiva id="ra1" xlink:href="urn:nir:regione.molise:legge:2003-01-13;1" xlink:type="simple"/></relazioni>
 				</ciclodivita>
 				<redazionale xlink:type="simple">
 					<nota id="n1">
